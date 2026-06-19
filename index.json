@@ -1,0 +1,28 @@
+{
+  "repo_name": "Artigos Acadêmicos Licenciados",
+  "last_updated": 1781829600000,
+  "articles": [
+    {
+      "id": "art_001",
+      "title": "A Metafísica na Modernidade",
+      "author": "Dr. Heleno Salgado",
+      "summary": "Uma análise profunda sobre a evolução dos conceitos ontológicos modernos, sua relação com o racionalismo cartesiano e o empirismo britânico.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/articles/metafisica.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/covers/metafisica.webp",
+      "categories": ["Filosofia", "Metafísica"],
+      "published_at": 1781298400000,
+      "estimated_reading_time_min": 15
+    },
+    {
+      "id": "art_002",
+      "title": "Introdução à Programação Funcional em Kotlin",
+      "author": "Heleno Salgado",
+      "summary": "Explorando os fundamentos do paradigma funcional em Kotlin: imutabilidade, funções puras, lambdas de alta ordem e tipos monádicos.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/articles/kotlin_funcional.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/covers/kotlin_funcional.webp",
+      "categories": ["Programação", "Kotlin"],
+      "published_at": 1781300000000,
+      "estimated_reading_time_min": 10
+    }
+  ]
+}
