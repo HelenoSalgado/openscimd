@@ -3,6 +3,8 @@ title: A Metafísica na Modernidade
 author: Dr. Heleno Salgado
 category: Filosofia, Metafísica
 date: 2026-06-18
+summary: "Uma análise profunda sobre a evolução dos conceitos ontológicos modernos, sua relação com o racionalismo cartesiano e o empirismo britânico."
+license: "CC BY-NC 4.0"
 ---
 
 # A Metafísica na Modernidade: Uma Introdução Crítica

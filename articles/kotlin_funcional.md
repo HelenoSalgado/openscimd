@@ -3,6 +3,8 @@ title: Introdução à Programação Funcional em Kotlin
 author: Heleno Salgado
 category: Programação, Kotlin
 date: 2026-06-18
+summary: "Explorando os fundamentos do paradigma funcional em Kotlin: imutabilidade, funções puras, lambdas de alta ordem e tipos monádicos."
+license: "CC BY-NC 4.0"
 ---
 
 # Introdução à Programação Funcional em Kotlin
