@@ -49,6 +49,18 @@ Para verificar a qualidade de formatação dos artigos, checar se há erros de d
 node scripts/test-articles.js
 ```
 
+### 4. Gerar Capa de Artigo via IA (Recomendado: Google Gemini)
+Para gerar automaticamente uma imagem de capa abstrata e conceitual baseada no título e resumo de um artigo usando o Google Gemini, configure o arquivo `.env` e execute:
+```bash
+# Listar modelos compatíveis:
+node scripts/gemini_ai_generate_cover.js --list
+
+# Gerar capa:
+node scripts/gemini_ai_generate_cover.js <nome-do-artigo> ["estilo-opcional"]
+```
+
+*(Também é possível utilizar o gerador genérico HTTP POST rodando `node scripts/ia_generate-cover.js <nome-do-artigo>`).*
+
 ---
 
 ## 🤝 Como Contribuir
@@ -58,3 +70,4 @@ Toda contribuição acadêmica ou técnica é muito bem-vinda! Se você deseja s
 1. **Entenda os Bastidores**: Leia o nosso guia de [Arquitetura e Funcionamento do Repositório](docs/arquitetura.md).
 2. **Saiba como Publicar**: Siga o passo a passo em [Fluxo de Trabalho e Contribuição](docs/fluxo-de-trabalho.md).
 3. **Diretrizes de Metadados**: Veja a lista de chaves YAML recomendadas para artigos científicos em [Diretrizes de Metadados Acadêmicos (MDC)](docs/metadata_guidelines.md).
+4. **Gerador de Capas e Identidade Visual**: Entenda as diretrizes estéticas e o funcionamento do criador automático em [Modelo e Geração de Capas](docs/gerador-de-capas.md).

@@ -33,7 +33,11 @@ DOI: "10.33864/2790-0037.2025.v6.i5.101-112"
 > Se houver múltiplos autores, utilize a chave `authors` (lista). Se houver apenas um autor, pode optar por usar a chave simples `author: "Nome do Autor"`. O script omitirá automaticamente a chave que não for relevante para manter o JSON final eficiente.
 
 ### Passo 2: Adicionar Imagens de Capa e o PDF Original (Opcionais)
-* **Imagem de Capa**: Adicione o arquivo de imagem na pasta `covers/` com o exato mesmo nome do arquivo do artigo (ex: `covers/reformas-filosoficas-de-petrus-ramus.webp`). O script verificará o arquivo e utilizará a extensão correta.
+* **Imagem de Capa**: Você pode criar a imagem de fundo manualmente na pasta `covers/` ou usar o nosso gerador automático via Inteligência Artificial rodando:
+  ```bash
+  node scripts/ia_generate-cover.js nome-do-artigo
+  ```
+  *(Para detalhes de estilo e configuração da API de IA, consulte o guia de [Modelo e Geração de Capas](gerador-de-capas.md)).*
 * **PDF Original**: Adicione o arquivo `.pdf` correspondente na pasta `pdfs/` com o mesmo nome (ex: `pdfs/reformas-filosoficas-de-petrus-ramus.pdf`).
 
 ### Passo 3: Executar a Atualização do Índice

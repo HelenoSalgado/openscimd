@@ -1,0 +1,14 @@
+{
+  "name": "md-academics",
+  "version": "1.0.0",
+  "description": "Repositório de Artigos Acadêmicos e Científicos",
+  "main": "scripts/update-index.js",
+  "scripts": {
+    "update-index": "node scripts/update-index.js",
+    "test-index": "node scripts/test-index.js",
+    "test-articles": "node scripts/test-articles.js"
+  },
+  "dependencies": {
+    "@google/genai": "*"
+  }
+}
