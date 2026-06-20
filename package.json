@@ -6,9 +6,13 @@
   "scripts": {
     "update-index": "node scripts/update-index.js",
     "test-index": "node scripts/test-index.js",
-    "test-articles": "node scripts/test-articles.js"
+    "test-articles": "node scripts/test-articles.js",
+    "convert-covers": "node scripts/convert-covers.js"
   },
   "dependencies": {
     "@google/genai": "*"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.2"
   }
 }
