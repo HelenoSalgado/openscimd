@@ -25,9 +25,39 @@ jobs:
       - name: Run update-index script
         run: node scripts/update-index.js
 
+      - name: Check if index.json changed
+        id: check_changes
+        run: |
+          git add index.json
+          if git diff --cached --quiet index.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
       - name: Commit and push changes if index.json changed
+        if: steps.check_changes.outputs.changed == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add index.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update index.json [skip ci]" && git push)
+          git commit -m "chore: auto-update index.json [skip ci]"
+          git push
+
+      - name: Trigger Cloudflare build hook
+        if: steps.check_changes.outputs.changed == 'true'
+        env:
+          LEIA_ME_API_URL: ${{ secrets.LEIA_ME_API_URL || vars.LEIA_ME_API_URL }}
+          LEIA_ME_API_TOKEN: ${{ secrets.LEIA_ME_API_TOKEN || vars.LEIA_ME_API_TOKEN }}
+        run: |
+          if [ -z "$LEIA_ME_API_URL" ]; then
+            echo "❌ Erro: LEIA_ME_API_URL não está configurada nas configurações do repositório."
+            exit 1
+          fi
+          echo "🚀 Disparando build hook na Cloudflare..."
+          if [ -n "$LEIA_ME_API_TOKEN" ]; then
+            curl -s -f -X POST -H "Authorization: Bearer $LEIA_ME_API_TOKEN" "$LEIA_ME_API_URL"
+          else
+            curl -s -f -X POST "$LEIA_ME_API_URL"
+          fi
+          echo "✅ Build hook disparado com sucesso!"
+
