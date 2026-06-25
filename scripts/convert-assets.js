@@ -21,12 +21,20 @@ const SCREEN_SIZES = {
   desktop: 1200
 };
 
+const ORIGINALS_DIR = path.join(ASSETS_DIR, 'originals');
+
 async function convertAssets() {
   console.log('🖼️  Iniciando a conversão de assets em:', ASSETS_DIR);
 
   if (!fs.existsSync(ASSETS_DIR)) {
     console.error(`Erro: Diretório ${ASSETS_DIR} não encontrado.`);
     return;
+  }
+
+  // Garantir que a pasta de originais exista
+  if (!fs.existsSync(ORIGINALS_DIR)) {
+    fs.mkdirSync(ORIGINALS_DIR, { recursive: true });
+    console.log('📁 Pasta criada: assets/originals');
   }
 
   // Garantir que as subpastas existam
@@ -38,22 +46,32 @@ async function convertAssets() {
     }
   }
 
-  // Listar arquivos no diretório assets (sem recursão para evitar subpastas já criadas)
-  const files = fs.readdirSync(ASSETS_DIR);
   const imageExtensions = ['.jpg', '.jpeg', '.png', '.webp'];
-  let processedCount = 0;
 
-  for (const file of files) {
+  // Mover imagens soltas no diretório pai assets/ para a pasta assets/originals/
+  const rootFiles = fs.readdirSync(ASSETS_DIR);
+  for (const file of rootFiles) {
     const fullPath = path.join(ASSETS_DIR, file);
     const stat = fs.statSync(fullPath);
-
-    // Ignorar diretórios
     if (stat.isDirectory()) {
       continue;
     }
-
     const ext = path.extname(file).toLowerCase();
     if (imageExtensions.includes(ext)) {
+      const destPath = path.join(ORIGINALS_DIR, file);
+      fs.renameSync(fullPath, destPath);
+      console.log(`📦 Mapeado original para pasta originals: ${file}`);
+    }
+  }
+
+  // Listar arquivos no diretório de originais
+  const files = fs.readdirSync(ORIGINALS_DIR);
+  let processedCount = 0;
+
+  for (const file of files) {
+    const ext = path.extname(file).toLowerCase();
+    if (imageExtensions.includes(ext)) {
+      const inputPath = path.join(ORIGINALS_DIR, file);
       const baseName = path.basename(file, ext);
       const outputName = `${baseName}.webp`;
 
@@ -67,7 +85,7 @@ async function convertAssets() {
           // Redimensiona proporcionalmente mantendo a proporção (aspect ratio)
           // `withoutEnlargement: true` garante que se a imagem original for menor que a largura de destino,
           // ela não será ampliada artificialmente, preservando a qualidade.
-          await sharp(fullPath)
+          await sharp(inputPath)
             .resize({
               width: width,
               withoutEnlargement: true

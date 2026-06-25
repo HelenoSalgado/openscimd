@@ -1,6 +1,6 @@
 {
   "repo_name": "Artigos Acadêmicos Licenciados",
-  "last_updated": 1782021888790,
+  "last_updated": 1782353939282,
   "articles": [
     {
       "id": "art_004",
@@ -8,7 +8,7 @@
       "author": "Hiroko Konishi",
       "summary": "No discurso científico e institucional, um padrão recorrente e robusto pode ser observado: quanto mais cuidadosamente uma parte prejudicada documenta um problema estrutural, mais fácil se torna para os observadores remarcá-lo como uma “queixa pessoal...",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/articles/alucinacoes-induzidas-e-o-loop-de-correcoes-falsas-em-llms.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/covers/alucinacoes-induzidas-e-o-loop-de-correcoes-falsas-em-llms.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/covers/mobile/alucinacoes-induzidas-e-o-loop-de-correcoes-falsas-em-llms.webp",
       "categories": [
         "IA"
       ],
@@ -16,34 +16,66 @@
       "estimated_reading_time_min": 12
     },
     {
-      "id": "art_002",
-      "title": "Introdução à Programação Funcional em Kotlin",
-      "author": "Heleno Salgado",
-      "summary": "Explorando os fundamentos do paradigma funcional em Kotlin: imutabilidade, funções puras, lambdas de alta ordem e tipos monádicos.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/articles/kotlin_funcional.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/covers/kotlin_funcional.webp",
-      "categories": [
-        "Programação",
-        "Kotlin"
+      "id": "art_005",
+      "title": "DA UNIVERSIDADE QUINHENTISTA DE PARIS PARA O MUNDO: CURRÍCULO E MÉTODO EM PETRUS RAMUS",
+      "authors": [
+        {
+          "name": "Jorge Ramos do Ó",
+          "orcid": "0000-0003-1013-9244",
+          "email": "jorge.o@ie.ulisboa.pt",
+          "affiliation": "Universidade de Lisboa (ULisboa), Instituto de Educação (IE), Unidade de Investigação e Desenvolvimento em Educação e Formação (Uidef), Lisboa, Portugal"
+        },
+        {
+          "name": "Ana Luísa Paz",
+          "orcid": "0000-0003-4848-8183",
+          "email": "apaz@campus.ul.pt",
+          "affiliation": "Universidade de Lisboa (ULisboa), Instituto de Educação (IE), Unidade de Investigação e Desenvolvimento em Educação e Formação (Uidef), Lisboa, Portugal"
+        }
       ],
-      "published_at": 1781740800000,
-      "estimated_reading_time_min": 2,
-      "license": "CC BY-NC 4.0"
+      "summary": "Propomos uma discussão historicamente situada acerca da organização e administração, na cultura ocidental, de um saber inteiramente escolar, caracterizado pelos princípios da ordem e da uniformidade, e que se expressa em monografias - de tipo compendiário e manualístico -, produzidas para circular unicamente nos estabelecimentos de ensino. A análise recuará até ao espaço universitário do Renascimento e aos primeiros debates sobre a premência de um dispositivo de sistematização do conhecimento, onde Petrus Ramus aparece como uma personagem conceptual e onde se descobre um diagnóstico seminal assente sobre um gesto educativo como supondo uma dupla articulação: (i) o currículo é o invariante que permite racionalizar todo conhecimento através de disciplinas unidas num plano de estudos, ao passo que (ii) o método constitui a possibilidade de estabilizar e simplificar, de articular e graduar todos os conteúdos escolares.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/articles/da-universidade-quinhentista-de-paris-para-o-mundo-curriculo-e-metodo-em-petrus-ramus.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/covers/mobile/da-universidade-quinhentista-de-paris-para-o-mundo-curriculo-e-metodo-em-petrus-ramus.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/pdfs/da-universidade-quinhentista-de-paris-para-o-mundo-curriculo-e-metodo-em-petrus-ramus.pdf",
+      "categories": [
+        "História da Educação",
+        "Educação"
+      ],
+      "published_at": 1547164800000,
+      "estimated_reading_time_min": 34,
+      "doi": "10.1590/2236-3459/83768",
+      "license": "Direitos autorais: Associação Sul-Rio-Grandense de Pesquisadores em História da Educação - Asphe. Artigo de acesso aberto distribuído nos termos de licença Creative Commons.",
+      "journal": "Revista História da Educação (Online)",
+      "volume": "23",
+      "pages": "1-33"
     },
     {
-      "id": "art_001",
-      "title": "A Metafísica na Modernidade",
-      "author": "Dr. Heleno Salgado",
-      "summary": "Uma análise profunda sobre a evolução dos conceitos ontológicos modernos, sua relação com o racionalismo cartesiano e o empirismo britânico.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/articles/metafisica.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/covers/metafisica.webp",
-      "categories": [
-        "Filosofia",
-        "Metafísica"
+      "id": "art_006",
+      "title": "O LEGADO DE PETRUS RAMUS E O TRATADO VIA REGIA AD GEOMETRIAM",
+      "authors": [
+        {
+          "name": "Francisco Hemerson Brito da Silva",
+          "affiliation": "Universidade Estadual do Ceará",
+          "email": "francisco.hemerson@aluno.uece.br"
+        },
+        {
+          "name": "Ana Carolina Costa Pereira",
+          "affiliation": "Universidade Estadual do Ceará",
+          "email": "carolina.pereira@uece.br"
+        }
       ],
-      "published_at": 1781740800000,
-      "estimated_reading_time_min": 2,
-      "license": "CC BY-NC 4.0"
+      "summary": "Entre meados dos séculos XVI e XVII, se proliferou uma rica literatura dedicada a geometria prática que impulsionou a produção de tratados para auxiliar nos procedimentos manuais, executados pelos trabalhadores do período. Nesse contexto, o tratado Via regia ad geometriam, escrito e publicado originalmente na Suíça em 1596 pelo francês Petrus Ramus (1515 – 1572), passando a ganhar notoriedade como um dos documentos mais disseminados pela impressa medieval. O exemplar trazia consigo uma organização diferencial dos conhecimentos matemáticos existentes em sua época, que são incorporados em algumas maneiras de medir áreas de superfícies, volume de sólidos, junto ao cálculo de distâncias, tais como comprimento, altura e largura. Desta forma, o artigo tem o intuito de apresentar uma descrição sobre o tratado em questão, destacando alguns elementos matemáticos presentes em seu corpo, junto a uma breve biografia do autor, com suas principais obras e seus preceitos. Ao desenvolver o estudo, utilizou-se uma metodologia bibliográfica-descritiva, com cunho qualitativo, a partir da leitura de livros e artigos que versam sobre a temática estudada, a fim de recolher informações consistentes. No decorrer da pesquisa, observou-se um desenvolvimento sistemático no tratado de Petrus Ramus sobre os elementos matemáticos, sendo descrito em um dos capítulos, o instrumento intitulado por báculo que auxiliava nos procedimentos de medição, por meios desses componentes. Assim, concluiu-se que o documento histórico em questão, contribuiu de forma sucinta ao fornecer subsídios de mensuração para algumas profissões, visto que, era uma das principais atividades desenvolvidas no meio rural e urbano, bastando ter noções sobre as matemáticas do período para utilizá-lo.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/articles/o-legado-de-petrus-ramus-e-o-tradado-via-regia-ad-geometram.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/covers/mobile/o-legado-de-petrus-ramus-e-o-tradado-via-regia-ad-geometram.webp",
+      "categories": [
+        "Matemática"
+      ],
+      "published_at": 1577836800000,
+      "estimated_reading_time_min": 22,
+      "doi": "10.30938/bocehm.v7i20.3297",
+      "journal": "Boletim Cearense de Educação e História da Matemática",
+      "volume": "7",
+      "issue": "20",
+      "pages": "158 – 169"
     },
     {
       "id": "art_003",
@@ -64,7 +96,7 @@
       ],
       "summary": "O artigo analisa as concepções filosóficas e reformistas de Petrus Ramus, representante da época do Renascimento. Como um dos mais destacados reformadores do Renascimento, ele deixou um profundo legado. O artigo assinala que Ramus, graças às reformas que realizou tanto na pedagogia quanto na filosofia, exerceu significativa influência sobre o desenvolvimento do pensamento científico.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/articles/reformas-filosoficas-de-petrus-ramus.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/covers/reformas-filosoficas-de-petrus-ramus.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/covers/mobile/reformas-filosoficas-de-petrus-ramus.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/pdfs/reformas-filosoficas-de-petrus-ramus.pdf",
       "categories": [
         "Filosofia",
@@ -81,6 +113,59 @@
       "volume": "6",
       "issue": "5",
       "pages": "101-112"
+    },
+    {
+      "id": "art_007",
+      "title": "Universidades: surgimento, nacionalização e indicadores de internacionalização",
+      "authors": [
+        {
+          "name": "Iracema Campos Cusati",
+          "orcid": "0000-0002-4812-8412",
+          "email": "iracema.cusati@upe.br",
+          "affiliation": "Universidade de Pernambuco (UPE), Petrolina – PE – Brasil"
+        },
+        {
+          "name": "Luciano José Vianna",
+          "orcid": "0000-0001-7355-7609",
+          "email": "luciano.vianna@upe.br",
+          "affiliation": "Universidade de Pernambuco (UPE), Petrolina – PE – Brasil"
+        },
+        {
+          "name": "Paulo César Marques de Andrade Santos",
+          "orcid": "0000-0001-5803-2388",
+          "email": "paulo.marques@upe.br",
+          "affiliation": "Universidade de Pernambuco (UPE), Petrolina – PE – Brasil"
+        },
+        {
+          "name": "Rita di Cássia de Oliveira Angelo",
+          "orcid": "0000-0002-1694-1927",
+          "email": "rita.angelo@upe.br",
+          "affiliation": "Universidade de Pernambuco (UPE), Serra Talhada – PE – Brasil"
+        },
+        {
+          "name": "Antonio Carrillo Avelar",
+          "orcid": "0000-0002-5654-0650",
+          "email": "antoniocarrillobr@hotmail.com",
+          "affiliation": "Universidad Nacional Autónoma de México (UNAM), Cidade do México – México"
+        }
+      ],
+      "summary": "O artigo inicia apresentando a trajetória das universidades desde o surgimento no período medieval, com a criação de uma comunidade de scolares; passa pelo fenômeno da nacionalização, com a consequente perda do seu caráter inicial; aborda o processo de estatização a partir da revolução francesa; examina a universidade brasileira sob a influência das reformas educacionais e das iniciativas de internacionalização; e elenca estratégias para o desenvolvimento de um projeto de internacionalização das universidades brasileiras no século XXI.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/articles/universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/covers/mobile/universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/pdfs/universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao.pdf",
+      "categories": [
+        "Educação",
+        "Educação Superior",
+        "Internacionalização"
+      ],
+      "published_at": 1609545600000,
+      "estimated_reading_time_min": 32,
+      "doi": "10.21723/riaee.v16i1.13354",
+      "license": "CC BY-NC-SA",
+      "journal": "Revista Ibero-Americana de Estudos em Educação",
+      "volume": "16",
+      "issue": "1",
+      "pages": "3-19"
     }
   ]
 }

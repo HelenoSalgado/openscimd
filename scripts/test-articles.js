@@ -96,17 +96,10 @@ function validateArticles() {
         }
 
         // 3. Check Physical File Existences (Covers & PDFs)
-        // Check Cover
-        const coverExtensions = ['.webp', '.png', '.jpg', '.jpeg', '.svg'];
-        let coverExists = false;
-        for (const ext of coverExtensions) {
-          if (fs.existsSync(path.join(COVERS_DIR, `${baseName}${ext}`))) {
-            coverExists = true;
-            break;
-          }
-        }
+        // Check Cover (we serve the mobile version by default, which is always .webp)
+        const coverExists = fs.existsSync(path.join(COVERS_DIR, 'mobile', `${baseName}.webp`));
         if (!coverExists) {
-          warnings.push(`Imagem de capa correspondente não localizada em covers/${baseName}.webp (ou outras extensões).`);
+          warnings.push(`Imagem de capa mobile correspondente não localizada em covers/mobile/${baseName}.webp.`);
         }
 
         // Check PDF

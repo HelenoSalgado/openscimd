@@ -161,12 +161,13 @@ function parseMarkdownFile(filePath) {
 
 // Scan cover images to find matching extension
 function findCoverExtension(baseName) {
-  if (!fs.existsSync(COVERS_DIR)) {
+  const originalsDir = path.join(COVERS_DIR, 'originals');
+  if (!fs.existsSync(originalsDir)) {
     return 'webp'; // Default fallback
   }
   const extensions = ['.webp', '.png', '.jpg', '.jpeg', '.svg'];
   for (const ext of extensions) {
-    if (fs.existsSync(path.join(COVERS_DIR, `${baseName}${ext}`))) {
+    if (fs.existsSync(path.join(originalsDir, `${baseName}${ext}`))) {
       return ext.substring(1); // Return extension without the dot (e.g. 'webp')
     }
   }
@@ -280,10 +281,9 @@ function updateIndex() {
       // 5. Remote, Cover and PDF URLs
       const remoteUrl = `https://raw.githubusercontent.com/${GITHUB_USERNAME}/${REPO_NAME}/main/articles/${file}`;
       
-      const coverExt = findCoverExtension(baseName);
-      const coverUrl = `https://raw.githubusercontent.com/${GITHUB_USERNAME}/${REPO_NAME}/main/covers/${baseName}.${coverExt}`;
-      if (!fs.existsSync(path.join(COVERS_DIR, `${baseName}.${coverExt}`))) {
-        console.warn(`  ⚠️ Imagem de capa não encontrada para "${file}" no diretório covers/. URL de referência gerada: ${coverUrl}`);
+      const coverUrl = `https://raw.githubusercontent.com/${GITHUB_USERNAME}/${REPO_NAME}/main/covers/mobile/${baseName}.webp`;
+      if (!fs.existsSync(path.join(COVERS_DIR, 'mobile', `${baseName}.webp`))) {
+        console.warn(`  ⚠️ Imagem de capa mobile não encontrada para "${file}" no diretório covers/mobile/. URL de referência gerada: ${coverUrl}`);
       }
 
       // Check for corresponding PDF file in pdfs folder
