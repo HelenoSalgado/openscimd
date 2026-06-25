@@ -20,9 +20,9 @@ const TARGET_DPI = 72;
 
 // Configurações de tamanhos para telas (larguras em pixels)
 const SCREEN_SIZES = {
-  mobile: 480,
-  tablet: 768,
-  desktop: 1200
+  mobile: 1080,
+  tablet: 1200,
+  desktop: 1696
 };
 
 async function convertCovers() {
