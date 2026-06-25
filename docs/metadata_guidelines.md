@@ -21,15 +21,14 @@ Este documento estabelece o padrão de metadados YAML (MDC keys) recomendado par
 | **`volume`** | String / Int | Não | `"6"` | Volume da publicação da revista. |
 | **`issue`** | String / Int | Não | `"5"` | Edição ou número da publicação da revista. |
 | **`pages`** | String | Não | `"101-112"` | Páginas onde o artigo foi publicado no original. |
+**`e_issn`** | String | Não | `"1982-5587"` | Identificar a revista no âmbito digital.
 | **`pdf_url`** | String | Não | `"/pdfs/reformas-filosoficas.pdf"` | Link para a versão formatada em PDF. |
 | **`language`** | String (ISO) | Não | `"pt"`, `"en"`, `"es"` | Código do idioma principal do texto. |
 | **`keywords`** | Array | Não | `["Lógica", "Renascimento", "Metodologia"]` | Palavras-chave de indexação adicionais. |
 
 ---
 
-## 👥 Autores Estruturados (Recomendado)
-
-Atualmente, dados de contato e ORCID estão no texto livre do artigo. Para melhor estruturação administrativa e permitir que sistemas indexadores encontrem informações dinamicamente, propomos estruturar os autores no YAML da seguinte forma:
+## 👥 Autores Estruturados
 
 ```yaml
 authors:
@@ -42,11 +41,6 @@ authors:
     email: "aladdin.malikov@gmail.com"
     affiliation: "AcademyGate Publishing"
 ```
-
-### Por que esta alteração é valiosa?
-1. **Verificação de Perfil**: O ORCID é o padrão ouro de ID de pesquisador. Mantê-lo no YAML permite criar integrações automáticas com APIs como a do CrossRef ou ORCID.
-2. **Afilições Institucionais**: Permite agrupar artigos no index por universidades ou institutos de pesquisa parceiros.
-3. **Comunicação Automatizada**: O email estruturado permite o envio automático de notificações aos autores correspondentes em caso de atualizações no repositório.
 
 ---
 
