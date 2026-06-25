@@ -40,23 +40,12 @@ categories:
 license: "CC BY-NC-SA"
 ---
 
-Iracema Campos CUSATI[^1]
-Luciano José VIANNA[^2]
-Paulo César Marques de Andrade SANTOS[^3]
-Rita di Cássia de Oliveira ANGELO[^4]
-Antonio Carrillo AVELAR[^5]
-
 ## RESUMO
 
 O presente artigo inicia apresentando a trajetória das Universidades desde o surgimento no período medieval, com a criação de uma comunidade de *scolares*; passando pelo fenômeno da nacionalização, com a consequente perda do seu caráter inicial influenciado pelas escolas de ofício e posteriormente pela ordem eclesiástica e imperial; abordando nesse bojo o processo de estatização a partir da revolução francesa. A universidade brasileira, fortemente influenciada até a década de 1970 pelo modelo europeu, foi impactada pelas premissas das reformas educacionais e objetivos delineados para uma estrutura integradora entre ensino e pesquisa, que ocorreu de forma mais efetiva a partir da década de 1980, movimento apresentado juntamente com as iniciativas de internacionalização da universidade. Por último, são elencadas as estratégias para o desenvolvimento de um projeto de internacionalização das universidades brasileiras no século XXI sob a premissa de que para conceber a cooperação internacional, como parte integrante das missões institucionais, cabe às universidades a criação de mecanismos e estruturas apropriadas para promover a internacionalização como um dos pressupostos indicativos desse direcionamento.
 
 **PALAVRAS-CHAVE:** Internacionalização. Educação superior. Experiências interinstitucionais.
 
-## RESUMEN
-
-Este artículo se inicia presentando la trayectoria de las Universidades desde el surgimiento en el período medieval, con la creación de una comunidad de escolares; pasando por el fenómeno de la nacionalización, con la consecuente pérdida de su carácter inicial influenciado por las escuelas de oficio y posteriormente por el orden eclesiástica e imperial; abordando en este ámbito el proceso de estatización a partir de la revolución francesa. La universidad brasileña, fuertemente influenciada hasta la década de 1970 por el modelo europeo, ha sido impactada por las premisas de las reformas educacionales y objetivos delineados para una estructura integradora entre enseñanza e investigación, que ocurrió de forma más efectiva a partir de la década de 1980, se presentan juntamente con las iniciativas de internacionalización de la universidad. Por último, se enumeran las estrategias para el desarrollo de un proyecto de internacionalización de las universidades brasileñas en el siglo XXI, bajo la premisa de que para concebir la cooperación internacional, como parte integrante de las misiones institucionales, cabe a las universidades la creación de mecanismos y estructuras apropiadas para promover la internacionalización como uno de los supuestos indicativos de este direccionamiento.
-
-**PALABRAS CLAVE:** Internacionalización. Educación superior. Experiencias interinstitucionales.
 
 ## ABSTRACT
 
@@ -213,15 +202,17 @@ Vínculos binacionais favorecem a geração e a aplicação do conhecimento dos 
 
 *“O presente trabalho foi realizado com apoio da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – Brasil (CAPES) – Código de Financiamento 001”*.
 
-[^1]: Universidade de Pernambuco (UPE), Petrolina – PE – Brasil. Professora Adjunta do Colegiado de Matemática e Professora Permanente do Programa de Pós-Graduação em Formação de Professores e Práticas Interdisciplinares (PPGFPPI). Doutorado em Educação (USP). ORCID: https://orcid.org/0000-0002-4812-8412. E-mail: iracema.cusati@upe.br
+---
 
-[^2]: Universidade de Pernambuco (UPE), Petrolina – PE – Brasil. Professor Permanente do Programa de Pós-Graduação em Formação de Professores e Práticas Interdisciplinares (PPGFPPI). Doutorado em História Medieval pela Universitat Autònoma de Barcelona (UAB). ORCID: https://orcid.org/0000-0001-7355-7609. E-mail: luciano.vianna@upe.br
+[^1]: Universidade de Pernambuco (UPE), Petrolina – PE – Brasil. Iracema Campos CUSATI é Professora Adjunta do Colegiado de Matemática e Professora Permanente do Programa de Pós-Graduação em Formação de Professores e Práticas Interdisciplinares (PPGFPPI). Doutorado em Educação (USP). ORCID: https://orcid.org/0000-0002-4812-8412. E-mail: iracema.cusati@upe.br
 
-[^3]: Universidade de Pernambuco (UPE), Petrolina – PE – Brasil. Professor Adjunto do Colegiado Pleno de Pedagogia e Coordenador da Linha de Políticas Educacionais, Formação Docente e Práxis Pedagógica do Programa de Pós-Graduação em Formação de Professores e Práticas Interdisciplinares (PPGFPPI). Doutorado em Educação (UFBA). ORCID: https://orcid.org/0000-0001-5803-2388. E-mail: paulo.marques@upe.br
+[^2]: Universidade de Pernambuco (UPE), Petrolina – PE – Brasil. Luciano José VIANNA é Professor Permanente do Programa de Pós-Graduação em Formação de Professores e Práticas Interdisciplinares (PPGFPPI). Doutorado em História Medieval pela Universitat Autònoma de Barcelona (UAB). ORCID: https://orcid.org/0000-0001-7355-7609. E-mail: luciano.vianna@upe.br
 
-[^4]: Universidade de Pernambuco (UPE), Serra Talhada – PE – Brasil. Professora Adjunta no Colegiado de Medicina. Doutorado em Neurociências (UFPE). ORCID: https://orcid.org/0000-0002-1694-1927. E-mail: rita.angelo@upe.br
+[^3]: Universidade de Pernambuco (UPE), Petrolina – PE – Brasil. Paulo César Marques de Andrade SANTOS é Professor Adjunto do Colegiado Pleno de Pedagogia e Coordenador da Linha de Políticas Educacionais, Formação Docente e Práxis Pedagógica do Programa de Pós-Graduação em Formação de Professores e Práticas Interdisciplinares (PPGFPPI). Doutorado em Educação (UFBA). ORCID: https://orcid.org/0000-0001-5803-2388. E-mail: paulo.marques@upe.br
 
-[^5]: Universidad Nacional Autónoma de México (UNAM), Cidade do México – México. Professor do Programa de Pós-Graduação em Pedagogia (UNAM), Professor e pesquisador do Programa de Pós-Graduação da Universidad Pedagógica Nacional (UPN) e Professor Visitante do Programa de Pós-Graduação Interdisciplinar em Direitos Humanos (UFG). Pós-doutorado em Educação (USP). ORCID: https://orcid.org/0000-0002-5654-0650. Email: antoniocarrillobr@hotmail.com
+[^4]: Universidade de Pernambuco (UPE), Serra Talhada – PE – Brasil. Rita di Cássia de Oliveira ANGELO é Professora Adjunta no Colegiado de Medicina. Doutorado em Neurociências (UFPE). ORCID: https://orcid.org/0000-0002-1694-1927. E-mail: rita.angelo@upe.br
+
+[^5]: Universidad Nacional Autónoma de México (UNAM), Cidade do México – México. Antonio Carrillo AVELAR é Professor do Programa de Pós-Graduação em Pedagogia (UNAM), Professor e pesquisador do Programa de Pós-Graduação da Universidad Pedagógica Nacional (UPN) e Professor Visitante do Programa de Pós-Graduação Interdisciplinar em Direitos Humanos (UFG). Pós-doutorado em Educação (USP). ORCID: https://orcid.org/0000-0002-5654-0650. Email: antoniocarrillobr@hotmail.com
 
 [^6]: Disponível em: http://www.direitoshumanos.usp.br/index.php/Direito-a-Educação/declaracao-mundial-sobreeducacao-superior-no-seculo-XXI-visao-e-acao.html. Acesso em: 2 jan. 2021.
 
