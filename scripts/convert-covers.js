@@ -66,8 +66,32 @@ async function convertCovers() {
     }
   }
 
-  // Listar arquivos no diretório de originais
-  const files = fs.readdirSync(ORIGINALS_DIR);
+  // Listar arquivos no diretório de originais ou filtrar pelo alvo especificado por argumento
+  const targetArg = process.argv[2];
+  let targetFile = null;
+  if (targetArg) {
+    const resolvedPath = path.resolve(targetArg);
+    targetFile = path.basename(resolvedPath);
+    const ext = path.extname(targetFile).toLowerCase();
+    if (!imageExtensions.includes(ext)) {
+      console.error(`❌ Erro: Extensão de arquivo não suportada (${ext}). Extensões permitidas: ${imageExtensions.join(', ')}`);
+      return;
+    }
+    console.log(`🎯 Limitando a conversão apenas para a imagem: ${targetFile}`);
+  }
+
+  let files;
+  if (targetFile) {
+    const targetPath = path.join(ORIGINALS_DIR, targetFile);
+    if (fs.existsSync(targetPath)) {
+      files = [targetFile];
+    } else {
+      console.error(`❌ Erro: O arquivo alvo "${targetFile}" não foi encontrado em: ${targetPath}`);
+      return;
+    }
+  } else {
+    files = fs.readdirSync(ORIGINALS_DIR);
+  }
   let processedCount = 0;
 
   for (const file of files) {
