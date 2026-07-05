@@ -32,15 +32,10 @@ categories:
 license: "Direitos autorais: Associação Sul-Rio-Grandense de Pesquisadores em História da Educação - Asphe. Artigo de acesso aberto distribuído nos termos de licença Creative Commons."
 ---
 
-## RESUMO
-
-Propomos uma discussão historicamente situada acerca da organização e administração, na cultura ocidental, de um saber inteiramente escolar, caracterizado pelos princípios da ordem e da uniformidade, e que se expressa em monografias - de tipo compendiário e manualístico -, produzidas para circular unicamente nos estabelecimentos de ensino. A análise recuará até ao espaço universitário do Renascimento e aos primeiros debates sobre a premência de um dispositivo de sistematização do conhecimento, onde Petrus Ramus aparece como uma personagem conceptual e onde se descobre um diagnóstico seminal assente sobre um gesto educativo como supondo uma dupla articulação: (i) o currículo é o invariante que permite racionalizar todo conhecimento através de disciplinas unidas num plano de estudos, ao passo que (ii) o método constitui a possibilidade de estabilizar e simplificar, de articular e graduar todos os conteúdos escolares.
-
-**Palavras-chave:** currículo, método, Petrus Ramus, ramismo, pedagogia universitária.
-
 ## DE LA UNIVERSIDAD QUINIENTISTA DE PARÍS PARA EL MUNDO: CURRÍCULO Y MÉTODO EN PETRUS RAMUS
 
 **RESUMEN**
+
 Proponemos una discusión históricamente situada sobre la organización y la administración, en la cultura occidental, de un saber enteramente escolar, caracterizado por los principios del orden y de la uniformidad, y que se expresa en monografías - de tipo compendiario y manualístico -, producidas para circular únicamente en los establecimientos de enseñanza. El análisis retrocede hasta el espacio universitario del Renacimiento y los primeros debates sobre la premura de un dispositivo de sistematización del conocimiento, donde Petrus Ramus aparece como un personaje conceptual y donde se descubre un diagnóstico seminal basado en un gesto educativo como suponiendo una doble articulación: i) el currículo es el invariante que permite racionalizar todo conocimiento a través de disciplinas unidas en un plano de estudios, mientras que (ii) el método constituye la posibilidad de estabilizar y simplificar, de articular y graduar todos los contenidos escolares.
 
 **Palabras clave:** currículo, método, Petrus Ramus, ramismo, pedagogía universitaria.
@@ -138,9 +133,3 @@ SELLBERG, Erland. Petrus Ramus. In: **Stanford Encyclopedia of Philosophy.** Sta
 TRICHE, Stephen; MCKNIGHT, Douglas. The quest for method: the legacy of Peter Ramus. **History of Education,** v. 33, n. 1, p. 39-54, 2004.
 
 VARELA, Julia. Genealogy of education. In: POPKEWITZ, Thomas S.; FRANKLYN, Barry M.; PEREYRA, Miguel A. (ed.). **Cultural history and education.** Nova Iorque: Routledge Falmer, 2001. p. 109-124.
-
----
-
-[^1]: Jorge Ramos do Ó é professor associado com agregação no Instituto de Educação (IE) da Universidade de Lisboa (ULisboa), em Lisboa, Portugal e professor convidado na Universidade de São Paulo (USP), onde tem lecionado sobretudo nas áreas da história da educação, história cultural e teoria do discurso.
-
-[^2]: Ana Luísa Paz é atualmente professora auxiliar convidada no Instituto de Educação (IE) da Universidade de Lisboa (Ulisboa), em Lisboa, Portugal. Doutorou-se em 2015 na área de Educação – História da Educação, pelo Instituto de Educação da Universidade de Lisboa.

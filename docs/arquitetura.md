@@ -10,16 +10,18 @@ O repositório é organizado de forma modular para separar conteúdo de texto, m
 
 ```text
 openscimd/
-├── articles/            # Artigos em formato Markdown (.md)
-├── covers/              # Imagens de capa associadas aos artigos (.webp, .png, etc.)
-├── pdfs/                # Arquivos PDF originais dos artigos (.pdf)
-├── scripts/             # Automações e testes do repositório
-│   ├── update-index.js  # Script principal de indexação e compilação do index.json
-│   └── test-index.js    # Suíte de testes unitários das automações
-├── docs/                # Documentação interna sobre o funcionamento do projeto
-│   └── arquitetura.md   # Detalhes de arquitetura (este arquivo)
-├── index.json           # Registro compilado de todos os artigos e seus metadados
-└── README.md            # Guia geral do projeto e contribuição
+├── articles/                                 # Artigos em formato Markdown (.md)
+├── covers/                                   # Imagens de capa associadas aos artigos (.webp, .png, etc.)
+├── authors/                                  # Imagens/Avatares de autores associadas ao ORCID
+├── pdfs/                                     # Arquivos PDF originais dos artigos (.pdf)
+├── scripts/                                  # Automações e testes do repositório
+│   ├── update-index.js                       # Script principal de indexação e compilação do index.json
+│   ├── ia_generate-cover.js nome-do-artigo   # Gera imagem de capa para o artigo, é preciso definir IA_KEY
+│   └── test-index.js                         # Suíte de testes unitários das automações
+├── docs/                                     # Documentação interna sobre o funcionamento do projeto
+│   └── arquitetura.md                        # Detalhes de arquitetura (este arquivo)
+├── index.json                                # Registro compilado de todos os artigos e seus metadados
+└── README.md                                 # Guia geral do projeto e contribuição
 ```
 
 ---

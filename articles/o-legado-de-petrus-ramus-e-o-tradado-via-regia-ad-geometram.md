@@ -24,12 +24,6 @@ categories:
 license: "CC BY 4.0"
 ---
 
-## Resumo
-
-Entre meados dos séculos XVI e XVII, se proliferou uma rica literatura dedicada a geometria prática que impulsionou a produção de tratados para auxiliar nos procedimentos manuais, executados pelos trabalhadores do período. Nesse contexto, o tratado Via regia ad geometriam, escrito e publicado originalmente na Suíça em 1596 pelo francês Petrus Ramus (1515 – 1572), passando a ganhar notoriedade como um dos documentos mais disseminados pela impressa medieval. O exemplar trazia consigo uma organização diferencial dos conhecimentos matemáticos existentes em sua época, que são incorporados em algumas maneiras de medir áreas de superfícies, volume de sólidos, junto ao cálculo de distâncias, tais como comprimento, altura e largura. Desta forma, o artigo tem o intuito de apresentar uma descrição sobre o tratado em questão, destacando alguns elementos matemáticos presentes em seu corpo, junto a uma breve biografia do autor, com suas principais obras e seus preceitos. Ao desenvolver o estudo, utilizou-se uma metodologia bibliográfica-descritiva, com cunho qualitativo, a partir da leitura de livros e artigos que versam sobre a temática estudada, a fim de recolher informações consistentes. No decorrer da pesquisa, observou-se um desenvolvimento sistemático no tratado de Petrus Ramus sobre os elementos matemáticos, sendo descrito em um dos capítulos, o instrumento intitulado por báculo que auxiliava nos procedimentos de medição, por meios desses componentes. Assim, concluiu-se que o documento histórico em questão, contribuiu de forma sucinta ao fornecer subsídios de mensuração para algumas profissões, visto que, era uma das principais atividades desenvolvidas no meio rural e urbano, bastando ter noções sobre as matemáticas do período para utilizá-lo.
-
-**Palavras-chave:** Petrus Ramus; Via regia ad geometriam; Elementos matemáticos; Biografia longitudinal.
-
 ## Abstract
 
 Between the middle of the sixteenth and seventeenth centuries, a rich literature dedicated to practical geometry proliferated that boosted the production of treaties to assist in manual procedures, performed by workers of the period. In this context, the treaty Via regia ad geometriam, originally written and published in Switzerland in 1596 by the Frenchman Petrus Ramus (1515 - 1572), began to gain notoriety as one of the most disseminated documents in the medieval press. The example brought with it a differential organization of the mathematical knowledge existing in its time, which are incorporated in some ways of measuring surface areas, volume of solids, together with the calculation of distances, such as length, height and width. Thus, the article aims to present a description of the treatise in question, highlighting some mathematical elements present in his body, along with a brief biography of the author, with his main works and his precepts. When developing the study, a bibliographic-descriptive methodology, with a qualitative nature, was used, based on the reading of books and articles dealing with the studied theme, in order to collect consistent information. During the research, a systematic development was observed in Petrus Ramus's treatise on mathematical elements, being described in one of the chapters, the instrument called a baculum that helped in the measurement procedures, by means of these components. Thus, it was concluded that the historical document in question, contributed succinctly by providing measurement subsidies for some professions, since it was one of the main activities developed in rural and urban areas, just having knowledge about the mathematics of the period to use it.
@@ -76,7 +70,7 @@ Deste modo, foram consultados artigos, livros e sites que versam sobre o context
 
 Nascido em Cuts, localizado na região da França, no ano de 1515, Pierre de La Ramée ou simplesmente Petrus Ramus[^3] (Figura 1), veio de uma família que havia perdido toda sua riqueza, com o saque na cidade de Liège em 1468. Contudo, os parentes de Petrus Ramus, não perderam o título de aristocratas, sendo filho de um nobre trabalhador, Jacques de La Ramée com Jeanne Charpentier (MAHONEY, 1981).
 
-![Figura 1 – Caricatura de Petrus Ramus. Fonte: Ingemarsdotter (2011, p. 64)](/assets/o-legado-de-petrus-ramus-e-o-tratado-via-regia-ad-geometriam-figura-1.webp)
+![Figura 1 – Caricatura de Petrus Ramus. Fonte: Ingemarsdotter (2011, p. 64)](/assets/mobile/o-legado-de-petrus-ramus-e-o-tratado-via-regia-ad-geometriam-figura-1.webp)
 
 Durante sua infância, Petrus Ramus teve o ensino primário a domicílio, tendo habilidades notáveis observadas por seus professores. Por volta de 1527, aos doze anos, ele ingressa na universidade de Paris[^4], onde teve que aprender a lidar com seus gastos e custos, obtendo o primeiro trabalho como servente.
 
@@ -130,7 +124,7 @@ Assim, ano de 1569 é escrito por Petrus Ramus na língua latina, a primeira ver
 
 Em 1636[^6] foi traduzida para a língua inglesa e publicada por Willian Bedwell (1561 – 1632) em Londres, sendo bastante difundida na época.
 
-![Figura 2 – Frontispício de Via Regia ad Geometriam. Fonte: Ramus (1636, frontispício)](/assets/o-legado-de-petrus-ramus-e-o-tratado-via-regia-ad-geometriam-figura-2.webp)
+![Figura 2 – Frontispício de Via Regia ad Geometriam. Fonte: Ramus (1636, frontispício)](/assets/mobile/o-legado-de-petrus-ramus-e-o-tratado-via-regia-ad-geometriam-figura-2.webp)
 
 Um dos destaques dado ao tratado de Petrus Ramus foi a organização sistemática nos conteúdos matemáticos, que visava idealizar uma relação entre conhecimentos teóricos e suas aplicações empíricas. É predominante no documento, a premissa que ele define como “a arte de medir bem”, ao incluir assuntos voltados para a medição, usados na geometria prática, abordando a parte conceitual com os teoremas e as proposições que vão sendo direcionado a problemas de situações cotidianas, conforme a afirmação de Pereira e Saito (2019, p. 349):
 
@@ -144,7 +138,7 @@ De acordo com Pereira e Saito (2018), a primeira categoria contém nove livros, 
 
 Ao final dessa primeira compilação, precisamente no livro IX, é descrito um instrumento de agrimensura intitulado por báculo (Figura 3), que era utilizado tanto para medição de distâncias terrestres, quando celestes (SAITO; PEREIRA, 2019). O instrumento matemático, era uma variante apresentado por Petrus Ramus, era disposto em um formato de cruz, que se diferenciava dos demais por ter uma de suas hastes móvel (Transversal), que poderia se mover para cima e para baixo, de um lado para outro sob a outra haste (Indicador).
 
-![Figura 3 – Esquematização do báculo de Petrus Ramus e suas peças. Fonte: Pereira e Saito (2019, p. 363)](/assets/o-legado-de-petrus-ramus-e-o-tratado-via-regia-ad-geometriam-figura-3.webp)
+![Figura 3 – Esquematização do báculo de Petrus Ramus e suas peças. Fonte: Pereira e Saito (2019, p. 363)](assets/mobile/o-legado-de-petrus-ramus-e-o-tradado-via-regia-ad-geometriam-figura-3.webp)
 
 A segunda categoria contém dez livros, com a abordagem de assuntos a respeito de medição de grandezas com duas dimensões (comprimento e largura), direcionando a medida de áreas das figuras planas importantes no período como o triângulo, o paralelogramo, o retângulo, dentre outras. Ainda são apresentadas outras maneiras de obtenção de áreas, por meio de condições particulares propostas por Petrus Ramus de figuras como o círculo e o triângulo (PEREIRA; SAITO, 2018).
 
@@ -165,6 +159,8 @@ Ainda é mobilizado no tratado, duas concepções, que por muito tempo foram rec
 ## Agradecimentos
 
 Por fim, gostaríamos de agradecer a Universidade Estadual do Ceará (UECE) pelo apoio, o grande incentivo, juntamente com o financiamento por meio do Fundo de Combate à Pobreza (FECOP) no andamento do estudo.
+
+---
 
 ## Notas
 

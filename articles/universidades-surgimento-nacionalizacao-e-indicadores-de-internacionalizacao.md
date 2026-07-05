@@ -25,7 +25,7 @@ authors:
     orcid: "0000-0002-5654-0650"
     email: "antoniocarrillobr@hotmail.com"
     affiliation: "Universidad Nacional Autónoma de México (UNAM), Cidade do México – México"
-summary: "O artigo inicia apresentando a trajetória das universidades desde o surgimento no período medieval, com a criação de uma comunidade de scolares; passa pelo fenômeno da nacionalização, com a consequente perda do seu caráter inicial; aborda o processo de estatização a partir da revolução francesa; examina a universidade brasileira sob a influência das reformas educacionais e das iniciativas de internacionalização; e elenca estratégias para o desenvolvimento de um projeto de internacionalização das universidades brasileiras no século XXI."
+summary: "O presente artigo inicia apresentando a trajetória das Universidades desde o surgimento no período medieval, com a criação de uma comunidade de *scolares*; passando pelo fenômeno da nacionalização, com a consequente perda do seu caráter inicial influenciado pelas escolas de ofício e posteriormente pela ordem eclesiástica e imperial; abordando nesse bojo o processo de estatização a partir da revolução francesa. A universidade brasileira, fortemente influenciada até a década de 1970 pelo modelo europeu, foi impactada pelas premissas das reformas educacionais e objetivos delineados para uma estrutura integradora entre ensino e pesquisa, que ocorreu de forma mais efetiva a partir da década de 1980, movimento apresentado juntamente com as iniciativas de internacionalização da universidade. Por último, são elencadas as estratégias para o desenvolvimento de um projeto de internacionalização das universidades brasileiras no século XXI sob a premissa de que para conceber a cooperação internacional, como parte integrante das missões institucionais, cabe às universidades a criação de mecanismos e estruturas apropriadas para promover a internacionalização como um dos pressupostos indicativos desse direcionamento."
 date: "02-01-2021"
 doi: "10.21723/riaee.v16i1.13354"
 e_issn: "1982-5587"
@@ -39,13 +39,6 @@ categories:
   - "Internacionalização"
 license: "CC BY-NC-SA"
 ---
-
-## RESUMO
-
-O presente artigo inicia apresentando a trajetória das Universidades desde o surgimento no período medieval, com a criação de uma comunidade de *scolares*; passando pelo fenômeno da nacionalização, com a consequente perda do seu caráter inicial influenciado pelas escolas de ofício e posteriormente pela ordem eclesiástica e imperial; abordando nesse bojo o processo de estatização a partir da revolução francesa. A universidade brasileira, fortemente influenciada até a década de 1970 pelo modelo europeu, foi impactada pelas premissas das reformas educacionais e objetivos delineados para uma estrutura integradora entre ensino e pesquisa, que ocorreu de forma mais efetiva a partir da década de 1980, movimento apresentado juntamente com as iniciativas de internacionalização da universidade. Por último, são elencadas as estratégias para o desenvolvimento de um projeto de internacionalização das universidades brasileiras no século XXI sob a premissa de que para conceber a cooperação internacional, como parte integrante das missões institucionais, cabe às universidades a criação de mecanismos e estruturas apropriadas para promover a internacionalização como um dos pressupostos indicativos desse direcionamento.
-
-**PALAVRAS-CHAVE:** Internacionalização. Educação superior. Experiências interinstitucionais.
-
 
 ## ABSTRACT
 
@@ -204,16 +197,6 @@ Vínculos binacionais favorecem a geração e a aplicação do conhecimento dos 
 
 ---
 
-[^1]: Universidade de Pernambuco (UPE), Petrolina – PE – Brasil. Iracema Campos CUSATI é Professora Adjunta do Colegiado de Matemática e Professora Permanente do Programa de Pós-Graduação em Formação de Professores e Práticas Interdisciplinares (PPGFPPI). Doutorado em Educação (USP). ORCID: https://orcid.org/0000-0002-4812-8412. E-mail: iracema.cusati@upe.br
-
-[^2]: Universidade de Pernambuco (UPE), Petrolina – PE – Brasil. Luciano José VIANNA é Professor Permanente do Programa de Pós-Graduação em Formação de Professores e Práticas Interdisciplinares (PPGFPPI). Doutorado em História Medieval pela Universitat Autònoma de Barcelona (UAB). ORCID: https://orcid.org/0000-0001-7355-7609. E-mail: luciano.vianna@upe.br
-
-[^3]: Universidade de Pernambuco (UPE), Petrolina – PE – Brasil. Paulo César Marques de Andrade SANTOS é Professor Adjunto do Colegiado Pleno de Pedagogia e Coordenador da Linha de Políticas Educacionais, Formação Docente e Práxis Pedagógica do Programa de Pós-Graduação em Formação de Professores e Práticas Interdisciplinares (PPGFPPI). Doutorado em Educação (UFBA). ORCID: https://orcid.org/0000-0001-5803-2388. E-mail: paulo.marques@upe.br
-
-[^4]: Universidade de Pernambuco (UPE), Serra Talhada – PE – Brasil. Rita di Cássia de Oliveira ANGELO é Professora Adjunta no Colegiado de Medicina. Doutorado em Neurociências (UFPE). ORCID: https://orcid.org/0000-0002-1694-1927. E-mail: rita.angelo@upe.br
-
-[^5]: Universidad Nacional Autónoma de México (UNAM), Cidade do México – México. Antonio Carrillo AVELAR é Professor do Programa de Pós-Graduação em Pedagogia (UNAM), Professor e pesquisador do Programa de Pós-Graduação da Universidad Pedagógica Nacional (UPN) e Professor Visitante do Programa de Pós-Graduação Interdisciplinar em Direitos Humanos (UFG). Pós-doutorado em Educação (USP). ORCID: https://orcid.org/0000-0002-5654-0650. Email: antoniocarrillobr@hotmail.com
-
 [^6]: Disponível em: http://www.direitoshumanos.usp.br/index.php/Direito-a-Educação/declaracao-mundial-sobreeducacao-superior-no-seculo-XXI-visao-e-acao.html. Acesso em: 2 jan. 2021.
 
 ## REFERÊNCIAS
@@ -260,9 +243,6 @@ VERWOERD, Hendrik Frensch. *Bantoe-onderwys: Beleidsbepaling vir die onmiddelike
 
 ## Como referenciar este artigo
 
+```
 CUSATI, I. C.; VIANNA, L. J.; SANTOS, P. C. M. A.; ANGELO, R. C. O.; AVELAR, A. C. Universidades: surgimento, nacionalização e indicadores de internacionalização. *Revista Ibero-Americana de Estudos em Educação*, Araraquara, v. 16, n. 1, p. 3-19, jan./mar. 2021. e-ISSN: 1982-5587. DOI: https://doi.org/10.21723/riaee.v16i1.13354
-
-**Submetido em:** 20/02/2020  
-**Revisões requeridas:** 06/03/2020  
-**Aprovado em:** 30/09/2020  
-**Publicado em:** 02/01/2021
+```
