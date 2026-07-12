@@ -9,7 +9,7 @@ categories:
   - Clássicos
 ---
 
-_Tradução baseada na versão inglesa de Benjamin Jowett (3ª ed., 1892)[^1]._
+_Traduzido do inglês de Benjamin Jowett_
 
 Como vós, ó atenienses, fostes afetados por meus acusadores, não sei dizer; mas sei que eles quase me fizeram esquecer quem eu era — de tão persuasivo que falaram; e, no entanto, mal proferiram uma palavra de verdade. Mas, das muitas falsidades que disseram, houve uma que me deixou absolutamente atônito: refiro-me a quando disseram que deveríeis estar de guarda e não vos deixar enganar pela força da minha eloquência. Dizer isso, quando tinham a certeza de ser desmascarados assim que eu abrisse os lábios e provasse não ser de modo algum um grande orador, pareceu-me de fato o cúmulo da desfaçatez — a menos que por força da eloquência quearam dizer a força da verdade; pois, se esse é o sentido que lhe dão, admito que sou eloquente. Mas de que maneira tão diferente da deles! Bem, como eu dizia, eles quase nada disseram de verdade; mas de mim ouvireis toda a verdade: não, porém, pronunciada à maneira deles, em um discurso formal devidamente ornado de palavras e frases. Não, pelos céus! Usarei as palavras e argumentos que me ocorrerem no momento; pois confio na justiça da minha causa (Ou: estou certo de que estou correto ao tomar este caminho): na minha idade, não convém que eu compareça diante de vós, ó homens de Atenas, sob a figura de um jovem orador — que ninguém espere isso de mim. E devo pedir-vos que me concedais um favor: se eu me defender da minha maneira habitual, e me ouvirdes usar as palavras que costumo usar na ágora, junto às bancas dos cambistas ou em qualquer outro lugar, peço-vos que não vos surpreendais nem me interrompais por isso. Pois tenho mais de setenta anos de idade e, comparecendo agora pela primeira vez a um tribunal de justiça, sou inteiramente estrangeiro à linguagem do lugar; portanto, gostaria que me considerásseis como se eu fosse realmente um estrangeiro, a quem desculparíeis se falasse em sua língua materna e segundo os costumes de seu país. Estarei fazendo um pedido injusto? Não deis importância ao estilo, que pode ou não ser bom; mas pensai apenas na verdade das minhas palavras e atentai para ela: que o orador fale com verdade e o juiz decida com justiça.
 
@@ -169,11 +169,3 @@ Portanto, ó juízes, tende bom ânimo perante a morte e tende a certeza de que 
 Contudo, tenho um favor a pedir-lhes. Quando os meus filhos crescerem, peço-vos, ó meus amigos, que os castigueis; e gostaria que os incomodásseis, como eu vos incomodei, se eles parecerem importar-se com as riquezas ou com qualquer outra coisa mais do que com a virtude; ou se pretenderem ser algo quando nada são — então, repreendei-os, como eu vos repreendi, por não se importarem com aquilo com que se devem importar e por pensarem que são algo quando nada são. E se o fizerdes, tanto eu como os meus filhos teremos recebido justiça das vossas mãos.
 
 É chegado o momento da partida, e seguimos os nossos caminhos: eu para morrer, vós para viver. Qual dos dois seja o melhor, apenas Deus sabe.
-
----
-
-### Nota sobre o Tradutor
-
-[^1] **Benjamin Jowett** (1817–1893) foi um renomado helenista, teólogo e Mestre do *Balliol College* na Universidade de Oxford. Figura central nos estudos clássicos do século XIX, Jowett é celebrado mundialmente por ter sido o primeiro acadêmico a traduzir a totalidade dos diálogos de Platão para a língua inglesa.
-
-A sua tradução da *Apologia*, cuja versão definitiva revisada foi publicada em 1892, é amplamente reconhecida não apenas pela profunda erudição, mas também por sua excepcional qualidade literária e prosa elegante. Embora traduções contemporâneas busquem uma precisão filológica mais rígida, a versão de Jowett permanece um clássico influente por capturar com maestria o ritmo, a retórica e o "espírito" do pensamento socrático.

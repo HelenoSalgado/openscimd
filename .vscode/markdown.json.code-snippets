@@ -1,0 +1,80 @@
+{
+	"Travessao de Dialogo": {
+		"scope": "markdown",
+		"prefix": "--",
+		"body": [
+			"—"
+		],
+		"description": "Insere um travessão longo seguido de espaço para diálogos"
+	},
+	"Pensamento ou Enfase (Italico)": {
+		"scope": "markdown",
+		"prefix": "it",
+		"body": [
+			"*$TM_SELECTED_TEXT$1*"
+		],
+		"description": "Aplica itálico instantâneo na palavra"
+	},
+	"Metadados YAML para Artigos": {
+		"scope": "markdown",
+		"prefix": "yaml-artigo",
+		"body": [
+			"---",
+			"title: \"${1:O LEGADO DE PETRUS RAMUS E O TRATADO VIA REGIA AD GEOMETRIAM}\"",
+			"journal: \"${2:Boletim Cearense de Educação e História da Matemática}\"",
+			"volume: ${3:7}",
+			"issue: ${4:20}",
+			"pages: \"${5:158 – 169}\"",
+			"doi: \"${6:10.30938/bocehm.v7i20.3297}\"",
+			"authors:",
+			"  - name: \"${7:Francisco Hemerson Brito da Silva}\"",
+			"    orcid: \"${8:0000-0000-0000-0000}\"",
+			"    affiliation: \"${9:Universidade Estadual do Ceará}\"",
+			"    email: \"${10:francisco.hemerson@aluno.uece.br}\"",
+			"  - name: \"${11:Ana Carolina Costa Pereira}\"",
+			"    orcid: \"${12:0000-0000-0000-0000}\"",
+			"    affiliation: \"${13:Universidade Estadual do Ceará}\"",
+			"    email: \"${14:carolina.pereira@uece.br}\"",
+			"summary: \"${15:Entre meados dos séculos XVI e XVII, se proliferou uma rica literatura dedicada a geometria prática que impulsionou a produção de tratados para auxiliar nos procedimentos manuais, executados pelos trabalhadores do período...}\"",
+			"date: \"${16:2020}\"",
+			"keywords:",
+			"  - \"${17:Petrus Ramus}\"",
+			"  - \"${18:Via regia ad geometriam}\"",
+			"  - \"${19:Elementos matemáticos}\"",
+			"  - \"${20:Biografia longitudinal}\"",
+			"categories:",
+			"  - \"${21:Matemática}\"",
+			"license: \"${22:CC BY 4.0}\"",
+			"---",
+			"",
+			"$0"
+		],
+		"description": "Insere o cabeçalho completo de metadados YAML para artigos acadêmicos"
+	},
+	"Metadados YAML para Ebook": {
+		"scope": "markdown",
+		"prefix": "yaml-ebook",
+		"body": [
+			"---",
+			"title: \"${1:Título do Ebook}\"",
+			"subtitle: \"${2:Subtítulo ou Frase de Impacto}\"",
+			"authors:",
+			"  - name: \"${7:Francisco Hemerson Brito da Silva}\"",
+			"    orcid: \"${8:0000-0000-0000-0000}\"",
+			"    email: \"${10:francisco.hemerson@aluno.uece.br}\"",
+			"publisher: \"${4:Nome da Editora ou Auto publicação}\"",
+			"date: \"${5:$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE}\"",
+			"identifier: \"urn:isbn:${6:0000000000000}\"",
+			"language: \"${7:pt-BR}\"",
+			"license: \"© ${5:$CURRENT_YEAR} ${3:Nome do Autor}. Todos os direitos reservados.\"",
+			"summary: \"${9:Sinopse curta para a contracapa e lojas digitais.}\"",
+			"keywords:",
+			"  - \"${10:Gênero do Livro}\"",
+			"  - \"${11:Palavra-chave 2}\"",
+			"---",
+			"",
+			"$0"
+		],
+		"description": "Insere o cabeçalho completo de metadados YAML focado em Ebooks"
+	}
+}
