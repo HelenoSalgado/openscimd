@@ -1,6 +1,6 @@
 {
   "repo_name": "OpenSciMD",
-  "last_updated": 1783823998486,
+  "last_updated": 1783897950471,
   "articles": [
     {
       "id": "art_004",
@@ -28,7 +28,7 @@
         "Clássicos"
       ],
       "published_at": 1783728000000,
-      "estimated_reading_time_min": 53,
+      "estimated_reading_time_min": 54,
       "license": "Domínio Público"
     },
     {
@@ -60,15 +60,6 @@
       "volume": "70",
       "issue": "141",
       "pages": "51-63"
-    },
-    {
-      "id": "art_010",
-      "title": "comentario-sobre-a-religiao-crista",
-      "summary": "**Nunca antes editados.**",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/articles/comentario-sobre-a-religiao-crista.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/comentario-sobre-a-religiao-crista.webp",
-      "published_at": 1783820460063.7463,
-      "estimated_reading_time_min": 14
     },
     {
       "id": "art_005",
