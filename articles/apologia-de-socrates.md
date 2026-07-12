@@ -32,10 +32,15 @@ Começarei pelo princípio e perguntarei qual é a acusação que deu origem à 
 Tal é a natureza da acusação: é exatamente o que vós mesmos vistes na comédia de Aristófanes (Aristófanes, As Nuvens), que introduziu um homem chamado Sócrates, andando por aí e dizendo que caminha no ar, e falando um monte de bobagens sobre assuntos dos quais não pretendo saber muito nem pouco — não que eu pretenda falar depreciativamente de quem seja estudante de filosofia natural. Eu lamentaria muito se Meleto pudesse apresentar uma acusação tão grave contra mim. Mas a simples verdade é, ó atenienses, que nada tenho a ver com especulações físicas. Muitos dos aqui presentes são testemunhas da verdade disso, e a eles apelo. Falai, vós que me ouvistes, e dizei aos vossos vizinhos se algum de vós alguma vez me ouviu dissertar, em poucas ou em muitas palavras, sobre tais assuntos... Ouvis a resposta deles. E, a partir do que dizem sobre esta parte da acusação, podereis julgar a verdade do resto.
 
 Igual falta de fundamento há no boato de que sou professor e cobro dinheiro; esta acusação não tem mais verdade do que a outra. Embora, se um homem fosse realmente capaz de instruir a humanidade, receber dinheiro por dar instrução seria, a meu ver, uma honra para ele. Há Górgias de Leontinos, Pródico de Ceos e Hípias de Élis, que percorrem as cidades e conseguem persuadir os jovens a deixarem os seus próprios concidadãos, por quem poderiam ser ensinados de graça, e a irem ter com eles, a quem não só pagam, mas ainda ficam gratos se lhes for permitido pagar. Há atualmente um filósofo de Paros residindo em Atenas, de quem ouvi falar; e soube dele desta maneira: encontrei um homem que gastou uma fortuna com os sofistas, Cálias, filho de Hipônico, e sabendo que ele tinha filhos, perguntei-lhe:
+
 — Cálias — disse eu —, se os teus dois filhos fossem potros ou bezerros, não haveria dificuldade em encontrar alguém para cuidar deles; contrataríamos um adestrador de cavalos ou, provavelmente, um agricultor, que os melhoraria e aperfeiçoaria na virtude e excelência próprias deles; mas, como são seres humanos, em quem pensas colocar acima deles? Existe alguém que compreenda a virtude humana e política? Deves ter pensado sobre o assunto, pois tens filhos; há alguém?
+
 — Há — disse ele.
+
 — Quem é ele? — perguntei; — e de que país? e quanto cobra?
+
 — Eveno de Paros — respondeu ele —; ele é o homem, e a sua taxa é de cinco minas.
+
 Feliz é Eveno, disse para mim mesmo, se ele realmente possui essa sabedoria e ensina por uma taxa tão moderada. Se eu tivesse o mesmo, teria ficado muito orgulhoso e vaidoso; mas a verdade é que não tenho conhecimento desse tipo.
 
 ### A Origem da Calúnia e o Oráculo de Delfos
