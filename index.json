@@ -1,6 +1,6 @@
 {
   "repo_name": "OpenSciMD",
-  "last_updated": 1782777322910,
+  "last_updated": 1783823998486,
   "articles": [
     {
       "id": "art_004",
@@ -15,6 +15,60 @@
       "published_at": 1763596800000,
       "estimated_reading_time_min": 12,
       "license": "CC BY-NC 4.0"
+    },
+    {
+      "id": "art_008",
+      "title": "Apologia de Sócrates",
+      "author": "Platão",
+      "summary": "A Apologia de Sócrates apresenta a defesa proferida pelo filósofo Sócrates diante do tribunal ateniense em 399 a.C., após ser acusado de corromper a juventude e de introduzir novas divindades na pólis.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/articles/apologia-de-socrates.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/apologia-de-socrates.webp",
+      "categories": [
+        "Filosofia",
+        "Clássicos"
+      ],
+      "published_at": 1783728000000,
+      "estimated_reading_time_min": 53,
+      "license": "Domínio Público"
+    },
+    {
+      "id": "art_009",
+      "title": "AS MARGENS DA REFORMA: PETRUS RAMUS, O CALVINISMO E A AUTONOMIA DO SABER POLÍTICO",
+      "authors": [
+        {
+          "name": "Rafael Ramis Barceló",
+          "orcid": "0000-0003-1756-6695",
+          "email": "r.ramis@uib.es",
+          "affiliation": "Universitat de les Illes Balears / Instituto de Estudios Hispánicos en la Modernidad (IEHM) Unidade associada ao CSIC"
+        }
+      ],
+      "summary": "Neste trabalho explica-se a relevância de Petrus Ramus na construção da política, no marco da Reforma, como uma disciplina independente. Analisam-se as obras de Ramus, tanto as que escreveu como católico quanto as que preparou na última etapa de sua vida, já convertido ao calvinismo, e indica-se a influência política de Ramus num setor minoritário, ainda que muito influente entre os calvinistas. Finalmente, tecem-se algumas considerações sobre a importância do ramismo na configuração de um pensamento político calvinista.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/articles/as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/pdfs/as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico.pdf",
+      "categories": [
+        "Filosofia",
+        "Teologia",
+        "Ciência Política",
+        "História"
+      ],
+      "published_at": 1530316800000,
+      "estimated_reading_time_min": 59,
+      "doi": "10.3989/hs.2018.005",
+      "license": "Direitos autorais: © 2018 CSIC. Este é um artigo de acesso aberto distribuído sob os termos da licença de uso e distribuição Creative Commons Reconhecimento 4.0 Internacional (CC BY 4.0).",
+      "journal": "Hispania Sacra",
+      "volume": "70",
+      "issue": "141",
+      "pages": "51-63"
+    },
+    {
+      "id": "art_010",
+      "title": "comentario-sobre-a-religiao-crista",
+      "summary": "**Nunca antes editados.**",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/articles/comentario-sobre-a-religiao-crista.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/comentario-sobre-a-religiao-crista.webp",
+      "published_at": 1783820460063.7463,
+      "estimated_reading_time_min": 14
     },
     {
       "id": "art_005",
@@ -42,7 +96,7 @@
         "Educação"
       ],
       "published_at": 1547164800000,
-      "estimated_reading_time_min": 34,
+      "estimated_reading_time_min": 33,
       "doi": "10.1590/2236-3459/83768",
       "license": "Direitos autorais: Associação Sul-Rio-Grandense de Pesquisadores em História da Educação - Asphe. Artigo de acesso aberto distribuído nos termos de licença Creative Commons.",
       "journal": "Revista História da Educação (Online)",
@@ -71,7 +125,7 @@
         "Matemática"
       ],
       "published_at": 1577836800000,
-      "estimated_reading_time_min": 22,
+      "estimated_reading_time_min": 21,
       "doi": "10.30938/bocehm.v7i20.3297",
       "license": "CC BY 4.0",
       "journal": "Boletim Cearense de Educação e História da Matemática",
@@ -96,7 +150,7 @@
           "affiliation": "AcademyGate Publishing"
         }
       ],
-      "summary": "O artigo analisa as concepções filosóficas e reformistas de Petrus Ramus, representante da época do Renascimento. Como um dos mais destacados reformadores do Renascimento, ele deixou um profundo legado. O artigo assinala que Ramus, graças às reformas que realizou tanto na pedagogia quanto na filosofia, exerceu significativa influência sobre o desenvolvimento do pensamento científico.",
+      "summary": "O artigo analisa as concepções filosóficas e reformistas de Petrus Ramus, representante da época do Renascimento. Como um dos mais destacados reformadores do Renascimento, ele deixou um profundo legado. O artigo assinala que Ramus, graças às reformas que realizou tanto na pedagogia quanto na filosofia, exerceu significativa influência sobre o desenvolvimento do pensamento científico. Seus méritos no campo do desenvolvimento eficaz da educação conferiram-lhe grande notoriedade. O artigo enfatiza que ele desempenhou papel importante na introdução de sistematicidade e ordem na educação. O objetivo principal de suas reformas consistia em demonstrar métodos eficazes de assimilação da ciência. Observa-se que os manuais de dialética, retórica e gramática, escritos por ele em colaboração com Omer Talon, reformularam a estrutura educacional da época do Renascimento. O artigo também reflete seu interesse pela matemática e pelas ciências naturais, o que expressava sua convicção de que o pensamento deve possuir uma estrutura ordenada. As concepções de Ramus sobre a linguagem fundamentavam a relação entre pensamento e expressão. Além desses méritos, o artigo afirma que ele também empreendeu ataques substanciais à filosofia aristotélica, especialmente às visões escolásticas rigorosas, cujas razões são analisadas em detalhe. Suas ideias não se limitaram à França, mas influenciaram o desenvolvimento de métodos modernos de ensino em diversos países europeus, incluindo Inglaterra e Alemanha. As reformas de P. Ramus também abriram caminho no pensamento de filósofos como Francis Bacon, René Descartes e Alexander Melville. O artigo examina a vida de Petrus Ramus, a essência do humanismo, a atividade de escritor de Ramus, sua posição contra a filosofia aristotélica, as inovações no método e na lógica no contexto do ambiente intelectual do Renascimento, investiga seu papel na pedagogia europeia e a influência das inovações filosóficas por ele criadas.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/articles/reformas-filosoficas-de-petrus-ramus.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/reformas-filosoficas-de-petrus-ramus.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/pdfs/reformas-filosoficas-de-petrus-ramus.pdf",
@@ -105,7 +159,7 @@
         "Lógica"
       ],
       "published_at": 1781913600000,
-      "estimated_reading_time_min": 30,
+      "estimated_reading_time_min": 27,
       "doi": "10.33864/2790-0037.2025.v6.i5.101-112",
       "udc": "1(091):161/162",
       "bbk": "87.3:87.4",
@@ -151,7 +205,7 @@
           "affiliation": "Universidad Nacional Autónoma de México (UNAM), Cidade do México – México"
         }
       ],
-      "summary": "O artigo inicia apresentando a trajetória das universidades desde o surgimento no período medieval, com a criação de uma comunidade de scolares; passa pelo fenômeno da nacionalização, com a consequente perda do seu caráter inicial; aborda o processo de estatização a partir da revolução francesa; examina a universidade brasileira sob a influência das reformas educacionais e das iniciativas de internacionalização; e elenca estratégias para o desenvolvimento de um projeto de internacionalização das universidades brasileiras no século XXI.",
+      "summary": "O presente artigo inicia apresentando a trajetória das Universidades desde o surgimento no período medieval, com a criação de uma comunidade de *scolares*; passando pelo fenômeno da nacionalização, com a consequente perda do seu caráter inicial influenciado pelas escolas de ofício e posteriormente pela ordem eclesiástica e imperial; abordando nesse bojo o processo de estatização a partir da revolução francesa. A universidade brasileira, fortemente influenciada até a década de 1970 pelo modelo europeu, foi impactada pelas premissas das reformas educacionais e objetivos delineados para uma estrutura integradora entre ensino e pesquisa, que ocorreu de forma mais efetiva a partir da década de 1980, movimento apresentado juntamente com as iniciativas de internacionalização da universidade. Por último, são elencadas as estratégias para o desenvolvimento de um projeto de internacionalização das universidades brasileiras no século XXI sob a premissa de que para conceber a cooperação internacional, como parte integrante das missões institucionais, cabe às universidades a criação de mecanismos e estruturas apropriadas para promover a internacionalização como um dos pressupostos indicativos desse direcionamento.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/articles/universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/pdfs/universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao.pdf",
@@ -161,7 +215,7 @@
         "Internacionalização"
       ],
       "published_at": 1609545600000,
-      "estimated_reading_time_min": 32,
+      "estimated_reading_time_min": 29,
       "doi": "10.21723/riaee.v16i1.13354",
       "license": "CC BY-NC-SA",
       "journal": "Revista Ibero-Americana de Estudos em Educação",
