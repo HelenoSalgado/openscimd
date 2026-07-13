@@ -115,7 +115,7 @@ As inovações que ele lançou no campo da educação continuaram a exercer infl
 
 ## Como citar este artigo
 
-```
+```cite
 Abdullazade, D., & Malikov, A. [2025]. Reformas filosóficas de Petrus Ramus: a simplificação da lógica e a sistematização da metodologia. Journal History of Science, 6(5), p. 101-112.
 https://doi.org/10.33864/2790-0037.2025.v6.i5.101-112
 ```
