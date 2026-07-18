@@ -1,6 +1,6 @@
 {
   "repo_name": "OpenSciMD",
-  "last_updated": 1784279201876,
+  "last_updated": 1784346004223,
   "articles": [
     {
       "id": "art_004",
@@ -123,6 +123,31 @@
       "volume": "7",
       "issue": "20",
       "pages": "158 – 169"
+    },
+    {
+      "id": "art_010",
+      "title": "Peter Ramus: Importância na Retórica e Ataque a Cícero",
+      "authors": [
+        {
+          "name": "Cole Franklin",
+          "affiliation": "University of Southern Mississippi; East Texas Baptist University"
+        }
+      ],
+      "summary": "Peter Ramus é uma figura influente no campo da retórica, da educação, da teologia, da filosofia e de numerosas outras áreas de estudo. Grande parte de sua influência e relevância decorre não apenas de suas proposições pessoais, mas também de sua crítica a Aristóteles, Quintiliano e Cícero. Este artigo examina as proposições de Ramus, seus escritos, sua popularidade, seus ataques a escritores clássicos e sua influência sobre a educação, a retórica e a dialética. Também é examinada a crítica de Ramus a Cícero e a razão por trás desse ataque.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/articles/peter-ramus-importancia-na-retorica-e-ataque-a-cicero.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/peter-ramus-importancia-na-retorica-e-ataque-a-cicero.webp",
+      "categories": [
+        "Retórica",
+        "Filosofia",
+        "Educação"
+      ],
+      "published_at": 1784246400000,
+      "estimated_reading_time_min": 28,
+      "license": "Artigo acadêmico em PDF; direitos autorais não verificados no arquivo fornecido.",
+      "journal": "IPDA",
+      "volume": "3",
+      "issue": "1",
+      "pages": "46-56"
     },
     {
       "id": "art_003",
