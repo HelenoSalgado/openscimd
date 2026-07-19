@@ -1,7 +1,24 @@
 {
   "repo_name": "OpenSciMD",
-  "last_updated": 1784421881797,
+  "last_updated": 1784459210545,
   "articles": [
+    {
+      "id": "art_012",
+      "title": "A Imitação de Cristo",
+      "author": "Thomas à Kempis",
+      "summary": "Tratado clássico de espiritualidade cristã, composto de quatro livros de admoestações espirituais, que exorta o leitor ao desprezo do mundo, ao conhecimento de si mesmo, à humildade e à imitação da vida de Cristo como caminho de perfeição interior.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/articles/a-imitacao-de-cristo-livro-1.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/a-imitacao-de-cristo-livro-1.webp",
+      "categories": [
+        "Filosofia",
+        "Teologia",
+        "Espiritualidade"
+      ],
+      "published_at": -17419449600000,
+      "estimated_reading_time_min": 60,
+      "license": "Domínio Público",
+      "language": "pt-BR"
+    },
     {
       "id": "art_004",
       "title": "Induções Estruturais para Alucinações em Grandes Modelos de Linguagem: Um Estudo de Caso Apenas de Saída e a Descoberta do Loop de Correção Falsa",
