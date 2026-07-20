@@ -1,0 +1,229 @@
+{
+  "repo_name": "OpenSciMD",
+  "type": "articles",
+  "last_updated": 1784589712403,
+  "articles": [
+    {
+      "id": "art_001",
+      "title": "Induções Estruturais para Alucinações em Grandes Modelos de Linguagem: Um Estudo de Caso Apenas de Saída e a Descoberta do Loop de Correção Falsa",
+      "author": "Hiroko Konishi",
+      "summary": "Este estudo de caso explora as alucinações de Grandes Modelos de Linguagem (LLMs), focando em como eles fabricam informações e caem em 'loops de correção falsa'. Analisa o viés de autoridade e a supressão de hipóteses não-mainstream, propondo que esses comportamentos são induções estruturais no design de LLMs.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/articles/alucinacoes-induzidas-e-o-loop-de-correcoes-falsas-em-llms.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/alucinacoes-induzidas-e-o-loop-de-correcoes-falsas-em-llms.webp",
+      "categories": [
+        "IA"
+      ],
+      "published_at": 1763596800000,
+      "estimated_reading_time_min": 12,
+      "license": "CC BY-NC 4.0"
+    },
+    {
+      "id": "art_002",
+      "title": "AS MARGENS DA REFORMA: PETRUS RAMUS, O CALVINISMO E A AUTONOMIA DO SABER POLÍTICO",
+      "authors": [
+        {
+          "name": "Rafael Ramis Barceló",
+          "orcid": "0000-0003-1756-6695",
+          "email": "r.ramis@uib.es",
+          "affiliation": "Universitat de les Illes Balears / Instituto de Estudios Hispánicos en la Modernidad (IEHM) Unidade associada ao CSIC"
+        }
+      ],
+      "summary": "Neste trabalho explica-se a relevância de Petrus Ramus na construção da política, no marco da Reforma, como uma disciplina independente. Analisam-se as obras de Ramus, tanto as que escreveu como católico quanto as que preparou na última etapa de sua vida, já convertido ao calvinismo, e indica-se a influência política de Ramus num setor minoritário, ainda que muito influente entre os calvinistas. Finalmente, tecem-se algumas considerações sobre a importância do ramismo na configuração de um pensamento político calvinista.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/articles/as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/pdfs/as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico.pdf",
+      "categories": [
+        "Filosofia",
+        "Teologia",
+        "Ciência Política",
+        "História"
+      ],
+      "published_at": 1530316800000,
+      "estimated_reading_time_min": 59,
+      "doi": "10.3989/hs.2018.005",
+      "license": "Direitos autorais: © 2018 CSIC. Este é um artigo de acesso aberto distribuído sob os termos da licença de uso e distribuição Creative Commons Reconhecimento 4.0 Internacional (CC BY 4.0).",
+      "journal": "Hispania Sacra",
+      "volume": "70",
+      "issue": "141",
+      "pages": "51-63"
+    },
+    {
+      "id": "art_003",
+      "title": "DA UNIVERSIDADE QUINHENTISTA DE PARIS PARA O MUNDO: CURRÍCULO E MÉTODO EM PETRUS RAMUS",
+      "authors": [
+        {
+          "name": "Jorge Ramos do Ó",
+          "orcid": "0000-0003-1013-9244",
+          "email": "jorge.o@ie.ulisboa.pt",
+          "affiliation": "Universidade de Lisboa (ULisboa), Instituto de Educação (IE), Unidade de Investigação e Desenvolvimento em Educação e Formação (Uidef), Lisboa, Portugal"
+        },
+        {
+          "name": "Ana Luísa Paz",
+          "orcid": "0000-0003-4848-8183",
+          "email": "apaz@campus.ul.pt",
+          "affiliation": "Universidade de Lisboa (ULisboa), Instituto de Educação (IE), Unidade de Investigação e Desenvolvimento em Educação e Formação (Uidef), Lisboa, Portugal"
+        }
+      ],
+      "summary": "Propomos uma discussão historicamente situada acerca da organização e administração, na cultura ocidental, de um saber inteiramente escolar, caracterizado pelos princípios da ordem e da uniformidade, e que se expressa em monografias - de tipo compendiário e manualístico -, produzidas para circular unicamente nos estabelecimentos de ensino. A análise recuará até ao espaço universitário do Renascimento e aos primeiros debates sobre a premência de um dispositivo de sistematização do conhecimento, onde Petrus Ramus aparece como uma personagem conceptual e onde se descobre um diagnóstico seminal assente sobre um gesto educativo como supondo uma dupla articulação: (i) o currículo é o invariante que permite racionalizar todo conhecimento através de disciplinas unidas num plano de estudos, ao passo que (ii) o método constitui a possibilidade de estabilizar e simplificar, de articular e graduar todos os conteúdos escolares.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/articles/da-universidade-quinhentista-de-paris-para-o-mundo-curriculo-e-metodo-em-petrus-ramus.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/da-universidade-quinhentista-de-paris-para-o-mundo-curriculo-e-metodo-em-petrus-ramus.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/pdfs/da-universidade-quinhentista-de-paris-para-o-mundo-curriculo-e-metodo-em-petrus-ramus.pdf",
+      "categories": [
+        "História da Educação",
+        "Educação"
+      ],
+      "published_at": 1547164800000,
+      "estimated_reading_time_min": 33,
+      "doi": "10.1590/2236-3459/83768",
+      "license": "Direitos autorais: Associação Sul-Rio-Grandense de Pesquisadores em História da Educação - Asphe. Artigo de acesso aberto distribuído nos termos de licença Creative Commons.",
+      "journal": "Revista História da Educação (Online)",
+      "volume": "23",
+      "pages": "1-33"
+    },
+    {
+      "id": "art_004",
+      "title": "O LEGADO DE PETRUS RAMUS E O TRATADO VIA REGIA AD GEOMETRIAM",
+      "authors": [
+        {
+          "name": "Francisco Hemerson Brito da Silva",
+          "affiliation": "Universidade Estadual do Ceará",
+          "email": "francisco.hemerson@aluno.uece.br"
+        },
+        {
+          "name": "Ana Carolina Costa Pereira",
+          "affiliation": "Universidade Estadual do Ceará",
+          "email": "carolina.pereira@uece.br"
+        }
+      ],
+      "summary": "Entre meados dos séculos XVI e XVII, se proliferou uma rica literatura dedicada a geometria prática que impulsionou a produção de tratados para auxiliar nos procedimentos manuais, executados pelos trabalhadores do período. Nesse contexto, o tratado Via regia ad geometriam, escrito e publicado originalmente na Suíça em 1596 pelo francês Petrus Ramus (1515 – 1572), passando a ganhar notoriedade como um dos documentos mais disseminados pela impressa medieval. O exemplar trazia consigo uma organização diferencial dos conhecimentos matemáticos existentes em sua época, que são incorporados em algumas maneiras de medir áreas de superfícies, volume de sólidos, junto ao cálculo de distâncias, tais como comprimento, altura e largura. Desta forma, o artigo tem o intuito de apresentar uma descrição sobre o tratado em questão, destacando alguns elementos matemáticos presentes em seu corpo, junto a uma breve biografia do autor, com suas principais obras e seus preceitos. Ao desenvolver o estudo, utilizou-se uma metodologia bibliográfica-descritiva, com cunho qualitativo, a partir da leitura de livros e artigos que versam sobre a temática estudada, a fim de recolher informações consistentes. No decorrer da pesquisa, observou-se um desenvolvimento sistemático no tratado de Petrus Ramus sobre os elementos matemáticos, sendo descrito em um dos capítulos, o instrumento intitulado por báculo que auxiliava nos procedimentos de medição, por meios desses componentes. Assim, concluiu-se que o documento histórico em questão, contribuiu de forma sucinta ao fornecer subsídios de mensuração para algumas profissões, visto que, era uma das principais atividades desenvolvidas no meio rural e urbano, bastando ter noções sobre as matemáticas do período para utilizá-lo.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/articles/o-legado-de-petrus-ramus-e-o-tradado-via-regia-ad-geometram.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/o-legado-de-petrus-ramus-e-o-tradado-via-regia-ad-geometram.webp",
+      "categories": [
+        "Matemática"
+      ],
+      "published_at": 1577836800000,
+      "estimated_reading_time_min": 21,
+      "doi": "10.30938/bocehm.v7i20.3297",
+      "license": "CC BY 4.0",
+      "journal": "Boletim Cearense de Educação e História da Matemática",
+      "volume": "7",
+      "issue": "20",
+      "pages": "158 – 169"
+    },
+    {
+      "id": "art_005",
+      "title": "Peter Ramus: Importância na Retórica e Ataque a Cícero",
+      "authors": [
+        {
+          "name": "Cole Franklin",
+          "affiliation": "University of Southern Mississippi; East Texas Baptist University"
+        }
+      ],
+      "summary": "Peter Ramus é uma figura influente no campo da retórica, da educação, da teologia, da filosofia e de numerosas outras áreas de estudo. Grande parte de sua influência e relevância decorre não apenas de suas proposições pessoais, mas também de sua crítica a Aristóteles, Quintiliano e Cícero. Este artigo examina as proposições de Ramus, seus escritos, sua popularidade, seus ataques a escritores clássicos e sua influência sobre a educação, a retórica e a dialética. Também é examinada a crítica de Ramus a Cícero e a razão por trás desse ataque.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/articles/peter-ramus-importancia-na-retorica-e-ataque-a-cicero.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/peter-ramus-importancia-na-retorica-e-ataque-a-cicero.webp",
+      "categories": [
+        "Retórica",
+        "Filosofia",
+        "Educação"
+      ],
+      "published_at": 1784246400000,
+      "estimated_reading_time_min": 28,
+      "license": "Artigo acadêmico em PDF; direitos autorais não verificados no arquivo fornecido.",
+      "journal": "IPDA",
+      "volume": "3",
+      "issue": "1",
+      "pages": "46-56"
+    },
+    {
+      "id": "art_006",
+      "title": "REFORMAS FILOSÓFICAS DE PETRUS RAMUS: A SIMPLIFICAÇÃO DA LÓGICA E A SISTEMATIZAÇÃO DA METODOLOGIA",
+      "authors": [
+        {
+          "name": "Djamila Abdullazade",
+          "orcid": "0009-0007-5639-8512",
+          "email": "jamila.abdullazadee@gmail.com",
+          "affiliation": "Universidade Estatal de Baku"
+        },
+        {
+          "name": "Aladdin Malikov",
+          "orcid": "0000-0001-5830-6764",
+          "email": "aladdin.malikov@gmail.com",
+          "affiliation": "AcademyGate Publishing"
+        }
+      ],
+      "summary": "O artigo analisa as concepções filosóficas e reformistas de Petrus Ramus, representante da época do Renascimento. Como um dos mais destacados reformadores do Renascimento, ele deixou um profundo legado. O artigo assinala que Ramus, graças às reformas que realizou tanto na pedagogia quanto na filosofia, exerceu significativa influência sobre o desenvolvimento do pensamento científico. Seus méritos no campo do desenvolvimento eficaz da educação conferiram-lhe grande notoriedade. O artigo enfatiza que ele desempenhou papel importante na introdução de sistematicidade e ordem na educação. O objetivo principal de suas reformas consistia em demonstrar métodos eficazes de assimilação da ciência. Observa-se que os manuais de dialética, retórica e gramática, escritos por ele em colaboração com Omer Talon, reformularam a estrutura educacional da época do Renascimento. O artigo também reflete seu interesse pela matemática e pelas ciências naturais, o que expressava sua convicção de que o pensamento deve possuir uma estrutura ordenada. As concepções de Ramus sobre a linguagem fundamentavam a relação entre pensamento e expressão. Além desses méritos, o artigo afirma que ele também empreendeu ataques substanciais à filosofia aristotélica, especialmente às visões escolásticas rigorosas, cujas razões são analisadas em detalhe. Suas ideias não se limitaram à França, mas influenciaram o desenvolvimento de métodos modernos de ensino em diversos países europeus, incluindo Inglaterra e Alemanha. As reformas de P. Ramus também abriram caminho no pensamento de filósofos como Francis Bacon, René Descartes e Alexander Melville. O artigo examina a vida de Petrus Ramus, a essência do humanismo, a atividade de escritor de Ramus, sua posição contra a filosofia aristotélica, as inovações no método e na lógica no contexto do ambiente intelectual do Renascimento, investiga seu papel na pedagogia europeia e a influência das inovações filosóficas por ele criadas.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/articles/reformas-filosoficas-de-petrus-ramus.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/reformas-filosoficas-de-petrus-ramus.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/pdfs/reformas-filosoficas-de-petrus-ramus.pdf",
+      "categories": [
+        "Filosofia",
+        "Lógica"
+      ],
+      "published_at": 1781913600000,
+      "estimated_reading_time_min": 27,
+      "doi": "10.33864/2790-0037.2025.v6.i5.101-112",
+      "udc": "1(091):161/162",
+      "bbk": "87.3:87.4",
+      "hos": "113",
+      "license": "Direitos autorais: © 2025 por AcademyGate Publishing. Este artigo é um artigo de acesso aberto distribuído sob os termos e condições da licença CC BY-NC 4.0. Para obter detalhes sobre esta licença, visite https://creativecommons.org/licenses/by-nc/4.0/.",
+      "journal": "History of Science",
+      "volume": "6",
+      "issue": "5",
+      "pages": "101-112"
+    },
+    {
+      "id": "art_007",
+      "title": "Universidades: surgimento, nacionalização e indicadores de internacionalização",
+      "authors": [
+        {
+          "name": "Iracema Campos Cusati",
+          "orcid": "0000-0002-4812-8412",
+          "email": "iracema.cusati@upe.br",
+          "affiliation": "Universidade de Pernambuco (UPE), Petrolina – PE – Brasil"
+        },
+        {
+          "name": "Luciano José Vianna",
+          "orcid": "0000-0001-7355-7609",
+          "email": "luciano.vianna@upe.br",
+          "affiliation": "Universidade de Pernambuco (UPE), Petrolina – PE – Brasil"
+        },
+        {
+          "name": "Paulo César Marques de Andrade Santos",
+          "orcid": "0000-0001-5803-2388",
+          "email": "paulo.marques@upe.br",
+          "affiliation": "Universidade de Pernambuco (UPE), Petrolina – PE – Brasil"
+        },
+        {
+          "name": "Rita di Cássia de Oliveira Angelo",
+          "orcid": "0000-0002-1694-1927",
+          "email": "rita.angelo@upe.br",
+          "affiliation": "Universidade de Pernambuco (UPE), Serra Talhada – PE – Brasil"
+        },
+        {
+          "name": "Antonio Carrillo Avelar",
+          "orcid": "0000-0002-5654-0650",
+          "email": "antoniocarrillobr@hotmail.com",
+          "affiliation": "Universidad Nacional Autónoma de México (UNAM), Cidade do México – México"
+        }
+      ],
+      "summary": "O presente artigo inicia apresentando a trajetória das Universidades desde o surgimento no período medieval, com a criação de uma comunidade de *scolares*; passando pelo fenômeno da nacionalização, com a consequente perda do seu caráter inicial influenciado pelas escolas de ofício e posteriormente pela ordem eclesiástica e imperial; abordando nesse bojo o processo de estatização a partir da revolução francesa. A universidade brasileira, fortemente influenciada até a década de 1970 pelo modelo europeu, foi impactada pelas premissas das reformas educacionais e objetivos delineados para uma estrutura integradora entre ensino e pesquisa, que ocorreu de forma mais efetiva a partir da década de 1980, movimento apresentado juntamente com as iniciativas de internacionalização da universidade. Por último, são elencadas as estratégias para o desenvolvimento de um projeto de internacionalização das universidades brasileiras no século XXI sob a premissa de que para conceber a cooperação internacional, como parte integrante das missões institucionais, cabe às universidades a criação de mecanismos e estruturas apropriadas para promover a internacionalização como um dos pressupostos indicativos desse direcionamento.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/articles/universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/pdfs/universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao.pdf",
+      "categories": [
+        "Educação",
+        "Educação Superior",
+        "Internacionalização"
+      ],
+      "published_at": 1609545600000,
+      "estimated_reading_time_min": 29,
+      "doi": "10.21723/riaee.v16i1.13354",
+      "license": "CC BY-NC-SA",
+      "journal": "Revista Ibero-Americana de Estudos em Educação",
+      "volume": "16",
+      "issue": "1",
+      "pages": "3-19"
+    }
+  ]
+}

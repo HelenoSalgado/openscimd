@@ -1,3 +1,15 @@
+---
+title: "Comentários sobre a Religião Cristã"
+author: "Petrus Ramus"
+summary: "Comentários sobre a Religião Cristã, em quatro livros. Juntamente com a Vida do mesmo autor, por Theophilus Banosius."
+date: "1576"
+license: "Domínio Público"
+language: "pt-BR"
+categories:
+  - Teologia
+  - Religião
+---
+
 # Comentários sobre a Religião Cristã, em quatro livros.
 
 **Nunca antes editados.**

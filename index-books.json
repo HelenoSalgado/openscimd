@@ -1,0 +1,68 @@
+{
+  "repo_name": "OpenSciMD",
+  "type": "books",
+  "last_updated": 1784589712426,
+  "books": [
+    {
+      "id": "book_001",
+      "title": "Poética",
+      "author": "Aristóteles",
+      "summary": "Tratado aristotélico sobre a poesia e as artes imitativas, no qual se examinam a essência da tragédia, da epopeia e da comédia; a estrutura do enredo; as partes constitutivas do poema dramático; a catarse das emoções de piedade e temor; e as diferenças entre a imitação trágica e a narrativa épica.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/books/aristoteles/poetica.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/poetica.webp",
+      "published_at": 1784588233564.8752,
+      "estimated_reading_time_min": 71,
+      "license": "Domínio público",
+      "language": "pt-BR"
+    },
+    {
+      "id": "book_002",
+      "title": "Comentários sobre a Religião Cristã",
+      "author": "Petrus Ramus",
+      "summary": "Comentários sobre a Religião Cristã, em quatro livros. Juntamente com a Vida do mesmo autor, por Theophilus Banosius.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/books/petrus-ramus/comentario-sobre-a-religiao-crista.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/comentario-sobre-a-religiao-crista.webp",
+      "categories": [
+        "Teologia",
+        "Religião"
+      ],
+      "published_at": -12433478400000,
+      "estimated_reading_time_min": 14,
+      "license": "Domínio Público",
+      "language": "pt-BR"
+    },
+    {
+      "id": "book_003",
+      "title": "Apologia de Sócrates",
+      "author": "Platão",
+      "summary": "A Apologia de Sócrates apresenta a defesa proferida pelo filósofo Sócrates diante do tribunal ateniense em 399 a.C., após ser acusado de corromper a juventude e de introduzir novas divindades na pólis.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/books/platao/apologia-de-socrates.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/apologia-de-socrates.webp",
+      "categories": [
+        "Filosofia",
+        "Clássicos"
+      ],
+      "published_at": 1783728000000,
+      "estimated_reading_time_min": 54,
+      "license": "Domínio Público"
+    },
+    {
+      "id": "book_004",
+      "title": "A Imitação de Cristo",
+      "author": "Thomas à Kempis",
+      "summary": "Tratado clássico de espiritualidade cristã, composto de quatro livros de admoestações espirituais, que exorta o leitor ao desprezo do mundo, ao conhecimento de si mesmo, à humildade e à imitação da vida de Cristo como caminho de perfeição interior.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/books/thomas-a-kempis/a-imitacao-de-cristo-livro-1.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/a-imitacao-de-cristo-livro-1.webp",
+      "categories": [
+        "Filosofia",
+        "Teologia",
+        "Espiritualidade"
+      ],
+      "published_at": -17419449600000,
+      "estimated_reading_time_min": 60,
+      "license": "Domínio Público",
+      "language": "pt-BR",
+      "originalLanguage": "en"
+    }
+  ]
+}
