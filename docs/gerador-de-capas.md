@@ -4,31 +4,34 @@ Este documento estabelece o **Modelo de Design das Capas** dos artigos do reposi
 
 ---
 
-## 🎨 Modelo de Design para Capas de Artigos
+## 🎨 Modelo de Design para Capas (Coleção OpenSciMD)
 
-Como artigos acadêmicos nativamente não possuem ilustrações de capa, estabelecemos um padrão híbrido onde a **capa final é composta por duas camadas**:
+Para que o repositório mantenha a estética e a credibilidade de coleções acadêmicas clássicas (como as da Oxford ou Penguin), a **capa final é gerada via pipeline automático**, combinando duas camadas processadas via código:
 
-1. **Imagem de Fundo (Background)**: Uma imagem minimalista, abstrata e conceitual que represente o tema do artigo (gerada dinamicamente por IA).
-2. **Camada de Texto (Texto Dinâmico)**: Informações textuais renderizadas sobre a imagem (idealmente de forma dinâmica pelo frontend para evitar serrilhado, erros de digitação permanentes e problemas de tradução).
+1. **Imagem de Fundo (Background Art)**: Uma ilustração minimalista, abstrata e conceitual que represente o tema do artigo. Gerada por IA, ela serve apenas como o "respiro visual".
+2. **Camada Tipográfica e Grid Editorial**: Uma camada gerada automaticamente via `scripts` (utilizando `sharp` ou HTML/SVG) que lê os metadados do artigo (título, autor, data) e os injeta (faz "bake") na imagem final.
+
+Isso garante que toda a coleção siga o mesmo alinhamento de texto, tipografia (fontes acadêmicas como Garamond ou Inter) e hierarquia visual, eliminando as alucinações tipográficas da IA.
 
 ```text
 ┌────────────────────────────────────────┐
-│  LOGO / REPOSITÓRIO                    │ ── Nome do acervo (MD Academics)
+│  OPENSCIMD COLLECTION                  │ ── Título da Coleção (Fixo)
 │                                        │
-│         [ IMAGEM ABSTRATA ]            │ ── Imagem limpa sem nenhum texto,
-│                                        │    servindo como fundo artístico.
-│   TITULO DO ARTIGO EM DESTAQUE         │ ── Título principal legível em alto contraste
-│   Subtítulo / Edição                   │
+│   TITULO DO ARTIGO EM DESTAQUE         │ ── Injetado pelo Script (Tipografia Uniforme)
+│   Subtítulo do artigo                  │
 │                                        │
-│   Autores & DOI                        │ ── Autores e ID persistente de referência
+│         [ IMAGEM ABSTRATA ]            │ ── Arte de fundo gerada (Centro Limpo)
+│                                        │    
+│   Autores                              │ ── Injetado pelo Script (Rodapé)
+│   Data de Publicação                   │
 └────────────────────────────────────────┘
 ```
 
 ### Diretrizes para a Imagem de Fundo (Prompt de IA)
-Para garantir que as capas pareçam profissionais e sofisticadas, a imagem gerada pela IA deve seguir estas regras:
-* **Estilo Visual**: Arte vetorial abstrata, 2D flat, formas geométricas limpas ou composições minimalistas conceituais.
-* **Paleta de Cores**: Tons elegantes e sóbrios, adequados ao contexto científico (evitar saturação excessiva ou neon).
-* **Ausência Absoluta de Texto**: A imagem **não deve conter letras, palavras, assinaturas ou caracteres**. A inserção de texto na imagem de fundo prejudica a legibilidade do título dinâmico e quebra a consistência do design.
+Para garantir que o script de injeção de texto tenha espaço de contraste, a imagem gerada pela IA deve focar em ser a **base** da capa:
+* **Estilo Visual**: Arte abstrata, 2D flat, formas limpas. A arte principal deve ocupar o centro da imagem.
+* **Espaço Negativo (Respiro)**: O topo e o rodapé da imagem devem ter tons escuros ou limpos para que a tipografia branca/dourada tenha contraste perfeito.
+* **Ausência Inicial de Texto (Negative Prompt)**: A imagem original bruta **NÃO PODE CONTER TEXTO NENHUM** (nem título, nem moldura). A IA deve apenas gerar o fundo, enquanto o script cuidará do texto com perfeição.
 
 ---
 
