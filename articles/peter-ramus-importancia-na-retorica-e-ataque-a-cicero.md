@@ -1,5 +1,5 @@
 ---
-title: "Peter Ramus: Importância na Retórica e Ataque a Cícero"
+title: "Peter Ramus: Importância na Retórica e Ataques a Cícero"
 journal: "IPDA"
 volume: 3
 issue: 1
@@ -9,6 +9,9 @@ authors:
     affiliation: "University of Southern Mississippi; East Texas Baptist University"
 summary: "Peter Ramus é uma figura influente no campo da retórica, da educação, da teologia, da filosofia e de numerosas outras áreas de estudo. Grande parte de sua influência e relevância decorre não apenas de suas proposições pessoais, mas também de sua crítica a Aristóteles, Quintiliano e Cícero. Este artigo examina as proposições de Ramus, seus escritos, sua popularidade, seus ataques a escritores clássicos e sua influência sobre a educação, a retórica e a dialética. Também é examinada a crítica de Ramus a Cícero e a razão por trás desse ataque."
 date: "2026-07-17"
+originalLanguage: "en"
+translator: "Heleno Salgado"
+language: "pt-BR"
 keywords:
   - Petrus Ramus
   - Cícero

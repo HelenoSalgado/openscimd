@@ -243,6 +243,6 @@ VERWOERD, Hendrik Frensch. *Bantoe-onderwys: Beleidsbepaling vir die onmiddelike
 
 ## Como referenciar este artigo
 
-```
+```cite
 CUSATI, I. C.; VIANNA, L. J.; SANTOS, P. C. M. A.; ANGELO, R. C. O.; AVELAR, A. C. Universidades: surgimento, nacionalização e indicadores de internacionalização. *Revista Ibero-Americana de Estudos em Educação*, Araraquara, v. 16, n. 1, p. 3-19, jan./mar. 2021. e-ISSN: 1982-5587. DOI: https://doi.org/10.21723/riaee.v16i1.13354
 ```
