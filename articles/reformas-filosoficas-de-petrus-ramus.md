@@ -122,22 +122,22 @@ https://doi.org/10.33864/2790-0037.2025.v6.i5.101-112
 
 ## Referências
 
-[^1] Aristotle. (1912). *Organon* (R. B. Johns, Trad.). Cambridge, MA: Harvard University Press, 434 p. (em inglês).
+[^1]: Aristotle. (1912). *Organon* (R. B. Johns, Trad.). Cambridge, MA: Harvard University Press, 434 p. (em inglês).
 
-[^2] Bacon, F. (1902). *Novum Organum* (Joseph Devey, M.A., Trad.). London: P. F. Collier and Son, 296 p. (em inglês).
+[^2]: Bacon, F. (1902). *Novum Organum* (Joseph Devey, M.A., Trad.). London: P. F. Collier and Son, 296 p. (em inglês).
 
-[^3] Descartes, R. (1912). *Discourse on the Method* (John Veitch, LL.D., Trad.). London: Open Court Publishing, 294 p. (em inglês).
+[^3]: Descartes, R. (1912). *Discourse on the Method* (John Veitch, LL.D., Trad.). London: Open Court Publishing, 294 p. (em inglês).
 
-[^4] Graves, F. P. (1912). *Peter Ramus and the Educational Reformation of the Sixteenth Century*. New York: Macmillan, 258 p. (em inglês).
+[^4]: Graves, F. P. (1912). *Peter Ramus and the Educational Reformation of the Sixteenth Century*. New York: Macmillan, 258 p. (em inglês).
 
-[^5] Lamont, C. (1957). *The Philosophy of Humanism* (4th ed.). New York: Philosophical Library, 253 p. (em inglês).
+[^5]: Lamont, C. (1957). *The Philosophy of Humanism* (4th ed.). New York: Philosophical Library, 253 p. (em inglês).
 
-[^6] Ong, W. J. (2004). *Ramus, Method, and the Decay of Dialogue: From the Art of Discourse to the Art of Reason*. Chicago & London: The University of Chicago Press, 440 p. (em inglês).
+[^6]: Ong, W. J. (2004). *Ramus, Method, and the Decay of Dialogue: From the Art of Discourse to the Art of Reason*. Chicago & London: The University of Chicago Press, 440 p. (em inglês).
 
-[^7] Peter Ramus. (s.d.). *Stanford Encyclopedia of Philosophy*. Recuperado de https://plato.stanford.edu/entries/ramus/ (em inglês).
+[^7]: Peter Ramus. (s.d.). *Stanford Encyclopedia of Philosophy*. Recuperado de https://plato.stanford.edu/entries/ramus/ (em inglês).
 
-[^8] Raghuvashi, A., & Chand, D. K. (2024). *Humanism in French literature in the 16th century*. Educational Administration: Theory and Practice. (em inglês).
+[^8]: Raghuvashi, A., & Chand, D. K. (2024). *Humanism in French literature in the 16th century*. Educational Administration: Theory and Practice. (em inglês).
 
-[^9] Wittgenstein, L. (1953). *Philosophical Investigations* (G. E. M. Anscombe, Trad.). Oxford: Blackwell, 250 p. (em inglês).
+[^9]: Wittgenstein, L. (1953). *Philosophical Investigations* (G. E. M. Anscombe, Trad.). Oxford: Blackwell, 250 p. (em inglês).
 
-[^10] Wormald, J., Court, K., & Community. (2018). *Court, Kirk, and Community: Scotland, 1470–1625*. Edinburgh University Press, 280 p. (em inglês).
+[^10]: Wormald, J., Court, K., & Community. (2018). *Court, Kirk, and Community: Scotland, 1470–1625*. Edinburgh University Press, 280 p. (em inglês).

@@ -196,19 +196,34 @@ Parece que Ramus não desejava criticar Cícero de forma direta, embora Cícero 
 ---
 
 [^1]: Adams, J. C. (1990). Gabriel Harvey's *Ciceronianus* and the place of Peter Ramus' *Dialecticae libri duo* in the curriculum. *Renaissance Quarterly*, 43, 551–569.
+
 [^2]: Bizzell, P., & Herzberg, B. (Eds.). (1990). *The Rhetorical Tradition*. Boston: Bedford Books.
 [^3]: Freedman, J. S. (1993). The diffusion of the writings of Petrus Ramus in central Europe, c. 1570–1630. *Renaissance Quarterly*, 46, 98–152.
+
 [^4]: Grafton, A., & Jardine, L. (1986). *From Humanism to the Humanities*. Cambridge, MA: Harvard University Press.
+
 [^5]: Graves, F. P. (1972). *Peter Ramus and the Educational Reformation of the Sixteenth Century*. Ann Arbor, MI: University Microfilms.
+
 [^6]: Higginbotham, J. (1967). *Cicero on Moral Obligation*. Berkeley, CA: University of California Press.
+
 [^7]: Howell, W. S. (1971). *Eighteenth Century British Logic and Rhetoric*. Princeton, NJ: Princeton University Press.
+
 [^8]: Howell, W. S. (1961). *Logic and Rhetoric in England, 1500–1700*. New York, NY: Russell & Russell, Inc.
+
 [^9]: Huppert, G. (1990). Peter Ramus: the humanist as philosophe. *Modern Language Quarterly*, 51, 208–223.
+
 [^10]: Irwin, F. (1941). *Ramist Logic in Milton's Prose Works*. Ann Arbor, MI: University Microfilms.
+
 [^11]: Murphy, J. (Ed.). (1992). *Peter Ramus's attack on Cicero: Text and translation of Ramus's Brutinae Quaestiones* (C. Newlands, Trans.). Davis, CA: Hermagoras Press.
+
 [^12]: Ong, W. (1958). *Ramus, Method, and the Decay of Dialogue*. Cambridge, MA: Harvard University Press.
+
 [^13]: Ramus, P. (1549). *Arguments in Rhetoric Against Quintilian*. In P. Bizzell & B. Herzberg (Eds.), *The Rhetorical Tradition* (pp. 563–583). Boston: Bedford Books.
+
 [^14]: Rolfe, J. C. (1963). *Cicero and His Influence*. New York, NY: Cooper Square Publishers.
+
 [^15]: Sharratt, P. (1976). Peter Ramus and the reform of the university: the divorce of philosophy and eloquence. In P. Sharratt (Ed.), *French Renaissance Studies 1540–1570* (pp. 4–20). Edinburgh: Edinburgh University Press.
+
 [^16]: Walton, C. (1970). Ramus and the art of judgment. *Philosophy and Rhetoric*, 3, 152–164.
+
 [^17]: Yates, F. A. (1966). *The Art of Memory*. Chicago, IL: The University of Chicago Press.
