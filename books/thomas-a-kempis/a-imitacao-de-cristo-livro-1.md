@@ -2,10 +2,11 @@
 title: "A Imitação de Cristo"
 author: "Thomas à Kempis"
 summary: "Tratado clássico de espiritualidade cristã, composto de quatro livros de admoestações espirituais, que exorta o leitor ao desprezo do mundo, ao conhecimento de si mesmo, à humildade e à imitação da vida de Cristo como caminho de perfeição interior."
-date: "1418"
-license: "Domínio Público"
+date: "1418 d.C."
 originalLanguage: "en"
 language: "pt-BR"
+translator: "Heleno Salgado"
+license: "Domínio Público"
 categories:
   - Filosofia
   - Teologia

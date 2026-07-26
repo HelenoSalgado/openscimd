@@ -2,11 +2,13 @@
 title: "Apologia de Sócrates"
 author: "Platão"
 summary: "A Apologia de Sócrates apresenta a defesa proferida pelo filósofo Sócrates diante do tribunal ateniense em 399 a.C., após ser acusado de corromper a juventude e de introduzir novas divindades na pólis."
-date: "11-07-2026"
+date: "399 a.C."
 license: "Domínio Público"
 categories:
   - Filosofia
   - Clássicos
+translator: "Heleno Salgado"
+language: "pt-BR"
 ---
 
 _Tradução baseada na versão inglesa de Benjamin Jowett (3ª ed., 1892)[^1]._

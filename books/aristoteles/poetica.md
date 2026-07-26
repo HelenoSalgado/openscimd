@@ -4,6 +4,8 @@ author: "Aristóteles"
 summary: "Tratado aristotélico sobre a poesia e as artes imitativas, no qual se examinam a essência da tragédia, da epopeia e da comédia; a estrutura do enredo; as partes constitutivas do poema dramático; a catarse das emoções de piedade e temor; e as diferenças entre a imitação trágica e a narrativa épica."
 date: "335 a.C."
 license: "Domínio público"
+originalLanguage: "en"
+translator: "Heleno Salgado"
 language: "pt-BR"
 ---
 
