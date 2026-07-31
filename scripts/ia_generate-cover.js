@@ -77,11 +77,14 @@ async function generateCover() {
     console.warn('⚠️ Alerta: O artigo não possui um resumo ("summary") no frontmatter. O prompt será baseado apenas no título.');
   }
 
-  // Base prompt for academic background covers
-  const basePrompt = `Create a clean, minimalist, abstract concept vector illustration representing the core themes of the following academic paper: "${metadata.title || baseName}". ` +
+  // Base prompt for academic background covers (book cover ratio, centered solid illustration, negative space)
+  const basePrompt = `Create a clean, minimalist book cover background artwork with vertical 2:3 aspect ratio (portrait orientation). ` +
+    `The illustration must NOT be abstract; instead, depict a clear, solid, recognizable minimalist object or symbol representing the single strongest central element of the following academic paper: "${metadata.title || baseName}". ` +
     (summary ? `Themes description: "${summary}". ` : '') +
-    `Use a professional, elegant academic color scheme. The composition should be flat, modern, symbolic and clean. ` +
-    `Strictly NO text, NO letters, NO words, NO titles, and NO writing on the image. High-quality vector illustration.`;
+    `The main subject must be perfectly centered in the middle of the composition. ` +
+    `Keep ample clean negative space at the top and bottom of the image for editorial text placement. ` +
+    `Use a professional, elegant academic color scheme with 2D flat vector aesthetic. ` +
+    `Strictly NO text, NO letters, NO words, NO titles, NO borders, and NO writing anywhere on the image. High-quality cover illustration.`;
 
   // Merge with custom styling instructions if provided
   const finalPrompt = customStylePrompt 

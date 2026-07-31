@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "articles",
-  "last_updated": 1784589712403,
+  "last_updated": 1785471731254,
   "articles": [
     {
       "id": "art_001",
@@ -81,6 +81,33 @@
       "pages": "1-33"
     },
     {
+      "id": "art_008",
+      "title": "O DESTINO ETERNO DOS BEBÊS QUE MORREM PRECOCEMENTE E DAS PESSOAS COM DEFICIÊNCIA INTELECTUAL SEVERA",
+      "authors": [
+        {
+          "name": "Plínio Sousa",
+          "orcid": "0009-0000-1772-1849",
+          "email": "reitoria@irse.com.br",
+          "affiliation": "Instituto Reformado Santo Evangelho (IRSE)"
+        }
+      ],
+      "summary": "O presente estudo teológico examina o destino eterno de bebês que morrem precocemente e de pessoas nascidas com deficiência intelectual severa, à luz da soberania divina, da graça e da justiça de Deus. Argumenta-se que a salvação desses indivíduos não depende do exercício consciente da fé, do arrependimento ou de uma consciência moral plenamente desenvolvida, mas exclusivamente da graça soberana de Deus, fundamentada na eleição do Pai, na redenção de Cristo e na regeneração pelo Espírito Santo. A partir de textos bíblicos, distingue-se entre a culpa do pecado original (condição herdada em potência) e a culpa de pecados pessoais conscientes (em ato). Sustenta-se que Deus, sendo perfeitamente justo, não condena eternamente quem jamais exerceu responsabilidade moral deliberada. O trabalho defende a posição de João Calvino contra acusações de que ele ensinava a danação de bebês, esclarecendo a distinção entre “condenação” (sentença) e “danação” (execução da sentença). Afirma-se, finalmente, que todos os bebês que morrem precocemente e todas as pessoas com deficiência intelectual severa que nascem nessa condição são eleitos de Deus, são salvos pela graça soberana de Deus, oferecendo consolo pastoral diante de passagens difíceis das Escrituras e contrastando a coerência do Calvinismo com as dificuldades lógicas do Arminianismo e do Catolicismo Romano nessa matéria.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/articles/o-destino-eterno-dos-bebes-que-morrem-precocimente-e-das-pessoas-com-deficiencia-intelectual-severa.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/o-destino-eterno-dos-bebes-que-morrem-precocimente-e-das-pessoas-com-deficiencia-intelectual-severa.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/pdfs/o-destino-eterno-dos-bebes-que-morrem-precocimente-e-das-pessoas-com-deficiencia-intelectual-severa.pdf",
+      "categories": [
+        "Teologia",
+        "Educação"
+      ],
+      "published_at": 1841270400000,
+      "estimated_reading_time_min": 122,
+      "doi": "10.5281/zenodo.21684711",
+      "license": "Creative Commons Attribution 4.0 International",
+      "volume": "1",
+      "issue": "1",
+      "pages": "1-51"
+    },
+    {
       "id": "art_004",
       "title": "O LEGADO DE PETRUS RAMUS E O TRATADO VIA REGIA AD GEOMETRIAM",
       "authors": [
@@ -112,7 +139,7 @@
     },
     {
       "id": "art_005",
-      "title": "Peter Ramus: Importância na Retórica e Ataque a Cícero",
+      "title": "Peter Ramus: Importância na Retórica e Ataques a Cícero",
       "authors": [
         {
           "name": "Cole Franklin",
@@ -133,7 +160,8 @@
       "journal": "IPDA",
       "volume": "3",
       "issue": "1",
-      "pages": "46-56"
+      "pages": "46-56",
+      "language": "pt-BR"
     },
     {
       "id": "art_006",
@@ -161,7 +189,7 @@
         "Lógica"
       ],
       "published_at": 1781913600000,
-      "estimated_reading_time_min": 27,
+      "estimated_reading_time_min": 28,
       "doi": "10.33864/2790-0037.2025.v6.i5.101-112",
       "udc": "1(091):161/162",
       "bbk": "87.3:87.4",

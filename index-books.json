@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1784589712426,
+  "last_updated": 1785471731275,
   "books": [
     {
       "id": "book_001",
@@ -13,23 +13,9 @@
       "published_at": 1784588233564.8752,
       "estimated_reading_time_min": 71,
       "license": "Domínio público",
-      "language": "pt-BR"
-    },
-    {
-      "id": "book_002",
-      "title": "Comentários sobre a Religião Cristã",
-      "author": "Petrus Ramus",
-      "summary": "Comentários sobre a Religião Cristã, em quatro livros. Juntamente com a Vida do mesmo autor, por Theophilus Banosius.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/books/petrus-ramus/comentario-sobre-a-religiao-crista.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/comentario-sobre-a-religiao-crista.webp",
-      "categories": [
-        "Teologia",
-        "Religião"
-      ],
-      "published_at": -12433478400000,
-      "estimated_reading_time_min": 14,
-      "license": "Domínio Público",
-      "language": "pt-BR"
+      "language": "pt-BR",
+      "originalLanguage": "en",
+      "translator": "Heleno Salgado"
     },
     {
       "id": "book_003",
@@ -44,7 +30,9 @@
       ],
       "published_at": 1783728000000,
       "estimated_reading_time_min": 54,
-      "license": "Domínio Público"
+      "license": "Domínio Público",
+      "language": "pt-BR",
+      "translator": "Heleno Salgado"
     },
     {
       "id": "book_004",
@@ -62,7 +50,8 @@
       "estimated_reading_time_min": 60,
       "license": "Domínio Público",
       "language": "pt-BR",
-      "originalLanguage": "en"
+      "originalLanguage": "en",
+      "translator": "Heleno Salgado"
     }
   ]
 }

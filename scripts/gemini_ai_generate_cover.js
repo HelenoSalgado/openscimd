@@ -87,11 +87,14 @@ async function main() {
     console.warn('⚠️ Alerta: O artigo não possui um resumo ("summary") no frontmatter. O prompt será baseado apenas no título.');
   }
 
-  // Base prompt for academic background covers
-  const basePrompt = `Create a clean, minimalist, abstract concept illustration representing the core themes of the following academic paper: "${metadata.title || baseName}". ` +
+  // Base prompt for academic background covers (book cover ratio, centered solid illustration, negative space)
+  const basePrompt = `Create a clean, minimalist book cover background artwork with vertical 2:3 aspect ratio (portrait orientation). ` +
+    `The illustration must NOT be abstract; instead, depict a clear, solid, recognizable minimalist object or symbol representing the single strongest central element of the following academic paper: "${metadata.title || baseName}". ` +
     (summary ? `Themes description: "${summary}". ` : '') +
-    `Use a professional, elegant academic color scheme. The composition should be flat, modern, symbolic and clean. ` +
-    `Strictly NO text, NO letters, NO words, NO titles, and NO writing on the image. High-quality illustration.`;
+    `The main subject must be perfectly centered in the middle of the composition. ` +
+    `Keep ample clean negative space at the top and bottom of the image for editorial text placement. ` +
+    `Use a professional, elegant academic color scheme with 2D flat vector aesthetic. ` +
+    `Strictly NO text, NO letters, NO words, NO titles, NO borders, and NO writing anywhere on the image. High-quality cover illustration.`;
 
   const finalPrompt = customStylePrompt 
     ? `${basePrompt} Visual style requested: ${customStylePrompt}.`
@@ -119,12 +122,18 @@ async function main() {
       fs.mkdirSync(coversDir, { recursive: true });
     }
 
-    console.log('💾 Salvando imagem gerada...');
+    console.log('💾 Salvando imagem gerada de fundo temporária...');
+    const tempRawPath = path.join(coversDir, `${baseName}.png`);
     const buffer = Buffer.from(generatedImage.data, 'base64');
-    fs.writeFileSync(coverDestPath, buffer);
+    fs.writeFileSync(tempRawPath, buffer);
 
-    console.log(`\n✅ Imagem de capa salva com sucesso em: covers/${baseName}.png`);
-    console.log('   Lembre-se de rodar "node scripts/update-index.js" para atualizar o índice geral.');
+    console.log('🎨 Aplicando overlay de tipografia editorial e salvando em covers/originals...');
+    const { execSync } = require('child_process');
+    const injectScript = path.join(__dirname, 'inject-cover-text.js');
+    execSync(`node "${injectScript}" "${tempRawPath}"`, { stdio: 'inherit' });
+
+    console.log(`\n✅ Processo concluído! Capa gerada e formatada em: covers/originals/${baseName}.png`);
+    console.log('   Lembre-se de rodar "npm run convert-covers" e "node scripts/update-index.js".');
   } catch (err) {
     console.error(`❌ Erro durante a geração da imagem de capa via Gemini: ${err.message}`);
     process.exit(1);

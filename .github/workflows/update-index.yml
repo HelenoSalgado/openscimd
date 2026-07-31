@@ -4,6 +4,8 @@ on:
   push:
     paths-ignore:
       - 'index.json'
+      - 'index-articles.json'
+      - 'index-books.json'
   workflow_dispatch:
 
 permissions:
@@ -25,22 +27,22 @@ jobs:
       - name: Run update-index script
         run: node scripts/update-index.js
 
-      - name: Check if index.json changed
+      - name: Check if index files changed
         id: check_changes
         run: |
-          git add index.json
-          if git diff --cached --quiet index.json; then
+          git add index-articles.json index-books.json
+          if git diff --cached --quiet index-articles.json index-books.json; then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
             echo "changed=true" >> $GITHUB_OUTPUT
           fi
 
-      - name: Commit and push changes if index.json changed
+      - name: Commit and push changes if index files changed
         if: steps.check_changes.outputs.changed == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git commit -m "chore: auto-update index.json [skip ci]"
+          git commit -m "chore: auto-update index-articles.json and index-books.json [skip ci]"
           git pull origin ${{ github.ref_name }} --rebase
           git push
 

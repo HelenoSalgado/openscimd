@@ -1,8 +1,6 @@
 # Gerador de Capas e Modelo de Design
 
-Este documento estabelece o **Modelo de Design das Capas** dos artigos do repositório e explica o funcionamento e configuração do script automático de geração de ilustrações por Inteligência Artificial.
-
----
+Este documento estabelece o **Modelo de Design das Capas** dos artigos e e-books do repositório e explica o funcionamento e configuração do script automático de geração de ilustrações por Inteligência Artificial.
 
 ## 🎨 Modelo de Design para Capas (Coleção OpenSciMD)
 
@@ -15,7 +13,7 @@ Isso garante que toda a coleção siga o mesmo alinhamento de texto, tipografia 
 
 ```text
 ┌────────────────────────────────────────┐
-│  OPENSCIMD COLLECTION                  │ ── Título da Coleção (Fixo)
+│  COLEÇÃO OPENSCIMD                     │ ── Título da Coleção (Fixo)
 │                                        │
 │   TITULO DO ARTIGO EM DESTAQUE         │ ── Injetado pelo Script (Tipografia Uniforme)
 │   Subtítulo do artigo                  │
@@ -33,14 +31,14 @@ Para garantir que o script de injeção de texto tenha espaço de contraste, a i
 * **Espaço Negativo (Respiro)**: O topo e o rodapé da imagem devem ter tons escuros ou limpos para que a tipografia branca/dourada tenha contraste perfeito.
 * **Ausência Inicial de Texto (Negative Prompt)**: A imagem original bruta **NÃO PODE CONTER TEXTO NENHUM** (nem título, nem moldura). A IA deve apenas gerar o fundo, enquanto o script cuidará do texto com perfeição.
 
----
 
 ## 🛠️ Como Utilizar os Geradores de Capas
 
 Para facilitar a manutenção e garantir eficiência, o repositório trabalha com scripts independentes para a geração de imagens por IA. As chaves de configuração do arquivo `.env` são compartilhadas, mas cada script as consome de acordo com seu provedor.
 
 ### 1. Configuração do `.env`
-Primeiro, crie um arquivo `.env` na raiz do projeto (copie o modelo de [.env.example](file:///home/heleno/Documentos/GitHub/openscimd/.env.example)):
+
+Primeiro, crie um arquivo `.env` na raiz do projeto (copie o modelo de [.env.example](.env.example)):
 
 ```bash
 cp .env.example .env
@@ -48,18 +46,19 @@ cp .env.example .env
 
 Abra o arquivo `.env` e preencha as variáveis correspondentes à IA que você vai utilizar.
 
----
-
 ### 🟢 Opção A: Gerador Google Gemini (Recomendado & Nativo)
+
 Este script utiliza o SDK oficial `@google/genai` para se comunicar diretamente com os modelos de geração de imagens do Google (como o `gemini-3.1-flash-image`).
 
 #### Configuração do `.env` para o Gemini:
+
 ```ini
 IA_KEY=sua_gemini_api_key_aqui
 IA_MODEL_NAME=gemini-3.1-flash-image
 ```
 
 #### Executar o comando:
+
 ```bash
 # Listar os modelos de geração de imagem compatíveis:
 node scripts/gemini_ai_generate_cover.js --list
@@ -73,12 +72,11 @@ node scripts/gemini_ai_generate_cover.js nome-do-artigo "estilo pintura clássic
 
 A imagem gerada será salva diretamente em `covers/nome-do-artigo.png`.
 
----
-
 ### ⚪ Opção B: Gerador Genérico HTTP POST (OpenAI / DALL-E)
 Este script faz requisições HTTP brutas do tipo POST, compatíveis com a API do DALL-E ou proxies OpenAI-like.
 
 #### Configuração do `.env` para DALL-E / OpenAI:
+
 ```ini
 IA_KEY=seu_token_openai_aqui
 IA_API_URL=https://api.openai.com/v1/images/generations
@@ -90,13 +88,11 @@ IA_MODEL_NAME=dall-e-3
 node scripts/ia_generate-cover.js nome-do-artigo "estilo minimalista escandinavo"
 ```
 
-A imagem gerada será salva diretamente em `covers/nome-do-artigo.webp`.
-
----
+A imagem gerada será salva diretamente em `covers/nome-do-artigo.png`.
 
 ## 🔄 Passo Final Pós-Geração
 
-Toda vez que uma nova imagem de capa for gerada ou alterada, lembre-se de atualizar o índice do repositório para que o link da nova imagem de capa seja devidamente computado no [index.json](file:///home/heleno/Documentos/GitHub/openscimd/index.json):
+Toda vez que uma nova imagem de capa for gerada ou alterada, lembre-se de atualizar o índice do repositório para que o link da nova imagem de capa seja devidamente computado nos [index-article.json](index-articles.json) e [index-books.json](index-books.json):
 
 ```bash
 node scripts/update-index.js
