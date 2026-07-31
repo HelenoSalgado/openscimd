@@ -410,6 +410,10 @@ Por ora, basta o que foi exposto acerca desta matéria. Procurei, dentro das min
 - Há também uma eleição de indivíduos e de nações para favores e privilégios externos e temporais, uma eleição que não implica necessariamente salvação.
 - A doutrina da eleição é ensinada e enfatizada repetidas vezes em toda a Escritura Sagrada.
 
+’’’cite
+Plínio Sousa. (2026). O DESTINO ETERNO DOS BEBÊS QUE MORREM PRECOCEMENTE E DAS PESSOAS COM DEFICIÊNCIA INTELECTUAL SEVERA. In O DESTINO ETERNO DOS BEBÊS QUE MORREM PRECOCEMENTE E DAS PESSOAS COM DEFICIÊNCIA INTELECTUAL SEVERA (Vol. 1, Issue 1, pp. 1–51). Zenodo. https://doi.org/10.5281/zenodo.21684711
+’’’
+
 ---
 
 [^1]: Para manter a uniformidade formal e a organização do texto, adotou-se, ao longo deste artigo, o padrão de parágrafos com extensão aproximada de oito a doze linhas. Exceções poderão ocorrer quando a natureza do argumento, a citação de fontes ou a estrutura lógica da exposição assim o exigirem.
