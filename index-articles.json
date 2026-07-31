@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "articles",
-  "last_updated": 1785471815965,
+  "last_updated": 1785495866578,
   "articles": [
     {
       "id": "art_001",
@@ -100,7 +100,7 @@
         "Educação"
       ],
       "published_at": 1841270400000,
-      "estimated_reading_time_min": 122,
+      "estimated_reading_time_min": 120,
       "doi": "10.5281/zenodo.21684711",
       "license": "Creative Commons Attribution 4.0 International",
       "volume": "1",
