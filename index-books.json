@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1785500332385,
+  "last_updated": 1785642049542,
   "books": [
     {
       "id": "book_001",
@@ -33,6 +33,21 @@
       "license": "Domínio Público",
       "language": "pt-BR",
       "translator": "Heleno Salgado"
+    },
+    {
+      "id": "book_005",
+      "title": "O Primeiro Livro de Moisés, Chamado Gênesis",
+      "author": "Moisés",
+      "summary": "Tradução do Gênesis a partir da King James Bible de 1611, narrando a criação do mundo, a queda do homem, o dilúvio, a dispersão das nações e a história dos patriarcas Abraão, Isaque, Jacó e Joseph, até a descida de Israel ao Egito.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/books/primeiro-livro-de-moises-chamado-genesis.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/primeiro-livro-de-moises-chamado-genesis.webp",
+      "categories": [
+        "Bíblia"
+      ],
+      "published_at": 1785642044733.8816,
+      "estimated_reading_time_min": 58,
+      "license": "Domínio público",
+      "language": "pt-BR"
     },
     {
       "id": "book_004",
