@@ -926,3 +926,244 @@ categories:
 33. E concebeu outra vez, e teve um filho, e disse: Porquanto o Senhor ouviu que eu era desprezada, também me deu este. E chamou o seu nome Simeão.
 34. E concebeu outra vez, e teve um filho, e disse: Agora esta vez se apegará meu marido a mim, porque três filhos lhe tenho dado. Por isso chamou o seu nome Levi.
 35. E concebeu outra vez, e teve um filho, e disse: Agora louvarei ao Senhor. Por isso chamou o seu nome Judá; e cessou de ter filhos.
+
+## Capítulo 30 — Os Filhos de Jacó e a Astúcia com os Rebanhos
+
+1. E vendo Raquel que não dava filhos a Jacó, teve Raquel invidia de sua irmã, e disse a Jacó: Dá-me filhos, ou então morro.
+2. E irou-se Jacó contra Raquel, e disse: Sou eu Deus, que te tenho detido o fruto do ventre?
+3. E ela disse: Eis aqui a minha serva Bila; entra a ela, para que dê à luz sobre os meus joelhos, e eu também tenha filhos por ela.
+4. E deu-lhe a Bila sua serva por mulher; e Jacó entrou a ela.
+5. E concebeu Bila, e teve um filho a Jacó.
+6. E disse Raquel: Julgou-me Deus, e também ouviu a minha voz, e me deu um filho. Por isso chamou o seu nome Dã.
+7. E concebeu outra vez Bila, serva de Raquel, e teve um segundo filho a Jacó.
+8. E disse Raquel: Com grandes lutas tenho lutado com minha irmã, e tenho prevalecido. E chamou o seu nome Naftali.
+9. E vendo Lia que tinha cessado de ter filhos, tomou a Zilpa sua serva, e a deu a Jacó por mulher.
+10. E Zilpa, serva de Lia, teve um filho a Jacó.
+11. E disse Lia: Uma tropa vem. E chamou o seu nome Gade.
+12. E Zilpa, serva de Lia, teve um segundo filho a Jacó.
+13. E disse Lia: Feliz sou eu, porque as filhas me chamarão bendita. E chamou o seu nome Aser.
+14. E foi Rúben, nos dias da sega do trigo, e achou mandrágoras no campo, e as trouxe a Lia sua mãe. Então disse Raquel a Lia: Dá-me, peço-te, das mandrágoras de teu filho.
+15. E ela lhe disse: É pouco que me tenhas tomado o meu marido, e queres tomar também as mandrágoras de meu filho? E disse Raquel: Por isso ele se deitará contigo esta noite, pelas mandrágoras de teu filho.
+16. E veio Jacó do campo à tarde, e saiu Lia a encontrá-lo, e disse: A mim virás, porque certamente te aluguei pelas mandrágoras de meu filho. E deitou-se com ela aquela noite.
+17. E ouviu Deus a Lia, e concebeu, e teve a Jacó o quinto filho.
+18. E disse Lia: Deus me deu o meu galardão, porquanto dei minha serva a meu marido. E chamou o seu nome Issacar.
+19. E concebeu Lia outra vez, e teve o sexto filho a Jacó.
+20. E disse Lia: Deus me deu um bom dote; agora habitará meu marido comigo, porquanto lhe tenho dado seis filhos. E chamou o seu nome Zebulom.
+21. E depois teve uma filha, e chamou o seu nome Diná.
+22. E lembrou-se Deus de Raquel, e ouviu-a Deus, e abriu a sua madre.
+23. E concebeu, e teve um filho; e disse: Tirou Deus a minha vergonha.
+24. E chamou o seu nome Joseph, dizendo: O Senhor me acrescentará outro filho.
+25. E aconteceu que, tendo Raquel dado à luz a Joseph, disse Jacó a Labão: Despede-me, para que eu vá ao meu lugar, e à minha terra.
+26. Dá-me as minhas mulheres e os meus filhos, pelos quais te tenho servido, e deixa-me ir; pois tu sabes o serviço que te tenho feito.
+27. E disse-lhe Labão: Rogo-te, se tenho achado graça em teus olhos, fica; porque tenho aprendido por experiência que o Senhor me tem bendito por causa de ti.
+28. E disse: Aponta-me o teu salário, e eu o darei.
+29. E disse-lhe ele: Tu sabes como te tenho servido, e como te tem ido o teu gado.
+30. Porque era pouco o que tinhas antes da minha vinda, e cresceu para uma multidão; e o Senhor te tem bendito desde a minha vinda; e agora, quando cuidarei eu também da minha casa?
+31. E ele disse: Que te darei? E disse Jacó: Não me darás coisa alguma; se fizeres por mim isto, tornarei a apascentar e a guardar o teu rebanho.
+32. Passarei hoje por todo o teu rebanho, tirando dele todas as reses salpicadas e malhadas, e todas as pardas entre as ovelhas, e as malhadas e salpicadas entre as cabras; e isto será o meu salário.
+33. Assim, a minha justiça responderá por mim no dia de amanhã, quando vier diante de ti por meu salário: tudo o que não for salpicado nem malhado entre as cabras, e pardo entre as ovelhas, ser-me-á tido por furtado.
+34. E disse Labão: Eis que, prouvera fosse conforme a tua palavra.
+35. E tirou naquele dia os bodes listados e malhados, e todas as cabras salpicadas e malhadas, e tudo em que havia algum branco, e todo o pardo entre as ovelhas, e os entregou nas mãos de seus filhos.
+36. E pôs três dias de caminho entre si e Jacó; e Jacó apascentava o resto dos rebanhos de Labão.
+37. E tomou Jacó para si varas verdes de estoraque, e de aveleira, e de castanheiro, e nelas descascou riscas brancas, descobrindo o branco que nas varas havia.
+38. E pôs as varas que tinha descascado nas pias, diante dos rebanhos, nos bebedouros de água, aonde os rebanhos vinham beber, para que concebessem quando ali viessem beber.
+39. E os rebanhos concebiam diante das varas, e pariam listados, salpicados e malhados.
+40. E separou Jacó os cordeiros, e pôs os rostos dos rebanhos para os listados, e todo o pardo entre os rebanhos de Labão; e pôs o seu rebanho aparte, e não o pôs com o rebanho de Labão.
+41. E era que, todas as vezes que concebiam as fêmeas mais fortes, punha Jacó as varas diante dos olhos do rebanho nas pias, para que concebessem diante das varas.
+42. Mas quando o rebanho era fraco, não as punha; assim os fracos eram de Labão, e os fortes de Jacó.
+43. E cresceu aquele homem em extremo, e teve muitos rebanhos, e servas, e servos, e camelos, e jumentos.
+
+## Capítulo 31 — A Fuga de Jacó
+
+1. E ouviu as palavras dos filhos de Labão, que diziam: Jacó tomou tudo o que era de nosso pai, e do que era de nosso pai adquiriu toda esta riqueza.
+2. E olhou Jacó para o rosto de Labão, e eis que não estava para com ele como antes.
+3. E disse o Senhor a Jacó: Volta à terra de teus pais, e à tua parentela; e eu serei contigo.
+4. Então Jacó enviou, e chamou a Raquel e a Lia ao campo, ao seu rebanho,
+5. E disse-lhes: Vejo o rosto de vosso pai, que não está para comigo como antes; mas o Deus de meu pai tem sido comigo.
+6. E vós sabeis que com todas as minhas forças tenho servido a vosso pai.
+7. E vosso pai me enganou, e mudou o meu salário dez vezes; mas Deus não permitiu que ele me fizesse mal.
+8. Se ele dizia assim: As salpicadas serão o teu salário; então todo o rebanho tinha salpicados; e se dizia assim: As listadas serão o teu salário; então todo o rebanho tinha listados.
+9. Assim tirou Deus o gado de vosso pai, e o deu a mim.
+10. E aconteceu que, ao tempo em que o rebanho concebia, levantei os meus olhos, e vi em sonhos, e eis que os machos que cobriam as fêmeas eram listados, salpicados e malhados.
+11. E disse-me o anjo de Deus em sonhos: Jacó. E eu disse: Eis-me aqui.
+12. E ele disse: Levanta agora os teus olhos, e vê todos os machos que cobrem o rebanho, que são listados, salpicados e malhados; porque tenho visto tudo o que Labão te faz.
+13. Eu sou o Deus de Betel, onde unges-te a coluna, e onde me fizeste um voto; levanta-te agora, sai desta terra, e volta à terra da tua parentela.
+14. E responderam Raquel e Lia, e disseram-lhe: Há ainda para nós parte ou herança na casa de nosso pai?
+15. Não nos tem ele por estrangeiras? pois nos vendeu, e ainda devorou todo o nosso dinheiro.
+16. Porque todas as riquezas que Deus tirou de nosso pai, são nossas, e de nossos filhos; agora, pois, tudo o que Deus te disse, faze.
+17. Então se levantou Jacó, e pôs seus filhos e suas mulheres sobre os camelos.
+18. E levou todo o seu gado, e todos os seus bens que tinha adquirido, o gado que possuía, que havia adquirido em Padã-Arã, para ir a Isaque seu pai, à terra de Canaã.
+19. E ido Labão a tosquiar as suas ovelhas, furtou Raquel os ídolos que eram de seu pai.
+20. E fugiu Jacó às escondidas de Labão, o arameu, não lhe dizendo que fugia.
+21. Assim fugiu ele com tudo o que tinha; e levantou-se, e passou o rio, e caminhou para o monte de Gileade.
+22. E ao terceiro dia foi dito a Labão que Jacó havia fugido.
+23. E tomou consigo os seus irmãos, e o perseguiu por sete dias de caminho; e o alcançou no monte de Gileade.
+24. E veio Deus a Labão, o arameu, em sonhos de noite, e disse-lhe: Guarda-te, que não fales a Jacó, nem bem nem mal.
+25. Alcançou, pois, Labão a Jacó. Ora, tinha Jacó armado a sua tenda naquele monte; e Labão armou a sua com os seus irmãos no monte de Gileade.
+26. E disse Labão a Jacó: Que fizeste, que te escondeste de mim, e levaste minhas filhas, como cativas tomadas à espada?
+27. Por que fugiste tão secretamente, e me furtaste, e não me fizeste saber, para que eu te acompanhasse com alegria, e com cânticos, com tamboril e com harpa?
+28. E não me permitiste beijar meus filhos e minhas filhas? loucamente agora fizeste ao fazer isto.
+29. Poder havia em minha mão para te fazer mal; mas o Deus de teu pai me falou ontem à noite, dizendo: Guarda-te, que não fales a Jacó, nem bem nem mal.
+30. E agora, mesmo que tenhas querido partir, porque tinhas grande desejo da casa de teu pai, por que furtaste os meus deuses?
+31. E respondeu Jacó, e disse a Labão: Porque tive temor; pois disse: Porventura me tomarias por força as tuas filhas.
+32. Com quem quer que achares os teus deuses, não viva ele diante de nossos irmãos; reconhece o que é teu entre o que tenho, e leva-o para ti. Porque Jacó não sabia que Raquel os tinha furtado.
+33. E entrou Labão na tenda de Jacó, e na tenda de Lia, e na tenda de ambas as servas, e não os achou; e saiu da tenda de Lia, e entrou na tenda de Raquel.
+34. E havia Raquel tomado os ídolos, e os havia posto na sela do camelo, e se assentara sobre eles; e apalpou Labão toda a tenda, e não os achou.
+35. E disse ela a seu pai: Não se ire o meu senhor por não me poder eu levantar diante de ti; porque o costume das mulheres está sobre mim. E ele buscou, mas não achou os ídolos.
+36. Então se irou Jacó, e contendeu com Labão; e respondeu Jacó, e disse a Labão: Qual é a minha transgressão? qual é o meu pecado, para que tão ardentemente me tenhas perseguido?
+37. Havendo apalpado todos os meus móveis, que achaste de todos os móveis de tua casa? põe-lo aqui diante de meus irmãos e de teus irmãos, para que julguem entre nós ambos.
+38. Estes vinte anos estive contigo; as tuas ovelhas e as tuas cabras nunca abortaram, nem os carneiros do teu rebanho comi.
+39. Nunca te trouxe o dilacerado pelas feras; eu suportava o dano; da minha mão o requerias, tanto o furtado de dia como o furtado de noite.
+40. Assim estava eu, que de dia o calor me consumia, e de noite a geada; e o meu sono fugia dos meus olhos.
+41. Assim estive vinte anos em tua casa; catorze anos te servi por tuas duas filhas, e seis anos por teu gado; e mudaste o meu salário dez vezes.
+42. Se o Deus de meu pai, o Deus de Abraão, e o temor de Isaque, não fosse comigo, certamente me despedirias agora vazio. Viu Deus a minha aflição e o trabalho de minhas mãos, e repreendeu-te ontem à noite.
+43. E respondeu Labão, e disse a Jacó: Estas filhas são minhas filhas, e estes filhos são meus filhos, e este gado é meu gado, e tudo o que vês é meu; e que farei eu hoje a estas minhas filhas, ou a seus filhos que elas geraram?
+44. Vem, pois, agora, e façamos aliança, eu e tu; e seja isto por testemunho entre mim e ti.
+45. Então tomou Jacó uma pedra, e a levantou por coluna.
+46. E disse Jacó a seus irmãos: Ajuntai pedras. E tomaram pedras, e fizeram um montão, e comeram ali sobre o montão.
+47. E chamou-o Labão Jegar-Saaduta; mas Jacó chamou-o Galeede.
+48. E disse Labão: Este montão é hoje testemunho entre mim e ti. Por isso se chamou o seu nome Galeede;
+49. E também Mizpa; porque disse: Vigie o Senhor entre mim e ti, quando estivermos apartados um do outro.
+50. Se afligires as minhas filhas, ou se tomares outras mulheres além das minhas filhas, nenhum homem está com nós; olha, Deus é testemunha entre mim e ti.
+51. E disse mais Labão a Jacó: Eis este montão, e eis esta coluna que levantei entre mim e ti;
+52. Este montão seja testemunha, e esta coluna seja testemunha, que eu não passarei este montão a ti, e que tu não passarás este montão e esta coluna a mim, para mal.
+53. O Deus de Abraão, e o Deus de Naor, o Deus de seu pai, julgue entre nós. E jurou Jacó pelo temor de Isaque seu pai.
+54. Então sacrificou Jacó sacrifício sobre o monte, e chamou seus irmãos para comerem pão; e comeram pão, e passaram a noite naquele monte.
+55. E levantou-se Labão de madrugada, e beijou seus filhos e suas filhas, e os bendisse; e partiu Labão, e voltou para o seu lugar.
+
+## Capítulo 32 — Jacó Luta com o Anjo em Peniel
+
+1. E seguiu Jacó o seu caminho, e os anjos de Deus se encontraram com ele.
+2. E, vendo-os Jacó, disse: Este é o exército de Deus. E chamou o nome daquele lugar Maanaim.
+3. E enviou Jacó mensageiros diante de si a Esaú seu irmão, à terra de Seir, campo de Edom.
+4. E ordenou-lhes, dizendo: Assim falareis a meu senhor Esaú: Assim diz teu servo Jacó: Peregrinei com Labão, e me detive até agora;
+5. E tenho bois, e jumentos, ovelhas, e servos, e servas; e enviei a fazer saber a meu senhor, para achar graça aos teus olhos.
+6. E voltaram os mensageiros a Jacó, dizendo: Fomos a teu irmão Esaú, e também ele vem ao teu encontro, e quatrocentos homens com ele.
+7. Então Jacó teve grande temor, e angustiou-se; e repartiu o povo que com ele estava, e as ovelhas, e as vacas, e os camelos, em dois bandos.
+8. E disse: Se Esaú vier a um bando, e o ferir, então o outro bando que ficar escapará.
+9. E disse Jacó: Deus de meu pai Abraão, e Deus de meu pai Isaque, o Senhor, que me disseste: Volta à tua terra, e à tua parentela, e eu te farei bem;
+10. Menor sou eu que todas as misericórdias, e que toda a verdade que tens usado com teu servo; pois com meu cajado passei este Jordão, e agora me tenho tornado em dois bandos.
+11. Livra-me, peço-te, da mão de meu irmão, da mão de Esaú; porque o temo, para que porventura não venha, e me fira, e à mãe com os filhos.
+12. E tu disseste: Certamente te farei bem, e farei a tua semente como a areia do mar, que não se pode contar pela multidão.
+13. E passou ali aquela mesma noite; e tomou do que lhe veio à mão um presente para Esaú seu irmão,
+14. Duzentas cabras, e vinte bodes, duzentas ovelhas, e vinte carneiros,
+15. Trinta camelas de leite com suas crias, quarenta vacas, e dez touros, vinte jumentas, e dez jumentinhos.
+16. E os entregou nas mãos de seus servos, cada tropa em separado; e disse a seus servos: Passai adiante de mim, e ponde espaço entre tropa e tropa.
+17. E ordenou ao primeiro, dizendo: Se te encontrar Esaú meu irmão, e te perguntar, dizendo: De quem és? e para onde vais? e de quem são estes diante de ti?
+18. Então dirás: São de teu servo Jacó; presente enviado a meu senhor Esaú; e eis que também ele vem detrás de nós.
+19. E ordenou também ao segundo, e ao terceiro, e a todos os que seguiam as tropas, dizendo: Desta maneira falareis a Esaú, quando o encontrardes.
+20. E direis mais: Eis que teu servo Jacó vem detrás de nós. Porque disse: Aplacá-lo-ei com o presente que vai adiante de mim, e depois verei a sua face; porventura me aceitará.
+21. Assim passou o presente adiante dele; e ele passou aquela noite no arraial.
+22. E levantou-se aquela noite, e tomou as suas duas mulheres, e as suas duas servas, e os seus onze filhos, e passou o vau de Jaboque.
+23. E tomou-os, e os fez passar o ribeiro, e fez passar tudo o que tinha.
+24. E ficou Jacó só; e lutou um homem com ele até romper a alva.
+25. E vendo que não prevalecia contra ele, tocou-lhe na juntura da coxa; e a juntura da coxa de Jacó se desconjuntou, lutando com ele.
+26. E disse: Deixa-me ir, porque já a alva rompe. E ele disse: Não te deixarei ir, se me não bendisseres.
+27. E disse-lhe ele: Qual é o teu nome? E ele disse: Jacó.
+28. E disse: Não te chamarás mais Jacó, mas Israel; porque como príncipe lutaste com Deus e com os homens, e prevaleceste.
+29. E perguntou-lhe Jacó, e disse: Rogo-te que me digas o teu nome. E ele disse: Por que perguntas pelo meu nome? E o bendisse ali.
+30. E chamou Jacó o nome daquele lugar Peniel; porque vi a Deus face a face, e a minha alma foi preservada.
+31. E passando ele por Peniel, saiu-lhe o sol; e coxeava da sua coxa.
+32. Por isso não comem os filhos de Israel o nervo encolhido, que está na juntura da coxa, até o dia de hoje; porquanto tocou na juntura da coxa de Jacó, no nervo que encolheu.
+
+## Capítulo 33 — O Reencontro de Jacó e Esaú
+
+1. E levantou Jacó os seus olhos, e olhou, e eis que vinha Esaú, e com ele quatrocentos homens. E repartiu os filhos entre Lia, e Raquel, e as duas servas.
+2. E pôs as servas e seus filhos diante, e Lia e seus filhos depois, e Raquel e Joseph por últimos.
+3. E ele passou adiante deles, e inclinou-se à terra sete vezes, até chegar perto de seu irmão.
+4. E Esaú correu ao seu encontro, e o abraçou, e se lançou sobre o seu pescoço, e o beijou; e choraram.
+5. E levantou os seus olhos, e viu as mulheres e os filhos, e disse: Quem são estes contigo? E ele disse: Os filhos que Deus deu graciosamente a teu servo.
+6. Então se chegaram as servas, elas e seus filhos, e se inclinaram.
+7. E chegou-se também Lia com seus filhos, e se inclinaram; e depois chegou-se Joseph e Raquel, e se inclinaram.
+8. E disse ele: Que significa toda esta tropa que encontrei? E ele disse: Para achar graça aos olhos de meu senhor.
+9. E disse Esaú: Tenho bastante, meu irmão; guarda para ti o que é teu.
+10. E disse Jacó: Não, peço-te, se agora achei graça em teus olhos, aceita o meu presente da minha mão; porquanto vi a tua face, como quem vê a face de Deus, e te agradaste de mim.
+11. Toma, peço-te, a minha bênção que te é trazida; porque Deus se tem havido comigo graciosamente, e porque tenho de tudo. E instou com ele, e ele a tomou.
+12. E disse: Vamo-nos, e caminhemos, e eu irei adiante de ti.
+13. E disse-lhe ele: Meu senhor sabe que os filhos são tenros, e tenho comigo ovelhas e vacas de leite; se as afadigarem por um dia, todo o rebanho morrerá.
+14. Passe, peço-te, meu senhor, adiante de seu servo; e eu seguirei lentamente, ao passo do gado que vai adiante de mim, e ao passo dos filhos, até que chegue a meu senhor em Seir.
+15. E disse Esaú: Deixarei agora contigo alguma da gente que está comigo. E ele disse: Para que é isso? ache eu graça aos olhos de meu senhor.
+16. Assim voltou Esaú aquele dia pelo seu caminho a Seir.
+17. E partiu Jacó para Sucote, e edificou ali casa para si, e fez cabanas para o seu gado; por isso chamou o nome do lugar Sucote.
+18. E chegou Jacó a Salém, cidade de Siquém, que está na terra de Canaã, quando veio de Padã-Arã; e armou a sua tenda diante da cidade.
+19. E comprou uma parte do campo, onde tinha estendido a sua tenda, da mão dos filhos de Hamor, pai de Siquém, por cem peças de dinheiro.
+20. E levantou ali um altar, e chamou-o El-Eloé-Israel.
+
+## Capítulo 34 — O Estupro de Diná e a Vingança de Seus Irmãos
+
+1. E saiu Diná, filha de Lia, que ela tivera a Jacó, a ver as filhas da terra.
+2. E vendo-a Siquém, filho de Hamor heveu, príncipe da terra, tomou-a, e se deitou com ela, e a violou.
+3. E apegou-se a sua alma a Diná, filha de Jacó, e amou a moça, e falou amorosamente à moça.
+4. E falou Siquém a Hamor seu pai, dizendo: Toma-me esta moça por mulher.
+5. E ouviu Jacó que havia violado a Diná sua filha; e estando seus filhos com o gado no campo, calou-se Jacó até que voltassem.
+6. E saiu Hamor, pai de Siquém, a falar com Jacó.
+7. E vieram os filhos de Jacó do campo quando o ouviram; e entristeceram-se os homens, e iraram-se muito, porquanto havia feito loucura em Israel, deitando-se com a filha de Jacó, o que não se devia fazer.
+8. E falou Hamor com eles, dizendo: A alma de meu filho Siquém está namorada de vossa filha; dai-lha, peço-vos, por mulher.
+9. E fazei aliança conosco; dai-nos vossas filhas, e tomai para vós as nossas filhas.
+10. E habitareis conosco; e a terra estará diante de vós; habitai, e negociai nela, e adquiri possessões nela.
+11. E disse Siquém ao pai e aos irmãos dela: Ache eu graça aos vossos olhos, e o que me disserdes eu darei.
+12. Pedi-me quanto dote e presente quiserdes, e darei conforme me disserdes; e dai-me a moça por mulher.
+13. Então responderam os filhos de Jacó a Siquém e a Hamor seu pai, com dolo, porquanto havia violado a Diná sua irmã,
+14. E disseram-lhes: Não podemos fazer isto, dar nossa irmã a homem incircunciso; porque isso nos seria uma vergonha.
+15. Mas nisto consentiremos: se fordes como nós, e todo macho de vós for circuncidado;
+16. Então vos daremos nossas filhas, e tomaremos para nós as vossas filhas; e habitaremos convosco, e seremos um povo.
+17. Mas se não nos ouvirdes, e não vos circuncidardes, tomaremos a nossa filha, e nos iremos.
+18. E agradaram as suas palavras a Hamor, e a Siquém, filho de Hamor.
+19. E não tardou o jovem em fazer isto, porquanto tinha afeição à filha de Jacó; e ele era o mais honrado de toda a casa de seu pai.
+20. E vieram Hamor e Siquém seu filho à porta da sua cidade, e falaram aos homens da sua cidade, dizendo:
+21. Estes homens são pacíficos conosco; habitem, pois, na terra, e negociem nela; pois a terra, eis que é bastante larga para eles; tomemos nós as suas filhas por mulheres, e demos-lhes as nossas filhas.
+22. Mas somente nisto consentirão os homens em habitar conosco, para que sejamos um povo, se todo macho entre nós se circuncidar, como eles são circuncidados.
+23. O seu gado, e a sua fazenda, e todos os seus animais, não serão nossos? consintamos somente com eles, e habitarão conosco.
+24. E deram ouvidos a Hamor, e a Siquém seu filho, todos os que saíam pela porta da sua cidade; e foi circuncidado todo macho, todos os que saíam pela porta da sua cidade.
+25. E aconteceu que, ao terceiro dia, quando eles estavam doridos, tomaram dois dos filhos de Jacó, Simeão e Levi, irmãos de Diná, cada um a sua espada, e vieram contra a cidade afoutamente, e mataram a todo macho.
+26. E mataram a Hamor e a Siquém seu filho a fio de espada, e tomaram a Diná da casa de Siquém, e saíram.
+27. Vieram os filhos de Jacó sobre os mortos, e despojaram a cidade, porquanto haviam violado a sua irmã.
+28. Tomaram as suas ovelhas, e as suas vacas, e os seus jumentos, e o que havia na cidade, e o que havia no campo,
+29. E toda a sua riqueza; e todos os seus meninos, e as suas mulheres, levaram cativos; e despojaram tudo quanto havia em casa.
+30. Então disse Jacó a Simeão e a Levi: Turbastes-me, fazendo-me abominável aos moradores da terra, aos cananeus e aos perizeus; sendo eu de pouca gente, ajuntar-se-ão contra mim, e me ferirão, e serei destruído, eu e minha casa.
+31. E eles disseram: Trataria ele nossa irmã como uma prostituta?
+
+## Capítulo 35 — O Retorno a Betel e a Morte de Isaque
+
+1. E disse Deus a Jacó: Levanta-te, sobe a Betel, e habita ali; e faze ali um altar ao Deus que te apareceu quando fugias da face de Esaú teu irmão.
+2. Então disse Jacó à sua casa, e a todos os que estavam com ele: Tirai os deuses estranhos que há entre vós, e purificai-vos, e mudai os vossos vestidos.
+3. E levantemo-nos, e subamos a Betel; e ali farei um altar ao Deus que me respondeu no dia da minha angústia, e foi comigo no caminho que andei.
+4. Então deram a Jacó todos os deuses estranhos que tinham em suas mãos, e as arrecadas que estavam nas suas orelhas; e Jacó os escondeu debaixo do carvalho que estava junto a Siquém.
+5. E partiram; e o terror de Deus estava sobre as cidades que estavam em redor deles, e não perseguiram os filhos de Jacó.
+6. E chegou Jacó a Luz, que está na terra de Canaã, isto é, Betel, ele e todo o povo que com ele estava.
+7. E edificou ali um altar, e chamou o lugar El-Betel; porque ali Deus lhe havia aparecido, quando fugia da face de seu irmão.
+8. E morreu ali Débora, ama de Rebeca, e foi sepultada abaixo de Betel, debaixo de um carvalho; e chamou-se o seu nome Alom-Bacute.
+9. E apareceu Deus outra vez a Jacó, quando este veio de Padã-Arã, e o bendisse.
+10. E disse-lhe Deus: O teu nome é Jacó; não te chamarás mais Jacó, mas Israel será o teu nome. E chamou o seu nome Israel.
+11. E disse-lhe Deus: Eu sou o Deus todo-poderoso; frutifica, e multiplica-te; uma nação, sim, uma multidão de nações, sairá de ti, e reis sairão dos teus lombos.
+12. E a terra que dei a Abraão e a Isaque, a ti a darei, e à tua semente depois de ti darei a terra.
+13. E subiu Deus dele, do lugar onde com ele havia falado.
+14. E levantou Jacó uma coluna no lugar onde com ele falara, coluna de pedra; e derramou sobre ela libação, e derramou sobre ela azeite.
+15. E chamou Jacó o nome do lugar onde Deus com ele falara, Betel.
+16. E partiram de Betel; e havia ainda um pouco de caminho para chegar a Efrata, e teve Raquel dificuldade no parto.
+17. E aconteceu que, tendo ela dificuldade no parto, disse-lhe a parteira: Não temas, pois também este te será filho.
+18. E aconteceu que, saindo-se-lhe a alma, porque morreu, chamou o seu nome Benoni; mas seu pai lhe chamou Benjamim.
+19. Assim morreu Raquel, e foi sepultada no caminho de Efrata, que é Belém.
+20. E levantou Jacó uma coluna sobre a sua sepultura; esta é a coluna da sepultura de Raquel até hoje.
+21. E partiu Israel, e estendeu a sua tenda além da torre de Éder.
+22. E aconteceu que, habitando Israel naquela terra, foi Rúben, e se deitou com Bila, concubina de seu pai; e Israel o soube. Ora, os filhos de Jacó eram doze:
+23. Os filhos de Lia: Rúben, o primogênito de Jacó, e Simeão, e Levi, e Judá, e Issacar, e Zebulom;
+24. Os filhos de Raquel: Joseph e Benjamim;
+25. E os filhos de Bila, serva de Raquel: Dã e Naftali;
+26. E os filhos de Zilpa, serva de Lia: Gade e Aser; estes são os filhos de Jacó, que lhe nasceram em Padã-Arã.
+27. E veio Jacó a Isaque seu pai, a Manre, à cidade de Arba, que é Hebrom, onde peregrinaram Abraão e Isaque.
+28. E foram os dias de Isaque cento e oitenta anos.
+29. E deu Isaque o espírito, e morreu, e foi recolhido ao seu povo, velho e cheio de dias; e o sepultaram Esaú e Jacó seus filhos.
+
+## Capítulo 36 — As Gerações de Esaú
+
+1. Estas, pois, são as gerações de Esaú, que é Edom.
+2. Esaú tomou suas mulheres das filhas de Canaã: a Ada, filha de Elom, o heteu; e a Aolibama, filha de Aná, filha de Zibeom, o heveu;
+3. E a Basemate, filha de Ismael, irmã de Nebajote.
+4. E Ada teve a Esaú a Elifaz; e Basemate teve a Reuel.
+5. E Aolibama teve a Jeus, e a Jaalão, e a Corá; estes são os filhos de Esaú, que lhe nasceram na terra de Canaã.
+6. E tomou Esaú suas mulheres, e seus filhos, e suas filhas, e todas as pessoas de sua casa, e o seu gado, e todos os seus animais, e toda a sua fazenda, que havia adquirido na terra de Canaã, e foi para outra terra, de diante da face de Jacó seu irmão.
+7. Porque as suas riquezas eram maiores do que podiam habitar juntos; e a terra de suas peregrinações não os podia sustentar, por causa do seu gado.
+8. Assim habitou Esaú no monte de Seir; Esaú é Edom.
+9. E estas são as gerações de Esaú, pai dos edomitas, no monte de Seir.
+10. Estes são os nomes dos filhos de Esaú: Elifaz, filho de Ada, mulher de Esaú; Reuel, filho de Basemate, mulher de Esaú.
