@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1785642049542,
+  "last_updated": 1785643142798,
   "books": [
     {
       "id": "book_001",
@@ -45,7 +45,7 @@
         "Bíblia"
       ],
       "published_at": 1785642044733.8816,
-      "estimated_reading_time_min": 58,
+      "estimated_reading_time_min": 100,
       "license": "Domínio público",
       "language": "pt-BR"
     },
