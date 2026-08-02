@@ -11,9 +11,9 @@ categories:
 
 ## Capítulo 1 — A Criação
 
-1. No princípio, criou Deus os céus e a terra.
-2. E a terra era sem forma e vazia, e havia trevas sobre a face do abismo; e o Espírito de Deus se movia sobre a face das águas.
-3. E disse Deus: Haja luz. E houve luz.
+[1] No princípio, criou Deus os céus e a terra.
+[2] E a terra era sem forma e vazia, e havia trevas sobre a face do abismo; e o Espírito de Deus se movia sobre a face das águas.
+[3] E disse Deus: Haja luz. E houve luz.
 4. E viu Deus que a luz era boa; e Deus separou a luz das trevas.
 5. E chamou Deus à luz Dia, e às trevas chamou Noite. E foi a tarde e a manhã o dia primeiro.
 6. E disse Deus: Haja um firmamento no meio das águas, e separe ele as águas das águas.
