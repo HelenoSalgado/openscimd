@@ -561,3 +561,368 @@ categories:
 36. Assim as duas filhas de Ló conceberam de seu pai.
 37. E teve a mais velha um filho, a quem chamou Moabe; este é o pai dos moabitas até hoje.
 38. E a mais moça também teve um filho, a quem chamou Ben-Ami; este é o pai dos filhos de Amom até hoje.
+
+## Capítulo 20 — Abraão e Abimeleque
+
+1. E partiu Abraão dali para a terra do sul, e habitou entre Cades e Sur, e peregrinou em Gerar.
+2. E disse Abraão de Sara sua mulher: É minha irmã. E enviou Abimeleque, rei de Gerar, e a tomou.
+3. Mas Deus veio a Abimeleque em sonhos de noite, e disse-lhe: Eis que morto és, por causa da mulher que tomaste, pois ela tem marido.
+4. Abimeleque, porém, ainda não a tinha tocado; e disse: Senhor, matarás também uma nação justa?
+5. Não me disse ele: É minha irmã? e ela mesma disse: É meu irmão. Com sinceridade de meu coração, e com pureza de minhas mãos, fiz isto.
+6. E disse-lhe Deus em sonhos: Bem sei eu que com sinceridade de teu coração fizeste isto; e também eu te retive, para que não pecasses contra mim; por isso não te permiti que a tocasses.
+7. Agora, pois, restitui a mulher ao seu marido, porque ele é profeta, e ele orará por ti, e viverás; mas, se não a restituíres, sabe que certamente morrerás, tu e tudo o que é teu.
+8. Então se levantou Abimeleque de madrugada, e chamou a todos os seus servos, e falou-lhes todas estas palavras aos ouvidos; e temeram muito aqueles homens.
+9. E chamou Abimeleque a Abraão, e disse-lhe: Que nos fizeste? e em que pequei contra ti, que trouxeste sobre mim, e sobre o meu reino, tão grande pecado? Fizeste comigo obras que não se deviam fazer.
+10. Disse mais Abimeleque a Abraão: Que viste, para fazeres isto?
+11. E disse Abraão: Porque pensei: Certamente não há temor de Deus neste lugar, e matar-me-ão por causa de minha mulher.
+12. E, na verdade, é também minha irmã, filha de meu pai, ainda que não filha de minha mãe; e veio a ser minha mulher.
+13. E aconteceu que, quando Deus me fez andar peregrino da casa de meu pai, eu lhe disse: Esta é a graça que me farás, que em todo lugar aonde entrarmos digas de mim: É meu irmão.
+14. Então tomou Abimeleque ovelhas, e bois, e servos, e servas, e os deu a Abraão, e lhe restituiu Sara sua mulher.
+15. E disse Abimeleque: Eis que a minha terra está diante de ti; habita onde bem te parecer.
+16. E a Sara disse: Eis que dei a teu irmão mil peças de prata; eis que isto te seja por cobertura dos olhos, para com todos os que estão contigo; e para todos ficas justificada.
+17. E orou Abraão a Deus; e Deus sarou a Abimeleque, e à sua mulher, e às suas servas; e tiveram filhos.
+18. Porque o Senhor havia fechado totalmente a madre de todas as da casa de Abimeleque, por causa de Sara, mulher de Abraão.
+
+## Capítulo 21 — O Nascimento de Isaque e a Expulsão de Agar
+
+1. E visitou o Senhor a Sara, como tinha dito; e fez o Senhor com Sara como havia falado.
+2. Porque concebeu Sara, e teve um filho a Abraão na sua velhice, ao tempo determinado, que Deus lhe tinha dito.
+3. E chamou Abraão o nome de seu filho que lhe nascera, que Sara lhe deu, Isaque.
+4. E circuncidou Abraão a Isaque seu filho, quando era da idade de oito dias, como Deus lhe tinha ordenado.
+5. E era Abraão da idade de cem anos, quando lhe nasceu Isaque seu filho.
+6. E disse Sara: Deus me tem feito rir; qualquer que o ouvir se rirá comigo.
+7. E disse mais: Quem diria a Abraão que Sara teria de dar de mamar a filhos? pois que lhe dei um filho na sua velhice.
+8. E cresceu o menino, e foi desmamado; e fez Abraão um grande banquete no dia em que Isaque foi desmamado.
+9. E viu Sara que o filho de Agar, a egípcia, que ela havia dado a Abraão, se ria; e disse a Abraão:
+10. Expulsa a esta serva e a seu filho; porque o filho desta serva não herdará com meu filho, com Isaque.
+11. E pareceu esta palavra muito má aos olhos de Abraão, por causa de seu filho.
+12. Mas disse Deus a Abraão: Não te pareça mal aos teus olhos por causa do rapaz, e por causa da tua serva; em tudo o que Sara te disser, ouve a sua voz; porque em Isaque será chamada a tua semente.
+13. E também do filho desta serva farei uma nação, porquanto é da tua semente.
+14. Então se levantou Abraão de madrugada, e tomou pão, e um odre de água, e os deu a Agar, pondo-os sobre o seu ombro; e lhe deu também o menino, e a despediu; e ela se foi, andando errante pelo deserto de Berseba.
+15. E consumida a água do odre, deitou o menino debaixo de uma árvore.
+16. E foi assentar-se em frente, a boa distância, como a distância de um tiro de arco; porque disse: Não veja eu morrer o menino. E assentou-se em frente, e levantou a sua voz, e chorou.
+17. E ouviu Deus a voz do menino; e o anjo de Deus chamou a Agar desde os céus, e disse-lhe: Que tens, Agar? não temas, porque Deus ouviu a voz do menino desse lugar onde está.
+18. Levanta-te, ergue o menino, e pega-o pela mão; porque dele farei uma grande nação.
+19. E abriu Deus os olhos dela, e viu um poço de água; e foi, e encheu o odre de água, e deu de beber ao menino.
+20. E era Deus com o menino, que crescia; e habitou no deserto, e foi flecheiro.
+21. E habitou no deserto de Parã; e sua mãe tomou-lhe mulher da terra do Egito.
+22. E aconteceu naquele mesmo tempo que Abimeleque, com Ficol, príncipe do seu exército, falou a Abraão, dizendo: Deus é contigo em tudo o que fazes.
+23. Agora, pois, jura-me aqui por Deus, que não me mentirás a mim, nem a meu filho, nem a meu neto; segundo a beneficência que te fiz, me farás a mim, e à terra em que peregrinaste.
+24. E disse Abraão: Eu jurarei.
+25. E Abraão repreendeu a Abimeleque por causa de um poço de água, que os servos de Abimeleque haviam tomado por força.
+26. Então disse Abimeleque: Eu não sei quem fez isto; e também tu não me fizeste saber, nem eu o ouvi dizer, senão hoje.
+27. E tomou Abraão ovelhas e vacas, e as deu a Abimeleque; e fizeram ambos aliança.
+28. E pôs Abraão sete cordeiras do rebanho aparte.
+29. E disse Abimeleque a Abraão: Que significam estas sete cordeiras que pusestes aparte?
+30. E disse ele: Que estas sete cordeiras tomarás de minha mão, para que sirvam de testemunho de que eu cavei este poço.
+31. Por isso chamou aquele lugar Berseba, porquanto ali ambos juraram.
+32. Assim fizeram aliança em Berseba; e levantaram-se Abimeleque, e Ficol, o príncipe de seu exército, e voltaram para a terra dos filisteus.
+33. E plantou Abraão um bosque em Berseba, e invocou ali o nome do Senhor, Deus eterno.
+34. E peregrinou Abraão na terra dos filisteus muitos dias.
+
+## Capítulo 22 — O Sacrifício de Isaque
+
+1. E aconteceu depois destas coisas, que tentou Deus a Abraão, e disse-lhe: Abraão! e ele disse: Eis-me aqui.
+2. E disse: Toma agora o teu filho, o teu único filho Isaque, a quem amas, e vai à terra de Moriá, e oferece-o ali em holocausto sobre uma das montanhas, que eu te direi.
+3. Então se levantou Abraão de madrugada, e aparelhou o seu jumento, e tomou consigo dois de seus moços, e a Isaque seu filho; e cortou lenha para o holocausto, e levantou-se, e foi ao lugar que Deus lhe dissera.
+4. Ao terceiro dia levantou Abraão os olhos, e viu o lugar de longe.
+5. E disse Abraão aos seus moços: Ficai-vos aqui com o jumento, e eu e o rapaz iremos até ali; e adoraremos, e tornaremos a vós.
+6. E tomou Abraão a lenha do holocausto, e a pôs sobre Isaque seu filho; e ele tomou o fogo em sua mão, e um cutelo; e foram ambos juntos.
+7. Então falou Isaque a Abraão seu pai, e disse: Meu pai. E ele respondeu: Eis-me aqui, meu filho. E ele disse: Eis aqui o fogo e a lenha, mas onde está o cordeiro para o holocausto?
+8. E disse Abraão: Deus proverá para si o cordeiro para o holocausto, meu filho. Assim, iam ambos juntos.
+9. E chegaram ao lugar que Deus lhe dissera; e edificou Abraão ali um altar, e pôs a lenha em ordem, e ligou a Isaque seu filho, e o pôs no altar sobre a lenha.
+10. E estendeu Abraão a sua mão, e tomou o cutelo, para sacrificar a seu filho.
+11. Mas o anjo do Senhor lhe bradou desde os céus, e disse: Abraão, Abraão! E ele disse: Eis-me aqui.
+12. E disse: Não estendas a tua mão sobre o rapaz, e não lhe faças nada; porque agora sei que temes a Deus, e não me negaste o teu filho, o teu único filho.
+13. Então levantou Abraão os seus olhos, e olhou, e eis um carneiro detrás dele, preso pelas pontas em um mato; e foi Abraão, e tomou o carneiro, e o ofereceu em holocausto em lugar de seu filho.
+14. E chamou Abraão o nome daquele lugar, o Senhor proverá; donde se diz até o dia de hoje: No monte proverá o Senhor.
+15. E chamou o anjo do Senhor a Abraão segunda vez desde os céus,
+16. E disse: Por mim mesmo jurei, diz o Senhor, porquanto fizeste esta coisa, e não me negaste o teu filho, o teu único filho,
+17. Que grandissimamente te bendirei, e grandissimamente multiplicarei a tua semente, como as estrelas dos céus, e como a areia que está na praia do mar; e a tua semente possuirá a porta de seus inimigos.
+18. E em tua semente serão benditas todas as nações da terra, porquanto obedeceste à minha voz.
+19. Assim voltou Abraão aos seus moços, e levantaram-se, e foram juntos a Berseba; e habitou Abraão em Berseba.
+20. E aconteceu depois destas coisas, que anunciaram a Abraão, dizendo: Eis que também Milca teve filhos a Naor teu irmão:
+21. A Uz seu primogênito, e a Buz seu irmão, e a Quemuel, pai de Arã,
+22. E a Quesede, e a Hazo, e a Pildaz, e a Jidlafe, e a Betuel.
+23. E Betuel gerou a Rebeca; estes oito teve Milca a Naor, irmão de Abraão.
+24. E a sua concubina, cujo nome era Reumá, também teve a Teba, e a Gaão, e a Taás, e a Maaca.
+
+## Capítulo 23 — A Morte de Sara e a Compra da Caverna de Macpela
+
+1. E foram os dias de Sara cento e vinte e sete anos; estes foram os anos da vida de Sara.
+2. E morreu Sara em Quiriate-Arba, que é Hebrom, na terra de Canaã; e veio Abraão prantear e chorar a Sara.
+3. E levantou-se Abraão de diante do seu morto, e falou aos filhos de Hete, dizendo:
+4. Estrangeiro e peregrino sou eu entre vós; dai-me a possessão de um sepulcro entre vós, para que eu sepulte o meu morto de diante de mim.
+5. E responderam os filhos de Hete a Abraão, dizendo-lhe:
+6. Ouve-nos, meu senhor: príncipe de Deus és tu entre nós; enterra o teu morto na melhor de nossas sepulturas; nenhum de nós te vedará o seu sepulcro, para que enterres nele o teu morto.
+7. Então se levantou Abraão, e inclinou-se diante do povo da terra, diante dos filhos de Hete.
+8. E falou com eles, dizendo: Se é da vossa vontade que eu sepulte o meu morto de diante de mim, ouvi-me, e falai por mim a Efrom, filho de Zoar,
+9. Que me dê a cova de Macpela, que ele tem no fim do seu campo; que por seu justo preço me a dê em possessão de sepultura entre vós.
+10. Ora, Efrom estava sentado entre os filhos de Hete; e respondeu Efrom, o heteu, a Abraão, ouvindo os filhos de Hete, todos os que entravam pela porta da sua cidade, dizendo:
+11. Não, meu senhor, ouve-me: dou-te o campo, e também te dou a cova que está nele; à vista dos filhos do meu povo te a dou; sepulta o teu morto.
+12. Então Abraão se inclinou diante do povo da terra,
+13. E falou a Efrom, ouvindo o povo da terra, dizendo: Mas, se te agrada, ouve-me, rogo-te: darei o preço do campo, toma-o de mim, e sepultarei ali o meu morto.
+14. E respondeu Efrom a Abraão, dizendo-lhe:
+15. Meu senhor, ouve-me: o campo vale quatrocentos siclos de prata; que é isto entre mim e ti? sepulta, pois, o teu morto.
+16. E ouviu Abraão a Efrom; e pesou Abraão a Efrom a prata, de que tinha falado, ouvindo os filhos de Hete, quatrocentos siclos de prata, moeda corrente entre mercadores.
+17. Assim o campo de Efrom, que estava em Macpela, diante de Manre, o campo e a cova que nele estava, e todo o arvoredo que havia no campo, que estava em todo o seu contorno, se confirmou
+18. A Abraão em possessão, à vista dos filhos de Hete, de todos os que entravam pela porta da sua cidade.
+19. E depois sepultou Abraão a Sara sua mulher na cova do campo de Macpela, diante de Manre, que é Hebrom, na terra de Canaã.
+20. Assim o campo, e a cova que nele estava, se confirmou a Abraão em possessão de sepultura, pelos filhos de Hete.
+
+## Capítulo 24 — O Casamento de Isaque e Rebeca
+
+1. E era Abraão já velho, e entrado em dias; e o Senhor havia bendito a Abraão em tudo.
+2. E disse Abraão ao seu criado, o mais velho de sua casa, que tinha o governo de tudo o que possuía: Põe agora a tua mão debaixo da minha coxa,
+3. E juro-te pelo Senhor, Deus dos céus e Deus da terra, que não tomarás mulher para meu filho das filhas dos cananeus, entre os quais eu habito;
+4. Mas irás à minha terra, e à minha parentela, e tomarás mulher para meu filho Isaque.
+5. E disse-lhe o criado: Talvez a mulher não queira seguir-me a esta terra; farei, então, voltar teu filho àquela terra donde saíste?
+6. E disse-lhe Abraão: Guarda-te, que não faças tornar meu filho para lá.
+7. O Senhor, Deus dos céus, que me tirou da casa de meu pai, e da terra da minha parentela, e que me falou, e me jurou, dizendo: À tua semente darei esta terra; ele enviará o seu anjo diante de ti, e tomarás mulher para meu filho de lá.
+8. Mas, se a mulher não quiser seguir-te, então serás livre deste meu juramento; somente não farás tornar meu filho para lá.
+9. Então pôs o criado a sua mão debaixo da coxa de Abraão seu senhor, e jurou-lhe sobre este negócio.
+10. E tomou o criado dez camelos, dos camelos de seu senhor, e partiu, levando consigo todo tipo de bens de seu senhor; e levantou-se, e foi à Mesopotâmia, à cidade de Naor.
+11. E fez ajoelhar os camelos fora da cidade, junto a um poço de água, à tardinha, ao tempo em que as moças saíam a tirar água.
+12. E disse: Senhor, Deus de meu senhor Abraão, dá-me hoje bom encontro, e faze misericórdia com meu senhor Abraão.
+13. Eis que estou junto à fonte de água, e as filhas dos homens desta cidade saem a tirar água;
+14. Seja, pois, que a moça a quem eu disser: Abaixa agora o teu cântaro, para que eu beba, e ela disser: Bebe, e também darei de beber aos teus camelos; seja esta a que designaste para teu servo Isaque; e nisto conhecerei que fizeste misericórdia com meu senhor.
+15. E aconteceu que, antes de ele acabar de falar, eis que Rebeca, filha de Betuel, filho de Milca, mulher de Naor, irmão de Abraão, saía com o seu cântaro sobre o seu ombro.
+16. E era a moça mui formosa à vista, virgem, a quem nenhum homem havia conhecido; e desceu à fonte, e enchendo o seu cântaro, subiu.
+17. Então o criado correu ao seu encontro, e disse: Rogo-te que me dês a beber um pouco de água do teu cântaro.
+18. E ela disse: Bebe, meu senhor. E apressou-se, e abaixou o seu cântaro sobre a sua mão, e deu-lhe de beber.
+19. E, acabando ela de lhe dar de beber, disse: também tirarei água para os teus camelos, até que acabem de beber.
+20. E apressou-se, e esvaziou o seu cântaro no bebedouro, e correu outra vez ao poço para tirar água, e tirou para todos os seus camelos.
+21. E o homem estava admirado por causa dela, calando-se, para saber se o Senhor havia prosperado o seu caminho, ou não.
+22. E aconteceu que, acabando os camelos de beber, tomou o homem um pendente de oiro, de meio siclo de peso, e duas pulseiras para as suas mãos, do peso de dez siclos de oiro;
+23. E disse: De quem és filha? faze-mo saber, peço-te. Há também em casa de teu pai lugar para nós pousarmos?
+24. E ela lhe disse: Sou filha de Betuel, filho de Milca, o qual ela teve a Naor.
+25. Disse-lhe mais: também há em nossa casa lugar e palha, e muito forragem para os camelos.
+26. Então se inclinou aquele homem, e adorou ao Senhor.
+27. E disse: Bendito seja o Senhor, Deus de meu senhor Abraão, que não retirou a sua misericórdia e a sua verdade de meu senhor; pois quanto a mim, o Senhor me guiou no caminho à casa dos irmãos de meu senhor.
+28. E a moça correu, e fez saber estas coisas na casa de sua mãe.
+29. E tinha Rebeca um irmão, cujo nome era Labão; e correu Labão ao encontro daquele homem, à fonte.
+30. E aconteceu que, vendo ele o pendente e as pulseiras nas mãos de sua irmã, e ouvindo as palavras de Rebeca sua irmã, que dizia: Assim me falou aquele homem; veio ele ao homem, e eis que estava ainda com os camelos junto à fonte.
+31. E disse: Entra, bendito do Senhor; por que estás aí fora? porque já tenho preparado a casa, e lugar para os camelos.
+32. Então entrou aquele homem na casa, e desataram os camelos; e deram palha e forragem para os camelos, e água para lavar os pés dele, e os pés dos homens que estavam com ele.
+33. E puseram diante dele comida; ele, porém, disse: Não comerei, até que tenha exposto o meu negócio. E disse ele: Fala.
+34. Então disse: Sou criado de Abraão.
+35. E o Senhor tem bendito muito a meu senhor, e ele se engrandeceu; e deu-lhe ovelhas, e vacas, e prata, e oiro, e servos, e servas, e camelos, e jumentos.
+36. E Sara, mulher de meu senhor, teve um filho a meu senhor, depois de velha; e deu-lhe tudo o que tem.
+37. E meu senhor me fez jurar, dizendo: Não tomarás mulher para meu filho das filhas dos cananeus, em cuja terra habito;
+38. Mas irás à casa de meu pai, e à minha parentela, e tomarás mulher para meu filho.
+39. E eu disse ao meu senhor: Talvez a mulher não me queira seguir.
+40. E ele me disse: O Senhor, em cuja presença tenho andado, enviará o seu anjo contigo, e prosperará o teu caminho; e tomarás mulher para meu filho da minha parentela, e da casa de meu pai.
+41. Então serás livre do meu juramento, quando chegares à minha parentela; e se não te a derem, livre serás do meu juramento.
+42. E hoje cheguei à fonte, e disse: Senhor, Deus de meu senhor Abraão, se agora prosperas o meu caminho, no qual eu ando,
+43. Eis que estou junto à fonte de água; seja, pois, que a virgem que saír a tirar água, a quem eu disser: Dá-me, peço-te, um pouco de água do teu cântaro para beber,
+44. E ela me disser: Bebe tu também, e também tirarei água para os teus camelos; seja esta a mulher que o Senhor designou para o filho de meu senhor.
+45. E antes que eu acabasse de falar no meu coração, eis que Rebeca saía com o seu cântaro sobre o seu ombro, e desceu à fonte, e tirou água; e eu lhe disse: Ora, dá-me de beber.
+46. E ela se apressou, e abaixou o seu cântaro de sobre si, e disse: Bebe, e também darei de beber aos teus camelos. Assim bebi, e ela deu também de beber aos camelos.
+47. Então lhe perguntei, e disse: De quem és filha? E ela disse: Filha de Betuel, filho de Naor, que Milca lhe teve. Então lhe pus o pendente no seu rosto, e as pulseiras sobre as suas mãos.
+48. E, inclinando-me, adorei ao Senhor, e bendisse ao Senhor, Deus de meu senhor Abraão, que me havia guiado pelo caminho direito, para tomar a filha do irmão de meu senhor para seu filho.
+49. Agora, pois, se vós fazeis misericórdia e verdade com meu senhor, fazei-mo saber; e se não, também mo fazei saber, para que eu vá, ou para a direita, ou para a esquerda.
+50. Então responderam Labão e Betuel, e disseram: Do Senhor procedeu este negócio; nós não podemos falar-te mal ou bem.
+51. Eis que Rebeca está diante de ti; toma-a, e vai-te; e seja ela mulher do filho de teu senhor, como o Senhor tem falado.
+52. E aconteceu que, ouvindo o criado de Abraão estas palavras, inclinou-se à terra diante do Senhor.
+53. E tirou o criado joias de prata, e joias de oiro, e vestidos, e deu-os a Rebeca; também deu coisas preciosas a seu irmão e a sua mãe.
+54. Então comeram e beberam, ele e os homens que com ele estavam, e passaram a noite ali; e levantando-se de manhã, disse: Deixai-me ir a meu senhor.
+55. E disse o irmão dela e sua mãe: Fique a moça ainda conosco alguns dias, pelo menos dez dias; e depois irá.
+56. E ele lhes disse: Não me detenhais, pois que o Senhor prosperou o meu caminho; deixai-me ir a meu senhor.
+57. Então disseram: Chamemos a moça, e perguntemos-lhe a sua boca.
+58. E chamaram a Rebeca, e disseram-lhe: Irás tu com este homem? E ela disse: Irei.
+59. Então despediram a Rebeca sua irmã, e a sua ama, e ao criado de Abraão, e aos seus homens.
+60. E bendisseram a Rebeca, e disseram-lhe: Nossa irmã, sejas tu em milhares de milhões, e a tua semente possua a porta de seus inimigos.
+61. Então se levantou Rebeca com as suas moças, e montaram sobre os camelos, e seguiram aquele homem; e tomou o criado a Rebeca, e partiu.
+62. E vinha Isaque do poço de Laai-Roi; porque habitava na terra do sul.
+63. E saíra Isaque a passear pela tarde no campo; e levantou os seus olhos, e viu, e eis que os camelos vinham.
+64. E Rebeca levantou também os seus olhos, e viu a Isaque, e desceu do camelo.
+65. E disse ao criado: Quem é aquele homem que vem pelo campo ao nosso encontro? E disse o criado: É meu senhor. Então ela tomou o véu, e se cobriu.
+66. E contou o criado a Isaque tudo o que havia feito.
+67. E Isaque a trouxe à tenda de Sara sua mãe, e tomou a Rebeca, e foi ela sua mulher, e amou-a; e consolou-se Isaque depois da morte de sua mãe.
+
+## Capítulo 25 — A Morte de Abraão e o Nascimento de Esaú e Jacó
+
+1. E Abraão tomou outra mulher, cujo nome era Quetura.
+2. E ela lhe teve a Zinrã, e a Jocsã, e a Medã, e a Midiã, e a Isbaque, e a Suá.
+3. E Jocsã gerou a Sebá, e a Dedã; e os filhos de Dedã foram Assurim, e Letusim, e Leumim.
+4. E os filhos de Midiã foram Efá, e Efer, e Enoque, e Abida, e Eldaá; todos estes foram filhos de Quetura.
+5. E Abraão deu tudo o que tinha a Isaque.
+6. Mas aos filhos das concubinas que Abraão tinha, deu Abraão presentes, e os despediu de Isaque seu filho, sendo ele ainda vivo, para o oriente, à terra do oriente.
+7. E foram os dias dos anos da vida de Abraão que viveu, cento e setenta e cinco anos.
+8. E deu Abraão o espírito, e morreu em boa velhice, velho e cheio de dias; e foi recolhido ao seu povo.
+9. E sepultaram-no Isaque e Ismael seus filhos na cova de Macpela, no campo de Efrom, filho de Zoar, o heteu, que está diante de Manre;
+10. Campo que Abraão comprara aos filhos de Hete; ali foi sepultado Abraão, e Sara sua mulher.
+11. E aconteceu, depois da morte de Abraão, que Deus bendisse a Isaque seu filho; e habitava Isaque junto ao poço de Laai-Roi.
+12. E estas são as gerações de Ismael, filho de Abraão, que a este teve Agar, egípcia, serva de Sara.
+13. E estes são os nomes dos filhos de Ismael, pelos seus nomes, segundo as suas gerações: o primogênito de Ismael, Nebajote; depois Quedar, e Adbeel, e Mibsão,
+14. E Misma, e Dumá, e Massá,
+15. Hadar, e Temá, Jetur, Nafis, e Quedma.
+16. Estes são os filhos de Ismael, e estes são os seus nomes, pelas suas vilas e pelos seus castelos; doze príncipes segundo as suas nações.
+17. E estes foram os anos da vida de Ismael, cento e trinta e sete anos; e deu o espírito, e morreu, e foi recolhido ao seu povo.
+18. E habitaram desde Havilá até Sur, que está em frente do Egito, quando se vai para a Assíria; morreu diante da face de todos os seus irmãos.
+19. E estas são as gerações de Isaque, filho de Abraão: Abraão gerou a Isaque.
+20. E era Isaque da idade de quarenta anos, quando tomou a Rebeca, filha de Betuel, arameu de Padã-Arã, irmã de Labão, arameu, para ser sua mulher.
+21. E orou Isaque instantemente ao Senhor por sua mulher, porquanto era estéril; e o Senhor o ouviu, e concebeu Rebeca sua mulher.
+22. E lutavam os filhos em seu ventre; então disse ela: Se assim é, por que estou eu assim? E foi consultar ao Senhor.
+23. E disse-lhe o Senhor: Duas nações há em teu ventre, e dois povos se dividirão desde as tuas entranhas; e o povo maior será servo do menor.
+24. E, cumpridos os dias, para ela dar à luz, eis que havia gêmeos em seu ventre.
+25. E saiu o primeiro ruivo, e todo ele como um vestido de pelos; e chamaram o seu nome Esaú.
+26. E depois saiu o seu irmão, pegado com a sua mão ao calcanhar de Esaú; e foi chamado o seu nome Jacó. E era Isaque da idade de sessenta anos, quando Rebeca os teve.
+27. E cresceram os meninos; e Esaú foi homem perito na caça, homem do campo; mas Jacó era homem sossegado, que habitava nas tendas.
+28. E amava Isaque a Esaú, porque comia da sua caça; mas Rebeca amava a Jacó.
+29. E cozeu Jacó um guisado; e vindo Esaú do campo, cansado,
+30. Disse Esaú a Jacó: Dá-me a comer, peço-te, desse guisado vermelho, porque estou cansado. Por isso se chamou o seu nome Edom.
+31. E disse Jacó: Vende-me hoje a tua primogenitura.
+32. E disse Esaú: Eis que estou a ponto de morrer; para que me serve, pois, a primogenitura?
+33. E disse Jacó: Jura-me hoje. E jurou-lhe, e vendeu a sua primogenitura a Jacó.
+34. Então deu Jacó a Esaú pão e o guisado de lentilhas; e ele comeu e bebeu, e levantou-se, e foi-se; assim desprezou Esaú a sua primogenitura.
+
+## Capítulo 26 — Isaque em Gerar
+
+1. E havia fome na terra, além da primeira fome que houve nos dias de Abraão; e foi-se Isaque a Abimeleque, rei dos filisteus, em Gerar.
+2. E apareceu-lhe o Senhor, e disse: Não desças ao Egito; habita na terra que eu te disser.
+3. Peregrina nesta terra, e serei contigo, e te bendirei; porque a ti e à tua semente darei todas estas terras, e confirmarei o juramento que fiz a Abraão teu pai.
+4. E multiplicarei a tua semente como as estrelas dos céus, e darei à tua semente todas estas terras; e em tua semente serão benditas todas as nações da terra.
+5. Porquanto Abraão obedeceu à minha voz, e guardou o meu mandado, os meus preceitos, os meus estatutos e as minhas leis.
+6. E habitou Isaque em Gerar.
+7. E perguntaram os homens daquele lugar acerca de sua mulher; e disse: É minha irmã; porque temia dizer: É minha mulher; para que porventura, disse ele, não me matem os homens deste lugar por causa de Rebeca; porque era formosa à vista.
+8. E aconteceu que, havendo estado ali muitos dias, olhou Abimeleque, rei dos filisteus, por uma janela, e viu que Isaque acariciava a Rebeca sua mulher.
+9. Então chamou Abimeleque a Isaque, e disse: Eis que ela é certamente tua mulher; como, pois, disseste: É minha irmã? E disse-lhe Isaque: Porque disse: Para que não morra por causa dela.
+10. E disse Abimeleque: Que é isto que nos fizeste? facilmente algum do povo se teria deitado com tua mulher, e tu terias trazido sobre nós o pecado.
+11. Então ordenou Abimeleque a todo o povo, dizendo: Aquele que tocar este homem, ou sua mulher, certamente morrerá.
+12. E semeou Isaque naquela terra, e teve naquele ano cem tantos; porque o Senhor o bendisse.
+13. E engrandeceu-se aquele homem, e foi-se enriquecendo até se fazer em extremo grande.
+14. E tinha possessão de ovelhas, e possessão de vacas, e muitos servos; e tinham os filisteus invidia dele.
+15. E todos os poços que os servos de seu pai haviam cavado nos dias de Abraão seu pai, os filisteus os entulharam, e os enchêram de terra.
+16. E disse Abimeleque a Isaque: Aparta-te de nós, porque muito mais poderoso te tens feito do que nós.
+17. Então Isaque se retirou dali, e armou as suas tendas no vale de Gerar, e habitou ali.
+18. E tornou Isaque a abrir os poços de água que abriram nos dias de Abraão seu pai, e que os filisteus haviam entulhado depois da morte de Abraão; e chamou-os pelos nomes que seu pai lhes tinha chamado.
+19. E os servos de Isaque cavaram no vale, e acharam ali um poço de águas vivas.
+20. E os pastores de Gerar contenderam com os pastores de Isaque, dizendo: Esta água é nossa. Por isso chamou o nome daquele poço Eseque; porque contenderam com ele.
+21. E cavaram outro poço, e também sobre este contenderam; e chamou o seu nome Sitná.
+22. E ele se apartou dali, e cavou outro poço, e sobre este não contenderam; e chamou-lhe Reobote, e disse: Porque agora nos alargou o Senhor, e nos fez crescer na terra.
+23. E subiu dali a Berseba.
+24. E apareceu-lhe o Senhor aquela mesma noite, e disse: Eu sou o Deus de Abraão teu pai; não temas, porque eu sou contigo, e te bendirei, e multiplicarei a tua semente por amor de Abraão meu servo.
+25. Então edificou ali um altar, e invocou o nome do Senhor, e armou ali a sua tenda; e cavaram ali os servos de Isaque um poço.
+26. E foi-se Abimeleque a ele desde Gerar, e Ficol, o príncipe do seu exército, e Aujate, seu amigo.
+27. E disse-lhes Isaque: Por que viestes a mim, pois que me odiastes, e me expulsastes de vós?
+28. E eles disseram: Temos visto que o Senhor é contigo; por isso dissemos: Haja agora juramento entre nós e ti, e façamos aliança contigo,
+29. Que não nos farás mal, como nós não te tocamos, e como te fizemos somente bem, e te deixamos ir em paz; tu és agora bendito do Senhor.
+30. Então lhes fez um banquete, e comeram e beberam.
+31. E levantaram-se de madrugada, e juraram um ao outro; e Isaque os despediu, e eles se foram dele em paz.
+32. E aconteceu que naquele mesmo dia vieram os servos de Isaque, e lhe deram novas acerca do poço que haviam cavado, e disseram-lhe: Achamos água.
+33. E chamou-o Seba; por isso o nome daquela cidade é Berseba até hoje.
+34. E era Esaú da idade de quarenta anos, quando tomou por mulher a Judite, filha de Beeri, o heteu, e a Basemate, filha de Elom, o heteu.
+35. E estas trouxeram amargura de espírito a Isaque e a Rebeca.
+
+## Capítulo 27 — Jacó Recebe a Bênção de Isaque
+
+1. E aconteceu que, sendo Isaque já velho, e escurecendo-se-lhe os olhos, de maneira que já não podia ver, chamou a Esaú seu filho mais velho, e disse-lhe: Meu filho. E ele lhe disse: Eis-me aqui.
+2. E ele disse: Eis que já sou velho, não sei o dia da minha morte.
+3. Toma agora as tuas armas, a tua aljava e o teu arco, e sai ao campo, e apanha para mim alguma caça;
+4. E faze-me um guisado saboroso, como eu gosto, e traze-mo, para que eu coma; para que a minha alma te bendiga, antes que morra.
+5. E Rebeca escutava, quando Isaque falava a Esaú seu filho. E foi-se Esaú ao campo, para apanhar a caça e a trazer.
+6. Então disse Rebeca a Jacó seu filho: Eis que ouvi teu pai falar a Esaú teu irmão, dizendo:
+7. Traze-me caça, e faze-me um guisado saboroso, para que eu coma, e te bendiga diante do Senhor, antes que morra.
+8. Agora, pois, meu filho, ouve a minha voz naquilo que te mando.
+9. Vai agora ao rebanho, e traze-me de lá dois bons cabritos das cabras, e farei deles um guisado saboroso para teu pai, como ele gosta;
+10. E o levarás a teu pai, para que o coma, para que te bendiga antes da sua morte.
+11. E disse Jacó a Rebeca sua mãe: Eis que Esaú meu irmão é homem cabeludo, e eu homem liso;
+12. Porventura me apalpará meu pai, e serei tido por ele como um enganador; assim trarei sobre mim maldição, e não bênção.
+13. E disse-lhe sua mãe: Meu filho, sobre mim seja a tua maldição; ouve somente a minha voz, e vai, traze-mos.
+14. Então foi ele, e os tomou, e os trouxe a sua mãe; e sua mãe fez um guisado saboroso, como o seu pai gostava.
+15. E tomou Rebeca os vestidos preciosos de Esaú, seu filho mais velho, que tinha consigo em casa, e vestiu a Jacó seu filho menor.
+16. E as peles dos cabritos pôs sobre as mãos de Jacó, e sobre a lisura do seu pescoço.
+17. E deu o guisado saboroso, e o pão que tinha preparado, na mão de Jacó seu filho.
+18. E veio ele a seu pai, e disse: Meu pai. E ele disse: Eis-me aqui; quem és tu, meu filho?
+19. E disse Jacó a seu pai: Eu sou Esaú, teu primogênito; tenho feito como me disseste; levanta-te, peço-te, senta-te, e come da minha caça, para que a tua alma me bendiga.
+20. Então disse Isaque a seu filho: Como é isto, meu filho? tão presto achaste a caça? E ele disse: Porque o Senhor teu Deus a mandou ao meu encontro.
+21. E disse Isaque a Jacó: Chega-te agora, para que eu te apalpe, meu filho, se és meu filho Esaú mesmo, ou não.
+22. E chegou-se Jacó a Isaque seu pai, que o apalpou, e disse: A voz é a voz de Jacó, mas as mãos são as mãos de Esaú.
+23. E não o conheceu, porquanto as suas mãos estavam cabeludas, como as mãos de Esaú seu irmão; e o bendisse.
+24. E disse: És tu meu filho Esaú mesmo? E ele disse: Eu sou.
+25. Então disse: Traze-mo aqui, e comerei da caça de meu filho, para que a minha alma te bendiga. E ele lho trouxe, e ele comeu; trouxe-lhe também vinho, e ele bebeu.
+26. E disse-lhe Isaque seu pai: Chega-te agora, e beija-me, meu filho.
+27. E chegou-se, e o beijou; e cheirou o cheiro dos seus vestidos, e o bendisse, e disse: Eis que o cheiro de meu filho é como o cheiro do campo que o Senhor bendisse.
+28. Deus, pois, te dê do orvalho dos céus, e das gorduras da terra, e abundância de trigo e de mosto.
+29. Sirvam-te povos, e nações se inclinem a ti; sê senhor de teus irmãos, e os filhos de tua mãe se inclinem a ti; malditos sejam os que te maldisserem, e benditos os que te bendisserem.
+30. E aconteceu que, acabando Isaque de bendizer a Jacó, e saindo Jacó apenas da presença de Isaque seu pai, veio Esaú seu irmão da sua caça.
+31. E fez também ele um guisado saboroso, e trouxe-o a seu pai, e disse-lhe: Levanta-te, meu pai, e come da caça de teu filho, para que a tua alma me bendiga.
+32. E disse-lhe Isaque seu pai: Quem és tu? E ele disse: Eu sou teu filho, o teu primogênito Esaú.
+33. Então se estremeceu Isaque de um estremecimento muito grande, e disse: Quem, pois, é aquele que apanhou a caça, e me trouxe, e eu comi de tudo, antes que tu viesses, e o bendisse? bendito será, na verdade.
+34. Ouvindo Esaú as palavras de seu pai, bramiu com grande e mui amargo brado, e disse a seu pai: Bendize-me também a mim, meu pai.
+35. E ele disse: Veio teu irmão, e enganosamente tomou a tua bênção.
+36. Então disse ele: Não me chamou por isso o seu nome Jacó, para que assim me enganasse duas vezes? já me tirou a primogenitura, e eis que agora me tirou a bênção. Disse mais: Não reservaste para mim bênção alguma?
+37. E respondeu Isaque, e disse a Esaú: Eis que o tenho feito senhor sobre ti, e todos os seus irmãos lhe tenho dado por servos; também de trigo e de mosto o tenho fortalecido; que te farei, pois, a ti, meu filho?
+38. E disse Esaú a seu pai: Tens tu somente uma bênção, meu pai? bendize-me também a mim, meu pai. E levantou Esaú a sua voz, e chorou.
+39. Então respondeu Isaque seu pai, e disse-lhe: Eis que a tua habitação será nas gorduras da terra, e do orvalho dos céus lá do alto;
+40. E pela tua espada viverás, e a teu irmão servirás; mas será que, quando te tornares poderoso, então sacudirás o seu jugo de sobre o teu pescoço.
+41. E aborreceu Esaú a Jacó, por causa da bênção com que seu pai o havia bendito; e disse Esaú no seu coração: Chegar-se-ão os dias de luto por meu pai, e matarei a Jacó meu irmão.
+42. E anunciaram a Rebeca as palavras de Esaú seu filho mais velho; e ela enviou, e chamou a Jacó seu filho menor, e disse-lhe: Eis que Esaú teu irmão se consola acerca de ti, propondo matar-te.
+43. Agora, pois, meu filho, ouve a minha voz, e levanta-te, e foge para Harã, à casa de Labão meu irmão;
+44. E fica com ele alguns dias, até que passe o furor de teu irmão;
+45. Até que se abrande de ti a ira de teu irmão, e se esqueça daquilo que lhe fizeste; então enviarei, e te farei vir de lá; por que seria eu privada de vós ambos num mesmo dia?
+46. E disse Rebeca a Isaque: Enfadada estou da minha vida por causa das filhas de Hete; se Jacó tomar mulher das filhas de Hete, como estas são, da terra, para que viverei eu?
+
+## Capítulo 28 — O Sonho de Jacó em Betel
+
+1. Então chamou Isaque a Jacó, e o bendisse, e ordenou-lhe, dizendo: Não tomarás mulher das filhas de Canaã.
+2. Levanta-te, vai a Padã-Arã, à casa de Betuel, pai de tua mãe, e toma de lá mulher, das filhas de Labão, irmão de tua mãe.
+3. E o Deus todo-poderoso te bendiga, e te faça crescer, e te multiplique, para que sejas em multidão de povos;
+4. E te dê a bênção de Abraão, a ti e à tua semente contigo; para que possuas a terra de tuas peregrinações, que Deus deu a Abraão.
+5. Assim despediu Isaque a Jacó; e ele se foi a Padã-Arã, a Labão, filho de Betuel, arameu, irmão de Rebeca, mãe de Jacó e de Esaú.
+6. Vendo, pois, Esaú que Isaque havia bendito a Jacó, e o havia enviado a Padã-Arã, para tomar de lá mulher para si; e que, ao bendizê-lo, lhe tinha mandado, dizendo: Não tomarás mulher das filhas de Canaã;
+7. E que Jacó tinha obedecido a seu pai e a sua mãe, e se fora a Padã-Arã;
+8. Vendo também Esaú que as filhas de Canaã eram más aos olhos de Isaque seu pai;
+9. Foi-se Esaú a Ismael, e tomou por mulher, além das que já tinha, a Maalate, filha de Ismael, filho de Abraão, irmã de Nebajote.
+10. E saiu Jacó de Berseba, e foi a Harã.
+11. E chegou a um certo lugar, e passou ali a noite, porque já o sol se havia posto; e tomou uma das pedras daquele lugar, e a pôs por sua cabeceira; e deitou-se naquele lugar.
+12. E sonhou; e eis uma escada posta na terra, cujo topo tocava nos céus; e eis que os anjos de Deus subiam e desciam por ela.
+13. E eis que o Senhor estava em cima dela, e disse: Eu sou o Senhor, o Deus de Abraão teu pai, e o Deus de Isaque; a terra em que estás deitado te darei a ti e à tua semente.
+14. E a tua semente será como o pó da terra, e estenderás para o ocidente, e para o oriente, e para o norte, e para o sul; e em ti, e na tua semente, serão benditas todas as famílias da terra.
+15. E eis que eu sou contigo, e te guardarei por onde quer que fores, e te farei tornar a esta terra; porque não te deixarei, até que tenha cumprido o que te tenho dito.
+16. Então despertou Jacó do seu sono, e disse: Verdadeiramente o Senhor está neste lugar, e eu não o sabia.
+17. E temeu, e disse: Quão terrível é este lugar! bem este é a casa de Deus, e esta é a porta dos céus.
+18. E levantou-se Jacó de madrugada, e tomou a pedra que havia posto por sua cabeceira, e a pôs por coluna, e derramou azeite sobre a sua cabeça.
+19. E chamou o nome daquele lugar Betel; mas o nome daquela cidade era antes Luz.
+20. E fez Jacó um voto, dizendo: Se Deus for comigo, e me guardar neste caminho que vou, e me der pão para comer, e vestidos para me vestir,
+21. E eu tornar em paz à casa de meu pai, o Senhor será o meu Deus,
+22. E esta pedra, que tenho posto por coluna, será casa de Deus; e de tudo quanto me deres, certamente te darei o dízimo.
+
+## Capítulo 29 — Jacó ao Serviço de Labão
+
+1. E levantou-se Jacó, e foi à terra dos filhos do oriente.
+2. E olhou, e eis um poço no campo, e eis três rebanhos de ovelhas que jaziam ali junto a ele, porque daquele poço davam de beber aos rebanhos; e havia uma grande pedra sobre a boca do poço.
+3. E ali se ajuntavam todos os rebanhos, e revolviam a pedra de sobre a boca do poço, e davam de beber às ovelhas, e tornavam a pôr a pedra sobre a boca do poço, em seu lugar.
+4. E disse-lhes Jacó: Meus irmãos, de onde sois? E eles disseram: Somos de Harã.
+5. E disse-lhes: Conheceis a Labão, filho de Naor? E eles disseram: Conhecemos.
+6. E disse-lhes ele: Está ele bem? E eles disseram: Está bem; e eis Raquel sua filha, que vem chegando com as ovelhas.
+7. E ele disse: Eis que ainda é pleno dia; não é ainda tempo de se ajuntar o gado; dai de beber às ovelhas, e ide apascentá-las.
+8. E eles disseram: Não podemos, até que se ajuntem todos os rebanhos, e revolvam a pedra de sobre a boca do poço; então daremos de beber às ovelhas.
+9. Estando ele ainda falando com eles, veio Raquel com as ovelhas de Labão seu pai, porque ela era a pastora.
+10. E aconteceu que, vendo Jacó a Raquel, filha de Labão, irmão de sua mãe, e as ovelhas de Labão, irmão de sua mãe, chegou-se Jacó, e revolveu a pedra de sobre a boca do poço, e deu de beber às ovelhas de Labão, irmão de sua mãe.
+11. E beijou Jacó a Raquel, e levantou a sua voz, e chorou.
+12. E disse Jacó a Raquel: Sou irmão de teu pai, e sou filho de Rebeca. E ela correu, e o fez saber a seu pai.
+13. E aconteceu que, ouvindo Labão as novas de Jacó, filho de sua irmã, correu-lhe ao encontro, e o abraçou, e o beijou, e o trouxe à sua casa; e ele contou a Labão todas estas coisas.
+14. Então disse Labão: Verdadeiramente és osso meu e carne minha. E ficou com ele um mês de dias.
+15. Depois disse Labão a Jacó: És, porventura, meu irmão, e me servirás de graça? declara-me qual será o teu salário.
+16. E tinha Labão duas filhas; o nome da mais velha era Lia, e o nome da mais moça era Raquel.
+17. E os olhos de Lia eram sem brilho, mas Raquel era formosa de parecer, e bela à vista.
+18. E amava Jacó a Raquel; e disse: Sete anos te servirei por Raquel, tua filha mais moça.
+19. E disse Labão: Melhor é que eu a dê a ti, do que a dê a outro homem; fica comigo.
+20. Assim serviu Jacó sete anos por Raquel; e pareciam-lhe como poucos dias, tal era o amor que lhe tinha.
+21. Então disse Jacó a Labão: Dá-me minha mulher, porque o meu tempo está cumprido, para que eu me case com ela.
+22. E ajuntou Labão a todos os homens daquele lugar, e fez um banquete.
+23. E aconteceu que, à noite, tomou a Lia sua filha, e lha trouxe; e ele se casou com ela.
+24. E deu Labão a sua serva Zilpa por serva a Lia sua filha.
+25. E aconteceu que, pela manhã, eis que era Lia; então disse ele a Labão: Que é isto que me fizeste? não te servi eu por Raquel? por que, pois, me enganaste?
+26. E disse Labão: Não se faz assim em nosso lugar, que se dê a mais moça antes da mais velha.
+27. Cumpre esta semana, e te daremos também esta, pelo serviço que ainda me servirás outros sete anos.
+28. E fez Jacó assim, e cumpriu aquela semana; e ele lhe deu a Raquel sua filha por mulher.
+29. E deu Labão a Raquel sua filha a Bila, sua serva, por serva dela.
+30. E casou-se também com Raquel; e amou a Raquel mais do que a Lia; e serviu com ele ainda outros sete anos.
+31. E viu o Senhor que Lia era desprezada, e abriu a sua madre; mas Raquel era estéril.
+32. E concebeu Lia, e teve um filho, e chamou o seu nome Rúben, porque disse: Porquanto o Senhor viu a minha aflição; também agora me amará meu marido.
+33. E concebeu outra vez, e teve um filho, e disse: Porquanto o Senhor ouviu que eu era desprezada, também me deu este. E chamou o seu nome Simeão.
+34. E concebeu outra vez, e teve um filho, e disse: Agora esta vez se apegará meu marido a mim, porque três filhos lhe tenho dado. Por isso chamou o seu nome Levi.
+35. E concebeu outra vez, e teve um filho, e disse: Agora louvarei ao Senhor. Por isso chamou o seu nome Judá; e cessou de ter filhos.
