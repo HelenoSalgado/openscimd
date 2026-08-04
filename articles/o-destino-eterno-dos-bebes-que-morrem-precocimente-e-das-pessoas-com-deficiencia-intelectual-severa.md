@@ -9,7 +9,7 @@ authors:
     email: "reitoria@irse.com.br"
     affiliation: "Instituto Reformado Santo Evangelho (IRSE)"
 summary: "O presente estudo teológico examina o destino eterno de bebês que morrem precocemente e de pessoas nascidas com deficiência intelectual severa, à luz da soberania divina, da graça e da justiça de Deus. Argumenta-se que a salvação desses indivíduos não depende do exercício consciente da fé, do arrependimento ou de uma consciência moral plenamente desenvolvida, mas exclusivamente da graça soberana de Deus, fundamentada na eleição do Pai, na redenção de Cristo e na regeneração pelo Espírito Santo. A partir de textos bíblicos, distingue-se entre a culpa do pecado original (condição herdada em potência) e a culpa de pecados pessoais conscientes (em ato). Sustenta-se que Deus, sendo perfeitamente justo, não condena eternamente quem jamais exerceu responsabilidade moral deliberada. O trabalho defende a posição de João Calvino contra acusações de que ele ensinava a danação de bebês, esclarecendo a distinção entre “condenação” (sentença) e “danação” (execução da sentença). Afirma-se, finalmente, que todos os bebês que morrem precocemente e todas as pessoas com deficiência intelectual severa que nascem nessa condição são eleitos de Deus, são salvos pela graça soberana de Deus, oferecendo consolo pastoral diante de passagens difíceis das Escrituras e contrastando a coerência do Calvinismo com as dificuldades lógicas do Arminianismo e do Catolicismo Romano nessa matéria."
-date: "07-29-2026"
+date: "29-07-2026"
 DOI: "10.5281/zenodo.21684711"
 keywords: 
   - "Salvação de bebês"
@@ -410,9 +410,9 @@ Por ora, basta o que foi exposto acerca desta matéria. Procurei, dentro das min
 - Há também uma eleição de indivíduos e de nações para favores e privilégios externos e temporais, uma eleição que não implica necessariamente salvação.
 - A doutrina da eleição é ensinada e enfatizada repetidas vezes em toda a Escritura Sagrada.
 
-’’’cite
+```cite
 Plínio Sousa. (2026). O DESTINO ETERNO DOS BEBÊS QUE MORREM PRECOCEMENTE E DAS PESSOAS COM DEFICIÊNCIA INTELECTUAL SEVERA. In O DESTINO ETERNO DOS BEBÊS QUE MORREM PRECOCEMENTE E DAS PESSOAS COM DEFICIÊNCIA INTELECTUAL SEVERA (Vol. 1, Issue 1, pp. 1–51). Zenodo. https://doi.org/10.5281/zenodo.21684711
-’’’
+```
 
 ---
 
