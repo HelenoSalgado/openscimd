@@ -19,10 +19,10 @@ date: "11-01-2019"
 DOI: "10.1590/2236-3459/83768"
 
 keywords: 
-  - "currículo"
-  - "método"
+  - "Currículo"
+  - "Método"
   - "Petrus Ramus"
-  - "ramismo"
+  - "Ramismo"
   - "pedagogia universitária"
 
 categories: 
@@ -33,28 +33,6 @@ copyright: "Associação Sul-Rio-Grandense de Pesquisadores em História da Educ
 
 license: "Artigo de acesso aberto distribuído nos termos de licença Creative Commons."
 ---
-
-## DE LA UNIVERSIDAD QUINIENTISTA DE PARÍS PARA EL MUNDO: CURRÍCULO Y MÉTODO EN PETRUS RAMUS
-
-**RESUMEN**
-
-Proponemos una discusión históricamente situada sobre la organización y la administración, en la cultura occidental, de un saber enteramente escolar, caracterizado por los principios del orden y de la uniformidad, y que se expresa en monografías - de tipo compendiario y manualístico -, producidas para circular únicamente en los establecimientos de enseñanza. El análisis retrocede hasta el espacio universitario del Renacimiento y los primeros debates sobre la premura de un dispositivo de sistematización del conocimiento, donde Petrus Ramus aparece como un personaje conceptual y donde se descubre un diagnóstico seminal basado en un gesto educativo como suponiendo una doble articulación: i) el currículo es el invariante que permite racionalizar todo conocimiento a través de disciplinas unidas en un plano de estudios, mientras que (ii) el método constituye la posibilidad de estabilizar y simplificar, de articular y graduar todos los contenidos escolares.
-
-**Palabras clave:** currículo, método, Petrus Ramus, ramismo, pedagogía universitaria.
-
-## FROM THE 16TH CENTURY UNIVERSITY OF PARIS TO THE WORLD: CURRICULUM AND METHOD IN PETRUS RAMUS
-
-**ABSTRACT**
-We propose a historically situated discussion on the organization and administration, in western culture, of a specific knowledge of schooling characterized by the principles of order and uniformity and expressed in monographs – compendia and manuals – that was produced to exclusively circulate in educational institutions. This analysis reverts to Renaissance academia and the earliest debates on the urgency of developing a mechanism to systematize knowledge, a framework in which Petrus Ramus emerges as a conceptual persona. A seminal diagnosis based on the educational act as a double process was then developed: (i) the curriculum was to become an invariable that rationalizes all knowledge through the unification of disciplines in a single syllabus, whereas ii) the method came to mean the possibility of stabilizing and simplifying, assembling and grading, the totality of school contents.
-
-**Keywords:** curriculum, method, Petrus Ramus, ramism, pedagogy in higher education.
-
-## DE L'UNIVERSITÉ DE PARIS AU XVIE SIÈCLE AU MONDE: CURRICULUM ET MÉTHODE EN PETRUS RAMUS
-
-**RESUME**
-Nous proposons une discussion historiquement située sur l'organisation et l'administration dans la culture occidentale d'une connaissance entièrement académique, caractérisée par les principes d'ordre et d'uniformité, et qui s'exprime dans des monographies - de type compédiaire et manualistique - produites pour circuler seulement dans les établissements d'enseignement. L'analyse remonte à l'espace universitaire de la Renaissance et aux premiers débats sur l'urgence d'un dispositif de systématisation de la connaissance, où Petrus Ramus apparaît comme un personnage conceptuel et où un diagnostic séminal se fonde sur un geste éducatif assumant une double articulation: (i) le curriculum est l'invariant qui permet de rationaliser toutes les connaissances à travers des disciplines réunies dans un syllabus, alors que (ii) la méthode constitue la possibilité de stabiliser et de simplifier, d'articuler et de classer tous les contenus scolaires.
-
-**Mots-clés:** curriculum, méthode, Petrus Ramus, ramisme, pédagogie universitaire.
 
 ## INTRODUÇÃO: RAMISMO E A HISTÓRIA DO PRESENTE EDUCACIONAL
 
