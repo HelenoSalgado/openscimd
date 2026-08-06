@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "articles",
-  "last_updated": 1785711697925,
+  "last_updated": 1785988662982,
   "articles": [
     {
       "id": "art_001",
@@ -15,7 +15,8 @@
       ],
       "published_at": 1763596800000,
       "estimated_reading_time_min": 12,
-      "license": "CC BY-NC 4.0"
+      "license": "CC BY-NC 4.0",
+      "language": "pt-BR"
     },
     {
       "id": "art_002",
@@ -33,15 +34,13 @@
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/pdfs/as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico.pdf",
       "categories": [
-        "Filosofia",
-        "Teologia",
         "Ciência Política",
         "História"
       ],
       "published_at": 1530316800000,
       "estimated_reading_time_min": 59,
       "doi": "10.3989/hs.2018.005",
-      "license": "Direitos autorais: © 2018 CSIC. Este é um artigo de acesso aberto distribuído sob os termos da licença de uso e distribuição Creative Commons Reconhecimento 4.0 Internacional (CC BY 4.0).",
+      "license": "CC BY 4.0",
       "journal": "Hispania Sacra",
       "volume": "70",
       "issue": "141",
@@ -73,9 +72,9 @@
         "Educação"
       ],
       "published_at": 1547164800000,
-      "estimated_reading_time_min": 33,
+      "estimated_reading_time_min": 30,
       "doi": "10.1590/2236-3459/83768",
-      "license": "Direitos autorais: Associação Sul-Rio-Grandense de Pesquisadores em História da Educação - Asphe. Artigo de acesso aberto distribuído nos termos de licença Creative Commons.",
+      "license": "Artigo de acesso aberto distribuído nos termos de licença Creative Commons.",
       "journal": "Revista História da Educação (Online)",
       "volume": "23",
       "pages": "1-33"
@@ -96,10 +95,9 @@
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/o-destino-eterno-dos-bebes-que-morrem-precocimente-e-das-pessoas-com-deficiencia-intelectual-severa.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/pdfs/o-destino-eterno-dos-bebes-que-morrem-precocimente-e-das-pessoas-com-deficiencia-intelectual-severa.pdf",
       "categories": [
-        "Teologia",
-        "Educação"
+        "Teologia"
       ],
-      "published_at": 1841270400000,
+      "published_at": 1785283200000,
       "estimated_reading_time_min": 120,
       "doi": "10.5281/zenodo.21684711",
       "license": "Creative Commons Attribution 4.0 International",
@@ -150,13 +148,11 @@
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/articles/peter-ramus-importancia-na-retorica-e-ataque-a-cicero.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/peter-ramus-importancia-na-retorica-e-ataque-a-cicero.webp",
       "categories": [
-        "Retórica",
-        "Filosofia",
-        "Educação"
+        "Retórica"
       ],
       "published_at": 1784246400000,
       "estimated_reading_time_min": 28,
-      "license": "Artigo acadêmico em PDF; direitos autorais não verificados no arquivo fornecido.",
+      "license": "Artigo acadêmico em PDF; direitos autorais ainda não verificados.",
       "journal": "IPDA",
       "volume": "3",
       "issue": "1",
@@ -194,7 +190,7 @@
       "udc": "1(091):161/162",
       "bbk": "87.3:87.4",
       "hos": "113",
-      "license": "Direitos autorais: © 2025 por AcademyGate Publishing. Este artigo é um artigo de acesso aberto distribuído sob os termos e condições da licença CC BY-NC 4.0. Para obter detalhes sobre esta licença, visite https://creativecommons.org/licenses/by-nc/4.0/.",
+      "license": "CC BY-NC 4.0",
       "journal": "History of Science",
       "volume": "6",
       "issue": "5",
@@ -240,9 +236,7 @@
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/pdfs/universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao.pdf",
       "categories": [
-        "Educação",
-        "Educação Superior",
-        "Internacionalização"
+        "Educação"
       ],
       "published_at": 1609545600000,
       "estimated_reading_time_min": 29,
