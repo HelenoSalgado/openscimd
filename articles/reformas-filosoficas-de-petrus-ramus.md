@@ -36,7 +36,9 @@ categories:
   - Filosofia
   - Lógica
 
-license: "Direitos autorais: © 2025 por AcademyGate Publishing. Este artigo é um artigo de acesso aberto distribuído sob os termos e condições da licença CC BY-NC 4.0. Para obter detalhes sobre esta licença, visite https://creativecommons.org/licenses/by-nc/4.0/."
+copyright: "2025 por AcademyGate Publishing"
+
+license: "CC BY-NC 4.0"
 ---
 
 ## 1. Introdução

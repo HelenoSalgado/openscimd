@@ -8,6 +8,7 @@ categories:
   - Filosofia
   - Clássicos
 translator: "Heleno Salgado"
+originalLanguage: "en"
 language: "pt-BR"
 ---
 

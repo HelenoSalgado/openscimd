@@ -35,8 +35,7 @@ keywords:
   - "Experiências interinstitucionais"
 categories:
   - "Educação"
-  - "Educação Superior"
-  - "Internacionalização"
+  
 license: "CC BY-NC-SA"
 ---
 

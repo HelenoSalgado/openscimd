@@ -21,9 +21,7 @@ keywords:
   - Aristóteles
 categories:
   - Retórica
-  - Filosofia
-  - Educação
-license: "Artigo acadêmico em PDF; direitos autorais não verificados no arquivo fornecido."
+license: "Artigo acadêmico em PDF; direitos autorais ainda não verificados."
 ---
 
 ## Introdução

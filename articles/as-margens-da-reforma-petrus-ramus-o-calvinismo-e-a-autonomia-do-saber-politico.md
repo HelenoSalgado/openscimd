@@ -22,12 +22,12 @@ keywords:
   - Saber político
 
 categories: 
-  - Filosofia
-  - Teologia
   - Ciência Política
   - História
 
-license: "Direitos autorais: © 2018 CSIC. Este é um artigo de acesso aberto distribuído sob os termos da licença de uso e distribuição Creative Commons Reconhecimento 4.0 Internacional (CC BY 4.0)."
+copyright: "2018 CSIC"
+
+license: "CC BY 4.0"
 ---
 
 ## Petrus Ramus e sua concepção do saber[^1]

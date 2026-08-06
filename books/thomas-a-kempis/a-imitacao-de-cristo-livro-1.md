@@ -8,7 +8,6 @@ language: "pt-BR"
 translator: "Heleno Salgado"
 license: "Domínio Público"
 categories:
-  - Filosofia
   - Teologia
   - Espiritualidade
 ---

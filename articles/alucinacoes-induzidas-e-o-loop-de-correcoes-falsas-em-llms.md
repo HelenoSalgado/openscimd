@@ -1,11 +1,14 @@
 ---
 title: "Induções Estruturais para Alucinações em Grandes Modelos de Linguagem: Um Estudo de Caso Apenas de Saída e a Descoberta do Loop de Correção Falsa"
 author: "Hiroko Konishi"
-date: "2025-11-20"
+date: "20-11-2025"
+summary: "Este estudo de caso explora as alucinações de Grandes Modelos de Linguagem (LLMs), focando em como eles fabricam informações e caem em 'loops de correção falsa'. Analisa o viés de autoridade e a supressão de hipóteses não-mainstream, propondo que esses comportamentos são induções estruturais no design de LLMs."
+originalLanguage: "en"
+language: "pt-BR"
+translator: "Heleno Salgado"
+license: "CC BY-NC 4.0"
 categories:
   - IA
-summary: "Este estudo de caso explora as alucinações de Grandes Modelos de Linguagem (LLMs), focando em como eles fabricam informações e caem em 'loops de correção falsa'. Analisa o viés de autoridade e a supressão de hipóteses não-mainstream, propondo que esses comportamentos são induções estruturais no design de LLMs."
-license: "CC BY-NC 4.0"
 ---
 
 ## Prefácio Estrutural: Sobre o Remarcado de Evidências Estruturais

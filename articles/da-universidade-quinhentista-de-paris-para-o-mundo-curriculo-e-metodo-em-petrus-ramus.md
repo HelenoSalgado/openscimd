@@ -29,7 +29,9 @@ categories:
   - "História da Educação"
   - "Educação"
 
-license: "Direitos autorais: Associação Sul-Rio-Grandense de Pesquisadores em História da Educação - Asphe. Artigo de acesso aberto distribuído nos termos de licença Creative Commons."
+copyright: "Associação Sul-Rio-Grandense de Pesquisadores em História da Educação - Asphe"
+
+license: "Artigo de acesso aberto distribuído nos termos de licença Creative Commons."
 ---
 
 ## DE LA UNIVERSIDAD QUINIENTISTA DE PARÍS PARA EL MUNDO: CURRÍCULO Y MÉTODO EN PETRUS RAMUS

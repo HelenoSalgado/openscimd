@@ -7,6 +7,9 @@ license: "Domínio público"
 originalLanguage: "en"
 translator: "Heleno Salgado"
 language: "pt-BR"
+categories:
+  - Literatura
+  - Clássicos
 ---
 
 # Poética
