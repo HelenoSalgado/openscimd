@@ -24,12 +24,6 @@ categories:
 license: "CC BY 4.0"
 ---
 
-## Abstract
-
-Between the middle of the sixteenth and seventeenth centuries, a rich literature dedicated to practical geometry proliferated that boosted the production of treaties to assist in manual procedures, performed by workers of the period. In this context, the treaty Via regia ad geometriam, originally written and published in Switzerland in 1596 by the Frenchman Petrus Ramus (1515 - 1572), began to gain notoriety as one of the most disseminated documents in the medieval press. The example brought with it a differential organization of the mathematical knowledge existing in its time, which are incorporated in some ways of measuring surface areas, volume of solids, together with the calculation of distances, such as length, height and width. Thus, the article aims to present a description of the treatise in question, highlighting some mathematical elements present in his body, along with a brief biography of the author, with his main works and his precepts. When developing the study, a bibliographic-descriptive methodology, with a qualitative nature, was used, based on the reading of books and articles dealing with the studied theme, in order to collect consistent information. During the research, a systematic development was observed in Petrus Ramus's treatise on mathematical elements, being described in one of the chapters, the instrument called a baculum that helped in the measurement procedures, by means of these components. Thus, it was concluded that the historical document in question, contributed succinctly by providing measurement subsidies for some professions, since it was one of the main activities developed in rural and urban areas, just having knowledge about the mathematics of the period to use it.
-
-**Keywords:** Petrus Ramus; Via regia ad geometriam; Mathematical elements; Longitudinal biography.
-
 ## Introdução
 
 O Renascimento foi um dos grandes movimentos artísticos e literários, ocorridos entre os séculos XV e XVI, sendo um fator importante que impulsionou o desenvolvimento da ciência moderna.
