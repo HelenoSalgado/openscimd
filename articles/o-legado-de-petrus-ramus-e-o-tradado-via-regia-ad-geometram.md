@@ -64,7 +64,7 @@ Deste modo, foram consultados artigos, livros e sites que versam sobre o context
 
 Nascido em Cuts, localizado na região da França, no ano de 1515, Pierre de La Ramée ou simplesmente Petrus Ramus[^3] (Figura 1), veio de uma família que havia perdido toda sua riqueza, com o saque na cidade de Liège em 1468. Contudo, os parentes de Petrus Ramus, não perderam o título de aristocratas, sendo filho de um nobre trabalhador, Jacques de La Ramée com Jeanne Charpentier (MAHONEY, 1981).
 
-![Figura 1 – Caricatura de Petrus Ramus. Fonte: Ingemarsdotter (2011, p. 64)](/assets/mobile/o-legado-de-petrus-ramus-e-o-tratado-via-regia-ad-geometriam-figura-1.webp)
+![Figura 1 – Caricatura de Petrus Ramus. Fonte: Ingemarsdotter (2011, p. 64)](/assets/desktop/o-legado-de-petrus-ramus-e-o-tratado-via-regia-ad-geometriam-figura-1.webp)
 
 Durante sua infância, Petrus Ramus teve o ensino primário a domicílio, tendo habilidades notáveis observadas por seus professores. Por volta de 1527, aos doze anos, ele ingressa na universidade de Paris[^4], onde teve que aprender a lidar com seus gastos e custos, obtendo o primeiro trabalho como servente.
 
@@ -118,7 +118,7 @@ Assim, ano de 1569 é escrito por Petrus Ramus na língua latina, a primeira ver
 
 Em 1636[^6] foi traduzida para a língua inglesa e publicada por Willian Bedwell (1561 – 1632) em Londres, sendo bastante difundida na época.
 
-![Figura 2 – Frontispício de Via Regia ad Geometriam. Fonte: Ramus (1636, frontispício)](/assets/mobile/o-legado-de-petrus-ramus-e-o-tratado-via-regia-ad-geometriam-figura-2.webp)
+![Figura 2 – Frontispício de Via Regia ad Geometriam. Fonte: Ramus (1636, frontispício)](/assets/desktop/o-legado-de-petrus-ramus-e-o-tratado-via-regia-ad-geometriam-figura-2.webp)
 
 Um dos destaques dado ao tratado de Petrus Ramus foi a organização sistemática nos conteúdos matemáticos, que visava idealizar uma relação entre conhecimentos teóricos e suas aplicações empíricas. É predominante no documento, a premissa que ele define como “a arte de medir bem”, ao incluir assuntos voltados para a medição, usados na geometria prática, abordando a parte conceitual com os teoremas e as proposições que vão sendo direcionado a problemas de situações cotidianas, conforme a afirmação de Pereira e Saito (2019, p. 349):
 
@@ -132,7 +132,7 @@ De acordo com Pereira e Saito (2018), a primeira categoria contém nove livros, 
 
 Ao final dessa primeira compilação, precisamente no livro IX, é descrito um instrumento de agrimensura intitulado por báculo (Figura 3), que era utilizado tanto para medição de distâncias terrestres, quando celestes (SAITO; PEREIRA, 2019). O instrumento matemático, era uma variante apresentado por Petrus Ramus, era disposto em um formato de cruz, que se diferenciava dos demais por ter uma de suas hastes móvel (Transversal), que poderia se mover para cima e para baixo, de um lado para outro sob a outra haste (Indicador).
 
-![Figura 3 – Esquematização do báculo de Petrus Ramus e suas peças. Fonte: Pereira e Saito (2019, p. 363)](assets/mobile/o-legado-de-petrus-ramus-e-o-tradado-via-regia-ad-geometriam-figura-3.webp)
+![Figura 3 – Esquematização do báculo de Petrus Ramus e suas peças. Fonte: Pereira e Saito (2019, p. 363)](/assets/desktop/o-legado-de-petrus-ramus-e-o-tradado-via-regia-ad-geometriam-figura-3.webp)
 
 A segunda categoria contém dez livros, com a abordagem de assuntos a respeito de medição de grandezas com duas dimensões (comprimento e largura), direcionando a medida de áreas das figuras planas importantes no período como o triângulo, o paralelogramo, o retângulo, dentre outras. Ainda são apresentadas outras maneiras de obtenção de áreas, por meio de condições particulares propostas por Petrus Ramus de figuras como o círculo e o triângulo (PEREIRA; SAITO, 2018).
 
