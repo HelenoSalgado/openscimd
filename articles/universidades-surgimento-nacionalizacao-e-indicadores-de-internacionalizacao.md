@@ -35,15 +35,8 @@ keywords:
   - "Experiências interinstitucionais"
 categories:
   - "Educação"
-  
 license: "CC BY-NC-SA"
 ---
-
-## ABSTRACT
-
-This article begins by presenting the trajectory of universities since the emergence in the medieval period, with the creation of a community of students; passing through the phenomenon of nationalization, with the consequent loss of its initial character influenced by the schools of craft and later by the ecclesiastical and imperial order; addressing in this bulge the process of nationalization in from of the French revolution. The Brazilian university, strongly influenced until the 1970s by the European model, was impacted by the premises of the educational reforms and objectives outlined for an integrating structure between teaching and research, which occurred more effectively from the 1980s, are presented together with the initiatives of the university's internationalization. Finally, the strategies for the development of a project for the internationalization of Brazilian universities in the 21st century are listed under the premise that in order to conceive international cooperation, as an integral part of institutional missions, it is up to universities to create appropriate mechanisms and structures to promote internationalization as one of the indicative assumptions of this direction.
-
-**KEYWORDS:** Internationalization. Higher education. Interinstitutional experiences.
 
 ## Universidades: do surgimento à nacionalização
 
