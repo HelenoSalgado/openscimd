@@ -21,10 +21,11 @@ Nosso script de indexação analisa as pastas `articles` e `books` compilando to
 
 ## 📂 Estrutura do Repositório
 
-* `articles/`: Artigos acadêmicos escritos em Markdown.
-* `books/`: Livros completos indexados no projeto.
-* `covers/`: Capas oficiais dos artigos em formato de imagem.
-* `pdfs/`: Versão original dos artigos e livros em formato PDF.
+* `content/articles/`: Artigos acadêmicos escritos em Markdown.
+* `content/books/`: Livros completos indexados no projeto.
+* `assets/covers/`: Capas oficiais dos artigos em formato de imagem.
+* `assets/pdfs/`: Versão original dos artigos e livros em formato PDF.
+* `assets/images/`: Imagens auxiliares e mídia genérica.
 * `scripts/`: Módulos em Python responsáveis pelas ferramentas de automação do projeto.
 * `legacy_scripts/`: Histórico com scripts antigos Node.js e Shell Script do projeto.
 * `docs/`: Documentações detalhadas de funcionamento do repositório.
@@ -64,7 +65,7 @@ uv run openscimd ai-cover <nome-do-artigo> ["estilo-opcional"] --provider gemini
 ### 4. Gestão e Tipografia de Capas
 Para injetar os textos (títulos e autores) de forma vetorizada sobre uma imagem-base limpa:
 ```bash
-uv run openscimd inject-text covers/<nome-da-imagem>.png
+uv run openscimd inject-text assets/covers/<nome-da-imagem>.png
 ```
 
 Para processar as capas base injetadas garantindo dimensões e DPI corretos em todo o grid responsivo:

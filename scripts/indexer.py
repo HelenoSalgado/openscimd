@@ -10,7 +10,7 @@ DEFAULT_WPM = 200
 
 def update_articles_index(base_dir):
     print('🔄 Iniciando atualização do index-articles.json...')
-    articles_dir = Path(base_dir) / 'articles'
+    articles_dir = Path(base_dir) / 'content' / 'articles'
     index_file = Path(base_dir) / 'index-articles.json'
     
     if not articles_dir.exists():
@@ -71,12 +71,12 @@ def update_articles_index(base_dir):
             first_p = clean_body.split('\n\n')[0] if clean_body else ''
             summary = first_p[:250].strip() + ('...' if len(first_p) > 250 else '')
             
-        remote_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/articles/{file_name}"
-        cover_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/covers/mobile/{base_name}.webp"
+        remote_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/content/articles/{file_name}"
+        cover_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/assets/covers/mobile/{base_name}.webp"
         
         pdf_url = None
-        if (Path(base_dir) / 'pdfs' / f"{base_name}.pdf").exists():
-            pdf_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/pdfs/{base_name}.pdf"
+        if (Path(base_dir) / 'assets' / 'pdfs' / f"{base_name}.pdf").exists():
+            pdf_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/assets/pdfs/{base_name}.pdf"
             
         categories = metadata.get('categories') or metadata.get('category') or (existing.get('categories') if existing else [])
         if isinstance(categories, str): categories = [categories]
@@ -125,7 +125,7 @@ def update_articles_index(base_dir):
 
 def update_books_index(base_dir):
     print('🔄 Iniciando atualização do index-books.json...')
-    books_dir = Path(base_dir) / 'books'
+    books_dir = Path(base_dir) / 'content' / 'books'
     index_file = Path(base_dir) / 'index-books.json'
     
     if not books_dir.exists():
@@ -144,7 +144,7 @@ def update_books_index(base_dir):
     max_id_num = 0
     for book in existing_index.get('books', []):
         if 'remote_url' in book:
-            rel_path = book['remote_url'].split('/main/books/')[-1]
+            rel_path = book['remote_url'].split('/main/content/books/')[-1]
             existing_map[rel_path] = book
         if 'id' in book and str(book['id']).startswith('book_'):
             num = int(book['id'][5:])
@@ -187,12 +187,12 @@ def update_books_index(base_dir):
             first_p = clean_body.split('\n\n')[0] if clean_body else ''
             summary = first_p[:250].strip() + ('...' if len(first_p) > 250 else '')
             
-        remote_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/books/{rel_path}"
-        cover_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/covers/mobile/{base_name}.webp"
+        remote_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/content/books/{rel_path}"
+        cover_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/assets/covers/mobile/{base_name}.webp"
         
         pdf_url = None
-        if (Path(base_dir) / 'pdfs' / f"{base_name}.pdf").exists():
-            pdf_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/pdfs/{base_name}.pdf"
+        if (Path(base_dir) / 'assets' / 'pdfs' / f"{base_name}.pdf").exists():
+            pdf_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/assets/pdfs/{base_name}.pdf"
             
         categories = metadata.get('categories') or metadata.get('category') or (existing.get('categories') if existing else [])
         if isinstance(categories, str): categories = [categories]

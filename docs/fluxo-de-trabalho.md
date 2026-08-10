@@ -8,7 +8,7 @@ Para introduzir um novo artigo científico ou e-book ao acervo do repositório, 
 
 ### Passo 1: Escrever o artigo em Markdown
 
-Escreva o arquivo `.md` e coloque-o na pasta `articles/` ou `books/`. O nome do arquivo deve ser em formato slug lowercase do título completo do artigo (ex: `reformas-filosoficas-de-petrus-ramus.md`).
+Escreva o arquivo `.md` e coloque-o na pasta `content/articles/` ou `content/books/`. O nome do arquivo deve ser em formato slug lowercase do título completo do artigo (ex: `reformas-filosoficas-de-petrus-ramus.md`).
 
 No topo do arquivo, estruture o cabeçalho YAML da seguinte forma:
 
@@ -60,7 +60,7 @@ license: "CC BY 4.0"
 
 ### Passo 2: Adicionar Imagens de Capa e o PDF Original (Opcionais)
 
-* **Imagem de Capa**: Você pode criar a imagem de fundo manualmente na pasta `covers/` ou usar o nosso gerador automático via Inteligência Artificial rodando:
+* **Imagem de Capa**: Você pode criar a imagem de fundo manualmente na pasta `assets/covers/` ou usar o nosso gerador automático via Inteligência Artificial rodando:
 
 ```bash
   uv run openscimd ai-cover nome-do-artigo
@@ -68,7 +68,7 @@ license: "CC BY 4.0"
 
 *(Para detalhes de estilo e configuração da API de IA, consulte o guia de [Modelo e Geração de Capas](gerador-de-capas.md)).*
 
-* **PDF Original**: Adicione o arquivo `.pdf` correspondente na pasta `pdfs/` com o mesmo nome (ex: `pdfs/reformas-filosoficas-de-petrus-ramus.pdf`).
+* **PDF Original**: Adicione o arquivo `.pdf` correspondente na pasta `assets/pdfs/` com o mesmo nome (ex: `assets/pdfs/reformas-filosoficas-de-petrus-ramus.pdf`).
 
 ### Passo 3: Executar a Atualização do Índice
 

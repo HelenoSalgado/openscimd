@@ -1,6 +1,6 @@
 # Diretrizes de Metadados Acadêmicos (MDC)
 
-Este documento estabelece o padrão de metadados YAML (MDC keys) recomendado para a pasta `articles` no repositório de artigos científicos e acadêmicos. O uso de metadados padronizados otimiza a indexação, facilita o gerenciamento administrativo, melhora a busca e enriquece a experiência de leitura do usuário final.
+Este documento estabelece o padrão de metadados YAML (MDC keys) recomendado para a pasta `content/articles` no repositório de artigos científicos e acadêmicos. O uso de metadados padronizados otimiza a indexação, facilita o gerenciamento administrativo, melhora a busca e enriquece a experiência de leitura do usuário final.
 
 ---
 
@@ -46,7 +46,7 @@ authors:
 
 ## 🛠️ Como Adicionar Novos Artigos
 
-Sempre que adicionar um novo arquivo `.md` na pasta `articles`, preencha o bloco inicial (frontmatter) seguindo este modelo completo:
+Sempre que adicionar um novo arquivo `.md` na pasta `content/articles`, preencha o bloco inicial (frontmatter) seguindo este modelo completo:
 
 ```yaml
 ---

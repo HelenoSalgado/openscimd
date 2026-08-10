@@ -6,10 +6,21 @@
     },
     "cSpell.autocorrect": true,
     "cSpell.useGitignore": false,
+    "files.exclude": {
+        "assets/images/originals": true,
+        "assets/covers/originals": true,
+        "artfacts-saloppdf": true,
+        "assets/ilustrations": true,
+        ".venv": true,
+        "legacy_scripts": true,
+        "**/__pycache__": true,
+        ".agents": true,
+        ".github": true
+    },
     "search.exclude": {
         "**/data": false,
-        "**/books": true,
-        "**/articles": true
+        "**/content/books": true,
+        "**/content/articles": true
     },
     "cSpell.words": [
         "frontmatter",

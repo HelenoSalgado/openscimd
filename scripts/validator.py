@@ -4,9 +4,9 @@ from scripts.utils import parse_markdown_file, parse_date_to_timestamp
 
 def validate_articles(base_dir):
     print('🧪 Iniciando validação de formato e metadados dos artigos...\n')
-    articles_dir = Path(base_dir) / 'articles'
-    covers_dir = Path(base_dir) / 'covers'
-    pdfs_dir = Path(base_dir) / 'pdfs'
+    articles_dir = Path(base_dir) / 'content' / 'articles'
+    covers_dir = Path(base_dir) / 'assets' / 'covers'
+    pdfs_dir = Path(base_dir) / 'assets' / 'pdfs'
     
     if not articles_dir.exists():
         print(f"❌ Diretório de artigos não encontrado em: {articles_dir}")
@@ -69,10 +69,10 @@ def validate_articles(base_dir):
                 warnings.append('Campo administrativo "journal" está ausente.')
                 
             if not (covers_dir / 'mobile' / f"{base_name}.webp").exists():
-                warnings.append(f'Imagem de capa mobile correspondente não localizada em covers/mobile/{base_name}.webp.')
+                warnings.append(f'Imagem de capa mobile correspondente não localizada em assets/covers/mobile/{base_name}.webp.')
                 
             if not (pdfs_dir / f"{base_name}.pdf").exists():
-                warnings.append(f'Arquivo original em PDF não localizado em pdfs/{base_name}.pdf.')
+                warnings.append(f'Arquivo original em PDF não localizado em assets/pdfs/{base_name}.pdf.')
                 
         except Exception as e:
             errors.append(f'Falha crítica ao ler/processar arquivo: {e}')

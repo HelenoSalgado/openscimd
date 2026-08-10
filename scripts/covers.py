@@ -15,7 +15,7 @@ SCREEN_SIZES = {
 }
 
 def convert_covers(base_dir: str, target_file: str = None):
-    covers_dir = Path(base_dir) / 'covers'
+    covers_dir = Path(base_dir) / 'assets' / 'covers'
     print(f'🖼️  Iniciando a conversão de capas em: {covers_dir}')
     
     if not covers_dir.exists():
@@ -141,9 +141,9 @@ def inject_cover_text(base_dir, raw_image_path, custom_text=None):
         authors = parts[1] if len(parts) > 1 else ""
         date = parts[2] if len(parts) > 2 else ""
     else:
-        article_path = Path(base_dir) / 'articles' / f"{base_name}.md"
+        article_path = Path(base_dir) / 'content' / 'articles' / f"{base_name}.md"
         if article_path.exists():
-            print(f"📖 Extraindo metadados de: articles/{base_name}.md...")
+            print(f"📖 Extraindo metadados de: content/articles/{base_name}.md...")
             parsed = parse_markdown_file(str(article_path))
             metadata = parsed['metadata']
             title = metadata.get('title', base_name)
@@ -164,13 +164,13 @@ def inject_cover_text(base_dir, raw_image_path, custom_text=None):
         
     title_lines = wrap_text(title, max_chars)
     
-    originals_dir = Path(base_dir) / 'covers' / 'originals'
+    originals_dir = Path(base_dir) / 'assets' / 'covers' / 'originals'
     originals_dir.mkdir(parents=True, exist_ok=True)
     dest_path = originals_dir / f"{base_name}.png"
     
     try:
         print('⏳ Renderizando tipografia...')
-        resized_base = Path(base_dir) / 'covers' / f".tmp_base_{base_name}.png"
+        resized_base = Path(base_dir) / 'assets' / 'covers' / f".tmp_base_{base_name}.png"
         with Image.open(img_path) as img:
             img = img.resize((width, height), Image.Resampling.LANCZOS)
             img.save(resized_base)
@@ -199,9 +199,9 @@ def inject_cover_text(base_dir, raw_image_path, custom_text=None):
             
         print(f"\n✅ Capa final com tipografia salva em: {dest_path}")
         
-        if img_path != dest_path and img_path.exists() and img_path.parent == Path(base_dir) / 'covers':
+        if img_path != dest_path and img_path.exists() and img_path.parent == Path(base_dir) / 'assets' / 'covers':
             img_path.unlink()
-            print(f"🧹 Imagem temporária removida de: covers/{file_name}")
+            print(f"🧹 Imagem temporária removida de: assets/covers/{file_name}")
             
     except Exception as e:
         print(f"❌ Erro ao injetar texto na capa: {e}")

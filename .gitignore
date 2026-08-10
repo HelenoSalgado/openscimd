@@ -1,9 +1,8 @@
 .env
-node_modules/
-assets/originals
-covers/originals
+assets/images/originals
+assets/covers/originals
 artfacts-saloppdf
-ilustrations
+assets/ilustrations
 data/*
 .venv
 legacy_scripts/

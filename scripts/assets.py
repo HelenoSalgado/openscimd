@@ -9,7 +9,7 @@ SCREEN_SIZES = {
 }
 
 def convert_assets(base_dir: str):
-    assets_dir = Path(base_dir) / 'assets'
+    assets_dir = Path(base_dir) / 'assets' / 'images'
     print(f'🖼️  Iniciando a conversão de assets em: {assets_dir}')
     
     if not assets_dir.exists():

@@ -19,8 +19,8 @@ def get_env(base_dir):
 def generate_cover(base_dir, article_name, custom_style=None, provider="gemini"):
     env = get_env(base_dir)
     base_name = Path(article_name).stem
-    article_path = Path(base_dir) / 'articles' / f"{base_name}.md"
-    cover_dest = Path(base_dir) / 'covers' / f"{base_name}.png"
+    article_path = Path(base_dir) / 'content' / 'articles' / f"{base_name}.md"
+    cover_dest = Path(base_dir) / 'assets' / 'covers' / f"{base_name}.png"
     
     if not article_path.exists():
         print(f"❌ Artigo não encontrado em: {article_path}")

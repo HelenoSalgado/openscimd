@@ -66,7 +66,7 @@ uv run openscimd ai-cover nome-do-artigo --provider gemini
 uv run openscimd ai-cover nome-do-artigo "estilo pintura clássica a óleo, tons pastéis" --provider gemini
 ```
 
-A imagem gerada será salva diretamente em `covers/nome-do-artigo.png`.
+A imagem gerada será salva diretamente em `assets/covers/nome-do-artigo.png`.
 
 ### ⚪ Opção B: Gerador Genérico HTTP POST (OpenAI / DALL-E)
 Este script faz requisições HTTP brutas do tipo POST, compatíveis com a API do DALL-E ou proxies OpenAI-like.
@@ -84,7 +84,7 @@ IA_MODEL_NAME=dall-e-3
 uv run openscimd ai-cover nome-do-artigo "estilo minimalista escandinavo" --provider openai
 ```
 
-A imagem gerada será salva diretamente em `covers/nome-do-artigo.png`.
+A imagem gerada será salva diretamente em `assets/covers/nome-do-artigo.png`.
 
 ## 🔄 Passo Final Pós-Geração
 
