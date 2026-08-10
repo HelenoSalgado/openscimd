@@ -2,64 +2,80 @@
 
 Bem-vindo ao **OpenSciMD**, um repositório centralizado projetado para o armazenamento, organização e compartilhamento de artigos acadêmicos e científicos estruturados em formato Markdown. 
 
-O repositório conta com uma automação construída em Node.js que extrai metadados acadêmicos (como DOI, UDC e Licenças) e compila automaticamente o índice geral para consumo por aplicações externas.
+O repositório conta com uma automação CLI construída em Python (gerenciada via `uv`) que extrai metadados acadêmicos (como DOI, UDC e Licenças) e compila automaticamente o índice geral para consumo por aplicações externas, além de prover um conjunto de ferramentas robustas para processamento e validação.
 
 ---
 
 ## 🚀 Como Funciona a Automação?
 
-Nosso script de indexação analisa a pasta `articles` e compila todos os metadados do cabeçalho YAML para o arquivo [index.json](index.json).
+Nosso script de indexação analisa as pastas `articles` e `books` compilando todos os metadados do cabeçalho YAML para os arquivos `index-articles.json` e `index-books.json`.
 
 ### Principais Recursos:
-* **Preservação de IDs de Artigos**: O script preserva IDs de artigos pré-existentes, garantindo que referências antigas nunca sejam alteradas ou quebradas.
-* **Estimação Inteligente de Leitura**: O tempo estimado de leitura é calculado baseando-se em uma velocidade média acadêmica de 200 palavras por minuto, limpando o texto de código fonte, HTML e formatação do Markdown para um valor realístico.
-* **Busca Automática de Capas**: Detecta extensões de mídia comuns (`.webp`, `.png`, `.jpg`, `.jpeg`, `.svg`) na pasta de capas e vincula-as dinamicamente ao artigo.
-* **Detecção de PDF Original**: Caso exista um PDF correspondente na pasta `pdfs`, uma chave de URL direta para ele (`pdf_url`) é criada de forma automática.
-* **JSON Otimizado**: Chaves com valores não preenchidos (vazias, nulas ou arrays vazios) são totalmente omitidas para manter o arquivo de índice com consumo otimizado de dados.
+* **CLI Integrado**: Todas as operações são feitas de maneira simplificada através do comando unificado `openscimd`.
+* **Preservação de IDs**: O script preserva IDs de artigos e livros pré-existentes, garantindo que referências antigas nunca sejam alteradas ou quebradas.
+* **Estimação Inteligente de Leitura**: O tempo estimado de leitura é calculado baseando-se em uma velocidade média acadêmica de 200 palavras por minuto.
+* **Automação de Capas e Assets**: Ferramentas nativas para injeção tipográfica avançada e geração de imagens otimizadas para todas as plataformas de acesso (mobile, tablet, desktop).
+* **Geração de Arte via IA**: Interface de geração de arte com IA integrada diretamente no pipeline de criação de capas.
 
 ---
 
 ## 📂 Estrutura do Repositório
 
-* [articles/](articles/): Artigos acadêmicos escritos em Markdown.
-* [covers/](covers/): Capas oficiais dos artigos em formato de imagem.
-* [pdfs/](pdfs/): Versão original dos artigos em formato PDF.
-* [scripts/](scripts/): Ferramentas de automação e testes automatizados.
-* [docs/](docs/): Documentações detalhadas de funcionamento do repositório.
+* `articles/`: Artigos acadêmicos escritos em Markdown.
+* `books/`: Livros completos indexados no projeto.
+* `covers/`: Capas oficiais dos artigos em formato de imagem.
+* `pdfs/`: Versão original dos artigos e livros em formato PDF.
+* `scripts/`: Módulos em Python responsáveis pelas ferramentas de automação do projeto.
+* `legacy_scripts/`: Histórico com scripts antigos Node.js e Shell Script do projeto.
+* `docs/`: Documentações detalhadas de funcionamento do repositório.
 
 ---
 
 ## 🛠️ Execução e Desenvolvimento
 
-### 1. Atualizar o Índice Geral (`index.json`)
-Sempre que novos artigos, imagens ou PDFs forem adicionados, rode o seguinte comando no terminal:
+O ambiente de execução e de gerenciamento de dependências deste projeto agora é totalmente baseado no `uv`. Certifique-se de ter o `uv` instalado em sua máquina. 
+
+Para instalar as dependências, sincronizar o ambiente virtual e deixar tudo pronto para uso, execute na raiz do projeto:
 ```bash
-node scripts/update-index.js
+uv sync
 ```
 
-### 2. Executar Testes de Código
-Para garantir que as automações e funções auxiliares do script de indexação estejam funcionando corretamente, execute:
+O comando oficial do projeto passa a ser `uv run openscimd`, que funciona como hub para todas as tarefas. Você pode obter ajuda global para qualquer comando digitando `uv run openscimd --help`.
+
+### 1. Atualizar o Índice Geral (`index-articles.json` e `index-books.json`)
+Sempre que novos artigos, imagens ou PDFs forem adicionados, atualize os índices para a API:
 ```bash
-node scripts/test-index.js
+uv run openscimd index
 ```
 
-### 3. Validar Artigos e Metadados (Para Contribuintes)
-Para verificar a qualidade de formatação dos artigos, checar se há erros de digitação nas chaves YAML, campos obrigatórios ausentes ou se faltam imagens de capa e PDFs correspondentes, execute:
+### 2. Validar Artigos e Metadados (Para Contribuintes)
+Para verificar a formatação dos artigos e garantir a presença de todas as chaves obrigatórias no YAML, execute:
 ```bash
-node scripts/test-articles.js
+uv run openscimd validate
 ```
 
-### 4. Gerar Capa de Artigo via IA (Recomendado: Google Gemini)
-Para gerar automaticamente uma imagem de capa abstrata e conceitual baseada no título e resumo de um artigo usando o Google Gemini, configure o arquivo `.env` e execute:
+### 3. Gerar Capa de Artigo via IA (Recomendado: Google Gemini)
+Gere automaticamente uma ilustração conceitual e integre a tipografia para a capa de um artigo usando a IA.
+Configure primeiro as credenciais copiando e preenchendo o arquivo `.env`. E então:
 ```bash
-# Listar modelos compatíveis:
-node scripts/gemini_ai_generate_cover.js --list
-
-# Gerar capa:
-node scripts/gemini_ai_generate_cover.js <nome-do-artigo> ["estilo-opcional"]
+uv run openscimd ai-cover <nome-do-artigo> ["estilo-opcional"] --provider gemini
 ```
 
-*(Também é possível utilizar o gerador genérico HTTP POST rodando `node scripts/ia_generate-cover.js <nome-do-artigo>`).*
+### 4. Gestão e Tipografia de Capas
+Para injetar os textos (títulos e autores) de forma vetorizada sobre uma imagem-base limpa:
+```bash
+uv run openscimd inject-text covers/<nome-da-imagem>.png
+```
+
+Para processar as capas base injetadas garantindo dimensões e DPI corretos em todo o grid responsivo:
+```bash
+uv run openscimd build-covers
+```
+
+### 5. Ferramentas Editoriais Diversas
+* `html-to-md`: Converte artigos que nasceram em `html` bruto para `markdown` puríssimo usando pandoc.
+* `verses`: Converte numerações e tópicos baseados em versículos para notação em sobrescrito.
+* `review`: Utilitário ortográfico interativo de correção manual baseada num dicionário de arcaísmos embutido.
 
 ---
 
