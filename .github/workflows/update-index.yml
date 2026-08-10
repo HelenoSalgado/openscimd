@@ -19,13 +19,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
+      - name: Set up Python and uv
+        uses: astral-sh/setup-uv@v5
         with:
-          node-version: '20'
+          enable-cache: true
+          python-version: "3.11"
 
       - name: Run update-index script
-        run: node scripts/update-index.js
+        run: uv run openscimd index
 
       - name: Check if index files changed
         id: check_changes

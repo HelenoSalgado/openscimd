@@ -1,18 +1,52 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1785711697962,
+  "last_updated": 1786333285735,
   "books": [
     {
-      "id": "book_001",
-      "title": "Poética",
-      "author": "Aristóteles",
-      "summary": "Tratado aristotélico sobre a poesia e as artes imitativas, no qual se examinam a essência da tragédia, da epopeia e da comédia; a estrutura do enredo; as partes constitutivas do poema dramático; a catarse das emoções de piedade e temor; e as diferenças entre a imitação trágica e a narrativa épica.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/books/aristoteles/poetica.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/poetica.webp",
-      "published_at": 1784588233564.8752,
-      "estimated_reading_time_min": 71,
+      "id": "book_006",
+      "title": "O Segundo Livro de Moisés, Chamado Êxodo",
+      "author": "Moisés",
+      "summary": "Tradução de Êxodo a partir da King James Bible de 1611, narrando a opressão de Israel no Egito, a chamada de Moisés, as pragas, a saída do Egito, a entrega da Lei no Monte Sinai e a construção do tabernáculo.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/books/segundo-livro-de-moises-chamado-exodo.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/segundo-livro-de-moises-chamado-exodo.webp",
+      "categories": [
+        "Bíblia"
+      ],
+      "published_at": 1785897264316,
+      "estimated_reading_time_min": 160,
       "license": "Domínio público",
+      "language": "pt-BR"
+    },
+    {
+      "id": "book_005",
+      "title": "O Primeiro Livro de Moisés, Chamado Gênesis",
+      "author": "Moisés",
+      "summary": "Tradução do Gênesis a partir da King James Bible de 1611, narrando a criação do mundo, a queda do homem, o dilúvio, a dispersão das nações e a história dos patriarcas Abraão, Isaque, Jacó e José, até a descida de Israel ao Egito.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/books/primeiro-livro-de-moises-chamado-genesis.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/primeiro-livro-de-moises-chamado-genesis.webp",
+      "categories": [
+        "Bíblia"
+      ],
+      "published_at": 1785642044733.8816,
+      "estimated_reading_time_min": 195,
+      "license": "Domínio público",
+      "language": "pt-BR"
+    },
+    {
+      "id": "book_004",
+      "title": "A Imitação de Cristo",
+      "author": "Thomas à Kempis",
+      "summary": "Tratado clássico de espiritualidade cristã, composto de quatro livros de admoestações espirituais, que exorta o leitor ao desprezo do mundo, ao conhecimento de si mesmo, à humildade e à imitação da vida de Cristo como caminho de perfeição interior.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/books/thomas-a-kempis/a-imitacao-de-cristo-livro-1.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/a-imitacao-de-cristo-livro-1.webp",
+      "categories": [
+        "Teologia",
+        "Espiritualidade"
+      ],
+      "published_at": -17419449600000,
+      "estimated_reading_time_min": 60,
+      "license": "Domínio Público",
       "language": "pt-BR",
       "originalLanguage": "en",
       "translator": "Heleno Salgado"
@@ -32,38 +66,23 @@
       "estimated_reading_time_min": 54,
       "license": "Domínio Público",
       "language": "pt-BR",
+      "originalLanguage": "en",
       "translator": "Heleno Salgado"
     },
     {
-      "id": "book_005",
-      "title": "O Primeiro Livro de Moisés, Chamado Gênesis",
-      "author": "Moisés",
-      "summary": "Tradução do Gênesis a partir da King James Bible de 1611, narrando a criação do mundo, a queda do homem, o dilúvio, a dispersão das nações e a história dos patriarcas Abraão, Isaque, Jacó e Joseph, até a descida de Israel ao Egito.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/books/primeiro-livro-de-moises-chamado-genesis.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/primeiro-livro-de-moises-chamado-genesis.webp",
+      "id": "book_001",
+      "title": "Poética",
+      "author": "Aristóteles",
+      "summary": "Tratado aristotélico sobre a poesia e as artes imitativas, no qual se examinam a essência da tragédia, da epopeia e da comédia; a estrutura do enredo; as partes constitutivas do poema dramático; a catarse das emoções de piedade e temor; e as diferenças entre a imitação trágica e a narrativa épica.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/books/aristoteles/poetica.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/poetica.webp",
       "categories": [
-        "Bíblia"
+        "Literatura",
+        "Clássicos"
       ],
-      "published_at": 1785642044733.8816,
-      "estimated_reading_time_min": 126,
+      "published_at": 1784588233564.8752,
+      "estimated_reading_time_min": 71,
       "license": "Domínio público",
-      "language": "pt-BR"
-    },
-    {
-      "id": "book_004",
-      "title": "A Imitação de Cristo",
-      "author": "Thomas à Kempis",
-      "summary": "Tratado clássico de espiritualidade cristã, composto de quatro livros de admoestações espirituais, que exorta o leitor ao desprezo do mundo, ao conhecimento de si mesmo, à humildade e à imitação da vida de Cristo como caminho de perfeição interior.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/books/thomas-a-kempis/a-imitacao-de-cristo-livro-1.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/a-imitacao-de-cristo-livro-1.webp",
-      "categories": [
-        "Filosofia",
-        "Teologia",
-        "Espiritualidade"
-      ],
-      "published_at": -17419449600000,
-      "estimated_reading_time_min": 60,
-      "license": "Domínio Público",
       "language": "pt-BR",
       "originalLanguage": "en",
       "translator": "Heleno Salgado"

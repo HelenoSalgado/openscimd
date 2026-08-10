@@ -4,4 +4,7 @@ assets/originals
 covers/originals
 artfacts-saloppdf
 ilustrations
-data
+data/*
+.venv
+legacy_scripts/
+__pycache__

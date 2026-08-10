@@ -6,14 +6,13 @@ Este documento estabelece o **Modelo de Design das Capas** dos artigos e e-books
 
 Para que o repositório mantenha a estética e a credibilidade de coleções acadêmicas clássicas (como as da Oxford ou Penguin), a **capa final é gerada via pipeline automático**, combinando duas camadas processadas via código:
 
-1. **Imagem de Fundo (Background Art)**: Uma ilustração minimalista, abstrata e conceitual que represente o tema do artigo. Gerada por IA, ela serve apenas como o "respiro visual".
+1. **Imagem de Fundo (Background Art)**: Uma ilustração minimalista, abstrata e conceitual que represente o tema do artigo. Gerada por IA, ela serve apenas como o "respiro visual" (Deve ocupar toda a dimensão de fundo com o elemento central em foco, no centro).
 2. **Camada Tipográfica e Grid Editorial**: Uma camada gerada automaticamente via `scripts` (utilizando `sharp` ou HTML/SVG) que lê os metadados do artigo (título, autor, data) e os injeta (faz "bake") na imagem final.
 
 Isso garante que toda a coleção siga o mesmo alinhamento de texto, tipografia (fontes acadêmicas como Garamond ou Inter) e hierarquia visual, eliminando as alucinações tipográficas da IA.
 
 ```text
 ┌────────────────────────────────────────┐
-│  COLEÇÃO OPENSCIMD                     │ ── Título da Coleção (Fixo)
 │                                        │
 │   TITULO DO ARTIGO EM DESTAQUE         │ ── Injetado pelo Script (Tipografia Uniforme)
 │   Subtítulo do artigo                  │

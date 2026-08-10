@@ -1,0 +1,24 @@
+{
+    "cSpell.language": "pt-BR",
+    "cSpell.enabledFileTypes": {
+        "markdown": true,
+        "*": false
+    },
+    "cSpell.autocorrect": true,
+    "cSpell.useGitignore": false,
+    "search.exclude": {
+        "**/data": false,
+        "**/books": true,
+        "**/articles": true
+    },
+    "cSpell.words": [
+        "frontmatter",
+        "loop",
+        "openscimd",
+        "paper",
+        "reputacional",
+        "tokenização",
+        "Verney",
+        "Zenodo"
+    ]
+}
