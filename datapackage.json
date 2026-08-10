@@ -13,7 +13,7 @@
   "resources": [
     {
       "name": "articles-index",
-      "path": "index.json",
+      "path": "index-articles.json",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
@@ -96,6 +96,90 @@
             "name": "pages",
             "type": "string",
             "description": "Intervalo de páginas no periódico original"
+          }
+        ]
+      }
+    },
+    {
+      "name": "books-index",
+      "path": "index-books.json",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "string",
+            "description": "Identificador único incremental do livro (ex: book_001)"
+          },
+          {
+            "name": "title",
+            "type": "string",
+            "description": "Título principal do livro"
+          },
+          {
+            "name": "authors",
+            "type": "array",
+            "description": "Lista de autores do livro"
+          },
+          {
+            "name": "summary",
+            "type": "string",
+            "description": "Resumo do livro"
+          },
+          {
+            "name": "remote_url",
+            "type": "string",
+            "description": "URL direta do arquivo Markdown bruto no GitHub"
+          },
+          {
+            "name": "cover_url",
+            "type": "string",
+            "description": "URL direta da imagem de capa correspondente"
+          },
+          {
+            "name": "categories",
+            "type": "array",
+            "description": "Categorias de indexação temática do livro"
+          },
+          {
+            "name": "published_at",
+            "type": "integer",
+            "description": "Data de publicação original em timestamp de milissegundos"
+          },
+          {
+            "name": "estimated_reading_time_min",
+            "type": "integer",
+            "description": "Tempo estimado de leitura em minutos"
+          },
+          {
+            "name": "license",
+            "type": "string",
+            "description": "Licença sob a qual o livro está distribuído"
+          },
+          {
+            "name": "language",
+            "type": "string",
+            "description": "Idioma da obra"
+          },
+          {
+            "name": "originalLanguage",
+            "type": "string",
+            "description": "Idioma original da obra (se for tradução)"
+          },
+          {
+            "name": "translator",
+            "type": "string",
+            "description": "Tradutor da obra"
+          },
+          {
+            "name": "edition",
+            "type": "string",
+            "description": "Edição"
+          },
+          {
+            "name": "isbn",
+            "type": "string",
+            "description": "International Standard Book Number"
           }
         ]
       }

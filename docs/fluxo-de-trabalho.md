@@ -63,7 +63,7 @@ license: "CC BY 4.0"
 * **Imagem de Capa**: Você pode criar a imagem de fundo manualmente na pasta `covers/` ou usar o nosso gerador automático via Inteligência Artificial rodando:
 
 ```bash
-  node scripts/ia_generate-cover.js nome-do-artigo
+  uv run openscimd ai-cover nome-do-artigo
 ```
 
 *(Para detalhes de estilo e configuração da API de IA, consulte o guia de [Modelo e Geração de Capas](gerador-de-capas.md)).*
@@ -75,7 +75,7 @@ license: "CC BY 4.0"
 Após incluir todos os arquivos físicos, abra o seu terminal na raiz do projeto e execute:
 
 ```bash
-node scripts/update-index.js
+uv run openscimd index
 ```
 
 O script atualizará automaticamente o arquivo os arquivos `json` de indexes, calculando o tempo de leitura e inserindo a referência aos arquivos de mídia e PDF.
@@ -89,14 +89,8 @@ Dispomos de dois tipos de testes independentes no repositório:
 Ideal para verificar se os artigos que você escreveu estão em conformidade com as regras bibliográficas e estruturais. O teste avisa sobre erros de digitação nas chaves YAML, formatação de datas, chaves mandatórias em falta ou arquivos físicos pendentes (capas e PDFs):
 
 ```bash
-node scripts/test-articles.js
+uv run openscimd validate
 ```
 
-### 2. Validação da Automação (Para Desenvolvedores)
 
-Antes de enviar qualquer modificação no script de indexação [update-index.js](scripts/update-index.js), você deve rodar os testes unitários de código para garantir que nenhuma função auxiliar foi quebrada:
-
-```bash
-node scripts/test-index.js
-```
 

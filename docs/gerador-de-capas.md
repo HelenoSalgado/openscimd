@@ -59,14 +59,11 @@ IA_MODEL_NAME=gemini-3.1-flash-image
 #### Executar o comando:
 
 ```bash
-# Listar os modelos de geração de imagem compatíveis:
-node scripts/gemini_ai_generate_cover.js --list
-
 # Geração padrão baseada no resumo do artigo:
-node scripts/gemini_ai_generate_cover.js nome-do-artigo
+uv run openscimd ai-cover nome-do-artigo --provider gemini
 
 # Geração com estilo personalizado opcional:
-node scripts/gemini_ai_generate_cover.js nome-do-artigo "estilo pintura clássica a óleo, tons pastéis"
+uv run openscimd ai-cover nome-do-artigo "estilo pintura clássica a óleo, tons pastéis" --provider gemini
 ```
 
 A imagem gerada será salva diretamente em `covers/nome-do-artigo.png`.
@@ -84,7 +81,7 @@ IA_MODEL_NAME=dall-e-3
 
 #### Executar o comando:
 ```bash
-node scripts/ia_generate-cover.js nome-do-artigo "estilo minimalista escandinavo"
+uv run openscimd ai-cover nome-do-artigo "estilo minimalista escandinavo" --provider openai
 ```
 
 A imagem gerada será salva diretamente em `covers/nome-do-artigo.png`.
@@ -94,5 +91,5 @@ A imagem gerada será salva diretamente em `covers/nome-do-artigo.png`.
 Toda vez que uma nova imagem de capa for gerada ou alterada, lembre-se de atualizar o índice do repositório para que o link da nova imagem de capa seja devidamente computado nos [index-article.json](index-articles.json) e [index-books.json](index-books.json):
 
 ```bash
-node scripts/update-index.js
+uv run openscimd index
 ```

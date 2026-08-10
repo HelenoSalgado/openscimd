@@ -74,7 +74,7 @@ language: "pt"
 Após adicionar o artigo, execute o script de indexação no seu terminal:
 
 ```bash
-node scripts/update-index.js
+uv run openscimd index
 ```
 
 O script irá ler os metadados novos, recalcular o tempo estimado de leitura (com velocidade ajustada para leitura técnica) e incluir o link da imagem da capa de forma totalmente automatizada.
