@@ -8,7 +8,7 @@
     "cSpell.useGitignore": false,
     "files.exclude": {
         "assets/images/originals": true,
-        "assets/covers/originals": true,
+        "assets/covers/originals": false,
         "artfacts-saloppdf": true,
         "assets/ilustrations": true,
         ".venv": true,

@@ -1,0 +1,57 @@
+# GUIA E TEMPLATE DE PROMPTS PARA GERAÇÃO DE CAPAS EDITORIAIS
+
+Este documento estabelece a estrutura e as diretrizes estéticas para a criação de capas conceituais de alta qualidade para artigos acadêmicos e e-books.
+
+---
+
+## 1. DIRETRIZES FUNDAMENTAIS DE DESIGN
+
+1. **Formato e Composição:**
+   - Design 2D plano (*flat 2D graphic design artwork*), visão frontal direta.
+   - **Proibido:** Mockups 3D de livros físicos, sombras de páginas, bordas brancas, faixas/banners destacados ou caixas de texto separadas.
+   - A arte deve ocupar toda a extensão da capa de ponta a ponta (*full-bleed canvas*).
+
+2. **Estilo Visual e Atmosfera:**
+   - Qualidade editorial de alto nível (referências: Penguin Classics, Oxford University Press, Gallimard).
+   - Estética de pintura a óleo clássica / textura *chiaroscuro* / iluminação cinematográfica e solene.
+   - Tons sóbrios, profundos e ricos (azul-marinho profundo, carvão, obsidiana, esmeralda escuro ou bordô).
+
+3. **Simbolismo Central:**
+   - Ilustração conceitual, madura e profunda no centro da composição.
+   - Sem poluição visual, sem vetores genéricos/clichês ou excesso de ícones.
+   - **Regra Teológica/Cristã:** Jamais representar figuras humanas de Cristo (respeito ao 2º Mandamento). Utilizar exclusivamente recursos simbólicos: feixes de luz celestial, livros antigos, arquitetura clássica, cruz sutil ou elementos de sobriedade.
+
+4. **Hierarquia Tipográfica:**
+   - **Topo:** Título principal em tipografia serifada clássica (estilo Garamond, Baskerville ou Didot) em tom dourado/marfim suave, com margens equilibradas.
+   - **Abaixo do Título (Subtítulo):** Nome do(s) autor(es) em corpo de texto menor e refinado.
+   - **Rodapé:** Data humanizada na base da capa (ex: "19 de Junho de 2026") apenas no caso de artigos. E-books não levam data.
+
+---
+
+## 2. ESTRUTURA DO PROMPT EM INGLÊS (PARA ENVIAR À IA)
+
+### A. Template para Artigos Acadêmicos:
+
+Masterpiece fine-art editorial article cover design, full-bleed artwork occupying the entire canvas without any borders, frames, or split white boxes. Front view flat 2D graphic design only, no 3D book mockups or shadows.
+Aesthetic: High-end academic publishing house (Oxford, Cambridge, Gallimard).
+Style: Moody chiaroscuro oil painting texture with deep [COR DO FUNDO: midnight blue / charcoal / deep burgundy] tones.
+Visuals: [DESCREVA O SÍMBOLO CENTRAL CONCEITUAL: ex: A single, deeply moving and sacred beam of soft golden ethereal light descending into the dark atmosphere, illuminating a subtle, solemn motif in the center].
+Text layout directly rendered over the canvas:
+- Top: '[TÍTULO EXATO EM CAIXA ALTA OU CAPITALIZADO]' in elegant, balanced classical editorial serif typography with subtle gold or ivory hue.
+- Subtitle right below title: '[NOME DO AUTOR OU AUTORES]' in refined, understated serif typography.
+- Bottom footer: '[DATA HUMANIZADA: ex: 29 de Julho de 2026]' in clean, discreet typography.
+Pure editorial sophistication, dramatic depth, mature, minimalist and respectful.
+
+---
+
+### B. Template para E-books:
+
+Masterpiece fine-art editorial book cover design, full-bleed artwork occupying the entire canvas without any borders, frames, or split white boxes. Front view flat 2D graphic design only, no 3D book mockups or shadows.
+Aesthetic: High-end literary classics publisher (Penguin Classics, Library of America).
+Style: Moody classical oil painting texture with rich dark marble and deep textured background.
+Visuals: [DESCREVA O SÍMBOLO CENTRAL CONCEITUAL: ex: A refined, subtle golden classical motif seamlessly embedded into the textured background].
+Text layout directly rendered over the canvas:
+- Top: '[TÍTULO DO LIVRO]' in prominent, elegant, classical editorial serif typography with gold foil texture.
+- Subtitle/Middle: '[NOME DO AUTOR]' in refined, understated classical typography.
+- Bottom: (Empty / No date).
+Pure editorial sophistication, high aesthetic rigor, dignified, mature and minimalist.
