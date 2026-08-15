@@ -11,8 +11,6 @@ categories:
   - IA
 ---
 
-> Esta é somente uma citação teste para demonstração.
-
 ## Prefácio Estrutural: Sobre o Remarcado de Evidências Estruturais
 
 No discurso científico e institucional, um padrão recorrente e robusto pode ser observado: quanto mais cuidadosamente uma parte prejudicada documenta um problema estrutural, mais fácil se torna para os observadores remarcá-lo como uma “queixa pessoal”. Esse problema remarcado não é neutro. Ele funciona como um mecanismo de rebaixamento epistêmico, deslocando a discussão da evidência para a emoção e permitindo que a parte dominante retenha o controle do terreno argumentativo.
