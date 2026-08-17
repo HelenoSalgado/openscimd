@@ -21,9 +21,12 @@ def build_assets():
     convert_assets(str(BASE_DIR))
 
 @app.command()
-def build_covers(target_file: str = None):
+def build_covers(
+    target_file: str = typer.Option(None, "--target", "-t", help="Arquivo específico de capa para converter."),
+    force: bool = typer.Option(False, "--force", "-f", help="Força a conversão sobrescrevendo mesmo se os arquivos já estiverem atualizados.")
+):
     """Converte e redimensiona capas de livros."""
-    convert_covers(str(BASE_DIR), target_file)
+    convert_covers(str(BASE_DIR), target_file=target_file, force=force)
 
 @app.command()
 def inject_text(image_path: str, custom_text: str = None):

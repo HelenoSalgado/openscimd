@@ -14,7 +14,23 @@ SCREEN_SIZES = {
     'desktop': 1696
 }
 
-def convert_covers(base_dir: str, target_file: str = None):
+def should_convert(original_path: Path, covers_dir: Path, force: bool = False) -> bool:
+    if force:
+        return True
+        
+    output_name = f"{original_path.stem}.webp"
+    orig_mtime = original_path.stat().st_mtime
+    
+    for size_name in SCREEN_SIZES.keys():
+        dest_path = covers_dir / size_name / output_name
+        if not dest_path.exists():
+            return True
+        if dest_path.stat().st_mtime < orig_mtime:
+            return True
+            
+    return False
+
+def convert_covers(base_dir: str, target_file: str = None, force: bool = False):
     covers_dir = Path(base_dir) / 'assets' / 'covers'
     print(f'🖼️  Iniciando a conversão de capas em: {covers_dir}')
     
@@ -41,6 +57,8 @@ def convert_covers(base_dir: str, target_file: str = None):
         name = target_path.name
         if (originals_dir / name).exists():
             files = [originals_dir / name]
+        elif target_path.exists() and target_path.is_file():
+            files = [target_path]
         else:
             print(f"❌ Erro: O arquivo alvo {name} não foi encontrado em {originals_dir}")
             return
@@ -48,8 +66,15 @@ def convert_covers(base_dir: str, target_file: str = None):
         files = [f for f in originals_dir.iterdir() if f.is_file() and f.suffix.lower() in image_exts]
         
     processed = 0
+    skipped = 0
     for file in files:
         output_name = f"{file.stem}.webp"
+        
+        if not should_convert(file, covers_dir, force=force):
+            print(f"⏭️  Ignorando (já atualizado): {file.name}")
+            skipped += 1
+            continue
+            
         print(f"\n⏳ Processando capa: {file.name}")
         
         try:
@@ -67,7 +92,7 @@ def convert_covers(base_dir: str, target_file: str = None):
         except Exception as e:
             print(f"   ❌ Erro ao converter {file.name}: {e}")
             
-    print(f"\n🎉 Processamento concluído! {processed} capas originais processadas.")
+    print(f"\n🎉 Processamento concluído! {processed} capas processadas, {skipped} ignoradas (sem alterações).")
 
 def format_date(date_str):
     if not date_str: return ''
