@@ -4,9 +4,26 @@ Este guia serve como referência rápida para o fluxo de trabalho cotidiano no r
 
 ## 📥 Fluxo para Adicionar Conteúdo
 
-Para introduzir um novo artigo científico ou e-book ao acervo do repositório, você deve seguir três passos principais:
+Para introduzir um novo artigo científico ou e-book ao acervo do repositório, você pode partir de um PDF original (automatizado via SalopDoc) ou escrever diretamente em Markdown.
 
-### Passo 1: Escrever o artigo em Markdown
+### Opção A: Conversão Automática a partir de PDF (Recomendado via SalopDoc)
+
+Se você tem o PDF original do artigo:
+
+1. Coloque o PDF em `data/raw/` ou execute diretamente:
+   ```bash
+   uv run openscimd import-pdf assets/pdfs/nome-do-artigo.pdf -o data/draft/nome-do-artigo.md
+   ```
+2. Caso tenha vários PDFs, você pode colocá-los em `data/raw/` e rodar:
+   ```bash
+   uv run openscimd batch-import
+   ```
+3. O SalopDoc gerará o arquivo Markdown com Frontmatter preenchido automaticamente, reflow semântico e notas de rodapé limpas em `data/draft/`.
+4. Faça a revisão editorial do conteúdo e mova o arquivo final para `content/articles/` (ou `content/books/`).
+
+---
+
+### Opção B: Escrever o artigo em Markdown Diretamente
 
 Escreva o arquivo `.md` e coloque-o na pasta `content/articles/` ou `content/books/`. O nome do arquivo deve ser em formato slug lowercase do título completo do artigo (ex: `reformas-filosoficas-de-petrus-ramus.md`).
 
@@ -32,7 +49,7 @@ authors:
 
 summary: "Um breve resumo ou sumário executivo do artigo."
 
-date: 20-06-2026
+date: 2026-06-20
 
 UDC: 1(091):161/162  
 BBK: 87.3:87.4  
@@ -58,17 +75,21 @@ license: "CC BY 4.0"
 > [!NOTE]
 > Se houver múltiplos autores, utilize a chave `authors` (lista). Se houver apenas um autor, pode optar por usar a chave simples `author: "Nome do Autor"`. O script omitirá automaticamente a chave que não for relevante para manter o JSON final eficiente.
 
+---
+
 ### Passo 2: Adicionar Imagens de Capa e o PDF Original (Opcionais)
 
 * **Imagem de Capa**: Você pode criar a imagem de fundo manualmente na pasta `assets/covers/` ou usar o nosso gerador automático via Inteligência Artificial rodando:
 
 ```bash
-  uv run openscimd ai-cover nome-do-artigo
+uv run openscimd ai-cover nome-do-artigo
 ```
 
 *(Para detalhes de estilo e configuração da API de IA, consulte o guia de [Modelo e Geração de Capas](gerador-de-capas.md)).*
 
 * **PDF Original**: Adicione o arquivo `.pdf` correspondente na pasta `assets/pdfs/` com o mesmo nome (ex: `assets/pdfs/reformas-filosoficas-de-petrus-ramus.pdf`).
+
+---
 
 ### Passo 3: Executar a Atualização do Índice
 
@@ -78,7 +99,9 @@ Após incluir todos os arquivos físicos, abra o seu terminal na raiz do projeto
 uv run openscimd index
 ```
 
-O script atualizará automaticamente o arquivo os arquivos `json` de indexes, calculando o tempo de leitura e inserindo a referência aos arquivos de mídia e PDF.
+O script atualizará automaticamente os arquivos `json` de indexes, calculando o tempo de leitura e inserindo a referência aos arquivos de mídia e PDF.
+
+---
 
 ## 🧪 Como Executar os Testes
 
@@ -92,5 +115,10 @@ Ideal para verificar se os artigos que você escreveu estão em conformidade com
 uv run openscimd validate
 ```
 
+### 2. Suíte de Testes Automatizados (Desenvolvimento)
 
+Para rodar os testes unitários do pipeline e do CLI com `pytest`:
 
+```bash
+uv run pytest
+```

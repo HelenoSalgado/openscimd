@@ -1,0 +1,58 @@
+# salopdoc.yml - Arquivo de Configuração Universal do SalopDoc para OpenSciMD
+version: "1"
+
+# Configuração de caminhos de I/O do seu projeto
+paths:
+  input_dir: "./data/raw"
+  output_dir: "./data/draft"
+  assets_dir: "./data/assets"
+
+# Configuração e extração de datas
+date:
+  source: "pdf_creation" # "pdf_creation", "pdf_mod", "current_date", "none"
+  format: "%Y-%m-%d"     # Formato padrão ISO YYYY-MM-DD compatível com OpenSciMD
+  fallback: null
+
+# Definição do modelo de Frontmatter YAML
+frontmatter:
+  enabled: true          # Se false, omite o cabeçalho YAML
+  omit_empty: true       # Remove campos nulos/vazios do frontmatter final
+  fields:
+    title:
+      source: "auto"
+      default: "Sem Título"
+      required: true
+    author:
+      source: "auto"
+      default: "Desconhecido"
+    date:
+      enabled: true
+      source: "auto"
+    summary:
+      enabled: true
+      source: "auto"
+      default: ""
+    categories:
+      enabled: true
+      source: "auto"
+      default:
+        - "Geral"
+    license:
+      enabled: true
+      default: "CC BY 4.0"
+    DOI:
+      enabled: true
+      source: "auto"
+    UDC:
+      enabled: true
+      source: "auto"
+    journal:
+      enabled: true
+      source: "auto"
+
+# Regras de pós-processamento tipográfico
+formatting:
+  normalize_quotes: true
+  bible_verse_spacing: true
+  clean_footnotes: true
+  unwrap_factor: 0.45

@@ -20,7 +20,7 @@ Este documento estabelece o padrão de metadados YAML (MDC keys) recomendado par
 | **`journal`** | String | Não | `"Journal History of Science"` | Revista ou veículo de publicação original. |
 | **`volume`** | String / Int | Não | `"6"` | Volume da publicação da revista. |
 | **`issue`** | String / Int | Não | `"5"` | Edição ou número da publicação da revista. |
-| **`pages`** | String | Não | `"101-112"` | Páginas onde o artigo foi publicado no original. |
+| **`pages`** | String | Sim | `"101-112"` | Páginas onde o artigo foi publicado no original. |
 **`e_issn`** | String | Não | `"1982-5587"` | Identificar a revista no âmbito digital.
 | **`pdf_url`** | String | Não | `"/pdfs/reformas-filosoficas.pdf"` | Link para a versão formatada em PDF. |
 | **`language`** | String (ISO) | Não | `"pt"`, `"en"`, `"es"` | Código do idioma principal do texto. |

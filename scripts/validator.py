@@ -57,6 +57,10 @@ def validate_articles(base_dir):
             elif metadata.get('licence'):
                 warnings.append('Chave de licença escrita como "licence". Recomenda-se padronizar para "license".')
                 
+            pages = metadata.get('pages')
+            if not pages or not str(pages).strip():
+                errors.append('Campo obrigatório "pages" está ausente ou vazio.')
+                
             if not metadata.get('doi') and not metadata.get('DOI'):
                 warnings.append('Campo recomendado "DOI" está ausente.')
             if not metadata.get('udc') and not metadata.get('UDC'):

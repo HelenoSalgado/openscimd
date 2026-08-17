@@ -14,7 +14,7 @@
         ".venv": true,
         "legacy_scripts": true,
         "**/__pycache__": true,
-        ".agents": true,
+        ".agents": false,
         ".github": true
     },
     "search.exclude": {
