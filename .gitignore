@@ -7,3 +7,4 @@ data/*
 .venv
 legacy_scripts/
 __pycache__
+build-cloudflare
