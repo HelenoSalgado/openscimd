@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "articles",
-  "last_updated": 1787051431206,
+  "last_updated": 1787349374319,
   "articles": [
     {
       "id": "art_006",
@@ -28,7 +28,7 @@
         "Filosofia",
         "Lógica"
       ],
-      "published_at": 1781913600000,
+      "published_at": 1765756800000,
       "estimated_reading_time_min": 28,
       "doi": "10.33864/2790-0037.2025.v6.i5.101-112",
       "udc": "1(091):161/162",

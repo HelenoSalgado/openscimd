@@ -4,6 +4,7 @@ author: "Moisés"
 summary: "Tradução do Gênesis a partir da King James Bible de 1611, narrando a criação do mundo, a queda do homem, o dilúvio, a dispersão das nações e a história dos patriarcas Abraão, Isaque, Jacó e José, até a descida de Israel ao Egito."
 date: "1400 a.C."
 license: "Domínio público"
+origianlLanguage: "en"
 language: "pt-BR"
 categories:
      - Bíblia
