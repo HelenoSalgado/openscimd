@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1787349374398,
+  "last_updated": 1787363350790,
   "books": [
     {
       "id": "book_007",
@@ -32,24 +32,6 @@
       "estimated_reading_time_min": 195,
       "license": "Domínio público",
       "language": "pt-BR"
-    },
-    {
-      "id": "book_009",
-      "title": "A Imitação de Cristo",
-      "author": "Thomas à Kempis",
-      "summary": "Tratado clássico de espiritualidade cristã, composto de quatro livros de admoestações espirituais, que exorta o leitor ao desprezo do mundo, ao conhecimento de si mesmo, à humildade e à imitação da vida de Cristo como caminho de perfeição interior.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/thomas-a-kempis/a-imitacao-de-cristo-livro-1.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-imitacao-de-cristo-livro-1.webp",
-      "categories": [
-        "Teologia",
-        "Espiritualidade"
-      ],
-      "published_at": 1785987684228,
-      "estimated_reading_time_min": 60,
-      "license": "Domínio Público",
-      "language": "pt-BR",
-      "originalLanguage": "en",
-      "translator": "Heleno Salgado"
     },
     {
       "id": "book_010",
@@ -83,6 +65,43 @@
       "published_at": 1785987630705,
       "estimated_reading_time_min": 71,
       "license": "Domínio público",
+      "language": "pt-BR",
+      "originalLanguage": "en",
+      "translator": "Heleno Salgado"
+    },
+    {
+      "id": "book_012",
+      "title": "Solilóquios: Livro I",
+      "author": "Agostinho de Hipona",
+      "summary": "O Livro I dos Solilóquios de Santo Agostinho, obra em forma de diálogo com a Razão sobre o conhecimento de Deus e da alma, a purificação da mente, a natureza da verdade e a busca da sabedoria inteligível.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/agostinho/soliloquios-livro-1.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/soliloquios-livro-1.webp",
+      "categories": [
+        "Teologia",
+        "Filosofia",
+        "Patrística"
+      ],
+      "published_at": 1787363346260,
+      "estimated_reading_time_min": 47,
+      "license": "Domínio Público",
+      "language": "pt-BR",
+      "originalLanguage": "la",
+      "translator": "OpenSciMD"
+    },
+    {
+      "id": "book_009",
+      "title": "A Imitação de Cristo",
+      "author": "Thomas à Kempis",
+      "summary": "Tratado clássico de espiritualidade cristã, composto de quatro livros de admoestações espirituais, que exorta o leitor ao desprezo do mundo, ao conhecimento de si mesmo, à humildade e à imitação da vida de Cristo como caminho de perfeição interior.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/thomas-a-kempis/a-imitacao-de-cristo-livro-1.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-imitacao-de-cristo-livro-1.webp",
+      "categories": [
+        "Teologia",
+        "Espiritualidade"
+      ],
+      "published_at": 1785987684228,
+      "estimated_reading_time_min": 60,
+      "license": "Domínio Público",
       "language": "pt-BR",
       "originalLanguage": "en",
       "translator": "Heleno Salgado"
