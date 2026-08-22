@@ -7,65 +7,63 @@ import tempfile
 import urllib.parse
 from bs4 import BeautifulSoup
 
-def preprocess_html_frames(input_path):
+def preprocess_html(input_path):
     with open(input_path, 'rb') as f:
-        # Usamos bs4 com um parser tolerante
         soup = BeautifulSoup(f.read(), 'html.parser')
         
     frames = soup.find_all(['frame', 'iframe'])
-    if not frames:
-        return str(input_path), None
-        
-    print(f"Foram encontrados {len(frames)} frames/iframes. Tentando mesclar seus conteúdos...")
-    
-    combined_soup = BeautifulSoup("<html><body></body></html>", 'html.parser')
-    body = combined_soup.body
-    
     base_dir = input_path.parent
     
-    for frame in frames:
-        src = frame.get('src')
-        if src:
-            if not src.startswith(('http://', 'https://')):
-                # Decodifica caminhos URL para caminhos do sistema (ex: %20 -> espaço)
-                frame_path = base_dir / urllib.parse.unquote(src)
-                if frame_path.exists():
-                    try:
-                        with open(frame_path, 'rb') as ff:
-                            frame_soup = BeautifulSoup(ff.read(), 'html.parser')
-                            frame_body = frame_soup.body
-                            
-                            if frame_body:
-                                for child in frame_body.children:
-                                    body.append(child)
-                            else:
-                                for child in frame_soup.children:
-                                    body.append(child)
-                    except Exception as e:
-                        print(f"Aviso: Não foi possível ler o frame {frame_path}: {e}")
-                else:
-                    print(f"Aviso: Frame local não encontrado: {frame_path}")
-            else:
-                print(f"Baixando conteúdo do frame externo: {src}")
-                import requests
-                try:
-                    response = requests.get(src, timeout=10)
-                    response.raise_for_status()
-                    frame_soup = BeautifulSoup(response.content, 'html.parser')
-                    frame_body = frame_soup.body
-                    if frame_body:
-                        for child in frame_body.children:
-                            body.append(child)
+    if frames:
+        print(f"Foram encontrados {len(frames)} frames/iframes. Tentando mesclar seus conteúdos...")
+        combined_soup = BeautifulSoup("<html><body></body></html>", 'html.parser')
+        body = combined_soup.body
+        
+        for frame in frames:
+            src = frame.get('src')
+            if src:
+                if not src.startswith(('http://', 'https://')):
+                    frame_path = base_dir / urllib.parse.unquote(src)
+                    if frame_path.exists():
+                        try:
+                            with open(frame_path, 'rb') as ff:
+                                frame_soup = BeautifulSoup(ff.read(), 'html.parser')
+                                frame_body = frame_soup.body
+                                if frame_body:
+                                    for child in frame_body.children:
+                                        body.append(child)
+                                else:
+                                    for child in frame_soup.children:
+                                        body.append(child)
+                        except Exception as e:
+                            print(f"Aviso: Não foi possível ler o frame {frame_path}: {e}")
                     else:
-                        for child in frame_soup.children:
-                            body.append(child)
-                except Exception as e:
-                    print(f"Aviso: Falha ao baixar frame externo {src}: {e}")
-                
-    # Salva o arquivo temporário com os frames mesclados
+                        print(f"Aviso: Frame local não encontrado: {frame_path}")
+                else:
+                    print(f"Baixando conteúdo do frame externo: {src}")
+                    import requests
+                    try:
+                        response = requests.get(src, timeout=10)
+                        response.raise_for_status()
+                        frame_soup = BeautifulSoup(response.content, 'html.parser')
+                        frame_body = frame_soup.body
+                        if frame_body:
+                            for child in frame_body.children:
+                                body.append(child)
+                        else:
+                            for child in frame_soup.children:
+                                body.append(child)
+                    except Exception as e:
+                        print(f"Aviso: Falha ao baixar frame externo {src}: {e}")
+        soup = combined_soup
+
+    # Unwrap table tags to fix old HTML layout tables
+    for tag in soup.find_all(['table', 'tbody', 'thead', 'tfoot', 'tr', 'th', 'td']):
+        tag.unwrap()
+
     temp_fd, temp_path = tempfile.mkstemp(suffix=".html")
     with os.fdopen(temp_fd, 'w', encoding='utf-8') as f:
-        f.write(str(combined_soup))
+        f.write(str(soup))
         
     return temp_path, temp_path
 
@@ -83,11 +81,11 @@ def convert_html_to_md(base_dir, input_file, output_file):
     output_path.parent.mkdir(parents=True, exist_ok=True)
     print(f"Convertendo '{input_file}' para '{output_path}'...")
     
-    # Pre-process frames se existirem
-    processed_input_path, temp_file_to_cleanup = preprocess_html_frames(input_path)
+    # Pre-process frames se existirem e desempacotar tabelas
+    processed_input_path, temp_file_to_cleanup = preprocess_html(input_path)
     
     cmd = [
-        "pandoc", "-f", "html", "-t", "markdown_strict+yaml_metadata_block-raw_html",
+        "pandoc", "-f", "html", "-t", "markdown+yaml_metadata_block-raw_html+pipe_tables",
         "--markdown-headings=atx", "--standalone", "--wrap=none",
         str(processed_input_path), "-o", str(output_path)
     ]

@@ -46,7 +46,7 @@ def html_to_md(input_file: str, output_file: str):
 
 @app.command()
 def ai_cover(article_name: str, custom_style: Optional[str] = None, provider: str = "gemini"):
-    """Gera uma arte de capa com IA (gemini ou openai)."""
+    """Gera uma arte de capa conceitual com IA e tipografia vetorial (gemini, openai ou agy)."""
     from scripts.ai_cover import generate_cover
     generate_cover(str(BASE_DIR), article_name, custom_style, provider)
 
