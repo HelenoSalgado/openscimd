@@ -65,19 +65,24 @@ Sempre que houver suspeita de truncamento de texto, cabeçalhos de página repet
 
 ## 4. Padrões Tipográficos e Semânticos
 
-- `*itálico*`: Para termos em língua estrangeira (latim, grego, hebraico), títulos de livros e ênfases suaves.
-- `**negrito**`: Para definições, cabeçalhos substantivos e ênfases fortes do autor original.
+- `*itálico*`: Para termos em língua estrangeira (latim, grego, hebraico), títulos de livros, ênfases suaves e **títulos/subtítulos de seções quando estilizados** (ex.: `## *Do Gênero*`, `### *Capítulo I*`).
+- `**negrito**`: Para definições, termos-chave e ênfases conceituais fortes no corpo do texto. 🚫 **Proibido em cabeçalhos** (ex.: `## **Título**` não faz sentido, pois o cabeçalho já possui peso tipográfico próprio).
 - `***itálico e negrito***`: Para títulos de *magnum opus* destacados no original.
 - `> ` (Bloco de Citação): Use exclusivamente para passagens autônomas destacadas no texto (citações longas em bloco). Citações curtas em linha permanecem no fluxo normal do parágrafo, com aspas tipográficas curvas (`“”` / `‘’`).
-- **Âncoras de Notas de Rodapé**: Devem estar coladas na palavra ou pontuação precedente sem espaço: `teogonia[^1]`, `termo”[^2]`.
-- **Fidelidade e Correspondência Exata de Notas (1 a N)**: As notas de rodapé devem ser reproduzidas de forma **100% integral e literal**, sem renumeração artificial, omissões ou sínteses, mantendo a sequência original (`[^1]` a `[^N]`).
-- **Rebaixamento de Notas do Título/Autor**: Notas ancoradas originalmente no título principal ou autor devem ser rebaixadas e ancoradas no cabeçalho ou título de seção imediato (ex: `# Introdução[^1]`), já que o título/autor vai para o Frontmatter YAML.
-- **Declaração das Notas**: Todas devem ser declaradas no final do documento, precedidas por `---` (linha horizontal), com uma linha vazia entre cada nota: `[^1]: Conteúdo integral...`
+- **Declaração e Estrutura das Notas (TOC)**:
+  - Todas as notas devem ser declaradas no final do documento, precedidas por um **único separador `---`**.
+  - O aparato deve ser estruturado com cabeçalhos de nível `###` correspondentes à sua natureza (ex: `### Notas Editoriais`, `### Notas do Tradutor`, `### Notas do Autor`), permitindo que cada categoria seja indexada no Sumário (TOC) do leitor.
+  - Cada nota deve ser declarada com uma linha vazia entre si: `[^1]: Conteúdo integral...`
+- **Notas Editoriais e Mini-Bio do Tradutor**:
+  - Em obras com tradutor humano ou paginação crítica, ancore as notas no primeiro cabeçalho do corpo (ex: `## *Introdução*[^1][^2]`).
+  - A nota `[^1]` destina-se à *Paginação Canônica* (quando aplicável) e a nota `[^2]` à *Mini-Bio / Nota sobre o Tradutor*.
 - **Referências Bíblicas**: Padronize no formato canônico: `Rm 3.23`, `Jo 1.1-14`, `1Co 15.3-4`.
+- **Paginação Crítica / Clássica**: Notações marginais de edições de referência (Bekker, Stephanus, Busse/CAG) devem ser padronizadas no formato `(Página. Linha)` (ex.: `(1. 1)`, `(2. 15)`). Em toda obra clássica com paginação canônica, **deve-se incluir uma Nota Editorial explicativa** (`[^1]`) ancorada no primeiro cabeçalho da obra (ex.: `## *Introdução*[^1]`), detalhando a edição crítica de referência.
+- **Metadados Exclusivos no YAML**: Todos os créditos de autoria, tradução (`translator`), data e licença pertencem **estritamente ao Frontmatter YAML**. Não inclua linhas redundantes de crédito (ex.: `_Tradução de..._`) no corpo do documento.
 - **Limpeza de Cabeçalhos/Títulos**: O título principal vai no campo `title` do YAML. Subtítulos usam níveis markdown (`##`, `###`), sem quebras de linha no meio. O Sumário original (TOC dinâmico para páginas) deve ser removido.
 
 > [!IMPORTANT]
-> **Integridade das Marcações**: Nunca remova as marcações semânticas originais do rascunho (exceto ruído de OCR) e nunca acrescente marcações artificiais desnecessárias.
+> **Integridade das Marcações e da Prosa**: Nunca remova marcações semânticas originais do rascunho (exceto ruído de OCR) e nunca altere o texto da tradução. Quando a IA for instruída a formatar ou revisar uma tradução fornecida, a prosa deve ser tratada como dado canônico intocado (zero reescrita ou "suavização" por LLM).
 
 ---
 
@@ -135,12 +140,12 @@ keywords:
 title: "Título Completo do Livro"
 author: "Nome do Autor"
 summary: "Sinopse teológica/editorial do livro ou tratado."
-date: "YYYY-MM-DD"
+date: "YYYY-MM-DD" # ou "c. 270 d.C.", "1418 d.C."
 license: "Domínio Público" # ou CC BY-NC 4.0
 
 # Metadados Específicos para Livros / E-books:
 edition: "1ª edição"
-language: "pt"
+language: "pt-BR"
 originalLanguage: "la" # la (Latim), en (Inglês), fr (Francês), el (Grego), he (Hebraico)
 translator: "Nome do Tradutor"
 isbn: "978-0-0000-0000-0"
@@ -151,7 +156,7 @@ categories:
 ---
 ```
 **Regras para Livros:**
-1. **Campos Obrigatórios**: `title`, `author`, `summary`, `date` (ISO `YYYY-MM-DD`), `license`.
+1. **Campos Obrigatórios**: `title`, `author`, `summary`, `date`, `license`.
 2. **Data**: Se a data original não for explícita, use a data do volume ou PDF.
 3. **Resumo (`summary`)**: Inclua o resumo do artigo integralmente. Se não houver, elabore um resumo fiel a partir dos objetivos do texto.
 
@@ -161,7 +166,19 @@ categories:
 
 Siga o *pipeline* de diretórios rigorosamente durante o processo de edição:
 
-1. **Rascunho (`data/draft/`)**: Inicie o processo com o arquivo cru gerado (ex: `data/draft/<artigo>.md`).
-2. **Revisão Ativa (`data/review/`)**: Mova o arquivo para cá durante a revisão editorial. Aplique correções tipográficas, reconstrua parágrafos quebrados, unifique notas de rodapé e valide o frontmatter YAML.
-3. **Preparação (`data/ready/`)**: Após revisão e conferência minuciosa contra o PDF original, mova o arquivo final revisado para cá (ex: `data/ready/<artigo>.md`).
-4. **Validação e Publicação (`content/`)**: Certifique-se de que o artigo passe na validação com `uv run openscimd validate` antes de integrá-lo à pasta de conteúdo final.
+1. **Rascunho (`data/draft/`)**: Matriz bruta de entrada gerada por OCR, importação de PDF ou rascunho fornecido (ex: `data/draft/<obra>.md`). ⚠️ **O arquivo em `data/draft/` é estritamente imutável e NUNCA deve ser editado ou sobrescrito.**
+2. **Mesa de Revisão Ativa (`data/review/`)**: Qualquer operação de revisão solicitada para um arquivo de `data/draft/` deve criar sua saída e operar em `data/review/<obra>.md`. Aqui são aplicadas as correções de layout, reconstrução de parágrafos, unificação de notas de rodapé, paginação crítica e validação do frontmatter YAML.
+3. **Preparação (`data/ready/`)**: Após revisão e conferência minuciosa contra a fonte original, o arquivo final revisado é movido para cá (ex: `data/ready/<obra>.md`).
+4. **Validação e Publicação (`content/`)**: Certifique-se de que o material passe na validação com `uv run openscimd validate` antes de integrá-lo a `content/articles/` ou `content/books/`.
+
+---
+
+## 7. Guias e Exemplos Modulares de Referência
+
+Para orientações práticas detalhadas e casos de borda, consulte os subarquivos específicos:
+
+* [**`exemplos/hierarquia-e-cabecalhos.md`**](file:///home/heleno/Documentos/GitHub/openscimd/.agents/editorial/exemplos/hierarquia-e-cabecalhos.md): Árvore de cabeçalhos (`##` para seções/livros, `###` para capítulos), itálicos em títulos e H1 implícito no YAML.
+* [**`exemplos/alinhamento-e-segmentacao.md`**](file:///home/heleno/Documentos/GitHub/openscimd/.agents/editorial/exemplos/alinhamento-e-segmentacao.md): Tratamento de matrizes brutas multi-volumes, segmentação 1:1 e poemas intercalados.
+* [**`exemplos/metadados-e-fontes.md`**](file:///home/heleno/Documentos/GitHub/openscimd/.agents/editorial/exemplos/metadados-e-fontes.md): Determinação de `originalLanguage` (idioma da matriz em `data/raw/`) e modelos YAML.
+* [**`exemplos/referencias-e-tipografia.md`**](file:///home/heleno/Documentos/GitHub/openscimd/.agents/editorial/exemplos/referencias-e-tipografia.md): Normalização via CLI `uv run openscimd normalize-refs`, aspas curvas e âncoras.
+* [**`docs/prompts-editoriais.md`**](file:///home/heleno/Documentos/GitHub/openscimd/docs/prompts-editoriais.md): Catálogo de prompts recomendados para os diferentes contextos operacionais da IA no projeto.

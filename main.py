@@ -65,11 +65,13 @@ def validate():
 @app.command()
 def verses(input_file: str, output_file: str):
     """Converte números de início de linha para versículos sobrescritos."""
+    from scripts.text_tools import converter_versiculos
     converter_versiculos(input_file, output_file)
 
 @app.command()
 def review(filepath: str, dict_path: Optional[str] = None):
     """Revisor ortográfico interativo para arcaísmos."""
+    from scripts.text_tools import spellcheck
     spellcheck(filepath, dict_path)
 
 @app.command(name="import-pdf")
@@ -135,6 +137,7 @@ def normalize_refs(
     replacement: str = typer.Option(None, "--replacement", "-r", help="Substituição Regex (opcional).")
 ):
     """Padroniza referências bíblicas (ex: 3:16 para 3.16 ou 3,16 para 3:16) via Expressão Regular."""
+    from scripts.text_tools import normalize_biblical_refs
     normalize_biblical_refs(filepath, sep, pattern, replacement)
 
 @app.command()
@@ -205,7 +208,25 @@ def translate_file(
     with open(output_file, 'w', encoding='utf-8') as f:
         f.writelines(translated_lines)
         
-    print(f"\n✅ Tradução salva em: {output_file}")
+@app.command(name="export-pdf")
+def export_pdf_cmd(
+    input_file: str = typer.Argument(..., help="Caminho do arquivo Markdown para conversão."),
+    output_file: Optional[str] = typer.Option(None, "--output", "-o", help="Caminho do PDF de saída (opcional).")
+):
+    """Converte um documento Markdown para PDF com design editorial elegante e paleta LeiaME."""
+    try:
+        from scripts.md2pdf import convert_md_to_pdf
+        in_path = Path(input_file)
+        if not output_file:
+            out_path = in_path.with_suffix(".pdf")
+        else:
+            out_path = Path(output_file)
+            
+        convert_md_to_pdf(str(in_path), str(out_path))
+        typer.secho(f"✅ PDF gerado com sucesso: {out_path}", fg=typer.colors.GREEN)
+    except Exception as e:
+        typer.secho(f"❌ Erro ao exportar PDF: {e}", fg=typer.colors.RED)
+        raise typer.Exit(code=1)
 
 if __name__ == "__main__":
     app()

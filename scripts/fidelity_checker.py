@@ -54,8 +54,8 @@ def test_fidelity(english_text, custom_pt_translation=None):
     
     print(f"{Colors.RED}Tradução Reversa (PT->EN) [{back_time:.2f}s]:{Colors.ENDC} {back_translated}")
     
-    # Calcular similaridade simples usando difflib
-    seq = difflib.SequenceMatcher(None, english_text.lower(), back_translated.lower())
+    # Calcular similaridade simples por palavras usando difflib
+    seq = difflib.SequenceMatcher(None, english_text.lower().split(), back_translated.lower().split())
     sim = seq.ratio()
     print(f"\n{Colors.BOLD}Taxa de Preservação Semântica (Simples): {sim:.2%}{Colors.ENDC}")
     

@@ -19,7 +19,8 @@ Se você tem o PDF original do artigo:
    uv run openscimd batch-import
    ```
 3. O SalopDoc gerará o arquivo Markdown com Frontmatter preenchido automaticamente, reflow semântico e notas de rodapé limpas em `data/draft/`.
-4. Faça a revisão editorial do conteúdo e mova o arquivo final para `content/articles/` (ou `content/books/`).
+4. Mova para `data/review/` para realizar o saneamento editorial (ou utilize os [Prompts Editoriais](prompts-editoriais.md) com IA).
+5. Após homologação em `data/ready/`, mova o arquivo final para `content/articles/` (ou `content/books/`).
 
 ---
 

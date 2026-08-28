@@ -26,18 +26,17 @@ Este documento orienta os agentes de IA na concepção, geração e validação 
 
 ## 2. Hierarquia Tipográfica Rigorosa
 
-Ao gerar ou renderizar o texto da capa, o agente deve seguir estritamente:
+Ao gerar ou renderizar o texto da capa, o agente deve seguir estritamente a gradação de pesos e contrastes:
 
 1. **Título Principal (Topo)**:
-   - Tipografia serifada clássica de alto impacto (estilo Didot, Garamond, Bodoni ou Baskerville).
-   - Destaque maior e acabamento em tom marfim nobre ou ouro fosco (*matte gold*).
-2. **Subtítulo (quando houver separação por `:` no título)**:
-   - O texto após os dois pontos deve ter **corpo menor** e **variação tipográfica sutil** (peso mais leve ou itálico clássico).
-   - **Contraste Luminoso**: Renderize em **branco puro e nítido (*bright crisp white*)** logo abaixo do título principal.
-3. **Nome do Autor**:
-   - **Sempre em caixa baixa com iniciais maiúsculas (*Title Case*)** (ex: `Agostinho de Hipona`, `João Calvino`, `B. B. Warfield`), em branco nítido.
-   - **Nunca** renderizar o nome do autor em caixa alta integral (*ALL CAPS*).
-   - Posicionado de forma equilibrada abaixo do título/subtítulo.
+   - Tipografia serifada clássica monumental (estilo Garamond, Cinzel, Didot, Bodoni ou Baskerville) em caixa alta (*ALL CAPS*).
+   - Maior destaque da composição, em acabamento de ouro fosco nobre (*warm matte gold*).
+2. **Subtítulo (quando houver)**:
+   - Em **corpo médio equilibrado e perfeitamente legível** (evitando encolhimento excessivo), em estilo serifado clássico ou itálico refinado.
+   - Tom marfim suave ou branco nítido (*soft ivory / crisp white*), harmonizando proporcionalmente entre o título e o autor.
+3. **Nome do Autor (Destaque Nobre e Autônomo)**:
+   - **Sempre em caixa baixa com iniciais maiúsculas (*Title Case*)** (ex: `Porfírio`, `Agostinho de Hipona`, `João Calvino`), com leve espaçamento entre letras (*tracked serif lettering*).
+   - **Contraste e Escala**: Tipografia nobre e distinta em **branco puro e luminoso (*bright crisp pure white*)**, com respiro vertical equilibrado em relação ao subtítulo, assegurando protagonismo visual sem sufocar ou diminuir os demais elementos.
 4. **Área Inferior (Base Limpa)**:
    - **Para E-books / Livros**: A metade e a base inferior devem permanecer totalmente limpas de qualquer texto repetido ou datas.
    - **Para Artigos**: Apenas a data humanizada em português centralizada discretamente na base (ex: `"6 de Agosto de 2026"`).
@@ -52,10 +51,10 @@ Masterpiece fine-art conceptual book cover design, full-bleed artwork occupying 
 Aesthetic: High-end intellectual academic publishing house (Penguin Classics, Oxford World's Classics, Gallimard).
 Style: Moody, abstract fine-art oil painting with heavy organic textures, minimalist chiaroscuro, and deep [PALETA: obsidian / charcoal / deep midnight / raw umber / burnished gold] tones.
 Visuals: [CONCEITO FILOSÓFICO/TEOLÓGICO ABSTRATO ESPECÍFICO DA OBRA — EX: A geometric metaphysical abstraction of pure forms, intersecting ethereal spheres and infinite lines fading into deep textural darkness, representing pure intellect and immutable truth. No literal books, no lamps, no light beams, no human figures].
-Text layout rendered exclusively in the upper third:
-- Main Title: '[TÍTULO PRINCIPAL]' in prominent, elegant classical serif typography with warm matte gold finish.
-- Subtitle: '[SUBTÍTULO (se houver)]' in slightly smaller, bright crisp white classical serif typography directly below.
-- Author: '[Nome do Autor em Title Case]' in refined Title Case serif lettering in bright crisp white.
+Text layout rendered exclusively in the upper third with balanced classical proportions:
+- Main Title: '[TÍTULO PRINCIPAL]' in monumental, elegant classical serif typography in ALL CAPS with warm matte gold finish at the top.
+- Subtitle: '[SUBTÍTULO (se houver)]' in medium-sized, perfectly legible and clear classical serif typography in crisp soft ivory directly below the title.
+- Author: '[Nome do Autor em Title Case]' in distinguished, prominent Title Case serif typography in bright crisp pure white, harmoniously balanced with the title and subtitle, with comfortable vertical spacing.
 - Bottom area: Completely clean and empty of any text.
 Pure intellectual sophistication, profound conceptual depth, mature, minimalist and non-literal.
 ```

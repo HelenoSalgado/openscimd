@@ -28,8 +28,8 @@ def extract_clean_text(filepath):
     for line in lines:
         line = line.strip()
         
-        # Ignorar linhas vazias, headers, separadores e citações blockquote
-        if not line or line.startswith('#') or line.startswith('---') or line.startswith('>'):
+        # Ignorar linhas vazias, headers, separadores, citações blockquote e notas de rodapé
+        if not line or line.startswith('#') or line.startswith('---') or line.startswith('>') or line.startswith('[^'):
             continue
             
         # Limpar marcadores de versículos estilo KJV (**1:1**)
@@ -122,7 +122,7 @@ def run_alignment_and_report(raw_en_file, pt_file, limit=None, start=None, end=N
             
             back_translated = translate(pt_text, tokenizer_pt_en, model_pt_en, prefix=">>en<< ")
             
-            seq = difflib.SequenceMatcher(None, en_text.lower(), back_translated.lower())
+            seq = difflib.SequenceMatcher(None, en_text.lower().split(), back_translated.lower().split())
             sim = seq.ratio()
             
             status = "✅ Fiel"

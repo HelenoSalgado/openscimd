@@ -93,6 +93,10 @@ uv run openscimd build-covers
 ```
 
 ### 6. Ferramentas Editoriais Diversas
+* `export-pdf`: Converte qualquer documento Markdown em PDF com tipografia clássica (EB Garamond/Cinzel/JetBrains Mono), paleta oficial LeiaME e box institucional de compilação.
+  ```bash
+  uv run openscimd export-pdf caminho/do/documento.md
+  ```
 * `verses`: Converte numerações e tópicos baseados em versículos para notação em sobrescrito.
 * `review`: Utilitário ortográfico interativo de correção manual baseada num dicionário de arcaísmos embutido.
 
