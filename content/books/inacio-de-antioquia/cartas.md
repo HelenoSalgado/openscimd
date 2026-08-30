@@ -25,7 +25,7 @@ language: "pt-BR"
 
 ### *Saudação*
 
-Inácio, também chamado Teóforo, àquela que é bendita em grandeza na plenitude de Deus Pai, predestinada antes dos séculos a existir em todo o tempo, unida para uma glória imperecível e imutável, e eleita na Paixão verdadeira, pela vontade do Pai e de Jesus Cristo nosso Deus - à Igreja digna de bem-aventurança, que vive em Éfeso da Ásia, todos os bens em Jesus Cristo e os cumprimentos numa alegria impoluta.
+Inácio, também chamado Teóforo, àquela que é bendita em grandeza na plenitude de Deus Pai, predestinada antes dos séculos a existir em todo o tempo, unida para uma glória imperecível e imutável, e eleita na Paixão verdadeira, pela vontade do Pai e de Jesus Cristo nosso Deus — à Igreja digna de bem-aventurança, que vive em Éfeso da Ásia, todos os bens em Jesus Cristo e os cumprimentos numa alegria impoluta.
 
 ### *Capítulo I*
 
