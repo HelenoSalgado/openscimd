@@ -69,10 +69,26 @@ def verses(input_file: str, output_file: str):
     converter_versiculos(input_file, output_file)
 
 @app.command()
-def review(filepath: str, dict_path: Optional[str] = None):
-    """Revisor ortográfico interativo para arcaísmos."""
-    from scripts.text_tools import spellcheck
-    spellcheck(filepath, dict_path)
+def review(
+    filepath: str = typer.Argument(..., help="Caminho do arquivo ou diretório Markdown para revisão."),
+    output: Optional[str] = typer.Option(None, "--output", "-o", help="Caminho do arquivo de saída revisado (preserva o original)."),
+    dict_path: Optional[str] = typer.Option(None, "--dict", "-d", help="Caminho para dicionário JSON customizado."),
+    auto_apply: bool = typer.Option(False, "--auto-fix", "--auto-apply", "-y", help="Aplica todas as substituições conhecidas automaticamente."),
+    dry_run: bool = typer.Option(False, "--check", "--dry-run", help="Modo verificação: lista arcaísmos e erros sem alterar os arquivos."),
+    no_hunspell: bool = typer.Option(False, "--no-hunspell", help="Desativa a detecção morfológica via Hunspell."),
+    backup: bool = typer.Option(False, "--backup", "-b", help="Cria backup .bak antes de sobrescrever o arquivo."),
+):
+    """Revisor ortográfico e de arcaísmos de alta performance (Dicionário Curado + Hunspell pt_BR)."""
+    from scripts.spellchecker import review_path
+    review_path(
+        filepath,
+        output_path=output,
+        dict_path=dict_path,
+        auto_apply=auto_apply,
+        dry_run=dry_run,
+        backup=backup,
+        use_hunspell=not no_hunspell,
+    )
 
 @app.command(name="import-pdf")
 def import_pdf_cmd(

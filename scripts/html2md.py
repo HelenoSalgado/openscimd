@@ -7,9 +7,18 @@ import tempfile
 import urllib.parse
 from bs4 import BeautifulSoup
 
+def decode_raw_html(raw_bytes):
+    for enc in ['utf-8', 'windows-1252', 'iso-8859-1']:
+        try:
+            return raw_bytes.decode(enc)
+        except UnicodeDecodeError:
+            continue
+    return raw_bytes.decode('latin-1', errors='replace')
+
 def preprocess_html(input_path):
     with open(input_path, 'rb') as f:
-        soup = BeautifulSoup(f.read(), 'html.parser')
+        html_str = decode_raw_html(f.read())
+    soup = BeautifulSoup(html_str, 'html.parser')
         
     frames = soup.find_all(['frame', 'iframe'])
     base_dir = input_path.parent
@@ -27,7 +36,7 @@ def preprocess_html(input_path):
                     if frame_path.exists():
                         try:
                             with open(frame_path, 'rb') as ff:
-                                frame_soup = BeautifulSoup(ff.read(), 'html.parser')
+                                frame_soup = BeautifulSoup(decode_raw_html(ff.read()), 'html.parser')
                                 frame_body = frame_soup.body
                                 if frame_body:
                                     for child in frame_body.children:

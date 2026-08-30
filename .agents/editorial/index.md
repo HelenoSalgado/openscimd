@@ -69,15 +69,16 @@ Sempre que houver suspeita de truncamento de texto, cabeçalhos de página repet
 - `**negrito**`: Para definições, termos-chave e ênfases conceituais fortes no corpo do texto. 🚫 **Proibido em cabeçalhos** (ex.: `## **Título**` não faz sentido, pois o cabeçalho já possui peso tipográfico próprio).
 - `***itálico e negrito***`: Para títulos de *magnum opus* destacados no original.
 - `> ` (Bloco de Citação): Use exclusivamente para passagens autônomas destacadas no texto (citações longas em bloco). Citações curtas em linha permanecem no fluxo normal do parágrafo, com aspas tipográficas curvas (`“”` / `‘’`).
-- **Declaração e Estrutura das Notas (TOC)**:
+- **Declaração e Estrutura das Notas (TOC) e Namespaces**:
   - Todas as notas devem ser declaradas no final do documento, precedidas por um **único separador `---`**.
   - O aparato deve ser estruturado com cabeçalhos de nível `###` correspondentes à sua natureza (ex: `### Notas Editoriais`, `### Notas do Tradutor`, `### Notas do Autor`), permitindo que cada categoria seja indexada no Sumário (TOC) do leitor.
   - Cada nota deve ser declarada com uma linha vazia entre si: `[^1]: Conteúdo integral...`
+  - **Separação de Namespaces**: Para evitar conflitos de numeração com o texto-fonte, use `[^1]`, `[^2]`... estritamente para o Autor, `[^nt1]`, `[^nt2]`... para o Tradutor e `[^ne1]`, `[^ne2]`... para a Edição. Veja detalhes em [`docs/padrao-de-notas-e-aparato-critico.md`](file:///home/heleno/Documentos/GitHub/openscimd/docs/padrao-de-notas-e-aparato-critico.md).
 - **Notas Editoriais e Mini-Bio do Tradutor**:
-  - Em obras com tradutor humano ou paginação crítica, ancore as notas no primeiro cabeçalho do corpo (ex: `## *Introdução*[^1][^2]`).
-  - A nota `[^1]` destina-se à *Paginação Canônica* (quando aplicável) e a nota `[^2]` à *Mini-Bio / Nota sobre o Tradutor*.
+  - Em obras com tradutor humano ou paginação crítica, ancore as notas no primeiro cabeçalho do corpo (ex: `## *Introdução*[^ne1][^ne2]`).
+  - A nota `[^ne1]` destina-se à *Paginação Canônica* (quando aplicável) e a nota `[^ne2]` à *Mini-Bio / Nota sobre o Tradutor*.
 - **Referências Bíblicas**: Padronize no formato canônico: `Rm 3.23`, `Jo 1.1-14`, `1Co 15.3-4`.
-- **Paginação Crítica / Clássica**: Notações marginais de edições de referência (Bekker, Stephanus, Busse/CAG) devem ser padronizadas no formato `(Página. Linha)` (ex.: `(1. 1)`, `(2. 15)`). Em toda obra clássica com paginação canônica, **deve-se incluir uma Nota Editorial explicativa** (`[^1]`) ancorada no primeiro cabeçalho da obra (ex.: `## *Introdução*[^1]`), detalhando a edição crítica de referência.
+- **Paginação Crítica / Clássica**: Notações marginais de edições de referência (Bekker, Stephanus, Busse/CAG) devem ser padronizadas no formato `(Página. Linha)` (ex.: `(1. 1)`, `(2. 15)`). Em toda obra clássica com paginação canônica, **deve-se incluir uma Nota Editorial explicativa** (`[^ne1]`) ancorada no primeiro cabeçalho da obra (ex.: `## *Introdução*[^ne1]`), detalhando a edição crítica de referência.
 - **Metadados Exclusivos no YAML**: Todos os créditos de autoria, tradução (`translator`), data e licença pertencem **estritamente ao Frontmatter YAML**. Não inclua linhas redundantes de crédito (ex.: `_Tradução de..._`) no corpo do documento.
 - **Limpeza de Cabeçalhos/Títulos**: O título principal vai no campo `title` do YAML. Subtítulos usam níveis markdown (`##`, `###`), sem quebras de linha no meio. O Sumário original (TOC dinâmico para páginas) deve ser removido.
 
