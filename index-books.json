@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1788052861655,
+  "last_updated": 1788074346199,
   "books": [
     {
       "id": "book_007",
@@ -34,24 +34,6 @@
       "language": "pt-BR"
     },
     {
-      "id": "book_009",
-      "title": "A Imitação de Cristo: Livro I",
-      "author": "Thomas à Kempis",
-      "summary": "Tratado clássico de espiritualidade cristã, composto de quatro livros de admoestações espirituais, que exorta o leitor ao desprezo do mundo, ao conhecimento de si mesmo, à humildade e à imitação da vida de Cristo como caminho de perfeição interior.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/thomas-a-kempis/a-imitacao-de-cristo-livro-1.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-imitacao-de-cristo-livro-1.webp",
-      "categories": [
-        "Teologia",
-        "Espiritualidade"
-      ],
-      "published_at": 1785987684228,
-      "estimated_reading_time_min": 60,
-      "license": "Domínio Público",
-      "language": "pt-BR",
-      "originalLanguage": "en",
-      "translator": "Heleno Salgado"
-    },
-    {
       "id": "book_010",
       "title": "Apologia de Sócrates",
       "author": "Platão",
@@ -68,6 +50,30 @@
       "language": "pt-BR",
       "originalLanguage": "en",
       "translator": "Heleno Salgado"
+    },
+    {
+      "id": "book_014",
+      "title": "Cartas de Santo Inácio de Antioquia",
+      "authors": [
+        {
+          "name": "Santo Inácio de Antioquia"
+        }
+      ],
+      "summary": "Coleção completa das sete cartas autênticas de Santo Inácio de Antioquia (c. 35 – 107 d. C.), bispo mártir e Padre Apostólico da Igreja primitiva, redigidas a caminho do martírio em Roma sob o imperador Trajano: aos Efésios, aos Magnésios, aos Tralianos, aos Romanos, aos Filadélfios, aos Esmirnenses e a São Policarpo de Esmirna, precedidas pelo testemunho biográfico de São Jerônimo.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/inacio-de-antioquia/cartas.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/cartas.webp",
+      "categories": [
+        "Patrística",
+        "Padres Apostólicos",
+        "Teologia",
+        "Eclesiologia",
+        "Martírio"
+      ],
+      "published_at": 1788074341565,
+      "estimated_reading_time_min": 54,
+      "license": "CC BY-NC 4.0",
+      "language": "pt-BR",
+      "translator": "Equipe Editorial cristianismo.org.br"
     },
     {
       "id": "book_011",
@@ -124,6 +130,24 @@
       "language": "pt-BR",
       "originalLanguage": "el",
       "translator": "Natanael Rinan"
+    },
+    {
+      "id": "book_009",
+      "title": "A Imitação de Cristo: Livro I",
+      "author": "Thomas à Kempis",
+      "summary": "Tratado clássico de espiritualidade cristã, composto de quatro livros de admoestações espirituais, que exorta o leitor ao desprezo do mundo, ao conhecimento de si mesmo, à humildade e à imitação da vida de Cristo como caminho de perfeição interior.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/thomas-a-kempis/a-imitacao-de-cristo-livro-1.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-imitacao-de-cristo-livro-1.webp",
+      "categories": [
+        "Teologia",
+        "Espiritualidade"
+      ],
+      "published_at": 1785987684228,
+      "estimated_reading_time_min": 60,
+      "license": "Domínio Público",
+      "language": "pt-BR",
+      "originalLanguage": "en",
+      "translator": "Heleno Salgado"
     }
   ]
 }
