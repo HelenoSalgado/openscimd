@@ -17,7 +17,7 @@ language: "pt-BR"
 
 ## *Apresentação de São Jerônimo*
 
-> “Inácio, terceiro bispo, depois do Apóstolo Pedro, da Igreja de Antioquia, foi enviado preso a Roma, condenado às feras durante a perseguição movida por Trajano [provavelmente no ano 107 d.C.]. Chegando por mar a Esmirna, onde Policarpo, o ouvinte de João, era bispo, escreveu uma carta aos efésios, outra aos magnésios, uma terceira aos tralianos, e a quarta aos romanos. Partindo daí, escreveu aos filadélfios, aos esmirnenses, e em particular ainda a Policarpo, recomendando-lhe a Igreja de Antioquia.”[^1]
+> “Inácio, terceiro bispo, depois do Apóstolo Pedro, da Igreja de Antioquia, foi enviado preso a Roma, condenado às feras durante a perseguição movida por Trajano [provavelmente no ano 107 d.C.]. Chegando por mar a Esmirna, onde Policarpo, o ouvinte de João, era bispo, escreveu uma carta aos efésios, outra aos magnésios, uma terceira aos tralianos, e a quarta aos romanos. Partindo daí, escreveu aos filadélfios, aos esmirnenses, e em particular ainda a Policarpo, recomendando-lhe a Igreja de Antioquia.[^1]”
 >
 > — *São Jerônimo, De Viris Illustribus, cap. XVI*
 
@@ -435,4 +435,4 @@ Inácio, também chamado Teóforo, a Policarpo, bispo da Igreja dos esmirnenses,
 > [!NOTE]
 > **Atualização Ortográfica**: A grafia do texto foi fixada em conformidade com o Acordo Ortográfico da Língua Portuguesa vigente, preservando-se rigorosamente a integridade lexical, a pontuação estilística, as citações patrísticas e as escolhas de tradução do texto-fonte.
 
-[^1]: **Sobre Santo Inácio de Antioquia**: Santo Inácio de Antioquia (c. 35 – 107 d. C.), cognominado *Teóforo* («portador de Deus»), foi o terceiro bispo de Antioquia da Síria, sucessor de São Pedro e de Santo Evódio, e discípulo direto dos Apóstolos. Preso durante a perseguição do imperador Trajano, foi conduzido sob escolta militar até Roma, onde consumou seu martírio nas presas das feras no Coliseu. No trajeto marítimo e terrestre através da Ásia Menor, redigiu estas sete cartas imortais dirigidas às comunidades cristãs e ao bispo Policarpo de Esmirna, constituindo um dos mais preciosos monumentos teológicos, eclesiológicos e espirituais da Era Apostólica.
+[^1]: Santo Inácio de Antioquia (c. 35 – 107 d. C.), cognominado *Teóforo* («portador de Deus»), foi o terceiro bispo de Antioquia da Síria, sucessor de São Pedro e de Santo Evódio, e discípulo direto dos Apóstolos. Preso durante a perseguição do imperador Trajano, foi conduzido sob escolta militar até Roma, onde consumou seu martírio nas presas das feras no Coliseu. No trajeto marítimo e terrestre através da Ásia Menor, redigiu estas sete cartas imortais dirigidas às comunidades cristãs e ao bispo Policarpo de Esmirna, constituindo um dos mais preciosos monumentos teológicos, eclesiológicos e espirituais da Era Apostólica.
