@@ -235,10 +235,10 @@ A fama do Mosteiro de São Vítor em Paris, que havia atraído da Saxônia a Hug
 
 #### Obras Principais
 
-- **Benjamin Menor**: Comentando o sentido moral da história dos doze filhos de Jacó, mostra como pelo exercício das virtudes ocorre a preparação para a contemplação.
-- **Benjamin Maior**: Comentando o sentido moral da construção da arca da aliança, descreve os diversos graus da contemplação.
-- **Comentário ao Apocalipse**: Interpreta, linha a linha, todo o texto do Apocalipse.
-- **De Trinitate**: Aprofundando as linhas gerais deixadas por Hugo de São Vítor no *Tratado dos Três Dias*, que é inspirado por sua vez no *De Trinitate* de Santo Agostinho, Ricardo procura, tanto quanto é possível, apresentar o significado do mistério da Santíssima Trindade e a sua relação para com a vida interior.
+  - **Benjamin Menor**: Comentando o sentido moral da história dos doze filhos de Jacó, mostra como pelo exercício das virtudes ocorre a preparação para a contemplação.
+  - **Benjamin Maior**: Comentando o sentido moral da construção da arca da aliança, descreve os diversos graus da contemplação.
+  - **Comentário ao Apocalipse**: Interpreta, linha a linha, todo o texto do Apocalipse.
+  - **De Trinitate**: Aprofundando as linhas gerais deixadas por Hugo de São Vítor no *Tratado dos Três Dias*, que é inspirado por sua vez no *De Trinitate* de Santo Agostinho, Ricardo procura, tanto quanto é possível, apresentar o significado do mistério da Santíssima Trindade e a sua relação para com a vida interior.
 
 #### Do Prólogo do De Trinitate
 
@@ -306,20 +306,15 @@ Entre a época de Pedro Lombardo e de Santo Tomás de Aquino os textos dos filó
 
 #### Principais Filósofos Gregos
 
-- **Tales de Mileto (550 a.C.)**
-- **Pitágoras (500 a.C.)**
-- **Platão (400 a.C.)**:
-
-- Diálogos diversos
-- *A República*
-
-- **Aristóteles (350 a.C.)**:
-
+  - **Tales de Mileto (550 a.C.)**
+  - **Pitágoras (500 a.C.)**
+  - **Platão (400 a.C.)**:
+  - Diálogos diversos
+  - *A República*
+  - **Aristóteles (350 a.C.)**:
   - *Tratados de Lógica*: *Categorias*, *Da Interpretação*, *Primeiros Analíticos*, *Segundos Analíticos*
   - *Física*, *De Anima*, *Metafísica*, *Ética a Nicômaco*, *Política*
-
-- **Plotino (250 d.C.)**:
-
+  - **Plotino (250 d.C.)**:
   - *Enéadas*
 
 #### Do Diálogo de Platão, A República
@@ -403,9 +398,10 @@ Tudo isto, unido a uma vida espiritual de grande intensidade, convergiu, no fina
 
 **Comentários a Aristóteles**:
 
-  - *Comentários aos Livros de Lógica*:
-    - *Ao Livro da Interpretação*
-    - *Ao Livro dos Segundos Analíticos*
+*Comentários aos Livros de Lógica*:
+
+  - *Ao Livro da Interpretação*
+  - *Ao Livro dos Segundos Analíticos*
   - *Comentário ao De Anima*
   - *Comentário à Física*
   - *Comentário à Metafísica*
