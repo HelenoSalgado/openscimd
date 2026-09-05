@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1788230719631,
+  "last_updated": 1788633660928,
   "books": [
     {
       "id": "book_007",
@@ -34,6 +34,24 @@
       "language": "pt-BR"
     },
     {
+      "id": "book_009",
+      "title": "A Imitação de Cristo: Livro I",
+      "author": "Thomas à Kempis",
+      "summary": "Tratado clássico de espiritualidade cristã, composto de quatro livros de admoestações espirituais, que exorta o leitor ao desprezo do mundo, ao conhecimento de si mesmo, à humildade e à imitação da vida de Cristo como caminho de perfeição interior.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/thomas-a-kempis/a-imitacao-de-cristo-livro-1.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-imitacao-de-cristo-livro-1.webp",
+      "categories": [
+        "Teologia",
+        "Espiritualidade"
+      ],
+      "published_at": 1785987684228,
+      "estimated_reading_time_min": 60,
+      "license": "Domínio Público",
+      "language": "pt-BR",
+      "originalLanguage": "en",
+      "translator": "Heleno Salgado"
+    },
+    {
       "id": "book_010",
       "title": "Apologia de Sócrates",
       "author": "Platão",
@@ -50,30 +68,6 @@
       "language": "pt-BR",
       "originalLanguage": "en",
       "translator": "Heleno Salgado"
-    },
-    {
-      "id": "book_014",
-      "title": "Cartas de Santo Inácio de Antioquia",
-      "authors": [
-        {
-          "name": "Santo Inácio de Antioquia"
-        }
-      ],
-      "summary": "Coleção completa das sete cartas autênticas de Santo Inácio de Antioquia (c. 35 – 107 d. C.), bispo mártir e Padre Apostólico da Igreja primitiva, redigidas a caminho do martírio em Roma sob o imperador Trajano: aos Efésios, aos Magnésios, aos Tralianos, aos Romanos, aos Filadélfios, aos Esmirnenses e a São Policarpo de Esmirna, precedidas pelo testemunho biográfico de São Jerônimo.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/inacio-de-antioquia/cartas.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/cartas.webp",
-      "categories": [
-        "Patrística",
-        "Padres Apostólicos",
-        "Teologia",
-        "Eclesiologia",
-        "Martírio"
-      ],
-      "published_at": 1788128076229,
-      "estimated_reading_time_min": 54,
-      "license": "CC BY-NC 4.0",
-      "language": "pt-BR",
-      "translator": "Equipe Editorial cristianismo.org.br"
     },
     {
       "id": "book_011",
@@ -132,22 +126,108 @@
       "translator": "Natanael Rinan"
     },
     {
-      "id": "book_009",
-      "title": "A Imitação de Cristo: Livro I",
-      "author": "Thomas à Kempis",
-      "summary": "Tratado clássico de espiritualidade cristã, composto de quatro livros de admoestações espirituais, que exorta o leitor ao desprezo do mundo, ao conhecimento de si mesmo, à humildade e à imitação da vida de Cristo como caminho de perfeição interior.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/thomas-a-kempis/a-imitacao-de-cristo-livro-1.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-imitacao-de-cristo-livro-1.webp",
+      "id": "book_014",
+      "title": "Cartas de Santo Inácio de Antioquia",
+      "authors": [
+        {
+          "name": "Santo Inácio de Antioquia"
+        }
+      ],
+      "summary": "Coleção completa das sete cartas autênticas de Santo Inácio de Antioquia (c. 35 – 107 d. C.), bispo mártir e Padre Apostólico da Igreja primitiva, redigidas a caminho do martírio em Roma sob o imperador Trajano: aos Efésios, aos Magnésios, aos Tralianos, aos Romanos, aos Filadélfios, aos Esmirnenses e a São Policarpo de Esmirna, precedidas pelo testemunho biográfico de São Jerônimo.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/inacio-de-antioquia/cartas.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/cartas.webp",
+      "categories": [
+        "Patrística",
+        "Padres Apostólicos",
+        "Teologia",
+        "Eclesiologia",
+        "Martírio"
+      ],
+      "published_at": 1788128076229,
+      "estimated_reading_time_min": 54,
+      "license": "CC BY-NC 4.0",
+      "language": "pt-BR",
+      "translator": "Equipe Editorial cristianismo.org.br"
+    },
+    {
+      "id": "book_015",
+      "title": "Genealogia Espiritual de Hugo de São Vítor e Santo Tomás de Aquino",
+      "author": "Hugo de São Vítor",
+      "summary": "Estudo histórico-teológico e biobibliográfico que traça a linhagem espiritual e exegética da tradição patrística (Padres Alexandrinos, Agostinho, Dionísio Areopagita, Boécio, Cassiodoro) até o florescimento da Escola de São Vítor com Hugo e Ricardo de São Vítor, culminando na síntese escolástica de Santo Tomás de Aquino.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/hugo-de-sao-vitor/genealogia-espiritual-de-hugo-e-sao-tomas.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/genealogia-espiritual-de-hugo-e-sao-tomas.webp",
       "categories": [
         "Teologia",
-        "Espiritualidade"
+        "Escola Vitorina",
+        "Mística Medieval",
+        "História da Igreja"
       ],
-      "published_at": 1785987684228,
-      "estimated_reading_time_min": 60,
+      "published_at": 1788633085385,
+      "estimated_reading_time_min": 35,
+      "license": "CC BY-NC 4.0",
+      "language": "pt-BR",
+      "originalLanguage": "pt",
+      "translator": "Equipe Editorial cristianismo.org.br"
+    },
+    {
+      "id": "book_016",
+      "title": "A Palavra de Deus",
+      "author": "Hugo de São Vítor",
+      "summary": "Tratado teológico e contemplativo de Hugo de São Vítor sobre a unidade e a eficácia do Verbo divino, comentando a passagem da Epístola aos Hebreus (Hb 4.12–5.5) acerca da palavra de Deus como viva, eficaz e penetrante, a divisão da alma e do espírito, os pensamentos e intenções do coração e o sacerdócio de Cristo.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/hugo-de-sao-vitor/a-palavra-de-deus.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-palavra-de-deus.webp",
+      "categories": [
+        "Teologia",
+        "Exegese Bíblica",
+        "Mística Medieval",
+        "Escola Vitorina"
+      ],
+      "published_at": 1788633186338,
+      "estimated_reading_time_min": 20,
       "license": "Domínio Público",
       "language": "pt-BR",
-      "originalLanguage": "en",
-      "translator": "Heleno Salgado"
+      "originalLanguage": "la",
+      "translator": "Equipe Editorial cristianismo.org.br"
+    },
+    {
+      "id": "book_017",
+      "title": "A Substância do Amor",
+      "author": "Hugo de São Vítor",
+      "summary": "Tratado espiritual de Hugo de São Vítor sobre a natureza, essência e ordenação do amor (*De Substantia Dilectionis*), distinguindo os dois rios que emanam da alma humana — a caridade e a cobiça —, a correta ordenação dos afetos em relação a Deus, ao próximo e ao mundo, e a fé como navio seguro contra as tempestades temporais.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/hugo-de-sao-vitor/a-substancia-do-amor.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-substancia-do-amor.webp",
+      "categories": [
+        "Teologia",
+        "Espiritualidade",
+        "Mística Medieval",
+        "Escola Vitorina"
+      ],
+      "published_at": 1788633234199,
+      "estimated_reading_time_min": 14,
+      "license": "Domínio Público",
+      "language": "pt-BR",
+      "originalLanguage": "la",
+      "translator": "Equipe Editorial cristianismo.org.br"
+    },
+    {
+      "id": "book_018",
+      "title": "Anotações sobre o Salmo 118",
+      "author": "Hugo de São Vítor",
+      "summary": "Comentário exegético e espiritual de Hugo de São Vítor sobre versículos selecionados do Salmo 118 (Miscellanea, Livro II, capítulos 67 a 79), expondo a escola da virtude e a da sabedoria, os múltiplos nomes dos preceitos divinos, as vias da alma para com Deus, a oração interior e a doçura da divina Palavra como alimento da mente.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/hugo-de-sao-vitor/anotacoes-sobre-salmos-118.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/anotacoes-sobre-salmos-118.webp",
+      "categories": [
+        "Teologia",
+        "Exegese Bíblica",
+        "Mística Medieval",
+        "Escola Vitorina"
+      ],
+      "published_at": 1788633551166,
+      "estimated_reading_time_min": 20,
+      "license": "Domínio Público",
+      "language": "pt-BR",
+      "originalLanguage": "la",
+      "translator": "Equipe Editorial cristianismo.org.br"
     }
   ]
 }

@@ -28,7 +28,7 @@ BIBLE_BOOKS = [
     
     # Poéticos
     r"Jó", r"Jo", # (cuidado com Jo/João, mas na regex pega ambos)
-    r"Salmos", r"Sl", r"Sal", r"Salm",
+    r"Salmos", r"Salmo", r"Sl", r"Sal", r"Salm",
     r"Provérbios", r"Proverbios", r"Pv", r"Prov", r"Pr",
     r"Eclesiastes", r"Ec", r"Ecl",
     r"Cânticos", r"Canticos", r"Cântico dos Cânticos", r"Cantares", r"Ct", r"Cânt", r"Cant",

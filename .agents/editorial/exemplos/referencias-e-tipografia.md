@@ -13,6 +13,7 @@ uv run openscimd normalize-refs "caminho/do/arquivo.md"
 ```
 
 ### O que o comando faz:
+
 * Converte referências com dois-pontos ou vírgula para **ponto canônico**:
   * `João 8:12` ➔ `João 8.12`
   * `1 Coríntios 10:13` ➔ `1 Coríntios 10.13`

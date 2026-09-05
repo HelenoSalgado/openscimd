@@ -2,6 +2,7 @@ import os
 import re
 import json
 from pathlib import Path
+from typing import Optional
 
 def converter_versiculos(input_path, output_path):
     """Converte números no início da linha para formato sobrescrito."""
@@ -37,7 +38,7 @@ def normalize_biblical_refs(filepath, target_sep='.', regex_pattern=None, replac
         
     if not regex_pattern:
         books_pattern = '|'.join(BIBLE_BOOKS)
-        regex_pattern = rf'\b({books_pattern})\s+(\d+)[:.,](\d+)\b'
+        regex_pattern = rf'\b({books_pattern})\.?\s+(\d+)[:.,]\s*(\d+)\b'
         replacement = rf'\1 \2{target_sep}\3'
         
     try:

@@ -90,6 +90,7 @@ graph TD
 ```
 
 ### 3.1 Padrão de Metadados YAML Obrigatório:
+
 ```yaml
 ---
 title: "Título em Português"
@@ -97,7 +98,6 @@ authors:
   - name: "Nome do Autor Canônico"
 translator: "Equipe Editorial cristianismo.org.br"
 license: "CC BY-NC 4.0"
-source_url: "https://www.cristianismo.org.br/arquivo-origem.htm"
 date: "YYYY-MM-DD"
 categories:
   - Teologia

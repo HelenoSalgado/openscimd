@@ -168,8 +168,61 @@ def test_cli_review_dry_run(tmp_path):
     assert result.exit_code == 0
     # acção and baptismo detected from dictionary (2 matches), homem is NOT an archaism
     assert "2 arcaísmos/erros encontrados" in result.stdout
+    # Detailed report listing detected words
+    assert "Dicionário Curado" in result.stdout
+    assert "acção" in result.stdout
+    assert "ação" in result.stdout
+    assert "baptismo" in result.stdout
+    assert "batismo" in result.stdout
     # Original file unchanged
     assert "acção" in md_file.read_text(encoding="utf-8")
+
+
+def test_format_dry_run_report(tmp_path):
+    from scripts.spellchecker import format_dry_run_report
+    from scripts.spellchecker.models import FileReviewResult, ReviewMatch
+
+    empty_res = FileReviewResult(filepath=tmp_path / "empty.md", total_found=0)
+    assert "0 arcaísmos/erros encontrados" in format_dry_run_report(empty_res)
+    assert "✅" in format_dry_run_report(empty_res)
+
+    match_dict = ReviewMatch(
+        start=0,
+        end=5,
+        original_text="acção",
+        suggested_text="ação",
+        dict_key="acção",
+        line_number=3,
+        column_number=1,
+        line_content="acção",
+        source="dictionary",
+    )
+    match_hunspell = ReviewMatch(
+        start=10,
+        end=18,
+        original_text="Magister",
+        suggested_text="Magistro",
+        dict_key="magister",
+        line_number=5,
+        column_number=1,
+        line_content="Magister",
+        source="hunspell",
+        suggestions=["Magistro", "Mestre"],
+    )
+
+    res = FileReviewResult(
+        filepath=tmp_path / "teste.md",
+        total_found=2,
+        matches=[match_dict, match_hunspell],
+    )
+    report = format_dry_run_report(res)
+    assert "2 arcaísmos/erros encontrados" in report
+    assert "Dicionário Curado" in report
+    assert "acção" in report
+    assert "ação" in report
+    assert "Hunspell / Não Reconhecidas ou Estrangeiras" in report
+    assert "Magister" in report
+    assert "Magistro" in report
 
 
 def test_cli_review_auto_apply_with_output_preservation(tmp_path):

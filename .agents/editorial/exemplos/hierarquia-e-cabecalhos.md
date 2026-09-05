@@ -70,6 +70,7 @@ A primeira lei, a lei da verdade (*lex veritatis*)...
 ## 3. Estilização de Cabeçalhos: Itálicos vs. Negritos
 
 ### Regra de Itálicos em Cabeçalhos (`*itálico*` ou `_itálico_`)
+
 O uso de itálico no próprio título ou subtítulo de cabeçalho é **expressamente permitido e deve ser mantido** quando fizer parte da distinção de tratados clássicos ou temas de seções:
 
 ```markdown
@@ -81,6 +82,7 @@ O uso de itálico no próprio título ou subtítulo de cabeçalho é **expressam
 ```
 
 ### Regra de Proibição de Negrito em Cabeçalhos (`**negrito**`)
+
 🚫 **É proibido envelopar o texto de um cabeçalho em negrito** (ex.: `## **Do Gênero**`). Títulos de nível `##` ou `###` já possuem peso visual e semântico forte nativamente no leitor LeiaME e no Markdown, tornando a marcação `**` redundante e ruidosa.
 
 ---
@@ -92,7 +94,9 @@ Quando o capítulo possuir numeração formal e um título descritivo próprio:
 * Opção 2 (Cabeçalho estilizado direto): **`### *Capítulo I: De pensar humildemente de si mesmo*`**.
 
 ### ✅ Formas Corretas:
+
 ```markdown
+
 ### CAPÍTULO II
 
 *De pensar humildemente de si mesmo*
@@ -101,21 +105,24 @@ Há naturalmente em todo homem um desejo de saber...
 ```
 ou:
 ```markdown
+
 ### *Capítulo II: De pensar humildemente de si mesmo*
 
 Há naturalmente em todo homem um desejo de saber...
 ```
 
 ### ❌ Formas Incorretas (Evitar):
+
 ```markdown
 <!-- Erro 1: Negrito desnecessário em cabeçalho -->
+
 ## **Do Gênero**
 
 <!-- Erro 2: Salto hierárquico desnecessário de H2 para H5 -->
 ##### CAPÍTULO II
+
 De pensar humildemente de si mesmo
 ```
-
 ---
 
 ## 5. Numeração Interna de Parágrafos em Textos Clássicos
@@ -150,7 +157,9 @@ Para manter a renderização visual limpa e garantir a navegação precisa no Su
 2. Agrupe as notas em subseções com cabeçalhos de nível **`###`** de acordo com sua natureza (Editoriais, do Tradutor, do Autor, Bibliográficas).
 
 ### ✅ Exemplo Canônico:
+
 ```markdown
+
 ---
 
 ### Notas Editoriais

@@ -44,6 +44,46 @@ def html_to_md(input_file: str, output_file: str):
     from scripts.html2md import convert_html_to_md
     convert_html_to_md(str(BASE_DIR), input_file, output_file)
 
+@app.command(name="clean-html")
+def clean_html_cmd(
+    input_file: str = typer.Argument(..., help="Caminho do arquivo HTML legado para conversão."),
+    output_file: str = typer.Argument(..., help="Caminho do arquivo Markdown de saída."),
+    title: Optional[str] = typer.Option(None, "--title", "-t", help="Título customizado para o documento."),
+):
+    """Converte HTML legado de layout antigo para Markdown limpo com citações semânticas."""
+    from scripts.html_cleaner import LegacyHtmlCleaner
+    try:
+        out = LegacyHtmlCleaner.convert_file(input_file, output_file, part_title=title)
+        typer.secho(f"✅ HTML convertido com sucesso em: {out}", fg=typer.colors.GREEN)
+    except Exception as e:
+        typer.secho(f"❌ Erro ao converter HTML legado: {e}", fg=typer.colors.RED)
+        raise typer.Exit(code=1)
+
+@app.command(name="assemble-book")
+def assemble_book_cmd(
+    parts_dir: str = typer.Argument(..., help="Diretório contendo as partes Markdown revisadas."),
+    output_file: str = typer.Argument(..., help="Caminho do arquivo de livro Markdown compilado."),
+    title: Optional[str] = typer.Option(None, "--title", "-t", help="Título do volume."),
+    author: Optional[str] = typer.Option(None, "--author", "-a", help="Autor do volume."),
+    summary: Optional[str] = typer.Option(None, "--summary", "-s", help="Resumo do volume."),
+    date: Optional[str] = typer.Option(None, "--date", "-d", help="Data canônica da obra."),
+    license_: Optional[str] = typer.Option(None, "--license", "-l", help="Licença editorial."),
+):
+    """Monta um volume canônico a partir de partes modulares revisadas."""
+    from scripts.book_assembler import BookAssembler
+    metadata = {}
+    if title: metadata["title"] = title
+    if author: metadata["author"] = author
+    if summary: metadata["summary"] = summary
+    if date: metadata["date"] = date
+    if license_: metadata["license"] = license_
+    try:
+        out = BookAssembler.assemble_volume(parts_dir, output_file, metadata)
+        typer.secho(f"✅ Volume compilado com sucesso em: {out}", fg=typer.colors.GREEN)
+    except Exception as e:
+        typer.secho(f"❌ Erro ao compilar volume: {e}", fg=typer.colors.RED)
+        raise typer.Exit(code=1)
+
 @app.command()
 def ai_cover(article_name: str, custom_style: Optional[str] = None, provider: str = "gemini"):
     """Gera uma arte de capa conceitual com IA e tipografia vetorial (gemini, openai ou agy)."""
