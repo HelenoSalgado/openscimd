@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1788633660928,
+  "last_updated": 1788640554740,
   "books": [
     {
       "id": "book_007",
@@ -34,60 +34,6 @@
       "language": "pt-BR"
     },
     {
-      "id": "book_009",
-      "title": "A Imitação de Cristo: Livro I",
-      "author": "Thomas à Kempis",
-      "summary": "Tratado clássico de espiritualidade cristã, composto de quatro livros de admoestações espirituais, que exorta o leitor ao desprezo do mundo, ao conhecimento de si mesmo, à humildade e à imitação da vida de Cristo como caminho de perfeição interior.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/thomas-a-kempis/a-imitacao-de-cristo-livro-1.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-imitacao-de-cristo-livro-1.webp",
-      "categories": [
-        "Teologia",
-        "Espiritualidade"
-      ],
-      "published_at": 1785987684228,
-      "estimated_reading_time_min": 60,
-      "license": "Domínio Público",
-      "language": "pt-BR",
-      "originalLanguage": "en",
-      "translator": "Heleno Salgado"
-    },
-    {
-      "id": "book_010",
-      "title": "Apologia de Sócrates",
-      "author": "Platão",
-      "summary": "A Apologia de Sócrates apresenta a defesa proferida pelo filósofo Sócrates diante do tribunal ateniense em 399 a.C., após ser acusado de corromper a juventude e de introduzir novas divindades na pólis.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/platao/apologia-de-socrates.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/apologia-de-socrates.webp",
-      "categories": [
-        "Filosofia",
-        "Clássicos"
-      ],
-      "published_at": 1785987669823,
-      "estimated_reading_time_min": 54,
-      "license": "Domínio Público",
-      "language": "pt-BR",
-      "originalLanguage": "en",
-      "translator": "Heleno Salgado"
-    },
-    {
-      "id": "book_011",
-      "title": "Poética",
-      "author": "Aristóteles",
-      "summary": "Tratado aristotélico sobre a poesia e as artes imitativas, no qual se examinam a essência da tragédia, da epopeia e da comédia; a estrutura do enredo; as partes constitutivas do poema dramático; a catarse das emoções de piedade e temor; e as diferenças entre a imitação trágica e a narrativa épica.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/aristoteles/poetica.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/poetica.webp",
-      "categories": [
-        "Literatura",
-        "Clássicos"
-      ],
-      "published_at": 1785987630705,
-      "estimated_reading_time_min": 71,
-      "license": "Domínio público",
-      "language": "pt-BR",
-      "originalLanguage": "en",
-      "translator": "Heleno Salgado"
-    },
-    {
       "id": "book_012",
       "title": "Solilóquios: Livro I",
       "author": "Agostinho de Hipona",
@@ -105,25 +51,6 @@
       "language": "pt-BR",
       "originalLanguage": "la",
       "translator": "OpenSciMD"
-    },
-    {
-      "id": "book_013",
-      "title": "Isagoge",
-      "author": "Porfírio",
-      "summary": "Tratado fundamental da tradição lógica clássica e tardo-antiga, a Isagoge de Porfírio foi concebida como uma introdução ao estudo das Categorias de Aristóteles. A obra investiga as cinco noções lógicas basilares (gênero, espécie, diferença, próprio e acidente), expondo suas definições, distinções e relações de comunhão e propriedade, além de formular as questões ontológicas clássicas acerca do estatuto dos universais.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/porfirio/isagoge.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/isagoge.webp",
-      "categories": [
-        "Filosofia",
-        "Lógica",
-        "Clássicos"
-      ],
-      "published_at": 1787877875125,
-      "estimated_reading_time_min": 35,
-      "license": "Domínio Público",
-      "language": "pt-BR",
-      "originalLanguage": "el",
-      "translator": "Natanael Rinan"
     },
     {
       "id": "book_014",
@@ -150,24 +77,40 @@
       "translator": "Equipe Editorial cristianismo.org.br"
     },
     {
-      "id": "book_015",
-      "title": "Genealogia Espiritual de Hugo de São Vítor e Santo Tomás de Aquino",
-      "author": "Hugo de São Vítor",
-      "summary": "Estudo histórico-teológico e biobibliográfico que traça a linhagem espiritual e exegética da tradição patrística (Padres Alexandrinos, Agostinho, Dionísio Areopagita, Boécio, Cassiodoro) até o florescimento da Escola de São Vítor com Hugo e Ricardo de São Vítor, culminando na síntese escolástica de Santo Tomás de Aquino.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/hugo-de-sao-vitor/genealogia-espiritual-de-hugo-e-sao-tomas.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/genealogia-espiritual-de-hugo-e-sao-tomas.webp",
+      "id": "book_011",
+      "title": "Poética",
+      "author": "Aristóteles",
+      "summary": "Tratado aristotélico sobre a poesia e as artes imitativas, no qual se examinam a essência da tragédia, da epopeia e da comédia; a estrutura do enredo; as partes constitutivas do poema dramático; a catarse das emoções de piedade e temor; e as diferenças entre a imitação trágica e a narrativa épica.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/aristoteles/poetica.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/poetica.webp",
       "categories": [
-        "Teologia",
-        "Escola Vitorina",
-        "Mística Medieval",
-        "História da Igreja"
+        "Literatura",
+        "Clássicos"
       ],
-      "published_at": 1788633085385,
-      "estimated_reading_time_min": 35,
-      "license": "CC BY-NC 4.0",
+      "published_at": 1785987630705,
+      "estimated_reading_time_min": 71,
+      "license": "Domínio público",
       "language": "pt-BR",
-      "originalLanguage": "pt",
-      "translator": "Equipe Editorial cristianismo.org.br"
+      "originalLanguage": "en",
+      "translator": "Heleno Salgado"
+    },
+    {
+      "id": "book_010",
+      "title": "Apologia de Sócrates",
+      "author": "Platão",
+      "summary": "A Apologia de Sócrates apresenta a defesa proferida pelo filósofo Sócrates diante do tribunal ateniense em 399 a.C., após ser acusado de corromper a juventude e de introduzir novas divindades na pólis.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/platao/apologia-de-socrates.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/apologia-de-socrates.webp",
+      "categories": [
+        "Filosofia",
+        "Clássicos"
+      ],
+      "published_at": 1785987669823,
+      "estimated_reading_time_min": 54,
+      "license": "Domínio Público",
+      "language": "pt-BR",
+      "originalLanguage": "en",
+      "translator": "Heleno Salgado"
     },
     {
       "id": "book_016",
@@ -178,13 +121,11 @@
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-palavra-de-deus.webp",
       "categories": [
         "Teologia",
-        "Exegese Bíblica",
-        "Mística Medieval",
         "Escola Vitorina"
       ],
       "published_at": 1788633186338,
       "estimated_reading_time_min": 20,
-      "license": "Domínio Público",
+      "license": "CC BY-NC 4.0",
       "language": "pt-BR",
       "originalLanguage": "la",
       "translator": "Equipe Editorial cristianismo.org.br"
@@ -198,15 +139,32 @@
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-substancia-do-amor.webp",
       "categories": [
         "Teologia",
-        "Espiritualidade",
-        "Mística Medieval",
         "Escola Vitorina"
       ],
       "published_at": 1788633234199,
       "estimated_reading_time_min": 14,
-      "license": "Domínio Público",
+      "license": "CC BY-NC 4.0",
       "language": "pt-BR",
       "originalLanguage": "la",
+      "translator": "Equipe Editorial cristianismo.org.br"
+    },
+    {
+      "id": "book_015",
+      "title": "Genealogia Espiritual de Hugo de São Vítor e Santo Tomás de Aquino",
+      "author": "Editorial cristianismo.org.br",
+      "summary": "Estudo histórico-teológico e biobibliográfico que traça a linhagem espiritual e exegética da tradição patrística (Padres Alexandrinos, Agostinho, Dionísio Areopagita, Boécio, Cassiodoro) até o florescimento da Escola de São Vítor com Hugo e Ricardo de São Vítor, culminando na síntese escolástica de Santo Tomás de Aquino.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/hugo-de-sao-vitor/genealogia-espiritual-de-hugo-e-sao-tomas.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/genealogia-espiritual-de-hugo-e-sao-tomas.webp",
+      "categories": [
+        "Teologia",
+        "Escola Vitorina",
+        "História da Igreja"
+      ],
+      "published_at": 1788633085385,
+      "estimated_reading_time_min": 35,
+      "license": "CC BY-NC 4.0",
+      "language": "pt-BR",
+      "originalLanguage": "pt",
       "translator": "Equipe Editorial cristianismo.org.br"
     },
     {
@@ -218,16 +176,51 @@
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/anotacoes-sobre-salmos-118.webp",
       "categories": [
         "Teologia",
-        "Exegese Bíblica",
-        "Mística Medieval",
         "Escola Vitorina"
       ],
       "published_at": 1788633551166,
-      "estimated_reading_time_min": 20,
-      "license": "Domínio Público",
+      "estimated_reading_time_min": 19,
+      "license": "CC BY-NC 4.0",
       "language": "pt-BR",
       "originalLanguage": "la",
       "translator": "Equipe Editorial cristianismo.org.br"
+    },
+    {
+      "id": "book_013",
+      "title": "Isagoge",
+      "author": "Porfírio",
+      "summary": "Tratado fundamental da tradição lógica clássica e tardo-antiga, a Isagoge de Porfírio foi concebida como uma introdução ao estudo das Categorias de Aristóteles. A obra investiga as cinco noções lógicas basilares (gênero, espécie, diferença, próprio e acidente), expondo suas definições, distinções e relações de comunhão e propriedade, além de formular as questões ontológicas clássicas acerca do estatuto dos universais.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/porfirio/isagoge.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/isagoge.webp",
+      "categories": [
+        "Filosofia",
+        "Lógica",
+        "Clássicos"
+      ],
+      "published_at": 1787877875125,
+      "estimated_reading_time_min": 35,
+      "license": "Domínio Público",
+      "language": "pt-BR",
+      "originalLanguage": "el",
+      "translator": "Natanael Rinan"
+    },
+    {
+      "id": "book_009",
+      "title": "A Imitação de Cristo: Livro I",
+      "author": "Thomas à Kempis",
+      "summary": "Tratado clássico de espiritualidade cristã, composto de quatro livros de admoestações espirituais, que exorta o leitor ao desprezo do mundo, ao conhecimento de si mesmo, à humildade e à imitação da vida de Cristo como caminho de perfeição interior.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/thomas-a-kempis/a-imitacao-de-cristo-livro-1.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-imitacao-de-cristo-livro-1.webp",
+      "categories": [
+        "Teologia",
+        "Espiritualidade"
+      ],
+      "published_at": 1785987684228,
+      "estimated_reading_time_min": 60,
+      "license": "Domínio Público",
+      "language": "pt-BR",
+      "originalLanguage": "en",
+      "translator": "Heleno Salgado"
     }
   ]
 }
