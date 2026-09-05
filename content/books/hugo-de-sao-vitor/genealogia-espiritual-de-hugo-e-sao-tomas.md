@@ -13,7 +13,7 @@ categories:
   - História da Igreja
 ---
 
-## Estudo Introdutório[^ne1][^ne2][^ne3]
+## Estudo Introdutório[^1][^2][^3]
 
 ### 1. Os Padres Alexandrinos
 
