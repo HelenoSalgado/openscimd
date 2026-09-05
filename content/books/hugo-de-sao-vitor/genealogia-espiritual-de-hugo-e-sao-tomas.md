@@ -145,28 +145,35 @@ Seguindo os princípios traçados no *Didascalicon*, para que em São Vítor pud
 
 **Outros textos**:
 
-  - *Numerosos opúsculos*:
-    - *Opúsculo sobre o Modo de Aprender*
-    - *De Verbo Dei*
-    - *Livro das Miscelâneas*
-    - *A Ciência da Alma de Cristo*
-    - *Os Sete Dons do Espírito Santo*
-    - *etc., etc.*
-  - *Comentários às Sagradas Escrituras*:
-    - *Anotações sobre as Epístolas de S. Paulo*
-    - *Comentário a Joel*
-    - *Comentário às Lamentações de Jeremias*
-    - *Comentário a Naum*
-    - *Comentário ao Eclesiastes*
+*Numerosos opúsculos*:
+
+  - *Opúsculo sobre o Modo de Aprender*
+  - *De Verbo Dei*
+  - *Livro das Miscelâneas*
+  - *A Ciência da Alma de Cristo*
+  - *Os Sete Dons do Espírito Santo*
+  - *etc., etc.*
+
+*Comentários às Sagradas Escrituras*:
+
+  - *Anotações sobre as Epístolas de S. Paulo*
+  - *Comentário a Joel*
+  - *Comentário às Lamentações de Jeremias*
+  - *Comentário a Naum*
+  - *Comentário ao Eclesiastes*
   - *Comentário à Hierarquia Celeste de Dionísio Areopagita*
-  - *Textos Gerais sobre a Interpretação das Escrituras*:
-    - *Sermones Centum*
-    - *Simbologia de Ambos os Testamentos*
-    - *Opúsculos diversos*
-  - *Tratados diversos*:
-    - *Tratado dos Três Dias*
-    - *De Arca Noe*
-    - *Summa Sententiarum*
+
+*Textos Gerais sobre a Interpretação das Escrituras*:
+
+  - *Sermones Centum*
+  - *Simbologia de Ambos os Testamentos*
+  - *Opúsculos diversos*
+
+*Tratados diversos*:
+
+  - *Tratado dos Três Dias*
+  - *De Arca Noe*
+  - *Summa Sententiarum*
 
 #### Do Didascalicon: Frase Inicial
 
@@ -303,15 +310,17 @@ Entre a época de Pedro Lombardo e de Santo Tomás de Aquino os textos dos filó
 - **Pitágoras (500 a.C.)**
 - **Platão (400 a.C.)**:
 
-  - Diálogos diversos
-  - *A República*
+- Diálogos diversos
+- *A República*
 
 - **Aristóteles (350 a.C.)**:
 
   - *Tratados de Lógica*: *Categorias*, *Da Interpretação*, *Primeiros Analíticos*, *Segundos Analíticos*
   - *Física*, *De Anima*, *Metafísica*, *Ética a Nicômaco*, *Política*
 
-- **Plotino (250 d.C.)**: *Enéadas*
+- **Plotino (250 d.C.)**:
+
+  - *Enéadas*
 
 #### Do Diálogo de Platão, A República
 
