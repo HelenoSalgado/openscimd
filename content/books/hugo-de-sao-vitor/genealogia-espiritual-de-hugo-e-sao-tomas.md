@@ -56,9 +56,10 @@ No mesmo livro, comentando a parábola segundo a qual o Reino de Deus é semelha
 - **Panteno (200 d.C.)**: Não resta dele obra alguma.
 - **Clemente de Alexandria (220 d.C.)**: *Stromata* (*Livro das Tapeçarias*).
 - **Orígenes (250 d.C.)**: Cita-se haver escrito 6.000 obras, todas em grego. Grande parte das que se conservaram deveu-se à obra de tradução para o latim do monge Rufino, que residia no Monte das Oliveiras, e do monge São Jerônimo, o tradutor da *Vulgata*, que residia em Belém.
-  - *Hexapla*: seis traduções das Escrituras dispostas em colunas paralelas.
-  - *Comentários e Homilias*: sobre Gênesis, Êxodo, Levítico, Números, Josué, Juízes, Livro dos Reis, Jó, Salmos, Cântico dos Cânticos, Isaías, Jeremias, Ezequiel, São Mateus, São Lucas, São João e Epístola aos Romanos.
-  - *Tratados Gerais*: *De Principiis*, *Tratado contra Celso*.
+
+- *Hexapla*: seis traduções das Escrituras dispostas em colunas paralelas.
+- *Comentários e Homilias*: sobre Gênesis, Êxodo, Levítico, Números, Josué, Juízes, Livro dos Reis, Jó, Salmos, Cântico dos Cânticos, Isaías, Jeremias, Ezequiel, São Mateus, São Lucas, São João e Epístola aos Romanos.
+- *Tratados Gerais*: *De Principiis*, *Tratado contra Celso*.
 
 #### Da Carta de Orígenes a São Gregório Taumaturgo, seu ex-aluno
 
@@ -69,11 +70,16 @@ No mesmo livro, comentando a parábola segundo a qual o Reino de Deus é semelha
 ### 2. Santo Agostinho (400 d.C.)
 
 **Obras mais conhecidas**:
+
   - *As Confissões*.
   - *A Cidade de Deus*.
+
 **Outras obras**:
+
   - Muitíssimos opúsculos, sermões diversos e comentários ao Gênesis.
+
 **Obras mais importantes**:
+
   - *Enarrationes in Psalmos*.
   - *Comentário ao Evangelho de São João*.
   - *Tratado da Santíssima Trindade* (*De Trinitate*).
@@ -90,8 +96,11 @@ No mesmo livro, comentando a parábola segundo a qual o Reino de Deus é semelha
 ### 4. Boécio (500 d.C.)
 
 **Obra mais conhecida**:
+
   - *A Consolação da Filosofia* (*De Consolatione Philosophiae*).
+
 **Opúsculos Teológicos**:
+
   - *De Trinitate*.
   - *Se o Pai, o Filho e o Espírito Santo se predicam substancialmente da divindade*.
   - *Sobre a pessoa e as duas naturezas de Cristo*.
@@ -133,7 +142,9 @@ Seguindo os princípios traçados no *Didascalicon*, para que em São Vítor pud
 
 - *Didascalicon*
 - *De Sacramentis Christianae Fidei*
-- **Outros textos**:
+
+**Outros textos**:
+
   - *Numerosos opúsculos*:
     - *Opúsculo sobre o Modo de Aprender*
     - *De Verbo Dei*
@@ -291,11 +302,15 @@ Entre a época de Pedro Lombardo e de Santo Tomás de Aquino os textos dos filó
 - **Tales de Mileto (550 a.C.)**
 - **Pitágoras (500 a.C.)**
 - **Platão (400 a.C.)**:
+
   - Diálogos diversos
   - *A República*
+
 - **Aristóteles (350 a.C.)**:
+
   - *Tratados de Lógica*: *Categorias*, *Da Interpretação*, *Primeiros Analíticos*, *Segundos Analíticos*
   - *Física*, *De Anima*, *Metafísica*, *Ética a Nicômaco*, *Política*
+
 - **Plotino (250 d.C.)**: *Enéadas*
 
 #### Do Diálogo de Platão, A República
@@ -364,16 +379,21 @@ Tudo isto, unido a uma vida espiritual de grande intensidade, convergiu, no fina
 
 #### Principais Obras de Santo Tomás de Aquino
 
-- **Obras Iniciais (1255 d.C.)**:
+**Obras Iniciais (1255 d.C.)**:
+
   - *Comentário ao Livro das Sentenças*
   - *De Ente et Essentia*
-- **Comentários às Sagradas Escrituras**:
+
+**Comentários às Sagradas Escrituras**:
+
   - *A Isaías*
   - *Ao Evangelho de Mateus*
   - *Ao Evangelho de João*
   - *A todas as Epístolas de São Paulo*
   - *Outros*
-- **Comentários a Aristóteles**:
+
+**Comentários a Aristóteles**:
+
   - *Comentários aos Livros de Lógica*:
     - *Ao Livro da Interpretação*
     - *Ao Livro dos Segundos Analíticos*
@@ -383,17 +403,27 @@ Tudo isto, unido a uma vida espiritual de grande intensidade, convergiu, no fina
   - *Comentário à Ética a Nicômaco*
   - *Comentário à Política*
   - *Outros*
-- **Comentários a Dionísio Areopagita**:
+
+**Comentários a Dionísio Areopagita**:
+
   - *Comentário ao Livro dos Nomes Divinos*
-- **Comentários a Boécio**:
+
+**Comentários a Boécio**:
+
   - *Comentário ao De Trinitate de Boécio*
-- **Aprofundamentos do Comentário aos Livros das Sentenças**:
-  - Foram, para Santo Tomás de Aquino, como que uma preparação para futuramente vir a escrever a *Summa Theologiae*.
+
+**Aprofundamentos do Comentário aos Livros das Sentenças**:
+
+Foram, para Santo Tomás de Aquino, como que uma preparação para futuramente vir a escrever a *Summa Theologiae*.
+
   - *Na linha da análise*: *Quaestiones Disputatae*
   - *Na linha da síntese*: *Summa contra Gentiles*
-- **Obra final e mais importante (1274 d.C.)**:
+
+**Obra final e mais importante (1274 d.C.)**:
+
   - *Summa Theologiae*
-- *Muitíssimos opúsculos*.
+
+**Muitíssimos opúsculos**.
 
 #### Do Opúsculo sobre o Preceito do Amor
 
