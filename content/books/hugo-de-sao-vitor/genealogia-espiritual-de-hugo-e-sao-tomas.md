@@ -1,6 +1,6 @@
 ---
 title: "Genealogia Espiritual de Hugo de São Vítor e Santo Tomás de Aquino"
-author: "Hugo de São Vítor"
+author: "Editorial cristianismo.org.br"
 summary: "Estudo histórico-teológico e biobibliográfico que traça a linhagem espiritual e exegética da tradição patrística (Padres Alexandrinos, Agostinho, Dionísio Areopagita, Boécio, Cassiodoro) até o florescimento da Escola de São Vítor com Hugo e Ricardo de São Vítor, culminando na síntese escolástica de Santo Tomás de Aquino."
 date: "1997"
 license: "CC BY-NC 4.0"
