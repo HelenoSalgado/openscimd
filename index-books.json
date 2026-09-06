@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1788052861655,
+  "last_updated": 1788657548918,
   "books": [
     {
       "id": "book_007",
@@ -124,6 +124,48 @@
       "language": "pt-BR",
       "originalLanguage": "el",
       "translator": "Natanael Rinan"
+    },
+    {
+      "id": "book_014",
+      "title": "Cartas de Santo Inácio de Antioquia",
+      "authors": [
+        {
+          "name": "Santo Inácio de Antioquia"
+        }
+      ],
+      "summary": "Coleção completa das sete cartas autênticas de Santo Inácio de Antioquia (c. 35 – 107 d. C.), bispo mártir e Padre Apostólico da Igreja primitiva, redigidas a caminho do martírio em Roma sob o imperador Trajano: aos Efésios, aos Magnésios, aos Tralianos, aos Romanos, aos Filadélfios, aos Esmirnenses e a São Policarpo de Esmirna, precedidas pelo testemunho biográfico de São Jerônimo.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/inacio-de-antioquia/cartas.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/cartas.webp",
+      "categories": [
+        "Patrística",
+        "Padres Apostólicos",
+        "Teologia",
+        "Eclesiologia",
+        "Martírio"
+      ],
+      "published_at": 1788651333853,
+      "estimated_reading_time_min": 54,
+      "license": "CC BY-NC 4.0",
+      "language": "pt-BR",
+      "translator": "Equipe Editorial cristianismo.org.br"
+    },
+    {
+      "id": "book_015",
+      "title": "A Palavra de Deus",
+      "author": "Hugo de São Vítor",
+      "summary": "Tratado teológico e contemplativo de Hugo de São Vítor sobre a unidade e a eficácia do Verbo divino, comentando a passagem da Epístola aos Hebreus (Hb 4.12–5.5) acerca da palavra de Deus como viva, eficaz e penetrante, a divisão da alma e do espírito, os pensamentos e intenções do coração e o sacerdócio de Cristo.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/hugo-de-sao-vitor/a-palavra-de-deus.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-palavra-de-deus.webp",
+      "categories": [
+        "Teologia",
+        "Escola Vitorina"
+      ],
+      "published_at": 1788651396867,
+      "estimated_reading_time_min": 20,
+      "license": "CC BY-NC 4.0",
+      "language": "pt-BR",
+      "originalLanguage": "la",
+      "translator": "Equipe Editorial cristianismo.org.br"
     }
   ]
 }

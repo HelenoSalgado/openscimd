@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "articles",
-  "last_updated": 1788052861548,
+  "last_updated": 1788657548806,
   "articles": [
     {
       "id": "art_006",
@@ -85,57 +85,6 @@
       "volume": 7,
       "issue": 20,
       "pages": "158 – 169"
-    },
-    {
-      "id": "art_007",
-      "title": "Universidades: surgimento, nacionalização e indicadores de internacionalização",
-      "authors": [
-        {
-          "name": "Iracema Campos Cusati",
-          "orcid": "0000-0002-4812-8412",
-          "email": "iracema.cusati@upe.br",
-          "affiliation": "Universidade de Pernambuco (UPE), Petrolina – PE – Brasil"
-        },
-        {
-          "name": "Luciano José Vianna",
-          "orcid": "0000-0001-7355-7609",
-          "email": "luciano.vianna@upe.br",
-          "affiliation": "Universidade de Pernambuco (UPE), Petrolina – PE – Brasil"
-        },
-        {
-          "name": "Paulo César Marques de Andrade Santos",
-          "orcid": "0000-0001-5803-2388",
-          "email": "paulo.marques@upe.br",
-          "affiliation": "Universidade de Pernambuco (UPE), Petrolina – PE – Brasil"
-        },
-        {
-          "name": "Rita di Cássia de Oliveira Angelo",
-          "orcid": "0000-0002-1694-1927",
-          "email": "rita.angelo@upe.br",
-          "affiliation": "Universidade de Pernambuco (UPE), Serra Talhada – PE – Brasil"
-        },
-        {
-          "name": "Antonio Carrillo Avelar",
-          "orcid": "0000-0002-5654-0650",
-          "email": "antoniocarrillobr@hotmail.com",
-          "affiliation": "Universidad Nacional Autónoma de México (UNAM), Cidade do México – México"
-        }
-      ],
-      "summary": "O presente artigo inicia apresentando a trajetória das Universidades desde o surgimento no período medieval, com a criação de uma comunidade de *scolares*; passando pelo fenômeno da nacionalização, com a consequente perda do seu caráter inicial influenciado pelas escolas de ofício e posteriormente pela ordem eclesiástica e imperial; abordando nesse bojo o processo de estatização a partir da revolução francesa. A universidade brasileira, fortemente influenciada até a década de 1970 pelo modelo europeu, foi impactada pelas premissas das reformas educacionais e objetivos delineados para uma estrutura integradora entre ensino e pesquisa, que ocorreu de forma mais efetiva a partir da década de 1980, movimento apresentado juntamente com as iniciativas de internacionalização da universidade. Por último, são elencadas as estratégias para o desenvolvimento de um projeto de internacionalização das universidades brasileiras no século XXI sob a premissa de que para conceber a cooperação internacional, como parte integrante das missões institucionais, cabe às universidades a criação de mecanismos e estruturas apropriadas para promover a internacionalização como um dos pressupostos indicativos desse direcionamento.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao.webp",
-      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/pdfs/universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao.pdf",
-      "categories": [
-        "Educação"
-      ],
-      "published_at": 1609545600000,
-      "estimated_reading_time_min": 28,
-      "doi": "10.21723/riaee.v16i1.13354",
-      "license": "CC BY-NC-SA",
-      "journal": "Revista Ibero-Americana de Estudos em Educação",
-      "volume": 16,
-      "issue": 1,
-      "pages": "3-19"
     },
     {
       "id": "art_003",
@@ -303,6 +252,57 @@
       "issue": 3,
       "pages": "31-50",
       "language": "pt-BR"
+    },
+    {
+      "id": "art_007",
+      "title": "Universidades: surgimento, nacionalização e indicadores de internacionalização",
+      "authors": [
+        {
+          "name": "Iracema Campos Cusati",
+          "orcid": "0000-0002-4812-8412",
+          "email": "iracema.cusati@upe.br",
+          "affiliation": "Universidade de Pernambuco (UPE), Petrolina – PE – Brasil"
+        },
+        {
+          "name": "Luciano José Vianna",
+          "orcid": "0000-0001-7355-7609",
+          "email": "luciano.vianna@upe.br",
+          "affiliation": "Universidade de Pernambuco (UPE), Petrolina – PE – Brasil"
+        },
+        {
+          "name": "Paulo César Marques de Andrade Santos",
+          "orcid": "0000-0001-5803-2388",
+          "email": "paulo.marques@upe.br",
+          "affiliation": "Universidade de Pernambuco (UPE), Petrolina – PE – Brasil"
+        },
+        {
+          "name": "Rita di Cássia de Oliveira Angelo",
+          "orcid": "0000-0002-1694-1927",
+          "email": "rita.angelo@upe.br",
+          "affiliation": "Universidade de Pernambuco (UPE), Serra Talhada – PE – Brasil"
+        },
+        {
+          "name": "Antonio Carrillo Avelar",
+          "orcid": "0000-0002-5654-0650",
+          "email": "antoniocarrillobr@hotmail.com",
+          "affiliation": "Universidad Nacional Autónoma de México (UNAM), Cidade do México – México"
+        }
+      ],
+      "summary": "O presente artigo inicia apresentando a trajetória das Universidades desde o surgimento no período medieval, com a criação de uma comunidade de *scolares*; passando pelo fenômeno da nacionalização, com a consequente perda do seu caráter inicial influenciado pelas escolas de ofício e posteriormente pela ordem eclesiástica e imperial; abordando nesse bojo o processo de estatização a partir da revolução francesa. A universidade brasileira, fortemente influenciada até a década de 1970 pelo modelo europeu, foi impactada pelas premissas das reformas educacionais e objetivos delineados para uma estrutura integradora entre ensino e pesquisa, que ocorreu de forma mais efetiva a partir da década de 1980, movimento apresentado juntamente com as iniciativas de internacionalização da universidade. Por último, são elencadas as estratégias para o desenvolvimento de um projeto de internacionalização das universidades brasileiras no século XXI sob a premissa de que para conceber a cooperação internacional, como parte integrante das missões institucionais, cabe às universidades a criação de mecanismos e estruturas apropriadas para promover a internacionalização como um dos pressupostos indicativos desse direcionamento.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/pdfs/universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao.pdf",
+      "categories": [
+        "Educação"
+      ],
+      "published_at": 1609545600000,
+      "estimated_reading_time_min": 28,
+      "doi": "10.21723/riaee.v16i1.13354",
+      "license": "CC BY-NC-SA",
+      "journal": "Revista Ibero-Americana de Estudos em Educação",
+      "volume": 16,
+      "issue": 1,
+      "pages": "3-19"
     }
   ]
 }
