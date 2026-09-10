@@ -13,7 +13,7 @@ categories:
   - História da Igreja
 ---
 
-## Estudo Introdutório[^1][^2][^3]
+## Estudo Introdutório[^ne1][^ne2][^ne3]
 
 ### 1. Os Padres Alexandrinos
 
@@ -468,8 +468,8 @@ Foram, para Santo Tomás de Aquino, como que uma preparação para futuramente v
 
 ### Notas Editoriais
 
-[^1]: Estudo histórico-doutrinário e biobibliográfico elaborado para contextualizar as raízes patrísticas, a tradição contemplativa e a metodologia exegética que culminaram na fundação e florescimento da Escola de São Vítor de Paris e seu influxo na teologia escolástica medieval.
+[^ne1]: Estudo histórico-doutrinário e biobibliográfico elaborado para contextualizar as raízes patrísticas, a tradição contemplativa e a metodologia exegética que culminaram na fundação e florescimento da Escola de São Vítor de Paris e seu influxo na teologia escolástica medieval.
 
-[^2]: Compilado e editado a partir da publicação digital originária do portal *cristianismo.org.br* (São Paulo, junho de 1997), sob licença de livre reprodução para fins de estudo e uso não comercial, adaptado ao padrão editorial OpenSciMD e leitor LeiaME.
+[^ne2]: Compilado e editado a partir da publicação digital originária do portal *cristianismo.org.br* (São Paulo, junho de 1997), sob licença de livre reprodução para fins de estudo e uso não comercial, adaptado ao padrão editorial OpenSciMD e leitor LeiaME.
 
-[^3]: As passagens patrísticas e escolásticas citadas ao longo deste estudo foram cotejadas com as fontes clássicas (*Patrologia Latina*, *Patrologia Graeca* e edições críticas de Eusébio de Cesareia, Santo Agostinho, Pseudo-Dionísio Areopagita, Boécio, Cassiodoro, Hugo de São Vítor, Ricardo de São Vítor, Pedro Lombardo e Santo Tomás de Aquino).
+[^ne3]: As passagens patrísticas e escolásticas citadas ao longo deste estudo foram cotejadas com as fontes clássicas (*Patrologia Latina*, *Patrologia Graeca* e edições críticas de Eusébio de Cesareia, Santo Agostinho, Pseudo-Dionísio Areopagita, Boécio, Cassiodoro, Hugo de São Vítor, Ricardo de São Vítor, Pedro Lombardo e Santo Tomás de Aquino).
