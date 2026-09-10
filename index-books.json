@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1788633660928,
+  "last_updated": 1789019741833,
   "books": [
     {
       "id": "book_007",
@@ -150,26 +150,6 @@
       "translator": "Equipe Editorial cristianismo.org.br"
     },
     {
-      "id": "book_015",
-      "title": "Genealogia Espiritual de Hugo de São Vítor e Santo Tomás de Aquino",
-      "author": "Hugo de São Vítor",
-      "summary": "Estudo histórico-teológico e biobibliográfico que traça a linhagem espiritual e exegética da tradição patrística (Padres Alexandrinos, Agostinho, Dionísio Areopagita, Boécio, Cassiodoro) até o florescimento da Escola de São Vítor com Hugo e Ricardo de São Vítor, culminando na síntese escolástica de Santo Tomás de Aquino.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/hugo-de-sao-vitor/genealogia-espiritual-de-hugo-e-sao-tomas.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/genealogia-espiritual-de-hugo-e-sao-tomas.webp",
-      "categories": [
-        "Teologia",
-        "Escola Vitorina",
-        "Mística Medieval",
-        "História da Igreja"
-      ],
-      "published_at": 1788633085385,
-      "estimated_reading_time_min": 35,
-      "license": "CC BY-NC 4.0",
-      "language": "pt-BR",
-      "originalLanguage": "pt",
-      "translator": "Equipe Editorial cristianismo.org.br"
-    },
-    {
       "id": "book_016",
       "title": "A Palavra de Deus",
       "author": "Hugo de São Vítor",
@@ -178,13 +158,11 @@
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-palavra-de-deus.webp",
       "categories": [
         "Teologia",
-        "Exegese Bíblica",
-        "Mística Medieval",
         "Escola Vitorina"
       ],
       "published_at": 1788633186338,
       "estimated_reading_time_min": 20,
-      "license": "Domínio Público",
+      "license": "CC BY-NC 4.0",
       "language": "pt-BR",
       "originalLanguage": "la",
       "translator": "Equipe Editorial cristianismo.org.br"
@@ -198,13 +176,11 @@
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-substancia-do-amor.webp",
       "categories": [
         "Teologia",
-        "Espiritualidade",
-        "Mística Medieval",
         "Escola Vitorina"
       ],
       "published_at": 1788633234199,
       "estimated_reading_time_min": 14,
-      "license": "Domínio Público",
+      "license": "CC BY-NC 4.0",
       "language": "pt-BR",
       "originalLanguage": "la",
       "translator": "Equipe Editorial cristianismo.org.br"
@@ -218,15 +194,32 @@
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/anotacoes-sobre-salmos-118.webp",
       "categories": [
         "Teologia",
-        "Exegese Bíblica",
-        "Mística Medieval",
         "Escola Vitorina"
       ],
       "published_at": 1788633551166,
-      "estimated_reading_time_min": 20,
-      "license": "Domínio Público",
+      "estimated_reading_time_min": 19,
+      "license": "CC BY-NC 4.0",
       "language": "pt-BR",
       "originalLanguage": "la",
+      "translator": "Equipe Editorial cristianismo.org.br"
+    },
+    {
+      "id": "book_015",
+      "title": "Genealogia Espiritual de Hugo de São Vítor e Santo Tomás de Aquino",
+      "author": "Editorial cristianismo.org.br",
+      "summary": "Estudo histórico-teológico e biobibliográfico que traça a linhagem espiritual e exegética da tradição patrística (Padres Alexandrinos, Agostinho, Dionísio Areopagita, Boécio, Cassiodoro) até o florescimento da Escola de São Vítor com Hugo e Ricardo de São Vítor, culminando na síntese escolástica de Santo Tomás de Aquino.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/hugo-de-sao-vitor/genealogia-espiritual-de-hugo-e-sao-tomas.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/genealogia-espiritual-de-hugo-e-sao-tomas.webp",
+      "categories": [
+        "Teologia",
+        "Escola Vitorina",
+        "História da Igreja"
+      ],
+      "published_at": 1788633085385,
+      "estimated_reading_time_min": 35,
+      "license": "CC BY-NC 4.0",
+      "language": "pt-BR",
+      "originalLanguage": "pt",
       "translator": "Equipe Editorial cristianismo.org.br"
     }
   ]
