@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1789019741833,
+  "last_updated": 1789176367137,
   "books": [
     {
       "id": "book_007",
@@ -34,18 +34,80 @@
       "language": "pt-BR"
     },
     {
-      "id": "book_009",
-      "title": "A Imitação de Cristo: Livro I",
-      "author": "Thomas à Kempis",
-      "summary": "Tratado clássico de espiritualidade cristã, composto de quatro livros de admoestações espirituais, que exorta o leitor ao desprezo do mundo, ao conhecimento de si mesmo, à humildade e à imitação da vida de Cristo como caminho de perfeição interior.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/thomas-a-kempis/a-imitacao-de-cristo-livro-1.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-imitacao-de-cristo-livro-1.webp",
+      "id": "book_012",
+      "title": "Solilóquios: Livro I",
+      "author": "Agostinho de Hipona",
+      "summary": "O Livro I dos Solilóquios de Santo Agostinho, obra em forma de diálogo com a Razão sobre o conhecimento de Deus e da alma, a purificação da mente, a natureza da verdade e a busca da sabedoria inteligível.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/agostinho/soliloquios-livro-1.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/soliloquios-livro-1.webp",
       "categories": [
         "Teologia",
-        "Espiritualidade"
+        "Filosofia",
+        "Patrística"
       ],
-      "published_at": 1785987684228,
-      "estimated_reading_time_min": 60,
+      "published_at": 1787363169408,
+      "estimated_reading_time_min": 47,
+      "license": "Domínio Público",
+      "language": "pt-BR",
+      "originalLanguage": "la",
+      "translator": "OpenSciMD"
+    },
+    {
+      "id": "book_014",
+      "title": "Cartas de Santo Inácio de Antioquia",
+      "authors": [
+        {
+          "name": "Santo Inácio de Antioquia"
+        }
+      ],
+      "summary": "Coleção completa das sete cartas autênticas de Santo Inácio de Antioquia (c. 35 – 107 d. C.), bispo mártir e Padre Apostólico da Igreja primitiva, redigidas a caminho do martírio em Roma sob o imperador Trajano: aos Efésios, aos Magnésios, aos Tralianos, aos Romanos, aos Filadélfios, aos Esmirnenses e a São Policarpo de Esmirna, precedidas pelo testemunho biográfico de São Jerônimo.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/inacio-de-antioquia/cartas.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/cartas.webp",
+      "categories": [
+        "Patrística",
+        "Teologia",
+        "Eclesiologia",
+        "Martírio"
+      ],
+      "published_at": 1788128076229,
+      "estimated_reading_time_min": 54,
+      "license": "CC BY-NC 4.0",
+      "language": "pt-BR",
+      "translator": "Equipe Editorial cristianismo.org.br"
+    },
+    {
+      "id": "book_011",
+      "title": "Poética",
+      "author": "Aristóteles",
+      "summary": "Tratado aristotélico sobre a poesia e as artes imitativas, no qual se examinam a essência da tragédia, da epopeia e da comédia; a estrutura do enredo; as partes constitutivas do poema dramático; a catarse das emoções de piedade e temor; e as diferenças entre a imitação trágica e a narrativa épica.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/aristoteles/poetica.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/poetica.webp",
+      "categories": [
+        "Literatura",
+        "Clássicos"
+      ],
+      "published_at": 1785987630705,
+      "estimated_reading_time_min": 71,
+      "license": "Domínio público",
+      "language": "pt-BR",
+      "originalLanguage": "en",
+      "translator": "Heleno Salgado"
+    },
+    {
+      "id": "book_019",
+      "title": "Petrus Ramus e a Reforma Educacional do Século XVI",
+      "author": "Frank Pierrepont Graves",
+      "summary": "Estudo histórico-filosófico fundamental de Frank Pierrepont Graves (1912) sobre a vida, os embates acadêmicos e a obra pedagógica de Petrus Ramus (1515–1572), eminente humanista, matemático e professor no Collège Royal de França, que liderou a rebelião contra a escolástica aristotélica no século XVI e estabeleceu novas bases metodológicas para o Trivium e o Quadrivium.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/petrus-ramus/petrus-ramus-e-a-reforma-educacional-do-seculo-xvi.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/petrus-ramus-e-a-reforma-educacional-do-seculo-xvi.webp",
+      "categories": [
+        "História da Educação",
+        "Renascimento",
+        "Humanismo",
+        "Pedagogia"
+      ],
+      "published_at": 1789176362973,
+      "estimated_reading_time_min": 77,
       "license": "Domínio Público",
       "language": "pt-BR",
       "originalLanguage": "en",
@@ -68,86 +130,6 @@
       "language": "pt-BR",
       "originalLanguage": "en",
       "translator": "Heleno Salgado"
-    },
-    {
-      "id": "book_011",
-      "title": "Poética",
-      "author": "Aristóteles",
-      "summary": "Tratado aristotélico sobre a poesia e as artes imitativas, no qual se examinam a essência da tragédia, da epopeia e da comédia; a estrutura do enredo; as partes constitutivas do poema dramático; a catarse das emoções de piedade e temor; e as diferenças entre a imitação trágica e a narrativa épica.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/aristoteles/poetica.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/poetica.webp",
-      "categories": [
-        "Literatura",
-        "Clássicos"
-      ],
-      "published_at": 1785987630705,
-      "estimated_reading_time_min": 71,
-      "license": "Domínio público",
-      "language": "pt-BR",
-      "originalLanguage": "en",
-      "translator": "Heleno Salgado"
-    },
-    {
-      "id": "book_012",
-      "title": "Solilóquios: Livro I",
-      "author": "Agostinho de Hipona",
-      "summary": "O Livro I dos Solilóquios de Santo Agostinho, obra em forma de diálogo com a Razão sobre o conhecimento de Deus e da alma, a purificação da mente, a natureza da verdade e a busca da sabedoria inteligível.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/agostinho/soliloquios-livro-1.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/soliloquios-livro-1.webp",
-      "categories": [
-        "Teologia",
-        "Filosofia",
-        "Patrística"
-      ],
-      "published_at": 1787363169408,
-      "estimated_reading_time_min": 47,
-      "license": "Domínio Público",
-      "language": "pt-BR",
-      "originalLanguage": "la",
-      "translator": "OpenSciMD"
-    },
-    {
-      "id": "book_013",
-      "title": "Isagoge",
-      "author": "Porfírio",
-      "summary": "Tratado fundamental da tradição lógica clássica e tardo-antiga, a Isagoge de Porfírio foi concebida como uma introdução ao estudo das Categorias de Aristóteles. A obra investiga as cinco noções lógicas basilares (gênero, espécie, diferença, próprio e acidente), expondo suas definições, distinções e relações de comunhão e propriedade, além de formular as questões ontológicas clássicas acerca do estatuto dos universais.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/porfirio/isagoge.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/isagoge.webp",
-      "categories": [
-        "Filosofia",
-        "Lógica",
-        "Clássicos"
-      ],
-      "published_at": 1787877875125,
-      "estimated_reading_time_min": 35,
-      "license": "Domínio Público",
-      "language": "pt-BR",
-      "originalLanguage": "el",
-      "translator": "Natanael Rinan"
-    },
-    {
-      "id": "book_014",
-      "title": "Cartas de Santo Inácio de Antioquia",
-      "authors": [
-        {
-          "name": "Santo Inácio de Antioquia"
-        }
-      ],
-      "summary": "Coleção completa das sete cartas autênticas de Santo Inácio de Antioquia (c. 35 – 107 d. C.), bispo mártir e Padre Apostólico da Igreja primitiva, redigidas a caminho do martírio em Roma sob o imperador Trajano: aos Efésios, aos Magnésios, aos Tralianos, aos Romanos, aos Filadélfios, aos Esmirnenses e a São Policarpo de Esmirna, precedidas pelo testemunho biográfico de São Jerônimo.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/inacio-de-antioquia/cartas.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/cartas.webp",
-      "categories": [
-        "Patrística",
-        "Padres Apostólicos",
-        "Teologia",
-        "Eclesiologia",
-        "Martírio"
-      ],
-      "published_at": 1788128076229,
-      "estimated_reading_time_min": 54,
-      "license": "CC BY-NC 4.0",
-      "language": "pt-BR",
-      "translator": "Equipe Editorial cristianismo.org.br"
     },
     {
       "id": "book_016",
@@ -186,6 +168,25 @@
       "translator": "Equipe Editorial cristianismo.org.br"
     },
     {
+      "id": "book_015",
+      "title": "Genealogia Espiritual de Hugo de São Vítor e Santo Tomás de Aquino",
+      "author": "Editorial cristianismo.org.br",
+      "summary": "Estudo histórico-teológico e biobibliográfico que traça a linhagem espiritual e exegética da tradição patrística (Padres Alexandrinos, Agostinho, Dionísio Areopagita, Boécio, Cassiodoro) até o florescimento da Escola de São Vítor com Hugo e Ricardo de São Vítor, culminando na síntese escolástica de Santo Tomás de Aquino.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/hugo-de-sao-vitor/genealogia-espiritual-de-hugo-e-sao-tomas.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/genealogia-espiritual-de-hugo-e-sao-tomas.webp",
+      "categories": [
+        "Teologia",
+        "Escola Vitorina",
+        "História da Igreja"
+      ],
+      "published_at": 1788633085385,
+      "estimated_reading_time_min": 35,
+      "license": "CC BY-NC 4.0",
+      "language": "pt-BR",
+      "originalLanguage": "pt",
+      "translator": "Equipe Editorial cristianismo.org.br"
+    },
+    {
       "id": "book_018",
       "title": "Anotações sobre o Salmo 118",
       "author": "Hugo de São Vítor",
@@ -204,23 +205,41 @@
       "translator": "Equipe Editorial cristianismo.org.br"
     },
     {
-      "id": "book_015",
-      "title": "Genealogia Espiritual de Hugo de São Vítor e Santo Tomás de Aquino",
-      "author": "Editorial cristianismo.org.br",
-      "summary": "Estudo histórico-teológico e biobibliográfico que traça a linhagem espiritual e exegética da tradição patrística (Padres Alexandrinos, Agostinho, Dionísio Areopagita, Boécio, Cassiodoro) até o florescimento da Escola de São Vítor com Hugo e Ricardo de São Vítor, culminando na síntese escolástica de Santo Tomás de Aquino.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/hugo-de-sao-vitor/genealogia-espiritual-de-hugo-e-sao-tomas.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/genealogia-espiritual-de-hugo-e-sao-tomas.webp",
+      "id": "book_013",
+      "title": "Isagoge",
+      "author": "Porfírio",
+      "summary": "Tratado fundamental da tradição lógica clássica e tardo-antiga, a Isagoge de Porfírio foi concebida como uma introdução ao estudo das Categorias de Aristóteles. A obra investiga as cinco noções lógicas basilares (gênero, espécie, diferença, próprio e acidente), expondo suas definições, distinções e relações de comunhão e propriedade, além de formular as questões ontológicas clássicas acerca do estatuto dos universais.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/porfirio/isagoge.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/isagoge.webp",
+      "categories": [
+        "Filosofia",
+        "Lógica",
+        "Clássicos"
+      ],
+      "published_at": 1787877875125,
+      "estimated_reading_time_min": 35,
+      "license": "Domínio Público",
+      "language": "pt-BR",
+      "originalLanguage": "el",
+      "translator": "Natanael Rinan"
+    },
+    {
+      "id": "book_009",
+      "title": "A Imitação de Cristo: Livro I",
+      "author": "Thomas à Kempis",
+      "summary": "Tratado clássico de espiritualidade cristã, composto de quatro livros de admoestações espirituais, que exorta o leitor ao desprezo do mundo, ao conhecimento de si mesmo, à humildade e à imitação da vida de Cristo como caminho de perfeição interior.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/thomas-a-kempis/a-imitacao-de-cristo-livro-1.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-imitacao-de-cristo-livro-1.webp",
       "categories": [
         "Teologia",
-        "Escola Vitorina",
-        "História da Igreja"
+        "Espiritualidade"
       ],
-      "published_at": 1788633085385,
-      "estimated_reading_time_min": 35,
-      "license": "CC BY-NC 4.0",
+      "published_at": 1785987684228,
+      "estimated_reading_time_min": 60,
+      "license": "Domínio Público",
       "language": "pt-BR",
-      "originalLanguage": "pt",
-      "translator": "Equipe Editorial cristianismo.org.br"
+      "originalLanguage": "en",
+      "translator": "Heleno Salgado"
     }
   ]
 }
