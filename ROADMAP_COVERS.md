@@ -15,9 +15,9 @@ Acompanhamento do processo de refatoração e criação manual das capas padroni
 | 5 | `poetica` | Aristóteles | 335 a.C. | ✅ Concluído |
 | 6 | `isagoge` | Porfírio | 270 d.C. | ✅ Concluído |
 | 7 | `cartas` | Inácio de Antioquia | 107 d.C. | ✅ Concluído |
-| 8 | `a-palavra-de-deus` | Hugo de São Vítor | c. 1130 d.C. | ⏳ Em avaliação |
-| 9 | `a-substancia-do-amor` | Hugo de São Vítor | c. 1130 d.C. | ⚪ Pendente |
-| 10 | `genealogia-espiritual-de-hugo-e-sao-tomas` | Hugo de São Vítor | c. 1130 d.C. | ⚪ Pendente |
+| 8 | `a-palavra-de-deus` | Hugo de São Vítor | c. 1130 d.C. | ✅ Concluído |
+| 9 | `a-substancia-do-amor` | Hugo de São Vítor | c. 1130 d.C. | ✅ Concluído |
+| 10 | `genealogia-espiritual-de-hugo-e-sao-tomas` | Hugo de São Vítor | c. 1130 d.C. | ⏳ Pausado (Aguardando Quota IA) |
 | 11 | `primeiro-livro-de-moises-chamado-genesis` | Moisés | c. 1400 a.C. | ⚪ Pendente |
 | 12 | `segundo-livro-de-moises-chamado-exodo` | Moisés | c. 1400 a.C. | ⚪ Pendente |
 | 13 | `comentario-sobre-a-religiao-crista` | Petrus Ramus | 1576 | ⚪ Pendente |
