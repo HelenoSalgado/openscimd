@@ -29,7 +29,7 @@ Acompanhamento do processo de refatoração e criação manual das capas padroni
 
 | # | Slug / Artigo | Autor(es) | Data | Status |
 |---|---|---|---|:---:|
-| 1 | `alucinacoes-induzidas-e-o-loop-de-correcoes-falsas-em-llms` | Hiroko Konishi | 20-11-2025 | ⚪ Pendente |
+| 1 | `alucinacoes-induzidas-e-o-loop-de-correcoes-falsas-em-llms` | Hiroko Konishi | 20-11-2025 | ✅ Concluído |
 | 2 | `a-pratica-de-cantatas-e-concertos-no-culto-publico` | Heleno Salgado | 02-01-2021 | ⚪ Pendente |
 | 3 | `as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico` | Vários | 29-07-2026 | ⚪ Pendente |
 | 4 | `da-universidade-quinhentista-de-paris-para-o-mundo-curriculo-e-metodo-em-petrus-ramus` | Vários | 2012-01-01 | ⚪ Pendente |

@@ -1,8 +1,209 @@
 {
   "repo_name": "OpenSciMD",
   "type": "articles",
-  "last_updated": 1789891605361,
+  "last_updated": 1789939568716,
   "articles": [
+    {
+      "id": "art_009",
+      "title": "A Prática de Cantatas e Concertos no Culto Público: Uma Tríplice Quebra do Princípio Regulador do Culto",
+      "authors": [
+        {
+          "name": "Murilo Dumps",
+          "orcid": "0009-0005-2291-6313",
+          "email": "murilodumpsfinger@gmail.com",
+          "affiliation": "Instituto Reformado Santo Evangelho (IRSE)"
+        }
+      ],
+      "summary": "O presente artigo examina criticamente a introdução de cantatas, concertos e apresentações musicais no culto público cristão à luz do Princípio Regulador do Culto, conforme compreendido pela tradição reformada confessional. Sustenta-se que tais práticas representam uma tríplice violação desse princípio. Primeiramente, ao substituir a participação ativa da congregação por apresentações especializadas, comprometem o exercício do sacerdócio universal dos crentes e convertem o culto em espetáculo. Em segundo lugar, ao privilegiarem composições humanas em detrimento do cântico da Palavra inspirada, afastam-se da suficiência do conteúdo determinado por Deus para o louvor público. Por fim, ao reintroduzirem aparato instrumental e elementos próprios da economia cerimonial veterotestamentária, desconsideram o cumprimento dessas figuras em Cristo e a simplicidade prescrita para o culto da Nova Aliança. O estudo desenvolve sua argumentação mediante análise exegética das Escrituras, diálogo com a Confissão de Fé de Westminster, referências à tradição reformada e exame das principais objeções contemporâneas, concluindo que a preservação da pureza do culto exige estrita submissão às prescrições divinas e rejeição das inovações litúrgicas fundamentadas na criatividade humana.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/avulsos/geral/a-pratica-de-cantatas-e-concertos-no-culto-publico.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-pratica-de-cantatas-e-concertos-no-culto-publico.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/pdfs/a-pratica-de-cantatas-e-concertos-no-culto-publico.pdf",
+      "categories": [
+        "Teologia"
+      ],
+      "published_at": 1785974400000,
+      "estimated_reading_time_min": 31,
+      "doi": "10.5281/zenodo.21762396",
+      "license": "CC BY 4.0",
+      "journal": "Revista Viae Veritatis (ViVe)",
+      "journal_id": "journal_revista-viae-veritatis",
+      "volume": "1",
+      "volume_id": "vol_revista-viae-veritatis_1",
+      "language": "pt-BR"
+    },
+    {
+      "id": "art_001",
+      "title": "Induções Estruturais para Alucinações em Grandes Modelos de Linguagem: Um Estudo de Caso Apenas de Saída e a Descoberta do Loop de Correção Falsa",
+      "author": "Hiroko Konishi",
+      "summary": "Este estudo de caso explora as alucinações de Grandes Modelos de Linguagem (LLMs), focando em como eles fabricam informações e caem em 'loops de correção falsa'. Analisa o viés de autoridade e a supressão de hipóteses não-mainstream, propondo que esses comportamentos são induções estruturais no design de LLMs.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/avulsos/geral/alucinacoes-induzidas-e-o-loop-de-correcoes-falsas-em-llms.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/alucinacoes-induzidas-e-o-loop-de-correcoes-falsas-em-llms.webp",
+      "categories": [
+        "IA"
+      ],
+      "published_at": 1763596800000,
+      "estimated_reading_time_min": 12,
+      "license": "CC BY-NC 4.0",
+      "pages": "1-10",
+      "language": "pt-BR"
+    },
+    {
+      "id": "art_008",
+      "title": "O DESTINO ETERNO DOS BEBÊS QUE MORREM PRECOCEMENTE E DAS PESSOAS COM DEFICIÊNCIA INTELECTUAL SEVERA",
+      "authors": [
+        {
+          "name": "Plínio Sousa",
+          "orcid": "0009-0000-1772-1849",
+          "email": "reitoria@irse.com.br",
+          "affiliation": "Instituto Reformado Santo Evangelho (IRSE)"
+        }
+      ],
+      "summary": "O presente estudo teológico examina o destino eterno de bebês que morrem precocemente e de pessoas nascidas com deficiência intelectual severa, à luz da soberania divina, da graça e da justiça de Deus. Argumenta-se que a salvação desses indivíduos não depende do exercício consciente da fé, do arrependimento ou de uma consciência moral plenamente desenvolvida, mas exclusivamente da graça soberana de Deus, fundamentada na eleição do Pai, na redenção de Cristo e na regeneração pelo Espírito Santo. A partir de textos bíblicos, distingue-se entre a culpa do pecado original (condição herdada em potência) e a culpa de pecados pessoais conscientes (em ato). Sustenta-se que Deus, sendo perfeitamente justo, não condena eternamente quem jamais exerceu responsabilidade moral deliberada. O trabalho defende a posição de João Calvino contra acusações de que ele ensinava a danação de bebês, esclarecendo a distinção entre “condenação” (sentença) e “danação” (execução da sentença). Afirma-se, finalmente, que todos os bebês que morrem precocemente e todas as pessoas com deficiência intelectual severa que nascem nessa condição são eleitos de Deus, são salvos pela graça soberana de Deus, oferecendo consolo pastoral diante de passagens difíceis das Escrituras e contrastando a coerência do Calvinismo com as dificuldades lógicas do Arminianismo e do Catolicismo Romano nessa matéria.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/avulsos/vol-1/o-destino-eterno-dos-bebes-que-morrem-precocimente-e-das-pessoas-com-deficiencia-intelectual-severa.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/o-destino-eterno-dos-bebes-que-morrem-precocimente-e-das-pessoas-com-deficiencia-intelectual-severa.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/pdfs/o-destino-eterno-dos-bebes-que-morrem-precocimente-e-das-pessoas-com-deficiencia-intelectual-severa.pdf",
+      "categories": [
+        "Teologia"
+      ],
+      "published_at": 1785283200000,
+      "estimated_reading_time_min": 120,
+      "doi": "10.5281/zenodo.21684711",
+      "license": "Creative Commons Attribution 4.0 International",
+      "journal": "Revista Viae Veritatis (ViVe)",
+      "journal_id": "journal_revista-viae-veritatis",
+      "volume": "1",
+      "volume_id": "vol_revista-viae-veritatis_1",
+      "issue": "1",
+      "pages": "1-51"
+    },
+    {
+      "id": "art_004",
+      "title": "O LEGADO DE PETRUS RAMUS E O TRATADO VIA REGIA AD GEOMETRIAM",
+      "authors": [
+        {
+          "name": "Francisco Hemerson Brito da Silva",
+          "affiliation": "Universidade Estadual do Ceará",
+          "email": "francisco.hemerson@aluno.uece.br"
+        },
+        {
+          "name": "Ana Carolina Costa Pereira",
+          "affiliation": "Universidade Estadual do Ceará",
+          "email": "carolina.pereira@uece.br"
+        }
+      ],
+      "summary": "Entre meados dos séculos XVI e XVII, se proliferou uma rica literatura dedicada a geometria prática que impulsionou a produção de tratados para auxiliar nos procedimentos manuais, executados pelos trabalhadores do período. Nesse contexto, o tratado Via regia ad geometriam, escrito e publicado originalmente na Suíça em 1596 pelo francês Petrus Ramus (1515 – 1572), passando a ganhar notoriedade como um dos documentos mais disseminados pela impressa medieval. O exemplar trazia consigo uma organização diferencial dos conhecimentos matemáticos existentes em sua época, que são incorporados em algumas maneiras de medir áreas de superfícies, volume de sólidos, junto ao cálculo de distâncias, tais como comprimento, altura e largura. Desta forma, o artigo tem o intuito de apresentar uma descrição sobre o tratado em questão, destacando alguns elementos matemáticos presentes em seu corpo, junto a uma breve biografia do autor, com suas principais obras e seus preceitos. Ao desenvolver o estudo, utilizou-se uma metodologia bibliográfica-descritiva, com cunho qualitativo, a partir da leitura de livros e artigos que versam sobre a temática estudada, a fim de recolher informações consistentes. No decorrer da pesquisa, observou-se um desenvolvimento sistemático no tratado de Petrus Ramus sobre os elementos matemáticos, sendo descrito em um dos capítulos, o instrumento intitulado por báculo que auxiliava nos procedimentos de medição, por meios desses componentes. Assim, concluiu-se que o documento histórico em questão, contribuiu de forma sucinta ao fornecer subsídios de mensuração para algumas profissões, visto que, era uma das principais atividades desenvolvidas no meio rural e urbano, bastando ter noções sobre as matemáticas do período para utilizá-lo.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/boletim-cearense-de-educacao-e-historia-da-matematica/vol-7/o-legado-de-petrus-ramus-e-o-tradado-via-regia-ad-geometram.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/o-legado-de-petrus-ramus-e-o-tradado-via-regia-ad-geometram.webp",
+      "categories": [
+        "Matemática"
+      ],
+      "published_at": 1586217600000,
+      "estimated_reading_time_min": 19,
+      "doi": "10.30938/bocehm.v7i20.3297",
+      "license": "CC BY 4.0",
+      "journal": "Boletim Cearense de Educação e História da Matemática",
+      "journal_id": "journal_boletim-cearense-de-educacao-e-historia-da-matematica",
+      "volume": "7",
+      "volume_id": "vol_boletim-cearense-de-educacao-e-historia-da-matematica_7",
+      "issue": "20",
+      "pages": "158 – 169"
+    },
+    {
+      "id": "art_002",
+      "title": "AS MARGENS DA REFORMA: PETRUS RAMUS, O CALVINISMO E A AUTONOMIA DO SABER POLÍTICO",
+      "authors": [
+        {
+          "name": "Rafael Ramis Barceló",
+          "orcid": "0000-0003-1756-6695",
+          "email": "r.ramis@uib.es",
+          "affiliation": "Universitat de les Illes Balears / Instituto de Estudios Hispánicos en la Modernidad (IEHM) Unidade associada ao CSIC"
+        }
+      ],
+      "summary": "Neste trabalho explica-se a relevância de Petrus Ramus na construção da política, no marco da Reforma, como uma disciplina independente. Analisam-se as obras de Ramus, tanto as que escreveu como católico quanto as que preparou na última etapa de sua vida, já convertido ao calvinismo, e indica-se a influência política de Ramus num setor minoritário, ainda que muito influente entre os calvinistas. Finalmente, tecem-se algumas considerações sobre a importância do ramismo na configuração de um pensamento político calvinista.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/hispania-sacra/vol-70/as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/pdfs/as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico.pdf",
+      "categories": [
+        "Ciência Política",
+        "História"
+      ],
+      "published_at": 1530316800000,
+      "estimated_reading_time_min": 59,
+      "doi": "10.3989/hs.2018.005",
+      "license": "CC BY 4.0",
+      "journal": "Hispania Sacra",
+      "journal_id": "journal_hispania-sacra",
+      "volume": "70",
+      "volume_id": "vol_hispania-sacra_70",
+      "issue": "141",
+      "pages": "51-63"
+    },
+    {
+      "id": "art_006",
+      "title": "REFORMAS FILOSÓFICAS DE PETRUS RAMUS: A SIMPLIFICAÇÃO DA LÓGICA E A SISTEMATIZAÇÃO DA METODOLOGIA",
+      "authors": [
+        {
+          "name": "Djamila Abdullazade",
+          "orcid": "0009-0007-5639-8512",
+          "email": "jamila.abdullazadee@gmail.com",
+          "affiliation": "Universidade Estatal de Baku"
+        },
+        {
+          "name": "Aladdin Malikov",
+          "orcid": "0000-0001-5830-6764",
+          "email": "aladdin.malikov@gmail.com",
+          "affiliation": "AcademyGate Publishing"
+        }
+      ],
+      "summary": "O artigo analisa as concepções filosóficas e reformistas de Petrus Ramus, representante da época do Renascimento. Como um dos mais destacados reformadores do Renascimento, ele deixou um profundo legado. O artigo assinala que Ramus, graças às reformas que realizou tanto na pedagogia quanto na filosofia, exerceu significativa influência sobre o desenvolvimento do pensamento científico. Seus méritos no campo do desenvolvimento eficaz da educação conferiram-lhe grande notoriedade. O artigo enfatiza que ele desempenhou papel importante na introdução de sistematicidade e ordem na educação. O objetivo principal de suas reformas consistia em demonstrar métodos eficazes de assimilação da ciência. Observa-se que os manuais de dialética, retórica e gramática, escritos por ele em colaboração com Omer Talon, reformularam a estrutura educacional da época do Renascimento. O artigo também reflete seu interesse pela matemática e pelas ciências naturais, o que expressava sua convicção de que o pensamento deve possuir uma estrutura ordenada. As concepções de Ramus sobre a linguagem fundamentavam a relação entre pensamento e expressão. Além desses méritos, o artigo afirma que ele também empreendeu ataques substanciais à filosofia aristotélica, especialmente às visões escolásticas rigorosas, cujas razões são analisadas em detalhe. Suas ideias não se limitaram à França, mas influenciaram o desenvolvimento de métodos modernos de ensino em diversos países europeus, incluindo Inglaterra e Alemanha. As reformas de P. Ramus também abriram caminho no pensamento de filósofos como Francis Bacon, René Descartes e Alexander Melville. O artigo examina a vida de Petrus Ramus, a essência do humanismo, a atividade de escritor de Ramus, sua posição contra a filosofia aristotélica, as inovações no método e na lógica no contexto do ambiente intelectual do Renascimento, investiga seu papel na pedagogia europeia e a influência das inovações filosóficas por ele criadas.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/history-of-science/vol-6/reformas-filosoficas-de-petrus-ramus.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/reformas-filosoficas-de-petrus-ramus.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/pdfs/reformas-filosoficas-de-petrus-ramus.pdf",
+      "categories": [
+        "Filosofia",
+        "Lógica"
+      ],
+      "published_at": 1765756800000,
+      "estimated_reading_time_min": 28,
+      "doi": "10.33864/2790-0037.2025.v6.i5.101-112",
+      "udc": "1(091):161/162",
+      "bbk": "87.3:87.4",
+      "hos": 113,
+      "license": "CC BY-NC 4.0",
+      "journal": "History of Science",
+      "journal_id": "journal_history-of-science",
+      "volume": "6",
+      "volume_id": "vol_history-of-science_6",
+      "issue": "5",
+      "pages": "101-112",
+      "e_issn": "2790-0037"
+    },
+    {
+      "id": "art_005",
+      "title": "Peter Ramus: Importância na Retórica e Ataques a Cícero",
+      "authors": [
+        {
+          "name": "Cole Franklin",
+          "affiliation": "University of Southern Mississippi; East Texas Baptist University"
+        }
+      ],
+      "summary": "Peter Ramus é uma figura influente no campo da retórica, da educação, da teologia, da filosofia e de numerosas outras áreas de estudo. Grande parte de sua influência e relevância decorre não apenas de suas proposições pessoais, mas também de sua crítica a Aristóteles, Quintiliano e Cícero. Este artigo examina as proposições de Ramus, seus escritos, sua popularidade, seus ataques a escritores clássicos e sua influência sobre a educação, a retórica e a dialética. Também é examinada a crítica de Ramus a Cícero e a razão por trás desse ataque.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/ipda/vol-3/peter-ramus-importancia-na-retorica-e-ataque-a-cicero.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/peter-ramus-importancia-na-retorica-e-ataque-a-cicero.webp",
+      "categories": [
+        "Retórica"
+      ],
+      "published_at": 1784246400000,
+      "estimated_reading_time_min": 28,
+      "license": "Artigo acadêmico em PDF; direitos autorais ainda não verificados.",
+      "journal": "IPDA",
+      "journal_id": "journal_ipda",
+      "volume": "3",
+      "volume_id": "vol_ipda_3",
+      "issue": "1",
+      "pages": "46-56",
+      "language": "pt-BR"
+    },
     {
       "id": "art_011",
       "title": "A Dimensão Jurídica, Política, Filosófica e Religiosa do Processo e da Execução de Sócrates",
@@ -218,108 +419,6 @@
       "e_issn": "2449-8378"
     },
     {
-      "id": "art_009",
-      "title": "A Prática de Cantatas e Concertos no Culto Público: Uma Tríplice Quebra do Princípio Regulador do Culto",
-      "authors": [
-        {
-          "name": "Murilo Dumps",
-          "orcid": "0009-0005-2291-6313",
-          "email": "pracademica@irse.com.br",
-          "affiliation": "Instituto Reformado Santo Evangelho (IRSE)"
-        }
-      ],
-      "summary": "O presente artigo examina criticamente a introdução de cantatas, concertos e apresentações musicais no culto público cristão à luz do Princípio Regulador do Culto, conforme compreendido pela tradição reformada confessional. Sustenta-se que tais práticas representam uma tríplice violação desse princípio. Primeiramente, ao substituir a participação ativa da congregação por apresentações especializadas, comprometem o exercício do sacerdócio universal dos crentes e convertem o culto em espetáculo. Em segundo lugar, ao privilegiarem composições humanas em detrimento do cântico da Palavra inspirada, afastam-se da suficiência do conteúdo determinado por Deus para o louvor público. Por fim, ao reintroduzirem aparato instrumental e elementos próprios da economia cerimonial veterotestamentária, desconsideram o cumprimento dessas figuras em Cristo e a simplicidade prescrita para o culto da Nova Aliança. O estudo desenvolve sua argumentação mediante análise exegética das Escrituras, diálogo com a Confissão de Fé de Westminster, referências à tradição reformada e exame das principais objeções contemporâneas, concluindo que a preservação da pureza do culto exige estrita submissão às prescrições divinas e rejeição das inovações litúrgicas fundamentadas na criatividade humana.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/revista-viae-veritatis/vol-1/a-pratica-de-cantatas-e-concertos-no-culto-publico.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-pratica-de-cantatas-e-concertos-no-culto-publico.webp",
-      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/pdfs/a-pratica-de-cantatas-e-concertos-no-culto-publico.pdf",
-      "categories": [
-        "Teologia"
-      ],
-      "published_at": 1785974400000,
-      "estimated_reading_time_min": 31,
-      "doi": "10.5281/zenodo.21762396",
-      "license": "CC BY 4.0",
-      "journal": "Revista Viae Veritatis (ViVe)",
-      "journal_id": "journal_revista-viae-veritatis",
-      "volume": "1",
-      "volume_id": "vol_revista-viae-veritatis_1",
-      "issue": "1",
-      "pages": "1-15",
-      "language": "pt-BR"
-    },
-    {
-      "id": "art_001",
-      "title": "Induções Estruturais para Alucinações em Grandes Modelos de Linguagem: Um Estudo de Caso Apenas de Saída e a Descoberta do Loop de Correção Falsa",
-      "author": "Hiroko Konishi",
-      "summary": "Este estudo de caso explora as alucinações de Grandes Modelos de Linguagem (LLMs), focando em como eles fabricam informações e caem em 'loops de correção falsa'. Analisa o viés de autoridade e a supressão de hipóteses não-mainstream, propondo que esses comportamentos são induções estruturais no design de LLMs.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/avulsos/geral/alucinacoes-induzidas-e-o-loop-de-correcoes-falsas-em-llms.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/alucinacoes-induzidas-e-o-loop-de-correcoes-falsas-em-llms.webp",
-      "categories": [
-        "IA"
-      ],
-      "published_at": 1763596800000,
-      "estimated_reading_time_min": 12,
-      "license": "CC BY-NC 4.0",
-      "pages": "1-10",
-      "language": "pt-BR"
-    },
-    {
-      "id": "art_008",
-      "title": "O DESTINO ETERNO DOS BEBÊS QUE MORREM PRECOCEMENTE E DAS PESSOAS COM DEFICIÊNCIA INTELECTUAL SEVERA",
-      "authors": [
-        {
-          "name": "Plínio Sousa",
-          "orcid": "0009-0000-1772-1849",
-          "email": "reitoria@irse.com.br",
-          "affiliation": "Instituto Reformado Santo Evangelho (IRSE)"
-        }
-      ],
-      "summary": "O presente estudo teológico examina o destino eterno de bebês que morrem precocemente e de pessoas nascidas com deficiência intelectual severa, à luz da soberania divina, da graça e da justiça de Deus. Argumenta-se que a salvação desses indivíduos não depende do exercício consciente da fé, do arrependimento ou de uma consciência moral plenamente desenvolvida, mas exclusivamente da graça soberana de Deus, fundamentada na eleição do Pai, na redenção de Cristo e na regeneração pelo Espírito Santo. A partir de textos bíblicos, distingue-se entre a culpa do pecado original (condição herdada em potência) e a culpa de pecados pessoais conscientes (em ato). Sustenta-se que Deus, sendo perfeitamente justo, não condena eternamente quem jamais exerceu responsabilidade moral deliberada. O trabalho defende a posição de João Calvino contra acusações de que ele ensinava a danação de bebês, esclarecendo a distinção entre “condenação” (sentença) e “danação” (execução da sentença). Afirma-se, finalmente, que todos os bebês que morrem precocemente e todas as pessoas com deficiência intelectual severa que nascem nessa condição são eleitos de Deus, são salvos pela graça soberana de Deus, oferecendo consolo pastoral diante de passagens difíceis das Escrituras e contrastando a coerência do Calvinismo com as dificuldades lógicas do Arminianismo e do Catolicismo Romano nessa matéria.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/avulsos/vol-1/o-destino-eterno-dos-bebes-que-morrem-precocimente-e-das-pessoas-com-deficiencia-intelectual-severa.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/o-destino-eterno-dos-bebes-que-morrem-precocimente-e-das-pessoas-com-deficiencia-intelectual-severa.webp",
-      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/pdfs/o-destino-eterno-dos-bebes-que-morrem-precocimente-e-das-pessoas-com-deficiencia-intelectual-severa.pdf",
-      "categories": [
-        "Teologia"
-      ],
-      "published_at": 1785283200000,
-      "estimated_reading_time_min": 120,
-      "doi": "10.5281/zenodo.21684711",
-      "license": "Creative Commons Attribution 4.0 International",
-      "volume": "1",
-      "issue": "1",
-      "pages": "1-51"
-    },
-    {
-      "id": "art_002",
-      "title": "AS MARGENS DA REFORMA: PETRUS RAMUS, O CALVINISMO E A AUTONOMIA DO SABER POLÍTICO",
-      "authors": [
-        {
-          "name": "Rafael Ramis Barceló",
-          "orcid": "0000-0003-1756-6695",
-          "email": "r.ramis@uib.es",
-          "affiliation": "Universitat de les Illes Balears / Instituto de Estudios Hispánicos en la Modernidad (IEHM) Unidade associada ao CSIC"
-        }
-      ],
-      "summary": "Neste trabalho explica-se a relevância de Petrus Ramus na construção da política, no marco da Reforma, como uma disciplina independente. Analisam-se as obras de Ramus, tanto as que escreveu como católico quanto as que preparou na última etapa de sua vida, já convertido ao calvinismo, e indica-se a influência política de Ramus num setor minoritário, ainda que muito influente entre os calvinistas. Finalmente, tecem-se algumas considerações sobre a importância do ramismo na configuração de um pensamento político calvinista.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/hispania-sacra/vol-70/as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico.webp",
-      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/pdfs/as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico.pdf",
-      "categories": [
-        "Ciência Política",
-        "História"
-      ],
-      "published_at": 1530316800000,
-      "estimated_reading_time_min": 59,
-      "doi": "10.3989/hs.2018.005",
-      "license": "CC BY 4.0",
-      "journal": "Hispania Sacra",
-      "journal_id": "journal_hispania-sacra",
-      "volume": "70",
-      "volume_id": "vol_hispania-sacra_70",
-      "issue": "141",
-      "pages": "51-63"
-    },
-    {
       "id": "art_003",
       "title": "DA UNIVERSIDADE QUINHENTISTA DE PARIS PARA O MUNDO: CURRÍCULO E MÉTODO EM PETRUS RAMUS",
       "authors": [
@@ -353,104 +452,6 @@
       "volume": "23",
       "volume_id": "vol_revista-historia-da-educacao_23",
       "pages": "1-33"
-    },
-    {
-      "id": "art_004",
-      "title": "O LEGADO DE PETRUS RAMUS E O TRATADO VIA REGIA AD GEOMETRIAM",
-      "authors": [
-        {
-          "name": "Francisco Hemerson Brito da Silva",
-          "affiliation": "Universidade Estadual do Ceará",
-          "email": "francisco.hemerson@aluno.uece.br"
-        },
-        {
-          "name": "Ana Carolina Costa Pereira",
-          "affiliation": "Universidade Estadual do Ceará",
-          "email": "carolina.pereira@uece.br"
-        }
-      ],
-      "summary": "Entre meados dos séculos XVI e XVII, se proliferou uma rica literatura dedicada a geometria prática que impulsionou a produção de tratados para auxiliar nos procedimentos manuais, executados pelos trabalhadores do período. Nesse contexto, o tratado Via regia ad geometriam, escrito e publicado originalmente na Suíça em 1596 pelo francês Petrus Ramus (1515 – 1572), passando a ganhar notoriedade como um dos documentos mais disseminados pela impressa medieval. O exemplar trazia consigo uma organização diferencial dos conhecimentos matemáticos existentes em sua época, que são incorporados em algumas maneiras de medir áreas de superfícies, volume de sólidos, junto ao cálculo de distâncias, tais como comprimento, altura e largura. Desta forma, o artigo tem o intuito de apresentar uma descrição sobre o tratado em questão, destacando alguns elementos matemáticos presentes em seu corpo, junto a uma breve biografia do autor, com suas principais obras e seus preceitos. Ao desenvolver o estudo, utilizou-se uma metodologia bibliográfica-descritiva, com cunho qualitativo, a partir da leitura de livros e artigos que versam sobre a temática estudada, a fim de recolher informações consistentes. No decorrer da pesquisa, observou-se um desenvolvimento sistemático no tratado de Petrus Ramus sobre os elementos matemáticos, sendo descrito em um dos capítulos, o instrumento intitulado por báculo que auxiliava nos procedimentos de medição, por meios desses componentes. Assim, concluiu-se que o documento histórico em questão, contribuiu de forma sucinta ao fornecer subsídios de mensuração para algumas profissões, visto que, era uma das principais atividades desenvolvidas no meio rural e urbano, bastando ter noções sobre as matemáticas do período para utilizá-lo.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/boletim-cearense-de-educacao-e-historia-da-matematica/vol-7/o-legado-de-petrus-ramus-e-o-tradado-via-regia-ad-geometram.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/o-legado-de-petrus-ramus-e-o-tradado-via-regia-ad-geometram.webp",
-      "categories": [
-        "Matemática"
-      ],
-      "published_at": 1586217600000,
-      "estimated_reading_time_min": 19,
-      "doi": "10.30938/bocehm.v7i20.3297",
-      "license": "CC BY 4.0",
-      "journal": "Boletim Cearense de Educação e História da Matemática",
-      "journal_id": "journal_boletim-cearense-de-educacao-e-historia-da-matematica",
-      "volume": "7",
-      "volume_id": "vol_boletim-cearense-de-educacao-e-historia-da-matematica_7",
-      "issue": "20",
-      "pages": "158 – 169"
-    },
-    {
-      "id": "art_005",
-      "title": "Peter Ramus: Importância na Retórica e Ataques a Cícero",
-      "authors": [
-        {
-          "name": "Cole Franklin",
-          "affiliation": "University of Southern Mississippi; East Texas Baptist University"
-        }
-      ],
-      "summary": "Peter Ramus é uma figura influente no campo da retórica, da educação, da teologia, da filosofia e de numerosas outras áreas de estudo. Grande parte de sua influência e relevância decorre não apenas de suas proposições pessoais, mas também de sua crítica a Aristóteles, Quintiliano e Cícero. Este artigo examina as proposições de Ramus, seus escritos, sua popularidade, seus ataques a escritores clássicos e sua influência sobre a educação, a retórica e a dialética. Também é examinada a crítica de Ramus a Cícero e a razão por trás desse ataque.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/ipda/vol-3/peter-ramus-importancia-na-retorica-e-ataque-a-cicero.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/peter-ramus-importancia-na-retorica-e-ataque-a-cicero.webp",
-      "categories": [
-        "Retórica"
-      ],
-      "published_at": 1784246400000,
-      "estimated_reading_time_min": 28,
-      "license": "Artigo acadêmico em PDF; direitos autorais ainda não verificados.",
-      "journal": "IPDA",
-      "journal_id": "journal_ipda",
-      "volume": "3",
-      "volume_id": "vol_ipda_3",
-      "issue": "1",
-      "pages": "46-56",
-      "language": "pt-BR"
-    },
-    {
-      "id": "art_006",
-      "title": "REFORMAS FILOSÓFICAS DE PETRUS RAMUS: A SIMPLIFICAÇÃO DA LÓGICA E A SISTEMATIZAÇÃO DA METODOLOGIA",
-      "authors": [
-        {
-          "name": "Djamila Abdullazade",
-          "orcid": "0009-0007-5639-8512",
-          "email": "jamila.abdullazadee@gmail.com",
-          "affiliation": "Universidade Estatal de Baku"
-        },
-        {
-          "name": "Aladdin Malikov",
-          "orcid": "0000-0001-5830-6764",
-          "email": "aladdin.malikov@gmail.com",
-          "affiliation": "AcademyGate Publishing"
-        }
-      ],
-      "summary": "O artigo analisa as concepções filosóficas e reformistas de Petrus Ramus, representante da época do Renascimento. Como um dos mais destacados reformadores do Renascimento, ele deixou um profundo legado. O artigo assinala que Ramus, graças às reformas que realizou tanto na pedagogia quanto na filosofia, exerceu significativa influência sobre o desenvolvimento do pensamento científico. Seus méritos no campo do desenvolvimento eficaz da educação conferiram-lhe grande notoriedade. O artigo enfatiza que ele desempenhou papel importante na introdução de sistematicidade e ordem na educação. O objetivo principal de suas reformas consistia em demonstrar métodos eficazes de assimilação da ciência. Observa-se que os manuais de dialética, retórica e gramática, escritos por ele em colaboração com Omer Talon, reformularam a estrutura educacional da época do Renascimento. O artigo também reflete seu interesse pela matemática e pelas ciências naturais, o que expressava sua convicção de que o pensamento deve possuir uma estrutura ordenada. As concepções de Ramus sobre a linguagem fundamentavam a relação entre pensamento e expressão. Além desses méritos, o artigo afirma que ele também empreendeu ataques substanciais à filosofia aristotélica, especialmente às visões escolásticas rigorosas, cujas razões são analisadas em detalhe. Suas ideias não se limitaram à França, mas influenciaram o desenvolvimento de métodos modernos de ensino em diversos países europeus, incluindo Inglaterra e Alemanha. As reformas de P. Ramus também abriram caminho no pensamento de filósofos como Francis Bacon, René Descartes e Alexander Melville. O artigo examina a vida de Petrus Ramus, a essência do humanismo, a atividade de escritor de Ramus, sua posição contra a filosofia aristotélica, as inovações no método e na lógica no contexto do ambiente intelectual do Renascimento, investiga seu papel na pedagogia europeia e a influência das inovações filosóficas por ele criadas.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/history-of-science/vol-6/reformas-filosoficas-de-petrus-ramus.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/reformas-filosoficas-de-petrus-ramus.webp",
-      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/pdfs/reformas-filosoficas-de-petrus-ramus.pdf",
-      "categories": [
-        "Filosofia",
-        "Lógica"
-      ],
-      "published_at": 1765756800000,
-      "estimated_reading_time_min": 28,
-      "doi": "10.33864/2790-0037.2025.v6.i5.101-112",
-      "udc": "1(091):161/162",
-      "bbk": "87.3:87.4",
-      "hos": 113,
-      "license": "CC BY-NC 4.0",
-      "journal": "History of Science",
-      "journal_id": "journal_history-of-science",
-      "volume": "6",
-      "volume_id": "vol_history-of-science_6",
-      "issue": "5",
-      "pages": "101-112",
-      "e_issn": "2790-0037"
     },
     {
       "id": "art_007",
@@ -505,6 +506,36 @@
       "issue": "1",
       "pages": "3-19",
       "e_issn": "1982-5587"
+    },
+    {
+      "id": "art_008",
+      "title": "O DESTINO ETERNO DOS BEBÊS QUE MORREM PRECOCEMENTE E DAS PESSOAS COM DEFICIÊNCIA INTELECTUAL SEVERA",
+      "authors": [
+        {
+          "name": "Plínio Sousa",
+          "orcid": "0009-0000-1772-1849",
+          "email": "reitoria@irse.com.br",
+          "affiliation": "Instituto Reformado Santo Evangelho (IRSE)"
+        }
+      ],
+      "summary": "O presente estudo teológico examina o destino eterno de bebês que morrem precocemente e de pessoas nascidas com deficiência intelectual severa, à luz da soberania divina, da graça e da justiça de Deus. Argumenta-se que a salvação desses indivíduos não depende do exercício consciente da fé, do arrependimento ou de uma consciência moral plenamente desenvolvida, mas exclusivamente da graça soberana de Deus, fundamentada na eleição do Pai, na redenção de Cristo e na regeneração pelo Espírito Santo. A partir de textos bíblicos, distingue-se entre a culpa do pecado original (condição herdada em potência) e a culpa de pecados pessoais conscientes (em ato). Sustenta-se que Deus, sendo perfeitamente justo, não condena eternamente quem jamais exerceu responsabilidade moral deliberada. O trabalho defende a posição de João Calvino contra acusações de que ele ensinava a danação de bebês, esclarecendo a distinção entre “condenação” (sentença) e “danação” (execução da sentença). Afirma-se, finalmente, que todos os bebês que morrem precocemente e todas as pessoas com deficiência intelectual severa que nascem nessa condição são eleitos de Deus, são salvos pela graça soberana de Deus, oferecendo consolo pastoral diante de passagens difíceis das Escrituras e contrastando a coerência do Calvinismo com as dificuldades lógicas do Arminianismo e do Catolicismo Romano nessa matéria.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/revista-viae-veritatis/vol-1/o-destino-eterno-dos-bebes-que-morrem-precocimente-e-das-pessoas-com-deficiencia-intelectual-severa.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/o-destino-eterno-dos-bebes-que-morrem-precocimente-e-das-pessoas-com-deficiencia-intelectual-severa.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/pdfs/o-destino-eterno-dos-bebes-que-morrem-precocimente-e-das-pessoas-com-deficiencia-intelectual-severa.pdf",
+      "categories": [
+        "Teologia"
+      ],
+      "published_at": 1785283200000,
+      "estimated_reading_time_min": 122,
+      "doi": "10.5281/zenodo.21684711",
+      "license": "ViVe 1.0 — REVISTA VIAE VERITATIS",
+      "journal": "Revista Viae Veritatis (ViVe)",
+      "journal_id": "journal_revista-viae-veritatis",
+      "volume": "1",
+      "volume_id": "vol_revista-viae-veritatis_1",
+      "issue": "1",
+      "pages": "1-52",
+      "e_issn": "3086-7746"
     }
   ]
 }
