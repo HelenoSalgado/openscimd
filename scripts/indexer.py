@@ -2,7 +2,7 @@ import os
 import json
 import time
 from pathlib import Path
-from scripts.utils import parse_markdown_file, is_draft, parse_date_to_timestamp, estimate_reading_time, remove_empty_keys, get_files_recursively
+from scripts.utils import parse_markdown_file, is_draft, parse_date_to_timestamp, estimate_reading_time, remove_empty_keys, get_files_recursively, slugify
 
 GITHUB_USERNAME = 'HelenoSalgado'
 REPO_NAME = 'openscimd'
@@ -15,7 +15,7 @@ def update_articles_index(base_dir):
     
     if not articles_dir.exists():
         print(f"⚠️ Diretório de artigos não encontrado em: {articles_dir}")
-        return
+        return []
         
     existing_index = {'repo_name': 'OpenSciMD', 'type': 'articles', 'last_updated': 0, 'articles': []}
     if index_file.exists():
@@ -31,6 +31,9 @@ def update_articles_index(base_dir):
         if 'remote_url' in art:
             filename = art['remote_url'].split('/')[-1]
             existing_map[filename] = art
+            if '/main/content/articles/' in art['remote_url']:
+                rel = art['remote_url'].split('/main/content/articles/')[-1]
+                existing_map[rel] = art
         if 'id' in art and str(art['id']).startswith('art_'):
             num = int(art['id'][4:])
             if num > max_id_num: max_id_num = num
@@ -38,6 +41,7 @@ def update_articles_index(base_dir):
     updated_articles = []
     for filepath in get_files_recursively(articles_dir):
         file_path = Path(filepath)
+        rel_path = file_path.relative_to(articles_dir).as_posix()
         file_name = file_path.name
         base_name = file_path.stem
         
@@ -45,11 +49,11 @@ def update_articles_index(base_dir):
         metadata, body = parsed['metadata'], parsed['body']
         
         if is_draft(metadata):
-            print(f"⚠️ Ignorando rascunho: {file_name}")
+            print(f"⚠️ Ignorando rascunho: {rel_path}")
             continue
             
-        print(f"📄 Processando artigo: {file_name}")
-        existing = existing_map.get(file_name)
+        print(f"📄 Processando artigo: {rel_path}")
+        existing = existing_map.get(rel_path) or existing_map.get(file_name)
         
         art_id = existing.get('id') if existing else None
         if not art_id:
@@ -71,7 +75,7 @@ def update_articles_index(base_dir):
             first_p = clean_body.split('\n\n')[0] if clean_body else ''
             summary = first_p[:250].strip() + ('...' if len(first_p) > 250 else '')
             
-        remote_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/content/articles/{file_name}"
+        remote_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/content/articles/{rel_path}"
         cover_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/assets/covers/mobile/{base_name}.webp"
         
         pdf_url = None
@@ -89,6 +93,11 @@ def update_articles_index(base_dir):
             published_at = int(file_path.stat().st_mtime * 1000)
             
         est_time = estimate_reading_time(body, DEFAULT_WPM)
+
+        journal_name = metadata.get('journal') or (existing.get('journal') if existing else None)
+        volume_val = metadata.get('volume') if metadata.get('volume') is not None else (existing.get('volume') if existing else None)
+        journal_id = f"journal_{slugify(journal_name)}" if journal_name else None
+        volume_id = f"vol_{slugify(journal_name)}_{volume_val}" if journal_name and volume_val is not None else None
         
         entry = {
             'id': art_id,
@@ -107,11 +116,15 @@ def update_articles_index(base_dir):
             'bbk': metadata.get('bbk') or metadata.get('BBK'),
             'hos': metadata.get('hos') or metadata.get('HoS'),
             'license': metadata.get('license') or metadata.get('licence'),
-            'journal': metadata.get('journal'),
-            'volume': metadata.get('volume'),
-            'issue': metadata.get('issue'),
-            'pages': metadata.get('pages'),
-            'language': metadata.get('language')
+            'journal': journal_name,
+            'journal_id': journal_id,
+            'volume': str(volume_val) if volume_val is not None else None,
+            'volume_id': volume_id,
+            'issue': str(metadata.get('issue')) if metadata.get('issue') is not None else None,
+            'pages': str(metadata.get('pages')) if metadata.get('pages') is not None else None,
+            'language': metadata.get('language'),
+            'e_issn': metadata.get('e_issn') or metadata.get('E_ISSN') or metadata.get('e-issn'),
+            'issn': metadata.get('issn') or metadata.get('ISSN')
         }
         updated_articles.append(remove_empty_keys(entry))
         
@@ -122,6 +135,7 @@ def update_articles_index(base_dir):
         json.dump(existing_index, f, indent=2, ensure_ascii=False)
         f.write('\n')
     print(f"✅ index-articles.json atualizado com sucesso! ({len(updated_articles)} artigos indexados)")
+    return updated_articles
 
 def update_books_index(base_dir):
     print('🔄 Iniciando atualização do index-books.json...')
@@ -234,9 +248,115 @@ def update_books_index(base_dir):
         json.dump(existing_index, f, indent=2, ensure_ascii=False)
         f.write('\n')
     print(f"✅ index-books.json atualizado com sucesso! ({len(updated_books)} livros indexados)")
+    return updated_books
+
+def update_journals_index(base_dir, articles=None):
+    print('🔄 Iniciando atualização do index-journals.json...')
+    articles_file = Path(base_dir) / 'index-articles.json'
+    journals_file = Path(base_dir) / 'index-journals.json'
+    
+    if articles is None:
+        if not articles_file.exists():
+            print(f"⚠️ {articles_file} não encontrado para gerar índice de periódicos.")
+            return
+        try:
+            with open(articles_file, 'r', encoding='utf-8') as f:
+                articles = json.load(f).get('articles', [])
+        except Exception as e:
+            print(f"❌ Erro ao ler {articles_file}: {e}")
+            return
+
+    journals_map = {}
+    for art in articles:
+        journal_name = art.get('journal')
+        if not journal_name:
+            continue
+            
+        j_slug = slugify(journal_name)
+        if j_slug not in journals_map:
+            journals_map[j_slug] = {
+                'id': f"journal_{j_slug}",
+                'name': journal_name,
+                'slug': j_slug,
+                'e_issn': art.get('e_issn'),
+                'issn': art.get('issn'),
+                'volumes_map': {}
+            }
+        else:
+            if not journals_map[j_slug].get('e_issn') and art.get('e_issn'):
+                journals_map[j_slug]['e_issn'] = art.get('e_issn')
+            if not journals_map[j_slug].get('issn') and art.get('issn'):
+                journals_map[j_slug]['issn'] = art.get('issn')
+                
+        volume_val = str(art.get('volume', '1'))
+        v_map = journals_map[j_slug]['volumes_map']
+        if volume_val not in v_map:
+            year = None
+            if art.get('published_at'):
+                year = time.gmtime(art['published_at'] / 1000).tm_year
+            v_map[volume_val] = {
+                'id': f"vol_{j_slug}_{volume_val}",
+                'volume': volume_val,
+                'year': year,
+                'issues_map': {}
+            }
+            
+        issue_val = str(art.get('issue', '1'))
+        iss_map = v_map[volume_val]['issues_map']
+        if issue_val not in iss_map:
+            iss_map[issue_val] = {
+                'issue': issue_val,
+                'articles': []
+            }
+        iss_map[issue_val]['articles'].append(art['id'])
+
+    journals_list = []
+    for j_slug, j_data in sorted(journals_map.items(), key=lambda x: x[1]['name']):
+        volumes_list = []
+        total_arts = 0
+        for v_val, v_data in sorted(j_data['volumes_map'].items(), key=lambda x: (int(x[0]) if x[0].isdigit() else str(x[0]))):
+            issues_list = []
+            for iss_val, iss_data in sorted(v_data['issues_map'].items(), key=lambda x: (int(x[0]) if x[0].isdigit() else str(x[0]))):
+                issues_list.append({
+                    'issue': iss_data['issue'],
+                    'articles': iss_data['articles']
+                })
+                total_arts += len(iss_data['articles'])
+            volumes_list.append({
+                'id': v_data['id'],
+                'volume': v_data['volume'],
+                'year': v_data['year'],
+                'issues': issues_list
+            })
+            
+        journal_entry = {
+            'id': j_data['id'],
+            'name': j_data['name'],
+            'slug': j_data['slug'],
+            'e_issn': j_data['e_issn'],
+            'issn': j_data['issn'],
+            'total_articles': total_arts,
+            'volumes': volumes_list
+        }
+        journals_list.append(remove_empty_keys(journal_entry))
+
+    result = {
+        'repo_name': 'OpenSciMD',
+        'type': 'journals',
+        'last_updated': int(time.time() * 1000),
+        'journals': journals_list
+    }
+
+    with open(journals_file, 'w', encoding='utf-8') as f:
+        json.dump(result, f, indent=2, ensure_ascii=False)
+        f.write('\n')
+    print(f"✅ index-journals.json atualizado com sucesso! ({len(journals_list)} periódicos indexados)")
+    return journals_list
 
 def update_index(base_dir):
     print('🔄 Iniciando atualização geral de índices...')
-    update_articles_index(base_dir)
+    articles = update_articles_index(base_dir)
     update_books_index(base_dir)
+    update_journals_index(base_dir, articles)
     print('✅ Todos os índices atualizados com sucesso!')
+

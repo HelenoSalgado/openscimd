@@ -77,12 +77,25 @@ def remove_empty_keys(d):
         clean[k] = v
     return clean
 
+def slugify(text):
+    if not text:
+        return 'geral'
+    import unicodedata
+    text = unicodedata.normalize('NFKD', str(text)).encode('ascii', 'ignore').decode('ascii')
+    text = text.lower().strip()
+    text = re.sub(r'[\(].*?[\)]', '', text)
+    text = re.sub(r'[^\w\s-]', '', text)
+    text = re.sub(r'[\s_]+', '-', text)
+    return text.strip('-') or 'geral'
+
 def get_files_recursively(directory, extension='.md'):
     results = []
     path = Path(directory)
     if not path.exists():
         return results
-    for p in path.rglob(f'*{extension}'):
+    for p in sorted(path.rglob(f'*{extension}')):
         if p.is_file():
             results.append(str(p))
     return results
+
+

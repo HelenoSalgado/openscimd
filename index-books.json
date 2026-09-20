@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1789019741833,
+  "last_updated": 1789891605520,
   "books": [
     {
       "id": "book_007",
@@ -64,6 +64,26 @@
       ],
       "published_at": 1785987669823,
       "estimated_reading_time_min": 54,
+      "license": "Domínio Público",
+      "language": "pt-BR",
+      "originalLanguage": "en",
+      "translator": "Heleno Salgado"
+    },
+    {
+      "id": "book_019",
+      "title": "Petrus Ramus e a Reforma Educacional do Século XVI",
+      "author": "Frank Pierrepont Graves",
+      "summary": "Estudo histórico-filosófico fundamental de Frank Pierrepont Graves (1912) sobre a vida, os embates acadêmicos e a obra pedagógica de Petrus Ramus (1515–1572), eminente humanista, matemático e professor no Collège Royal de França, que liderou a rebelião contra a escolástica aristotélica no século XVI e estabeleceu novas bases metodológicas para o Trivium e o Quadrivium.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/petrus-ramus/petrus-ramus-e-a-reforma-educacional-do-seculo-xvi.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/petrus-ramus-e-a-reforma-educacional-do-seculo-xvi.webp",
+      "categories": [
+        "História da Educação",
+        "Renascimento",
+        "Humanismo",
+        "Pedagogia"
+      ],
+      "published_at": 1789173917991,
+      "estimated_reading_time_min": 77,
       "license": "Domínio Público",
       "language": "pt-BR",
       "originalLanguage": "en",
@@ -138,7 +158,6 @@
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/cartas.webp",
       "categories": [
         "Patrística",
-        "Padres Apostólicos",
         "Teologia",
         "Eclesiologia",
         "Martírio"
