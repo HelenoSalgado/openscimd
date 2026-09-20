@@ -64,6 +64,38 @@ Assim me parece dever ser reconstruído e restabelecido o caminho que conduziu A
 
 ---
 
+### Notas do Autor
+
+[^1]: Publicado originalmente em Pirożyński 1994: 19–25.
+
+[^2]: Contentando-me aqui com os estudos que pude consultar de imediato durante a redação deste texto, remeto a pouquíssimos aqui e nas notas seguintes. Cf. Düring 1966: 162; Weil 1960: 168–178; Aristoteles 1974: XVII–XIX. Aos quais gostaria de acrescentar também Ingarden 1961: 163–233 e 273–285 (estudo de grande valor, que trata tanto da força e natureza da imitação quanto da mútua relação entre poesia e história, do qual — sendo-me até então desconhecido enquanto escrevia — Jakub Zdzisław Lichański me deu notícia, o que registro com gratidão: quem consultar ambos os trabalhos, o de Ingarden e o meu, verá facilmente onde coincidem e onde divergem).
+
+[^3]: Cf. por ex. Aristoteles 1974: 144–145. Cf. também Idem 1980: 221–222 e Idem 1988: 308–313.
+
+[^4]: Aristoteles 1974: XIV, Idem 1980: 18–22, Idem 1988: 307–313.
+
+[^5]: O sentido do vocábulo, do qual tratamos, é ilustrado generosamente com exemplos na língua grega em qualquer léxico grego mais amplo, tanto recente quanto antigo; cf. por ex. Pape s.v., e Liddell, Scott s.v. Quanto ao sentido especificamente aristotélico, convido a consultar *Eth. Nic.* VI 4, 1140 a 1 sqq. e *Magn. Mor.* I 35, 1197 a 3 sqq.; cf. também Domański 1986: 5–19.
+
+[^6]: Tenho em mente a célebre definição dos escolásticos medievais: *„ars est recta ratio factibilium”*, a qual, de resto, remonta à própria fonte aristotélica, cf. *Eth. Nic.* VI 4, 1140 a 9–10: *ταὐτὸν ἂν εἴη τέχνη καὶ ἕξις μετὰ λόγου ἀληθοῦς*.
+
+[^7]: Cf. *Poet.* 9, 1451 b 28–33, onde se indica que as coisas que realmente aconteceram podem ser expressas pela imitação de modo idêntico àquelas inventadas e excogitadas pelo poeta: *κἂν ἄρα συμβῇ γενόμεna ποιεῖν, οὐθὲν ἧττον ποιητής ἐστι*. Quanto à semelhança que medeia entre o poeta e o escultor, cf. *Metafísica*, Livro VII, cap. 8–9; cf. também Aristoteles 1974: XIV.
+
+[^8]: Sentido vocabular que qualquer léxico grego ilustra em geral com fartos exemplos; o sentido próprio a Aristóteles pode ser encontrado no índice de Bonitz (*Aristotelis Opera omnia*, ed. I. Bekker, vol. V, p. 348 a 60 e b 2–33). Cf. também Weil 1960: 89–95.
+
+[^9]: Aristoteles 1980: 222. Cf. Düring 1966: 422 (n. 135).
+
+[^10]: O fato de que em *Rhet.* I 4, 1360 a 37 sqq. o conhecimento da história seja dito útil à ciência política é afirmado de tal modo que fica evidente ser a história arrolada entre as disciplinas auxiliares da filosofia prática, e não pertencente à própria filosofia política.
+
+[^11]: Cf. Domański 1986: 12–15.
+
+[^12]: Cochrane 1957: 457–468 (especialmente pp. 460–462).
+
+[^13]: O fato de Heródoto ter seguido as pegadas de Anaximandro já foi assinalado há sessenta anos por Sinko 1932: 171.
+
+[^14]: O fato de que a Aristóteles pareceu que as coisas passadas mantêm a mesma natureza que as que se realizam presentemente, deduzo-o de que, ao passo que em 1451 a 36 ocorre *τὰ γενόμενα*, logo em seguida encontramos com sentido exatamente idêntico *τὰ γενόμενα* (1451 b 29, 34: *γενόμενα ποιεῖν*, isto é, imitar ao modo e forma poéticos as coisas já acontecidas ou feitas; e no mesmo passo, linhas 30–33: *τῶν γὰρ γενομένων ἔνια οὐδὲν κωλύει τοιαῦta εἶναι οἷα ἂν εἰκὸς γενέσθαι καὶ δυνατὰ γενέσθαι, καθ’ ὃ ἐκεῖνος αὐτῶν ποιητής ἐστιν*).
+
+---
+
 ### *Conspectus Librorum*
 
 - **Aristoteles**, 1974, *Dell’arte poetica*, ed. C. Gallavotti, Milano.
@@ -97,33 +129,3 @@ Assim me parece dever ser reconstruído e restabelecido o caminho que conduziu A
 - **Weil, R.**, 1960, *Aristote et l’histoire. Essai sur la “Politique”*, Paris.
 
 ---
-
-### Notas do Autor
-
-[^1]: Publicado originalmente em Pirożyński 1994: 19–25.
-
-[^2]: Contentando-me aqui com os estudos que pude consultar de imediato durante a redação deste texto, remeto a pouquíssimos aqui e nas notas seguintes. Cf. Düring 1966: 162; Weil 1960: 168–178; Aristoteles 1974: XVII–XIX. Aos quais gostaria de acrescentar também Ingarden 1961: 163–233 e 273–285 (estudo de grande valor, que trata tanto da força e natureza da imitação quanto da mútua relação entre poesia e história, do qual — sendo-me até então desconhecido enquanto escrevia — Jakub Zdzisław Lichański me deu notícia, o que registro com gratidão: quem consultar ambos os trabalhos, o de Ingarden e o meu, verá facilmente onde coincidem e onde divergem).
-
-[^3]: Cf. por ex. Aristoteles 1974: 144–145. Cf. também Idem 1980: 221–222 e Idem 1988: 308–313.
-
-[^4]: Aristoteles 1974: XIV, Idem 1980: 18–22, Idem 1988: 307–313.
-
-[^5]: O sentido do vocábulo, do qual tratamos, é ilustrado generosamente com exemplos na língua grega em qualquer léxico grego mais amplo, tanto recente quanto antigo; cf. por ex. Pape s.v., e Liddell, Scott s.v. Quanto ao sentido especificamente aristotélico, convido a consultar *Eth. Nic.* VI 4, 1140 a 1 sqq. e *Magn. Mor.* I 35, 1197 a 3 sqq.; cf. também Domański 1986: 5–19.
-
-[^6]: Tenho em mente a célebre definição dos escolásticos medievais: *„ars est recta ratio factibilium”*, a qual, de resto, remonta à própria fonte aristotélica, cf. *Eth. Nic.* VI 4, 1140 a 9–10: *ταὐτὸν ἂν εἴη τέχνη καὶ ἕξις μετὰ λόγου ἀληθοῦς*.
-
-[^7]: Cf. *Poet.* 9, 1451 b 28–33, onde se indica que as coisas que realmente aconteceram podem ser expressas pela imitação de modo idêntico àquelas inventadas e excogitadas pelo poeta: *κἂν ἄρα συμβῇ γενόμεna ποιεῖν, οὐθὲν ἧττον ποιητής ἐστι*. Quanto à semelhança que medeia entre o poeta e o escultor, cf. *Metafísica*, Livro VII, cap. 8–9; cf. também Aristoteles 1974: XIV.
-
-[^8]: Sentido vocabular que qualquer léxico grego ilustra em geral com fartos exemplos; o sentido próprio a Aristóteles pode ser encontrado no índice de Bonitz (*Aristotelis Opera omnia*, ed. I. Bekker, vol. V, p. 348 a 60 e b 2–33). Cf. também Weil 1960: 89–95.
-
-[^9]: Aristoteles 1980: 222. Cf. Düring 1966: 422 (n. 135).
-
-[^10]: O fato de que em *Rhet.* I 4, 1360 a 37 sqq. o conhecimento da história seja dito útil à ciência política é afirmado de tal modo que fica evidente ser a história arrolada entre as disciplinas auxiliares da filosofia prática, e não pertencente à própria filosofia política.
-
-[^11]: Cf. Domański 1986: 12–15.
-
-[^12]: Cochrane 1957: 457–468 (especialmente pp. 460–462).
-
-[^13]: O fato de Heródoto ter seguido as pegadas de Anaximandro já foi assinalado há sessenta anos por Sinko 1932: 171.
-
-[^14]: O fato de que a Aristóteles pareceu que as coisas passadas mantêm a mesma natureza que as que se realizam presentemente, deduzo-o de que, ao passo que em 1451 a 36 ocorre *τὰ γενόμενα*, logo em seguida encontramos com sentido exatamente idêntico *τὰ γενόμενα* (1451 b 29, 34: *γενόμενα ποιεῖν*, isto é, imitar ao modo e forma poéticos as coisas já acontecidas ou feitas; e no mesmo passo, linhas 30–33: *τῶν γὰρ γενομένων ἔνια οὐδὲν κωλύει τοιαῦta εἶναι οἷα ἂν εἰκὸς γενέσθαι καὶ δυνατὰ γενέσθαι, καθ’ ὃ ἐκεῖνος αὐτῶν ποιητής ἐστιν*).

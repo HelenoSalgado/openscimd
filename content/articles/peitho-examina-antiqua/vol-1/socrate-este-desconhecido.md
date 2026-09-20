@@ -156,54 +156,6 @@ Um indício adicional nesse sentido desponta do pouco que sabemos acerca dos gra
 
 ---
 
-### Bibliografia
-
-Benson, H., 1992, *Essays on the Philosophy of Socrates*, Oxford.
-
-Capizzi, A., 1970, *Socrate e i personaggi–filosofi in Platone*, Roma.
-
-Dover, K.J., 1974, *Greek Popular Morality in the Time of Plato and Aristotle*, Oxford [trad. ital. Brescia 1983].
-
-Judson L., Karasmanis V. (eds.), 2006, *Remembering Socrates. Philosophical Essays*, Oxford.
-
-Karasmanis, V. (ed.), 2004, *Socrates 2400 Years after his Death*, Delphi.
-
-Kohan, W.O., 2009, *Sócrates: el enigma de enseñar*, Buenos Aires.
-
-Nightingale, A.W., 1995, *Genres in Dialogue. Plato and the Construct of Philosophy*, Cambridge.
-
-Rossetti, L., 1971, „Recenti sviluppi della questione socratica”, *Proteus* 2 (6), pp. 161—187 [republicado em alemão: Idem, 1987, Neueste Entwicklungen in der sokratische Frage, in: A. Patzer (ed.), *Der historische Sokrates*, Darmstadt, pp. 391—433].
-
-Rossetti, L., 1980, „Ricerche sui ‘dialoghi socratici’ di Fedone e di Euclide”, *Hermes* 108, pp. 183—200.
-
-Rossetti, L., 1991, „Se sia lecito incolpare gli dei (da Omero a Aristotele)”, in: *Studi di Filologia Classica in onore di Giusto Monaco*, vol. I, Palermo, pp. 37—53.
-
-Rossetti, L., 2004, “The Sokratikoi Logoi as a Literary Barrier. Toward the Identification of a Standard Socrates Through the Dialogues”, in: V. Karasmanis (ed.), *Socrates 2400 Years Since His Death*, Athens, pp. 81—94.
-
-Rossetti, L., 2006, „Oltre il demonstrandum. La dimensione metacognitiva dei testi paradossali nell’età dei Sofisti”, *Méthexis* 19, pp. 125—138.
-
-Rossetti, L., 2008a, „El ‘drama filosófico’, invención del s. V a.C. (Zenón y los Sofistas)”, *Revista de Filosofia de la Univ. de Costa Rica* 46, pp. 29—38.
-
-Rossetti, L., 2008b, „Socrate enkrates”, *Zbornik Matice srpske za klasicne studije* 10, pp. 65—79.
-
-Rossetti, L., 2008c, „Sócrates y la cultura del autocontrol”, *Limes* 20, pp. 39—52.
-
-Rossetti, L., 2008d, „Savoir imiter c’est connaître: le cas de Mémorables III, 8”, in: M. Narcy et A. Tordesillas (eds.), *Xénophon et Socrate. Actes du colloque d’Aix–en–Provence*, Paris, pp. 111—127.
-
-Rossetti, L., 2010, „Socrate ha segnato un’epoca?”, in: C. Fornis, J. Gallego, P. López Barja et M. Valdés (eds.), *Dialéctica histórica y compromiso social. Homenaje a Domingo Plácido*, Zaragoza, pp. 191—204.
-
-Rossetti, L., 2011, *Le dialogue socratique*, Paris.
-
-Roustang, F., 2009, *Le secret de Socrate pour changer la vie*, Paris.
-
-Santas, G.X., 1979, *Socrates. Philosophy in Plato’s Early Dialogues*, London.
-
-Sarri, F., 1975, *Socrate e la genesi storica dell’idea occidentale di anima*, Roma.
-
-Vlastos, G., 1991, *Socrates, Ironist and Moral Philosopher*, Cambridge.
-
----
-
 ### Notas do Autor
 
 [^1]: Trata-se de Rossetti 2010 (na verdade, algumas passagens são aqui retomadas *verbatim*).
@@ -265,3 +217,53 @@ Vlastos, G., 1991, *Socrates, Ironist and Moral Philosopher*, Cambridge.
 [^29]: Trecho incluído em SSR VI A 50: ᾿Εγὼ δ’ εἰ μέν τινι τέχνῃ ᾤμην δύνασθαι ὠφελῆσαι, πάνυ ἂν πολλὴν ἐμαυτοῦ μωρίαν κατεγίγνωσκον· νῦν δὲ θείᾳ μοίρᾳ ᾤμην μοι τοῦτο δεδόσθαι ἐπ’ ᾿Αλκιβιάδην… πολλοὶ γὰρ καὶ τῶν καμνόντων ὑγιεῖς γίγνονται οἱ μὲν ἀνθρωπίνῃ τέχνῃ, οἱ δὲ θείᾳ μοίρᾳ. ὅσοι μὲν οὖν ἀνθρωπίνῃ τέχνῃ, ὑπὸ ἰατρῶν θεραπευόμενοι, ὅσοι δὲ θείᾳ μοίρᾳ, ἐπιθυμία αὐτοὺς ἄγει ἐπὶ τὸ ὀνῆσον· καὶ τότε ἐπεθύμησαν ἐμέσαι, ὁπότε αὐτοῖς ἔμελλε συνοίσειν, καὶ τότε κυνηγετῆσαι, ὁπότε συνοίσειν ἔμελλε πονῆσαι.
 
 [^30]: Aludo apenas, com isso, a um tema árduo, sobre o qual, recentemente, Roustang (2009) escreveu observações significativas.
+
+---
+
+### Bibliografia
+
+Benson, H., 1992, *Essays on the Philosophy of Socrates*, Oxford.
+
+Capizzi, A., 1970, *Socrate e i personaggi–filosofi in Platone*, Roma.
+
+Dover, K.J., 1974, *Greek Popular Morality in the Time of Plato and Aristotle*, Oxford [trad. ital. Brescia 1983].
+
+Judson L., Karasmanis V. (eds.), 2006, *Remembering Socrates. Philosophical Essays*, Oxford.
+
+Karasmanis, V. (ed.), 2004, *Socrates 2400 Years after his Death*, Delphi.
+
+Kohan, W.O., 2009, *Sócrates: el enigma de enseñar*, Buenos Aires.
+
+Nightingale, A.W., 1995, *Genres in Dialogue. Plato and the Construct of Philosophy*, Cambridge.
+
+Rossetti, L., 1971, „Recenti sviluppi della questione socratica”, *Proteus* 2 (6), pp. 161—187 [republicado em alemão: Idem, 1987, Neueste Entwicklungen in der sokratische Frage, in: A. Patzer (ed.), *Der historische Sokrates*, Darmstadt, pp. 391—433].
+
+Rossetti, L., 1980, „Ricerche sui ‘dialoghi socratici’ di Fedone e di Euclide”, *Hermes* 108, pp. 183—200.
+
+Rossetti, L., 1991, „Se sia lecito incolpare gli dei (da Omero a Aristotele)”, in: *Studi di Filologia Classica in onore di Giusto Monaco*, vol. I, Palermo, pp. 37—53.
+
+Rossetti, L., 2004, “The Sokratikoi Logoi as a Literary Barrier. Toward the Identification of a Standard Socrates Through the Dialogues”, in: V. Karasmanis (ed.), *Socrates 2400 Years Since His Death*, Athens, pp. 81—94.
+
+Rossetti, L., 2006, „Oltre il demonstrandum. La dimensione metacognitiva dei testi paradossali nell’età dei Sofisti”, *Méthexis* 19, pp. 125—138.
+
+Rossetti, L., 2008a, „El ‘drama filosófico’, invención del s. V a.C. (Zenón y los Sofistas)”, *Revista de Filosofia de la Univ. de Costa Rica* 46, pp. 29—38.
+
+Rossetti, L., 2008b, „Socrate enkrates”, *Zbornik Matice srpske za klasicne studije* 10, pp. 65—79.
+
+Rossetti, L., 2008c, „Sócrates y la cultura del autocontrol”, *Limes* 20, pp. 39—52.
+
+Rossetti, L., 2008d, „Savoir imiter c’est connaître: le cas de Mémorables III, 8”, in: M. Narcy et A. Tordesillas (eds.), *Xénophon et Socrate. Actes du colloque d’Aix–en–Provence*, Paris, pp. 111—127.
+
+Rossetti, L., 2010, „Socrate ha segnato un’epoca?”, in: C. Fornis, J. Gallego, P. López Barja et M. Valdés (eds.), *Dialéctica histórica y compromiso social. Homenaje a Domingo Plácido*, Zaragoza, pp. 191—204.
+
+Rossetti, L., 2011, *Le dialogue socratique*, Paris.
+
+Roustang, F., 2009, *Le secret de Socrate pour changer la vie*, Paris.
+
+Santas, G.X., 1979, *Socrates. Philosophy in Plato’s Early Dialogues*, London.
+
+Sarri, F., 1975, *Socrate e la genesi storica dell’idea occidentale di anima*, Roma.
+
+Vlastos, G., 1991, *Socrates, Ironist and Moral Philosopher*, Cambridge.
+
+---

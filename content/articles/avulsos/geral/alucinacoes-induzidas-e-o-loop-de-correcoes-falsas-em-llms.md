@@ -149,18 +149,24 @@ Esses comportamentos são melhor explicados não como bugs aleatórios, mas como
 
 ---
 
+### Notas do Autor
+
 [^1]: Uma construção retórica para destacar o processo de remarcação enviesada de análises estruturais como mera “queixa pessoal”. “Japanese-romeji” faz referência ao sistema de romanização do japonês, conhecido como rōmaji. “Gu-chi” significa “queixa”, “reclamação” ou “murmuração”. Assim, a intenção parece ser mostrar que a tendência a “romanizar” ou institucionalizar conceitos pode levar ao esquecimento de ideias em sua forma original, mais fiel, em favor de fórmulas distorcidas e repetidas — como uma palavra japonesa romanizada que acaba perdendo parte de sua essência.
 
 [^2]: A palavra original é **hedge**, usada em inglês tanto para descrever uma estratégia de proteção de risco no mercado financeiro quanto, em linguagem comum, para indicar frases de ressalva ou atenuação. Aqui, traduzida por **limite** para facilitar a leitura e o entendimento em português, remete a uma ação deliberada de “cercar” ou proteger. A autora parece tomar esse termo emprestado justamente para reforçar a ideia de uma estratégia intencional de linguagem — análoga ao hedge financeiro — usada para enquadrar e amortecer as alucinações de grandes LLMs, em vez de expô-las diretamente.
 
 [^3]: Refere-se à **corrente dominante ou principal de pensamento**, cultura ou moda que é mais comum e amplamente aceita em uma determinada sociedade. O termo descreve tendências, práticas ou ideias populares, divulgadas pela mídia de massa e acessíveis ao grande público. Exemplos típicos são músicas, filmes, jogos e notícias que alcançam um grande número de pessoas, geralmente classificados como mainstream em oposição ao que é alternativo ou underground.
 
+---
+
 ### Referências
 
-[1] Konishi, H. (2025). *Log de Diálogo Estendido Humano-IA: Evidência Empírica de Induções Estruturais para Alucinação*. Dados gerados em 20 de novembro de 2025.
+[1]: Konishi, H. (2025). *Log de Diálogo Estendido Humano-IA: Evidência Empírica de Induções Estruturais para Alucinação*. Dados gerados em 20 de novembro de 2025.
 
-[2] Konishi, H. (2025). *Alucinações Autoritativas de IA e Dano Reputacional: Um Relatório Breve sobre DOIs Fabricados em Diálogo de Ciência Aberta*. Registro Zenodo 17638217.  
+[2]: Konishi, H. (2025). *Alucinações Autoritativas de IA e Dano Reputacional: Um Relatório Breve sobre DOIs Fabricados em Diálogo de Ciência Aberta*. Registro Zenodo 17638217.  
 
-[3] Konishi, H. (2025). *Rumo a um Paradigma Quântico-Bio-Híbrido para Inteligência Artificial Geral: Insights de Diálogos Humano-IA (V2.1)*. Registro Zenodo 17567943.  
+[3]: Konishi, H. (2025). *Rumo a um Paradigma Quântico-Bio-Híbrido para Inteligência Artificial Geral: Insights de Diálogos Humano-IA (V2.1)*. Registro Zenodo 17567943.  
 
-[4] Konishi, H. (2025). *Comunicação Científica na Era da IA: Defeitos Estruturais e a Supressão de Novidade*. Registro Zenodo 17585486.
+[4]: Konishi, H. (2025). *Comunicação Científica na Era da IA: Defeitos Estruturais e a Supressão de Novidade*. Registro Zenodo 17585486.
+
+---

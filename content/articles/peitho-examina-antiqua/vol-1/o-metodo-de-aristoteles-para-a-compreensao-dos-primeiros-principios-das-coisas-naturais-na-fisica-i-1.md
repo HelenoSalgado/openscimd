@@ -153,61 +153,9 @@ O método aristotélico de investigação dos princípios das coisas naturais na
 
 Simplício[^77] oferece uma explicação razoável desse procedimento em seu comentário: as coisas compostas ou compostos são mais cognoscíveis para nós do que seus constituintes que são simples, porque, por um lado, passamos a conhecer as coisas compostas pela percepção — uma faculdade compartilhada por todos os seres humanos —, e o conhecimento perceptivo (o conhecimento derivado da percepção) é mais acessível e familiar para nós do que qualquer outra forma de conhecimento; e, por outro lado, é natural alcançar o conhecimento das coisas simples — isto é, dos princípios —, iniciando nossa investigação pelos compostos.
 
-## Referências
-
-Angioni, L. 2001. “Explanation and Definition in *Physics* I. 1”. *Apeiron* 34: 307–320.
-
-Barnes, J. 1975. “Aristotle’s Theory of Demonstration”. Em: J. Barnes, M. Schofield, R. Sorabji (eds.), *Articles on Aristotle, Vol. 1: Science*: 65–87. London. [*Phronesis* 14 (1969): 123–152].
-
-Barnes, J. 1994. *Aristotle, Posterior Analytics, Translated with a Commentary*. 2ª ed. Oxford.
-
-Bayer, G. 1997. “Coming to Know Principles in *Posterior Analytics* II. 19”. *Apeiron* 30: 109–142.
-
-Bolton, R. 1991. “Aristotle’s Method in Natural Science: *Physics* I”. Em: L. Judson (ed.), *Aristotle’s Physics: A Collection of Essays*: 1–29. Oxford.
-
-Charlton, W. 1992. *Aristotle’s Physics, Books I and II, Translation with Introduction, Commentary*. Oxford.
-
-Eustratius. 1907. *In Analyticorum Posteriorum II*, CAG XXI 1, ed. M. Hayduck. Berlin.
-
-Fritsche, J. 1986. *Methode und Beweisziel im ersten Buch der „Physikvorlesung“ des Aristoteles*. Frankfurt.
-
-Horstschäfer, T. M. 1998. *Eine Untersuchung zur methodischen und inhaltlichen Geschlossenheit des ersten Buches der Physik des Aristoteles*. Berlin–New York.
-
-Irwin, T. H. 1988. *Aristotle’s First Principles*. Oxford.
-
-Kirwan, C. 1993. *Aristotle, Metaphysics, Books Γ, Δ, and E, Translated with Notes*. 2ª ed. Oxford.
-
-Kullmann, W. 1975. “Zur wissenschaftlichen Methode des Aristoteles”. Em: G. A. Seeck (Hrsg.), *Die Naturphilosophie des Aristoteles*: 301–338. Darmstadt.
-
-Modrak, D. K. W. 1987. *Aristotle, The Power of Perception*. Chicago–London.
-
-Osborne, C. 2006. *Philoponus, On Aristotle Physics 1. 1–3*. London.
-
-Owen, G. E. L. 1986. “Τithenai ta phainomena”. Em: M. C. Nussbaum (ed.), *Logic, Science, and Dialectic: Collected Papers in Greek Philosophy*: 239–251. Ithaca.
-
-Philoponus. 1887. *In Physicorum I–III*, CAG XVI, ed. H. Vitelli. Berlin.
-
-Philoponus. 1909. *In Analytica Posteriora cum Anonymo*, CAG XIII 3, ed. M. Wallies. Berlin.
-
-Pietsch, C. 1992. *Prinzipienfindung bei Aristoteles*. Stuttgart.
-
-Ross, W. D. 1936. *Aristotle’s Physics, A Revised Text with Introduction and Commentary*. Oxford.
-
-Seidl, H. 1995. *Beiträge zu Aristoteles’ Naturphilosophie*. Amsterdam–Atlanta.
-
-Simplicius. 1882. *In Physicorum I–IV*, CAG IX, ed. H. Diels. Berlin.
-
-Wagner, H. 1967. *Aristoteles Physikvorlesung, Übersetzung*. Darmstadt.
-
-Waterfield, R. 1996. *Aristotle, Physics, Translation, Introduction and Notes*. Oxford.
-
-Wieland, W. 1962. *Die aristotelische Physik, Untersuchungen über die Grundlegung der Naturwissenschaft und die sprachlichen Bedingungen der Prinzipienforschung bei Aristoteles*. Göttingen.
-
-Wieland, W. 1975. “Aristotle’s *Physics* and the Problem of Inquiry into the Principles”. Em: J. Barnes, M. Schofield, R. Sorabji (eds.), *Articles on Aristotle, Vol. 1: Science*: 127–140. London.
-
 ---
 
-### Notas
+### Notas do Autor
 
 [^1]: Todas as referências ao Comentário de Filopono à *Física* I.1 de Aristóteles indicam a página e a linha da Edição da Academia de Berlim (CAG XVI) e seguem a tradução de Osborne 2006. Ver Filopono *in Phys.* 3.14–25.
 
@@ -362,3 +310,59 @@ Wieland, W. 1975. “Aristotle’s *Physics* and the Problem of Inquiry into the
 [^76]: Filopono *in Phys.* 7.25–32.
 
 [^77]: Simplício *in Phys.* 16.8–12.
+
+---
+
+### Referências
+
+Angioni, L. 2001. “Explanation and Definition in *Physics* I. 1”. *Apeiron* 34: 307–320.
+
+Barnes, J. 1975. “Aristotle’s Theory of Demonstration”. Em: J. Barnes, M. Schofield, R. Sorabji (eds.), *Articles on Aristotle, Vol. 1: Science*: 65–87. London. [*Phronesis* 14 (1969): 123–152].
+
+Barnes, J. 1994. *Aristotle, Posterior Analytics, Translated with a Commentary*. 2ª ed. Oxford.
+
+Bayer, G. 1997. “Coming to Know Principles in *Posterior Analytics* II. 19”. *Apeiron* 30: 109–142.
+
+Bolton, R. 1991. “Aristotle’s Method in Natural Science: *Physics* I”. Em: L. Judson (ed.), *Aristotle’s Physics: A Collection of Essays*: 1–29. Oxford.
+
+Charlton, W. 1992. *Aristotle’s Physics, Books I and II, Translation with Introduction, Commentary*. Oxford.
+
+Eustratius. 1907. *In Analyticorum Posteriorum II*, CAG XXI 1, ed. M. Hayduck. Berlin.
+
+Fritsche, J. 1986. *Methode und Beweisziel im ersten Buch der „Physikvorlesung“ des Aristoteles*. Frankfurt.
+
+Horstschäfer, T. M. 1998. *Eine Untersuchung zur methodischen und inhaltlichen Geschlossenheit des ersten Buches der Physik des Aristoteles*. Berlin–New York.
+
+Irwin, T. H. 1988. *Aristotle’s First Principles*. Oxford.
+
+Kirwan, C. 1993. *Aristotle, Metaphysics, Books Γ, Δ, and E, Translated with Notes*. 2ª ed. Oxford.
+
+Kullmann, W. 1975. “Zur wissenschaftlichen Methode des Aristoteles”. Em: G. A. Seeck (Hrsg.), *Die Naturphilosophie des Aristoteles*: 301–338. Darmstadt.
+
+Modrak, D. K. W. 1987. *Aristotle, The Power of Perception*. Chicago–London.
+
+Osborne, C. 2006. *Philoponus, On Aristotle Physics 1. 1–3*. London.
+
+Owen, G. E. L. 1986. “Τithenai ta phainomena”. Em: M. C. Nussbaum (ed.), *Logic, Science, and Dialectic: Collected Papers in Greek Philosophy*: 239–251. Ithaca.
+
+Philoponus. 1887. *In Physicorum I–III*, CAG XVI, ed. H. Vitelli. Berlin.
+
+Philoponus. 1909. *In Analytica Posteriora cum Anonymo*, CAG XIII 3, ed. M. Wallies. Berlin.
+
+Pietsch, C. 1992. *Prinzipienfindung bei Aristoteles*. Stuttgart.
+
+Ross, W. D. 1936. *Aristotle’s Physics, A Revised Text with Introduction and Commentary*. Oxford.
+
+Seidl, H. 1995. *Beiträge zu Aristoteles’ Naturphilosophie*. Amsterdam–Atlanta.
+
+Simplicius. 1882. *In Physicorum I–IV*, CAG IX, ed. H. Diels. Berlin.
+
+Wagner, H. 1967. *Aristoteles Physikvorlesung, Übersetzung*. Darmstadt.
+
+Waterfield, R. 1996. *Aristotle, Physics, Translation, Introduction and Notes*. Oxford.
+
+Wieland, W. 1962. *Die aristotelische Physik, Untersuchungen über die Grundlegung der Naturwissenschaft und die sprachlichen Bedingungen der Prinzipienforschung bei Aristoteles*. Göttingen.
+
+Wieland, W. 1975. “Aristotle’s *Physics* and the Problem of Inquiry into the Principles”. Em: J. Barnes, M. Schofield, R. Sorabji (eds.), *Articles on Aristotle, Vol. 1: Science*: 127–140. London.
+
+---

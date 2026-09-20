@@ -215,20 +215,6 @@ No *Fédon*, Platão retrata Sócrates expondo suas quatro célebres provas em f
 
 ---
 
-## Bibliografia
-
-- **Alsberg, M.**, 1933, *Der Prozess des Sokrates im Lichte moderner Jurisprudenz und Psychologie*, Mannheim.
-- **Beys, K.**, 2001a, *Der Prozess des Sokrates*, Athen.
-- **Beys, K.**, 2001b, *The Trial of Socrates*, Athens.
-- **Beys, K.**, 2001c, *Le procès de Socrate*, Athènes.
-- **Böhme, G.**, 1998, *Der Typ Sokrates*, Frankfurt a. M.
-- **Gigon, O.**, 1994, *Sokrates, sein Bild in Dichtung und Geschichte*, Tübingen und Basel.
-- **Lipsius, J. H.**, 1908, *Das attische Recht und Rechtserfahren mit Benutzung des Attischen Prozesses*, Leipzig.
-- **Mossé, C.**, 1999, *Der Prozess des Sokrates*, Herder — Spektrum.
-- **Thür, G.**, 2000, *Das Gerichtswesen Athens im 4. Jahrhundert v. Chr.*, München.
-
----
-
 ### Notas Editoriais
 
 [^ne1]: O presente artigo, de autoria do jurista e helenista Kostas E. Beys (Universidade de Atenas), foi originalmente redigido em alemão e traduzido para o polonês por Ewa Różalska, com revisão e acréscimos filológicos de Marian Wesoły, para o periódico *Peitho / Examina Antiqua*, Vol. 1, N.º 1 (2010), pp. 45–56. Esta edição crítica em língua portuguesa baseia-se diretamente na matriz desse periódico acadêmico.
@@ -250,3 +236,19 @@ No *Fédon*, Platão retrata Sócrates expondo suas quatro célebres provas em f
 [^7]: Também Platão, embora manifestasse profundo desencanto com as oscilações da democracia de massas, situava o império incondicional da lei acima de todas as paixões e facções humanas (veja-se *Carta VIII*, 355 e; 356 a–d).
 
 [^8]: Assim Ateneu (*Banquete dos Eruditos*, V, 58, 20), a despeito de sua conhecida prevenção crítica em relação a Sócrates, expressou inequívoco apreço por sua integridade cívica ao atuar como prítane e presidente da comissão da assembleia, quando se opôs resolutamente à instauração de um processo coletivo sumário e ilegal contra os estrategos vencedores da batalha das Arginusas que não conseguiram resgatar os náufragos e recolher os mortos da tempestade.
+
+---
+
+## Bibliografia
+
+- **Alsberg, M.**, 1933, *Der Prozess des Sokrates im Lichte moderner Jurisprudenz und Psychologie*, Mannheim.
+- **Beys, K.**, 2001a, *Der Prozess des Sokrates*, Athen.
+- **Beys, K.**, 2001b, *The Trial of Socrates*, Athens.
+- **Beys, K.**, 2001c, *Le procès de Socrate*, Athènes.
+- **Böhme, G.**, 1998, *Der Typ Sokrates*, Frankfurt a. M.
+- **Gigon, O.**, 1994, *Sokrates, sein Bild in Dichtung und Geschichte*, Tübingen und Basel.
+- **Lipsius, J. H.**, 1908, *Das attische Recht und Rechtserfahren mit Benutzung des Attischen Prozesses*, Leipzig.
+- **Mossé, C.**, 1999, *Der Prozess des Sokrates*, Herder — Spektrum.
+- **Thür, G.**, 2000, *Das Gerichtswesen Athens im 4. Jahrhundert v. Chr.*, München.
+
+---

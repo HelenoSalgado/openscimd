@@ -196,6 +196,8 @@ Parece que Ramus não desejava criticar Cícero de forma direta, embora Cícero 
 
 ---
 
+### Notas do Autor
+
 [^1]: Adams, J. C. (1990). Gabriel Harvey's *Ciceronianus* and the place of Peter Ramus' *Dialecticae libri duo* in the curriculum. *Renaissance Quarterly*, 43, 551–569.
 
 [^2]: Bizzell, P., & Herzberg, B. (Eds.). (1990). *The Rhetorical Tradition*. Boston: Bedford Books.
@@ -228,3 +230,5 @@ Parece que Ramus não desejava criticar Cícero de forma direta, embora Cícero 
 [^16]: Walton, C. (1970). Ramus and the art of judgment. *Philosophy and Rhetoric*, 3, 152–164.
 
 [^17]: Yates, F. A. (1966). *The Art of Memory*. Chicago, IL: The University of Chicago Press.
+
+---

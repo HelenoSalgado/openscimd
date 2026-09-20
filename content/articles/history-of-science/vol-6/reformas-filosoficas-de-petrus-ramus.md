@@ -122,7 +122,9 @@ Abdullazade, D., & Malikov, A. [2025]. Reformas filosóficas de Petrus Ramus: a 
 https://doi.org/10.33864/2790-0037.2025.v6.i5.101-112
 ```
 
-## Referências
+---
+
+### Notas do Autor
 
 [^1]: Aristotle. (1912). *Organon* (R. B. Johns, Trad.). Cambridge, MA: Harvard University Press, 434 p. (em inglês).
 
@@ -143,3 +145,5 @@ https://doi.org/10.33864/2790-0037.2025.v6.i5.101-112
 [^9]: Wittgenstein, L. (1953). *Philosophical Investigations* (G. E. M. Anscombe, Trad.). Oxford: Blackwell, 250 p. (em inglês).
 
 [^10]: Wormald, J., Court, K., & Community. (2018). *Court, Kirk, and Community: Scotland, 1470–1625*. Edinburgh University Press, 280 p. (em inglês).
+
+---

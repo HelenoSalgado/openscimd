@@ -84,7 +84,9 @@ Várias das considerações críticas foram ainda desenvolvidas e ficaram expres
 > 
 > Finalmente, encontrei um livro de Galeno sobre o pensamento de Hipócrates e Platão. Esse paralelo entre Platão e Hipócrates deu-me grande prazer, mas inspirou-me um ainda maior desejo de ler todos os diálogos de Platão que tratavam de dialética. Foi então, para dizer a verdade, que cheguei ao tão desejado porto… Aquilo que especialmente apreciei, e mesmo gostei, em Platão, foi o método pelo qual Sócrates refutou falsas opiniões, tentando, antes de mais, despertar os seus ouvintes acima dos sentidos, preconceitos e tradições dos homens, a fim de os encaminhar para o seu próprio senso natural de direito e de liberdade de julgamento. Pareceu-lhe insano que um filósofo pudesse permitir-se agir de acordo com as opiniões das massas, que no mais das vezes são falsas e enganadoras, ao invés de se aplicar a verificar apenas os factos e as suas verdadeiras causas. Em suma, comecei a dizer a mim mesmo (deveria ter hesitado em dizê-lo a outrem): *‘Bem, o que me impede de 'socratizar' um pouco, e de examinar, independentemente da autoridade de Aristóteles, se a doutrina da sua dialética é a mais verdadeira e útil? Talvez esse filósofo tenha abusado de nós pela sua autoridade, e, nesse caso, eu não precisaria de estar surpreendido por ter estudado pelos seus livros sem deles tirar qualquer lucro, quando eles não continham nenhum… E se essa doutrina fosse uma desilusão?’* (RAMUS cit. GRAVES, 1912, p. 23-25, grifo do autor).
 
-## REFERÊNCIAS
+---
+
+## Referências
 
 DESCARTES, René. **Regras para a direção do espírito.** Lisboa: Edições 70, 1989 [1628].
 
@@ -113,3 +115,5 @@ SELLBERG, Erland. Petrus Ramus. In: **Stanford Encyclopedia of Philosophy.** Sta
 TRICHE, Stephen; MCKNIGHT, Douglas. The quest for method: the legacy of Peter Ramus. **History of Education,** v. 33, n. 1, p. 39-54, 2004.
 
 VARELA, Julia. Genealogy of education. In: POPKEWITZ, Thomas S.; FRANKLYN, Barry M.; PEREYRA, Miguel A. (ed.). **Cultural history and education.** Nova Iorque: Routledge Falmer, 2001. p. 109-124.
+
+---

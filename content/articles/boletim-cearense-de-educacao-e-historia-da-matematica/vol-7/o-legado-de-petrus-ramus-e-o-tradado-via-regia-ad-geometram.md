@@ -156,7 +156,7 @@ Por fim, gostaríamos de agradecer a Universidade Estadual do Ceará (UECE) pelo
 
 ---
 
-## Notas
+## Notas do Autor
 
 [^1]: Era um corpo de conhecimentos matemáticos do período medieval, referentes às quatro áreas consideradas matemáticas como a astronomia, aritmética, geometria e música (SAITO, 2015).
 
@@ -169,6 +169,8 @@ Por fim, gostaríamos de agradecer a Universidade Estadual do Ceará (UECE) pelo
 [^5]: O termo obscuridade é empregado aqui como uma característica atribuída a maneira como as matemáticas eram apresentadas no programa acadêmico das universidades, de forma conceitual e teórica, sendo até acusada de não ter utilidade (PEREIRA; SAITO, 2018).
 
 [^6]: Em 1636, a obra foi traduzida para a língua inglesa e publicada por William Bedwell em Londres.
+
+---
 
 ## Referências
 
@@ -187,3 +189,5 @@ RAMUS, Petrus. Via regia ad geometriam: The way to geometry. Londres: Thomas Cot
 SAITO, Fumikazu. História da matemática e suas (re)construções contextuais. São Paulo: LF – Editorial, 2015. 259 p. (História da Matemática para Professores)
 
 SAITO, Fumikazu; PEREIRA, Ana Carolina Costa. A elaboração de atividades com um antigo instrumento matemático na interface entre história e ensino. São Paulo: LF - Editorial, 2019. 88 p. (História da matemática e da educação matemática para o ensino).
+
+---

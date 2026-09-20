@@ -290,185 +290,368 @@ Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como
 
 ---
 
+### Notas do Autor
+
 [^1]: O email e o ORCID do autor deste artigo foram incorporados nos metadados expansíveis do topo.
+
 [^2]: Hancock 1989.
+
 [^3]: Gorski 2003.
+
 [^4]: Biéler 2005.
+
 [^5]: Walzer 1976.
+
 [^6]: Leith 1989.
+
 [^7]: García Alonso 2008.
+
 [^8]: Strohl 1930: 126-144.
+
 [^9]: Engammare 1998: 207-228.
+
 [^10]: Para uma análise da vida e obra de Ramus, bem como para um balanço bibliográfico, que não podemos explicar detalhadamente aqui, remetemos ao nosso estudo Ramis Barceló 2016.
+
 [^11]: Citado em Miller 1967: 116.
+
 [^12]: Varamundo 1573: LIII.
+
 [^13]: Strohm 2004: 65-105. Vejam-se especialmente as páginas 93-99, nas quais o ramismo é apresentado como uma corrente do calvinismo.
+
 [^14]: Oldrini 1997: 107-112.
+
 [^15]: Ramus 1566: 2.
+
 [^16]: Rami 1576.
+
 [^17]: Ibídem: 6.
+
 [^18]: Ong 2004: 5.
+
 [^19]: Kingdon 1967: 96 e ss.
+
 [^20]: Maruyama 1978: 106-109.
+
 [^21]: Pode ver-se Scattola 2003.
+
 [^22]: Rami 1551: 25.
+
 [^23]: Rami 1553: 164-165.
+
 [^24]: Ramus 1557: 271.
+
 [^25]: Rami 1569a: 4.
+
 [^26]: Ibídem: 38.
+
 [^27]: Ramus 1569b: 72-73.
+
 [^28]: Strohm 1999: 352-371.
+
 [^29]: Ramus 1601.
+
 [^30]: Sharratt 1997: 137-184.
+
 [^31]: Ibídem: 153-156.
+
 [^32]: Ramus 1601. Prefácio.
+
 [^33]: Sobre o ramismo de Bodin, veja-se Couzinet 1996.
+
 [^34]: Vasoli 2008: 79-101.
+
 [^35]: Mazzacane 1971: 3-30. Veja-se também Ramis Barceló 2016: 130-139.
+
 [^36]: Talæi 1575: 271.
+
 [^37]: Freigii 1582.
+
 [^38]: Ibídem: 293.
+
 [^39]: Freigii 1578: 25.
+
 [^40]: Birocchi 1997: 165.
+
 [^41]: Hotson 2007: 71-79.
+
 [^42]: Freigius 1578: epist. dedic. f. 7r.
+
 [^43]: Freigii 1584.
+
 [^44]: Snellii 1595.
+
 [^45]: Veja-se, por exemplo: [Anônimo] 1588: 17 e 71.
+
 [^46]: Feuardentius 1604.
+
 [^47]: Ibídem: 174.
+
 [^48]: Feingold 2001: 127-176.
+
 [^49]: Ames 1968: 226.
+
 [^50]: Sobre Perkins, veja-se Patterson 2014.
+
 [^51]: Sprunger 1972.
+
 [^52]: Adrián Lara 2015. Veja-se especialmente o cap. 9.
+
 [^53]: Amesii 1633: 31.
+
 [^54]: Parkeri 1638.
+
 [^55]: Ibídem: 96-97.
+
 [^56]: Hoeveler 2002.
+
 [^57]: O último trabalho que lemos nesta direção é Mueller 2010.
+
 [^58]: Strohm 1996.
+
 [^59]: Baschera 2013: 519-552.
+
 [^60]: Daneaus 1596.
+
 [^61]: Hotson 2007: 101-108.
+
 [^62]: Sobre o ramismo em Herborn e acerca destes autores, veja-se Ramis Barceló 2016: 160-167 e 175-180.
+
 [^63]: Althusius 1586.
+
 [^64]: Althusius 1603.
+
 [^65]: Althusius 1614.
+
 [^66]: Hattenhauer 2009: 239-261.
+
 [^67]: Ong 1958: 521.
+
 [^68]: Kechermannus 1608.
+
 [^69]: Hoenius 1608.
+
 [^70]: Ibídem: II, 262.
+
 [^71]: Ibídem: 37. «*Creantur autem Doctores vel in sapientia divina vel humana, id est, Jurisprudentia et Medicina. 41. Soli Philosophi gradu magisterii ornantur, illi scilite, qui Platonis, Ciceronis, Aristotelis, Petri Rami et caetera philosophiam accuratè didicerunt*».
+
 [^72]: Hoenius 1608: II, 2.
+
 [^73]: Freedman 1988: especialmente 264-275.
+
 [^74]: Timplerus 1608.
+
 [^75]: Ong 1958: 531, considera-o semirramista com matizes.
+
 [^76]: Gelderen 2002: I, 195-217 (especialmente 205-206).
+
 [^77]: Alstedii 1630: vol. IV.
+
 [^78]: Ibídem: 1338.
+
 [^79]: Ibídem: 1447.
+
 [^80]: Stolleis 1988: 119-122.
+
 [^81]: As críticas de Arnisaeus contra Ramus e os ramistas (contra Bodin, Althusius…) foram frequentes. Veja-se Arnissaeus 1606.
+
 [^82]: Veja-se Dreitzel 2006 e Carvajal Aravena 2006: 551-576.
+
 [^83]: Veja-se especialmente Hotson 2007: 111-118.
+
 [^84]: Besoldi 1620.
+
 [^85]: Besoldi 1648: 204.
+
 [^86]: Dreitzel 1983: 135-172.
+
 [^87]: Kippingi 1667.
+
 [^88]: Ibídem: 9.
+
 [^89]: Bruyère 1983: 157-173.
+
 [^90]: Ramis Barceló 2016: 208-212.
+
 [^91]: Thomasius 1719: 90-91.
+
 [^92]: Brunnemanno 1702.
+
 [^93]: Berman 2003: 112-113 e 423-424.
+
 [^94]: Kelley 1994: 66-94. Vejam-se particularmente as páginas 86-91.
+
 [^95]: Kingdon 1991: 193-218.
+
 [^96]: Kingdon 1990: 41-55. Veja-se especialmente a página 54.
+
 [^97]: Turchetti 2014: 107-149. A citação está na página 148: «*...siamo di fronte a due correnti di pensiero che si richiamano al calvinismo e che si battono per il proprio riconoscimento, nel regno di Francia in particolare: uno per la resistenza, sulla scia di Bèze-Buchanan-Jurieu, l’altro, per la tolleranza, sulla scia di Castellione-Grozio-Bayle. E Calvino? Da qual lato si sarebbe posto?*».
+
 [^98]: Rivera García 1999.
+
 [^99]: Adrián Lara 2015: especialmente o cap. 9.
+
+---
 
 ## Bibliografia
 
 [Anônimo]. 1588. *Discours politique, tres-excellent pour le temps present: composé par un gentilhomme Francois, contre ceulx de la Ligue, qui taschoyent de persuader au Roy, de rompre l’Alliance qu’il a auec l’Angleterre, et la confirmer auec l’Espaigne*: s. l.
+
 Adrián Lara, L. 2015. *Dialéctica y calvinismo. Una reflexión desde la teoría política*. Madrid: Centro de Estudios Políticos y Constitucionales.
+
 Alstedii, J. H. 1630 [1388-1504]. *Encyclopaedia septem tomis distinct*. Herbornae Nassoviorum: [Corvinus]. vol. IV.
+
 Althusius, I. 1586. *Iuris Romani Libri duo: ad leges Methodi Rameae conformati*. Basileae: Ad Lecythum Waldkirchianam.
+
 Althusius, I. 1603. *Politica Methodicè digesta atque exemplis sacris et profanis illustrata*. Herbonae Nassoviorum: s. e.
+
 Althusius, I. 1614. *Politica Methodicè digesta atque exemplis sacris et profanis illustrata. Praefatio*, s. f. Herbonae Nassoviorum: [Corvinus].
+
 Ames, W. 1968. *The Marrow of Theology*. Boston: Pilgrim Press. [trans. J. D. Eusden].
+
 Amesii, G. 1633. *Technometria, omnium et singularum artium fines adæquate circumscribens*. Londini: Milo Flesher.
+
 Arnissaeus, H. 1606. *Doctrina politica in genuinam methodum, quae est Aristotelis reducta*. Fracofurti: Johennes Thiemen.
+
 Baschera, L. 2013. «Ethics in Reformed Orthodoxy», em H. Selderhuis (ed.), *A Companion to Reformed Orthodoxy*: 519-552. Leiden: Brill.
+
 Berman, H. J. 2003. *Law and Revolution, II: The Impact of the Protestant Reformations on the Western Legal Tradition*. Cambridge, MA: Harvard U. P.
+
 Besoldi, C. 1620. *Politicorum libro duo*. Francofurti: In bibliopolio Johan. Alexandri Cellii.
+
 Besoldi, C. 1648. *Synopsis politicae doctrinae*. Amstelodami: apud Jodocum Janssonium. [Editio sexta].
+
 Biéler, A. 2005. *Calvin’s Economic and Social Thought*. Geneva: World Alliance of Reformed Churches and World Council of Churches.
+
 Birocchi, I. 1997. *Causa e categoria del contratto. Un problema dogmatico nella cultura privatistica dell’età modern, I. Il cinquecento*. Torino: Giappichielli.
+
 Brunnemanno, I. 1702. *Introductio in iuris publici prudentiam. Monita*, s. f. Halae Magdeburgicae: sumptibus J. F. Zeitleri.
+
 Bruyère, N. 1983. «Leibniz, lecteur de Ramus». *Studia Leibnitiana*. Suppl. 23: 157-173.
+
 Carvajal Aravena, P. 2006. «La ‘Staatslehre’ de H. Arnisaeus (1575-1636) y la ‘Schule von Helmstedt’». *Revista de Estudios Histórico-Jurídicos* 27: 551-576.
+
 Couzinet, M. D. 1996. *Histoire et methode a la Renaissance: une lecture de la Methodus ad facilem historiarum cognitionem de Jean Bodin*. Paris: Vrin.
+
 Daneaus, L. 1596. *Politices Christianae libri VII, additi sunt peculiares aphorismi de optimo principe et eius officio ex C. Plinij panegyrico ad Trojanum*. s. l. Eustath: Vignon.
+
 Dreitzel, H. 1983. «Hermann Conring und die Politishe Wissenschaft seiner Zeit», em M. Stolleis (ed.), *Hermann Conring (1606-1681): Beiträge zu Leben und Werk*: 135-172. Berlin: Duncker & Humblot.
+
 Dreitzel, H. 2006. *Protestantischer Aristotelismus und Absoluter Staat. Die Politica des Henning Arnisaeus (ca. 1575-1636)*. Wiesbaden: Veröffentlichungen des Instituts für Europäische Geschichte Mainz.
+
 Engammare, M. 1998. «Calvin monarchomaque? Du soupçon à l’argument». *Archiv fur Reformationgeschichte* 89: 207-228.
+
 Feingold, M. 2001. «English Ramism: A Reinterpretation», em M. Feingold, J. S. Freedman y W. Rother (eds.), *The Influence of Petrus Ramus*: 127-176. Basle: Schwabe.
+
 Feuardentius, F. 1604. *Theomachia Calvinistica: sedecim libris profligata*. Parisiis: Apud Sebastianum Nivellium.
+
 Freedman, J. S. 1988. *European Academic Philosophy in the Late Sixteenth and Early-Seventeenth-Centuries. The Life, Significance and Philosophy of Clemens Timpler 1563/4-1624*. Hildesheim: Georg Olms.
+
 Freigii, I. T. 1578. *Quaestiones oeconomicae et politicae. Cum alijs quibusdam (eiusdem argumenti) doctorum uirorum commentationibus*. Basileae: per Sebastianum Henricpetri.
+
 Freigii, I. T. 1582. *Paedogogus: Hoc est, libellus ostendens qua ratione prima artium initia pueris quàm facillime tradi possint*. Basileae: per Sebastianum Henricpetri.
+
 Freigii, I. T. 1584. *Quæstiones Eothinai kai Deilinai seu logicæ et ethicæ, cum analysi logica, ethica et politica in 15 Ciceronis orationes*. Basileae: per Sebastianum Henricpetri.
+
 Freigii, I. T. 1578. *Quaestiones Justinianeae in Institutiones juris Civilis*. Basileae: per Sebastianum Henricpetri.
+
 García Alonso, M. 2008. *La teología política de Calvino*. Barcelona: Anthropos.
+
 Gelderen, M. 2002. «Aristotelians, Monarchomachs and Republicans: Sovereignty and respublica mixta in Dutch and German Political Thought, 1580-1650», em M. van Gelderen y Q. Skinner (eds.), *Republicanism: A Shared European Heritage: I*, 195-217. Cambridge: Cambridge U. P.
+
 Gorski, P. 2003. *The Disciplinary Revolution. Calvinism and the Rise of the State in Early Modern Europe*. Chicago: Chicago U. P.
+
 Hancock, R. 1989. *Calvin and the Foundations of Modern Politics*. Ithaca-Londres: Cornell U. Press.
+
 Hattenhauer, C. 2009. «Johannes Althusius, Petrus Ramus und die Systematisierung der kaufrechtlichen Sachmängelhaftung», em C. Strohm y H. de Wall (eds.), *Konfessionalität und Jurisprudenz in der frühen Neuzeit*: 239-261. Berlin: Dunker & Humblot.
+
 Hoenius, P. H. 1608. *Libri duo disputationum: prior politicarum methodice digestarum, posterior iuridicarum ad selectas aliquot pandectarum materias*. Herbonae Nassoviorum: s. e.
+
 Hoeveler, J. D. 2002. *Creating the American Mind: Intellect and Politics in the Colonial Colleges*. Lanham: Rowman & Littlefield.
+
 Hotson, H. 2007. *Commonplace Learning: Ramism and its German Ramifications 1543-1630*. Oxford: Oxford U. P.
+
 Kechermannus, B. 1608. *Systema disciplinae politicae, publicis praelectionibus anno MDCVI propositum in gymnasio Dantisca*. Hanoviae: apud Guilielmum Antonium.
+
 Kelley, D. R. 1994. «Law», em J. H. Burns (ed.), *The Cambridge History of Political Thought, 1450-1700*: 66-94. Cambridge: Cambridge U. P.
+
 Kingdon, R. M. 1967. *Geneva and the Consolidation of the French Protestant Movement, 1564-1572: A Contribution to the History of Congregationalism, Presbyterianism and Calvinist Resistance Theory*. Genève: Droz.
+
 Kingdon, R. M. 1990. «Calvin et la démocratie», em P. Viallaneix (éd.), *Réforme et Révolutions. Aux origines de la démocratie moderne*: 41-55. Montpellier: Presses du Languedoc.
+
 Kingdon, R. M. 1991. «Calvinism and resistance theory, 1550-1580», em *The Cambridge History of Political Thought 1450-1700*: 193-218.
+
 Kippingi, H. 1667. *Institutiones politicae methodicae libri duo sumptibus*. Bremae et Francofurdi: Erhardi Bergeri.
+
 Leith, J. H. 1989. *John Calvin’s Doctrine of the Christian Life*. Louisville: Westminster-John Knox Press.
+
 Maruyama, T. 1978. *The Ecclesiology of Theodore Beza: The Reform of the True Church*. Genève: Droz.
+
 Mazzacane, A. 1971. *Scienza, Logica e Ideologia nella Giurisprudenza tedesca del secolo XVI*. Milano: Giuffrè.
+
 Miller, P. 1967. *The New England Mind. The seventeenth century*. Cambridge, MA: Harvard U. P.
+
 Mueller, L. J. 2010. *The logic of American exceptionalism: Petrus Ramus, the Puritans, and contemporary American politics*. Illinois: Southern Illinois University. [M. A. Thesis in Philosophy].
+
 Oldrini, G. 1997. *La disputa del metodo nel Rinascimento. Indagini su Ramo e sul ramismo*. Firenze: Le Lettere.
+
 Ong, W. 1958. *Ramus and Talon Inventory*. Cambridge, MA: Harvard U. P.
+
 Ong, W. 2004 [1958]. *Ramus, Method, and the Decay of Dialogue: From the Art of Discourse to the Art of Reason*. Chicago: Chicago U. P.
+
 Parkeri, R. 1638. *De politeia ecclesiastica: libri duo*. s. l.
+
 Patterson, W. B. 2014. *William Perkins and the Making of a Protestant England*. New York: Oxford U. P.
+
 Rami, P. 1551. *Pro philosophica parisiensis academiae disciplina oratio, ad Carolum Lotharingum cardinalem*. Parisiis: ex officina Ludouici Grandini.
+
 Rami, P. 1553. *Institutionvm Dialecticarvm Libri Tres, Ad Carolum Lotharingum Cardinalem, Avdomari Talaei praelectionibus illustrati*. Lugduni: Apud Guglielmum Rouillium.
+
 Rami, P. 1569a. *Scholae in liberales artes*. Basileae: per Eusebium Episcopium.
+
 Rami, P. 1576. *Commentariorum de religione christiana libri quatuor*. Francofurti: apud Andrem Wechelum.
+
 Ramis Barceló, R. 2016. *Petrus Ramus y el derecho. Los juristas ramistas del siglo XVI*. Madrid: Dykinson.
+
 Ramus, P. 1557. *Ciceronianus, ad Carolum Lotharingium Cardinalem*. Parisiis: Apud Andream Vechelum.
+
 Ramus, P. 1566. *Dialecticae libri duo*. Parisiis: apud Andream Wechelum.
+
 Ramus, P. 1569b. *Scholarum mathematicarum, libri unus et triginta*. Basileae: Eusebius Episcopius et Nicolai Fratris haeredes.
+
 Ramus, P. 1601. *Aristotelis Politica, à Petro Ramo... latina facta, et dialecticis rerum summis breuiter exposita et illustrata*. Francofurti: Typis Wechelianis apud C. Marnium et heredes I. Aubrij.
+
 Rivera García, A. 1999. *Republicanismo calvinista*. Murcia: Res Publica.
+
 Scattola, M. 2003. *Dalla virtù alla scienza: la fondazione e la trasformazione della disciplina politica nell’età moderna*. Milano: Franco Angeli.
+
 Sharratt, P. 1997. «Ramus’s Engagement with Aristotle’s Politics», em K. Meerhoff y J. C. Moisan (eds.), *Autour de Ramus. Texte, théorie, commentaire*: 137-184. [Québec:] Nuit Blanche.
+
 Snellii, R. 1595. *Commentarius doctissimus in dialecticam Petri Rami forma dialogi conscriptus etc. Textu Rameorecens per singulacapita praefixo. Accessit ejusdem Snelli Ethica, methodo Ramea conscripta*. Herbonae: Christophorus Corvinus.
+
 Sprunger, K. L. 1972. *The Learned Doctor William Ames. Dutch Backgrounds of English and American Puritanism*. Urbana: University of Illinois Press.
+
 Stolleis, M. 1988. *Geschichte des öffentlichen Rechts in Deutschland: Erster Band, 1600-1800*. München: Beck.
+
 Strohl, H. 1930. «Le Droit à la résistance d’après les conceptions protestantes». *Revue d’histoire et de philosophie religieuses* 10: 126-144.
+
 Strohm, C. 1996. *Ethik im frühen Calvinismus*. Berlin: Walter de Gruyter.
+
 Strohm, C. 1999. «Theologie und Zeitgeist. Beobachtungen zum Siegeszug der Methode des Petrus Ramus am Beginn der Moderne». *Zeitschrift für Kirchengeschichte* 110: 352-371.
+
 Strohm, C. 2004. «Methodology in Discussion of ‘Calvin and Calvinism’», em H. J. Selderhuis (ed.), *Calvinus Præceptor Ecclesiæ. Papers of the International Congress on Calvin Research, Princeton, August 20-24, 2002*: 65-105. Genf: Droz.
+
 Talæi, A. 1575. *Quem Petri Rami Theseum dicere iure possis, Opera elegantioris methodicæ philosophiæ studiosis pernecessaria*. Basileae: ex officina Petri Pernae.
+
 Thomasius C. 1719. *Paulo plenior historia juris naturalis, cum duplici appendice*. Halae Magdeburgicae: impensis Christophori Salfeldii.
+
 Timplerus, C. 1608. *Philosophiae Practicae Systema Methodicum*. Hanoviae: apud Guilielmum Antonium.
+
 Turchetti, M. 2014. «Il contributo di Calvino e del calvinismo alla nascita della democrazia moderna». *Protestantesimo* 69: 107-149.
+
 Varamundo, E. 1573 [F. Hotman] *De Furoribus Gallicis*. Edimburgi.
+
 Vasoli, C. 2008. «Il metodo ne La République», em *Armonia e Giustizia. Studi sulle idee filosofiche di Jean Bodin*: 79-101. Firenze: Leo S. Olschki,
+
 Walzer, M. 1976. *The Revolution of the Saints. A Study of Origins of Radical Politics*. New York: Atheneum.
+
+---

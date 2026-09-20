@@ -94,72 +94,6 @@ Em conclusão, compreendemos que tal premissa se impôs aos filósofos da Estoa 
 
 ---
 
-### Bibliografia
-
-Alexander Aphrodisias, 1892, *De fato*, I. Bruns (ed.), Berlin.
-
-Besnier, B., 2003, “La conception stoïcienne de la matière,” *Revue de métaphysique et de morale* 1, pp. 51–64.
-
-Brouwer, R., 2020, “Why Human Beings Become Bad. The Early Stoic Doctrine of Double Perversion,” *ΠΗΓΗ/FONS* 5, pp. 61–82.
-
-Cicero, M. T., 1915, *De fato*, C. F. W. Mueller (ed.), Leipzig.
-
-Cicero, M. T., 1931, *De finibus*, H. Rackham (ed.), London.
-
-Clement of Alexandria, 1960, *Stromata*, O. Stählin (ed.), Berlin.
-
-Cramer, J. A. (ed.), 1844, *Anecdota graeca*, Oxford.
-
-Diogenes Laertius, 1958, *Lives of Eminent Philosophers*, R. D. Hicks (ed.), London – Cambridge.
-
-Edelstein, L., 1966, *The Meaning of Stoicism*, London.
-
-Epictetus, 1956, *Discourses*, vol. I, W. A. Oldfather (ed.), London – Cambridge.
-
-Epictetus, 1959, *Manual and Fragments*, vol. II, W. A. Oldfather (ed.), London – Cambridge.
-
-Frede, M., 2007, “The ἐφ᾽ ἡμῖν in Ancient Philosophy,” in: E. Moutsopoulos, M. Protopapas-Marneli (eds.), *Necessity, Chance, Freedom in Ancient Philosophy, Proceedings*, Athens, pp. 110–123.
-
-Galen, 1981, *De Placitis Hippocratis et Platonis*, Ph. De Lacy (ed.), Berlin.
-
-Gigon, O., 1995, *Socrates. Sein Bild in Dichtung und Geschichte* (trad. grega: *Σωκράτης, η εικόνα του στην ποίηση και στην ιστορία*), Athens.
-
-Konstan, D., 2011, “Excerpting as a Reading Practice,” in: *Thinking Through Excerpts: Studies in Stobaeus*, G. Reydams-Schils (ed.), Turnhout, pp. 9–22.
-
-Long, A. A., 1986 (1974), *Hellenistic Philosophy: Stoics, Epicureans, Sceptics*, London – California.
-
-Long, A. A., 2001, “The Harmonics of Stoic Virtue,” in: *Stoic Studies*, A. A. Long (ed.), California, pp. 202–223.
-
-Long, A. A., Vertzagia, D., 2020, “Antiquity Revisited: A Discussion with Anthony Arthur Long,” *Conatus – Journal of Philosophy* 5 [1], pp. 111–122.
-
-Pigeaud, J., 2006³, *La maladie de l’âme. Étude sur la relation de l’âme et du corps dans la tradition médico-philosophique antique*, Paris.
-
-Plato, 1924, *Euthydemus*, W. R. M. Lamb (ed.), London – New York.
-
-Plato, 1956, *Protagoras*, M. Ostwald (transl.), G. Vlastos (ed. e intr.), Indianapolis.
-
-Plato, 2004, *Republic*, C. D. C. Reeve (ed.), Indianapolis – Cambridge.
-
-Plato, 2008, *Timaeus*, R. Waterfield (ed.), Oxford.
-
-Plutarch, 1959, *De Stoicorum Repugnantiis*, M. Pohlenz (ed.), Lipsiae.
-
-Protopapas-Marneli, M., 2014, “La théologie stoïcienne et l’Hymne à Zeus de Cléanthe,” *Xώρα – REAM* 12, pp. 229–247.
-
-Reesor, M. E., 1951, “The ‘Indifferents’ of the Old and Middle Stoa,” *Transactions and Proceedings of the American Philological Association* 82, pp. 102–110.
-
-Sénèque, 1993, *Lettres à Lucilius*, P. Veyne (ed.), Paris.
-
-Sextus Empiricus, 1967, *Against the Logicians*, R. G. Bury (ed.), London – Cambridge.
-
-Stobaeus, 1884, *Eclogae*, C. Wachsmuth, O. Hense (eds.), Berlin.
-
-The National Museum of Greece, s.d., consultado em 12 de outubro de 2024: <https://www.namuseum.gr/en/collection/ellinistiki-periodos-2/>.
-
-Zeller, E., 1880, *The Stoics, Epicureans and Sceptics*, trad. O. J. Reichel, London.
-
----
-
 ### Notas do Autor
 
 [^1]: Este texto é dedicado com gratidão a Livio Rossetti, grande mestre da Filosofia Antiga e eterno amigo.
@@ -261,3 +195,71 @@ Zeller, E., 1880, *The Stoics, Epicureans and Sceptics*, trad. O. J. Reichel, Lo
 [^49]: D.L. VII 127: ὁ μὲν (Χρύσιππος) ἀποβλητὴν (τὴν ἀρετήν) διὰ μέθην καὶ μελαγχολίαν.
 
 [^50]: D.L. VII 118: (τὸν σοφὸν) καὶ οἰνωθήσεσθαι μέν, οὐ μεθυσθήσεσθαι δέ. ἔτι δὲ οὐδὲ μανήσεσθαι· προσπεσεῖσθαι μέντοι ποτὲ αὐτῷ φαντασίας ἀλλοκότους διὰ μελαγχολίαν ἢ λήρησιν, οὐ κατὰ τὸν τῶν αἱρετῶν λόγον, ἀλλὰ παρὰ φύσιν.
+
+---
+
+### Bibliografia
+
+Alexander Aphrodisias, 1892, *De fato*, I. Bruns (ed.), Berlin.
+
+Besnier, B., 2003, “La conception stoïcienne de la matière,” *Revue de métaphysique et de morale* 1, pp. 51–64.
+
+Brouwer, R., 2020, “Why Human Beings Become Bad. The Early Stoic Doctrine of Double Perversion,” *ΠΗΓΗ/FONS* 5, pp. 61–82.
+
+Cicero, M. T., 1915, *De fato*, C. F. W. Mueller (ed.), Leipzig.
+
+Cicero, M. T., 1931, *De finibus*, H. Rackham (ed.), London.
+
+Clement of Alexandria, 1960, *Stromata*, O. Stählin (ed.), Berlin.
+
+Cramer, J. A. (ed.), 1844, *Anecdota graeca*, Oxford.
+
+Diogenes Laertius, 1958, *Lives of Eminent Philosophers*, R. D. Hicks (ed.), London – Cambridge.
+
+Edelstein, L., 1966, *The Meaning of Stoicism*, London.
+
+Epictetus, 1956, *Discourses*, vol. I, W. A. Oldfather (ed.), London – Cambridge.
+
+Epictetus, 1959, *Manual and Fragments*, vol. II, W. A. Oldfather (ed.), London – Cambridge.
+
+Frede, M., 2007, “The ἐφ᾽ ἡμῖν in Ancient Philosophy,” in: E. Moutsopoulos, M. Protopapas-Marneli (eds.), *Necessity, Chance, Freedom in Ancient Philosophy, Proceedings*, Athens, pp. 110–123.
+
+Galen, 1981, *De Placitis Hippocratis et Platonis*, Ph. De Lacy (ed.), Berlin.
+
+Gigon, O., 1995, *Socrates. Sein Bild in Dichtung und Geschichte* (trad. grega: *Σωκράτης, η εικόνα του στην ποίηση και στην ιστορία*), Athens.
+
+Konstan, D., 2011, “Excerpting as a Reading Practice,” in: *Thinking Through Excerpts: Studies in Stobaeus*, G. Reydams-Schils (ed.), Turnhout, pp. 9–22.
+
+Long, A. A., 1986 (1974), *Hellenistic Philosophy: Stoics, Epicureans, Sceptics*, London – California.
+
+Long, A. A., 2001, “The Harmonics of Stoic Virtue,” in: *Stoic Studies*, A. A. Long (ed.), California, pp. 202–223.
+
+Long, A. A., Vertzagia, D., 2020, “Antiquity Revisited: A Discussion with Anthony Arthur Long,” *Conatus – Journal of Philosophy* 5 [1], pp. 111–122.
+
+Pigeaud, J., 2006³, *La maladie de l’âme. Étude sur la relation de l’âme et du corps dans la tradition médico-philosophique antique*, Paris.
+
+Plato, 1924, *Euthydemus*, W. R. M. Lamb (ed.), London – New York.
+
+Plato, 1956, *Protagoras*, M. Ostwald (transl.), G. Vlastos (ed. e intr.), Indianapolis.
+
+Plato, 2004, *Republic*, C. D. C. Reeve (ed.), Indianapolis – Cambridge.
+
+Plato, 2008, *Timaeus*, R. Waterfield (ed.), Oxford.
+
+Plutarch, 1959, *De Stoicorum Repugnantiis*, M. Pohlenz (ed.), Lipsiae.
+
+Protopapas-Marneli, M., 2014, “La théologie stoïcienne et l’Hymne à Zeus de Cléanthe,” *Xώρα – REAM* 12, pp. 229–247.
+
+Reesor, M. E., 1951, “The ‘Indifferents’ of the Old and Middle Stoa,” *Transactions and Proceedings of the American Philological Association* 82, pp. 102–110.
+
+Sénèque, 1993, *Lettres à Lucilius*, P. Veyne (ed.), Paris.
+
+Sextus Empiricus, 1967, *Against the Logicians*, R. G. Bury (ed.), London – Cambridge.
+
+Stobaeus, 1884, *Eclogae*, C. Wachsmuth, O. Hense (eds.), Berlin.
+
+The National Museum of Greece, s.d., consultado em 12 de outubro de 2024: <https://www.namuseum.gr/en/collection/ellinistiki-periodos-2/>.
+
+Zeller, E., 1880, *The Stoics, Epicureans and Sceptics*, trad. O. J. Reichel, London.
+
+---

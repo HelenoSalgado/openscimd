@@ -3,21 +3,15 @@ title: "A Prática de Cantatas e Concertos no Culto Público: Uma Tríplice Queb
 authors:
   - name: "Murilo Dumps"
     orcid: "0009-0005-2291-6313"
-    email: "pracademica@irse.com.br"
+    email: "murilodumpsfinger@gmail.com"
     affiliation: "Instituto Reformado Santo Evangelho (IRSE)"
 summary: "O presente artigo examina criticamente a introdução de cantatas, concertos e apresentações musicais no culto público cristão à luz do Princípio Regulador do Culto, conforme compreendido pela tradição reformada confessional. Sustenta-se que tais práticas representam uma tríplice violação desse princípio. Primeiramente, ao substituir a participação ativa da congregação por apresentações especializadas, comprometem o exercício do sacerdócio universal dos crentes e convertem o culto em espetáculo. Em segundo lugar, ao privilegiarem composições humanas em detrimento do cântico da Palavra inspirada, afastam-se da suficiência do conteúdo determinado por Deus para o louvor público. Por fim, ao reintroduzirem aparato instrumental e elementos próprios da economia cerimonial veterotestamentária, desconsideram o cumprimento dessas figuras em Cristo e a simplicidade prescrita para o culto da Nova Aliança. O estudo desenvolve sua argumentação mediante análise exegética das Escrituras, diálogo com a Confissão de Fé de Westminster, referências à tradição reformada e exame das principais objeções contemporâneas, concluindo que a preservação da pureza do culto exige estrita submissão às prescrições divinas e rejeição das inovações litúrgicas fundamentadas na criatividade humana."
 date: "2026-08-06"
 license: "CC BY 4.0"
-pages: "1-15"
-volume: 1
-issue: "1"
 DOI: "10.5281/zenodo.21762396"
-journal: "Revista Viae Veritatis (ViVe)"
 language: "pt-BR"
-
 categories:
   - Teologia
-
 keywords:
   - Princípio Regulador do Culto
   - Liturgia Reformada
@@ -160,24 +154,11 @@ Nessa perspectiva, o debate acerca das cantatas e dos concertos ultrapassa o cam
 
 A exortação profética de Jeremias permanece, portanto, plenamente atual: “Ponde-vos nos caminhos, e vede, e perguntai pelas veredas antigas, qual é o bom caminho, e andai por ele; e achareis descanso para as vossas almas” (Jr 6:16). A verdadeira reforma do culto não consiste na multiplicação de formas, recursos ou expressões artísticas, mas no retorno constante à Palavra de Deus como única regra infalível de fé, prática e adoração. Somente quando a Igreja reconhece que o culto pertence ao Senhor e se submete integralmente à Sua vontade revelada pode prestar-Lhe a adoração que Ele mesmo instituiu e aceita.
 
-## Referências
-
-- ASSEMBLEIA DE WESTMINSTER. **Confissão de Fé de Westminster**.
-- BÍBLIA. **Bíblia Sagrada**. Tradução Almeida Corrigida Fiel. São Paulo: Sociedade Bíblica Trinitariana do Brasil, 2011.
-- BUSHELL, Michael. **Songs of Zion: The Biblical Basis for Exclusive Psalmody**. 4. ed. Norfolk, VA: Norfolk Press, 2011.
-- CALVINO, João. **A Instituição da Religião Cristã**. São Paulo: UNESP, 2007. 2 v.
-- CALVINO, João. **Comentário aos Salmos**. São José dos Campos: Editora Fiel, 2009.
-- MARQUES, Edson. **A Revolução Wattsiana e o Declínio da Salmodia Exclusiva**. São Lourenço, MG, 2024. E-book.
-- MARQUES, Edson; MARQUES, Joyce Carolina Braga. **Os Cânticos do Senhor: Um Tratado sobre a Doutrina Bíblica da Salmodia Exclusiva**. Recife, PE: Editora Pactuante, 2022.
-- SCHWERTLEY, Brian M. **Salmodia Exclusiva: Uma Defesa Bíblica**. [S.l.: s.n.], 2002.
-- SCHWERTLEY, Brian M. **Sola Scriptura e o Princípio Regulador do Culto**. São Paulo: Editora Os Puritanos, 2001.
-- SOUSA, Plínio. **A estrutura triádica de Efésios 5:19 e Colossenses 3:16**. Instituto Reformado Santo Evangelho (IRSE). Material de circulação interna, 2025.
-
 ---
 
 [^1]: DOI: https://doi.org/10.5281/zenodo.21762396.
 
-[^2]: Docente e Pesquisador do Instituto Reformado Santo Evangelho (IRSE); Colunista e Jornalista (DRT nº 0013618/PR) do Jornal Vetera (JV). Mestre em Teologia pelo Instituto Reformado Santo Evangelho (IRSE). Pós-graduado em Finanças Corporativas e Mercado Financeiro, Administração Pública, Educação Cristã e Ensino Religioso. Licenciado em Letras (Português e Inglês). Bacharel em Ciências Contábeis. Tecnólogo em Logística. Atualmente, cursa Licenciatura em Filosofia e Bacharelado em Ciências Econômicas. E–mail: pracademica@irse.com.br
+[^2]: Pesquisador independente nas áreas de Teologia e Filosofia. Pós-graduado em Finanças Corporativas e Mercado Financeiro, Administração Pública, Educação Cristã e Ensino Religioso. Licenciado em Letras (Português e Inglês). Bacharel em Ciências Contábeis. Tecnólogo em Logística. Graduando em Ciências Econômicas. E–mail: murilodumpsfinger@gmail.com
 
 [^3]: A expressão *Ecclesia reformata, semper reformanda secundum Verbum Dei* (“Igreja reformada, sempre sendo reformada segundo a Palavra de Deus”) sintetiza um princípio amplamente reconhecido na tradição reformada: a Igreja, embora reformada em sua doutrina e confissão, permanece continuamente obrigada a examinar e corrigir sua fé, seu culto e sua prática à luz da autoridade suprema das Sagradas Escrituras. A máxima não legitima revisões doutrinárias motivadas por mudanças culturais, mas afirma a constante sujeição da Igreja ao juízo normativo da Palavra de Deus.
 
@@ -202,3 +183,20 @@ A exortação profética de Jeremias permanece, portanto, plenamente atual: “P
 [^13]: A compreensão reformada acerca da descontinuidade do uso de instrumentos musicais entre o culto do Antigo e do Novo Testamento encontra relevante respaldo histórico. Embora existam debates acerca de referências isoladas à música instrumental em determinados contextos, amplo consenso historiográfico reconhece que o culto ordinário da Igreja dos primeiros séculos caracterizava-se predominantemente pelo canto vocal, entendido como a forma própria da adoração da Nova Aliança. Diversos Pais da Igreja interpretaram os instrumentos mencionados no Saltério de maneira tipológica ou alegórica, compreendendo-os como figuras das realidades espirituais inauguradas em Cristo, e não como prescrições permanentes para o culto cristão. No Ocidente, a introdução do órgão ocorreu apenas séculos mais tarde, de forma gradual, alcançando ampla difusão somente durante a Idade Média. Em reação a esse desenvolvimento, diversos reformadores entenderam que a Reforma deveria restaurar não apenas a pureza doutrinária da Igreja, mas também a simplicidade do culto apostólico. João Calvino rejeitou o uso de instrumentos musicais no culto ordinário por considerá-los elementos tipológicos vinculados ao sistema levítico já cumprido em Cristo. John Knox preservou a mesma orientação na Igreja da Escócia, e a maioria dos puritanos ingleses adotou idêntico entendimento, compreendendo que o culto da Nova Aliança deveria limitar-se aos elementos positivamente instituídos por Deus em Sua Palavra. Desse modo, a oposição reformada ao uso de instrumentos musicais no culto público não decorreu de uma objeção estética à música instrumental nem de uma rejeição ao seu uso em outros contextos da vida cristã. Fundamentou-se, antes, na convicção teológica de que os instrumentos pertenciam ao aparato cerimonial da Antiga Aliança e, não tendo sido renovados por instituição apostólica, não deveriam integrar os elementos ordinários do culto público da Nova Aliança. Essa compreensão harmoniza-se com o Princípio Regulador do Culto, segundo o qual somente aquilo que Deus instituiu em Sua Palavra possui autoridade para integrar a adoração pública da Igreja.
 
 [^14]: A expressão “devoção voluntária” (Colossenses 2:23) não significa que o Apóstolo Paulo condene a voluntariedade do ato religioso, pois toda verdadeira obediência deve proceder de um coração voluntário (Salmos 110:3). O objeto de sua censura não é a disposição interior do adorador, mas a origem normativa da própria prática religiosa. O vocábulo grego ἐθελοθρησκεία (*ethelothrēskeia*) designa uma forma de culto ou religião cuja norma procede da iniciativa humana, e não da instituição divina. O defeito, portanto, não reside na sinceridade subjetiva da devoção, mas na autoridade que determina sua forma. Sempre que o homem estabelece por si mesmo aquilo que oferecerá a Deus como culto, ainda que o faça com zelo, reverência ou sincera intenção, substitui a vontade revelada de Deus pela própria vontade, produzindo precisamente aquilo que Paulo denomina “devoção voluntária”. Sob essa perspectiva, Colossenses 2:23 constitui um dos principais fundamentos neotestamentários do Princípio Regulador do Culto. Tal princípio não representa mera tradição eclesiástica da Reforma, mas uma aplicação da convicção apostólica de que a adoração pública deve ser determinada exclusivamente pela vontade revelada de Deus, e não pela criatividade, prudência ou iniciativa religiosa do homem.
+
+---
+
+## Referências
+
+- ASSEMBLEIA DE WESTMINSTER. **Confissão de Fé de Westminster**.
+- BÍBLIA. **Bíblia Sagrada**. Tradução Almeida Corrigida Fiel. São Paulo: Sociedade Bíblica Trinitariana do Brasil, 2011.
+- BUSHELL, Michael. **Songs of Zion: The Biblical Basis for Exclusive Psalmody**. 4. ed. Norfolk, VA: Norfolk Press, 2011.
+- CALVINO, João. **A Instituição da Religião Cristã**. São Paulo: UNESP, 2007. 2 v.
+- CALVINO, João. **Comentário aos Salmos**. São José dos Campos: Editora Fiel, 2009.
+- MARQUES, Edson. **A Revolução Wattsiana e o Declínio da Salmodia Exclusiva**. São Lourenço, MG, 2024. E-book.
+- MARQUES, Edson; MARQUES, Joyce Carolina Braga. **Os Cânticos do Senhor: Um Tratado sobre a Doutrina Bíblica da Salmodia Exclusiva**. Recife, PE: Editora Pactuante, 2022.
+- SCHWERTLEY, Brian M. **Salmodia Exclusiva: Uma Defesa Bíblica**. [S.l.: s.n.], 2002.
+- SCHWERTLEY, Brian M. **Sola Scriptura e o Princípio Regulador do Culto**. São Paulo: Editora Os Puritanos, 2001.
+- SOUSA, Plínio. **A estrutura triádica de Efésios 5:19 e Colossenses 3:16**. Instituto Reformado Santo Evangelho (IRSE). Material de circulação interna, 2025.
+
+---

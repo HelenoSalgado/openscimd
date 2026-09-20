@@ -184,14 +184,23 @@ Vínculos binacionais favorecem a geração e a aplicação do conhecimento dos 
 
 É premente a necessidade de se avançar na construção de elementos norteadores da internacionalização da educação superior no marco dos instrumentos de política pública, o que exige uma revisão da própria política externa brasileira, enfatizando mais os temas educativos e científicos, assim como promovendo a abertura de oportunidades no âmbito educacional. Da mesma forma, é demandada da instituição de ensino superior uma revisão das limitações estruturais que enfrenta o seu sistema em relação à internacionalização, para que se possa definir fórmulas para o avanço nesse processo.
 
+## Como referenciar este artigo
 
-*“O presente trabalho foi realizado com apoio da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – Brasil (CAPES) – Código de Financiamento 001”*.
+```cite
+CUSATI, I. C.; VIANNA, L. J.; SANTOS, P. C. M. A.; ANGELO, R. C. O.; AVELAR, A. C. Universidades: surgimento, nacionalização e indicadores de internacionalização. *Revista Ibero-Americana de Estudos em Educação*, Araraquara, v. 16, n. 1, p. 3-19, jan./mar. 2021. e-ISSN: 1982-5587. DOI: https://doi.org/10.21723/riaee.v16i1.13354
+```
 
 ---
 
+### Notas do Autor
+
+*“O presente trabalho foi realizado com apoio da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – Brasil (CAPES) – Código de Financiamento 001”*.
+
 [^1]: Disponível em: http://www.direitoshumanos.usp.br/index.php/Direito-a-Educação/declaracao-mundial-sobreeducacao-superior-no-seculo-XXI-visao-e-acao.html. Acesso em: 2 jan. 2021.
 
-## REFERÊNCIAS
+---
+
+### Referências
 
 AFONSO X, O SÁBIO. *Las Siete Partidas*. In: PEDRERO-SÁNCHEZ, Maria Guadalupe. *História da Idade Média. Textos e Testemunhas*. São Paulo: Editora Unesp, 2000.
 
@@ -233,8 +242,4 @@ VERGER, Jacques. Universidade. In: *Dicionário Temático do Ocidente Medieval*.
 
 VERWOERD, Hendrik Frensch. *Bantoe-onderwys: Beleidsbepaling vir die onmiddelike toekoms*. Verklaring. Deur dr H.F. Verwoerd, Minister van Naturellesake, in die Senaat van die Parlement van die Unie van Suid-Afrika, 7 jun. 1954. Pretoria: Staatsdrukker.
 
-## Como referenciar este artigo
-
-```cite
-CUSATI, I. C.; VIANNA, L. J.; SANTOS, P. C. M. A.; ANGELO, R. C. O.; AVELAR, A. C. Universidades: surgimento, nacionalização e indicadores de internacionalização. *Revista Ibero-Americana de Estudos em Educação*, Araraquara, v. 16, n. 1, p. 3-19, jan./mar. 2021. e-ISSN: 1982-5587. DOI: https://doi.org/10.21723/riaee.v16i1.13354
-```
+---
