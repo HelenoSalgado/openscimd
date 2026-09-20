@@ -23,20 +23,29 @@ graph TD
 
 ## 2. Estrutura dos Volumes
 
-### 📖 Volume I: *Opúsculos Espirituais e Teológicos* (EM EXECUÇÃO)
-* **Slug**: `opusculos-espirituais`
-* **Local de Destino**: `content/books/hugo-de-sao-vitor/opusculos-espirituais.md`
-* **Fontes Originais**: `h-verb.htm`, `h-subsam.htm`, `h-m26779.htm`, `gn-hsvta.htm`
-* **Conteúdo**:
-  1. *Genealogia Espiritual de Hugo de São Vítor e Santo Tomás de Aquino* (Estudo Introdutório)
-  2. *A Palavra de Deus* (*De Verbo Dei*)
-  3. *A Substância do Amor* (*De Substantia Dilectionis*)
-  4. *Anotações sobre o Salmo 118* (*In Psalmum CXVIII*)
-* **Aparato Crítico**: Notas editoriais sobre o contexto da Abadia de São Vítor e proveniência do texto.
+### 📖 Obras Introdutórias e Opúsculos Teológicos (CONCLUÍDO / EDIÇÕES INDIVIDUAIS)
+
+Conforme deliberação editorial, os opúsculos e o estudo introdutório foram organizados e compilados como livros individuais e independentes em `content/books/hugo-de-sao-vitor/`:
+
+1. **Genealogia Espiritual de Hugo de São Vítor e Santo Tomás de Aquino** (Estudo Introdutório)
+   * **Arquivo**: `content/books/hugo-de-sao-vitor/genealogia-espiritual-de-hugo-e-sao-tomas.md`
+   * **Fonte Original Local**: `gn-hsvta.htm`
+2. **A Palavra de Deus** (*De Verbo Dei*)
+   * **Arquivo**: `content/books/hugo-de-sao-vitor/a-palavra-de-deus.md`
+   * **Fonte Original Local**: `h-verb.htm`
+3. **A Substância do Amor** (*De Substantia Dilectionis*)
+   * **Arquivo**: `content/books/hugo-de-sao-vitor/a-substancia-do-amor.md`
+   * **Fonte Original Local**: `h-subsam.htm`
+4. **Anotações sobre o Salmo 118** (*In Psalmum CXVIII Annotationes*)
+   * **Arquivo**: `content/books/hugo-de-sao-vitor/anotacoes-sobre-salmos-118.md`
+   * **Fonte Original Local**: `h-m26779.htm`
+
+* **Aparato Crítico**: Notas editoriais estruturadas (`[^ne1]`, `[^ne2]`, `[^ne3]`) sobre a biografia de Hugo de São Vítor, fontes patrísticas na *Patrologia Latina* e proveniência textual.
 
 ---
 
 ### 📖 Volume II: *Didascalicon: Da Arte de Ler & Pedagogia da Sabedoria*
+
 * **Slug**: `didascalicon-e-pedagogia`
 * **Local de Destino**: `content/books/hugo-de-sao-vitor/didascalicon-e-pedagogia.md`
 * **Fontes Originais**: `pedggvit.htm`, `pfp-00.htm` a `pfp-04.htm`, `efp1-0.htm` a `efp10-11.htm`
@@ -48,6 +57,7 @@ graph TD
 ---
 
 ### 📖 Volume III: *Comentário à Epístola aos Romanos*
+
 * **Slug**: `comentario-epistola-aos-romanos`
 * **Local de Destino**: `content/books/hugo-de-sao-vitor/comentario-epistola-aos-romanos.md`
 * **Fontes Originais**: `h-rom00.htm` a `h-rom07.htm` (Capítulos I a VII anotados)
@@ -56,6 +66,7 @@ graph TD
 ---
 
 ### 📖 Volume IV: *Tratado sobre a Arca de Noé* (*De Arca Noe*)
+
 * **Slug**: `tratado-sobre-a-arca-de-noe`
 * **Local de Destino**: `content/books/hugo-de-sao-vitor/tratado-sobre-a-arca-de-noe.md`
 * **Fontes Originais**: `h-arcanoe-ind.htm`, `h-arcanoe-0.htm`, `h-arcanoe-IV-1.htm`, `h-arcanoe-IV-4.htm`
@@ -64,6 +75,7 @@ graph TD
 ---
 
 ### 📖 Volume V: *Sermões Vitorinos Escolhidos*
+
 * **Slug**: `sermoes-escolhidos`
 * **Local de Destino**: `content/books/hugo-de-sao-vitor/sermoes-escolhidos.md`
 * **Fontes Originais**: `sermo-00.htm` a `sermo-70.htm`

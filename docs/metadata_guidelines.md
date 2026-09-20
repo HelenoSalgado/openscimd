@@ -12,7 +12,7 @@ Este documento estabelece o padrão de metadados YAML (MDC keys) recomendado par
 | **`authors`** | Array | Sim | Lista de autores (ver seção de [Autores Estruturados](#-autores-estruturados-recomendado)) | Crédito acadêmico e busca por autor. |
 | **`summary`** | String | Sim | Resumo sucinto do conteúdo. | Exibição de cards em portais de busca. |
 | **`date`** | String (Date) | Sim | `"2026-06-18"` ou `"18-06-2026"` | Data de publicação ou envio original. |
-| **`doi`** | String | Não | `"10.33864/2790-0037.2025.v6.i5.101-112"` | **Digital Object Identifier**: O padrão global para linkagem e citação científica persistente. |
+| **`DOI`** | String | Não | `"10.33864/2790-0037.2025.v6.i5.101-112"` | **Digital Object Identifier**: O padrão global para linkagem e citação científica persistente. |
 | **`udc`** / **`UDC`** | String | Não | `"1(091):161/162"` | **Classificação Decimal Universal**: Organização temática padronizada internacionalmente. |
 | **`bbk`** / **`BBK`** | String | Não | `"87.3:87.4"` | **Classificação Bibliotecária-Bibliográfica**: Usada para fins de indexação em bibliotecas. |
 | **`hos`** / **`HoS`** | String | Não | `"113"` | Classificação acadêmica secundária / histórica. |
@@ -21,8 +21,7 @@ Este documento estabelece o padrão de metadados YAML (MDC keys) recomendado par
 | **`volume`** | String / Int | Não | `"6"` | Volume da publicação da revista. |
 | **`issue`** | String / Int | Não | `"5"` | Edição ou número da publicação da revista. |
 | **`pages`** | String | Sim | `"101-112"` | Páginas onde o artigo foi publicado no original. |
-**`e_issn`** | String | Não | `"1982-5587"` | Identificar a revista no âmbito digital.
-| **`pdf_url`** | String | Não | `"/pdfs/reformas-filosoficas.pdf"` | Link para a versão formatada em PDF. |
+**`e_issn`** | String | Não | `"1982-5587"` | Identificar a revista no âmbito digital. |
 | **`language`** | String (ISO) | Não | `"pt"`, `"en"`, `"es"` | Código do idioma principal do texto. |
 | **`keywords`** | Array | Não | `["Lógica", "Renascimento", "Metodologia"]` | Palavras-chave de indexação adicionais. |
 

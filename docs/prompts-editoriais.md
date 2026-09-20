@@ -1,6 +1,6 @@
 # Catálogo de Prompts Editoriais Recomendados para IA
 
-Este documento reúne os **modelos de prompts oficiais e recomendados** para interagir com Agentes de IA no ecossistema OpenSciMD. Cada prompt foi elaborado para eliminar ambiguidades, reforçar a imutabilidade das matrizes em `data/draft/` e garantir fidelidade estrita às diretrizes editoriais do projeto ([`.agents/editorial/index.md`](file:///home/heleno/Documentos/GitHub/openscimd/.agents/editorial/index.md)).
+Este documento reúne os **modelos de prompts oficiais e recomendados** para interagir com Agentes de IA no ecossistema OpenSciMD. Cada prompt foi elaborado para eliminar ambiguidades, reforçar a imutabilidade das matrizes em `data/draft/` e garantir fidelidade estrita às diretrizes editoriais do projeto ([`.agents/editorial/index.md`](.agents/editorial/index.md)).
 
 ---
 
@@ -16,6 +16,7 @@ Este documento reúne os **modelos de prompts oficiais e recomendados** para int
 ## 📋 Contextos Operacionais e Modelos de Prompts
 
 ### Contexto 1: Saneamento e Formatação de Tradução / Rascunho sem Matriz Original
+
 > **Cenário:** Você tem um rascunho de tradução em `data/draft/<arquivo>.md` (produzido por um tradutor humano ou fonte externa), sem o arquivo-fonte em língua original no repositório. O objetivo é sanitizar a formatação, adicionar o Frontmatter YAML, converter a paginação e salvar em `data/review/<arquivo>.md`.
 
 ```text
@@ -35,12 +36,13 @@ Diretrizes obrigatórias:
 ---
 
 ### Contexto 2: Revisão e Auditoria de Tradução com Matriz em `data/raw/` (Anti-Alucinação 1:1)
-> **Cenário:** Você possui o arquivo original em língua estrangeira em `data/raw/<arquivo>.md` e o rascunho traduzido em `data/draft/<arquivo>.md`. O objetivo é auditar a fidelidade semântica, eliminar lacunas e conferir parágrafo por parágrafo em `data/review/<arquivo>.md`.
+
+> **Cenário:** Você possui o arquivo original em língua estrangeira em `data/raw/<arquivo>` e o rascunho traduzido em `data/draft/<arquivo>.md`. O objetivo é auditar a fidelidade semântica, eliminar lacunas e conferir parágrafo por parágrafo em `data/review/<arquivo>.md`.
 
 ```text
 Atue como Auditor Filológico conforme @[.agents/editorial/prompt-revisao-ia.md] e @[.agents/editorial/fluxo-de-revisao-de-traducao.md].
 
-Audite e revise o texto de @data/draft/<nome-do-arquivo>.md comparando-o rigorosamente contra o original em @data/raw/<nome-do-original>.md, gerando a saída em data/review/<nome-do-arquivo>.md.
+Audite e revise o texto de @data/draft/<nome-do-arquivo>.md comparando-o rigorosamente contra o original em @data/raw/<nome-do-original>, gerando a saída em data/review/<nome-do-arquivo>.md.
 
 Diretrizes obrigatórias:
 1. CORRESPONDÊNCIA 1:1: Mapeie todas as seções e parágrafos do original para garantir que não haja omissões, saltos numéricos ou resumos silenciosos.
@@ -53,17 +55,18 @@ Diretrizes obrigatórias:
 ---
 
 ### Contexto 3: Conversão e Digitalização de PDF de Artigo Acadêmico (Zenodo / DOI)
+
 > **Cenário:** Um artigo acadêmico foi convertido a partir de PDF via `salopdoc` para `data/draft/<artigo>.md`. O objetivo é limpar ruídos de OCR, enriquecer metadados via DOI e preparar o arquivo para publicação.
 
 ```text
 Atue conforme as diretrizes em @[.agents/editorial/index.md] e @[.agents/editorial/notas.md].
 
-Revise o artigo acadêmico em @data/draft/<nome-do-artigo>.md, salvando a versão limpa em data/review/<nome-do-artigo>.md.
+Revise o artigo acadêmico ou e-book em @data/draft/<nome-do-artigo>.md, salvando a versão limpa em data/review/<nome-do-artigo>.md.
 
 Diretrizes obrigatórias:
 1. LIMPEZA DE RUÍDOS DE OCR: Remova cabeçalhos de página repetidos, números de página vazados e recomponha parágrafos partidos em viradas de página.
 2. ENRIQUECIMENTO DE METADADOS: A partir do DOI constante no texto, pesquise ativamente no Zenodo ou na web para preencher a ficha catalográfica completa no Frontmatter YAML (authors com orcid, email e affiliation; journal; volume; issue; pages obrigatório; date; DOI; UDC; BBK; HoS; license).
-3. RESUMO: Insira o resumo original 100% integralmente no campo summary do YAML e remova-o do corpo do texto.
+3. RESUMO: Insira o resumo original 100% integralmente no campo summary do YAML e remova-o do corpo do texto, exceto e-books.
 4. REBAIXAMENTO DE NOTAS DE TÍTULO: Se houver notas de rodapé no título ou nos autores originais, rebaixe as âncoras para o primeiro cabeçalho do corpo (## Introdução[^1]).
 5. NOTAS DE RODAPÉ (1 a N): Preserve todas as notas integralmente, sem renumeração artificial e declaradas ao final após ---.
 6. VALIDAÇÃO: Ao finalizar, certifique-se de que o arquivo seja validável via `uv run openscimd validate`.
@@ -72,6 +75,7 @@ Diretrizes obrigatórias:
 ---
 
 ### Contexto 4: Edição de Livros e Tratados Clássicos em Partes e Capítulos
+
 > **Cenário:** Edição de uma obra clássica dividida em livros, tratados ou capítulos com parágrafos numerados (ex: *A Imitação de Cristo*).
 
 ```text
@@ -93,6 +97,7 @@ Diretrizes obrigatórias:
 ---
 
 ### Contexto 5: Normalização Tipográfica e Ajustes Finos
+
 > **Cenário:** O arquivo já está em `data/review/<arquivo>.md` e precisa de checagem final de regras tipográficas e estilísticas antes de ser movido para `data/ready/`.
 
 ```text

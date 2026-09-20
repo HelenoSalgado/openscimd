@@ -122,6 +122,17 @@ class HunspellClient:
                             suggestions.extend([s.strip() for s in parts[1].split(",") if s.strip()])
 
                 self._cache[key] = (is_valid, suggestions)
+
+                # If the exact lowercase key itself is in suggestions, the word exists in the dictionary (e.g. nEle -> nele)
+                if key in suggestions:
+                    is_valid = True
+                    suggestions = []
+
+                # Preserve True if the key was already validated
+                if key in self._cache and self._cache[key][0] and not is_valid:
+                    pass
+                else:
+                    self._cache[key] = (is_valid, suggestions)
             else:
                 self._cache[key] = (True, [])
 

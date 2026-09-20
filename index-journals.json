@@ -1,0 +1,202 @@
+{
+  "repo_name": "OpenSciMD",
+  "type": "journals",
+  "last_updated": 1789893282704,
+  "journals": [
+    {
+      "id": "journal_boletim-cearense-de-educacao-e-historia-da-matematica",
+      "name": "Boletim Cearense de Educação e História da Matemática",
+      "slug": "boletim-cearense-de-educacao-e-historia-da-matematica",
+      "total_articles": 1,
+      "volumes": [
+        {
+          "id": "vol_boletim-cearense-de-educacao-e-historia-da-matematica_7",
+          "volume": "7",
+          "year": 2020,
+          "issues": [
+            {
+              "issue": "20",
+              "articles": [
+                "art_003"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "journal_hispania-sacra",
+      "name": "Hispania Sacra",
+      "slug": "hispania-sacra",
+      "total_articles": 1,
+      "volumes": [
+        {
+          "id": "vol_hispania-sacra_70",
+          "volume": "70",
+          "year": 2018,
+          "issues": [
+            {
+              "issue": "141",
+              "articles": [
+                "art_004"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "journal_history-of-science",
+      "name": "History of Science",
+      "slug": "history-of-science",
+      "e_issn": "2790-0037",
+      "total_articles": 1,
+      "volumes": [
+        {
+          "id": "vol_history-of-science_6",
+          "volume": "6",
+          "year": 2025,
+          "issues": [
+            {
+              "issue": "5",
+              "articles": [
+                "art_005"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "journal_ipda",
+      "name": "IPDA",
+      "slug": "ipda",
+      "total_articles": 1,
+      "volumes": [
+        {
+          "id": "vol_ipda_3",
+          "volume": "3",
+          "year": 2026,
+          "issues": [
+            {
+              "issue": "1",
+              "articles": [
+                "art_006"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "journal_peitho-examina-antiqua",
+      "name": "Peitho / Examina Antiqua",
+      "slug": "peitho-examina-antiqua",
+      "e_issn": "2082-7539",
+      "issn": "2082-7539",
+      "total_articles": 7,
+      "volumes": [
+        {
+          "id": "vol_peitho-examina-antiqua_1",
+          "volume": "1",
+          "year": 2010,
+          "issues": [
+            {
+              "issue": "1",
+              "articles": [
+                "art_007",
+                "art_008",
+                "art_009",
+                "art_011",
+                "art_012"
+              ]
+            },
+            {
+              "issue": "3",
+              "articles": [
+                "art_010"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vol_peitho-examina-antiqua_16",
+          "volume": "16",
+          "year": 2025,
+          "issues": [
+            {
+              "issue": "1",
+              "articles": [
+                "art_013"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "journal_revista-historia-da-educacao",
+      "name": "Revista História da Educação (Online)",
+      "slug": "revista-historia-da-educacao",
+      "total_articles": 1,
+      "volumes": [
+        {
+          "id": "vol_revista-historia-da-educacao_23",
+          "volume": "23",
+          "year": 2019,
+          "issues": [
+            {
+              "issue": "1",
+              "articles": [
+                "art_014"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "journal_revista-ibero-americana-de-estudos-em-educacao",
+      "name": "Revista Ibero-Americana de Estudos em Educação",
+      "slug": "revista-ibero-americana-de-estudos-em-educacao",
+      "e_issn": "1982-5587",
+      "total_articles": 1,
+      "volumes": [
+        {
+          "id": "vol_revista-ibero-americana-de-estudos-em-educacao_16",
+          "volume": "16",
+          "year": 2021,
+          "issues": [
+            {
+              "issue": "1",
+              "articles": [
+                "art_015"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "journal_revista-viae-veritatis",
+      "name": "Revista Viae Veritatis (ViVe)",
+      "slug": "revista-viae-veritatis",
+      "total_articles": 1,
+      "volumes": [
+        {
+          "id": "vol_revista-viae-veritatis_1",
+          "volume": "1",
+          "year": 2026,
+          "issues": [
+            {
+              "issue": "1",
+              "articles": [
+                "art_016"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

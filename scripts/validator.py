@@ -1,6 +1,6 @@
 import os
 from pathlib import Path
-from scripts.utils import parse_markdown_file, parse_date_to_timestamp
+from scripts.utils import parse_markdown_file, parse_date_to_timestamp, get_files_recursively
 
 def validate_articles(base_dir):
     print('🧪 Iniciando validação de formato e metadados dos artigos...\n')
@@ -16,9 +16,12 @@ def validate_articles(base_dir):
     total_errors = 0
     total_warnings = 0
     
-    for file in articles_dir.glob('*.md'):
+    files = [Path(p) for p in get_files_recursively(articles_dir)]
+    
+    for file in files:
         errors, warnings = [], []
         base_name = file.stem
+        rel_path = file.relative_to(articles_dir).as_posix()
         
         try:
             with open(file, 'r', encoding='utf-8') as f:
@@ -82,7 +85,7 @@ def validate_articles(base_dir):
             errors.append(f'Falha crítica ao ler/processar arquivo: {e}')
             
         if errors or warnings:
-            print(f"📄 Artigo: {file.name}")
+            print(f"📄 Artigo: {rel_path}")
             if errors:
                 invalid_count += 1
                 total_errors += len(errors)
@@ -94,7 +97,7 @@ def validate_articles(base_dir):
             
     print('-' * 50)
     print(f"📊 Resumo da Validação:")
-    print(f"   - Artigos Verificados: {len(list(articles_dir.glob('*.md')))}")
+    print(f"   - Artigos Verificados: {len(files)}")
     print(f"   - Artigos com Erros Fatais: {invalid_count}")
     print(f"   - Total de Erros: {total_errors}")
     print(f"   - Total de Alertas: {total_warnings}\n")

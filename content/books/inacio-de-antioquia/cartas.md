@@ -8,16 +8,15 @@ license: "CC BY-NC 4.0"
 translator: "Equipe Editorial cristianismo.org.br"
 categories:
  - Patrística
- - Padres Apostólicos
  - Teologia
  - Eclesiologia
  - Martírio
 language: "pt-BR"
 ---
 
-## *Apresentação de São Jerônimo*[^ne1][^ne2]
+## *Apresentação de São Jerônimo*[^1][^2]
 
-> “Inácio, terceiro bispo, depois do Apóstolo Pedro, da Igreja de Antioquia, foi enviado preso a Roma, condenado às feras durante a perseguição movida por Trajano [provavelmente no ano 107 d.C.]. Chegando por mar a Esmirna, onde Policarpo, o ouvinte de João, era bispo, escreveu uma carta aos efésios, outra aos magnésios, uma terceira aos tralianos, e a quarta aos romanos. Partindo daí, escreveu aos filadélfios, aos esmirnenses, e em particular ainda a Policarpo, recomendando-lhe a Igreja de Antioquia.[^ne3]”
+> “Inácio, terceiro bispo, depois do Apóstolo Pedro, da Igreja de Antioquia, foi enviado preso a Roma, condenado às feras durante a perseguição movida por Trajano [provavelmente no ano 107 d.C.]. Chegando por mar a Esmirna, onde Policarpo, o ouvinte de João, era bispo, escreveu uma carta aos efésios, outra aos magnésios, uma terceira aos tralianos, e a quarta aos romanos. Partindo daí, escreveu aos filadélfios, aos esmirnenses, e em particular ainda a Policarpo, recomendando-lhe a Igreja de Antioquia.[^3]”
 >
 > — *São Jerônimo, De Viris Illustribus, cap. XVI*
 
@@ -25,7 +24,7 @@ language: "pt-BR"
 
 ### *Saudação*
 
-Inácio, também chamado Teóforo, àquela que é bendita em grandeza na plenitude de Deus Pai, predestinada antes dos séculos a existir em todo o tempo, unida para uma glória imperecível e imutável, e eleita na Paixão verdadeira, pela vontade do Pai e de Jesus Cristo nosso Deus - à Igreja digna de bem-aventurança, que vive em Éfeso da Ásia, todos os bens em Jesus Cristo e os cumprimentos numa alegria impoluta.
+Inácio, também chamado Teóforo, àquela que é bendita em grandeza na plenitude de Deus Pai, predestinada antes dos séculos a existir em todo o tempo, unida para uma glória imperecível e imutável, e eleita na Paixão verdadeira, pela vontade do Pai e de Jesus Cristo nosso Deus — à Igreja digna de bem-aventurança, que vive em Éfeso da Ásia, todos os bens em Jesus Cristo e os cumprimentos numa alegria impoluta.
 
 ### *Capítulo I*
 

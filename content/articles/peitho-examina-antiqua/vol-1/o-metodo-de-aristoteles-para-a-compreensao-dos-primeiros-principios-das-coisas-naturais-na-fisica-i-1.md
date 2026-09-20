@@ -10,7 +10,7 @@ authors:
 summary: "Este artigo apresenta o método de Aristóteles para a compreensão dos primeiros princípios das coisas naturais na Física I.1 e analisa os três estágios que compõem este método. Na Física I.1, Aristóteles sugere que o caminho naturalmente próprio a ser seguido a fim de descobrir os primeiros princípios das coisas naturais consiste em proceder daquilo que é mais claro e mais cognoscível para nós para aquilo que é mais cognoscível e claro por natureza. Na Física I.1, os termos καθόλου (universal) e καθ΄ ἕκαστα (particular) não são empregados em seu significado usual (como, por exemplo, o significado que esses mesmos termos possuem nos Segundos Analíticos I.2). Este artigo examina a Física I.1 em comparação com os Segundos Analíticos II.19 com o propósito de elucidar o sentido de καθόλου no primeiro capítulo da Física de Aristóteles. Além disso, chega-se à conclusão de que a estrutura do mundo natural ao qual pertencemos determina a estrutura e a forma do nosso conhecimento. Por um lado, as coisas naturais são compostas e, por outro lado, a percepção está envolvida na apreensão inicial das coisas naturais como compostos. Assim, visto que o conhecimento perceptivo é mais acessível para nós do que qualquer outro tipo de conhecimento, é natural alcançar o conhecimento das coisas simples — isto é, dos princípios — iniciando nossa investigação pelos compostos."
 date: "2012-01-01"
 DOI: "10.14746/pea.2012.1.2"
-ISSN: "2082-7539"
+e_issn: "2082-7539"
 originalLanguage: "en"
 language: "pt-BR"
 categories:

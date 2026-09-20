@@ -26,6 +26,7 @@ Quando o arquivo em `data/raw/` for uma obra completa (ex.: `data/raw/The Imitat
 Em textos patrísticos, medievais e filosóficos, o autor pode citar dísticos poéticos ou versos (ex.: Ovídio, Virgílio, poetas clássicos).
 
 ### Regra de Pareamento Estrutural:
+
 * A oração introdutória (ex.: *"Por isso diz alguém:"* ou *"Wherefore one saith,"*) deve permanecer **acoplada ao final do parágrafo antecedente**.
 * O dístico poético deve ser formatado em bloco de citação `> *...*` com quebra de linha com dois espaços (`  `) no final do primeiro verso.
 * O parágrafo subsequente que comenta os versos inicia logo após o bloco.

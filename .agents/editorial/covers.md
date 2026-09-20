@@ -1,4 +1,4 @@
-# Diretrizes de Geração de Capas Editoriais para Agentes de IA — OpenSciMD / IRSE
+# Diretrizes de Geração de Capas Editoriais para Agentes de IA — OpenSciMD / LeiaME
 
 Este documento orienta os agentes de IA na concepção, geração e validação de capas para artigos acadêmicos, tratados filosóficos, teológicos e e-books do ecossistema OpenSciMD.
 

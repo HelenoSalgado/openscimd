@@ -136,7 +136,7 @@ A vertente alemã pensa a universidade como um espaço de fortalecimento das rep
 
 A educação superior no Brasil vem se internacionalizando progressivamente, tendo como marco inicial as propositivas das reformas educacionais das décadas de 1960 e 1970, que enfocavam a necessidade de uma estrutura educacional mais integradora, propiciando unidade entre ensino e pesquisa.
 
-A partir da década de 1980, as iniciativas de internacionalização da universidade brasileira se concretizaram contemplando alguns dos objetivos mencionados no artigo 15º da Declaração Mundial sobre Educação Superior no Século XXI: Visão e Ação, entre eles, o “compartilhamento de conhecimentos teóricos e práticos entre países e continentes”[^6]. A declaração é enfática ao conceber que as instituições de Ensino Superior devem, dentre outras funções, assumir a iniciativa de internacionalização e não somente reagir diante das demandas da globalização.
+A partir da década de 1980, as iniciativas de internacionalização da universidade brasileira se concretizaram contemplando alguns dos objetivos mencionados no artigo 15º da Declaração Mundial sobre Educação Superior no Século XXI: Visão e Ação, entre eles, o “compartilhamento de conhecimentos teóricos e práticos entre países e continentes”[^1]. A declaração é enfática ao conceber que as instituições de Ensino Superior devem, dentre outras funções, assumir a iniciativa de internacionalização e não somente reagir diante das demandas da globalização.
 
 A internacionalização consubstancia a valorização e o respeito pelas diferenças e pela identidade. O efeito da internacionalização é explicitado num conjunto de esforços institucionais envidados para se adaptar a um mundo globalizado, que tem no processo de globalização a universalização de estratégias eficazes e eficientes em prol do pleno conhecimento.
 
@@ -189,7 +189,7 @@ Vínculos binacionais favorecem a geração e a aplicação do conhecimento dos 
 
 ---
 
-[^6]: Disponível em: http://www.direitoshumanos.usp.br/index.php/Direito-a-Educação/declaracao-mundial-sobreeducacao-superior-no-seculo-XXI-visao-e-acao.html. Acesso em: 2 jan. 2021.
+[^1]: Disponível em: http://www.direitoshumanos.usp.br/index.php/Direito-a-Educação/declaracao-mundial-sobreeducacao-superior-no-seculo-XXI-visao-e-acao.html. Acesso em: 2 jan. 2021.
 
 ## REFERÊNCIAS
 

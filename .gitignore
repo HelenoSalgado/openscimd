@@ -8,3 +8,4 @@ data/*
 legacy_scripts/
 __pycache__
 build-cloudflare
+tests/test_covers.py
