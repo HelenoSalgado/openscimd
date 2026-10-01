@@ -9,7 +9,12 @@ translator: "Heleno Salgado"
 pages: "1-10"
 license: "CC BY-NC 4.0"
 categories:
-  - IA
+  - Computação
+keywords:
+  - Alucinações
+  - Grandes Modelos de Linguagem
+  - Inteligência Artificial
+  - LLMs
 ---
 
 ## Prefácio Estrutural: Sobre o Remarcado de Evidências Estruturais

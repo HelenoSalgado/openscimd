@@ -6,7 +6,12 @@ date: "399 a.C."
 license: "Domínio Público"
 categories:
   - Filosofia
+keywords:
+  - Apologia
   - Clássicos
+  - Filosofia Antiga
+  - Platão
+  - Sócrates
 translator: "Heleno Salgado"
 originalLanguage: "en"
 language: "pt-BR"

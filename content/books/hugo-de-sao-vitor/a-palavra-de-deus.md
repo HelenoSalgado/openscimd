@@ -9,7 +9,11 @@ originalLanguage: "la"
 translator: "Equipe Editorial cristianismo.org.br"
 categories:
   - Teologia
+keywords:
   - Escola Vitorina
+  - Hermenêutica Medieval
+  - Hugo de São Vítor
+  - Palavra de Deus
 ---
 
 ## *A Palavra de Deus*[^ne1][^ne2]

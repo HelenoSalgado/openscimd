@@ -15,17 +15,19 @@ originalLanguage: "en"
 language: "pt-BR"
 categories:
   - Filosofia
-  - Filosofia Antiga
-  - Aristotelismo
+  - Física
 keywords:
+  - Análise
+  - Aristotelismo
   - Aristóteles
-  - Método
   - Coisas naturais
+  - Filosofia Antiga
+  - Física Aristotélica
+  - Indução (*epagōgē*)
+  - Método
+  - Particular
   - Princípios
   - Universal
-  - Particular
-  - Indução (*epagōgē*)
-  - Análise
 license: "CC BY 4.0"
 ---
 

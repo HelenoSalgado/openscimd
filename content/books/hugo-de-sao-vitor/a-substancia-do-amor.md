@@ -9,7 +9,11 @@ originalLanguage: "la"
 translator: "Equipe Editorial cristianismo.org.br"
 categories:
   - Teologia
+keywords:
+  - Amor Divino
   - Escola Vitorina
+  - Hugo de São Vítor
+  - Mística Medieval
 ---
 
 ## *A Substância do Amor*[^ne1][^ne2]

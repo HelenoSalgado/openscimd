@@ -15,17 +15,18 @@ originalLanguage: "it"
 language: "pt-BR"
 categories:
   - Filosofia
-  - Filosofia Antiga
-  - Estudos Clássicos
 keywords:
-  - Sócrates
-  - Literatura Socrática
-  - Socratica 2008
-  - Livio Rossetti
   - Alessandro Stavru
-  - Platão
-  - Xenofonte
   - Antístenes
+  - Estudos Clássicos
+  - Estudos Socráticos
+  - Filosofia Antiga
+  - Literatura Socrática
+  - Livio Rossetti
+  - Platão
+  - Socratica 2008
+  - Sócrates
+  - Xenofonte
   - Ésquines de Esfeto
 license: "CC BY 4.0"
 ---

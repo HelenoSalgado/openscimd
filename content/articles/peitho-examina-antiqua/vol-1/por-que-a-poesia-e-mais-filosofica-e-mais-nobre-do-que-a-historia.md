@@ -15,14 +15,16 @@ originalLanguage: "la"
 language: "pt-BR"
 categories:
   - Filosofia
-  - Filosofia Antiga
-  - Poética
+  - História
+  - Literatura
 keywords:
   - Aristóteles
+  - Filosofia Antiga
+  - Poética
+  - filosofia
+  - história
   - poesia
   - retórica
-  - história
-  - filosofia
 license: "CC BY 4.0"
 ---
 

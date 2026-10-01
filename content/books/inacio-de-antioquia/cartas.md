@@ -7,10 +7,14 @@ date: "107 d. C."
 license: "CC BY-NC 4.0"
 translator: "Equipe Editorial cristianismo.org.br"
 categories:
- - Patrística
- - Teologia
- - Eclesiologia
- - Martírio
+  - História
+  - Teologia
+keywords:
+  - Cristianismo Primitivo
+  - Eclesiologia
+  - Inácio de Antioquia
+  - Martírio
+  - Patrística
 language: "pt-BR"
 ---
 

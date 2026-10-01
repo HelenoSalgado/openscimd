@@ -15,16 +15,15 @@ date: 30-06-2018
 
 DOI: 10.3989/hs.2018.005
 
-keywords: 
-  - Petrus Ramus
+keywords:
   - Calvinismo
+  - Ciência Política
+  - Petrus Ramus
   - Reforma
   - Saber político
-
-categories: 
-  - Ciência Política
+categories:
   - História
-
+  - Política
 copyright: "2018 CSIC"
 
 license: "CC BY 4.0"

@@ -14,18 +14,20 @@ ISSN: "2082-7539"
 originalLanguage: "de"
 language: "pt-BR"
 categories:
+  - Direito
   - Filosofia
-  - História do Direito
-  - Filosofia Antiga
-  - Estudos Clássicos
+  - História
 keywords:
-  - Sócrates
-  - Processo de Sócrates
-  - Impiedade (*Asebeia*)
   - Direito Ateniense
+  - Estudos Clássicos
+  - Filosofia Antiga
   - Helieia
-  - Trinta Tiranos
+  - História do Direito
+  - Impiedade (*Asebeia*)
   - Platão
+  - Processo de Sócrates
+  - Sócrates
+  - Trinta Tiranos
   - Xenofonte
 license: "CC BY 4.0"
 ---

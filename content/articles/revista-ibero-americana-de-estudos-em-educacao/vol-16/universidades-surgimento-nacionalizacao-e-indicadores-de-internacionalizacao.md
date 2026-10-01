@@ -30,11 +30,14 @@ date: "02-01-2021"
 doi: "10.21723/riaee.v16i1.13354"
 e_issn: "1982-5587"
 keywords:
-  - "Internacionalização"
-  - "Educação superior"
-  - "Experiências interinstitucionais"
+  - Educação superior
+  - Ensino Superior
+  - Experiências interinstitucionais
+  - Internacionalização
+  - Universidades
 categories:
-  - "Educação"
+  - Educação
+  - História
 license: "CC BY-NC-SA"
 ---
 

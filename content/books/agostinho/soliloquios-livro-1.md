@@ -8,9 +8,14 @@ language: "pt-BR"
 originalLanguage: "la"
 translator: "OpenSciMD"
 categories:
-  - Teologia
   - Filosofia
+  - Teologia
+keywords:
+  - Agostinho de Hipona
+  - Alma
   - Patrística
+  - Solilóquios
+  - Verdade
 ---
 
 # LIVRO PRIMEIRO

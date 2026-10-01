@@ -6,7 +6,13 @@ date: "1400 a.C."
 license: "Domínio público"
 language: "pt-BR"
 categories:
-     - Bíblia
+  - Teologia
+keywords:
+  - Antigo Testamento
+  - Bíblia
+  - Pentateuco
+  - Torá
+  - Êxodo
 ---
 
 ## Capítulo 1 — A Opressão de Israel no Egito

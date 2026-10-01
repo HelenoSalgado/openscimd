@@ -16,22 +16,23 @@ originalLanguage: "it"
 language: "pt-BR"
 categories:
   - Filosofia
-  - Filosofia Antiga
-  - Estudos Socráticos
+  - História
 keywords:
-  - acrasia
-  - elenchos
-  - enkrateia
-  - filosofia
-  - comunicação
+  - Estudos Socráticos
+  - Filosofia Antiga
   - Kierkegaard
-  - logos protreptikos
   - Menandro
   - Nietzsche
   - Platão
   - Sócrates
-  - sofistas
   - Zópiro
+  - acrasia
+  - comunicação
+  - elenchos
+  - enkrateia
+  - filosofia
+  - logos protreptikos
+  - sofistas
 ---
 
 Enquanto a primeira revista polonesa de filosofia antiga inicia suas publicações, é para mim uma honra e um desafio retomar, em suas páginas, o tema Sócrates e fazer mais uma tentativa para compreender quem ele realmente foi. Quarenta anos de estudos sobre o assunto proporcionaram-me, de fato, múltiplos estímulos e instrumentos para indagar e tentar compreender algo a respeito de um personagem comumente considerado esquivo como poucos. Nesta contribuição, partindo das considerações propostas em outro artigo recente[^1], procuro identificar duas faces do personagem: por um lado, o seu dialogar e o sentido que este seu dialogar pôde ter no horizonte das invenções literárias do século V a.C.; por outro lado, as poderosas inovações das quais Sócrates parece ter sido portador no campo do estilo de vida, do otimismo ético e do engajamento. O título do meu escrito é provocativo, mas ao menos adere à convicção de que sua figura necessita ser profundamente repensada.

@@ -96,11 +96,20 @@ def index():
     update_index(str(BASE_DIR))
 
 @app.command()
-def validate():
-    """Valida formato e metadados de artigos MD."""
-    from scripts.validator import validate_articles
-    if not validate_articles(str(BASE_DIR)):
+def validate(
+    target: str = typer.Option("all", "--target", "-t", help="Alvo de validação: 'all', 'articles' ou 'books'."),
+):
+    """Valida formato, metadados e categorias de artigos e e-books."""
+    from scripts.validator import validate_all, validate_articles, validate_books
+    if target == "articles":
+        success = validate_articles(str(BASE_DIR))
+    elif target == "books":
+        success = validate_books(str(BASE_DIR))
+    else:
+        success = validate_all(str(BASE_DIR))
+    if not success:
         raise typer.Exit(code=1)
+
 
 @app.command()
 def verses(input_file: str, output_file: str):

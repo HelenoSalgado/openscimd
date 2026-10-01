@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "journals",
-  "last_updated": 1789939568842,
+  "last_updated": 1790894847383,
   "journals": [
     {
       "id": "journal_boletim-cearense-de-educacao-e-historia-da-matematica",
@@ -182,7 +182,7 @@
       "name": "Revista Viae Veritatis (ViVe)",
       "slug": "revista-viae-veritatis",
       "e_issn": "3086-7746",
-      "total_articles": 3,
+      "total_articles": 2,
       "volumes": [
         {
           "id": "vol_revista-viae-veritatis_1",
@@ -193,7 +193,6 @@
               "issue": "1",
               "articles": [
                 "art_009",
-                "art_008",
                 "art_008"
               ]
             }

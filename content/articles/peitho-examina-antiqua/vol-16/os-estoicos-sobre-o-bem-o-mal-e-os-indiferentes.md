@@ -17,15 +17,15 @@ originalLanguage: "en"
 language: "pt-BR"
 categories:
   - Filosofia
+keywords:
+  - Estoicismo
   - Filosofia Antiga
   - Helenismo
-  - Estoicismo
-keywords:
-  - mal
-  - virtude
+  - homem em progresso (prokopōn)
   - indiferentes
   - livre-arbítrio
-  - homem em progresso (prokopōn)
+  - mal
+  - virtude
 ---
 
 O conceito de mal suscitou debates e tem sido o tema central de reflexão e análise em todas as escolas filosóficas, sem exceção, desde a antiguidade até os dias de hoje. Enquanto fator de efeitos negativos sobre o mundo, sobre as relações intersubjetivas e sobre cada indivíduo em particular, o mal incide, em última análise, sobre as normas cognitivas ou éticas das quais se desvia? Por que a existência do mal persiste e, não obstante as investigações e a identificação de suas causas e efeitos, ele continua a existir, influenciando o comportamento, integrando e orientando pensamentos e decisões, ao passo que molda os acontecimentos com sua força negativa?

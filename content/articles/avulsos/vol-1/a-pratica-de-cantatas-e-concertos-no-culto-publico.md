@@ -10,13 +10,18 @@ date: "2026-08-06"
 license: "CC BY 4.0"
 DOI: "10.5281/zenodo.21762396"
 language: "pt-BR"
+pages: "1-15"
+volume: 1
 categories:
+  - Música
   - Teologia
 keywords:
-  - Princípio Regulador do Culto
-  - Liturgia Reformada
-  - Salmodia Exclusiva
+  - Cantatas
   - Confissão de Fé de Westminster
+  - Liturgia Reformada
+  - Música Sacra
+  - Princípio Regulador do Culto
+  - Salmodia Exclusiva
   - Teologia Reformada
 ---
 

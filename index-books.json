@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1789939568840,
+  "last_updated": 1790894847379,
   "books": [
     {
       "id": "book_012",
@@ -11,9 +11,8 @@
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/agostinho/soliloquios-livro-1.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/soliloquios-livro-1.webp",
       "categories": [
-        "Teologia",
         "Filosofia",
-        "Patrística"
+        "Teologia"
       ],
       "published_at": 1787363169408,
       "estimated_reading_time_min": 47,
@@ -30,8 +29,8 @@
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/aristoteles/poetica.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/poetica.webp",
       "categories": [
-        "Literatura",
-        "Clássicos"
+        "Filosofia",
+        "Literatura"
       ],
       "published_at": 1785987630705,
       "estimated_reading_time_min": 71,
@@ -48,8 +47,7 @@
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/hugo-de-sao-vitor/a-palavra-de-deus.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-palavra-de-deus.webp",
       "categories": [
-        "Teologia",
-        "Escola Vitorina"
+        "Teologia"
       ],
       "published_at": 1788633186338,
       "estimated_reading_time_min": 20,
@@ -66,8 +64,7 @@
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/hugo-de-sao-vitor/a-substancia-do-amor.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-substancia-do-amor.webp",
       "categories": [
-        "Teologia",
-        "Escola Vitorina"
+        "Teologia"
       ],
       "published_at": 1788633234199,
       "estimated_reading_time_min": 14,
@@ -84,8 +81,7 @@
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/hugo-de-sao-vitor/anotacoes-sobre-salmos-118.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/anotacoes-sobre-salmos-118.webp",
       "categories": [
-        "Teologia",
-        "Escola Vitorina"
+        "Teologia"
       ],
       "published_at": 1788633551166,
       "estimated_reading_time_min": 19,
@@ -102,9 +98,8 @@
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/hugo-de-sao-vitor/genealogia-espiritual-de-hugo-e-sao-tomas.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/genealogia-espiritual-de-hugo-e-sao-tomas.webp",
       "categories": [
-        "Teologia",
-        "Escola Vitorina",
-        "História da Igreja"
+        "História",
+        "Teologia"
       ],
       "published_at": 1788633085385,
       "estimated_reading_time_min": 35,
@@ -125,10 +120,8 @@
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/inacio-de-antioquia/cartas.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/cartas.webp",
       "categories": [
-        "Patrística",
-        "Teologia",
-        "Eclesiologia",
-        "Martírio"
+        "História",
+        "Teologia"
       ],
       "published_at": 1788128076229,
       "estimated_reading_time_min": 54,
@@ -144,10 +137,8 @@
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/petrus-ramus/petrus-ramus-e-a-reforma-educacional-do-seculo-xvi.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/petrus-ramus-e-a-reforma-educacional-do-seculo-xvi.webp",
       "categories": [
-        "História da Educação",
-        "Renascimento",
-        "Humanismo",
-        "Pedagogia"
+        "Educação",
+        "História"
       ],
       "published_at": 1789173917991,
       "estimated_reading_time_min": 77,
@@ -164,8 +155,7 @@
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/platao/apologia-de-socrates.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/apologia-de-socrates.webp",
       "categories": [
-        "Filosofia",
-        "Clássicos"
+        "Filosofia"
       ],
       "published_at": 1785987669823,
       "estimated_reading_time_min": 54,
@@ -182,9 +172,7 @@
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/porfirio/isagoge.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/isagoge.webp",
       "categories": [
-        "Filosofia",
-        "Lógica",
-        "Clássicos"
+        "Filosofia"
       ],
       "published_at": 1787877875125,
       "estimated_reading_time_min": 35,
@@ -201,7 +189,7 @@
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/primeiro-livro-de-moises-chamado-genesis.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/primeiro-livro-de-moises-chamado-genesis.webp",
       "categories": [
-        "Bíblia"
+        "Teologia"
       ],
       "published_at": 1785896481797,
       "estimated_reading_time_min": 195,
@@ -216,7 +204,7 @@
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/segundo-livro-de-moises-chamado-exodo.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/segundo-livro-de-moises-chamado-exodo.webp",
       "categories": [
-        "Bíblia"
+        "Teologia"
       ],
       "published_at": 1785897264316,
       "estimated_reading_time_min": 160,
@@ -231,8 +219,7 @@
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/thomas-a-kempis/a-imitacao-de-cristo-livro-1.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-imitacao-de-cristo-livro-1.webp",
       "categories": [
-        "Teologia",
-        "Espiritualidade"
+        "Teologia"
       ],
       "published_at": 1785987684228,
       "estimated_reading_time_min": 60,

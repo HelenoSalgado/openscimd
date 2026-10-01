@@ -15,15 +15,16 @@ originalLanguage: "pl"
 language: "pt-BR"
 categories:
   - Filosofia
+  - Literatura
+keywords:
+  - Crítica Literária Clássica
+  - Cícero
   - Estudos Clássicos
   - Filosofia Antiga
-keywords:
-  - Cícero
-  - Poesia Latina
-  - Katarzyna Marciniak
-  - Retórica e Filosofia
-  - Crítica Literária Clássica
   - Humanitas
+  - Katarzyna Marciniak
+  - Poesia Latina
+  - Retórica e Filosofia
 license: "CC BY 4.0"
 ---
 

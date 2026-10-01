@@ -24,18 +24,16 @@ BBK: 87.3:87.4
 HoS: 113
 DOI: 10.33864/2790-0037.2025.v6.i5.101-112
 
-keywords: 
-  - Renascimento  
+keywords:
   - Humanismo
   - Lógica
   - Lógica aristotélica
   - Metodização
   - Petrus Ramus
-
-categories: 
+  - Renascimento
+categories:
   - Filosofia
-  - Lógica
-
+  - História
 copyright: "2025 por AcademyGate Publishing"
 
 license: "CC BY-NC 4.0"

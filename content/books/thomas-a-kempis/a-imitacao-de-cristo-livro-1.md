@@ -9,7 +9,11 @@ translator: "Heleno Salgado"
 license: "Domínio Público"
 categories:
   - Teologia
-  - Espiritualidade
+keywords:
+  - Devotio Moderna
+  - Espiritualidade Cristã
+  - Mística
+  - Tomás de Kempis
 ---
 
 ## LIVRO PRIMEIRO: ADMOESTAÇÕES PROVEITOSAS PARA A VIDA ESPIRITUAL

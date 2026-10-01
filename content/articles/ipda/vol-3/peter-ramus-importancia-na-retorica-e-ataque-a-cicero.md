@@ -13,14 +13,15 @@ originalLanguage: "en"
 translator: "Heleno Salgado"
 language: "pt-BR"
 keywords:
-  - Petrus Ramus
+  - Aristóteles
   - Cícero
-  - Retórica
   - Dialética
   - Educação
-  - Aristóteles
-categories:
+  - Petrus Ramus
   - Retórica
+categories:
+  - Filosofia
+  - Linguística
 license: "Artigo acadêmico em PDF; direitos autorais ainda não verificados."
 ---
 

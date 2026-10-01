@@ -7,7 +7,13 @@ license: "Domínio público"
 origianlLanguage: "en"
 language: "pt-BR"
 categories:
-     - Bíblia
+  - Teologia
+keywords:
+  - Antigo Testamento
+  - Bíblia
+  - Gênesis
+  - Pentateuco
+  - Torá
 ---
 
 ## Capítulo 1 — A Criação

@@ -18,17 +18,16 @@ date: "11-01-2019"
 
 DOI: "10.1590/2236-3459/83768"
 
-keywords: 
-  - "Currículo"
-  - "Método"
-  - "Petrus Ramus"
-  - "Ramismo"
-  - "pedagogia universitária"
-
-categories: 
-  - "História da Educação"
-  - "Educação"
-
+keywords:
+  - Currículo
+  - História da Educação
+  - Método
+  - Petrus Ramus
+  - Ramismo
+  - pedagogia universitária
+categories:
+  - Educação
+  - História
 copyright: "Associação Sul-Rio-Grandense de Pesquisadores em História da Educação - Asphe"
 
 license: "Artigo de acesso aberto distribuído nos termos de licença Creative Commons."

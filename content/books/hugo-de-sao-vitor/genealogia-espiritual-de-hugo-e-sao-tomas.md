@@ -8,9 +8,14 @@ language: "pt-BR"
 originalLanguage: "pt"
 translator: "Equipe Editorial cristianismo.org.br"
 categories:
+  - História
   - Teologia
+keywords:
   - Escola Vitorina
+  - Escolástica
   - História da Igreja
+  - Hugo de São Vítor
+  - Tomás de Aquino
 ---
 
 ## Estudo Introdutório[^ne1][^ne2][^ne3]

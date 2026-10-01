@@ -13,19 +13,22 @@ summary: "O presente estudo teológico examina o destino eterno de bebês que mo
 date: "29-07-2026"
 DOI: "10.5281/zenodo.21684711"
 journal: "Revista Viae Veritatis (ViVe)"
-keywords: 
-  - "Salvação de bebês"
-  - "Deficiência intelectual severa"
-  - "Graça soberana"
-  - "Pecado original"
-  - "Consciência moral"
-  - "João Calvino"
-  - "Eleição"
-  - "Predestinação"
-  - "Justiça divina"
-  - "Teologia Reformada"
-categories: 
-  - "Teologia"
+keywords:
+  - Consciência moral
+  - Deficiência intelectual severa
+  - Eleição
+  - Escatologia
+  - Graça soberana
+  - João Calvino
+  - Justiça divina
+  - Pecado original
+  - Predestinação
+  - Salvação
+  - Salvação de bebês
+  - Soteriologia
+  - Teologia Reformada
+categories:
+  - Teologia
 copyright: "Instituto Reformado Santo Evangelho (IRSE)"
 license: "ViVe 1.0 — REVISTA VIAE VERITATIS"
 ---
