@@ -1,5 +1,7 @@
+import pytest
 from typer.testing import CliRunner
 from main import app
+
 
 runner = CliRunner()
 
@@ -14,6 +16,7 @@ def test_cli_help():
 
 
 def test_cli_clean_md(tmp_path):
+    pytest.importorskip("salopdoc", reason="salopdoc é dependência opcional do pipeline")
     md_file = tmp_path / "test.md"
     md_file.write_text("# Test Article\n\nSome text with \"quotes\".\n", encoding="utf-8")
     
@@ -25,9 +28,11 @@ def test_cli_clean_md(tmp_path):
 
 
 def test_cli_import_pdf_missing_file():
+    pytest.importorskip("salopdoc", reason="salopdoc é dependência opcional do pipeline")
     result = runner.invoke(app, ["import-pdf", "non_existent_file.pdf"])
     assert result.exit_code != 0
     assert "Erro ao converter PDF" in result.stdout
+
 
 
 def test_cli_clean_html(tmp_path):

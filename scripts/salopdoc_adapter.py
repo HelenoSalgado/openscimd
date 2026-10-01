@@ -10,8 +10,14 @@ import os
 from pathlib import Path
 from typing import List, Optional
 
-import salopdoc
-from salopdoc.config import ConfigLoader, SalopDocConfig
+try:
+    import salopdoc
+    from salopdoc.config import ConfigLoader, SalopDocConfig
+except ImportError:
+    salopdoc = None
+    ConfigLoader = None
+    SalopDocConfig = None
+
 
 
 def get_default_config(base_dir: str | Path | None = None) -> SalopDocConfig:

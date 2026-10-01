@@ -1,11 +1,15 @@
 from pathlib import Path
 import pytest
+
+pytest.importorskip("salopdoc", reason="salopdoc é uma dependência opcional do grupo pipeline")
+
 from scripts.salopdoc_adapter import (
     get_default_config,
     clean_markdown_file,
     import_pdf,
     batch_import,
 )
+
 
 
 def test_get_default_config(tmp_path):
