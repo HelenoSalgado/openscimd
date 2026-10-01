@@ -3,6 +3,7 @@ import json
 import time
 from pathlib import Path
 from scripts.utils import parse_markdown_file, is_draft, parse_date_to_timestamp, estimate_reading_time, remove_empty_keys, get_files_recursively, slugify
+from scripts.categories import derive_udc_from_categories
 
 GITHUB_USERNAME = 'HelenoSalgado'
 REPO_NAME = 'openscimd'
@@ -99,6 +100,10 @@ def update_articles_index(base_dir):
         journal_id = f"journal_{slugify(journal_name)}" if journal_name else None
         volume_id = f"vol_{slugify(journal_name)}_{volume_val}" if journal_name and volume_val is not None else None
         
+        udc_code = metadata.get('udc') or metadata.get('UDC')
+        if not udc_code:
+            udc_code = derive_udc_from_categories(categories)
+
         entry = {
             'id': art_id,
             'title': title,
@@ -112,8 +117,7 @@ def update_articles_index(base_dir):
             'published_at': published_at,
             'estimated_reading_time_min': est_time,
             'doi': metadata.get('doi') or metadata.get('DOI'),
-            'udc': metadata.get('udc') or metadata.get('UDC'),
-            'bbk': metadata.get('bbk') or metadata.get('BBK'),
+            'udc': udc_code,
             'hos': metadata.get('hos') or metadata.get('HoS'),
             'license': metadata.get('license') or metadata.get('licence'),
             'journal': journal_name,
@@ -126,6 +130,7 @@ def update_articles_index(base_dir):
             'e_issn': metadata.get('e_issn') or metadata.get('E_ISSN') or metadata.get('e-issn'),
             'issn': metadata.get('issn') or metadata.get('ISSN')
         }
+
         updated_articles.append(remove_empty_keys(entry))
         
     existing_index['articles'] = updated_articles
@@ -220,6 +225,10 @@ def update_books_index(base_dir):
             
         est_time = estimate_reading_time(body, DEFAULT_WPM)
         
+        udc_code = metadata.get('udc') or metadata.get('UDC')
+        if not udc_code:
+            udc_code = derive_udc_from_categories(categories)
+
         entry = {
             'id': book_id,
             'title': title,
@@ -230,6 +239,7 @@ def update_books_index(base_dir):
             'cover_url': cover_url,
             'pdf_url': pdf_url,
             'categories': categories,
+            'udc': udc_code,
             'published_at': published_at,
             'estimated_reading_time_min': est_time,
             'license': metadata.get('license') or metadata.get('licence'),
@@ -239,6 +249,7 @@ def update_books_index(base_dir):
             'edition': metadata.get('edition'),
             'isbn': metadata.get('isbn')
         }
+
         updated_books.append(remove_empty_keys(entry))
         
     existing_index['books'] = updated_books

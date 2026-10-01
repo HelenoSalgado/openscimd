@@ -85,12 +85,9 @@ def validate_articles(base_dir: str) -> bool:
 
             if not metadata.get("doi") and not metadata.get("DOI"):
                 warnings.append('Campo recomendado "DOI" está ausente.')
-            if not metadata.get("udc") and not metadata.get("UDC"):
-                warnings.append('Campo recomendado "UDC" está ausente.')
-            if not metadata.get("bbk") and not metadata.get("BBK"):
-                warnings.append('Campo recomendado "BBK" está ausente.')
             if not metadata.get("journal"):
                 warnings.append('Campo administrativo "journal" está ausente.')
+
 
             if not (covers_dir / "mobile" / f"{base_name}.webp").exists():
                 warnings.append(f"Imagem de capa mobile correspondente não localizada em assets/covers/mobile/{base_name}.webp.")

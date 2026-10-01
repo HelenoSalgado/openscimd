@@ -92,3 +92,47 @@ def validate_categories(categories_val: Any) -> List[str]:
         )
 
     return errors
+
+
+# Mapeamento oficial de disciplinas canônicas para a Classificação Decimal Universal (CDU / UDC)
+CATEGORY_TO_UDC = {
+    "Antropologia": "39",
+    "Artes": "7",
+    "Astronomia": "52",
+    "Biologia": "57",
+    "Computação": "004",
+    "Direito": "34",
+    "Economia": "33",
+    "Educação": "37",
+    "Filosofia": "1",
+    "Física": "53",
+    "Geografia": "91",
+    "História": "94",
+    "Linguística": "81",
+    "Literatura": "82",
+    "Matemática": "51",
+    "Medicina": "61",
+    "Música": "78",
+    "Política": "32",
+    "Psicologia": "159.9",
+    "Química": "54",
+    "Sociologia": "316",
+    "Teologia": "2",
+}
+
+
+def derive_udc_from_categories(categories: Optional[List[str]]) -> Optional[str]:
+    """Deriva a notação CDU (UDC) a partir das categorias canônicas do documento.
+
+    Se houver múltiplas categorias, combina os códigos com dois-pontos ':' segundo
+    a sintaxe padrão da Classificação Decimal Universal.
+    Exemplo: ['Filosofia', 'História'] -> '1:94'
+    """
+    if not categories:
+        return None
+    codes: List[str] = []
+    for cat in sorted(categories):
+        code = CATEGORY_TO_UDC.get(str(cat).strip())
+        if code and code not in codes:
+            codes.append(code)
+    return ":".join(codes) if codes else None

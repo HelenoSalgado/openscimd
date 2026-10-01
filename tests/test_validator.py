@@ -1,10 +1,21 @@
 import pytest
 from pathlib import Path
-from scripts.categories import load_allowed_categories, normalize_categories, validate_categories
+from scripts.categories import load_allowed_categories, normalize_categories, validate_categories, derive_udc_from_categories
 from scripts.validator import validate_articles, validate_books, validate_all
 from scripts.utils import parse_markdown_file, get_files_recursively
 
 BASE_DIR = Path(__file__).resolve().parent.parent
+
+
+def test_derive_udc_from_categories():
+    assert derive_udc_from_categories(None) is None
+    assert derive_udc_from_categories([]) is None
+    assert derive_udc_from_categories(["Filosofia"]) == "1"
+    assert derive_udc_from_categories(["Teologia"]) == "2"
+    assert derive_udc_from_categories(["Filosofia", "História"]) == "1:94"
+    assert derive_udc_from_categories(["Computação"]) == "004"
+    assert derive_udc_from_categories(["CategoriaInexistente"]) is None
+
 
 
 def test_load_allowed_categories():

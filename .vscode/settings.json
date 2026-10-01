@@ -15,7 +15,7 @@
         "legacy_scripts": true,
         "**/__pycache__": true,
         ".agents": false,
-        ".github": true
+        ".github": false
     },
     "search.exclude": {
         "**/data": false,
