@@ -1,4 +1,4 @@
-name: Update Index
+name: Update Index and Deploy
 
 on:
   push:
@@ -6,18 +6,22 @@ on:
       - 'index.json'
       - 'index-articles.json'
       - 'index-books.json'
+      - 'index-journals.json'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-index:
+  update-index-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
 
       - name: Set up Python and uv
         uses: astral-sh/setup-uv@v5
@@ -25,17 +29,24 @@ jobs:
           enable-cache: true
           python-version: "3.11"
 
+      - name: Validate metadata and run tests
+        run: |
+          uv run openscimd validate
+          uv run pytest
+
       - name: Run update-index script
         run: uv run openscimd index
 
       - name: Check if index files changed
         id: check_changes
         run: |
-          git add index-articles.json index-books.json
-          if git diff --cached --quiet index-articles.json index-books.json; then
+          git add index-articles.json index-books.json index-journals.json
+          if git diff --cached --quiet; then
             echo "changed=false" >> $GITHUB_OUTPUT
+            echo "ℹ️ Nenhum arquivo de índice foi alterado."
           else
             echo "changed=true" >> $GITHUB_OUTPUT
+            echo "✅ Alterações detectadas nos arquivos de índice."
           fi
 
       - name: Commit and push changes if index files changed
@@ -43,25 +54,21 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git commit -m "chore: auto-update index-articles.json and index-books.json [skip ci]"
+          git commit -m "chore: auto-update index files [skip ci]"
+          # Limpa quaisquer arquivos residuais ou modificações extras antes do rebase
+          git checkout -- . || true
           git pull origin ${{ github.ref_name }} --rebase
-          git push
+          git push origin ${{ github.ref_name }}
 
       - name: Trigger Cloudflare build hook
-        if: steps.check_changes.outputs.changed == 'true'
         env:
-          LEIA_ME_API_URL: ${{ secrets.LEIA_ME_API_URL || vars.LEIA_ME_API_URL }}
-          LEIA_ME_API_TOKEN: ${{ secrets.LEIA_ME_API_TOKEN || vars.LEIA_ME_API_TOKEN }}
+          CLOUDFLARE_HOOK_URL: ${{ secrets.LEIA_ME_API_URL || vars.LEIA_ME_API_URL || 'https://api.cloudflare.com/client/v4/workers/builds/deploy_hooks/ec0a7c6b-cc0f-4223-a31c-372fbba581b9' }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.LEIA_ME_API_TOKEN || vars.LEIA_ME_API_TOKEN }}
         run: |
-          if [ -z "$LEIA_ME_API_URL" ]; then
-            echo "❌ Erro: LEIA_ME_API_URL não está configurada nas configurações do repositório."
-            exit 1
-          fi
-          echo "🚀 Disparando build hook na Cloudflare..."
-          if [ -n "$LEIA_ME_API_TOKEN" ]; then
-            curl -s -f -X POST -H "Authorization: Bearer $LEIA_ME_API_TOKEN" "$LEIA_ME_API_URL"
+          echo "🚀 Disparando build hook na Cloudflare para a branch ${{ github.ref_name }}..."
+          if [ -n "$CLOUDFLARE_API_TOKEN" ]; then
+            curl -s -f -X POST -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" "$CLOUDFLARE_HOOK_URL"
           else
-            curl -s -f -X POST "$LEIA_ME_API_URL"
+            curl -s -f -X POST "$CLOUDFLARE_HOOK_URL"
           fi
           echo "✅ Build hook disparado com sucesso!"
-
