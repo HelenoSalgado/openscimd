@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1790896014525,
+  "last_updated": 1791707300023,
   "books": [
     {
       "id": "book_012",
@@ -21,6 +21,25 @@
       "language": "pt-BR",
       "originalLanguage": "la",
       "translator": "OpenSciMD"
+    },
+    {
+      "id": "book_023",
+      "title": "O Pastor Amoroso",
+      "author": "Alberto Caeiro",
+      "summary": "Sequência lírico-filosófica de oito poemas bucólicos escrita por Alberto Caeiro, mestre heterônimo de Fernando Pessoa. A obra retrata a perturbação do olhar puramente sensorial e objetivo do pastor diante do arrebatamento amoroso, a dor da desilusão e o solene reencontro com a realidade nua das coisas e a vastidão dos campos.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/alberto-caeiro/o-pastor-amoroso.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/o-pastor-amoroso.webp",
+      "categories": [
+        "Filosofia",
+        "Literatura",
+        "Poesia"
+      ],
+      "udc": "1:82",
+      "published_at": 1791706858186,
+      "estimated_reading_time_min": 6,
+      "license": "Domínio Público",
+      "language": "pt-PT",
+      "originalLanguage": "pt"
     },
     {
       "id": "book_011",
@@ -172,6 +191,62 @@
       "language": "pt-BR",
       "originalLanguage": "en",
       "translator": "Heleno Salgado"
+    },
+    {
+      "id": "book_020",
+      "title": "A Atlântida: Fragmentos de Timeu e Crítias",
+      "author": "Platão",
+      "summary": "Narrativa lendária e filosófica transmitida por Sólon a partir dos sacerdotes egípcios de Saís, preservada por Platão nos diálogos Timeu e Crítias, descrevendo a primitiva civilização ateniense, a fundação e a opulência da ilha-império de Atlântida e seu trágico desaparecimento nas profundezas do oceano após sucessivos cataclismos cósmicos.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/platao/atlantida.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/atlantida.webp",
+      "categories": [
+        "Filosofia",
+        "Literatura"
+      ],
+      "udc": "1:82",
+      "published_at": 1791697447811,
+      "estimated_reading_time_min": 15,
+      "license": "Domínio Público",
+      "language": "pt-BR",
+      "originalLanguage": "el"
+    },
+    {
+      "id": "book_021",
+      "title": "Fédon: Da Imortalidade da Alma",
+      "author": "Platão",
+      "summary": "Diálogo dramático e filosófico que narra as últimas horas de Sócrates na prisão de Atenas antes de ingerir a cicuta. Por meio de um diálogo íntimo com seus discípulos Cebete e Símias, Sócrates expõe suas provas metafísicas acerca da sobrevivência e imortalidade da alma, a teoria da reminiscência, a afinidade com as Ideias eternas e o destino do espírito para além da morte física.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/platao/fedon.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/fedon.webp",
+      "categories": [
+        "Filosofia",
+        "Literatura"
+      ],
+      "udc": "1:82",
+      "published_at": 1791701406311,
+      "estimated_reading_time_min": 137,
+      "license": "Domínio Público",
+      "language": "pt-BR",
+      "originalLanguage": "el",
+      "translator": "Carlos Alberto Nunes"
+    },
+    {
+      "id": "book_022",
+      "title": "Parmênides: Do Uno e das Ideias",
+      "author": "Platão",
+      "summary": "Um dos mais profundos e desafiadores diálogos da filosofia ocidental, no qual o jovem Sócrates debate com os venerandos sábios de Eleia, Zenão e Parmênides. A obra inicia-se com um rigoroso exame crítico das dificuldades da Teoria das Ideias (o argumento do 'Terceiro Homem' e a separação dos mundos) e culmina no monumental exercício da ginástica dialética, deduzindo as oito hipóteses contraditórias a respeito do ser e do não-ser do Uno frente à multiplicidade.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/platao/parmenides.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/parmenides.webp",
+      "categories": [
+        "Filosofia",
+        "Literatura"
+      ],
+      "udc": "1:82",
+      "published_at": 1791704276780,
+      "estimated_reading_time_min": 96,
+      "license": "Domínio Público",
+      "language": "pt-BR",
+      "originalLanguage": "el",
+      "translator": "Carlos Alberto Nunes"
     },
     {
       "id": "book_013",
