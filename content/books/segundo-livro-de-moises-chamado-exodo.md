@@ -7,12 +7,6 @@ license: "Domínio público"
 language: "pt-BR"
 categories:
   - Teologia
-keywords:
-  - Antigo Testamento
-  - Bíblia
-  - Pentateuco
-  - Torá
-  - Êxodo
 ---
 
 ## Capítulo 1 — A Opressão de Israel no Egito

@@ -192,6 +192,9 @@ def validate_books(base_dir: str) -> bool:
             cat_errors = validate_categories(cat_val)
             errors.extend(cat_errors)
 
+            if "keywords" in metadata:
+                errors.append('E-books não possuem o campo "keywords". Palavras-chave são exclusivas para artigos acadêmicos.')
+
             if not (covers_dir / "mobile" / f"{base_name}.webp").exists():
                 warnings.append(f"Imagem de capa mobile correspondente não localizada em assets/covers/mobile/{base_name}.webp.")
 

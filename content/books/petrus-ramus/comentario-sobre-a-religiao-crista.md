@@ -7,11 +7,6 @@ license: "Domínio Público"
 language: "pt-BR"
 categories:
   - Teologia
-keywords:
-  - Petrus Ramus
-  - Reforma Protestante
-  - Religião Cristã
-  - Teologia Sistemática
 draft: true
 ---
 

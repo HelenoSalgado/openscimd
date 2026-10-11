@@ -1,86 +1,132 @@
 # Diretrizes de Geração de Capas Editoriais para Agentes de IA — OpenSciMD / LeiaME
 
-Este documento orienta os agentes de IA na concepção, geração e validação de capas para artigos acadêmicos, tratados filosóficos, teológicos e e-books do ecossistema OpenSciMD.
+Este documento orienta os agentes de IA na concepção, geração e validação de capas para obras do acervo OpenSciMD, estabelecendo a distinção canônica entre **Livros** e **Artigos**.
 
 ---
 
-## 1. Princípios Fundamentais de Design e Abstração Conceitual
+## 1. Princípios Fundamentais de Design e Composição
 
 - **Formato e Renderização 2D Plano**:
-  - A capa deve ser sempre uma arte gráfica bidimensional plana (*flat 2D front-facing artwork*), em proporção 2:3.
-  - **É terminantemente proibido** gerar mockups 3D de livros físicos, cantos dobrados, sombras de páginas projetadas, margens brancas externas ou blocos/tarjas de texto destacadas.
-  - A composição deve ocupar 100% da área útil (*full-bleed canvas*).
+  - A capa deve ser sempre uma arte gráfica bidimensional plana (*flat 2D front-facing artwork*), em proporção **2:3** (resolução canônica `1696 × 2528 px`).
+  - **É terminantemente proibido** gerar mockups 3D de livros físicos, cantos dobrados, sombras de páginas projetadas, margens brancas externas ou blocos/tarjas de texto destacados.
+  - A composição deve ocupar 100% da área útil (*full-bleed canvas*), sem bordas ou molduras que cortem a imagem.
 
-- **Arte Abstrata, Conceitual e Temática (Fim dos Clichês Literais)**:
-  - **Proibição de Clichês e Símbolos Literais**: É estritamente proibido recorrer a tropos repetitivos e clichês vazios, tais como: feixes de luz celestial óbvios (*beams of light*), bíblias/livros abertos sobre mesas, lamparinas a óleo, púlpitos genéricos ou colunas romanas descontextualizadas.
-  - **Metafísica e Minimalismo Conceitual**: A ilustração deve traduzir a *ideia matriz* e a *tensão temática/filosófica* do texto em uma linguagem estética abstrata, nobre e madura. Inspire-se em:
-    - *Geometria e metafísica clássica* (formas platônicas puras, intersecções de linhas e esferas, proporção áurea, diagramação geométrica austera).
-    - *Gravuras e xilogravuras conceituais* (estilo Dürer, matrizes renascentistas/barrocas de alta densidade simbólica sem literalismo ingênuo).
-    - *Pintura abstrata e expressionismo tonal refinado* (texturas ricas de óleo sobre linho cru, chiaroscuro abstrato, transições tonais profundas, minimalismo conceitual estilo Mark Rothko, Malevich ou gravuras de tratados científicos antigos).
-    - *Paleta cromática profunda e erudita*: Obsidian, carvão, lápis-lazúli escuro, azul-noite, verde-terra, ocre queimado, ferrugem e toques discretos de folha de ouro envelhecida.
+- **Correspondência Histórico-Artística (Sem Anacronismos)**:
+  - Cada obra deve respeitar a **linguagem plástica, os materiais e a tradição artística da sua própria época histórica**. Nunca force um estilo de um século sobre obras de outro período:
+    1. **Grécia Clássica & Helenismo (Platão, Aristóteles, Porfírio)**:
+       - Escultura e relevo arquitetônico em mármore pentélico, afresco ateniense austero, baixos-relevos clássicos, colunas jônicas/dóricas, Acrópole sob luz dramática de chiaroscuro. Tons de mármore envelhecido, terracota, bronze antigo e carvão profundo.
+    2. **Patrística & Idade Média (Agostinho, Inácio de Antioquia, Hugo de São Vítor, Thomas à Kempis)**:
+       - Afresco românico e gótico primitivo (escola de Giotto / Fra Angelico sem representações de Cristo), textura de pergaminho cru velado, claustros monásticos solenes, luz espiritual difusa através de ogivas.
+    3. **Tradição Bíblica Arcaica (Moisés / Gênesis e Êxodo)**:
+       - Gravura monumental e sublime, paisagens primordiais cósmicas (águas da criação, Monte Sinai sob tempestade e nuvem de glória), rocha arcaica entalhada e luz divina dramática.
+    4. **Renascimento & Humanismo (Petrus Ramus, séc. XVI)**:
+       - Xilogravura renascentista e gravura em cobre (buril) no estilo de Albrecht Dürer e Hans Holbein, frontispícios de tratados humanistas quinhentistas.
 
 - **Segundo Mandamento (Regra Teológica Inegociável)**:
-  - **Jamais** gerar figuras humanas ou qualquer representação figurativa de **Jesus Cristo**. A reverência e a solenidade devem ser expressas exclusivamente por formas abstratas, simbolismo intelectual puro, arquitetura geométrica, texturas nobres ou alegorias conceituais.
+  - **Jamais** gerar figuras humanas ou qualquer representação figurativa de **Jesus Cristo**. A reverência e a solenidade devem ser expressas exclusivamente por formas arquitetônicas, simbolismo intelectual puro, luz ambiente, paisagens sagradas ou alegorias conceituais.
+
+- **Proibição Estrita de Clichês, Preguiça Criativa e Vícios de Composição**:
+  - **Fim do Loop de Templos e Monumentos**: O agente de IA **NUNCA deve cair no vício repetitivo** de desenhar apenas ruínas gregas, colunas de mármore, pórticos ou claustros de pedra para qualquer obra clássica. Cada livro exige uma concepção artística própria, autêntica e dotada de personalidade singular.
+  - **Proibição de Objetos Isolados (Naturezas-Mortas Artificiais)**: É expressamente proibido compor capas com objetos isolados em primeiro plano sobre pedestais, mesas ou bancadas (ex: taças soltas, cálices, pergaminhos enrolados, livros abertos sobre mesas, velas e lamparinas). Essas composições parecem catálogos de produtos e destroem o caráter monumental da arte.
+  - **Exigência de Riqueza Plástica e Diversidade Visual**: O agente deve explorar a plenitude dos gêneros da pintura clássica:
+    - *Pintura Histórica Vívida*: Cenas históricas reais e dramáticas com figuras humanas de época (ex: tribunais, debates, senados, congregações — respeitando sempre a proibição inegociável de representar Jesus Cristo).
+    - *Paisagens Naturais e Cósmicas Sublimes*: Montanhas monumentais, desertos do Sinai, céus tempestuosos com o Verbo divino rasgando as nuvens, rios e mares primordiais.
+    - *Arte Conceitual e Mística Autêntica*: Pintura de iluminação interior, relevos escultóricos complexos e xilogravuras/calcografias renascentistas densas.
+  - **Proibição de Estilo Kitsch Devocional (Estética 'Adventista')**: É terminantemente proibido gerar ilustrações com aspecto de folhetos devocionais confessionais ou literatura popular kitsch (pastorais hipersaturadas, gramados verdes artificiais de conto de fadas, riachos cristalinos adocicados, pores do sol reluzentes tipo aerógrafo digital). A arte **DEVE SER OU DE ALTA ERUDIÇÃO PLÁSTICA DE MUSEU** (óleo clássico com pigmentos minerais sóbrios, chiaroscuro denso, textura tátil de linho e verniz, gravura de mestre antigo) **OU REALISMO HISTÓRICO AUSTERO E VEROSSÍMIL**. Zero adocicamento, máxima solenidade.
+  - **Fidelidade ao Cerne do Texto**: A ilustração deve traduzir a tese ou o drama central da obra específica, demonstrando que o agente compreendeu o texto real e não apenas gerou um cenário decorativo genérico.
 
 ---
 
-## 2. Hierarquia Tipográfica Rigorosa
+## 2. Hierarquia Tipográfica Rigorosa para Livros
 
-Ao gerar ou renderizar o texto da capa, o agente deve seguir estritamente a gradação de pesos e contrastes:
+O grid tipográfico unifica toda a coleção de livros e garante sua distinção frente aos artigos acadêmicos:
 
-1. **Título Principal (Topo)**:
-   - Tipografia serifada clássica monumental (estilo Garamond, Cinzel, Didot, Bodoni ou Baskerville) em caixa alta (*ALL CAPS*).
-   - Maior destaque da composição, em acabamento de ouro fosco nobre (*warm matte gold*).
+1. **Título Principal (Terço Superior)**:
+   - Tipografia serifada clássica monumental (estilo Garamond, Cinzel ou Baskerville).
+   - **Exclusivamente em Title Case / Caixa Alta e Baixa elegante** (ex: *Apologia de Sócrates*, *A Imitação de Cristo*, *Poética*).
+   - **É TERMINANTEMENTE PROIBIDO O USO DE CAIXA ALTA TOTAL (ALL CAPS)** em títulos de livros.
+   - Cor com alto contraste sobre a arte: ouro fosco nobre (*warm matte gold*), marfim luminoso (*luminous ivory*) ou branco esculpido com sombra suave.
 2. **Subtítulo (quando houver)**:
-   - Em **corpo médio equilibrado e perfeitamente legível** (evitando encolhimento excessivo), em estilo serifado clássico ou itálico refinado.
-   - Tom marfim suave ou branco nítido (*soft ivory / crisp white*), harmonizando proporcionalmente entre o título e o autor.
-3. **Nome do Autor (Destaque Nobre e Autônomo)**:
-   - **Sempre em caixa baixa com iniciais maiúsculas (*Title Case*)** (ex: `Porfírio`, `Agostinho de Hipona`, `João Calvino`), com leve espaçamento entre letras (*tracked serif lettering*).
-   - **Contraste e Escala**: Tipografia nobre e distinta em **branco puro e luminoso (*bright crisp pure white*)**, com respiro vertical equilibrado em relação ao subtítulo, assegurando protagonismo visual sem sufocar ou diminuir os demais elementos.
-4. **Área Inferior (Base Limpa)**:
-   - **Para E-books / Livros**: A metade e a base inferior devem permanecer totalmente limpas de qualquer texto repetido ou datas.
-   - **Para Artigos**: Apenas a data humanizada em português centralizada discretamente na base (ex: `"6 de Agosto de 2026"`).
+   - Em corpo médio perfeitamente legível, serifado clássico ou itálico refinado, posicionado logo abaixo do título com espaçamento harmônico.
+3. **Nome do Autor (Subordinado e Distinto)**:
+   - **Em Title Case** (ex: `Platão`, `Aristóteles`, `Hugo de São Vítor`).
+   - Escala visivelmente menor que o título (aproximadamente 50% a 60% da altura do título), garantindo que o observador distinga imediatamente o que é título e o que é autor.
+   - Espaçamento vertical generoso e confortável abaixo do título.
+4. **Data Histórica Canônica (Base Inferior)**:
+   - Exibição da época/data histórica da obra (ex: `399 a.C.`, `335 a.C.`, `c. 1130 d.C.`, `1576`) centralizada na base.
+   - **Respiro Inferior Obrigatório**: A data deve ser posicionada com uma **margem de respiro confortável em relação à borda inferior** (~6% a 9% da altura total do canvas, ou Y a aproximadamente 2300-2350 px na resolução canônica). **Nunca deixe a data colada no limite inferior da capa**.
 
 ---
 
-## 3. Estrutura Padrão de Prompt para IA (Base Conceitual)
+## 3. Diferenciação Entre Livros e Artigos
 
-### Template para E-books e Obras Filosóficas/Teológicas:
+| Critério | Capas de Livros (`content/books/`) | Capas de Artigos (`content/articles/`) |
+| :--- | :--- | :--- |
+| **Estética Visual** | Arte histórica de época (afresco, mármore, iluminura, xilogravura Dürer) | Diagramas conceituais abstratos da tese acadêmica contemporânea |
+| **Tipografia do Título** | Monumental clássica em **Title Case** (proibido ALL CAPS) | Serifa editorial clássica |
+| **Rodapé** | Datação histórica de era (`399 a.C.`, `c. 1130 d.C.`) com respiro amplo | Data de publicação periódica contemporânea (`20 de Novembro de 2025`) ou veículo |
+| **Atmosfera** | Tratado canônico e atemporal de biblioteca clássica | Periódico acadêmico universitário de pesquisa |
+
+---
+
+## 4. Templates de Prompt para Livros por Época Histórica
+
+### Template A: Grécia Clássica & Filosofia Antiga (ex: Platão, Aristóteles)
 ```text
-Masterpiece fine-art conceptual book cover design, full-bleed artwork occupying 100% of the canvas without borders, frames, or split white boxes. Flat 2D graphic design only, no 3D book mockups or angled shadows.
-Aesthetic: High-end intellectual academic publishing house (Penguin Classics, Oxford World's Classics, Gallimard).
-Style: Moody, abstract fine-art oil painting with heavy organic textures, minimalist chiaroscuro, and deep [PALETA: obsidian / charcoal / deep midnight / raw umber / burnished gold] tones.
-Visuals: [CONCEITO FILOSÓFICO/TEOLÓGICO ABSTRATO ESPECÍFICO DA OBRA — EX: A geometric metaphysical abstraction of pure forms, intersecting ethereal spheres and infinite lines fading into deep textural darkness, representing pure intellect and immutable truth. No literal books, no lamps, no light beams, no human figures].
-Text layout rendered exclusively in the upper third with balanced classical proportions:
-- Main Title: '[TÍTULO PRINCIPAL]' in monumental, elegant classical serif typography in ALL CAPS with warm matte gold finish at the top.
-- Subtitle: '[SUBTÍTULO (se houver)]' in medium-sized, perfectly legible and clear classical serif typography in crisp soft ivory directly below the title.
-- Author: '[Nome do Autor em Title Case]' in distinguished, prominent Title Case serif typography in bright crisp pure white, harmoniously balanced with the title and subtitle, with comfortable vertical spacing.
-- Bottom area: Completely clean and empty of any text.
-Pure intellectual sophistication, profound conceptual depth, mature, minimalist and non-literal.
+Masterpiece fine-art 2D book cover in vertical 2:3 aspect ratio for the classic philosophical work '[TÍTULO DA OBRA]' by [AUTOR].
+Aesthetic: Authentic Ancient Greek classical heritage. Solemn Pentelic marble architectural relief, Athenian temple columns (Doric/Ionic), classical Acropolis atmosphere, rich chiaroscuro shadows with warm aged Grecian stone, terracotta, antique bronze, and charcoal textures.
+100% FULL-BLEED: The artwork covers the entire canvas without borders, frames, or split boxes. Flat 2D graphic design only (NO 3D mockups, NO perspective tilt).
+Typography:
+- Main Title: '[Título da Obra em Title Case]' in prominent monumental classical serif in upper third with warm matte gold / luminous ivory finish and soft shadow. STRICTLY NO ALL CAPS.
+- Author: '[Autor em Title Case]' in classical serif, noticeably smaller than title (50-60% size) with ample vertical breathing space.
+- Bottom Date: '[DATA a.C./d.C.]' centered at the base with generous, comfortable breathing margin above the bottom edge (well-spaced from the very bottom).
+Strictly NO human figures, NO open books, NO lamps, NO religious depictions.
 ```
 
-### Template para Artigos Acadêmicos:
+### Template B: Patrística & Idade Média (ex: Agostinho, Hugo de São Vítor, Kempis)
 ```text
-Masterpiece fine-art conceptual editorial article cover design, full-bleed artwork occupying 100% of the canvas without borders, frames, or split white boxes. Flat 2D graphic design only, no 3D mockups.
-Aesthetic: Prestigious academic journal / university press.
-Style: Abstract textural chiaroscuro, deep minimalist composition with fine art etching or geometric engravings.
-Visuals: [SÍMBOLO OU DIAGRAMA CONCEITUAL ABSTRATO LIGADO DIRETAMENTE À TESE DO ARTIGO. Sem clichês genéricos].
-Text layout:
-- Main Title: '[TÍTULO PRINCIPAL]' in classical editorial serif typography.
-- Subtitle: '[SUBTÍTULO]' in crisp white complementary serif.
-- Author Name: '[Nome do Autor em Title Case]'.
-- Bottom Footer: '[DATA HUMANIZADA]' centered at the base.
-Dignified, sober, conceptually precise and restrained.
+Masterpiece fine-art 2D book cover in vertical 2:3 aspect ratio for the medieval theological treatise '[TÍTULO DA OBRA]' by [AUTOR].
+Aesthetic: Authentic Romanesque and early Gothic monastic heritage. Solemn cloister arches, textured aged monastic vellum, austere sacred architecture, contemplative chiaroscuro with deep midnight indigo, warm raw umber, antique burnished gold leaf, and earth tones.
+100% FULL-BLEED flat 2D graphic design without borders, frames, or 3D mockups.
+Typography:
+- Main Title: '[Título da Obra em Title Case]' in monumental classical serif in upper third in warm antique gold or ivory with soft shadow. STRICTLY NO ALL CAPS.
+- Author: '[Autor em Title Case]' in smaller refined classical serif with comfortable vertical breathing space.
+- Bottom Date: '[DATA c. XXXX d.C.]' centered with generous breathing room well above the bottom border.
+Strictly NO figurative depictions of Jesus Christ (Second Commandment), NO human figures, NO open books.
+```
+
+### Template C: Tradição Bíblica Arcaica (ex: Gênesis, Êxodo)
+```text
+Masterpiece fine-art 2D book cover in vertical 2:3 aspect ratio for the biblical text '[TÍTULO DA OBRA]' by [AUTOR].
+Aesthetic: Sublime primordial and monumental sacred landscape. Primeval rocks, dramatic cosmic light piercing majestic clouds over archaic mountains, solemn chiaroscuro of creation and divine covenant. Deep obsidian, granite, sand, and radiant heavenly amber tones.
+100% FULL-BLEED flat 2D graphic design without frames or borders.
+Typography:
+- Main Title: '[Título da Obra em Title Case]' in monumental noble serif in upper third. STRICTLY NO ALL CAPS.
+- Author: '[Autor em Title Case]' noticeably smaller with ample vertical spacing.
+- Bottom Date: '[DATA c. 1400 a.C.]' centered with generous breathing space above the bottom border.
+Strictly NO religious figurative depictions of Christ, NO human figures, NO cliches.
+```
+
+### Template D: Renascimento & Humanismo (ex: Petrus Ramus)
+```text
+Masterpiece fine-art 2D book cover in vertical 2:3 aspect ratio for the Renaissance humanist treatise '[TÍTULO DA OBRA]' by [AUTOR].
+Aesthetic: Renaissance woodcut and copperplate engraving in the style of Albrecht Dürer. Fine intellectual geometric diagrams, noble Renaissance architectural arches, cross-hatching textures on handmade laid paper with sepia and rich charcoal ink.
+100% FULL-BLEED flat 2D graphic design without borders or 3D mockups.
+Typography:
+- Main Title: '[Título da Obra em Title Case]' in monumental Renaissance classical serif in upper third. STRICTLY NO ALL CAPS.
+- Author: '[Autor em Title Case]' visibly smaller with ample vertical spacing.
+- Bottom Date: '[DATA]' centered with generous breathing space above the bottom border.
+Strictly NO human figures, NO 3D books.
 ```
 
 ---
 
-## 4. Pipeline de Processamento no Repositório
+## 5. Pipeline de Processamento de Arquivos
 
-Após a geração da imagem:
-1. Salve o arquivo original em `assets/covers/originals/<slug-do-artigo>.png`.
-2. Execute a geração das versões responsivas WebP (`mobile/`, `tablet/`, `desktop/`) via CLI:
-   ```bash
-   uv run openscimd build-covers
-   ```
-3. Atualize os índices com `uv run openscimd index` e valide a integridade com `uv run openscimd validate`.
+Após a aprovação manual de cada capa:
+1. Salve o original em alta resolução em `assets/covers/originals/<slug>.png`.
+2. Gere as versões WebP responsivas otimizadas:
+   - `desktop/`: 1696 × 2528 px
+   - `tablet/`: 1200 × 1789 px
+   - `mobile/`: 1080 × 1610 px
+3. Atualize o status na tabela do [ROADMAP_COVERS.md](file:///home/heleno/Documentos/GitHub/openscimd/ROADMAP_COVERS.md).

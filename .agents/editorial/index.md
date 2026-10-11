@@ -172,6 +172,7 @@ categories:
 1. **Campos Obrigatórios**: `title`, `author`, `summary`, `date`, `license`.
 2. **Data**: Se a data original não for explícita, use a data do volume ou PDF.
 3. **Resumo (`summary`)**: Inclua o resumo do artigo integralmente. Se não houver, elabore um resumo fiel a partir dos objetivos do texto.
+4. **Ausência de Palavras-chave (`keywords`)**: E-books não possuem o campo `keywords`. Palavras-chave são de uso restrito a artigos acadêmicos.
 
 ---
 

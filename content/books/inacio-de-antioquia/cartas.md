@@ -9,12 +9,6 @@ translator: "Equipe Editorial cristianismo.org.br"
 categories:
   - História
   - Teologia
-keywords:
-  - Cristianismo Primitivo
-  - Eclesiologia
-  - Inácio de Antioquia
-  - Martírio
-  - Patrística
 language: "pt-BR"
 ---
 

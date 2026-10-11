@@ -9,13 +9,6 @@ originalLanguage: "el"
 language: "pt-BR"
 categories:
   - Filosofia
-keywords:
-  - Categorias Aristotélicas
-  - Clássicos
-  - Isagoge
-  - Lógica
-  - Organon
-  - Porfírio
 ---
 
 ## *Introdução*[^1][^2]

@@ -9,11 +9,6 @@ originalLanguage: "la"
 translator: "Equipe Editorial cristianismo.org.br"
 categories:
   - Teologia
-keywords:
-  - Escola Vitorina
-  - Exegese Medieval
-  - Hugo de São Vítor
-  - Salmos
 ---
 
 ## *Anotações sobre o Salmo 118*[^ne1][^ne2]

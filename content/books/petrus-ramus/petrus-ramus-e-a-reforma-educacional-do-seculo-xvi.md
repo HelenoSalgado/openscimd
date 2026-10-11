@@ -5,16 +5,10 @@ translator: "Heleno Salgado"
 date: "1912"
 language: "pt-BR"
 originalLanguage: "en"
+summary: "Estudo histórico-filosófico fundamental de Frank Pierrepont Graves (1912) sobre a vida, os embates acadêmicos e a obra pedagógica de Petrus Ramus (1515–1572), eminente humanista, matemático e professor no Collège Royal de França, que liderou a rebelião contra a escolástica aristotélica no século XVI e estabeleceu novas bases metodológicas para o Trivium e o Quadrivium."
 categories:
   - Educação
   - História
-keywords:
-  - História da Educação
-  - Humanismo
-  - Pedagogia
-  - Petrus Ramus
-  - Renascimento
-summary: "Estudo histórico-filosófico fundamental de Frank Pierrepont Graves (1912) sobre a vida, os embates acadêmicos e a obra pedagógica de Petrus Ramus (1515–1572), eminente humanista, matemático e professor no Collège Royal de França, que liderou a rebelião contra a escolástica aristotélica no século XVI e estabeleceu novas bases metodológicas para o Trivium e o Quadrivium."
 license: "Domínio Público"
 ---
 

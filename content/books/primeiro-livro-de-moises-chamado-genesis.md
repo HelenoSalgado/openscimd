@@ -8,12 +8,6 @@ origianlLanguage: "en"
 language: "pt-BR"
 categories:
   - Teologia
-keywords:
-  - Antigo Testamento
-  - Bíblia
-  - Gênesis
-  - Pentateuco
-  - Torá
 ---
 
 ## Capítulo 1 — A Criação

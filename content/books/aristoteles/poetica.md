@@ -10,12 +10,6 @@ language: "pt-BR"
 categories:
   - Filosofia
   - Literatura
-keywords:
-  - Aristóteles
-  - Clássicos
-  - Mímesis
-  - Poética
-  - Tragédia
 ---
 
 # Poética

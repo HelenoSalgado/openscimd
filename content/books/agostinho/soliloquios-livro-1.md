@@ -10,12 +10,6 @@ translator: "OpenSciMD"
 categories:
   - Filosofia
   - Teologia
-keywords:
-  - Agostinho de Hipona
-  - Alma
-  - Patrística
-  - Solilóquios
-  - Verdade
 ---
 
 # LIVRO PRIMEIRO

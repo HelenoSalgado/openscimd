@@ -13,7 +13,7 @@ Este documento estabelece o padrão de metadados YAML (MDC keys) obrigatório pa
 | **`summary`** | String | Sim | Resumo sucinto do conteúdo. | Exibição de cards em portais de busca. |
 | **`date`** | String (Date) | Sim | `"2026-06-18"`, `"18-06-2026"` ou ano histórico | Data canônica de publicação original. |
 | **`categories`** | Array | Sim | `["Filosofia", "História"]` | **Disciplinas canônicas generalistas pré-aprovadas** (ver [Diretriz de Categorias](#-diretriz-estrita-de-categorias)). |
-| **`keywords`** | Array | Não | `["Lógica", "Renascimento", "Metodologia"]` | Palavras-chave, períodos históricos, correntes e temas específicos. |
+| **`keywords`** | Array | Não (artigos) | `["Lógica", "Renascimento", "Metodologia"]` | Palavras-chave temáticas. **Exclusivo para artigos acadêmicos (e-books não possuem palavras-chave).** |
 | **`license`** | String | Sim | `"CC BY-NC 4.0"` ou `"Domínio Público"` | Licença editorial sob a qual o texto está distribuído. |
 | **`pages`** | String | Sim (artigos) | `"101-112"` ou `"1-15"` | Intervalo de páginas na publicação original. |
 | **`DOI`** | String | Não | `"10.33864/2790-0037.2025.v6.i5.101-112"` | Identificador persistente digital global. |
@@ -37,8 +37,9 @@ Para simplificar brutalmente e ordenar com precisão taxonômica o acervo, adota
    - **Ordenação Alfabética:** A lista no YAML deve estar **sempre ordenada alfabeticamente** (ex: `["Educação", "História"]`).
    - **Chave Canônica:** Use sempre a chave no plural `categories`. O uso de `category` no singular é obsoleto.
 
-2. **`keywords` (Indexação Temática Específica):**
+2. **`keywords` (Indexação Temática Específica — Exclusiva para Artigos):**
    - Absorve ramificações, escolas de pensamento, períodos cronológicos e metodologias (ex: `Filosofia Antiga`, `Patrística`, `Estoicismo`, `Petrus Ramus`, `Processo de Sócrates`, `Modelos de Linguagem`, `Salmodia Exclusiva`).
+   - **Proibição em Livros:** E-books (`content/books/`) **não utilizam a chave `keywords`**. Palavras-chave são restritas a artigos acadêmicos.
 
 ### Lista Pré-Aprovada de Disciplinas Aceitas
 
