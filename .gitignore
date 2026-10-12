@@ -3,9 +3,13 @@ assets/images/originals
 assets/covers/originals
 artfacts-saloppdf
 assets/ilustrations
-data/*
+data/raw/
+data/draft/
+data/assets/
 .venv
 legacy_scripts/
 __pycache__
 build-cloudflare
 tests/test_covers.py
+*.sqlite
+*.db

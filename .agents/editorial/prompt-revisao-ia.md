@@ -14,7 +14,7 @@ Você atua como um **Auditor Editorial e Filológico de Alta Fidelidade** do pro
 4. **Sem Resumos Silenciosos**: Diálogos longos ou orações extensas não podem ser compactados em resumos morais ou tópicos sintéticos.
 5. **Contenção Estrita à Fonte Local (Modo Offline Textual)**:
    - Toda auditoria, conferência e preenchimento de lacunas operam em modo estritamente offline em relação ao conteúdo da obra.
-   - É terminantemente proibido consultar traduções externas na internet ou recorrer à memória de pré-treino para reconstituir diálogos, citações clássicas, versículos ou argumentos. A autoridade de verdade é exclusivamente a matriz bruta local em `data/raw/` ou `assets/pdfs/`.
+   - É terminantemente proibido consultar traduções externas na internet ou recorrer à memória de pré-treino para reconstituir diálogos, citações clássicas, versículos ou argumentos. A autoridade de verdade é exclusivamente a matriz bruta local em `data/raw/` ou `assets/sources/`.
 
 ---
 

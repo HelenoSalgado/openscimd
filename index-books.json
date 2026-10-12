@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1791707300023,
+  "last_updated": 1791768568189,
   "books": [
     {
       "id": "book_012",
@@ -10,6 +10,7 @@
       "summary": "O Livro I dos Solilóquios de Santo Agostinho, obra em forma de diálogo com a Razão sobre o conhecimento de Deus e da alma, a purificação da mente, a natureza da verdade e a busca da sabedoria inteligível.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/agostinho/soliloquios-livro-1.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/soliloquios-livro-1.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/soliloquios-livro-1.html",
       "categories": [
         "Filosofia",
         "Teologia"
@@ -29,6 +30,7 @@
       "summary": "Sequência lírico-filosófica de oito poemas bucólicos escrita por Alberto Caeiro, mestre heterônimo de Fernando Pessoa. A obra retrata a perturbação do olhar puramente sensorial e objetivo do pastor diante do arrebatamento amoroso, a dor da desilusão e o solene reencontro com a realidade nua das coisas e a vastidão dos campos.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/alberto-caeiro/o-pastor-amoroso.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/o-pastor-amoroso.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/o-pastor-amoroso.pdf",
       "categories": [
         "Filosofia",
         "Literatura",
@@ -144,6 +146,7 @@
       "summary": "Coleção completa das sete cartas autênticas de Santo Inácio de Antioquia (c. 35 – 107 d. C.), bispo mártir e Padre Apostólico da Igreja primitiva, redigidas a caminho do martírio em Roma sob o imperador Trajano: aos Efésios, aos Magnésios, aos Tralianos, aos Romanos, aos Filadélfios, aos Esmirnenses e a São Policarpo de Esmirna, precedidas pelo testemunho biográfico de São Jerônimo.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/inacio-de-antioquia/cartas.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/cartas.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/cartas.html",
       "categories": [
         "História",
         "Teologia"
@@ -162,6 +165,7 @@
       "summary": "Estudo histórico-filosófico fundamental de Frank Pierrepont Graves (1912) sobre a vida, os embates acadêmicos e a obra pedagógica de Petrus Ramus (1515–1572), eminente humanista, matemático e professor no Collège Royal de França, que liderou a rebelião contra a escolástica aristotélica no século XVI e estabeleceu novas bases metodológicas para o Trivium e o Quadrivium.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/petrus-ramus/petrus-ramus-e-a-reforma-educacional-do-seculo-xvi.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/petrus-ramus-e-a-reforma-educacional-do-seculo-xvi.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/petrus-ramus-e-a-reforma-educacional-do-seculo-xvi.pdf",
       "categories": [
         "Educação",
         "História"
@@ -181,6 +185,7 @@
       "summary": "A Apologia de Sócrates apresenta a defesa proferida pelo filósofo Sócrates diante do tribunal ateniense em 399 a.C., após ser acusado de corromper a juventude e de introduzir novas divindades na pólis.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/platao/apologia-de-socrates.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/apologia-de-socrates.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/apologia-de-socrates.md",
       "categories": [
         "Filosofia"
       ],
@@ -217,6 +222,7 @@
       "summary": "Diálogo dramático e filosófico que narra as últimas horas de Sócrates na prisão de Atenas antes de ingerir a cicuta. Por meio de um diálogo íntimo com seus discípulos Cebete e Símias, Sócrates expõe suas provas metafísicas acerca da sobrevivência e imortalidade da alma, a teoria da reminiscência, a afinidade com as Ideias eternas e o destino do espírito para além da morte física.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/platao/fedon.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/fedon.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/fedon.pdf",
       "categories": [
         "Filosofia",
         "Literatura"
@@ -236,6 +242,7 @@
       "summary": "Um dos mais profundos e desafiadores diálogos da filosofia ocidental, no qual o jovem Sócrates debate com os venerandos sábios de Eleia, Zenão e Parmênides. A obra inicia-se com um rigoroso exame crítico das dificuldades da Teoria das Ideias (o argumento do 'Terceiro Homem' e a separação dos mundos) e culmina no monumental exercício da ginástica dialética, deduzindo as oito hipóteses contraditórias a respeito do ser e do não-ser do Uno frente à multiplicidade.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/platao/parmenides.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/parmenides.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/parmenides.pdf",
       "categories": [
         "Filosofia",
         "Literatura"
@@ -305,6 +312,7 @@
       "summary": "Tratado clássico de espiritualidade cristã, composto de quatro livros de admoestações espirituais, que exorta o leitor ao desprezo do mundo, ao conhecimento de si mesmo, à humildade e à imitação da vida de Cristo como caminho de perfeição interior.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/thomas-a-kempis/a-imitacao-de-cristo-livro-1.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-imitacao-de-cristo-livro-1.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/a-imitacao-de-cristo-livro-1.md",
       "categories": [
         "Teologia"
       ],

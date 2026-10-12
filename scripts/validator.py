@@ -10,7 +10,7 @@ def validate_articles(base_dir: str) -> bool:
     print("🧪 Iniciando validação de formato e metadados dos artigos...\n")
     articles_dir = Path(base_dir) / "content" / "articles"
     covers_dir = Path(base_dir) / "assets" / "covers"
-    raw_dir = Path(base_dir) / "assets" / "data" / "raw"
+    sources_dir = Path(base_dir) / "assets" / "sources"
 
     if not articles_dir.exists():
         print(f"❌ Diretório de artigos não encontrado em: {articles_dir}")
@@ -92,9 +92,9 @@ def validate_articles(base_dir: str) -> bool:
             if not (covers_dir / "mobile" / f"{base_name}.webp").exists():
                 warnings.append(f"Imagem de capa mobile correspondente não localizada em assets/covers/mobile/{base_name}.webp.")
 
-            raw_pdf = raw_dir / f"{base_name}.pdf"
-            if not raw_pdf.exists() and not any(raw_dir.glob(f"{base_name}.*")):
-                warnings.append(f"Arquivo de fonte original não localizado em assets/data/raw/{base_name}.pdf.")
+            source_pdf = sources_dir / f"{base_name}.pdf"
+            if not source_pdf.exists() and not any(sources_dir.glob(f"{base_name}.*")):
+                warnings.append(f"Arquivo de fonte original não localizado em assets/sources/{base_name}.*")
 
         except Exception as e:
             errors.append(f"Falha crítica ao ler/processar arquivo: {e}")

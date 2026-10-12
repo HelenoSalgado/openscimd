@@ -80,8 +80,10 @@ def update_articles_index(base_dir):
         cover_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/assets/covers/mobile/{base_name}.webp"
         
         pdf_url = None
-        if (Path(base_dir) / 'assets' / 'pdfs' / f"{base_name}.pdf").exists():
-            pdf_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/assets/pdfs/{base_name}.pdf"
+        source_candidates = list((Path(base_dir) / 'assets' / 'sources').glob(f"{base_name}.*"))
+        if source_candidates:
+            ext = source_candidates[0].suffix
+            pdf_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/assets/sources/{base_name}{ext}"
             
         categories = metadata.get('categories') or metadata.get('category') or (existing.get('categories') if existing else [])
         if isinstance(categories, str): categories = [categories]
@@ -210,8 +212,10 @@ def update_books_index(base_dir):
         cover_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/assets/covers/mobile/{base_name}.webp"
         
         pdf_url = None
-        if (Path(base_dir) / 'assets' / 'pdfs' / f"{base_name}.pdf").exists():
-            pdf_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/assets/pdfs/{base_name}.pdf"
+        source_candidates = list((Path(base_dir) / 'assets' / 'sources').glob(f"{base_name}.*"))
+        if source_candidates:
+            ext = source_candidates[0].suffix
+            pdf_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/assets/sources/{base_name}{ext}"
             
         categories = metadata.get('categories') or metadata.get('category') or (existing.get('categories') if existing else [])
         if isinstance(categories, str): categories = [categories]

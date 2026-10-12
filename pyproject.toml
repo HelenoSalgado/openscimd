@@ -3,6 +3,7 @@ name = "openscimd"
 version = "0.1.0"
 description = "Ferramentas e CLI para gerenciamento de artigos e livros do OpenSciMD"
 readme = "README.md"
+license = { text = "CC-BY-NC-ND-4.0" }
 requires-python = ">=3.11"
 dependencies = [
     "Pillow>=10.0.0",
@@ -20,6 +21,9 @@ pipeline = [
     "transformers>=5.15.1",
     "sentencepiece>=0.2.2",
     "google-genai>=0.1.0",
+]
+rag = [
+    "chromadb>=0.5.0",
 ]
 
 [project.scripts]

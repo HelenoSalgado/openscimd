@@ -5,9 +5,9 @@
   "homepage": "https://github.com/HelenoSalgado/openscimd",
   "licenses": [
     {
-      "name": "CC-BY-4.0",
-      "path": "https://creativecommons.org/licenses/by/4.0/",
-      "title": "Creative Commons Attribution 4.0 International"
+      "name": "CC-BY-NC-ND-4.0",
+      "path": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "title": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International"
     }
   ],
   "resources": [

@@ -12,7 +12,7 @@ Se você tem o PDF original do artigo:
 
 1. Coloque o PDF em `data/raw/` ou execute diretamente:
    ```bash
-   uv run openscimd import-pdf assets/pdfs/nome-do-artigo.pdf -o data/draft/nome-do-artigo.md
+   uv run openscimd import-pdf data/raw/nome-do-artigo.pdf -o data/draft/nome-do-artigo.md
    ```
 2. Caso tenha vários PDFs, você pode colocá-los em `data/raw/` e rodar:
    ```bash
@@ -88,7 +88,7 @@ uv run openscimd ai-cover nome-do-artigo
 
 *(Para detalhes de estilo e configuração da API de IA, consulte o guia de [Modelo e Geração de Capas](gerador-de-capas.md)).*
 
-* **PDF Original**: Adicione o arquivo `.pdf` correspondente na pasta `assets/pdfs/` com o mesmo nome (ex: `assets/pdfs/reformas-filosoficas-de-petrus-ramus.pdf`).
+* **Fonte Original (Opcional)**: Adicione o arquivo original correspondente na pasta `assets/sources/` com o mesmo slug (ex: `assets/sources/reformas-filosoficas-de-petrus-ramus.pdf`).
 
 ---
 

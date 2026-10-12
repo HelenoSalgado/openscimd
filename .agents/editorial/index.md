@@ -59,7 +59,7 @@ A interação do agente com fontes externas é governada pelo princípio da **se
 ### 3.1. Domínio Editorial e Textual (Contenção Estrita / Modo Offline)
 
 Durante qualquer atividade de transcrição, conversão, tradução, estruturação ou revisão do **corpo do texto** de uma obra:
-1. **Autoridade Exclusiva da Matriz Local**: A única fonte autorizada é o arquivo bruto local em `data/raw/` ou `assets/pdfs/`.
+1. **Autoridade Exclusiva da Matriz Local**: A única fonte autorizada é o arquivo bruto local em `data/raw/` ou `assets/sources/`.
 2. **Proibição de Buscas Web e Memória Paramétrica**: É terminantemente proibido usar ferramentas de pesquisa na internet (`search_web`, `read_url_content`) ou a memória paramétrica do modelo para completar lacunas, comparar com outras edições ou substituir trechos corrompidos de diálogos, poesias, citações clássicas ou argumentos filosóficos/teológicos.
 3. **Resolução de Lacunas e Inspeção de Dados Brutos**: Se um extrator automático ou OCR quebrar ou truncar um trecho (ex: tabelas, diálogos aninhados em tags HTML não fechadas, quebras de página, notas de rodapé perdidas):
    - Inspecione diretamente os bytes/HTML/PDF brutos locais para recuperar o texto original exato.

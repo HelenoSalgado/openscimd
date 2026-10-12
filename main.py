@@ -293,5 +293,59 @@ def export_pdf_cmd(
         typer.secho(f"❌ Erro ao exportar PDF: {e}", fg=typer.colors.RED)
         raise typer.Exit(code=1)
 
+
+@app.command(name="build-rag")
+def build_rag_cmd(
+    output: Optional[str] = typer.Option(None, "--output", "-o", help="Caminho personalizado para o banco SQLite.")
+):
+    """Compila o banco de dados SQLite RAG local com FTS5 a partir dos artigos e livros."""
+    try:
+        from scripts.rag import build_rag_database
+        typer.secho("⚡ Compilando banco de dados SQLite RAG...", fg=typer.colors.CYAN)
+        db_file = build_rag_database(BASE_DIR, output_path=output)
+        size_kb = round(db_file.stat().st_size / 1024, 1)
+        typer.secho(f"✅ Banco SQLite RAG compilado com sucesso!", fg=typer.colors.GREEN, bold=True)
+        typer.secho(f"   📁 Arquivo: {db_file} ({size_kb} KB)", fg=typer.colors.WHITE)
+    except Exception as e:
+        typer.secho(f"❌ Erro ao compilar banco RAG: {e}", fg=typer.colors.RED)
+        raise typer.Exit(code=1)
+
+
+@app.command(name="search-rag")
+def search_rag_cmd(
+    query: str = typer.Argument(..., help="Termo de busca ou pergunta para o motor RAG."),
+    limit: int = typer.Option(5, "--limit", "-l", help="Quantidade máxima de trechos a retornar."),
+    doc_type: Optional[str] = typer.Option(None, "--type", "-t", help="Filtrar por tipo: 'article' ou 'book'."),
+    ai_format: bool = typer.Option(False, "--ai", help="Exibir no formato pronto para prompt de IA/LLM."),
+    db_path: Optional[str] = typer.Option(None, "--db", help="Caminho personalizado do banco SQLite."),
+):
+    """Executa busca semântico-textual BM25 com snippets e caminhos dos arquivos físicos."""
+    try:
+        from scripts.rag import search_rag, format_ai_prompt_context
+        target_db = Path(db_path) if db_path else BASE_DIR / "data" / "openscimd_rag.sqlite"
+        results = search_rag(query, db_path=target_db, limit=limit, doc_type=doc_type)
+
+        if not results:
+            typer.secho(f"🔍 Nenhum resultado encontrado para: '{query}'", fg=typer.colors.YELLOW)
+            return
+
+        if ai_format:
+            prompt_block = format_ai_prompt_context(results)
+            typer.echo(prompt_block)
+            return
+
+        typer.secho(f"\n🔍 {len(results)} trecho(s) encontrado(s) para '{query}':\n", fg=typer.colors.GREEN, bold=True)
+        for idx, r in enumerate(results, start=1):
+            typer.secho(f"[{idx}] {r['doc_title']} — {r['doc_author']} ({r['doc_type'].upper()})", fg=typer.colors.CYAN, bold=True)
+            typer.secho(f"    📖 Seção: {r['heading']} | Score BM25: {r['rank_score']}", fg=typer.colors.WHITE)
+            typer.secho(f"    📄 Markdown: {r['markdown_path']}", fg=typer.colors.MAGENTA)
+            if r['source_path']:
+                typer.secho(f"    🔗 Fonte Primária: {r['source_path']}", fg=typer.colors.BLUE)
+            typer.secho(f"    📝 Trecho: {r['highlighted_snippet']}\n", fg=typer.colors.YELLOW)
+    except Exception as e:
+        typer.secho(f"❌ Erro na busca RAG: {e}", fg=typer.colors.RED)
+        raise typer.Exit(code=1)
+
+
 if __name__ == "__main__":
     app()
