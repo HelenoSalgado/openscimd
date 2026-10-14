@@ -122,12 +122,14 @@ uv run openscimd search-rag "Sócrates justiça" --ai
 
 ## 🤝 Como Contribuir
 
-Toda contribuição acadêmica ou técnica é muito bem-vinda! Se você deseja submeter novos artigos ou propor melhorias nas automações, por favor consulte a nossa documentação de apoio:
+Toda contribuição acadêmica, editorial ou técnica é muito bem-vinda!
 
-1. **Entenda os Bastidores**: Leia o nosso guia de [Arquitetura e Funcionamento do Repositório](docs/arquitetura.md).
-2. **Saiba como Publicar**: Siga o passo a passo em [Fluxo de Trabalho e Contribuição](docs/fluxo-de-trabalho.md).
-3. **Diretrizes de Metadados**: Veja a lista de chaves YAML recomendadas para artigos científicos em [Diretrizes de Metadados Acadêmicos (MDC)](docs/metadata_guidelines.md).
-4. **Gerador de Capas e Identidade Visual**: Entenda as diretrizes estéticas e o funcionamento do criador automático em [Modelo e Geração de Capas](docs/gerador-de-capas.md).
+* **Revisões Textuais e Correções:** Para reportar erros ortográficos, falhas de OCR ou correções em livros e artigos, consulte nosso **[Guia de Contribuição (CONTRIBUTING.md)](CONTRIBUTING.md)** e abra uma **[Issue de Revisão Textual](https://github.com/helenosalgado/openscimd/issues/new?template=revisao_textual.yml)**.
+* **Automações e Novos Artigos:** Se você deseja submeter novos artigos ou propor melhorias nas automações, consulte a documentação de apoio:
+  1. **Entenda os Bastidores**: Leia o nosso guia de [Arquitetura e Funcionamento do Repositório](docs/arquitetura.md).
+  2. **Saiba como Publicar**: Siga o passo a passo em [Fluxo de Trabalho e Contribuição](docs/fluxo-de-trabalho.md).
+  3. **Diretrizes de Metadados**: Veja a lista de chaves YAML recomendadas para artigos científicos em [Diretrizes de Metadados Acadêmicos (MDC)](docs/metadata_guidelines.md).
+  4. **Gerador de Capas e Identidade Visual**: Entenda as diretrizes estéticas e o funcionamento do criador automático em [Modelo e Geração de Capas](docs/gerador-de-capas.md).
 
 ---
 

@@ -1,0 +1,72 @@
+name: "Revisão ou Correção Textual"
+description: "Reportar erro ortográfico, gramatical, problema de OCR ou sugerir revisão em um livro ou artigo."
+title: "[Revisão]: <Título da Obra>"
+labels: ["revisão", "editorial"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 📖 Guia de Abertura de Questão de Revisão
+        Agradecemos sua colaboração voluntária com a curadoria e integridade das obras do **OpenSciMD** / **LeiaME**!
+        
+        Para que a equipe editorial consiga localizar e aplicar a correção de forma rápida e segura no arquivo-fonte, **é indispensável preencher os campos abaixo com clareza**.
+
+  - type: dropdown
+    id: tipo_documento
+    attributes:
+      label: "Tipo de Obra"
+      description: "Selecione a categoria da obra em revisão."
+      options:
+        - "Livro (content/books/)"
+        - "Artigo (content/articles/)"
+        - "Lido diretamente pelo aplicativo LeiaME"
+        - "Outro"
+    validations:
+      required: true
+
+  - type: input
+    id: titulo_obra
+    attributes:
+      label: "Título da Obra"
+      description: "Informe o título exato da obra."
+      placeholder: "Ex: O Peregrino, Tratado da Oração, De Trinitate..."
+    validations:
+      required: true
+
+  - type: input
+    id: subtitulo_obra
+    attributes:
+      label: "Subtítulo da Obra (se houver)"
+      description: "Subtítulo, volume, capítulo ou número do artigo, se aplicável."
+      placeholder: "Ex: Do mundo deste para o vindouro / Capítulo 3 / Vol. 2"
+    validations:
+      required: false
+
+  - type: textarea
+    id: paragrafo_completo
+    attributes:
+      label: "Parágrafo Completo com o Erro"
+      description: |
+        **ATENÇÃO: É indispensável citar o parágrafo COMPLETO onde a correção deve ser feita.**
+        Isso nos permite localizar o ponto exato no texto original através de busca automatizada, evitando ambiguidades.
+      placeholder: "Cole aqui o parágrafo inteiro, exatamente como aparece na leitura..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: correcao_sugerida
+    attributes:
+      label: "Sugestão de Correção e Justificativa"
+      description: "Indique como o texto corrigido deve ficar e, se aplicável, o motivo da alteração (erro tipográfico, concordância, nota da tradução, etc.)."
+      placeholder: "Onde se lê '...', o correto é '...' porque..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: contexto_adicional
+    attributes:
+      label: "Informações Adicionais ou Referência da Fonte (Opcional)"
+      description: "Edição de referência, número da página do PDF original, captura de tela ou observações adicionais."
+      placeholder: "Ex: Conferido na edição de 1850 / Página 42 do PDF original..."
+    validations:
+      required: false
