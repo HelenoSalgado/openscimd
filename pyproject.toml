@@ -37,7 +37,7 @@ build-backend = "hatchling.build"
 packages = ["scripts", "main.py"]
 
 [tool.uv.sources]
-salopdoc = { git = "https://github.com/HelenoSalgado/salopdoc.git" }
+salopdoc = { path = "../salopdoc", editable = true }
 torch = { index = "pytorch-cpu" }
 
 [[tool.uv.index]]

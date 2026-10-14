@@ -1967,7 +1967,7 @@ requires-dist = [
     { name = "python-dotenv", specifier = ">=1.0.0" },
     { name = "pyyaml", specifier = ">=6.0.1" },
     { name = "requests", specifier = ">=2.31.0" },
-    { name = "salopdoc", marker = "extra == 'pipeline'", git = "https://github.com/HelenoSalgado/salopdoc.git" },
+    { name = "salopdoc", marker = "extra == 'pipeline'", editable = "../salopdoc" },
     { name = "sentencepiece", marker = "extra == 'pipeline'", specifier = ">=0.2.2" },
     { name = "torch", marker = "extra == 'pipeline'", specifier = ">=2.13.0", index = "https://download.pytorch.org/whl/cpu" },
     { name = "transformers", marker = "extra == 'pipeline'", specifier = ">=5.15.1" },
@@ -3229,7 +3229,7 @@ wheels = [
 [[package]]
 name = "salopdoc"
 version = "1.1.0"
-source = { git = "https://github.com/HelenoSalgado/salopdoc.git#5fd58150da060b3cfaa17288d8774d76ecb4b402" }
+source = { editable = "../salopdoc" }
 dependencies = [
     { name = "beautifulsoup4" },
     { name = "joblib" },
@@ -3240,6 +3240,25 @@ dependencies = [
     { name = "rich" },
     { name = "scikit-learn" },
     { name = "typer" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "beautifulsoup4", specifier = ">=4.12.0" },
+    { name = "joblib", specifier = ">=1.3.0" },
+    { name = "lxml", specifier = ">=5.0.0" },
+    { name = "pandas", specifier = ">=2.0.0" },
+    { name = "pymupdf", specifier = ">=1.24.0" },
+    { name = "pyyaml", specifier = ">=6.0.1" },
+    { name = "rich", specifier = ">=13.0.0" },
+    { name = "scikit-learn", specifier = ">=1.4.0" },
+    { name = "typer", specifier = ">=0.12.0" },
+]
+
+[package.metadata.requires-dev]
+dev = [
+    { name = "ebooklib", specifier = ">=0.20" },
+    { name = "pytest", specifier = ">=9.1.1" },
 ]
 
 [[package]]

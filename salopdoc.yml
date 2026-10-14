@@ -56,3 +56,5 @@ formatting:
   bible_verse_spacing: true
   clean_footnotes: true
   unwrap_factor: 0.45
+  enable_ml_revisor: false
+
