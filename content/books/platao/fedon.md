@@ -123,7 +123,9 @@ Essa parte, observou Cebete, também me parece razoável. Porém o que afirmaste
 
 Ao ouvi-lo assim falar, quis parecer-me que Sócrates se alegrava com a agudeza de Cebete; depois, voltando-se para nosso lado, falou: Cebete anda sempre à cata de argumentos, sem aceitar de pronto a opinião dos outros. Ao que Símias observou: Porém quer parecer-me, Sócrates, que há bastante senso nas palavras de Cebete. Não se compreende, de fato, que indivíduos verdadeiramente sábios fujam de amos melhores do que eles e se alegrem com essa liberdade. A meu ver, o argumento de Cebete vai dirigido contra ti, por aceitares à ligeira a idéia de deixar-nos, e também aos amos cuja superioridade és o primeiro a proclamar.
 
-Tens razão, observou. Pelo que vejo, sois de parecer que preciso defender-me dessa acusação, como o fiz no tribunal. Perfeitamente, respondeu Símias.
+Tens razão, observou. Pelo que vejo, sois de parecer que preciso defender-me dessa acusação, como o fiz no tribunal.
+
+Perfeitamente, respondeu Símias.
 
 ### *VIII*
 
