@@ -1937,7 +1937,6 @@ dependencies = [
     { name = "python-dotenv" },
     { name = "pyyaml" },
     { name = "requests" },
-    { name = "salopdoc" },
     { name = "typer" },
 ]
 
@@ -1968,7 +1967,6 @@ requires-dist = [
     { name = "python-dotenv", specifier = ">=1.0.0" },
     { name = "pyyaml", specifier = ">=6.0.1" },
     { name = "requests", specifier = ">=2.31.0" },
-    { name = "salopdoc", git = "https://github.com/HelenoSalgado/salopdoc.git" },
     { name = "salopdoc", marker = "extra == 'pipeline'", git = "https://github.com/HelenoSalgado/salopdoc.git" },
     { name = "sentencepiece", marker = "extra == 'pipeline'", specifier = ">=0.2.2" },
     { name = "torch", marker = "extra == 'pipeline'", specifier = ">=2.13.0", index = "https://download.pytorch.org/whl/cpu" },

@@ -20,8 +20,19 @@ except ImportError:
 
 
 
+def _ensure_salopdoc():
+    """Garante que a dependência opcional salopdoc está disponível."""
+    if salopdoc is None or ConfigLoader is None:
+        raise ImportError(
+            "O pacote 'salopdoc' não está instalado. "
+            "Ele é uma dependência opcional do pipeline de conversão de documentos. "
+            "Para utilizá-lo, instale o grupo opcional: uv sync --extra pipeline"
+        )
+
+
 def get_default_config(base_dir: str | Path | None = None) -> SalopDocConfig:
     """Carrega a configuração do salopdoc.yml a partir do diretório base."""
+    _ensure_salopdoc()
     root = Path(base_dir) if base_dir else Path.cwd()
     config_file = root / "salopdoc.yml"
     
@@ -51,6 +62,7 @@ def import_pdf(
     Returns:
         Path do arquivo Markdown gerado.
     """
+    _ensure_salopdoc()
     pdf_file = Path(pdf_path).resolve()
     if not pdf_file.exists():
         raise FileNotFoundError(f"Arquivo PDF não encontrado: {pdf_file}")
@@ -139,6 +151,7 @@ def clean_markdown_file(
     Returns:
         Path do arquivo Markdown limpo.
     """
+    _ensure_salopdoc()
     src_file = Path(file_path).resolve()
     if not src_file.exists():
         raise FileNotFoundError(f"Arquivo Markdown não encontrado: {src_file}")
