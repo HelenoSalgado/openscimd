@@ -7,6 +7,7 @@ license: "Domínio Público"
 translator: "Natanael Rinan"
 originalLanguage: "el"
 language: "pt-BR"
+license: "Domínio Público"
 categories:
   - Filosofia
 ---

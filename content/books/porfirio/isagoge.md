@@ -3,10 +3,10 @@ title: "Isagoge"
 author: "Porfírio"
 summary: "Tratado fundamental da tradição lógica clássica e tardo-antiga, a Isagoge de Porfírio foi concebida como uma introdução ao estudo das Categorias de Aristóteles. A obra investiga as cinco noções lógicas basilares (gênero, espécie, diferença, próprio e acidente), expondo suas definições, distinções e relações de comunhão e propriedade, além de formular as questões ontológicas clássicas acerca do estatuto dos universais."
 date: "270 d.C."
-license: "Domínio Público"
 translator: "Natanael Rinan"
 originalLanguage: "el"
 language: "pt-BR"
+license: "Domínio Público"
 categories:
   - Filosofia
 ---

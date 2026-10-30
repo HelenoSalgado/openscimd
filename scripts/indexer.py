@@ -8,6 +8,7 @@ from scripts.categories import derive_udc_from_categories
 GITHUB_USERNAME = 'HelenoSalgado'
 REPO_NAME = 'openscimd'
 DEFAULT_WPM = 200
+SOURCE_EXT_PRIORITY = ['.pdf', '.html', '.md', '.txt', '.docx']
 
 def update_articles_index(base_dir):
     print('🔄 Iniciando atualização do index-articles.json...')
@@ -82,6 +83,7 @@ def update_articles_index(base_dir):
         pdf_url = None
         source_candidates = list((Path(base_dir) / 'assets' / 'sources').glob(f"{base_name}.*"))
         if source_candidates:
+            source_candidates.sort(key=lambda p: SOURCE_EXT_PRIORITY.index(p.suffix.lower()) if p.suffix.lower() in SOURCE_EXT_PRIORITY else 999)
             ext = source_candidates[0].suffix
             pdf_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/assets/sources/{base_name}{ext}"
             
@@ -214,6 +216,7 @@ def update_books_index(base_dir):
         pdf_url = None
         source_candidates = list((Path(base_dir) / 'assets' / 'sources').glob(f"{base_name}.*"))
         if source_candidates:
+            source_candidates.sort(key=lambda p: SOURCE_EXT_PRIORITY.index(p.suffix.lower()) if p.suffix.lower() in SOURCE_EXT_PRIORITY else 999)
             ext = source_candidates[0].suffix
             pdf_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/assets/sources/{base_name}{ext}"
             

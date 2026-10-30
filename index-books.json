@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1791768568189,
+  "last_updated": 1793325351018,
   "books": [
     {
       "id": "book_012",
@@ -61,6 +61,25 @@
       "language": "pt-BR",
       "originalLanguage": "en",
       "translator": "Heleno Salgado"
+    },
+    {
+      "id": "book_024",
+      "title": "Comentário à Isagoge de Porfírio",
+      "author": "Severino Boécio",
+      "summary": "Comentário fundamental de Severino Boécio à Isagoge de Porfírio (segunda edição), obra basilar para a consolidação da lógica aristotélica e da questão dos universais na Idade Média. Esta edição reúne, como aparato complementar clássico, a Explicação do Texto da Isagoge de João de São Tomás, a Exposição de Julius Pacius e a Explicação de Zacharias Ursinus.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/boecio/comentario-a-isagoge-de-porfirio.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/comentario-a-isagoge-de-porfirio.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/comentario-a-isagoge-de-porfirio.html",
+      "categories": [
+        "Filosofia"
+      ],
+      "udc": "1",
+      "published_at": 1792813940339,
+      "estimated_reading_time_min": 685,
+      "license": "Domínio Público",
+      "language": "pt-BR",
+      "originalLanguage": "la",
+      "translator": "Natanael Rinan"
     },
     {
       "id": "book_016",

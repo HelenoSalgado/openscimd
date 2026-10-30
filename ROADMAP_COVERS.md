@@ -1,6 +1,6 @@
 # Roadmap de Capas — OpenSciMD
 
-Acompanhamento do processo de refatoração e criação manual das capas padronizadas (proporção 2:3, layout editorial em 3 zonas, tipografia clássica e distinção entre Livros e Artigos).
+Acompanhamento do processo de refatoração e criação manual das capas padronizadas (proporção 2:3, arte full-bleed 2D sem divisórias ou molduras, tipografia clássica e distinção entre Livros e Artigos).
 
 ---
 
@@ -26,6 +26,7 @@ Acompanhamento do processo de refatoração e criação manual das capas padroni
 | 16 | `fedon` | Platão | c. 385 a.C. | ✅ Concluído |
 | 17 | `parmenides` | Platão | c. 370 a.C. | ✅ Concluído |
 | 18 | `o-pastor-amoroso` | Alberto Caeiro | 1914 | ✅ Concluído |
+| 19 | `comentario-a-isagoge-de-porfirio` | Severino Boécio | 508 d.C. | ✅ Concluído |
 
 ---
 
