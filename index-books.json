@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1793327389424,
+  "last_updated": 1793423801683,
   "books": [
     {
       "id": "book_012",
@@ -342,6 +342,24 @@
       "language": "pt-BR",
       "originalLanguage": "en",
       "translator": "Heleno Salgado"
+    },
+    {
+      "id": "book_025",
+      "title": "Qual o Texto Original do Novo Testamento",
+      "author": "Wilbur Norman Pickering",
+      "summary": "Estudo crítico e filológico sobre a preservação e identificação do texto autêntico do Novo Testamento grego. O autor examina criticamente as premissas de Westcott e Hort, os pressupostos do método eclético contemporâneo e os testemunhos dos manuscritos antigos, defendendo a primazia histórica e textual da tradição do Texto Majoritário (Tradicional).",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/wilbur-norman/qual-o-texto-original-do-novo-testamento.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/qual-o-texto-original-do-novo-testamento.webp",
+      "categories": [
+        "Teologia"
+      ],
+      "udc": "2",
+      "published_at": 1091750400000,
+      "estimated_reading_time_min": 663,
+      "license": "CC BY 4.0",
+      "language": "pt-BR",
+      "originalLanguage": "en",
+      "translator": "Walter Andrade Campelo"
     }
   ]
 }
