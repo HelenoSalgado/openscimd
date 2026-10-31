@@ -48,9 +48,9 @@ O grid tipográfico unifica toda a coleção de livros e garante sua distinção
    - Cor com alto contraste sobre a arte: ouro fosco nobre (*warm matte gold*), marfim luminoso (*luminous ivory*) ou branco esculpido com sombra suave.
 2. **Subtítulo (quando houver)**:
    - Em corpo médio perfeitamente legível, serifado clássico ou itálico refinado, posicionado logo abaixo do título com espaçamento harmônico.
-3. **Nome do Autor (Subordinado e Distinto)**:
+3. **Nome do Autor**:
    - **Em Title Case** (ex: `Platão`, `Aristóteles`, `Hugo de São Vítor`).
-   - Escala visivelmente menor que o título (aproximadamente 50% a 60% da altura do título), garantindo que o observador distinga imediatamente o que é título e o que é autor.
+   - **Segue rigorosamente o mesmo tamanho de fonte do título principal**.
    - Espaçamento vertical generoso e confortável abaixo do título.
 4. **Data Histórica Canônica (Base Inferior)**:
    - Exibição da época/data histórica da obra (ex: `399 a.C.`, `335 a.C.`, `c. 1130 d.C.`, `1576`) centralizada na base.

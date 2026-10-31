@@ -43,7 +43,7 @@ def generate_cover(base_dir, article_name, custom_style=None, provider="gemini")
         f"{summary_text}"
         f"{cat_text}"
         f"Keep the upper third balanced and suitable for high-end typography overlay. Keep the entire bottom area calm and uncluttered. "
-        f"Strictly NO text, NO letters, NO words, NO titles, NO borders, NO frames, NO literal light beams, NO lamps, NO books on tables, NO human figures, and NO religious depictions of Jesus Christ."
+        f"Strictly NO text, NO letters, NO words, NO titles, NO borders, NO frames, NO literal light beams, NO lamps, NO books, NO manuscripts, NO scrolls, NO parchments, NO libraries, NO quill pens, NO inkwells, NO literal clichés, NO human figures, and NO religious depictions of Jesus Christ."
     )
                    
     final_prompt = f"{base_prompt} Specific visual nuances: {custom_style}." if custom_style else base_prompt
