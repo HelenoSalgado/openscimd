@@ -50,11 +50,10 @@ title: "Título Completo da Obra: Livro X"
 author: "Nome do Autor Canônico"
 summary: "Sinopse fidedigna do conteúdo e escopo da obra."
 date: "YYYY-MM-DD"
-license: "Domínio Público"
-edition: "1ª edição"
+license: "Domínio Público/Creative Commons"
 language: "pt"
 originalLanguage: "la" # ou en, el, he
-translator: "OpenSciMD"
+translator: "Nome do Tradutor"
 categories:
   - Teologia
   - Filosofia

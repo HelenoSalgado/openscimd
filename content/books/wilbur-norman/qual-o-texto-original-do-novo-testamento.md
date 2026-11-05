@@ -65,7 +65,9 @@ Os dois grandes esforços de tradução destes anos [do século XX] — RSV e NE
 
 1) Escolher a leitura que melhor se ajusta ao contexto;
 
-2) Escolher a leitura que [melhor] explique a origem das outras leituras. O Professor C. H. Dodd informou-me que os tradutores britânicos também usaram estes dois princípios — a Probabilidade Intrínseca e a Probabilidade Transcricional, segundo Hort. Um dos tradutores da RSV, enquanto dava palestras ao Clube do Novo Testamento na Universidade de Chicago, respondeu a uma pergunta sobre qual era o texto em grego que ele usava dizendo que isto dependia de onde ele estava trabalhando: ele usava Souter no escritório e Nestle em casa. Um dos tradutores britânicos, ao admitir a desigualdade de qualidade textual da tradução NEB, explicou que a qualidade dependia da habilidade do homem que fez a primeira tradução-esboço do livro.
+2) Escolher a leitura que [melhor] explique a origem das outras leituras.
+
+O Professor C. H. Dodd informou-me que os tradutores britânicos também usaram estes dois princípios — a Probabilidade Intrínseca e a Probabilidade Transcricional, segundo Hort. Um dos tradutores da RSV, enquanto dava palestras ao Clube do Novo Testamento na Universidade de Chicago, respondeu a uma pergunta sobre qual era o texto em grego que ele usava dizendo que isto dependia de onde ele estava trabalhando: ele usava Souter no escritório e Nestle em casa. Um dos tradutores britânicos, ao admitir a desigualdade de qualidade textual da tradução NEB, explicou que a qualidade dependia da habilidade do homem que fez a primeira tradução-esboço do livro.
 
 Tanto nos primeiros dias do cristianismo quanto hoje, os tradutores têm tão frequentemente tratado o texto descuidadamente, que os críticos textuais deveriam estar já endurecidamente precavidos contra isto. Mas muito mais séria é a presença maciça desta mesma dependência das evidências internas das leituras, encontrada nos artigos eruditos sobre crítica textual, e na popularidade das edições do Novo Testamento em grego de tamanho reduzido. Estas últimas, com suas limitadas citações de variantes e de testemunhas, na realidade compelem o usuário a depender das evidências internas das leituras. Os documentos que estes aparatos severamente abreviados citam não podem levar o usuário a se apoiar nas evidências externas dos documentos. Estas edições (“manuais”) usam documentos (para citar Housman) “como os bêbados usam os postes — não para receberem luz nos seus caminhos, mas para dissimularem suas instabilidades.”[^18]
 
@@ -1257,7 +1259,7 @@ Em “*The Text of the New Testament*”[^345] K. Aland apresenta um resumo de r
 | | | a | 16 | 7 | 21 | 33 | 77 | O- | IV |
 | I-016 | V | p | 15 | 1 | 2 | 6 | 24 | E | II |
 | Q-026 | V | e | 0 | 5 | 5 | 2 | 12 | M+ | V |
-| 048 | V | p\* | 26 | 7 | 3 | 4 | 40 | E+ | II |
+| 048 | V | p* | 26 | 7 | 3 | 4 | 40 | E+ | II |
 | 0274 | V | e | 19 | 6 | 0 | 2 | 27 | E+++ | II |
 | **500** | | | | | | | | | |
 | D-06 | VI | p | 112 | 29 | 137 | 83 | 361 | M- | II |
@@ -1268,7 +1270,7 @@ Em “*The Text of the New Testament*”[^345] K. Aland apresenta um resumo de r
 | P-024 | VI | e | 3 | 16 | 24 | 0 | 43 | M++ | V |
 | R-027 | VI | e | 0 | 4 | 11 | 5 | 20 | M+ | V |
 | Z-035 | VI | e | 11 | 5 | 3 | 2 | 21 | E+ | III |
-| Ξ-040 | VI\*\* | e | 8 | 2 | 2 | 3 | 15 | E | III |
+| Ξ-040 | VI** | e | 8 | 2 | 2 | 3 | 15 | E | III |
 | Σ-042 | VI | e | 15 | 83 | 140 | 25 | 263 | M+ | V |
 | Φ-043 | VI | e | 11 | 83 | 131 | 18 | 243 | M++ | V |
 | **600** | | | | | | | | | |
@@ -1320,7 +1322,7 @@ Em “*The Text of the New Testament*”[^345] K. Aland apresenta um resumo de r
 | 461 | 835 | e | 3 | 102 | 219 | 5 | 329 | M++++ | V |
 | **900** | | | | | | | | | |
 
-(\*Aland mostra ap, mas não apresenta estatística para a. \*\*UBS³ tem VIII.)
+(*Aland mostra ap, mas não apresenta estatística para a. **UBS³ tem VIII.)
 
 Por meio de explicação: “cont.” significa conteúdo, e = Evangelhos (mas os números de Aland são só sobre os Sinópticos), a = Atos, p = Epístolas de Paulo (incluindo Hebreus) e c = Epístolas Católicas (isto é, universais); “Cat.” refere-se às cinco categorias de Aland (*The Text*, pags. 105-6) e “class.” significa uma classificação elaborada por mim na qual E = Egípcio, M = Majoritário e O = outros. Tem os seguintes valores, ilustrados com M:
 
@@ -1566,7 +1568,7 @@ Esta questão já recebeu alguma atenção no capítulo 4 (“Leituras sírias a
 | Marcion | (160?) | 23% | 10% | 18% | 49% | 94 |
 | Irineu | (d.202)[^398] | 16% | 16,5% | 16,5% | 51% | 181 |
 | Clemente de Alex. | (d.215) | 13,5% | 29% | 15% | 42,5% | 161 |
-| Hipólito | (d.235) | 14,5% | 31% | 19% | 46,5% | 33\*\* |
+| Hipólito | (d.235) | 14,5% | 31% | 19% | 46,5% | 33** |
 | | — | 13,5% | 18% | 21% | 43,5% | 21 |
 | | — | 14,5% | 18% | 21% | 46,5% | 33 |
 | Orígenes | (d.254) | 16,5% | 28% | 17% | 38,5% | 459 |
@@ -1575,7 +1577,7 @@ Esta questão já recebeu alguma atenção no capítulo 4 (“Leituras sírias a
 | Astério | (d.341) | — | 40% | 50% | 10% | 30 |
 | Basílio | (d.379) | 2,5% | 39% | 40% | 18,5% | 249 |
 | Apost. Const. | (380?) | 3% | 33% | 41% | 23% | 46 |
-| Epifânio | (d.403) | 11% | 33% | 41% | 37% | 114\*\* |
+| Epifânio | (d.403) | 11% | 33% | 41% | 37% | 114** |
 | | — | 11% | 30% | 22% | 37% | 114 |
 | Crisóstomo | (d.407) | 2% | 38% | 40,5% | 19,5% | 915 |
 | Severiano | (d.408) | 3% | 37% | 30% | 30% | 91 |
@@ -1586,7 +1588,7 @@ Esta questão já recebeu alguma atenção no capítulo 4 (“Leituras sírias a
 | Teodoreto | (d.466) | 1% | 41% | 42% | 16% | 481 |
 | João Damasceno | (d.749) | 2% | 40% | 40% | 18% | 63 |
 
-\*\* (Com referência a Hipólito e Epifânio, a primeira linha reflete as estatísticas fornecidas no artigo de Aland, mas elas não totalizam 100%. A segunda linha reflete as estatísticas fornecidas em um rascunho distribuído pela American Bible Society antes da publicação do mesmo artigo. Para Epifânio, a segunda linha é provavelmente correta, uma vez que totaliza 100% — os 33 e 41 foram provavelmente copiados da linha acima. Para Hipólito a segunda linha também não totaliza 100, assim somos obrigados a fazer uma pequena crítica textual para ver se podemos recuperar o original. A terceira linha dá a minha conjectura — os 31 e 19 foram provavelmente tomados emprestados da linha abaixo [no seu artigo Metódio é colocado antes de Orígenes — eu os coloco em ordem cronológica]. Seis erros do rascunho pré-publicação foram corrigidos, mas outros quatro foram criados.)
+** (Com referência a Hipólito e Epifânio, a primeira linha reflete as estatísticas fornecidas no artigo de Aland, mas elas não totalizam 100%. A segunda linha reflete as estatísticas fornecidas em um rascunho distribuído pela American Bible Society antes da publicação do mesmo artigo. Para Epifânio, a segunda linha é provavelmente correta, uma vez que totaliza 100% — os 33 e 41 foram provavelmente copiados da linha acima. Para Hipólito a segunda linha também não totaliza 100, assim somos obrigados a fazer uma pequena crítica textual para ver se podemos recuperar o original. A terceira linha dá a minha conjectura — os 31 e 19 foram provavelmente tomados emprestados da linha abaixo [no seu artigo Metódio é colocado antes de Orígenes — eu os coloco em ordem cronológica]. Seis erros do rascunho pré-publicação foram corrigidos, mas outros quatro foram criados.)
 
 Uma coisa torna-se aparente em um relance. Com a única exceção de Marcion, cada um dos Pais usou o Texto Majoritário mais que o Egípcio. Mesmo com Clemente e Orígenes (no Egito, portanto), o Texto Majoritário é preferido sobre o Egípcio, e pelo final do terceiro século a preferência é clara. Isto é surpreendente, porque vai contra quase tudo que temos sido ensinados durante todo este século. Talvez tenhamos entendido mal a declaração de Aland? Retornando a Orígenes, somos ditos que ele é “55% contra o Texto Majoritário (30% das quais mostra concordância com o 'Texto Egípcio')”. Pensando melhor, o “of which” provavelmente deve referir-se ao total. Neste caso, uma maneira menos ambígua de apresentar as estatísticas seria dizer: “30% concordando com o Texto Egípcio, 17% com o Majoritário, 28% com ambos o Majoritário e o Egípcio e 25% diferindo de ambos.” Tabularei suas estatísticas desta maneira, usando “outros” para a última categoria:
 

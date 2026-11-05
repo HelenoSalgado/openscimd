@@ -129,4 +129,4 @@ Após a aprovação manual de cada capa:
    - `desktop/`: 1696 × 2528 px
    - `tablet/`: 1200 × 1789 px
    - `mobile/`: 1080 × 1610 px
-3. Atualize o status na tabela do [ROADMAP_COVERS.md](file:///home/heleno/Documentos/GitHub/openscimd/ROADMAP_COVERS.md).
+3. Atualize o status na tabela do [ROADMAP_COVERS.md](ROADMAP_COVERS.md).
