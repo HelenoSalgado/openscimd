@@ -347,5 +347,34 @@ def search_rag_cmd(
         raise typer.Exit(code=1)
 
 
+@app.command(name="build-epub")
+@app.command(name="epub")
+def build_epub_cmd(
+    input_file: str = typer.Argument(..., help="Caminho do arquivo Markdown do livro."),
+    output_file: Optional[str] = typer.Option(None, "--output", "-o", help="Caminho do arquivo .epub de saída."),
+    cover_file: Optional[str] = typer.Option(None, "--cover", "-c", help="Caminho customizado da imagem de capa."),
+    css_file: Optional[str] = typer.Option(None, "--css", help="Folha de estilos customizada para o EPUB."),
+    no_colophon: bool = typer.Option(False, "--no-colophon", help="Desativa a injeção do bloco editorial final."),
+):
+    """Converte um livro Markdown em EPUB 3 editorial com metadados e capa."""
+    try:
+        from scripts.md2epub import convert_md_to_epub
+        typer.secho(f"📖 Convertendo '{input_file}' para EPUB 3...", fg=typer.colors.CYAN)
+        out_path = convert_md_to_epub(
+            input_md_path=input_file,
+            output_epub_path=output_file,
+            cover_path=cover_file,
+            css_path=css_file,
+            base_dir=BASE_DIR,
+            add_colophon=not no_colophon,
+        )
+        size_kb = round(out_path.stat().st_size / 1024, 1)
+        typer.secho(f"✅ EPUB gerado com sucesso!", fg=typer.colors.GREEN, bold=True)
+        typer.secho(f"   📁 Arquivo: {out_path} ({size_kb} KB)", fg=typer.colors.WHITE)
+    except Exception as e:
+        typer.secho(f"❌ Erro ao gerar EPUB: {e}", fg=typer.colors.RED)
+        raise typer.Exit(code=1)
+
+
 if __name__ == "__main__":
     app()

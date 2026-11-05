@@ -1,0 +1,170 @@
+import zipfile
+from pathlib import Path
+import pytest
+from typer.testing import CliRunner
+
+from main import app
+from scripts.md2epub import (
+    convert_md_to_epub,
+    extract_frontmatter,
+    find_cover_image,
+    generate_colophon_markdown,
+    generate_frontmatter_editorial_blocks,
+)
+
+runner = CliRunner()
+
+
+def test_extract_frontmatter():
+    sample = """---
+title: "Título de Teste"
+author: "Autor de Teste"
+language: "pt-BR"
+---
+
+# Capítulo 1
+
+Texto do capítulo.
+"""
+    meta, body = extract_frontmatter(sample)
+    assert meta["title"] == "Título de Teste"
+    assert meta["author"] == "Autor de Teste"
+    assert meta["language"] == "pt-BR"
+    assert "# Capítulo 1" in body
+
+
+def test_extract_frontmatter_empty():
+    sample = "# Sem frontmatter\n\nApenas texto."
+    meta, body = extract_frontmatter(sample)
+    assert meta == {}
+    assert body == sample
+
+
+def test_generate_colophon():
+    meta = {
+        "title": "A República",
+        "author": "Platão",
+        "translator": "Heleno Salgado",
+        "publisher": "OpenSciMD",
+        "license": "Domínio Público",
+    }
+    colophon = generate_colophon_markdown(meta)
+    assert "OpenSciMD" in colophon
+    assert "Platão" in colophon
+    assert "Heleno Salgado" in colophon
+    assert "colophon-box" in colophon
+
+
+def test_generate_frontmatter_editorial_blocks():
+    meta = {
+        "title": "Apologia de Sócrates",
+        "author": "Platão",
+        "translator": "Heleno Salgado",
+        "publisher": "OpenSciMD",
+        "license": "Domínio Público",
+        "date": "399 a.C.",
+        "categories": ["Filosofia"],
+    }
+    blocks = generate_frontmatter_editorial_blocks(meta)
+    assert "editorial-titlepage" in blocks
+    assert "catalographic-box" in blocks
+    assert "399 a.C." in blocks
+    assert "Traduzido por Heleno Salgado" in blocks
+    assert "Tradução e notas por" not in blocks
+    assert "publisher-brand" not in blocks
+
+
+def test_find_cover_image_not_found(tmp_path):
+    dummy_book = tmp_path / "dummy-book.md"
+    dummy_book.write_text("# Teste", encoding="utf-8")
+    assert find_cover_image(dummy_book, tmp_path) is None
+
+
+def test_find_cover_image_found(tmp_path):
+    covers_dir = tmp_path / "assets" / "covers" / "originals"
+    covers_dir.mkdir(parents=True)
+    cover_file = covers_dir / "obra-antiga.png"
+    cover_file.write_bytes(b"dummy image data")
+
+    dummy_book = tmp_path / "content" / "books" / "obra-antiga.md"
+    dummy_book.parent.mkdir(parents=True)
+    dummy_book.write_text("# Teste", encoding="utf-8")
+
+    found = find_cover_image(dummy_book, tmp_path)
+    assert found == cover_file
+
+
+def test_convert_md_to_epub_success(tmp_path):
+    book_file = tmp_path / "livro-teste.md"
+    book_file.write_text(
+        """---
+title: "Livro de Exemplo"
+author: "Pensador Notável"
+translator: "Heleno Salgado"
+language: "pt-BR"
+summary: "Um resumo conciso sobre o exemplar."
+---
+
+## Capítulo Primeiro
+
+Este é o início do texto editorial.
+
+### Subseção Dialética
+
+Argumentação lógica e coerente.
+""",
+        encoding="utf-8",
+    )
+
+    out_epub = tmp_path / "output.epub"
+    res_path = convert_md_to_epub(
+        input_md_path=book_file,
+        output_epub_path=out_epub,
+        base_dir=tmp_path,
+        add_colophon=True,
+    )
+
+    assert res_path.exists()
+    assert res_path == out_epub
+    assert res_path.stat().st_size > 0
+
+    # Validar integridade da estrutura EPUB (ZIP)
+    with zipfile.ZipFile(res_path, "r") as z:
+        namelist = z.namelist()
+        assert "mimetype" in namelist
+        assert "META-INF/container.xml" in namelist
+        
+        # Verificar metadados Dublin Core dentro do content.opf
+        opf_name = next(name for name in namelist if name.endswith(".opf"))
+        opf_content = z.read(opf_name).decode("utf-8")
+        assert "Livro de Exemplo" in opf_content
+        assert "Pensador Notável" in opf_content
+        assert "OpenSciMD" in opf_content
+
+
+def test_convert_md_to_epub_missing_file():
+    with pytest.raises(FileNotFoundError):
+        convert_md_to_epub("arquivo_totalmente_inexistente.md")
+
+
+def test_cli_build_epub(tmp_path):
+    book_file = tmp_path / "filosofia.md"
+    book_file.write_text(
+        """---
+title: "Filosofia Primeira"
+author: "Aristóteles"
+language: "pt-BR"
+---
+
+## Do Ser
+
+O ser se diz de muitos modos.
+""",
+        encoding="utf-8",
+    )
+    out_epub = tmp_path / "filosofia.epub"
+
+    result = runner.invoke(app, ["build-epub", str(book_file), "--output", str(out_epub)])
+    assert result.exit_code == 0
+    assert "EPUB gerado com sucesso!" in result.stdout
+    assert out_epub.exists()

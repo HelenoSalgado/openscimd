@@ -13,3 +13,4 @@ build-cloudflare
 tests/test_covers.py
 *.sqlite
 *.db
+dist/
