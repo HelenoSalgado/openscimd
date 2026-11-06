@@ -137,6 +137,54 @@ def generate_colophon_markdown(metadata: Dict[str, Any], prefix: str = "##") -> 
     return "\n".join(colophon)
 
 
+def generate_institutional_page(prefix: str = "##") -> str:
+    """Gera página institucional final apresentando OpenSciMD, Leia-me e citação acadêmica."""
+    blocks = [
+        f"{prefix} {{.unnumbered .unlisted}}\n",
+        '<div class="institutional-wrapper">',
+        '<div class="institutional-card">',
+        '<div class="institutional-badge">OpenSciMD &amp; Leia-me</div>',
+        '<h3>Conhecimento Aberto, Leitura Ativa</h3>',
+        '<p class="institutional-lead">',
+        'Esta edição digital foi produzida pelo <strong>OpenSciMD</strong>, uma iniciativa voltada à curadoria, normalização semântica e preservação de tratados clássicos e artigos acadêmicos em formatos digitais abertos e acessíveis.',
+        '</p>',
+        '<div class="institutional-section">',
+        '<h4>Aplicativo Oficial Leia-me</h4>',
+        '<p>',
+        'Para uma experiência aprofundada de estudo e pesquisa, utilize o aplicativo <strong>Leia-me</strong>. Desenvolvido para o público estudantil e acadêmico, o app oferece:',
+        '</p>',
+        '<ul>',
+        '<li>Leitura imersiva em Markdown e navegação por sumário interativo;</li>',
+        '<li>Busca aprofundada (FTS) com suporte a termos gregos, latinos e notas;</li>',
+        '<li>Caderno de anotações e realces coloridos vinculados aos trechos;</li>',
+        '<li>Acesso completo e leitura 100% offline no seu dispositivo.</li>',
+        '<li>Dicionário da Língua Portuguêsa integrado.</li>',
+        '</ul>',
+        '<p class="institutional-link-box">',
+        'Conheça: <a href="https://leiame.app">leiame.app</a>',
+        '</p>',
+        '</div>',
+        '<div class="institutional-section">',
+        '<h4>Licença Editorial e Como Citar</h4>',
+        '<p>',
+        'A compilação editorial, normalização tipográfica e identidade gráfica desta edição estão protegidas sob a licença <strong>Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional (CC BY-NC-ND 4.0)</strong>.',
+        '</p>',
+        '<p>',
+        'Você é livre para baixar, armazenar e compartilhar esta edição sem finalidade comercial e preservando a integridade original. Para fins de pesquisa, referência acadêmica ou redistribuição, cite a compilação:',
+        '</p>',
+        '<p class="citation-box">',
+        '<code>Salgado, H. (2026). OpenSciMD: Open-Access Scientific Articles in Markdown (Version 1.1.0) [Data set]. https://github.com/HelenoSalgado/openscimd</code>',
+        '</p>',
+        '<p class="institutional-repo">',
+        'Repositório: <a href="https://github.com/HelenoSalgado/openscimd">github.com/HelenoSalgado/openscimd</a>',
+        '</p>',
+        '</div>',
+        '</div>\n',
+        '</div>\n',
+    ]
+    return "\n".join(blocks)
+
+
 def _clean_epub_container(epub_path: Path) -> None:
     """Higieniza os documentos XHTML do EPUB removendo cabeçalhos unnumbered sintetizados pelo Pandoc."""
     import zipfile
@@ -146,7 +194,7 @@ def _clean_epub_container(epub_path: Path) -> None:
             data = z_in.read(item.filename)
             if item.filename.endswith(".xhtml"):
                 text = data.decode("utf-8")
-                if "editorial-titlepage" in text or "catalographic-box" in text:
+                if "editorial-titlepage" in text or "catalographic-box" in text or "institutional-card" in text:
                     text = re.sub(r'<h1 class="unnumbered[^"]*">.*?</h1>\s*', '', text, flags=re.DOTALL)
                     data = text.encode("utf-8")
             if item.filename == "mimetype":
@@ -162,8 +210,9 @@ def convert_md_to_epub(
     cover_path: Optional[str | Path] = None,
     css_path: Optional[str | Path] = None,
     base_dir: Optional[str | Path] = None,
-    add_colophon: bool = True,
+    add_colophon: bool = False,
     add_editorial_pages: bool = True,
+    add_institutional_page: bool = True,
 ) -> Path:
     """Converte um documento Markdown para formato EPUB 3 profissional com Pandoc."""
     input_path = Path(input_md_path).resolve()
@@ -228,13 +277,18 @@ def convert_md_to_epub(
         editorial_pre = generate_frontmatter_editorial_blocks(metadata, prefix=heading_prefix)
         markdown_parts.append(editorial_pre)
 
-    # 2. Corpo do texto
-    markdown_parts.append(body.strip())
+    # 2. Corpo do texto (com higienização de âncoras vazias de notas)
+    clean_body = re.sub(r'---\s*\n+##\s+Nota Editorial\s*\n+(?=\[\^)', '', body)
+    markdown_parts.append(clean_body.strip())
 
-    # 3. Elementos pós-textuais (Colofão)
+    # 3. Elementos pós-textuais (Colofão e Página Institucional)
     if add_colophon:
         colophon_md = generate_colophon_markdown(metadata, prefix=heading_prefix)
         markdown_parts.append(colophon_md)
+
+    if add_institutional_page:
+        institutional_md = generate_institutional_page(prefix=heading_prefix)
+        markdown_parts.append(institutional_md)
 
     compiled_markdown = "\n\n".join(markdown_parts)
 

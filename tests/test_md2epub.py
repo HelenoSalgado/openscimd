@@ -10,6 +10,7 @@ from scripts.md2epub import (
     find_cover_image,
     generate_colophon_markdown,
     generate_frontmatter_editorial_blocks,
+    generate_institutional_page,
 )
 
 runner = CliRunner()
@@ -72,6 +73,16 @@ def test_generate_frontmatter_editorial_blocks():
     assert "Traduzido por Heleno Salgado" in blocks
     assert "Tradução e notas por" not in blocks
     assert "publisher-brand" not in blocks
+
+
+def test_generate_institutional_page():
+    page_md = generate_institutional_page()
+    assert "institutional-card" in page_md
+    assert "OpenSciMD &amp; Leia-me" in page_md
+    assert "leiame.app" in page_md
+    assert "CC BY-NC-ND 4.0" in page_md
+    assert "Salgado, H. (2026). OpenSciMD: Open-Access Scientific Articles in Markdown (Version 1.1.0) [Data set]." in page_md
+    assert "https://github.com/HelenoSalgado/openscimd" in page_md
 
 
 def test_find_cover_image_not_found(tmp_path):

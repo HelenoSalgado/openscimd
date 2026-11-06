@@ -354,7 +354,8 @@ def build_epub_cmd(
     output_file: Optional[str] = typer.Option(None, "--output", "-o", help="Caminho do arquivo .epub de saída."),
     cover_file: Optional[str] = typer.Option(None, "--cover", "-c", help="Caminho customizado da imagem de capa."),
     css_file: Optional[str] = typer.Option(None, "--css", help="Folha de estilos customizada para o EPUB."),
-    no_colophon: bool = typer.Option(False, "--no-colophon", help="Desativa a injeção do bloco editorial final."),
+    with_colophon: bool = typer.Option(False, "--colophon", help="Adiciona colofão editorial legado ao final."),
+    no_institutional: bool = typer.Option(False, "--no-institutional", help="Desativa a injeção da página institucional final."),
 ):
     """Converte um livro Markdown em EPUB 3 editorial com metadados e capa."""
     try:
@@ -366,7 +367,8 @@ def build_epub_cmd(
             cover_path=cover_file,
             css_path=css_file,
             base_dir=BASE_DIR,
-            add_colophon=not no_colophon,
+            add_colophon=with_colophon,
+            add_institutional_page=not no_institutional,
         )
         size_kb = round(out_path.stat().st_size / 1024, 1)
         typer.secho(f"✅ EPUB gerado com sucesso!", fg=typer.colors.GREEN, bold=True)
