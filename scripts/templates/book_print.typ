@@ -1,5 +1,5 @@
 // OpenSciMD - Template Tipográfico Editorial para Livro Impresso (KDP Print)
-// Formato Canônico: 140mm x 210mm com Margens Espelhadas e Medianiz
+// Formato Canônico Padrão KDP: 5,5" x 8,5" (139.7mm x 215.9mm) com Margens Espelhadas e Medianiz
 
 #let setup-book(
   title: "Obra",
@@ -13,15 +13,15 @@
   summary: "",
   body,
 ) = {
-  // Configuração da Página para Impressão com Margens Espelhadas
+  // Configuração da Página para Impressão com Margens Espelhadas (5.5" x 8.5")
   set page(
-    width: 140mm,
-    height: 210mm,
+    width: 139.7mm,
+    height: 215.9mm,
     margin: (
       inside: 22mm,   // Medianiz para encadernação/cola da lombada
       outside: 16mm,  // Margem externa
       top: 20mm,      // Margem superior
-      bottom: 22mm,   // Margem inferior
+      bottom: 16mm,   // Margem inferior otimizada para maior aproveitamento do texto
     ),
     header: context {
       let page-num = counter(page).get().first()
@@ -53,10 +53,16 @@
   // Configurações de Tipografia e Texto
   set text(
     font: ("Cormorant Garamond", "Liberation Serif", "EB Garamond", "Georgia"),
-    size: 11pt,
+    size: 12pt,
     lang: "pt",
     region: "BR",
     hyphenate: true,
+  )
+
+  set footnote.entry(
+    clearance: 2.2em,
+    gap: 0.8em,
+    separator: line(length: 28%, stroke: 0.4pt + rgb("#8B6B23")),
   )
 
   set par(
@@ -163,15 +169,9 @@
         *Autor:* #author #if date-orig != "" [(#date-orig)] \
         #if translator != none [*Tradução:* #translator \ ]
         *Edição:* Edição independente, #year \
-        *Extensão:* #context [ #counter(page).final().first() páginas · 14 × 21 cm ] \
-        *Assunto:* #if type(categories) == array { categories.join(", ") } else { str(categories) }
-
-        #v(0.8em)
-        #line(length: 100%, stroke: 0.3pt + rgb("#8B6B23"))
-        #v(0.4em)
-        #text(size: 7.5pt, fill: rgb("#4A5568"), style: "italic")[
-          Obra original em domínio público. Composição tipográfica e diagramação independentes.
-        ]
+        *Extensão:* #context [ #counter(page).final().first() páginas · 5,5 × 8,5 pol. (14 × 21,6 cm) ] \
+        *Assunto:* #if type(categories) == array { categories.join(", ") } else { str(categories) } \
+        #if license != "" and license != none [*Licença:* #license]
       ]
     ]
   ]

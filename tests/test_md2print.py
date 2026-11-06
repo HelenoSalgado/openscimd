@@ -37,7 +37,7 @@ def test_get_pdf_page_count_real():
 
     pages = get_pdf_page_count(interior_pdf)
     assert pages > 0
-    assert pages in (36, 37, 38)
+    assert pages in (36, 37, 38, 39, 40, 41, 42)
 
 
 def test_convert_md_to_print_interior_and_cover(tmp_path: Path):
@@ -149,6 +149,12 @@ def test_book_print_typ_titlepage_and_cip_centering():
     assert "REGISTRO EDITORIAL" in content
     assert "counter(page).final().first()" in content
     assert "width: 84%" in content
+    assert "*Licença:* #license" in content
+
+    # Tipografia ampliada e respiro para notas de rodapé
+    assert "size: 12pt" in content
+    assert "bottom: 16mm" in content
+    assert "clearance: 2.2em" in content
 
     # Supressão de cabeçalho em páginas de abertura de capítulo
     assert "is-h1-page" in content

@@ -105,8 +105,9 @@ def convert_md_to_print_interior(
         categories = [categories]
     summary = metadata.get("summary", "")
 
-    # Sanitizar corpo: remover âncoras órfãs ou notas vazias antes do Pandoc
-    clean_body = re.sub(r'##\s*Nota\s*Editorial\s*$', '', body, flags=re.MULTILINE)
+    # Sanitizar corpo: remover divisores órfãos e seções finais de notas antes do Pandoc
+    clean_body = re.sub(r'(?:\r?\n\s*---\s*)+\r?\n+\s*##\s*Nota\s*Editorial\b', '', body)
+    clean_body = re.sub(r'##\s*Nota\s*Editorial\s*$', '', clean_body, flags=re.MULTILINE)
 
     # Converter corpo Markdown para Typst usando Pandoc
     cmd = ["pandoc", "-t", "typst", "--shift-heading-level-by=-1"]
@@ -114,7 +115,12 @@ def convert_md_to_print_interior(
     if proc.returncode != 0:
         raise RuntimeError(f"Erro ao converter Markdown para Typst: {proc.stderr.strip()}")
 
-    body_typst = proc.stdout
+    body_typst = proc.stdout.strip()
+
+    # Resiliência editorial: eliminar divisores, linhas ou quebras de página órfãs no final do texto
+    body_typst = re.sub(r'(\s*#divider\(\)\s*)+$', '', body_typst)
+    body_typst = re.sub(r'(\s*#line\([^)]*\)\s*)+$', '', body_typst)
+    body_typst = re.sub(r'(\s*#pagebreak\([^)]*\)\s*)+$', '', body_typst)
 
     template_path = (project_root / "scripts" / "templates" / "book_print.typ").resolve()
     if not template_path.exists():
@@ -198,8 +204,9 @@ def generate_print_cover_spread(
     page_count = get_pdf_page_count(interior_path)
     spine_mm = calculate_kdp_spine_width_mm(page_count, paper_type=paper_type)
 
-    trim_width_mm = 140.0
-    trim_height_mm = 210.0
+    # Padrão KDP 5,5 x 8,5 polegadas (139.7 x 215.9 mm) com qualificação para Distribuição Estendida
+    trim_width_mm = 139.7
+    trim_height_mm = 215.9
     bleed_mm = 3.2  # 0.125 polegadas de sangria
 
     total_width_mm = round((trim_width_mm * 2) + spine_mm + (bleed_mm * 2), 2)
@@ -234,11 +241,12 @@ def generate_print_cover_spread(
 
 #let front-cover = "{front_cover_path}"
 
-// Fundo global da folha
-#rect(width: 100%, height: 100%, fill: rgb("#111625"))[
+// Fundo global da folha com sangria total
+#rect(width: 100%, height: 100%, fill: rgb("#111625"), inset: 0mm, outset: 0mm)[
   #grid(
     columns: (trim-w + bleed, spine-w, trim-w + bleed),
     rows: (100%),
+    gutter: 0mm,
     
     // --- QUARTA CAPA (VERSO / ESQUERDA) ---
     align(left + horizon)[
@@ -257,24 +265,9 @@ def generate_print_cover_spread(
         #v(1.6em)
         #align(left)[
           #set par(justify: false, spacing: 0.75em)
-          #set text(size: 9.8pt)
+          #set text(size: 11.5pt)
+          #set par(leading: 0.72em)
           {summary}
-        ]
-
-        #v(2.5em)
-        // Espaço reservado para o código de barras KDP (50.8mm x 30.5mm)
-        #align(left)[
-          #rect(
-            width: 48mm,
-            height: 28mm,
-            fill: white,
-            radius: 1pt,
-            stroke: 0.5pt + luma(180),
-          )[
-            #align(center + horizon)[
-              #text(size: 6.5pt, fill: luma(120))[Espaço Código de Barras KDP]
-            ]
-          ]
         ]
       ]
     ],
@@ -289,9 +282,11 @@ def generate_print_cover_spread(
       ]
     ],
 
-    // --- CAPA DA FRENTE (DIREITA) ---
-    align(right + top)[
-      #image(front-cover, width: trim-w + bleed, height: 100%, fit: "cover")
+    // --- CAPA DA FRENTE COM SANGRIA TOTAL (DIREITA) ---
+    align(top + right)[
+      #box(width: trim-w + bleed, height: 100%, clip: true)[
+        #image(front-cover, width: 100%, height: 100%, fit: "cover")
+      ]
     ]
   )
 ]

@@ -10,7 +10,6 @@
 
 html {
     font-size: 100%;
-    -webkit-text-size-adjust: 100%;
 }
 
 body {
@@ -22,8 +21,6 @@ body {
     text-align: justify;
     text-justify: inter-word;
     hyphens: auto;
-    -webkit-hyphens: auto;
-    adobe-hyphenate: auto;
 }
 
 /* --------------------------------------------------------------------------
@@ -238,7 +235,7 @@ h1 + p, h2 + p, h3 + p, hr + p, blockquote + p, div + p, .no-indent {
 }
 
 /* Diálogos com travessão alinhados e limpos */
-p.dialogue, p:has(> span.dialogue) {
+p.dialogue, p span.dialogue {
     text-indent: 0;
     margin-bottom: 0.75em;
 }

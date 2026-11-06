@@ -101,6 +101,12 @@ def test_epub_css_kindle_compliance():
     assert "color: #2D3748;" in content
     assert "@media (prefers-color-scheme: dark)" in content
 
+    # Google Play Books e validadores EPUB 3 estritos: sem propriedades proprietárias inválidas ou pseudo-classes não suportadas
+    assert "-webkit-text-size-adjust" not in content
+    assert "-webkit-hyphens" not in content
+    assert "adobe-hyphenate" not in content
+    assert ":has(" not in content
+
 
 
 def test_find_cover_image_not_found(tmp_path):
