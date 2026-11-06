@@ -350,16 +350,48 @@ def search_rag_cmd(
 @app.command(name="build-epub")
 @app.command(name="epub")
 def build_epub_cmd(
-    input_file: str = typer.Argument(..., help="Caminho do arquivo Markdown do livro."),
+    input_file: Optional[str] = typer.Argument(None, help="Caminho do arquivo Markdown do livro (ou omitir se usar --all)."),
     output_file: Optional[str] = typer.Option(None, "--output", "-o", help="Caminho do arquivo .epub de saída."),
+    all_items: bool = typer.Option(False, "--all", "-a", help="Compila recursivamente todo o catálogo em lote."),
+    target_type: str = typer.Option("all", "--type", "-t", help="Filtro para compilação em lote: 'all', 'books' ou 'articles'."),
     cover_file: Optional[str] = typer.Option(None, "--cover", "-c", help="Caminho customizado da imagem de capa."),
     css_file: Optional[str] = typer.Option(None, "--css", help="Folha de estilos customizada para o EPUB."),
     with_colophon: bool = typer.Option(False, "--colophon", help="Adiciona colofão editorial legado ao final."),
     no_institutional: bool = typer.Option(False, "--no-institutional", help="Desativa a injeção da página institucional final."),
+    flat: bool = typer.Option(False, "--flat", help="Salva diretamente na raiz de dist/ sem replicar a hierarquia content/."),
 ):
-    """Converte um livro Markdown em EPUB 3 editorial com metadados e capa."""
+    """Converte um ou todos os livros/artigos Markdown em EPUB 3 editorial com metadados e capa."""
+    from scripts.md2epub import convert_md_to_epub, batch_convert_content
+
+    if not all_items and not input_file:
+        typer.secho("❌ Forneça o caminho do arquivo Markdown ou utilize a flag '--all' para compilar em lote.", fg=typer.colors.RED)
+        raise typer.Exit(code=1)
+
     try:
-        from scripts.md2epub import convert_md_to_epub
+        if all_items:
+            typer.secho(f"🚀 Iniciando compilação em lote do catálogo ({target_type})...\n", fg=typer.colors.CYAN, bold=True)
+            res = batch_convert_content(
+                base_dir=BASE_DIR,
+                target_type=target_type,
+                cover_path=cover_file,
+                css_path=css_file,
+                add_colophon=with_colophon,
+                add_institutional_page=not no_institutional,
+            )
+            for item in res["succeeded"]:
+                rel_out = item["output"].relative_to(BASE_DIR) if item["output"].is_relative_to(BASE_DIR) else item["output"]
+                typer.secho(f"  ✅ {item['source'].stem} -> {rel_out} ({item['size_kb']} KB)", fg=typer.colors.GREEN)
+
+            if res["failed"]:
+                typer.secho(f"\n⚠️  {len(res['failed'])} arquivo(s) com erro:", fg=typer.colors.YELLOW, bold=True)
+                for f in res["failed"]:
+                    typer.secho(f"  ❌ {f['source']}: {f['error']}", fg=typer.colors.RED)
+
+            typer.secho(f"\n🎉 Concluído: {len(res['succeeded'])}/{res['total']} documentos gerados com sucesso!", fg=typer.colors.GREEN, bold=True)
+            if res["failed"]:
+                raise typer.Exit(code=1)
+            return
+
         typer.secho(f"📖 Convertendo '{input_file}' para EPUB 3...", fg=typer.colors.CYAN)
         out_path = convert_md_to_epub(
             input_md_path=input_file,
@@ -369,13 +401,57 @@ def build_epub_cmd(
             base_dir=BASE_DIR,
             add_colophon=with_colophon,
             add_institutional_page=not no_institutional,
+            structured=not flat,
         )
         size_kb = round(out_path.stat().st_size / 1024, 1)
         typer.secho(f"✅ EPUB gerado com sucesso!", fg=typer.colors.GREEN, bold=True)
         typer.secho(f"   📁 Arquivo: {out_path} ({size_kb} KB)", fg=typer.colors.WHITE)
+    except typer.Exit:
+        raise
     except Exception as e:
         typer.secho(f"❌ Erro ao gerar EPUB: {e}", fg=typer.colors.RED)
         raise typer.Exit(code=1)
+
+
+@app.command(name="validate-kindle")
+def validate_kindle_cmd(
+    epub_file: str = typer.Argument(..., help="Caminho do arquivo EPUB para validação Amazon Kindle."),
+    strict: bool = typer.Option(False, "--strict", help="Falha se houver avisos (warnings)."),
+):
+    """Valida a conformidade técnica e editorial de um EPUB para a Amazon (KDP / Send to Kindle)."""
+    from scripts.kindle_validator import validate_kindle_epub
+    typer.secho(f"🔍 Validando conformidade Amazon Kindle para '{epub_file}'...\n", fg=typer.colors.CYAN, bold=True)
+    res = validate_kindle_epub(epub_file)
+
+    if res.metadata:
+        typer.secho("📋 Metadados Detectados:", fg=typer.colors.WHITE, bold=True)
+        for k, v in res.metadata.items():
+            typer.secho(f"   • {k}: {v}", fg=typer.colors.BLUE)
+
+    if res.infos:
+        typer.secho("\n✨ Conformidades Confirmadas:", fg=typer.colors.WHITE, bold=True)
+        for info in res.infos:
+            typer.secho(f"   ✓ {info}", fg=typer.colors.GREEN)
+
+    if res.warnings:
+        typer.secho(f"\n⚠️  Avisos e Recomendações ({len(res.warnings)}):", fg=typer.colors.YELLOW, bold=True)
+        for warn in res.warnings:
+            typer.secho(f"   ! {warn}", fg=typer.colors.YELLOW)
+
+    if res.errors:
+        typer.secho(f"\n❌ Erros Críticos de Conformidade KDP ({len(res.errors)}):", fg=typer.colors.RED, bold=True)
+        for err in res.errors:
+            typer.secho(f"   ✗ {err}", fg=typer.colors.RED)
+
+    if not res.is_valid:
+        typer.secho("\n🚫 Validação Kindle: REPROVADO (o KDP poderá rejeitar ou apresentar erros neste arquivo).", fg=typer.colors.RED, bold=True)
+        raise typer.Exit(code=1)
+
+    if strict and res.warnings:
+        typer.secho("\n⚠️  Validação Kindle: APROVADO COM RESSALVAS (--strict ativo).", fg=typer.colors.YELLOW, bold=True)
+        raise typer.Exit(code=1)
+
+    typer.secho("\n🎉 Validação Kindle: APROVADO! Arquivo 100% pronto para Amazon KDP / Send to Kindle.", fg=typer.colors.GREEN, bold=True)
 
 
 if __name__ == "__main__":

@@ -91,11 +91,13 @@ section.titlepage div.rights {
 
 .editorial-titlepage {
     text-align: center;
-    padding: 15% 1em 10% 1em;
+    padding: 28% 1em 10% 1em;
     page-break-before: always;
     break-before: page;
     page-break-after: always;
     break-after: page;
+    page-break-inside: avoid;
+    break-inside: avoid;
 }
 
 .editorial-titlepage .main-title {
@@ -132,18 +134,26 @@ section.titlepage div.rights {
 
 /* Ficha Catalográfica / Créditos */
 .catalographic-wrapper {
-    padding-top: 18%;
+    padding-top: 26%;
     padding-bottom: 5%;
+    page-break-before: always;
+    break-before: page;
+    page-break-after: always;
+    break-after: page;
+    page-break-inside: avoid;
+    break-inside: avoid;
 }
 
 .catalographic-box {
     margin: 0 auto;
     padding: 1.4em 1.6em;
-    border: 1px solid rgba(139, 107, 35, 0.35);
+    border: 1px solid rgba(139, 107, 35, 0.45);
     border-radius: 4px;
     font-size: 0.88em;
     line-height: 1.55;
     max-width: 85%;
+    background-color: transparent;
+    color: inherit;
 }
 
 .catalographic-box h4 {
@@ -186,10 +196,12 @@ h2 {
     margin-bottom: 0.8em;
     padding-bottom: 0.3em;
     border-bottom: 1px solid rgba(139, 107, 35, 0.3);
-    page-break-before: always;
-    break-before: page;
+    page-break-before: auto;
+    break-before: auto;
     page-break-after: avoid;
     break-after: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid;
 }
 
 h3 {
@@ -198,8 +210,12 @@ h3 {
     line-height: 1.4;
     margin-top: 1.6em;
     margin-bottom: 0.5em;
+    page-break-before: auto;
+    break-before: auto;
     page-break-after: avoid;
     break-after: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid;
 }
 
 /* --------------------------------------------------------------------------
@@ -416,18 +432,22 @@ hr {
 }
 
 .citation-box {
-    margin: 0.8em 0;
-    padding: 0.7em 0.9em;
-    background-color: rgba(139, 107, 35, 0.07);
+    margin: 0.9em 0;
+    padding: 0.8em 1em;
+    background-color: rgba(139, 107, 35, 0.08);
     border-left: 3px solid #8B6B23;
     border-radius: 3px;
     font-size: 0.88em;
+    line-height: 1.5;
     word-break: break-all;
+    color: #2D3748;
 }
 
-.citation-box code {
-    font-family: monospace;
+.citation-box code, code {
+    font-family: "Courier New", Courier, monospace;
     font-size: 0.95em;
+    color: inherit;
+    background: transparent;
 }
 
 .institutional-link-box {
@@ -477,4 +497,28 @@ nav#toc li ol {
 
 nav#toc a {
     text-decoration: none;
+}
+
+/* --------------------------------------------------------------------------
+   Suporte a Modo Noturno / Dark Mode (Kindle e E-readers modernos)
+   -------------------------------------------------------------------------- */
+@media (prefers-color-scheme: dark) {
+    .editorial-titlepage .sub-title,
+    .editorial-titlepage .translator-info {
+        color: #A0AEC0;
+    }
+    .catalographic-box {
+        border-color: rgba(197, 160, 89, 0.5);
+    }
+    .citation-box {
+        background-color: rgba(255, 255, 255, 0.08);
+        border-left-color: #C5A059;
+        color: #E2E8F0;
+    }
+    .citation-box code {
+        color: #E2E8F0;
+    }
+    .institutional-link-box a, .institutional-repo a {
+        color: #D69E2E;
+    }
 }

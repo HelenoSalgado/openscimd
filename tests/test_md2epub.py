@@ -5,12 +5,14 @@ from typer.testing import CliRunner
 
 from main import app
 from scripts.md2epub import (
+    batch_convert_content,
     convert_md_to_epub,
     extract_frontmatter,
     find_cover_image,
     generate_colophon_markdown,
     generate_frontmatter_editorial_blocks,
     generate_institutional_page,
+    resolve_epub_output_path,
 )
 
 runner = CliRunner()
@@ -83,6 +85,21 @@ def test_generate_institutional_page():
     assert "CC BY-NC-ND 4.0" in page_md
     assert "Salgado, H. (2026). OpenSciMD: Open-Access Scientific Articles in Markdown (Version 1.1.0) [Data set]." in page_md
     assert "https://github.com/HelenoSalgado/openscimd" in page_md
+
+
+def test_epub_css_kindle_compliance():
+    css_path = Path("scripts/templates/epub.css")
+    assert css_path.exists()
+    content = css_path.read_text(encoding="utf-8")
+    
+    # h2 não pode forçar quebra de página
+    assert "h2 {\n    font-size: 1.45em;\n    font-weight: 700;\n    line-height: 1.35;\n    text-align: left;\n    margin-top: 1.8em;\n    margin-bottom: 0.8em;\n    padding-bottom: 0.3em;\n    border-bottom: 1px solid rgba(139, 107, 35, 0.3);\n    page-break-before: auto;" in content
+    assert "break-before: auto;" in content
+    # citation-box deve ter cor explícita e regras dark mode
+    assert ".citation-box" in content
+    assert "color: #2D3748;" in content
+    assert "@media (prefers-color-scheme: dark)" in content
+
 
 
 def test_find_cover_image_not_found(tmp_path):
@@ -179,3 +196,81 @@ O ser se diz de muitos modos.
     assert result.exit_code == 0
     assert "EPUB gerado com sucesso!" in result.stdout
     assert out_epub.exists()
+
+
+def test_resolve_epub_output_path(tmp_path):
+    project_root = tmp_path
+    (project_root / "pyproject.toml").write_text("[project]\nname='test'")
+    books_file = project_root / "content" / "books" / "platao" / "dialogo.md"
+    books_file.parent.mkdir(parents=True)
+    books_file.write_text("# Dialogo")
+
+    # 1. Estruturado (padrão)
+    resolved = resolve_epub_output_path(books_file, project_root, structured=True)
+    expected = project_root / "dist" / "content" / "books" / "platao" / "dialogo.epub"
+    assert resolved == expected
+
+    # 2. Flat
+    resolved_flat = resolve_epub_output_path(books_file, project_root, structured=False)
+    expected_flat = project_root / "dist" / "dialogo.epub"
+    assert resolved_flat == expected_flat
+
+    # 3. Customizado explícito
+    custom_target = tmp_path / "custom" / "livro.epub"
+    resolved_custom = resolve_epub_output_path(books_file, project_root, output_epub_path=custom_target)
+    assert resolved_custom == custom_target
+
+
+def test_batch_convert_content(tmp_path):
+    project_root = tmp_path
+    (project_root / "pyproject.toml").write_text("[project]\nname='test'")
+    book = project_root / "content" / "books" / "autor1" / "obra.md"
+    book.parent.mkdir(parents=True)
+    book.write_text("---\ntitle: 'Obra 1'\nauthor: 'Autor 1'\n---\n\n## Cap 1\n\nConteúdo.")
+
+    art = project_root / "content" / "articles" / "rev1" / "artigo.md"
+    art.parent.mkdir(parents=True)
+    art.write_text("---\ntitle: 'Artigo 1'\nauthor: 'Autor 2'\n---\n\n## Introdução\n\nTexto.")
+
+    # Executar batch
+    res = batch_convert_content(base_dir=project_root)
+    assert res["total"] == 2
+    assert len(res["succeeded"]) == 2
+    assert len(res["failed"]) == 0
+
+    expected_book_epub = project_root / "dist" / "content" / "books" / "autor1" / "obra.epub"
+    expected_art_epub = project_root / "dist" / "content" / "articles" / "rev1" / "artigo.epub"
+    assert expected_book_epub.exists()
+    assert expected_art_epub.exists()
+
+
+def test_cli_build_epub_all_and_validate_kindle(tmp_path):
+    project_root = tmp_path
+    (project_root / "pyproject.toml").write_text("[project]\nname='test'")
+    book = project_root / "content" / "books" / "platao" / "fedro.md"
+    book.parent.mkdir(parents=True)
+    book.write_text("---\ntitle: 'Fedro'\nauthor: 'Platão'\n---\n\n## Discurso\n\nSobre a retórica.")
+
+    # CLI sem argumentos deve falhar avisando sobre --all ou arquivo
+    res_err = runner.invoke(app, ["build-epub"])
+    assert res_err.exit_code == 1
+    assert "Forneça o caminho do arquivo Markdown ou utilize a flag '--all'" in res_err.stdout
+
+    try:
+        # Compilar livro com estrutura padrão
+        res_build = runner.invoke(app, ["build-epub", str(book)])
+        assert res_build.exit_code == 0
+        generated_epub = Path("dist/content/books/platao/fedro.epub")
+        assert generated_epub.exists()
+
+        # Validar Kindle via CLI
+        res_val = runner.invoke(app, ["validate-kindle", str(generated_epub)])
+        assert res_val.exit_code == 0
+        assert "APROVADO" in res_val.stdout
+    finally:
+        generated_epub = Path("dist/content/books/platao/fedro.epub")
+        if generated_epub.exists():
+            generated_epub.unlink()
+        # Limpar diretórios pais se vazios
+        if generated_epub.parent.exists() and not any(generated_epub.parent.iterdir()):
+            generated_epub.parent.rmdir()

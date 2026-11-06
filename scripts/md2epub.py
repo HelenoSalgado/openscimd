@@ -7,7 +7,7 @@ import subprocess
 import tempfile
 from datetime import datetime
 from pathlib import Path
-from typing import Any, Dict, Optional, Tuple
+from typing import Any, Dict, List, Optional, Tuple
 
 import yaml
 
@@ -204,6 +204,32 @@ def _clean_epub_container(epub_path: Path) -> None:
     temp_epub.replace(epub_path)
 
 
+def resolve_epub_output_path(
+    input_md_path: Path,
+    project_root: Path,
+    output_epub_path: Optional[str | Path] = None,
+    structured: bool = True,
+) -> Path:
+    """Resolve o caminho de saída para o EPUB, preservando a hierarquia de content/ se estruturado."""
+    if output_epub_path:
+        return Path(output_epub_path).resolve()
+
+    content_dir = (project_root / "content").resolve()
+    resolved_input = input_md_path.resolve()
+
+    if structured:
+        if resolved_input.is_relative_to(content_dir):
+            rel = resolved_input.relative_to(content_dir)
+            return project_root / "dist" / "content" / rel.with_suffix(".epub")
+        parts = resolved_input.parts
+        if "content" in parts:
+            idx = parts.index("content")
+            rel = Path(*parts[idx + 1 :])
+            return project_root / "dist" / "content" / rel.with_suffix(".epub")
+
+    return project_root / "dist" / f"{resolved_input.stem}.epub"
+
+
 def convert_md_to_epub(
     input_md_path: str | Path,
     output_epub_path: Optional[str | Path] = None,
@@ -213,6 +239,7 @@ def convert_md_to_epub(
     add_colophon: bool = False,
     add_editorial_pages: bool = True,
     add_institutional_page: bool = True,
+    structured: bool = True,
 ) -> Path:
     """Converte um documento Markdown para formato EPUB 3 profissional com Pandoc."""
     input_path = Path(input_md_path).resolve()
@@ -223,13 +250,12 @@ def convert_md_to_epub(
     while project_root != project_root.parent and not (project_root / "pyproject.toml").exists():
         project_root = project_root.parent
 
-    if output_epub_path:
-        out_path = Path(output_epub_path).resolve()
-    else:
-        dist_dir = project_root / "dist"
-        dist_dir.mkdir(parents=True, exist_ok=True)
-        out_path = dist_dir / f"{input_path.stem}.epub"
-
+    out_path = resolve_epub_output_path(
+        input_md_path=input_path,
+        project_root=project_root,
+        output_epub_path=output_epub_path,
+        structured=structured,
+    )
     out_path.parent.mkdir(parents=True, exist_ok=True)
 
     # Verificar pandoc no ambiente
@@ -347,3 +373,64 @@ def convert_md_to_epub(
     _clean_epub_container(out_path)
 
     return out_path
+
+
+def batch_convert_content(
+    base_dir: Optional[str | Path] = None,
+    target_type: str = "all",
+    cover_path: Optional[str | Path] = None,
+    css_path: Optional[str | Path] = None,
+    add_colophon: bool = False,
+    add_editorial_pages: bool = True,
+    add_institutional_page: bool = True,
+) -> Dict[str, Any]:
+    """Compila em lote todos os livros e artigos presentes em content/ para dist/content/."""
+    project_root = Path(base_dir).resolve() if base_dir else Path.cwd()
+    while project_root != project_root.parent and not (project_root / "pyproject.toml").exists():
+        project_root = project_root.parent
+
+    content_dir = project_root / "content"
+    if not content_dir.exists():
+        raise FileNotFoundError(f"Diretório content não encontrado em: {content_dir}")
+
+    targets: List[Path] = []
+    if target_type in ("all", "books"):
+        books_dir = content_dir / "books"
+        if books_dir.exists():
+            targets.extend(sorted([p for p in books_dir.rglob("*.md") if not p.name.startswith((".", "_"))]))
+
+    if target_type in ("all", "articles"):
+        articles_dir = content_dir / "articles"
+        if articles_dir.exists():
+            targets.extend(sorted([p for p in articles_dir.rglob("*.md") if not p.name.startswith((".", "_"))]))
+
+    results: Dict[str, Any] = {
+        "total": len(targets),
+        "succeeded": [],
+        "failed": [],
+    }
+
+    for md_file in targets:
+        try:
+            epub_file = convert_md_to_epub(
+                input_md_path=md_file,
+                cover_path=cover_path,
+                css_path=css_path,
+                base_dir=project_root,
+                add_colophon=add_colophon,
+                add_editorial_pages=add_editorial_pages,
+                add_institutional_page=add_institutional_page,
+                structured=True,
+            )
+            results["succeeded"].append({
+                "source": md_file,
+                "output": epub_file,
+                "size_kb": round(epub_file.stat().st_size / 1024, 1),
+            })
+        except Exception as e:
+            results["failed"].append({
+                "source": md_file,
+                "error": str(e),
+            })
+
+    return results
