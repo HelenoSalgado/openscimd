@@ -454,5 +454,60 @@ def validate_kindle_cmd(
     typer.secho("\n🎉 Validação Kindle: APROVADO! Arquivo 100% pronto para Amazon KDP / Send to Kindle.", fg=typer.colors.GREEN, bold=True)
 
 
+@app.command(name="build-print")
+@app.command(name="print")
+def build_print_cmd(
+    input_file: Optional[str] = typer.Argument(None, help="Caminho do arquivo Markdown (ou omitir se usar --all)."),
+    all_items: bool = typer.Option(False, "--all", "-a", help="Compila em lote todos os livros de content/books."),
+    trim_size: str = typer.Option("14x21", "--trim-size", "-t", help="Dimensão do miolo: '14x21' ou '6x9'."),
+    paper_type: str = typer.Option("cream", "--paper", "-p", help="Tipo de papel para cálculo de lombada: 'cream' ou 'white'."),
+):
+    """Compila livro impresso sob demanda para Amazon KDP (Miolo 14x21cm + Capa aberta c/ lombada calculada)."""
+    from scripts.md2print import convert_md_to_print, batch_convert_print
+
+    if not all_items and not input_file:
+        typer.secho("❌ Forneça o arquivo Markdown do livro ou use a flag '--all' para compilar em lote.", fg=typer.colors.RED)
+        raise typer.Exit(code=1)
+
+    try:
+        if all_items:
+            typer.secho("🚀 Iniciando compilação de livros físicos em lote para impressão...\n", fg=typer.colors.CYAN, bold=True)
+            res_batch = batch_convert_print(base_dir=BASE_DIR)
+            for item in res_batch["succeeded"]:
+                rel_src = item["source"].name
+                typer.secho(f"  ✅ {rel_src}: {item['pages']} págs | Lombada: {item['spine_mm']} mm", fg=typer.colors.GREEN)
+                typer.secho(f"     📖 Miolo: {item['interior_pdf']}", fg=typer.colors.WHITE)
+                typer.secho(f"     🎨 Capa:  {item['cover_pdf']}\n", fg=typer.colors.WHITE)
+
+            if res_batch["failed"]:
+                typer.secho(f"⚠️  {len(res_batch['failed'])} arquivo(s) com erro:", fg=typer.colors.YELLOW, bold=True)
+                for f in res_batch["failed"]:
+                    typer.secho(f"  ❌ {f['source']}: {f['error']}", fg=typer.colors.RED)
+
+            typer.secho(f"🎉 Concluído: {len(res_batch['succeeded'])}/{res_batch['total']} livros gerados para impressão!", fg=typer.colors.GREEN, bold=True)
+            if res_batch["failed"]:
+                raise typer.Exit(code=1)
+            return
+
+        typer.secho(f"📖 Compilando livro físico para impressão a partir de '{input_file}'...", fg=typer.colors.CYAN)
+        res = convert_md_to_print(
+            input_md_path=input_file,
+            base_dir=BASE_DIR,
+            trim_size=trim_size,
+            paper_type=paper_type,
+        )
+
+        typer.secho(f"\n✅ Livro Físico gerado com sucesso!", fg=typer.colors.GREEN, bold=True)
+        typer.secho(f"   📄 Miolo (14x21 cm):  {res['interior_pdf']}", fg=typer.colors.WHITE)
+        typer.secho(f"      • Páginas: {res['pages']} | Tamanho: {res['interior_size_kb']} KB", fg=typer.colors.BLUE)
+        typer.secho(f"   🎨 Capa Aberta KDP:   {res['cover_pdf']}", fg=typer.colors.WHITE)
+        typer.secho(f"      • Lombada: {res['spine_mm']} mm | Tamanho: {res['cover_size_kb']} KB", fg=typer.colors.BLUE)
+    except typer.Exit:
+        raise
+    except Exception as e:
+        typer.secho(f"❌ Erro ao compilar livro impresso: {e}", fg=typer.colors.RED)
+        raise typer.Exit(code=1)
+
+
 if __name__ == "__main__":
     app()

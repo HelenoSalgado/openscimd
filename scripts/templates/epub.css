@@ -91,7 +91,7 @@ section.titlepage div.rights {
 
 .editorial-titlepage {
     text-align: center;
-    padding: 28% 1em 10% 1em;
+    padding: 25% 1em 10% 1em;
     page-break-before: always;
     break-before: page;
     page-break-after: always;
@@ -177,9 +177,9 @@ h1 {
     font-size: 1.85em;
     font-weight: 700;
     line-height: 1.3;
-    text-align: center;
-    margin-top: 2em;
-    margin-bottom: 1.2em;
+    text-align: left;
+    margin-top: 1.8em;
+    margin-bottom: 0.6em;
     page-break-before: always;
     break-before: page;
     page-break-after: avoid;
@@ -192,8 +192,8 @@ h2 {
     font-weight: 700;
     line-height: 1.35;
     text-align: left;
-    margin-top: 1.8em;
-    margin-bottom: 0.8em;
+    margin-top: 2.2em;
+    margin-bottom: 0.5em;
     padding-bottom: 0.3em;
     border-bottom: 1px solid rgba(139, 107, 35, 0.3);
     page-break-before: auto;
@@ -202,6 +202,11 @@ h2 {
     break-after: avoid;
     page-break-inside: avoid;
     break-inside: avoid;
+}
+
+/* Transição harmônica quando o subtítulo vem logo após o título principal */
+h1 + h2 {
+    margin-top: 0.6em;
 }
 
 h3 {
