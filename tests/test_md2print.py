@@ -1,3 +1,4 @@
+import shutil
 from pathlib import Path
 import pytest
 from typer.testing import CliRunner
@@ -40,6 +41,7 @@ def test_get_pdf_page_count_real():
     assert pages in (36, 37, 38, 39, 40, 41, 42)
 
 
+@pytest.mark.skipif(not shutil.which("pandoc"), reason="O executável 'pandoc' não está instalado no sistema operacional.")
 def test_convert_md_to_print_interior_and_cover(tmp_path: Path):
     project_root = tmp_path
     (project_root / "pyproject.toml").write_text("[project]\nname='test'")

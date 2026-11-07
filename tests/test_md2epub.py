@@ -1,11 +1,11 @@
+import shutil
 import zipfile
+from datetime import date
 from pathlib import Path
 
 import pytest
 from PIL import Image
 from typer.testing import CliRunner
-
-from datetime import date
 
 from main import app
 from scripts.kindle_validator import validate_kindle_epub
@@ -262,6 +262,7 @@ def test_find_cover_image_found_and_webp_fallback(tmp_path):
     assert find_cover_image(dummy_art, tmp_path) == webp_cover
 
 
+@pytest.mark.skipif(not shutil.which("pandoc"), reason="O executável 'pandoc' não está instalado no sistema operacional.")
 def test_convert_md_to_epub_with_webp_assets_and_authors_list(tmp_path):
     (tmp_path / "pyproject.toml").write_text("[project]\nname='test'\n", encoding="utf-8")
 
@@ -351,6 +352,7 @@ def test_convert_md_to_epub_missing_file():
         convert_md_to_epub("arquivo_totalmente_inexistente.md")
 
 
+@pytest.mark.skipif(not shutil.which("pandoc"), reason="O executável 'pandoc' não está instalado no sistema operacional.")
 def test_cli_build_epub(tmp_path):
     book_file = tmp_path / "filosofia.md"
     book_file.write_text(
@@ -394,6 +396,7 @@ def test_resolve_epub_output_path(tmp_path):
     assert resolved_custom == custom_target
 
 
+@pytest.mark.skipif(not shutil.which("pandoc"), reason="O executável 'pandoc' não está instalado no sistema operacional.")
 def test_batch_convert_content(tmp_path):
     project_root = tmp_path
     (project_root / "pyproject.toml").write_text("[project]\nname='test'")
@@ -416,6 +419,7 @@ def test_batch_convert_content(tmp_path):
     assert expected_art_epub.exists()
 
 
+@pytest.mark.skipif(not shutil.which("pandoc"), reason="O executável 'pandoc' não está instalado no sistema operacional.")
 def test_cli_build_epub_all_and_validate_kindle(tmp_path):
     project_root = tmp_path
     (project_root / "pyproject.toml").write_text("[project]\nname='test'")

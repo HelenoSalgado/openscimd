@@ -115,6 +115,9 @@ def convert_md_to_print_interior(
     clean_body = re.sub(r'(?:\r?\n\s*---\s*)+\r?\n+\s*##\s*Nota\s*Editorial\b', '', body)
     clean_body = re.sub(r'##\s*Nota\s*Editorial\s*$', '', clean_body, flags=re.MULTILINE)
 
+    if not shutil.which("pandoc"):
+        raise RuntimeError("O executável 'pandoc' não foi encontrado no sistema operacional.")
+
     # Converter corpo Markdown para Typst usando Pandoc
     cmd = ["pandoc", "-t", "typst", "--shift-heading-level-by=-1"]
     proc = subprocess.run(cmd, input=clean_body, capture_output=True, text=True)
