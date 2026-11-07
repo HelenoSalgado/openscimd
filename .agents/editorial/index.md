@@ -182,8 +182,7 @@ Siga o *pipeline* de diretórios rigorosamente durante o processo de edição:
 
 1. **Rascunho (`data/draft/`)**: Matriz bruta de entrada gerada por OCR, importação de PDF ou rascunho fornecido (ex: `data/draft/<obra>.md`). ⚠️ **O arquivo em `data/draft/` é estritamente imutável e NUNCA deve ser editado ou sobrescrito.**
 2. **Mesa de Revisão Ativa (`data/review/`)**: Qualquer operação de revisão solicitada para um arquivo de `data/draft/` deve criar sua saída e operar em `data/review/<obra>.md`. Aqui são aplicadas as correções de layout, reconstrução de parágrafos, unificação de notas de rodapé, paginação crítica e validação do frontmatter YAML.
-3. **Preparação (`data/ready/`)**: Após revisão e conferência minuciosa contra a fonte original, o arquivo final revisado é movido para cá (ex: `data/ready/<obra>.md`).
-4. **Validação e Publicação (`content/`)**: Certifique-se de que o material passe na validação com `uv run openscimd validate` antes de integrá-lo a `content/articles/` ou `content/books/`.
+3. **Validação e Publicação (`content/`)**: Certifique-se de que o material passe na validação com `uv run openscimd validate` antes de integrá-lo a `content/articles/` ou `content/books/`.
 
 ---
 

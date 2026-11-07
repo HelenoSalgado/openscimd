@@ -18,7 +18,13 @@ from typing import Any, Dict, List, Optional, Tuple
 import typst
 import yaml
 
-from scripts.md2epub import extract_frontmatter, find_cover_image, resolve_epub_output_path
+from scripts.md2epub import (
+    extract_frontmatter,
+    find_cover_image,
+    format_editorial_date,
+    resolve_author_name,
+    resolve_epub_output_path,
+)
 
 
 def get_pdf_page_count(pdf_path: Path | str) -> int:
@@ -94,12 +100,12 @@ def convert_md_to_print_interior(
     metadata, body = extract_frontmatter(content)
 
     title = metadata.get("title", input_path.stem.replace("-", " ").title())
-    author = metadata.get("author", "OpenSciMD")
+    author = resolve_author_name(metadata, default="OpenSciMD")
     translator = metadata.get("translator")
     publisher = metadata.get("publisher", "OpenSciMD")
     year = str(datetime.now().year)
     license_ = metadata.get("license", "Domínio Público")
-    date_orig = metadata.get("date", "")
+    date_orig = format_editorial_date(metadata.get("date", ""))
     categories = metadata.get("categories", ["Filosofia"])
     if isinstance(categories, str):
         categories = [categories]
@@ -191,7 +197,7 @@ def generate_print_cover_spread(
 
     metadata, _ = extract_frontmatter(input_path.read_text(encoding="utf-8"))
     title = metadata.get("title", input_path.stem.replace("-", " ").title())
-    author = metadata.get("author", "OpenSciMD")
+    author = resolve_author_name(metadata, default="OpenSciMD")
     summary = metadata.get("summary", "Clássico da literatura e do pensamento filosófico.")
     publisher = metadata.get("publisher", "OpenSciMD")
 

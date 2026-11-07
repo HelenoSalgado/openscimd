@@ -204,7 +204,10 @@ class KindleValidator:
         else:
             result.add_info("Imagem de capa canônica identificada no pacote.")
 
-        # 6. Integridade de links e recursos nos XHTML do spine
+        # 6. Conformidade de folhas de estilo CSS (Play Livros & Kindle)
+        self._validate_stylesheets(zf, manifest_items, result)
+
+        # 7. Integridade de links e recursos nos XHTML do spine
         self._validate_content_xhtml(zf, root, opf_dir, manifest_items, result)
 
     def _validate_metadata(self, root: ET.Element, result: KindleValidationResult) -> None:
@@ -301,6 +304,11 @@ class KindleValidator:
             if item_full_path not in all_zip_names:
                 result.add_error(f"Arquivo listado no manifesto não existe no pacote EPUB: '{item_full_path}'.")
 
+            if media_type == "image/webp" or href.lower().endswith(".webp"):
+                result.add_error(
+                    f"Imagem em formato WebP ('{href}') detectada no manifesto. Converta para PNG ou JPEG (Core Media Types exigidos pelo KDP/Play Livros)."
+                )
+
             if "nav" in properties:
                 nav_found = True
 
@@ -345,6 +353,53 @@ class KindleValidator:
             elif idref not in manifest_items:
                 result.add_error(f"Itemref com idref='{idref}' não existe no <manifest>.")
 
+    def _validate_stylesheets(
+        self,
+        zf: zipfile.ZipFile,
+        manifest_items: Dict[str, Dict[str, str]],
+        result: KindleValidationResult,
+    ) -> None:
+        """Valida a conformidade das folhas de estilo CSS para Google Play Livros e Amazon Kindle."""
+        all_zip_names = set(zf.namelist())
+        css_checked = 0
+
+        for item_info in manifest_items.values():
+            full_path = item_info["full_path"]
+            media_type = item_info["media_type"]
+            if media_type != "text/css" and not full_path.lower().endswith(".css"):
+                continue
+            if full_path not in all_zip_names:
+                continue
+
+            css_checked += 1
+            try:
+                css_text = zf.read(full_path).decode("utf-8")
+                # Remover comentários CSS antes de inspecionar regras
+                uncommented = re.sub(r"/\*.*?\*/", "", css_text, flags=re.DOTALL)
+
+                if re.search(r"@namespace\b", uncommented):
+                    result.add_error(
+                        f"Regra '@namespace' encontrada em '{full_path}'. Causa erro de validação 'unknown @ rule' no Google Play Livros."
+                    )
+
+                if re.search(r"@import\s+(?:url\()?\s*['\"]?https?://", uncommented, flags=re.IGNORECASE):
+                    result.add_error(
+                        f"Regra '@import' externa encontrada em '{full_path}'. Recursos remotos são proibidos em EPUB 3 (KDP/Play Livros)."
+                    )
+
+                for bad_token, reason in (
+                    ("-webkit-text-size-adjust", "propriedade proprietária rejeitada por validadores EPUB"),
+                    ("text-justify", "propriedade fora do perfil base CSS 2.1 / Play Livros"),
+                    (":has(", "pseudo-classe não suportada em motores RMSDK/Play Livros"),
+                ):
+                    if bad_token in uncommented:
+                        result.add_warning(f"Uso de '{bad_token}' em '{full_path}' ({reason}).")
+            except Exception as e:
+                result.add_warning(f"Não foi possível analisar a folha de estilo '{full_path}': {e}")
+
+        if css_checked > 0:
+            result.add_info(f"Folha(s) de estilo CSS verificada(s) ({css_checked}) para Play Livros e Kindle.")
+
     def _validate_content_xhtml(
         self,
         zf: zipfile.ZipFile,
@@ -378,6 +433,16 @@ class KindleValidator:
                 xhtml_content = zf.read(full_path).decode("utf-8")
                 inspector = SimpleHTMLInspector()
                 inspector.feed(xhtml_content)
+
+                if re.search(r"<title>ch\d+\.xhtml</title>", xhtml_content):
+                    result.add_warning(
+                        f"Título genérico de arquivo (<title>chXXX.xhtml</title>) encontrado em '{full_path}'."
+                    )
+
+                if re.search(r"<h[1-6][^>]*>\s*</h[1-6]>", xhtml_content):
+                    result.add_warning(
+                        f"Cabeçalho HTML vazio (<h1..h6></h1..h6>) encontrado em '{full_path}'."
+                    )
 
                 if inspector.has_scripts:
                     result.add_warning(

@@ -298,7 +298,7 @@ Outras dificuldades podem resolver-se pelo devido respeito ao uso da linguagem. 
 
 De novo, a solução pode depender do acento ou da aspiração. Assim Hípias de Taso resolveu as dificuldades nas linhas — δίδομεν (διδόμεν) δέ οἱ, e τὸ μὲν οὔ (οὐ) καταπύθεται ὄμβρῳ.
 
-Ou de novo, a questão pode resolver-se pela pontuação, como em Empédocles — «De súbito coisas se tornaram mortais que antes tinham aprendido a ser imortais, e coisas antes não misturadas misturadas.»
+Ou de novo, a questão pode resolver-se pela pontuação, como em Empédocles — «De súbito coisas se tornaram mortais que antes tinham aprendido a ser imortais, e coisas antes não misturadas, misturadas.»
 
 Ou de novo, pela ambiguidade de significado — como παρώχηκεν δὲ πλέω νύξ, onde a palavra πλέω é ambígua.
 

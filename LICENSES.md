@@ -46,4 +46,4 @@ Os artigos acadêmicos, tratados e livros históricos presentes em `content/arti
 ## 3. Repositório Público e Fontes Disponíveis
 
 * **Fontes Públicas (`assets/sources/`):** Os arquivos originais (PDFs, HTMLs) já processados e normalizados pelo slug do Markdown ficam disponíveis publicamente para verificação acadêmica e download direto.
-* **Pipeline de Revisão Colaborativa (`data/review/` e `data/ready/`):** O histórico do repositório mantém o rastreamento das etapas de revisão e de materiais prontos para que a comunidade possa acompanhar a qualidade editorial e propor melhorias de texto via Pull Request, sem desfigurar a estrutura oficial do catálogo.
+* **Pipeline de Revisão Colaborativa (`data/review/`):** O histórico do repositório mantém o rastreamento das etapas de revisão e de materiais prontos para que a comunidade possa acompanhar a qualidade editorial e propor melhorias de texto via Pull Request, sem desfigurar a estrutura oficial do catálogo.

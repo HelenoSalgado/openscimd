@@ -2,7 +2,7 @@
 
 > **Documento de Planejamento Editorial, Mapeamento de Corpus e Engenharia de Conversão**  
 > *Fonte de Origem:* [cristianismo.org.br](https://www.cristianismo.org.br/) | *Índice Geral:* [`sumary.htm`](https://www.cristianismo.org.br/sumary.htm)  
-> *Destino no Acervo:* `data/raw/cristianismo.org.br/` $\rightarrow$ `content/books/` e `content/articles/`  
+> *Destino no Acervo:* `data/raw/cristianismo.org.br/` ->`content/books/` e `content/articles/`  
 > *Regime de Licenciamento:* **CC BY-NC 4.0** (Reprodução Livre para Fins Não Comerciais Autorizada na Origem)
 
 ---
@@ -83,10 +83,9 @@ graph TD
     B --> C["Geração de Rascunhos Preliminares em Markdown"]
     C --> D["Mesa de Revisão (data/review/cristianismo.org.br/)"]
     D --> E["Aplicação de Frontmatter YAML + Padrão de Notas [^1], [^nt1], [^ne1]"]
-    E --> F["Homologação em data/ready/"]
-    F --> G["Publicação em content/books/ e content/articles/"]
-    G --> H["Geração de Capas Concept Art (openscimd build-covers)"]
-    H --> I["Atualização Geral dos Índices (openscimd index)"]
+    E --> G["Publicação em content/books/ e content/articles/"]
+    F --> H["Geração de Capas Concept Art (openscimd build-covers)"]
+    G --> I["Atualização Geral dos Índices (openscimd index)"]
 ```
 
 ### 3.1 Padrão de Metadados YAML Obrigatório:

@@ -85,9 +85,8 @@ Conforme deliberação editorial, os opúsculos e o estudo introdutório foram o
 
 ## 3. Pipeline de Engenharia Editorial
 
-1. **Extração & Conversão**: `data/raw/cristianismo.org.br/` $\rightarrow$ `data/draft/hugo-de-sao-vitor/<slug>.md`
+1. **Extração & Conversão**: `data/raw/cristianismo.org.br/` -> `data/draft/hugo-de-sao-vitor/<slug>.md`
 2. **Mesa de Revisão & Curadoria**: `data/review/hugo-de-sao-vitor/<slug>.md` (Normalização, Frontmatter, Aparato de Notas).
-3. **Homologação**: `data/ready/hugo-de-sao-vitor/<slug>.md`
-4. **Publicação & Capas**: `content/books/hugo-de-sao-vitor/<slug>.md` + `assets/covers/originals/<slug>.png`
-5. **Fonte Original Redirecionada**: `assets/data/raw/<slug>.html`
-6. **Catálogo Global**: Atualização de `index-books.json` e validação com `uv run openscimd validate`.
+3. **Publicação & Capas**: `content/books/hugo-de-sao-vitor/<slug>.md` + `assets/covers/originals/<slug>.png`
+4. **Fonte Original Redirecionada**: `assets/data/raw/<slug>.html`
+5. **Catálogo Global**: Atualização de `index-books.json` e validação com `uv run openscimd validate`.

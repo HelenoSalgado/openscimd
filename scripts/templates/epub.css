@@ -1,13 +1,12 @@
 /* ==========================================================================
    OpenSciMD & LeiaME - Folha de Estilos Editorial Clássica para EPUB 3
    Padrão: Arquitetura Limpa, Tipografia Tradicional e Leitura Fluida
+   Compatibilidade verificada: Google Play Livros & Amazon Kindle (KDP)
    ========================================================================== */
 
 /* --------------------------------------------------------------------------
    Configurações Globais e Pilha Tipográfica
    -------------------------------------------------------------------------- */
-@namespace epub "http://www.idpf.org/2007/ops";
-
 html {
     font-size: 100%;
 }
@@ -19,8 +18,28 @@ body {
     font-size: 1.08em;
     line-height: 1.7;
     text-align: justify;
-    text-justify: inter-word;
     hyphens: auto;
+}
+
+/* Capa dedicada (cover.xhtml) sem margens laterais residuais */
+body#cover {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#cover-image {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#cover-image svg,
+#cover-image img {
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+    margin: 0 auto;
 }
 
 /* --------------------------------------------------------------------------
@@ -28,12 +47,10 @@ body {
    -------------------------------------------------------------------------- */
 section.titlepage {
     text-align: center;
-    padding-top: 18%;
-    padding-bottom: 10%;
-    page-break-before: always;
-    break-before: page;
-    page-break-after: always;
-    break-after: page;
+    margin-top: 2.5em;
+    padding: 1.5em 1em;
+    page-break-inside: avoid;
+    break-inside: avoid;
 }
 
 section.titlepage h1.title {
@@ -66,7 +83,7 @@ section.titlepage p.publisher {
     font-weight: 600;
     letter-spacing: 0.12em;
     text-transform: uppercase;
-    margin-top: 4.5em;
+    margin-top: 4em;
     border-top: 1px solid rgba(139, 107, 35, 0.4);
     display: inline-block;
     padding-top: 0.8em;
@@ -88,11 +105,8 @@ section.titlepage div.rights {
 
 .editorial-titlepage {
     text-align: center;
-    padding: 25% 1em 10% 1em;
-    page-break-before: always;
-    break-before: page;
-    page-break-after: always;
-    break-after: page;
+    margin-top: 2.5em;
+    padding: 1.5em 1em;
     page-break-inside: avoid;
     break-inside: avoid;
 }
@@ -131,12 +145,8 @@ section.titlepage div.rights {
 
 /* Ficha Catalográfica / Créditos */
 .catalographic-wrapper {
-    padding-top: 26%;
-    padding-bottom: 5%;
-    page-break-before: always;
-    break-before: page;
-    page-break-after: always;
-    break-after: page;
+    margin-top: 2.5em;
+    padding: 1em 0;
     page-break-inside: avoid;
     break-inside: avoid;
 }
@@ -148,9 +158,11 @@ section.titlepage div.rights {
     border-radius: 4px;
     font-size: 0.88em;
     line-height: 1.55;
-    max-width: 85%;
+    max-width: 88%;
     background-color: transparent;
     color: inherit;
+    page-break-inside: avoid;
+    break-inside: avoid;
 }
 
 .catalographic-box h4 {
@@ -165,6 +177,7 @@ section.titlepage div.rights {
 .catalographic-box p {
     text-indent: 0;
     margin-bottom: 0.55em;
+    text-align: left;
 }
 
 /* --------------------------------------------------------------------------
@@ -175,12 +188,12 @@ h1 {
     font-weight: 700;
     line-height: 1.3;
     text-align: left;
-    margin-top: 1.8em;
-    margin-bottom: 0.6em;
-    page-break-before: always;
-    break-before: page;
+    margin-top: 1.2em;
+    margin-bottom: 0.45em;
     page-break-after: avoid;
     break-after: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid;
     letter-spacing: 0.04em;
 }
 
@@ -189,9 +202,9 @@ h2 {
     font-weight: 700;
     line-height: 1.35;
     text-align: left;
-    margin-top: 2.2em;
-    margin-bottom: 0.5em;
-    padding-bottom: 0.3em;
+    margin-top: 1.6em;
+    margin-bottom: 0.45em;
+    padding-bottom: 0.28em;
     border-bottom: 1px solid rgba(139, 107, 35, 0.3);
     page-break-before: auto;
     break-before: auto;
@@ -201,23 +214,64 @@ h2 {
     break-inside: avoid;
 }
 
-/* Transição harmônica quando o subtítulo vem logo após o título principal */
-h1 + h2 {
-    margin-top: 0.6em;
-}
-
 h3 {
     font-size: 1.2em;
     font-weight: 600;
     line-height: 1.4;
-    margin-top: 1.6em;
-    margin-bottom: 0.5em;
+    text-align: left;
+    margin-top: 1.35em;
+    margin-bottom: 0.4em;
     page-break-before: auto;
     break-before: auto;
     page-break-after: avoid;
     break-after: avoid;
     page-break-inside: avoid;
     break-inside: avoid;
+}
+
+h4, h5, h6 {
+    font-size: 1.05em;
+    font-weight: 600;
+    line-height: 1.4;
+    text-align: left;
+    margin-top: 1.15em;
+    margin-bottom: 0.35em;
+    page-break-before: auto;
+    break-before: auto;
+    page-break-after: avoid;
+    break-after: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid;
+}
+
+/* Transição harmônica e próxima quando o subtítulo sucede imediatamente o título superior
+   (cobre tanto HTML direto quanto o wrapper <section class="levelN"> gerado pelo Pandoc EPUB 3) */
+h1 + h2,
+h1 + section > h2 {
+    margin-top: 0.25em;
+}
+
+h2 + h3,
+h2 + section > h3 {
+    margin-top: 0.25em;
+}
+
+h3 + h4,
+h3 + section > h4,
+h4 + h5,
+h4 + section > h5 {
+    margin-top: 0.2em;
+}
+
+h5 {
+    font-size: 1em;
+    font-style: italic;
+}
+
+h6 {
+    font-size: 0.95em;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
 }
 
 /* --------------------------------------------------------------------------
@@ -230,7 +284,7 @@ p {
 }
 
 /* Garante uniformidade total sem exceções */
-h1 + p, h2 + p, h3 + p, hr + p, blockquote + p, div + p, .no-indent {
+h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, h6 + p, hr + p, blockquote + p, div + p, .no-indent {
     text-indent: 0;
 }
 
@@ -240,17 +294,34 @@ p.dialogue, p span.dialogue {
     margin-bottom: 0.75em;
 }
 
+/* Links globais na paleta dourada editorial OpenSciMD */
+a, a:visited {
+    color: #8B6B23;
+}
+
+/* Sobrescritos e subscritos sem deformar a entrelinha do parágrafo */
+sup, sub {
+    font-size: 0.75em;
+    line-height: 0;
+}
+
+sup {
+    vertical-align: super;
+}
+
+sub {
+    vertical-align: sub;
+}
+
 /* --------------------------------------------------------------------------
    Citações em Bloco (Blockquotes)
    -------------------------------------------------------------------------- */
 blockquote {
-    margin: 1.4em 1.2em 1.4em 1.6em;
-    padding: 0.4em 0 0.4em 1.2em;
+    margin: 1.4em 1em 1.4em 1.4em;
+    padding: 0.35em 0 0.35em 1.1em;
     border-left: 3px solid #8B6B23;
     font-style: italic;
     line-height: 1.65;
-    page-break-inside: avoid;
-    break-inside: avoid;
 }
 
 blockquote p {
@@ -263,12 +334,66 @@ blockquote p:last-child {
 }
 
 /* --------------------------------------------------------------------------
+   Imagens, Ilustrações e Figuras
+   -------------------------------------------------------------------------- */
+figure {
+    margin: 1.5em auto;
+    text-align: center;
+    page-break-inside: avoid;
+    break-inside: avoid;
+}
+
+img, svg {
+    max-width: 100%;
+    height: auto;
+}
+
+figure img {
+    display: block;
+    margin: 0 auto;
+}
+
+figcaption, p.caption {
+    font-size: 0.88em;
+    font-style: italic;
+    color: #4A5568;
+    margin-top: 0.5em;
+    margin-bottom: 0;
+    text-align: center;
+    text-indent: 0;
+}
+
+/* --------------------------------------------------------------------------
+   Tabelas Editoriais e Comparativas
+   -------------------------------------------------------------------------- */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.4em 0;
+    font-size: 0.86em;
+    line-height: 1.45;
+}
+
+th, td {
+    padding: 0.45em 0.55em;
+    border-bottom: 1px solid rgba(139, 107, 35, 0.3);
+    text-align: left;
+    vertical-align: top;
+}
+
+th {
+    font-weight: 700;
+    border-top: 2px solid rgba(139, 107, 35, 0.55);
+    border-bottom: 2px solid rgba(139, 107, 35, 0.55);
+}
+
+/* --------------------------------------------------------------------------
    Divisores e Elementos Ornamentais
    -------------------------------------------------------------------------- */
 hr {
     border: 0;
     height: 1px;
-    background: #8B6B23;
+    background-color: #8B6B23;
     opacity: 0.45;
     margin: 2.2em auto;
     width: 50%;
@@ -287,11 +412,9 @@ hr {
 .footnotes {
     font-size: 0.9em;
     line-height: 1.55;
-    margin-top: 3em;
+    margin-top: 2.8em;
     padding-top: 1.2em;
     border-top: 1px solid rgba(139, 107, 35, 0.3);
-    page-break-inside: avoid;
-    break-inside: avoid;
 }
 
 .footnotes hr {
@@ -314,13 +437,22 @@ hr {
 
 .footnote-ref {
     font-size: 0.75em;
+    line-height: 0;
     vertical-align: super;
+    color: #8B6B23;
     text-decoration: none;
     font-weight: bold;
-    padding: 0 0.15em;
+    padding: 0 0.12em;
+}
+
+.footnote-ref sup {
+    font-size: 100%;
+    line-height: 0;
+    vertical-align: baseline;
 }
 
 .footnote-back {
+    color: #8B6B23;
     text-decoration: none;
     margin-left: 0.35em;
 }
@@ -329,19 +461,20 @@ hr {
    Colofão Editorial Final (Back Matter)
    -------------------------------------------------------------------------- */
 .colophon-box {
-    margin: 4em auto 2em auto;
+    margin: 2.5em auto 2em auto;
     padding: 1.5em;
     border: 1px solid rgba(139, 107, 35, 0.4);
     border-radius: 4px;
     font-size: 0.92em;
     line-height: 1.6;
     text-align: center;
-    max-width: 85%;
-    page-break-before: always;
-    break-before: page;
+    max-width: 88%;
+    page-break-inside: avoid;
+    break-inside: avoid;
 }
 
 .colophon-box h4 {
+    text-align: center;
     margin-top: 0;
     margin-bottom: 0.6em;
     font-size: 1.15em;
@@ -354,6 +487,7 @@ hr {
 .colophon-box p {
     text-indent: 0;
     margin-bottom: 0.4em;
+    text-align: center;
 }
 
 .colophon-box small {
@@ -367,18 +501,18 @@ hr {
    Página Institucional Final (OpenSciMD & Leia-me)
    -------------------------------------------------------------------------- */
 .institutional-wrapper {
-    padding-top: 8%;
-    padding-bottom: 8%;
+    margin-top: 1.5em;
+    padding-bottom: 1.5em;
 }
 
 .institutional-card {
     margin: 0 auto;
-    padding: 1.6em 1.8em;
+    padding: 1.5em 1.6em;
     border: 1px solid rgba(139, 107, 35, 0.4);
     border-radius: 6px;
     font-size: 0.9em;
     line-height: 1.6;
-    max-width: 90%;
+    max-width: 92%;
 }
 
 .institutional-badge {
@@ -431,9 +565,10 @@ hr {
 .institutional-section li {
     margin-bottom: 0.35em;
     font-size: 0.96em;
+    text-align: left;
 }
 
-.citation-box {
+.citation-box, pre {
     margin: 0.9em 0;
     padding: 0.8em 1em;
     background-color: rgba(139, 107, 35, 0.08);
@@ -441,15 +576,21 @@ hr {
     border-radius: 3px;
     font-size: 0.88em;
     line-height: 1.5;
-    word-break: break-all;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    text-align: left;
     color: #2D3748;
 }
 
-.citation-box code, code {
+pre {
+    white-space: pre-wrap;
+}
+
+.citation-box code, pre code, code {
     font-family: "Courier New", Courier, monospace;
     font-size: 0.95em;
     color: inherit;
-    background: transparent;
+    background-color: transparent;
 }
 
 .institutional-link-box {
@@ -472,15 +613,19 @@ hr {
    Sumário / Índice (TOC)
    -------------------------------------------------------------------------- */
 nav#toc {
-    page-break-before: always;
-    break-before: page;
-    page-break-after: always;
-    break-after: page;
+    margin-top: 1.2em;
 }
 
 nav#toc h1, nav#toc h2 {
     text-align: center;
+    font-size: 1.45em;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-top: 1em;
+    margin-bottom: 1.2em;
     border-bottom: none;
+    page-break-before: auto;
+    break-before: auto;
 }
 
 nav#toc ol {
@@ -490,6 +635,7 @@ nav#toc ol {
 
 nav#toc li {
     margin-bottom: 0.55em;
+    text-align: left;
 }
 
 nav#toc li ol {
@@ -498,6 +644,7 @@ nav#toc li ol {
 }
 
 nav#toc a {
+    color: #8B6B23;
     text-decoration: none;
 }
 
@@ -505,22 +652,45 @@ nav#toc a {
    Suporte a Modo Noturno / Dark Mode (Kindle e E-readers modernos)
    -------------------------------------------------------------------------- */
 @media (prefers-color-scheme: dark) {
+    section.titlepage p.subtitle,
     .editorial-titlepage .sub-title,
-    .editorial-titlepage .translator-info {
+    .editorial-titlepage .translator-info,
+    figcaption,
+    p.caption,
+    .institutional-lead {
         color: #A0AEC0;
     }
-    .catalographic-box {
+    .catalographic-box,
+    .colophon-box,
+    .institutional-card {
         border-color: rgba(197, 160, 89, 0.5);
     }
-    .citation-box {
+    th, td {
+        border-bottom-color: rgba(197, 160, 89, 0.35);
+    }
+    th {
+        border-top-color: rgba(197, 160, 89, 0.65);
+    }
+    .citation-box,
+    pre {
         background-color: rgba(255, 255, 255, 0.08);
         border-left-color: #C5A059;
         color: #E2E8F0;
     }
-    .citation-box code {
+    .citation-box code,
+    pre code {
         color: #E2E8F0;
     }
-    .institutional-link-box a, .institutional-repo a {
+    a,
+    a:visited,
+    .footnote-ref,
+    .footnote-back,
+    nav#toc a,
+    .institutional-link-box a,
+    .institutional-repo a,
+    .institutional-badge,
+    .institutional-section h4,
+    .colophon-box h4 {
         color: #D69E2E;
     }
 }

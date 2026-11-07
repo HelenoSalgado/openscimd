@@ -152,3 +152,54 @@ def test_kindle_validator_detects_broken_image(tmp_path: Path):
     res = validate_kindle_epub(epub_file)
     assert res.is_valid is False
     assert any("Imagem referenciada" in e and "nao_existe.jpg" in e for e in res.errors)
+
+
+def test_kindle_validator_rejects_css_namespace_and_webp(tmp_path: Path):
+    epub_file = tmp_path / "bad_css_and_webp.epub"
+    with zipfile.ZipFile(epub_file, "w") as zf:
+        zf.writestr("mimetype", "application/epub+zip", compress_type=zipfile.ZIP_STORED)
+        zf.writestr(
+            "META-INF/container.xml",
+            """<?xml version="1.0"?>
+            <container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container">
+                <rootfiles>
+                    <rootfile full-path="content.opf" media-type="application/oebps-package+xml"/>
+                </rootfiles>
+            </container>""",
+        )
+        zf.writestr(
+            "content.opf",
+            """<?xml version="1.0" encoding="utf-8"?>
+            <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="pub-id">
+                <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+                    <dc:title>Livro Teste</dc:title>
+                    <dc:language>pt-BR</dc:language>
+                    <dc:creator>Autor</dc:creator>
+                    <dc:identifier>urn:uuid:1234</dc:identifier>
+                </metadata>
+                <manifest>
+                    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+                    <item id="css1" href="styles/stylesheet1.css" media-type="text/css"/>
+                    <item id="img1" href="media/fig.webp" media-type="image/webp"/>
+                    <item id="ch1" href="ch1.xhtml" media-type="application/xhtml+xml"/>
+                </manifest>
+                <spine>
+                    <itemref idref="ch1"/>
+                </spine>
+            </package>""",
+        )
+        zf.writestr("nav.xhtml", "<html xmlns='http://www.w3.org/1999/xhtml'><head><title>Sumário</title></head><body/></html>")
+        zf.writestr(
+            "styles/stylesheet1.css",
+            '@namespace epub "http://www.idpf.org/2007/ops";\nbody { margin: 0; }',
+        )
+        zf.writestr("media/fig.webp", b"RIFF....WEBP")
+        zf.writestr("ch1.xhtml", "<html xmlns='http://www.w3.org/1999/xhtml'><head><title>ch001.xhtml</title></head><body><h1></h1></body></html>")
+
+    res = validate_kindle_epub(epub_file)
+    assert res.is_valid is False
+    assert any("@namespace" in e for e in res.errors)
+    assert any("WebP" in e for e in res.errors)
+    assert any("chXXX.xhtml" in w for w in res.warnings)
+    assert any("Cabeçalho HTML vazio" in w for w in res.warnings)
+

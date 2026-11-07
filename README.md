@@ -31,7 +31,6 @@ Nosso script de indexação analisa as pastas `articles` e `books` compilando to
 * `data/raw/`: Fila de arquivos e PDFs brutos da web para processamento e ingestão preliminar (local).
 * `data/draft/`: Rascunhos de Markdown gerados pelo SalopDoc aguardando revisão.
 * `data/review/`: Fila de revisão editorial e colaborativa aberta a contribuições via Pull Request.
-* `data/ready/`: Textos revisados e validados prontos para incorporação definitiva em `content/`.
 * `scripts/`: Módulos em Python responsáveis pelas ferramentas de automação do projeto (`openscimd`).
 * `docs/`: Documentações detalhadas de funcionamento do repositório.
 

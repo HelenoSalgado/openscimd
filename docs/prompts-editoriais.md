@@ -40,7 +40,7 @@ Diretrizes obrigatórias:
 > **Cenário:** Você possui o arquivo original em língua estrangeira em `data/raw/<arquivo>` e o rascunho traduzido em `data/draft/<arquivo>.md`. O objetivo é auditar a fidelidade semântica, eliminar lacunas e conferir parágrafo por parágrafo em `data/review/<arquivo>.md`.
 
 ```text
-Atue como Auditor Filológico conforme @[.agents/editorial/prompt-revisao-ia.md] e @[.agents/editorial/fluxo-de-revisao-de-traducao.md].
+Atue como Auditor Filológico conforme @[.agents/editorial/revisao-ia.md] e @[.agents/editorial/fluxo-de-revisao-de-traducao.md].
 
 Audite e revise o texto de @data/draft/<nome-do-arquivo>.md comparando-o rigorosamente contra o original em @data/raw/<nome-do-original>, gerando a saída em data/review/<nome-do-arquivo>.md.
 
@@ -98,7 +98,7 @@ Diretrizes obrigatórias:
 
 ### Contexto 5: Normalização Tipográfica e Ajustes Finos
 
-> **Cenário:** O arquivo já está em `data/review/<arquivo>.md` e precisa de checagem final de regras tipográficas e estilísticas antes de ser movido para `data/ready/`.
+> **Cenário:** O arquivo já está em `data/review/<arquivo>.md` e precisa de checagem final de regras tipográficas e estilísticas.
 
 ```text
 Revise o arquivo @data/review/<nome-do-arquivo>.md aplicando a normalização tipográfica final conforme @[.agents/editorial/exemplos/referencias-e-tipografia.md]:

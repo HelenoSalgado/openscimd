@@ -42,10 +42,6 @@ Os LLMs (Modelos de Linguagem Grandes) tendem a "amaciar", parafrasear e, freque
   3. Ir até o arquivo principal em `data/review/` e re-traduzir **manualmente** aquele parágrafo específico, aproximando-o estruturalmente da semântica exata original.
   4. Salvar as alterações.
 
-### Passo 5: Aprovação Final
-
-Após sanar os alertas do relatório, o arquivo final pode receber polimento tipográfico e gramatical e então ser movido para `data/ready/`.
-
 ---
 
 ## Como Funciona o Motor de Extração Universal
