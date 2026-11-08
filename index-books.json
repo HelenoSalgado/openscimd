@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1794104394875,
+  "last_updated": 1794146571385,
   "books": [
     {
       "id": "book_012",
@@ -350,6 +350,7 @@
       "summary": "Estudo crítico e filológico sobre a preservação e identificação do texto autêntico do Novo Testamento grego. O autor examina criticamente as premissas de Westcott e Hort, os pressupostos do método eclético contemporâneo e os testemunhos dos manuscritos antigos, defendendo a primazia histórica e textual da tradição do Texto Majoritário (Tradicional).",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/wilbur-norman/qual-o-texto-original-do-novo-testamento.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/qual-o-texto-original-do-novo-testamento.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/qual-o-texto-original-do-novo-testamento.pdf",
       "categories": [
         "Teologia"
       ],

@@ -36,10 +36,10 @@ Acompanhamento do processo de refatoração e criação manual das capas padroni
 |---|---|---|---|:---:|
 | 1 | `alucinacoes-induzidas-e-o-loop-de-correcoes-falsas-em-llms` | Hiroko Konishi | 20-11-2025 | ✅ Concluído |
 | 2 | `a-pratica-de-cantatas-e-concertos-no-culto-publico` | Murilo Dumps | 2021 | ✅ Concluído (Geométrico) |
-| 3 | `as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico` | Vários | 29-07-2026 | ⚪ Pendente |
-| 4 | `da-universidade-quinhentista-de-paris-para-o-mundo-curriculo-e-metodo-em-petrus-ramus` | Vários | 2012-01-01 | ⚪ Pendente |
+| 3 | `as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico` | Rafael Ramis Barceló | 2018 | ✅ Concluído (Geométrico) |
+| 4 | `da-universidade-quinhentista-de-paris-para-o-mundo-curriculo-e-metodo-em-petrus-ramus` | Jorge Ramos do Ó & Ana Luísa Paz | 2019 | ✅ Concluído (Geométrico) |
 | 5 | `o-destino-eterno-dos-bebes-que-morrem-precocimente-e-das-pessoas-com-deficiencia-intelectual-severa` | Plínio Sousa | 2018 | ✅ Concluído (Geométrico) |
-| 6 | `o-legado-de-petrus-ramus-e-o-tradado-via-regia-ad-geometram` | Vários | 2026-08-06 | ⚪ Pendente |
+| 6 | `o-legado-de-petrus-ramus-e-o-tradado-via-regia-ad-geometram` | Francisco Hemerson Brito da Silva & Ana Carolina Costa Pereira | 2020 | ✅ Concluído (Geométrico) |
 | 7 | `o-metodo-de-aristoteles-para-a-compreensao-dos-primeiros-principios-das-coisas-naturais-na-fisica-i-1` | Vários | 1997 | ⚪ Pendente |
 | 8 | `peter-ramus-importancia-na-retorica-e-ataque-a-cicero` | Cole Franklin | 2009 | ✅ Concluído (Geométrico) |
 | 9 | `reformas-filosoficas-de-petrus-ramus` | Djamila Abdullazade & Aladdin Malikov | 2025 | ✅ Concluído (Geométrico) |
