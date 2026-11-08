@@ -62,7 +62,7 @@ Desse modo, quando um diz que o Uno existe e outro nega a existência do múltip
 
 É isso mesmo, Sócrates, observou Zenão; porém não apanhaste à justa a verdade do meu livro, dado que, à maneira dos cães de Esparta, saibas descobrir o rastro e acompanhar o pensamento. Porém uma particularidade te escapou: é que este escrito absolutamente não se eleva a tais remígios, como te apraz atribuir à sua feitura, no sentido de ocultar aos homens suas sublimes pretensões.
 
-0 que disseste a esse respeito é simples acessório. 0 fim precípuo do trabalho é defender, a seu modo, a tese de Parmênides contra os que pretendem ridicularizá-lo, como se da admissão do Uno decorressem as mais escarninhas conseqüências, que invalidam de raiz sua doutrina. É um escrito de combate contra os que defendem a existência do múltiplo, em que os golpes são devolvidos com usura e com a intenção manifesta de mostrar como decorrem conseqüências muito mais absurdas da hipótese do múltiplo, por eles defendida, do que da do Uno, para quantos a examinarem a preceito. 0 trabalho é produto do pendor para as disputas mito próprio do jovens; porém alguém mo roubou depois de pronto, antes de se me ter facultado o ensejo de considerar a sós comigo, se conviria ou não entregá-lo ao público. Foi o que não percebeste, Sócrates, por admitires que ele houvesse sido composto sem aquele espírito combativo, mas com a ambição da idade madura. No mais, conforme disse, tua apreciação não foi de todo má.
+O que disseste a esse respeito é simples acessório. O fim precípuo do trabalho é defender, a seu modo, a tese de Parmênides contra os que pretendem ridicularizá-lo, como se da admissão do Uno decorressem as mais escarninhas conseqüências, que invalidam de raiz sua doutrina. É um escrito de combate contra os que defendem a existência do múltiplo, em que os golpes são devolvidos com usura e com a intenção manifesta de mostrar como decorrem conseqüências muito mais absurdas da hipótese do múltiplo, por eles defendida, do que da do Uno, para quantos a examinarem a preceito. O trabalho é produto do pendor para as disputas mito próprio do jovens; porém alguém mo roubou depois de pronto, antes de se me ter facultado o ensejo de considerar a sós comigo, se conviria ou não entregá-lo ao público. Foi o que não percebeste, Sócrates, por admitires que ele houvesse sido composto sem aquele espírito combativo, mas com a ambição da idade madura. No mais, conforme disse, tua apreciação não foi de todo má.
 
 ### *III*
 
@@ -76,7 +76,7 @@ eis o que me surpreenderia sobremodo. E tudo o mais pelo mesmo estilo. Se me dem
 
 Seria o caso, para provar minha pluralidade, de mostrar a diferença entre o lado direito e o esquerdo, a frente e o dorso, a porção superior e a inferior, pois de muitas maneiras, quero crer, participo da pluralidade. Ou então, para insistir na unidade, dizer que eu sou um dos sete indivíduos aqui presentes, visto participar da unidade. De onde se colhe que as duas assertivas são igualmente verdadeiras.
 
-A este modo, sempre que um se abalança a demonstrar a simultaneidade do Uno e do múltiplo em coisas com seixos, pedaços de madeira e outras mais da mesma natureza, dizemos que essa pessoa provou simplesmente a existência de unidades e da multiplicidade, não que o Uno seja múltiplo, e o inverso: o múltiplo, Uno. Com isso, não terá dito nada extraordinário, senão algo em que todos convirão. Porém se alguém, como afirmei neste momento, começar por distinguir umas das outras as idéias de si mesmas: semelhança e dissemelhança, pluralidade e unidade, repouso e movimento, e tudo o mais do mesmo gênero , e demonstrar, em seguida, que todas elas são capazes de unir-se umas com as outras o de separar-se: isto sim, Zenão, continuou a falar, é que me deixaria contentíssimo. A meu parecer, argumentaste neste domínio com bastante firmeza e decisão. Porém num ponto, torno a dizer, e que muito mais me alegrara, seria poder um demonstrar que tais perplexidades se entrelaçam de mil formas e o mesmo fizésseis com o que e apreendido apenas pelo entendimento, tal como exemplificastes com as outras que nos caem sob a vista.
+A este modo, sempre que um se abalança a demonstrar a simultaneidade do Uno e do múltiplo em coisas como seixos, pedaços de madeira e outras mais da mesma natureza, dizemos que essa pessoa provou simplesmente a existência de unidades e da multiplicidade, não que o Uno seja múltiplo, e o inverso: o múltiplo, Uno. Com isso, não terá dito nada extraordinário, senão algo em que todos convirão. Porém se alguém, como afirmei neste momento, começar por distinguir umas das outras as idéias de si mesmas: semelhança e dissemelhança, pluralidade e unidade, repouso e movimento, e tudo o mais do mesmo gênero, e demonstrar, em seguida, que todas elas são capazes de unir-se umas com as outras ou de separar-se: isto sim, Zenão, continuou a falar, é que me deixaria contentíssimo. A meu parecer, argumentaste neste domínio com bastante firmeza e decisão. Porém num ponto, torno a dizer, e que muito mais me alegrara, seria poder um demonstrar que tais perplexidades se entrelaçam de mil formas e o mesmo fizésseis com o que é apreendido apenas pelo entendimento, tal como exemplificastes com as outras que nos caem sob a vista.
 
 ### *IV*
 
@@ -138,15 +138,15 @@ Em absoluto, falou.
 
 Considera o seguinte, teria ele acrescentado: se dividires a grandeza em si mesma, vindo a ser grande cada um dos objetos grandes em virtude da porção da grandeza menor do que a própria grandeza, não seria absurdo?
 
-0 cúmulo do absurdo, respondeu.
+O cúmulo do absurdo, respondeu.
 
 E então? Se cada participante recebe uma parcela da igualdade, com essa parcela menor do que a igualdade em si, poderá ele vir a ficar igual a seja o que for?
 
 Não é possível.
 
-Porém, se um de nós receber uma parte da pequenez, a pequenez em si mesma ficará maior do que essa parte, que é parte dela própria, vindo, desse modo, a ser grande o que e pequeno, enquanto aquilo a que foi acrescentando o que lhe foi tirado, não ficará maior do que era antes, porém menor.
+Porém, se um de nós receber uma parte da pequenez, a pequenez em si mesma ficará maior do que essa parte, que é parte dela própria, vindo, desse modo, a ser grande o que é pequeno, enquanto aquilo a que foi acrescentando o que lhe foi tirado, não ficará maior do que era antes, porém menor.
 
-0 que em absoluto não pode ser, teria ele respondido.
+O que em absoluto não pode ser, teria ele respondido.
 
 Então, de que jeito, Sócrates, voltou a falar, admites que as coisas participem da idéia, se isso não pode ser nem por meio das partes nem do todo?
 
@@ -194,9 +194,9 @@ E não será uma idéia o que é assim pensado como presente a todas as coisas e
 
 E então? Parmênides teria acrescentado; se todas as coisas participam necessariamente das idéias, conforme disseste, não será também forçoso admitires, ou que tudo consiste em pensamento e tudo pensa, ou que, apesar de ser pensamento, não pensa nada?
 
-Isso também, teria respondido, carece de sentido. 0 que se me afigura mais plausível, Parmênides, é o seguinte: essas idéias se encontram na natureza à maneira de paradigmas; as coisas se lhes assemelham como simples cópias que são, consistindo a participação das idéias com relação às coisas em se assemelharem estas àquelas.
+Isso também, teria respondido, carece de sentido. O que se me afigura mais plausível, Parmênides, é o seguinte: essas idéias se encontram na natureza à maneira de paradigmas; as coisas se lhes assemelham como simples cópias que são, consistindo a participação das idéias com relação às coisas em se assemelharem estas àquelas.
 
-Sendo assim, voltou Parmênides a falar, se alguma coisa se assemelha à idéia, será possível não ser a cópia semelhante à idéia, na medida em que a ela se assemelha ? Ou haverá jeito de semelhante não ser semelhante ao semelhante?
+Sendo assim, voltou Parmênides a falar, se alguma coisa se assemelha à idéia, será possível não ser a cópia semelhante à idéia, na medida em que a ela se assemelha? Ou haverá jeito de semelhante não ser semelhante ao semelhante?
 
 Não há.
 
@@ -234,7 +234,7 @@ Que queres dizer com isso? perguntou Sócrates.
 
 É o seguinte, respondeu Parmênides. Suponhamos que um de nós é senhor ou escravo do outro, não escravo do senhor em si mesmo, o senhor na sua própria essência, nem este, como senhor, é senhor do escravo em si mesmo, a essência do escravo: como homens, entre eles, é que serão uma coisa ou outra.
 
-0 senhorio em si mesmo é o que é com relação à escravidão em si mesma, e o inverso: a escravidão em si, com relação ao senhorio em si mesmo. As coisas do nosso mundo não têm ação sobre as daquele, nem as do outro mundo sobre as do nosso. 0 que eu digo é que aquela realidades só são o que são para elas mesmas e com referência a elas mesmas, exatamente como se dá com as coisas do nosso mundo. Ou não entendes o que eu falo?
+O senhorio em si mesmo é o que é com relação à escravidão em si mesma, e o inverso: a escravidão em si, com relação ao senhorio em si mesmo. As coisas do nosso mundo não têm ação sobre as daquele, nem as do outro mundo sobre as do nosso. O que eu digo é que aquela realidades só são o que são para elas mesmas e com referência a elas mesmas, exatamente como se dá com as coisas do nosso mundo. Ou não entendes o que eu falo?
 
 ### *VII*
 
@@ -296,11 +296,11 @@ Logo, se se encontra em Deus esse domínio supremo e esse conhecimento perfeito,
 
 Não será uma proposição ousada em demasia, disse, privar Deus do conhecimento?
 
-Tudo isso, Sócrates, voltou Parmênides a falar, e muito mais ainda está implícito nas idéias, no caso de terem estas existência própria e concebê-las alguém como algo independente. Quem ouve tal coisa fica perplexo, sendo levado a contestar sua existência ou, na hipótese de admiti-las, será obrigado a declarar que por força terão de ser desconhecidas da natureza humana. Quem assim se manifesta sabe o que diz e, conforme observamos há pouco, não será fácil demovêlo de suas convicções. Só um indivíduo de dotes extraordinários será capaz de compreender que para cada coisa há um gênero à parte com existência independente, e alguém mais bem dotado, ainda, para descobrir tudo isso e ensinálos devidamente aos outros, por meio de uma análise exaustiva.
+Tudo isso, Sócrates, voltou Parmênides a falar, e muito mais ainda está implícito nas idéias, no caso de terem estas existência própria e concebê-las alguém como algo independente. Quem ouve tal coisa fica perplexo, sendo levado a contestar sua existência ou, na hipótese de admiti-las, será obrigado a declarar que por força terão de ser desconhecidas da natureza humana. Quem assim se manifesta sabe o que diz e, conforme observamos há pouco, não será fácil demovê-lo de suas convicções. Só um indivíduo de dotes extraordinários será capaz de compreender que para cada coisa há um gênero à parte com existência independente, e alguém mais bem dotado, ainda, para descobrir tudo isso e ensiná-los devidamente aos outros, por meio de uma análise exaustiva.
 
 Declaro-me de acordo contigo, Parmênides, observou Sócrates, pois quanto disseste concerta plenamente com minha maneira de pensar.
 
-Por outro lado, Sócrates, observou Parmênides, se após considerar quanto ficou dito e todo o mais que poderia se acrescentado, não aceitar um a existência das idéias dos seres, admitindo para cada coisa uma idéia definida, não saberá para onde virar o pensamento, a menos que reconhecesse a existência de uma idéia para cada cosa, sempre igual a si mesma, com o que destruiria por completo a própria dialética, o que decerto já percebeste com tua habitual perspicácia, conforme creio.
+Por outro lado, Sócrates, observou Parmênides, se após considerar quanto ficou dito e todo o mais que poderia ser acrescentado, não aceitar a existência das idéias dos seres, admitindo para cada coisa uma idéia definida, não saberá para onde virar o pensamento, a menos que reconhecesse a existência de uma idéia para cada coisa, sempre igual a si mesma, com o que destruiria por completo a própria dialética, o que decerto já percebeste com tua habitual perspicácia, conforme creio.
 
 É muito justo o que dizes, teria observado Sócrates.
 
@@ -314,7 +314,7 @@ Por enquanto, não vejo saída.
 
 E em que consiste, Parmênides, teria perguntado, semelhante exercício?
 
-0 que ouviste agora mesmo de Zenão, foi a sua resposta. Aliás, uma de tuas objeções me alegrou sobremaneira, ao lhe manifestares teu desacordo de que a investigação não se dispersasse nos objetos percebidos pelos olhos nem somente neles se aplicasse, para concentrar-se no que é apreendido apenas pelo pensamento e pode ser considerado como idéia.
+O que ouviste agora mesmo de Zenão, foi a sua resposta. Aliás, uma de tuas objeções me alegrou sobremaneira, ao lhe manifestares teu desacordo de que a investigação não se dispersasse nos objetos percebidos pelos olhos nem somente neles se aplicasse, para concentrar-se no que é apreendido apenas pelo pensamento e pode ser considerado como idéia.
 
 Com efeito, respondeu; não me parece difícil demonstrar por esse meio que os seres são semelhantes e revelam outras oposições possíveis.
 
@@ -322,7 +322,7 @@ E com razão, disse. Porém uma coisa ainda precisarás fazer. Não basta aceita
 
 Aonde queres chegar? perguntou.
 
-Caso te declares de acordo, disse, exemplifiquemos com aquela hipótese de Zenão: se existir o múltiplo, quais serão as conseqüências tanto para ele, em relação com ele mesmo e com o Uno, como para a unidade, em relação com ela mesma e com o múltiplo? E no caso de não houver múltiplo, voltar a considerar as conseqüências para a unidade e para o múltiplo, assim em suas relações recíprocas como nas de cada um consigo mesmo. Desenvolve idêntico esforço partindo da hipótese de que a semelhança existe ou não existe, sobre as conseqüências desses pressupostos, tanto para os termos admitidos como para outras coisas, nelas mesmas e em suas relações recíprocas. Igual raciocínio valerá para o dissemelhante, para o movimento e o repouso, para o nascimento e a destruição, o ser e o não-ser em si mesmos. Numa palavra: em tudo o que supuseres como existente ou não existente ou como determinado de qualquer modo, será preciso examinar as conseqüências resultantes, primeiro, para o próprio objeto, e depois, relativamente aos outros: começarás por um, à tua escolha; depois vários, e por último todos. A mesma coisa farás com esse outros, tanto em suas relações recíprocas como com o objeto admitido de cada vez por ti como existente ou não existente, caso queiras exercitar-se com perfeição e, assim, discernir a verdade na sua plenitude.
+Caso te declares de acordo, disse, exemplifiquemos com aquela hipótese de Zenão: se existir o múltiplo, quais serão as conseqüências tanto para ele, em relação com ele mesmo e com o Uno, como para a unidade, em relação com ela mesma e com o múltiplo? E no caso de não houver múltiplo, voltar a considerar as conseqüências para a unidade e para o múltiplo, assim em suas relações recíprocas como nas de cada um consigo mesmo. Desenvolve idêntico esforço partindo da hipótese de que a semelhança existe ou não existe, sobre as conseqüências desses pressupostos, tanto para os termos admitidos como para outras coisas, nelas mesmas e em suas relações recíprocas. Igual raciocínio valerá para o dissemelhante, para o movimento e o repouso, para o nascimento e a destruição, o ser e o não-ser em si mesmos. Numa palavra: em tudo o que supuseres como existente ou não existente ou como determinado de qualquer modo, será preciso examinar as conseqüências resultantes, primeiro, para o próprio objeto, e depois, relativamente aos outros: começarás por um, à tua escolha; depois vários, e por último todos. A mesma coisa farás com esses outros, tanto em suas relações recíprocas como com o objeto admitido de cada vez por ti como existente ou não existente, caso queiras exercitar-te com perfeição e, assim, discernir a verdade na sua plenitude.
 
 É imensa a tarefa, Parmênides, observou, que me impões; transcende minha compreensão. Por que não desenvolves tu mesmo as conseqüências dessa hipótese com um exemplo concreto, para que eu consiga compreendê-la?
 
@@ -330,7 +330,7 @@ Na minha idade, Sócrates, teria respondido, é uma tarefa gigantesca que me ati
 
 E tu, Zenão, perguntou Sócrates, por que não fazes essa demonstração?
 
-Ao que Zenão, sorrindo, teria respondido: A Parmênides é que devemos dirigir-nos, Sócrates. 0 que ele expôs não é uma coisinha de nada. Não vês a enormidade do trabalho que exiges dele? Se houvesse aqui mais gente, seria pouco elegante, de fato, fazer-lhe semelhante pedido; não fica bem desenvolver tal assunto diante de publico numeroso, máxime na sua idade. As multidões ignoram que a não ser com a exploração a fundo do terreno, em todos os sentidos, não é possível adquirirmos noções certas com respeito a verdade. De meu lado, Parmênides, eu também secundo o pedido de Sócrates, para ouvir-te mais uma vez, depois de intervalo tão longo.
+Ao que Zenão, sorrindo, teria respondido: A Parmênides é que devemos dirigir-nos, Sócrates. O que ele expôs não é uma coisinha de nada. Não vês a enormidade do trabalho que exiges dele? Se houvesse aqui mais gente, seria pouco elegante, de fato, fazer-lhe semelhante pedido; não fica bem desenvolver tal assunto diante de publico numeroso, máxime na sua idade. As multidões ignoram que a não ser com a exploração a fundo do terreno, em todos os sentidos, não é possível adquirirmos noções certas com respeito a verdade. De meu lado, Parmênides, eu também secundo o pedido de Sócrates, para ouvir-te mais uma vez, depois de intervalo tão longo.
 
 ### *IX*
 
@@ -340,9 +340,9 @@ Lembrado disso, eu também sintome dominado pelo medo, por ter de, nesta idade, 
 
 Perfeitamente, teria dito Zenão.
 
-Então, prosseguiu, quem me responderás? 0 mais moço, porventura? É quem decerto me criará mais simples, ensejando-me suas respostas pausas oportunas.
+Então, prosseguiu, quem me responderás? O mais moço, porventura? É quem decerto me criará mais simples, ensejando-me suas respostas pausas oportunas.
 
-Estou pronto, Parmênides, teria falado Aristóteles; a mim, decerto, é quem visavas, quando te referiste ao mais novo. Formula as questões , que eu responderei a elas todas.
+Estou pronto, Parmênides, teria falado Aristóteles; a mim, decerto, é quem visavas, quando te referiste ao mais novo. Formula as questões, que eu responderei a elas todas.
 
 Então, comecemos, teria dito. Se existe o Uno, esse uno não poderá ser múltiplo.
 
@@ -429,7 +429,7 @@ Logo, uma coisa é o envolvente e outra o envolvido, pois, como tudo, não poder
 
 Isso mesmo.
 
-0 Uno, por conseguinte, não está em parte alguma, nem em si mesmo nem no que quer que seja.
+O Uno, por conseguinte, não está em parte alguma, nem em si mesmo nem no que quer que seja.
 
 Não está, realmente.
 
@@ -455,7 +455,7 @@ E porventura se desloca?
 
 Talvez.
 
-Se o Uno mudasse de lugar , ou giraria em círculo em torno de si mesmo ou passaria de um ponto para outro.
+Se o Uno mudasse de lugar, ou giraria em círculo em torno de si mesmo ou passaria de um ponto para outro.
 
 Necessariamente.
 
@@ -511,7 +511,7 @@ Porém já vimos que ele não pode estar nem nele mesmo nem noutra coisa.
 
 Não pode, com efeito.
 
-0 Uno, portanto, nunca está no mesmo lugar.
+O Uno, portanto, nunca está no mesmo lugar.
 
 Não está, ao que parece.
 
@@ -949,7 +949,7 @@ A meu parecer, se ela existe, e enquanto existir, forçosamente terá de ser alg
 
 Necessariamente.
 
-0 Uno, por conseguinte, está ligado a todas as partes do Ser, não podendo faltar nem nas menores nem nas maiores ou seja na que for.
+O Uno, por conseguinte, está ligado a todas as partes do Ser, não podendo faltar nem nas menores nem nas maiores ou seja na que for.
 
 Isso mesmo.
 
@@ -989,7 +989,7 @@ Mas o que abrange limita.
 
 Como não?
 
-0 Uno, por conseqüência, é uno e múltiplo, todo e partes, pluralidade limitada e ilimitada.
+O Uno, por conseqüência, é uno e múltiplo, todo e partes, pluralidade limitada e ilimitada.
 
 Parece.
 
@@ -1097,7 +1097,7 @@ Não sendo, pois, com relação a si mesmo, nem outro nem tudo nem parte, não t
 
 Sem dúvida.
 
-E então? 0 que está em lugar diferente dele mesmo, enquanto ele próprio se mantém em si mesmo, não terá de ser diferente de si mesmo, visto encontrar-se alhures.
+E então? O que está em lugar diferente dele mesmo, enquanto ele próprio se mantém em si mesmo, não terá de ser diferente de si mesmo, visto encontrar-se alhures.
 
 Eu, pelo menos, acho que sim.
 
@@ -1139,7 +1139,7 @@ Logo, se o outro nunca pode estar no mesmo, jamais poderá encontrar-se em nenhu
 
 É evidente.
 
-0 outro, por conseguinte, não poderá estar nem no um nem no não-um.
+O outro, por conseguinte, não poderá estar nem no um nem no não-um.
 
 Não, realmente.
 
@@ -1189,11 +1189,11 @@ Porém, se não é nem mais nem menos, terá de ser igual.
 
 Certo.
 
-0 que se dá com o Uno para ser diferente dos outros, e estes, por sua vez, para diferirem dele, leva o Uno a ser igual aos outros, e aos outros, iguais ao Uno.
+O que se dá com o Uno para ser diferente dos outros, e estes, por sua vez, para diferirem dele, leva o Uno a ser igual aos outros, e aos outros, iguais ao Uno.
 
-0 que queres dizer com isso?
+O que queres dizer com isso?
 
-0 seguinte: Não aplicas um nome a cada coisa?
+O seguinte: Não aplicas um nome a cada coisa?
 
 Sem dúvida.
 
@@ -1251,7 +1251,7 @@ Logo, por ser semelhante, virá a ser dissemelhante, em virtude, precisamente, d
 
 Parece que sim.
 
-0 Uno, por conseguinte, terá de ser, no mesmo passo, semelhante e dissemelhante com relação aos outros: semelhante, enquanto diferente, e dissemelhante, como idêntico.
+O Uno, por conseguinte, terá de ser, no mesmo passo, semelhante e dissemelhante com relação aos outros: semelhante, enquanto diferente, e dissemelhante, como idêntico.
 
 Essa conclusão, também parece bem fundamentada.
 
@@ -1263,11 +1263,11 @@ Se sofre influência igual, não poderá ficar diferentemente influenciado.; se 
 
 Só dizes a verdade.
 
-0 Uno, por conseguinte, como idêntico aos outros e como diferente, por ambas as razões e por cada uma em particular, terá de ser, a um só tempo, semelhante e dissemelhante com relação aos outros.
+O Uno, por conseguinte, como idêntico aos outros e como diferente, por ambas as razões e por cada uma em particular, terá de ser, a um só tempo, semelhante e dissemelhante com relação aos outros.
 
 Perfeitamente.
 
-0 mesmo passa com relação a si mesmo, pois ele se nos revelou diferente e idêntico a si mesmo; logo, por ambas as razões e por cada uma em separado, terá de ser semelhante e dissemelhante.
+O mesmo passa com relação a si mesmo, pois ele se nos revelou diferente e idêntico a si mesmo; logo, por ambas as razões e por cada uma em separado, terá de ser semelhante e dissemelhante.
 
 Necessariamente.
 
@@ -1275,7 +1275,7 @@ E agora? Que se dá com o Uno no que respeita ao tocar ou não tocar em si mesmo
 
 Estou refletindo.
 
-0 Uno se nos patenteou contido em si mesmo como um todo.
+O Uno se nos patenteou contido em si mesmo como um todo.
 
 Certo.
 
@@ -1347,7 +1347,7 @@ Logo, os outros não são nem um nem dois nem qualquer outro número, como não 
 
 Não têm.
 
-0 Uno, pois, está só, não podendo haver dois.
+O Uno, pois, está só, não podendo haver dois.
 
 Não, evidentemente.
 
@@ -1413,7 +1413,7 @@ Mas, a grandeza em si mesma só poderá ser maior do que a pequenez em si mesma,
 
 Não, de fato.
 
-De onde se conclui que os outros não são nem maiores nem menores do que o Uno, por não terem grandeza nem pequenez, não sendo em relação ao Uno que ambas têm a faculdade de ultrapassar ou de serem ultrapassadas, mas apenas em suas relações recíprocas. 0 Uno, por sua vez, não poderá ser nem maior nem menor do quem ambas, por não possuir nem grandeza nem pequenez.
+De onde se conclui que os outros não são nem maiores nem menores do que o Uno, por não terem grandeza nem pequenez, não sendo em relação ao Uno que ambas têm a faculdade de ultrapassar ou de serem ultrapassadas, mas apenas em suas relações recíprocas. O Uno, por sua vez, não poderá ser nem maior nem menor do quem ambas, por não possuir nem grandeza nem pequenez.
 
 Parece mesmo que não pode.
 
@@ -1425,11 +1425,11 @@ Ora, o que nem ultrapassa nem é ultrapassado, de toda a necessidade terá de se
 
 Como não?
 
-0 mesmo se passa com o Uno em relação a si próprio: não contendo nem grandeza nem pequenez, não poderá ultrapassar-se nem ser ultrapassado por si mesmo; terá de ser co-extensivo consigo mesmo e, com tal, igual a si mesmo.
+O mesmo se passa com o Uno em relação a si próprio: não contendo nem grandeza nem pequenez, não poderá ultrapassar-se nem ser ultrapassado por si mesmo; terá de ser co-extensivo consigo mesmo e, com tal, igual a si mesmo.
 
 Perfeitamente.
 
-0 Uno, por conseguinte, será igual a si mesmo e aos outros.
+O Uno, por conseguinte, será igual a si mesmo e aos outros.
 
 Parece.
 
@@ -1457,7 +1457,7 @@ Consequentemente, uma vez que o Uno está nos outros, os outros terão de ser ma
 
 Parece.
 
-0 Uno, por conseguinte, é igual a si mesmo e aos outros, como é maior e menor do que ele mesmo e os outros.
+O Uno, por conseguinte, é igual a si mesmo e aos outros, como é maior e menor do que ele mesmo e os outros.
 
 É evidente.
 
@@ -1469,7 +1469,7 @@ Com medidas iguais, maiores ou menores, terá de ser numericamente superior e in
 
 Como assim?
 
-Há de ser de maior medida do que as coisas que ele ultrapassa em grandeza, e quanto mais medidas, mais partes. 0 mesmo vale para as iguais.
+Há de ser de maior medida do que as coisas que ele ultrapassa em grandeza, e quanto mais medidas, mais partes. O mesmo vale para as iguais.
 
 Certo.
 
@@ -1553,7 +1553,7 @@ Porém o que é mais velho só é mais velho em relação ao que é mais moço.
 
 Certo.
 
-0 Uno, por conseguinte, é mais moço do que ele mesmo, sempre que atinge o presente, no processo de envelhecer.
+O Uno, por conseguinte, é mais moço do que ele mesmo, sempre que atinge o presente, no processo de envelhecer.
 
 Necessariamente.
 
@@ -1567,7 +1567,7 @@ Parece.
 
 Porém ele é ou devém mais tempo do que ele mesmo, ou o mesmo tempo?
 
-0 mesmo.
+O mesmo.
 
 Mas se ele é ou devém durante o mesmo lapso de tempo, terá de ser da mesma idade.
 
@@ -1635,7 +1635,7 @@ Logo, o Uno é mais novo do que os outros, e os outros, mais velhos do que o Uno
 
 Isso, também, se me afigura evidente.
 
-Mas, como? 0 começo ou qualquer outra parte do Uno ou do que for, uma vez que seja uma parte, não partes, não terá de ser um, visto ser uma parte?
+Mas, como? O começo ou qualquer outra parte do Uno ou do que for, uma vez que seja uma parte, não partes, não terá de ser um, visto ser uma parte?
 
 De toda necessidade.
 
@@ -1643,7 +1643,7 @@ Consequentemente, o Uno nasce com a primeira coisa que nasce, e depois com a Seg
 
 É verdade.
 
-0 Uno, por conseguinte, é da mesma idade que todo o resto, de sorte que, a menos que viesse a nascer contra sua própria natureza, o Uno não nasceu nem antes nem depois dos outros, porém ao mesmo tempo. Assim, de acordo com o presente argumento, o Uno não seria nem mais velho nem mais novo do que os outros, nem os outros, mais velhos ou mais novos do que o Uno; ao passo que o argumento anterior o fazia mais velho e mais moço, passando-se o mesmo com os outros em relação a ele.
+O Uno, por conseguinte, é da mesma idade que todo o resto, de sorte que, a menos que viesse a nascer contra sua própria natureza, o Uno não nasceu nem antes nem depois dos outros, porém ao mesmo tempo. Assim, de acordo com o presente argumento, o Uno não seria nem mais velho nem mais novo do que os outros, nem os outros, mais velhos ou mais novos do que o Uno; ao passo que o argumento anterior o fazia mais velho e mais moço, passando-se o mesmo com os outros em relação a ele.
 
 Perfeitamente.
 
@@ -1693,7 +1693,7 @@ Perfeitamente.
 
 Sendo assim, o que se tornou mais novo torna-se mais velho em relação ao que nasceu antes dele e é mais velho. Porém, de fato, nunca é mais velho; não pára de ficar mais velho do que o outro; um não deixa de rejuvenescer, e o outro de envelhecer. Por sua vez, o mais velho se torna mais moço do que o mais moço.
 
-Marchando os dois em sentido contrário, tornam-se o contrário um do outro, a saber: o mais moço, mais velho do que o mais velho, e o mais velho, mais moço do que o mais moço; porém o que nunca conseguem é chegar ao fim desse processo, porque se conseguissem, deixariam de tornar-se: seriam. 0 que se dá é que todos se tornariam reciprocamente mais velhos e mais moços. 0 Uno se torna mais moço do que os outros, por se nos ter revelado mais velho e haver nascido primeiro, e os outros, mais velhos do que o Uno, por haverem nascidos mais tarde. 0 mesmo raciocínio vale para os outros em relação ao Uno, por se nos terem revelado mais velhos e nascidos primeiro.
+Marchando os dois em sentido contrário, tornam-se o contrário um do outro, a saber: o mais moço, mais velho do que o mais velho, e o mais velho, mais moço do que o mais moço; porém o que nunca conseguem é chegar ao fim desse processo, porque se conseguissem, deixariam de tornar-se: seriam. O que se dá é que todos se tornariam reciprocamente mais velhos e mais moços. O Uno se torna mais moço do que os outros, por se nos ter revelado mais velho e haver nascido primeiro, e os outros, mais velhos do que o Uno, por haverem nascido mais tarde. O mesmo raciocínio vale para os outros em relação ao Uno, por se nos terem revelado mais velhos e nascidos primeiro.
 
 É assim também que eu penso.
 
@@ -1751,7 +1751,7 @@ E deixar de existir, não é parecer?
 
 Isso também.
 
-0 Uno, por conseguinte, como parece, começando a existir e deixando de existir, nasce e morre.
+O Uno, por conseguinte, como parece, começando a existir e deixando de existir, nasce e morre.
 
 Necessariamente.
 
@@ -1781,7 +1781,7 @@ Mas, existirá essa coisa estranha em que se diz que ele está quando muda de po
 
 Que coisa?
 
-0 Instante. 0 vocábulo Instante parece significar algo assim como o ponto da mudança em direções opostas. Sim, não será da imobilidade, enquanto imóvel, que ele se mudará, nem do estado de movimento, como tal. Essa coisa de natureza inapreensível, o Instante, se encontra situada entre o movimento e o repouso, sem estar em nenhum tempo, sendo que a transição converge para ele e dele parte, da coisa em repouso para o movimento e do movimento para o repouso.
+O Instante. O vocábulo Instante parece significar algo assim como o ponto da mudança em direções opostas. Sim, não será da imobilidade, enquanto imóvel, que ele se mudará, nem do estado de movimento, como tal. Essa coisa de natureza inapreensível, o Instante, se encontra situada entre o movimento e o repouso, sem estar em nenhum tempo, sendo que a transição converge para ele e dele parte, da coisa em repouso para o movimento e do movimento para o repouso.
 
 É possível.
 
@@ -1789,11 +1789,11 @@ Sendo assim, dado que o Uno esteja em repouso e em movimento, terá de mudar-se,
 
 Sem dúvida.
 
-0 mesmo ocorre com as outras mudanças, quando passa da existência para a morte ou da não existência para o nascimento, encontrando-se num estado intermediário entre certas formas de movimento e de repouso, de sorte que nessa ocasião nem é existente nem não-existente, nem nasce nem morre.
+O mesmo ocorre com as outras mudanças, quando passa da existência para a morte ou da não existência para o nascimento, encontrando-se num estado intermediário entre certas formas de movimento e de repouso, de sorte que nessa ocasião nem é existente nem não-existente, nem nasce nem morre.
 
 Parece que é assim mesmo.
 
-Pelas mesmas razões, passando do Uno para o múltiplo para o Uno, não será nem uma nem múltiplo, nem se combina nem se desagrega. Assim, também, na passagem do semelhante para o dissemelhante ou na do dissemelhante para o semelhante, não é nem semelhante nem dissemelhante, como não se acha no estado de assimilação nem no de desassimilação. 0 mesmo se passa na transição de pequeno para o grande e o igual, e na de sentido contrário: não poderá ser nem pequeno nem grande nem igual, como não estará crescendo nem decrescendo nem ficando igual.
+Pelas mesmas razões, passando do Uno para o múltiplo para o Uno, não será nem uma nem múltiplo, nem se combina nem se desagrega. Assim, também, na passagem do semelhante para o dissemelhante ou na do dissemelhante para o semelhante, não é nem semelhante nem dissemelhante, como não se acha no estado de assimilação nem no de desassimilação. O mesmo se passa na transição de pequeno para o grande e o igual, e na de sentido contrário: não poderá ser nem pequeno nem grande nem igual, como não estará crescendo nem decrescendo nem ficando igual.
 
 Parece mesmo que não.
 
@@ -1847,7 +1847,7 @@ Por isso, as outras coisas que não o Uno terão necessariamente de ser um todo 
 
 Forçosamente.
 
-0 mesmo argumento vale para cada parte em separado, que terão forçosamente de participar do Uno. Se cada uma delas é parte, a expressão Cada uma implica unidade, distinta do resto e existente por si mesma, visto ser parte.
+O mesmo argumento vale para cada parte em separado, que terão forçosamente de participar do Uno. Se cada uma delas é parte, a expressão Cada uma implica unidade, distinta do resto e existente por si mesma, visto ser parte.
 
 Certo.
 
@@ -1971,7 +1971,7 @@ Logo, sob nenhum aspecto as outras coisas são um, e não contêm unidade de qua
 
 Não, realmente.
 
-As outras, também, não poderão ser múltiplas: se o fossem, cada uma delas seria uma parte do todo. 0 certo é que as outras coisas diferentes do Uno nem são múltiplas nem uma, nem todo nem partes, por não participarem do Uno sob nenhum aspecto.
+As outras, também, não poderão ser múltiplas: se o fossem, cada uma delas seria uma parte do todo. O certo é que as outras coisas diferentes do Uno nem são múltiplas nem uma, nem todo nem partes, por não participarem do Uno sob nenhum aspecto.
 
 É justo.
 
@@ -2007,7 +2007,7 @@ Muito bem. E agora, na hipótese de não existir o Uno, não teremos de examinar
 
 Que significa, então, este pressuposto: Se o Uno não existe? Será diferente nalgum ponto seguinte: Não-um não é?
 
-0 contrário, em toda a linha.
+O contrário, em toda a linha.
 
 E se alguém disser: A grandeza não é, ou A pequenez não é, ou qualquer coisa do gênero, não é evidente que de cada vez se determina a não existência de uma coisa diferente?
 
@@ -2069,7 +2069,7 @@ Porque se o Uno apresentasse dissemelhança com o Uno, o de que falamos não pod
 
 Perfeitamente.
 
-0 que não é possível.
+O que não é possível.
 
 Não, realmente.
 
@@ -2265,7 +2265,7 @@ Logo, o que não é, de jeito nenhum poderá participar da existência.
 
 Não, de fato.
 
-0 formar-se e o perecer, em que poderão consistir, se não for em adquirir existência ou em vir a perdê-la?
+O formar-se e o perecer, em que poderão consistir, se não for em adquirir existência ou em vir a perdê-la?
 
 Em nada mais.
 
@@ -2273,7 +2273,7 @@ Mas o que em nenhum modo participa da existência, não poderá adquiri-la nem v
 
 Como o poderia?
 
-0 Uno, por conseguinte, que todo o jeito não é, não pode receber nem perder a existência nem dela participar.
+O Uno, por conseguinte, que todo o jeito não é, não pode receber nem perder a existência nem dela participar.
 
 Sem dúvida Logo, o Uno que não é nem parece nem nasce, visto não participar de modo algum da existência.
 
@@ -2353,7 +2353,7 @@ Nesse caso, terão de ser outras entre elas mesmas; é só o que lhes resta, par
 
 Certo.
 
-Assim, é sempre em grupos que cada uma é outra em relação às outras; como unidade é que não poderão ser já que o Uno não é. Pelo contrario ; ao que parece, cada uma dessas massas é infinita em número, e quando alguém pensa haver tomado uma porção mínima, de súbito, como nos sonhos, em vez de uma, como parecia, nos surge múltipla, e em lugar de muito pequena, imensamente grande, comparada com as partículas de que é composta.
+Assim, é sempre em grupos que cada uma é outra em relação às outras; como unidade é que não poderão ser já que o Uno não é. Pelo contrário; ao que parece, cada uma dessas massas é infinita em número, e quando alguém pensa haver tomado uma porção mínima, de súbito, como nos sonhos, em vez de uma, como parecia, nos surge múltipla, e em lugar de muito pequena, imensamente grande, comparada com as partículas de que é composta.
 
 Certíssimo.
 

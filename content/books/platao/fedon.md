@@ -724,7 +724,7 @@ Então, meu caro, terás de admitir que tudo isso é espesso, terreno e visível
 
 É muito possível, Sócrates, que seja assim mesmo.
 
-Sim, é muito possível, Cebete, e também que essas almas não sejam dos bons, porém dos maus, que se vêem obrigadas a vagar por esse lugares, como castigo de sua conduta durante a vida, que fora péssima. E assim ficam a vagar, até que o apetite do elemento corporal a que sempre estão ligadas volte a prendêlas noutros corpos.
+Sim, é muito possível, Cebete, e também que essas almas não sejam dos bons, porém dos maus, que se vêem obrigadas a vagar por esses lugares, como castigo de sua conduta durante a vida, que fora péssima. E assim ficam a vagar, até que o apetite do elemento corporal a que sempre estão ligadas volte a prendê-las noutros corpos.
 
 ### *XXXI*
 
