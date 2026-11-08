@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "journals",
-  "last_updated": 1793327389426,
+  "last_updated": 1794097520972,
   "journals": [
     {
       "id": "journal_boletim-cearense-de-educacao-e-historia-da-matematica",
@@ -18,6 +18,27 @@
               "issue": "20",
               "articles": [
                 "art_004"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "journal_fides-reformata",
+      "name": "Fides Reformata",
+      "slug": "fides-reformata",
+      "total_articles": 1,
+      "volumes": [
+        {
+          "id": "vol_fides-reformata_1",
+          "volume": "1",
+          "year": 1996,
+          "issues": [
+            {
+              "issue": "2",
+              "articles": [
+                "art_017"
               ]
             }
           ]

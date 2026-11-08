@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "articles",
-  "last_updated": 1793327389256,
+  "last_updated": 1794097520757,
   "articles": [
     {
       "id": "art_001",
@@ -85,6 +85,36 @@
       "volume_id": "vol_boletim-cearense-de-educacao-e-historia-da-matematica_7",
       "issue": "20",
       "pages": "158 – 169"
+    },
+    {
+      "id": "art_017",
+      "title": "A Teoria de Westcott e Hort e o Texto Grego do Novo Testamento: Um Ensaio em Manuscritologia Bíblica",
+      "authors": [
+        {
+          "name": "Paulo R. B. Anglada",
+          "affiliation": "Seminário Teológico Presbiteriano de Belém; Centro Presbiteriano de Pós-Graduação Andrew Jumper"
+        }
+      ],
+      "summary": "Este artigo sobre crítica textual do Novo Testamento busca expor o que diversos estudiosos consideram ser os principais pontos fracos da teoria de Westcott-Hort. O texto é de autoria de um especialista no Novo Testamento, convicto de que o 'Texto Majoritário' (Majority Text) é o melhor texto grego disponível. O autor apresenta um panorama dos principais períodos da história da crítica textual, descreve o surgimento da teoria de Westcott-Hort e oferece uma crítica ao que ele considera serem as falhas fundamentais dessa teoria. As posições do autor não refletem, necessariamente, o posicionamento do Seminário JMC sobre essa questão.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/fides-reformata/vol-1/a-teoria-de-westcott-e-hort-e-o-texto-grego-do-novo-testamento.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-teoria-de-westcott-e-hort-e-o-texto-grego-do-novo-testamento.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/a-teoria-de-westcott-e-hort-e-o-texto-grego-do-novo-testamento.pdf",
+      "categories": [
+        "História",
+        "Linguística",
+        "Teologia"
+      ],
+      "published_at": 836179200000,
+      "estimated_reading_time_min": 36,
+      "udc": "94:81:2",
+      "license": "Artigo acadêmico; reprodução para fins de estudo e pesquisa sob termo de uso acadêmico (Fides Reformata, 1996).",
+      "journal": "Fides Reformata",
+      "journal_id": "journal_fides-reformata",
+      "volume": "1",
+      "volume_id": "vol_fides-reformata_1",
+      "issue": "2",
+      "pages": "15-30",
+      "language": "pt-BR"
     },
     {
       "id": "art_002",
