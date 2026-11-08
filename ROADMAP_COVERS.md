@@ -35,12 +35,13 @@ Acompanhamento do processo de refatoração e criação manual das capas padroni
 | # | Slug / Artigo | Autor(es) | Data | Status |
 |---|---|---|---|:---:|
 | 1 | `alucinacoes-induzidas-e-o-loop-de-correcoes-falsas-em-llms` | Hiroko Konishi | 20-11-2025 | ✅ Concluído |
-| 2 | `a-pratica-de-cantatas-e-concertos-no-culto-publico` | Heleno Salgado | 02-01-2021 | ⚪ Pendente |
+| 2 | `a-pratica-de-cantatas-e-concertos-no-culto-publico` | Murilo Dumps | 2021 | ✅ Concluído (Geométrico) |
 | 3 | `as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico` | Vários | 29-07-2026 | ⚪ Pendente |
 | 4 | `da-universidade-quinhentista-de-paris-para-o-mundo-curriculo-e-metodo-em-petrus-ramus` | Vários | 2012-01-01 | ⚪ Pendente |
-| 5 | `o-destino-eterno-dos-bebes-que-morrem-precocimente-e-das-pessoas-com-deficiencia-intelectual-severa` | Heleno Salgado | 30-06-2018 | ⚪ Pendente |
+| 5 | `o-destino-eterno-dos-bebes-que-morrem-precocimente-e-das-pessoas-com-deficiencia-intelectual-severa` | Plínio Sousa | 2018 | ✅ Concluído (Geométrico) |
 | 6 | `o-legado-de-petrus-ramus-e-o-tradado-via-regia-ad-geometram` | Vários | 2026-08-06 | ⚪ Pendente |
 | 7 | `o-metodo-de-aristoteles-para-a-compreensao-dos-primeiros-principios-das-coisas-naturais-na-fisica-i-1` | Vários | 1997 | ⚪ Pendente |
-| 8 | `peter-ramus-importancia-na-retorica-e-ataque-a-cicero` | Vários | 2021-01 | ⚪ Pendente |
-| 9 | `reformas-filosoficas-de-petrus-ramus` | Vários | 1912 | ⚪ Pendente |
-| 10 | `universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao` | Vários | 2024 | ⚪ Pendente |
+| 8 | `peter-ramus-importancia-na-retorica-e-ataque-a-cicero` | Cole Franklin | 2009 | ✅ Concluído (Geométrico) |
+| 9 | `reformas-filosoficas-de-petrus-ramus` | Djamila Abdullazade & Aladdin Malikov | 2025 | ✅ Concluído (Geométrico) |
+| 10 | `universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao` | Iracema Campos Cusati et al. | 2021 | ✅ Concluído (Geométrico) |
+| 11 | `a-teoria-de-westcott-e-hort-e-o-texto-grego-do-novo-testamento` | Paulo R. B. Anglada | 1996 | ✅ Concluído (Geométrico) |

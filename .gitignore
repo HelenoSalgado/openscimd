@@ -14,3 +14,4 @@ tests/test_covers.py
 *.sqlite
 *.db
 dist/
+.pytest_cache
