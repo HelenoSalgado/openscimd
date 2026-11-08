@@ -137,8 +137,10 @@ def update_articles_index(base_dir):
 
         updated_articles.append(remove_empty_keys(entry))
         
+    articles_changed = (existing_index.get('articles') != updated_articles)
+    if articles_changed or existing_index.get('last_updated', 0) == 0:
+        existing_index['last_updated'] = int(time.time() * 1000)
     existing_index['articles'] = updated_articles
-    existing_index['last_updated'] = int(time.time() * 1000)
     
     with open(index_file, 'w', encoding='utf-8') as f:
         json.dump(existing_index, f, indent=2, ensure_ascii=False)
@@ -259,8 +261,10 @@ def update_books_index(base_dir):
 
         updated_books.append(remove_empty_keys(entry))
         
+    books_changed = (existing_index.get('books') != updated_books)
+    if books_changed or existing_index.get('last_updated', 0) == 0:
+        existing_index['last_updated'] = int(time.time() * 1000)
     existing_index['books'] = updated_books
-    existing_index['last_updated'] = int(time.time() * 1000)
     
     with open(index_file, 'w', encoding='utf-8') as f:
         json.dump(existing_index, f, indent=2, ensure_ascii=False)
@@ -358,10 +362,23 @@ def update_journals_index(base_dir, articles=None):
         }
         journals_list.append(remove_empty_keys(journal_entry))
 
+    existing_journals_index = {'repo_name': 'OpenSciMD', 'type': 'journals', 'last_updated': 0, 'journals': []}
+    if journals_file.exists():
+        try:
+            with open(journals_file, 'r', encoding='utf-8') as f:
+                existing_journals_index = json.load(f)
+        except Exception:
+            pass
+
+    journals_changed = (existing_journals_index.get('journals') != journals_list)
+    last_updated = existing_journals_index.get('last_updated', 0)
+    if journals_changed or last_updated == 0:
+        last_updated = int(time.time() * 1000)
+
     result = {
         'repo_name': 'OpenSciMD',
         'type': 'journals',
-        'last_updated': int(time.time() * 1000),
+        'last_updated': last_updated,
         'journals': journals_list
     }
 

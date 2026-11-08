@@ -1,0 +1,54 @@
+name: "Sugestão de Melhoria Técnica (Feature Request)"
+description: "Propor novas funcionalidades, novos comandos ou otimizações na CLI openscimd e motor SalopDoc."
+title: "[Feature]: <Nome conciso da melhoria>"
+labels: ["enhancement", "ferramental"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 💡 Proposta de Evolução Técnica
+        Use este formulário para propor melhorias de engenharia de software, novos comandos para a CLI `openscimd` ou refinamentos nos fluxos de automação.
+
+  - type: dropdown
+    id: modulo_alvo
+    attributes:
+      label: "Módulo Alvo da Melhoria"
+      description: "Selecione a área principal que receberá a alteração."
+      options:
+        - "CLI e Comandos Gerais"
+        - "Motor SalopDoc e Pipeline de Ingestão"
+        - "Normalização e Tratamento Tipográfico"
+        - "Geração e Otimização de Capas e Assets"
+        - "Exportação (EPUB 3 / PDF Editorial / Print KDP)"
+        - "Motor de Busca RAG (SQLite FTS5)"
+        - "Pipeline de Testes e CI/CD"
+        - "Outro"
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivacao
+    attributes:
+      label: "Problema ou Oportunidade Identificada"
+      description: "Qual limitação atual ou necessidade técnica motiva esta proposta?"
+      placeholder: "Ex: Atualmente o comando X não permite o parâmetro Y, o que dificulta o processamento em lotes de..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposta_solucao
+    attributes:
+      label: "Proposta de Solução / Especificação Técnica"
+      description: "Descreva a abordagem desejada, novo comando, assinatura de função ou fluxo proposto."
+      placeholder: "Ex: Adicionar a flag `--force` ao comando `openscimd index` para ignorar cache..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternativas
+    attributes:
+      label: "Alternativas ou Soluções de Contorno Consideradas"
+      description: "Existe alguma outra forma de resolver o problema hoje sem alterar o código?"
+      placeholder: "Ex: Rodar manualmente um script em bash ou pré-processar com regex externa..."
+    validations:
+      required: false

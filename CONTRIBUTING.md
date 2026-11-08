@@ -4,9 +4,21 @@ Seja muito bem-vindo! O **OpenSciMD** é uma iniciativa aberta e colaborativa vo
 
 A colaboração de leitores, pesquisadores e revisores voluntários é essencial para mantermos o acervo com o mais alto padrão de fidelidade tipográfica e integridade textual.
 
-Existem duas formas principais de contribuir:
-1. **[Abrir uma Questão / Issue de Revisão](#-como-reportar-um-erro-ou-sugerir-revisão)** *(Ideal para leitores e voluntários sem familiaridade com Git)*
-2. **[Enviar uma Alteração via Pull Request](#-contribuindo-diretamente-via-pull-request)** *(Ideal para revisores e desenvolvedores)*
+Existem três formas principais de contribuir:
+1. **[Participar das Discussões da Comunidade (Discussions)](https://github.com/helenosalgado/openscimd/discussions)** *(Ideal para sugerir novos livros/artigos, debater edições históricas ou tirar dúvidas gerais)*
+2. **[Abrir uma Questão / Issue Oficial](#-como-reportar-um-erro-ou-sugerir-revisão)** *(Ideal para correções textuais em livros ou relatar bugs técnicos na CLI/automação)*
+3. **[Enviar uma Alteração via Pull Request](#-contribuindo-diretamente-via-pull-request)** *(Ideal para revisores e desenvolvedores)*
+
+---
+
+## 💬 Discussões e Fórum da Comunidade
+
+Para manter o quadro de issues focado estritamente em tarefas práticas e executáveis, utilizamos o **GitHub Discussions** para:
+- **Sugestão de Novas Obras:** Proponha livros clássicos ou artigos acadêmicos de domínio público para inclusão no acervo.
+- **Debates Editoriais e Fontes:** Discuta variantes de tradução, fidelidade textual e escolha de edições históricas de referência.
+- **Dúvidas & Suporte:** Obtenha ajuda sobre o uso da CLI (`openscimd`) ou do leitor LeiaME.
+
+👉 **[Acessar o GitHub Discussions](https://github.com/helenosalgado/openscimd/discussions)**
 
 ---
 

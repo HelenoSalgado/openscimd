@@ -1,5 +1,9 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
 contact_links:
-  - name: "Guia de Contribuição Editorial"
+  - name: "💬 Fórum da Comunidade (GitHub Discussions)"
+    url: "https://github.com/helenosalgado/openscimd/discussions"
+    about: "Para dúvidas gerais, sugestões de novos livros/artigos para o acervo ou debates conceituais e históricos."
+  - name: "📖 Guia de Contribuição Editorial"
     url: "https://github.com/helenosalgado/openscimd/blob/main/CONTRIBUTING.md"
     about: "Consulte as diretrizes e padrões antes de abrir uma questão ou enviar um Pull Request."
+

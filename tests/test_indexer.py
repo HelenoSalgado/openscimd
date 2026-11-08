@@ -75,3 +75,20 @@ def test_update_articles_and_journals_index_nested():
         assert len(j['volumes']) == 1
         assert j['volumes'][0]['volume'] == '1'
         assert len(j['volumes'][0]['issues']) == 2
+
+        # Teste de idempotência: executar novamente não deve alterar last_updated nem os arquivos
+        first_last_updated = art_data['last_updated']
+        first_journal_updated = j_data['last_updated']
+
+        update_index(str(base))
+
+        with open(articles_index_path, 'r', encoding='utf-8') as f:
+            art_data_second = json.load(f)
+        with open(journals_index_path, 'r', encoding='utf-8') as f:
+            j_data_second = json.load(f)
+
+        assert art_data_second['last_updated'] == first_last_updated
+        assert j_data_second['last_updated'] == first_journal_updated
+        assert art_data_second == art_data
+        assert j_data_second == j_data
+

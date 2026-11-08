@@ -1,0 +1,70 @@
+name: "Relatório de Erro Técnico (Bug Report)"
+description: "Reportar falhas, exceções ou comportamentos inesperados na CLI openscimd, motor SalopDoc ou pipelines."
+title: "[Bug]: <Breve resumo do erro>"
+labels: ["bug", "automação"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 🛠️ Reporte de Erro Técnico no OpenSciMD
+        Utilize este formulário para registrar falhas de execução no ferramental em Python (`openscimd`), nos conversores de documentos ou nas rotinas de geração de assets.
+        
+        *Se o seu problema for um erro de digitação, OCR ou revisão no texto de um livro/artigo, utilize o modelo de **Revisão ou Correção Textual**.*
+
+  - type: dropdown
+    id: modulo_afetado
+    attributes:
+      label: "Componente ou Módulo Afetado"
+      description: "Selecione a parte do ferramental onde ocorreu a falha."
+      options:
+        - "CLI: Indexação e Validação (index, validate)"
+        - "Motor SalopDoc: Ingestão de PDF/HTML (import-pdf, batch-import, clean-html)"
+        - "Normalização e Revisão Textual (verses, review, normalize-refs, assemble-book)"
+        - "Capas e Assets (build-covers, inject-text, ai-cover, build-assets)"
+        - "Exportação e Formatos (epub, export-pdf, validate-kindle, print)"
+        - "Motor RAG e Busca Local (build-rag, search-rag)"
+        - "Tradução e NLP (translate-file, check-translation, enrich)"
+        - "Outro / Não listado"
+    validations:
+      required: true
+
+  - type: input
+    id: comando_executado
+    attributes:
+      label: "Comando Executado"
+      description: "Informe a linha de comando exata utilizada."
+      placeholder: "Ex: uv run openscimd index --validate ou uv run openscimd import-pdf arquivo.pdf"
+    validations:
+      required: true
+
+  - type: textarea
+    id: descricao_erro
+    attributes:
+      label: "Comportamento Observado e Mensagem de Erro / Traceback"
+      description: "Descreva o que aconteceu de errado e cole o traceback completo do terminal."
+      placeholder: "Cole aqui a saída de erro do terminal (logs / traceback)..."
+      render: shell
+    validations:
+      required: true
+
+  - type: textarea
+    id: comportamento_esperado
+    attributes:
+      label: "Comportamento Esperado"
+      description: "O que deveria ter acontecido após a execução do comando?"
+      placeholder: "Ex: O comando deveria ter indexado todos os arquivos em content/books sem gerar erro no parsing do frontmatter..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: ambiente
+    attributes:
+      label: "Informações do Ambiente"
+      description: "Detalhes do sistema para reprodução determinística do erro."
+      value: |
+        - Sistema Operacional: 
+        - Versão do Python (`python --version`): 
+        - Versão do uv (`uv --version`): 
+        - Commit / Branch atual (`git rev-parse --short HEAD`): 
+    validations:
+      required: true
