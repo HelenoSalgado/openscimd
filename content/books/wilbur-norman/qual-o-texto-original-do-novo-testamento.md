@@ -192,7 +192,7 @@ Uma tal posição permitiu a Hort trazer para dentro da crítica textual do Novo
 
 Aqui está a definição clássica de Hort, para o método genealógico:
 
-> O acurado método de Genealogia consiste ... na recuperação mais ou menos completa dos textos de ancestrais sucessivos, pela análise e comparação dos textos variantes dos seus descendentes respectivos, cada texto ancestral assim recuperado sendo por sua vez usado, em conjunção com outros textos similares, para a recuperação do texto de um ancestral comum e ainda mais antigo.[^62]
+> O acurado método de Genealogia consiste... na recuperação mais ou menos completa dos textos de ancestrais sucessivos, pela análise e comparação dos textos variantes dos seus descendentes respectivos, cada texto ancestral assim recuperado sendo por sua vez usado, em conjunção com outros textos similares, para a recuperação do texto de um ancestral comum e ainda mais antigo.[^62]
 
 Colwell diz do uso que Hort fez deste método:
 
@@ -793,7 +793,7 @@ O desempenho de Hort mostra a razoabilidade da advertência de Colwell contra a 
 
 #### *Harmonização*[^257]
 
-É amplamente alegado que o texto “Bizantino” é caracterizado por harmonizações; e.g. Metzger diz: “Os montadores deste texto procuraram ... harmonizar passagens paralelas divergentes.”[^258] Pela escolha desta terminologia é assumido que as variadas leituras encontradas na minoria dos MSS são originais e que copistas se sentiram impelidos a fazer relatos paralelos concordarem. Talvez seja tempo de perguntar se jamais foi (ou se pode ser) provado que tal interpretação é correta. Jakob Van Bruggen diz da declaração de Metzger: “*Este julgamento não tem sido provado, e não pode sê-lo.*”[^259]
+É amplamente alegado que o texto “Bizantino” é caracterizado por harmonizações; e.g. Metzger diz: “Os montadores deste texto procuraram... harmonizar passagens paralelas divergentes.”[^258] Pela escolha desta terminologia é assumido que as variadas leituras encontradas na minoria dos MSS são originais e que copistas se sentiram impelidos a fazer relatos paralelos concordarem. Talvez seja tempo de perguntar se jamais foi (ou se pode ser) provado que tal interpretação é correta. Jakob Van Bruggen diz da declaração de Metzger: “*Este julgamento não tem sido provado, e não pode sê-lo.*”[^259]
 
 ##### *1) Van Bruggen*
 
@@ -1201,7 +1201,7 @@ Não somente havia pressão procedente dos autógrafos, mas também pressão exe
 
 Agora, que tipo de quadro podemos esperar encontrar nas testemunhas sobreviventes, na pressuposição que a história da transmissão do Texto do Novo Testamento foi normal? Podemos esperar um largo espectro de cópias, apresentando pequenas diferenças devidas aos erros de copiar, mas todas refletindo uma tradição comum. A existência simultânea de transmissão anormal nos primeiros séculos deixaria um punhado de cópias salpicadas fora daquela corrente principal. O quadro iria ter aparência semelhante à *Figura C*:
 
-![Figura 2: O Cone de Transmissão Textual — Transmissão Irresponsável, Normal e Fabricada (AD 100 a AD 1000)](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-2.webp)
+![Figura 2: O Cone de Transmissão Textual — Transmissão Irresponsável, Normal e Fabricada (Figura C no original, AD 100 a AD 1000)](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-2.webp)
 
 Os MSS dentro do cone representam a transmissão “normal”. À esquerda tenho colocado alguns possíveis representantes daquilo que poderíamos caracterizar como transmissão “irresponsável” do texto-os copistas produziram cópias defeituosas por causa de incompetência ou descuido, mas não fizeram alterações propositadas. À direita tenho colocado alguns possíveis representantes daquilo que poderíamos caracterizar como a transmissão “fabricada” do texto-os copistas fizeram alterações propositadas no texto (quaisquer que tenham sido as razões), produzindo cópias fabricadas, não cópias verdadeiras. Estou bem ciente que os MSS distribuídos na figura acima contêm tanto erros de descuido quanto erros deliberados, em proporções diferentes (7Q5,4,8 e P⁵² são fragmentos pequenos demais para permitir a classificação de seus erros como deliberados em vez de descuidados), de sorte que uma classificação como esta, não deixa de ser relativa, e apresenta um quadro um pouco distorcido. Mesmo assim, eu insisto em que ignorância, descuido, intromissão e malícia, todos deixaram marcas sobre a transmissão do texto do Novo Testamento, e devemos levá-los em conta em qualquer tentativa de reconstruir a história dessa transmissão.
 
@@ -2079,7 +2079,7 @@ A evidência se apresenta desta forma:
                                                                              481
 ```
 
-UBS e H-F concordam que a variante 1 é correta, e na verdade o verso 33 parece exigir que Silas tenha retornado a Jerusalém: “eles foram enviados de volta ... aos apóstolos”, onde “eles” se refere a Judas e Silas. O “problema” é que, no verso 40, Paulo escolhe Silas para acompanhá-lo, então este tinha de estar em Antioquia, não em Jerusalém. Consequentemente, a leitura mais longa foi criada para resolver o “problema”. Os “alguns dias” do verso 36 podem bem ter sido um ou dois meses. De Antioquia para Jerusalém seria uma viagem de alguns 650 km. Silas teve tempo de ir a Jerusalém e voltar a Antioquia.
+UBS e H-F concordam que a variante 1 é correta, e na verdade o verso 33 parece exigir que Silas tenha retornado a Jerusalém: “eles foram enviados de volta... aos apóstolos”, onde “eles” se refere a Judas e Silas. O “problema” é que, no verso 40, Paulo escolhe Silas para acompanhá-lo, então este tinha de estar em Antioquia, não em Jerusalém. Consequentemente, a leitura mais longa foi criada para resolver o “problema”. Os “alguns dias” do verso 36 podem bem ter sido um ou dois meses. De Antioquia para Jerusalém seria uma viagem de alguns 650 km. Silas teve tempo de ir a Jerusalém e voltar a Antioquia.
 
 **6) Implicações**
 
@@ -2315,25 +2315,7 @@ Este argumento não é simplesmente tirado do nada. O que está envolvido pode s
 
 É mostrado, abaixo, um diagrama de uma situação de transmissão [textual], onde uma das três cópias de um autógrafo contém um erro, enquanto duas retêm a redação correta. Subsequentemente, o fenômeno textual conhecido como “mistura” entra em jogo, resultando na introdução de leituras errôneas em bons manuscritos, como também no processo reverso, no qual boas leituras são introduzidas em maus. A declaração do meu irmão a respeito das probabilidades da situação segue-se ao diagrama, nas suas próprias palavras.
 
-![Figura 3: Modelo estatístico de transmissão textual (Gerações 1 a 5)](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-3.webp)
-
-```text
-FIGURA 1
-
-Geração                                                                       Números
-                                                                           boas  más  saldo
- 1                                     o                                     1     0    1
-
- 2                         o           o           •                         2     1    1
-
- 3                   o     o     •     o     o     •     •     •     o       5     4    1
-
- 4   o o •  o o •  • • o  o o •  o o •  • • o  • • o  • • o  o o •          14    13    1
-
- 5   o o •  o o •  • • o  o o •  o o •  • • o  • • o  • • o  o o •          41    40    1 [^494]
-     o o •  o o •  • • o  o o •  o o •  • • o  • • o  • • o  o o •
-     • • o  • • o  o o •  • • o  • • o  o o •  o o •  o o •  • • o
-```
+![Figura 3: Modelo estatístico de transmissão textual (Gerações 1 a 5, FIGURA 1 no original)](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-3.webp)[^494]
 
 > Contanto que bons e maus manuscritos serão copiados igual número de vezes e que a probabilidade de introdução de uma má leitura ao copiar um bom manuscrito seja igual à probabilidade de reintroduzir uma boa leitura ao copiar um mau manuscrito, a leitura correta predominará em qualquer geração de manuscritos. O grau da predominância da boa leitura depende da probabilidade de introdução do erro.
 > 
@@ -2393,56 +2375,17 @@ Mas isto é entender mal o propósito de tais demonstrações. Naturalmente, o d
 
 Se imaginarmos um estema [ver glossário] como segue:
 
-![Figura 4: Estema com transmissão inicial de duas cópias](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-4.webp)
-
-```text
-FIGURA 2
-
-      o A
-     / \
-    /   \
-  1o     •2 (Erro)
-```
+![Figura 4: Estema com transmissão inicial de duas cópias (FIGURA 2 no original)](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-4.webp)
 
 onde A = autógrafo, e (1) e (2) são cópias feitas a partir dele; é aparente que, *teoricamente*, o erro (em 2) tem uma chance igual à da leitura autêntica (em 1) de ser perpetuado. Mas, naturalmente, *na realidade* (2) pode ter sido copiado mais frequentemente que (1), e assim o erro pode ter sido perpetuado em um número maior de manuscritos posteriores do que a verdadeira leitura (em 1). Tudo bem, até aí. Mas suponha —
 
-![Figura 5: Estema com perpetuação assimétrica de erro e leitura verdadeira](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-5.webp)
-
-```text
-FIGURA 3
-
-                o A
-               / \
-              /   \
-  Certa (a) 1o     •2 Erro (a)
-            / \     |
-           /   \    |
-         3o     o4  |
-                    |
-  Certa (b) 5o  6o  7o  •8 Erro (b)
-```
+![Figura 5: Estema com perpetuação assimétrica de erro e leitura verdadeira (FIGURA 3 no original)](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-5.webp)
 
 Agora, já concedemos que o erro designado (a) está sendo perpetuado em número maior que a verdadeira leitura designada (a), de modo que “erro (a)” é encontrado nas cópias 5-6-7-8, enquanto “leitura verdadeira (a)” é encontrada somente nas cópias 3 e 4. Mas quando “erro (b)” é introduzido na cópia 8, sua rival “verdadeira leitura (b)” é encontrada nas cópias 3-4-5-6-7.[^495] Irá alguém supor, neste ponto, que é sequer um pouco provável que “erro (b)” terá a mesma boa sorte que “erro (a)” e que manuscrito 8 será copiado mais frequentemente que 3-4-5-6-7 juntos?
 
 Mas, mesmo admitindo-se esta situação *muito* menos provável, suponha novamente —
 
-![Figura 6: Estema com ampliação geométrica e reversão cumulativa de probabilidades](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-6.webp)
-
-```text
-FIGURA 4
-
-                       o A
-                      / \
-                     /   \
-                   1o     •2 Erro (a)
-                         / | \ \ \ \
-                        /  |  \ \ \ \
-                      3o  4o  5o 6o 7o •8 Erro (b)
-                     (4 e 5 sem cópia)
-                     / | \ \ \ \ \ \ \ \
-                    /  |  \ \ \ \ \ \ \ \
-                   9o 10o 11o 12o 13o 14o 15o 16o 17o 18o •19 Erro (c)
-```
+![Figura 6: Estema com ampliação geométrica e reversão cumulativa de probabilidades (FIGURA 4 no original)](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-6.webp)
 
 Irá alguém crer que as probabilidades favorecem uma repetição da mesma situação para “erro c” na cópia 19?
 
@@ -3822,53 +3765,13 @@ Um desenho ajudará a visualizar as opções. Considere:
 
 ![Figura 7: Estemas hipotéticos para os subgrupos de João 7:53–8:11](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-7.webp)
 
-**7,6,5:** 31 conjuntos (- #18 e #24) =
-
-```text
-                  a)                                   ou b)
-                 (7)                          (7)           (5)       (6)
-               /     \                         |             |         |
-             17      14+(6)                   17            14        17 \ 14
-             /         \                       |             |             \
-           (5)---------(6)                    (5)           (6)            (7)
-                 0 + (6)
-```
-
 Se 7 é visto como uma mistura de 5 e 6, a seleção uniforme é estranha, além de uma total ausência de conflações. As seis leituras divididas em 6, mais o fato que 6 tem sete leituras singulares e 5 tem cinco leituras singulares, enquanto 7 tem somente uma leitura singular (precisamente onde todos os três discordam), apontam para a) como a melhor interpretação.
-
-**6,5, h:** 29 conjuntos (- #18, #24, #29 e #31) =
-
-```text
-                  a)                                   ou b)
-                 (h)                          (h)           (5)       (6)
-               /     \                         |             |         |
-             9+(5)   11+(9)                    9            11         9 \ 11
-             /         \                       |             |             \
-           (5)---------(6)                    (5)           (6)            (h)
-                    0
-```
 
 Uma vez que h tem óbvias leituras secundárias, incluindo duas conflações, mais um tanto de mistura, b) parece ser a interpretação exigida. Evidentemente h dependeu mais pesadamente do ancestral de 6 do que daquele de 5.
 
 Agora, ofereço um estema que creio casar com e explicar a evidência estatística que acabei de descrever. O autógrafo é representado por "A". As letras f, g, h, j, k designam arquétipos reconstruídos. Os números dentro dos nodos são aqueles dos grupos de MSS de Soden. Os números ao lado dos nodos referem-se aos conjuntos de variantes nos quais os nodos introduzem um erro (tais erros vindicam chegarmos à suposição de um nodo, especialmente aqueles reconstruídos): assim f introduz 5 erros, 7 não introduz nenhum, g introduz treze, etc. As linhas sólidas indicam descendência linear, as linhas interrompidas indicam influência ocasional (quanto menores os tracinhos, menor a influência). A simetria é arbitrária, como também a cronologia. Não estou interessado em defender a cronologia, mas acontece que penso que ela está perto da realidade — é uma aproximação possível e até mesmo razoável.
 
 ![Figura 8: Estema geral da transmissão de João 7:53–8:11](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-8.webp)
-
-```text
-                                 (A)                                      data
-                                  *                                        150
-               *                                     *
- Latim      1,12,13,14,24 * f    (7)     g * 6,9,10,16,17,20      Egito    250
-                                              23,24,25,27
-                                                28,29,30
-
-  5,7,8,11,15,19 (5)             h * 13,18,22     (6) 2,3,4,21,22          350
-    26,31,32,33                       24,29
-
-                     1,28 * j            k * 15,27,31                       450
-
-           13,18,24 (1)   30 (2)      (3)       (4) 2,4,5,18,24,25          550
-```
 
 Antes de retornar aos conjuntos de variantes para discutir probabilidades transcricionais, quero comentar o estema. 7, f e g são independentes um do outro, todavia, em qualquer ponto, somente um abandona o original (exceto por #24 onde dois deles [ou todos os três] o fazem, em direções separadas). Isto é exatamente o que esperaríamos de uma transmissão normal, onde os arquétipos em um dado nível são independentes (um do outro). Com exceção de #24 há sempre uma maioria absoluta, da qual 7 sempre faz parte. Considero que 7 tem fielmente preservado o autógrafo,[^529] inclusive em #24 (ver a discussão de probabilidades transcricionais, abaixo). f é tolerável, mas g é um desgarrado, como também é 5. h tem um texto misto. (A colocação de "Latim" e "Egito" é deliberada: parece-me que 6 e 4 refletem influência "egípcia", ao passo que 5 e 1 refletem influência "latina".)
 
@@ -4534,7 +4437,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^58]: Colwell, “Genealogical Method: Its Achievements and its Limitations,” *Journal of Biblical Literature,* LXVI (1947), pag. 111.
 
-[^59]: De fato, Hort não mantinha uma visão elevada da inspiração. Compare A. F. Hort, I, 419-21, e Westcott e Hort, II, *Introduction,* 280- 81.
+[^59]: De fato, Hort não mantinha uma visão elevada da inspiração. Compare A. F. Hort, I, 419-21, e Westcott e Hort, II, *Introduction,* 280-81.
 
 [^60]: Westcott e Hort, pag. 73.
 
@@ -4598,7 +4501,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^90]: Clark, “The Effect of Recent Textual Criticism,” pag. 50.
 
-[^91]: Metzger, *The Text*, pag. 201. Sturz oferece exemplos específicos emitidos por Irineu, Clemente, Tertuliano e Eusébio (pags. 116- 19); também tem uma boa discussão da significância deles. Como disse Sturz: *"* Embora enganos [involuntários] no copiar foram reconhecidos por eles [os Pais] como uma causa de variação, as declarações mais fortes e mais enfáticas, pelos Pais, são relativas às alterações introduzidas pelos hereges" (pag. 120). H. A. Sturz, *The Byzantine Text-Type and New Testament Textual Criticism* (Nashville: Thomas Nelson Publishers, 1984).
+[^91]: Metzger, *The Text*, pag. 201. Sturz oferece exemplos específicos emitidos por Irineu, Clemente, Tertuliano e Eusébio (pags. 116-19); também tem uma boa discussão da significância deles. Como disse Sturz: *"* Embora enganos [involuntários] no copiar foram reconhecidos por eles [os Pais] como uma causa de variação, as declarações mais fortes e mais enfáticas, pelos Pais, são relativas às alterações introduzidas pelos hereges" (pag. 120). H. A. Sturz, *The Byzantine Text-Type and New Testament Textual Criticism* (Nashville: Thomas Nelson Publishers, 1984).
 
 [^92]: J. W. Burgon, *The Revision Revised* (London: John Murray, 1883), pag. 323.
 
@@ -5476,7 +5379,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^529]: Ambos H-F e R-P parecem aceitar que Soden iguale **M** 7 com seu grupo **K** r, que é definido como o texto Bizantino mais recente, em diferenciação da tradição principal (**K** x). Estou inclinado a suspeitar que o julgamento de Soden se deriva mais das suas pressuposições do que da evidência. Creio que uma revisão da evidência feita independentemente mostrará que **M** 7 é realmente antigo. Aliás, as colações feitas por Robinson [ver nota de rodapé 4] o levam a declarar que todos os grupos são antigos e independentes — quer dizer, ele fez a “revisão independente da evidência” e chegou exatamente à conclusão que previ; **M** 7 é bem antigo (III se não II século). Uma análise das colações em Atos (publicada em *Text und Textwert*) e das em Lucas 1.10 e 20 (feitas por F. Wisse), mostra que **f** 18 (alias **K** r) é tanto independente como antigo. **f** 18 se engaja em uma considerável variedade de "mudança de partido", muito diferentemente de **K** x, e frequentemente compartilha leituras com MSS, versões e pais antigos (contra **K** x); mas os compartilhamentos e "mudanças de partido" não são sistemáticos, não são previsíveis — portanto **f** 18 tem que ser tanto independente como antigo.
 
-[^530]: *The New Testament in the Original Greek according to the Byzantine/Majority Textform* contém um apêndice sobre a *Passagem da* *Adúltera*, pags. 494-505. R-P imprime várias formas da passagem, inclusive aquela de **M** 7 (minha escolha), a do *Majority Text* (de H- F) e a do *Byzantine/Majority Textform* (dos próprios R-P). Declaram que geralmente preferem **M** 5, consideram **M** 7 como inferior a ambos **M** 5 e **M** 6, mas todavia **M** 5 + **M** 7 sempre sobrepujam **M** 6 (pags. 496-97). No entanto, quando inspecionamos a reconstrução de R-P, descobrimos o seguinte: rejeitam a leitura de **M** 5 nove vezes e a põem em dúvida mais cinco outras vezes; põem **M** 5,7 em dúvida duas vezes (contra o princípio declarado deles); seguem **M** 5 (sozinho) sem questionamento apenas uma vez — de fato, a reconstrução deles é mais próxima de **M** 7 do que de **M** 5. Tudo isto me deixa um pouco perplexo: por que dizem, então, que **M** 5 é o melhor e **M** 7 o pior entre os três grupos principais?
+[^530]: *The New Testament in the Original Greek according to the Byzantine/Majority Textform* contém um apêndice sobre a *Passagem da* *Adúltera*, pags. 494-505. R-P imprime várias formas da passagem, inclusive aquela de **M** 7 (minha escolha), a do *Majority Text* (de H-F) e a do *Byzantine/Majority Textform* (dos próprios R-P). Declaram que geralmente preferem **M** 5, consideram **M** 7 como inferior a ambos **M** 5 e **M** 6, mas todavia **M** 5 + **M** 7 sempre sobrepujam **M** 6 (pags. 496-97). No entanto, quando inspecionamos a reconstrução de R-P, descobrimos o seguinte: rejeitam a leitura de **M** 5 nove vezes e a põem em dúvida mais cinco outras vezes; põem **M** 5,7 em dúvida duas vezes (contra o princípio declarado deles); seguem **M** 5 (sozinho) sem questionamento apenas uma vez — de fato, a reconstrução deles é mais próxima de **M** 7 do que de **M** 5. Tudo isto me deixa um pouco perplexo: por que dizem, então, que **M** 5 é o melhor e **M** 7 o pior entre os três grupos principais?
 
 [^531]: John Bengel, um crítico textual que morreu em 1752, tem sido considerado como sendo o primeiro que propôs este argumento.
 
