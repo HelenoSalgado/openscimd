@@ -21,7 +21,7 @@ Acompanhamento do processo de refatoração e criação manual das capas padroni
 | 11 | `primeiro-livro-de-moises-chamado-genesis` | Moisés | c. 1400 a.C. | ✅ Concluído |
 | 12 | `segundo-livro-de-moises-chamado-exodo` | Moisés | c. 1400 a.C. | ✅ Concluído |
 | 13 | `comentario-sobre-a-religiao-crista` | Petrus Ramus | 1576 | ✅ Concluído |
-| 14 | `petrus-ramus-e-a-reforma-educacional-do-seculo-xvi` | Frank Pierrepont Graves | 1912 | ⏳ Em avaliação |
+| 14 | `petrus-ramus-e-a-reforma-educacional-do-seculo-xvi` | Frank Pierrepont Graves | 1912 | ✅ Concluído |
 | 15 | `atlantida` | Platão | c. 360 a.C. | ✅ Concluído |
 | 16 | `fedon` | Platão | c. 385 a.C. | ✅ Concluído |
 | 17 | `parmenides` | Platão | c. 370 a.C. | ✅ Concluído |

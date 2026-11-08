@@ -3,7 +3,7 @@
 Este documento define a especificação canônica, o grid tipográfico, a paleta institucional por periódico e as regras geométricas para todas as capas de **Artigos Científicos e Acadêmicos** (`content/articles/`) do ecossistema OpenSciMD / LeiaME.
 
 > [!NOTE]
-> **Preservação dos Livros e E-books**: As obras clássicas e e-books (`content/books/`) seguem a tradição visual histórica autônoma estabelecida em [`.agents/editorial/covers.md`](covers.md). Este *Design System* aplica-se estritamente aos artigos de periódicos.
+> **Preservação dos Livros e E-books**: As obras clássicas e e-books (`content/books/`) seguem a tradição visual histórica autônoma estabelecida em [`.agents/editorial/design-system-capas-livros.md`](design-system-capas-livros.md). Este *Design System* aplica-se estritamente aos artigos de periódicos.
 
 ---
 
