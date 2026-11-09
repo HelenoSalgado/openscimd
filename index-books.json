@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1794153696297,
+  "last_updated": 1794209447692,
   "books": [
     {
       "id": "book_001",
@@ -22,6 +22,26 @@
       "language": "pt-BR",
       "originalLanguage": "la",
       "translator": "OpenSciMD"
+    },
+    {
+      "id": "book_020",
+      "title": "O Guardador de Rebanhos",
+      "author": "Alberto Caeiro",
+      "summary": "Magnum opus poético de Alberto Caeiro, mestre heterônimo bucólico e sensacionista de Fernando Pessoa. Composta por 49 poemas livres, a obra funda uma metafísica da imanência pura, da recusa do misticismo e do primado absoluto da percepção direta da Natureza.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/alberto-caeiro/o-guardador-de-rebanhos.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/o-guardador-de-rebanhos.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/o-guardador-de-rebanhos.pdf",
+      "categories": [
+        "Filosofia",
+        "Literatura",
+        "Poesia"
+      ],
+      "udc": "1:82",
+      "published_at": 1794209294123,
+      "estimated_reading_time_min": 39,
+      "license": "Domínio Público",
+      "language": "pt-PT",
+      "originalLanguage": "pt"
     },
     {
       "id": "book_002",
@@ -80,6 +100,25 @@
       "language": "pt-BR",
       "originalLanguage": "la",
       "translator": "Natanael Rinan"
+    },
+    {
+      "id": "book_021",
+      "title": "Mensagem",
+      "author": "Fernando Pessoa",
+      "summary": "Única obra poética em língua portuguesa publicada em vida por Fernando Pessoa (1934), Mensagem é um poema épico-lírico e mítico sobre a história de Portugal, dividido em três partes: Brasão, Mar Português e O Encoberto.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/fernando-pessoa/mensagem.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/mensagem.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/mensagem.pdf",
+      "categories": [
+        "Literatura",
+        "Poesia"
+      ],
+      "udc": "82",
+      "published_at": 1794209294124,
+      "estimated_reading_time_min": 21,
+      "license": "Domínio Público",
+      "language": "pt-PT",
+      "originalLanguage": "pt"
     },
     {
       "id": "book_005",

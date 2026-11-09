@@ -27,6 +27,8 @@ Acompanhamento do processo de refatoração e criação manual das capas padroni
 | 17 | `parmenides` | Platão | c. 370 a.C. | ✅ Concluído |
 | 18 | `o-pastor-amoroso` | Alberto Caeiro | 1914 | ✅ Concluído |
 | 19 | `comentario-a-isagoge-de-porfirio` | Severino Boécio | 508 d.C. | ✅ Concluído |
+| 20 | `o-guardador-de-rebanhos` | Alberto Caeiro | 1914 | ✅ Concluído |
+| 21 | `mensagem` | Fernando Pessoa | 1934 | ✅ Concluído |
 
 ---
 
