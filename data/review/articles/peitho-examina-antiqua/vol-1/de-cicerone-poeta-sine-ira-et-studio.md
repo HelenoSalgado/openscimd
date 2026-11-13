@@ -3,7 +3,7 @@ title: "De Cicerone Poeta — Sine Ira et Studio"
 journal: "Peitho / Examina Antiqua"
 volume: 1
 issue: 1
-pages: "175-179"
+pages: "175–179"
 authors:
   - name: "Paweł Bleja"
     affiliation: "Poznań"

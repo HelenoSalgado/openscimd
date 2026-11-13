@@ -43,7 +43,7 @@ A respeito das temáticas dos primeiros tratados matemáticos escritos e publica
 
 Desta forma, as matemáticas passaram a ser valorizadas não só pelo público acadêmico, mas também por outras profissões da época, como arquitetos, pintores, escultores, dentre outros, levando os mesmos a se motivarem para escrever seus ofícios, como uma forma de transmitir os conhecimentos adquiridos a outras gerações, além de valorizar a arte produzida por eles.
 
-Os pioneiros na escrita de tratados matemáticos na Europa do século XVI, se remetiam aos artesãos e os praticantes de matemáticas[^2], que em seus documentos procuravam trazer técnicas que advinham de conhecimentos matemáticos para a resolução de problemas de ordem prática. Em seguida, foram agregados nesses tratados as demonstrações, como uma forma de comprovar e validar as afirmações que estavam sendo empregadas nos escritos, como afirma Saito (2015, p. 171-172):
+Os pioneiros na escrita de tratados matemáticos na Europa do século XVI, se remetiam aos artesãos e os praticantes de matemáticas[^2], que em seus documentos procuravam trazer técnicas que advinham de conhecimentos matemáticos para a resolução de problemas de ordem prática. Em seguida, foram agregados nesses tratados as demonstrações, como uma forma de comprovar e validar as afirmações que estavam sendo empregadas nos escritos, como afirma Saito (2015, p. 171–172):
 
 > Mas, as matemáticas foram também valorizadas por outro setor da sociedade que outrora não fora muito considerado pelos estudiosos. Arquitetos, pintores, escultores, navegadores, agrimensores etc. passaram a escrever sobre seus ofícios, inicialmente, com o objetivo de transmitir seus conhecimentos a novas gerações e, posteriormente, para valorizar sua arte e se autopromover. Inicialmente, muitos desses tratados, escritos por artesãos e “praticantes de matemáticas”, traziam implícitos conhecimentos e técnicas matemáticas orientadas para resolver problemas de ordem prática. Posteriormente, começaram a incorporar demonstrações, com vistas a conferir ao ofício o mesmo estatuto que gozavam as outras disciplinas mecânicas entre as artes liberais.
 
@@ -179,11 +179,11 @@ Por fim, gostaríamos de agradecer a Universidade Estadual do Ceará (UECE) pelo
 
 INGEMARSDOTTER, Jenny. Ramism, Rhetoric and Reform: An Intellectual Biography of Johan Skytte (1577–1645). 2011. 325 f. Dissertação (Mestrado) - Curso de Filosofia, Uppsala University, Uppsala, 2011.
 
-MAHONEY, Michael Sean. Ramus, Peter. In: GILLISPIE, C.C. (ed.). Dictionary of Scientific Biography. New York: Charles Scribner’s Sons, 1981. v. 11, p. 286-290.
+MAHONEY, Michael Sean. Ramus, Peter. In: GILLISPIE, C.C. (ed.). Dictionary of Scientific Biography. New York: Charles Scribner’s Sons, 1981. v. 11, p. 286–290.
 
-PEREIRA, Ana Carolina Costa; SAITO, Fumikazu. A reconstrução do Báculo de Petrus Ramus na interface entre história e ensino de matemática. Revista Cocar, Belém, v. 13, n. 25, pp. 342-372, 2019.
+PEREIRA, Ana Carolina Costa; SAITO, Fumikazu. A reconstrução do Báculo de Petrus Ramus na interface entre história e ensino de matemática. Revista Cocar, Belém, v. 13, n. 25, pp. 342–372, 2019.
 
-PEREIRA, Ana Carolina Costa; SAITO, Fumikazu. A organização do saber geométrico em Via Regia ad Geometriam (1636) de Petrus Ramus: uma reflexão sobre a definição de ângulo reto e de perpendicular. Rematec, Natal, v. 13, n. 27, pp.24-38, 2018.
+PEREIRA, Ana Carolina Costa; SAITO, Fumikazu. A organização do saber geométrico em Via Regia ad Geometriam (1636) de Petrus Ramus: uma reflexão sobre a definição de ângulo reto e de perpendicular. Rematec, Natal, v. 13, n. 27, pp.24–38, 2018.
 
 PRODANOV, Cleber Cristiano; FREITAS, Ernani César de. Metodologia do Trabalho Científico: Métodos e Técnicas da Pesquisa e do Trabalho Acadêmico. 2. ed. Novo Hamburgo: Editora Feevale, 2013. 277 p.
 

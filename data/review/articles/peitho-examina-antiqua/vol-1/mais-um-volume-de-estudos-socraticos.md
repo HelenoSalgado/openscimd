@@ -3,7 +3,7 @@ title: "Mais um volume de estudos socráticos"
 journal: "Peitho / Examina Antiqua"
 volume: 1
 issue: 1
-pages: "163-168"
+pages: "163–168"
 authors:
   - name: "Francesca Pentassuglio"
     affiliation: "Roma"

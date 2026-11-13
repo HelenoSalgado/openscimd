@@ -3,7 +3,7 @@ title: "O Método de Aristóteles para a Compreensão dos Primeiros Princípios 
 journal: "Peitho / Examina Antiqua"
 volume: 1
 issue: 3
-pages: "31-50"
+pages: "31–50"
 authors:
   - name: "Melina G. Mouzala"
     affiliation: "Universidade de Patras"

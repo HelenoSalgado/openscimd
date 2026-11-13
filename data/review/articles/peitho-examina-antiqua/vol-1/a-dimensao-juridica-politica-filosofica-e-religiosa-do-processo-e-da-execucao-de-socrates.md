@@ -3,7 +3,7 @@ title: "A Dimensão Jurídica, Política, Filosófica e Religiosa do Processo e 
 journal: "Peitho / Examina Antiqua"
 volume: 1
 issue: 1
-pages: "45-56"
+pages: "45–56"
 authors:
   - name: "Kostas E. Beys"
     affiliation: "Atenas"

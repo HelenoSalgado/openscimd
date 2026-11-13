@@ -3,7 +3,7 @@ title: "AS MARGENS DA REFORMA: PETRUS RAMUS, O CALVINISMO E A AUTONOMIA DO SABER
 journal: "Hispania Sacra"
 volume: 70
 issue: 141
-pages: 51-63
+pages: 51–63
 authors:
   - name: "Rafael Ramis Barceló"
     orcid: "0000-0003-1756-6695"
@@ -31,7 +31,7 @@ license: "CC BY 4.0"
 
 ## Petrus Ramus e sua concepção do saber[^1]
 
-Pierre de la Ramée, latinizado Petrus Ramus (1515-1572), é, sem dúvida, um autor discordante e incômodo para a historiografia, que não sabe como classificá-lo. Boa parte do problema reside no fato de que Ramus foi um converso tardio e, de certa maneira, um calvinista marginal. No entanto, como veremos, a corrente colateral que surgiu a partir de suas ideias acabou sendo fundamental para a consolidação de alguns traços do que vem sendo denominado «calvinismo político».
+Pierre de la Ramée, latinizado Petrus Ramus (1515–1572), é, sem dúvida, um autor discordante e incômodo para a historiografia, que não sabe como classificá-lo. Boa parte do problema reside no fato de que Ramus foi um converso tardio e, de certa maneira, um calvinista marginal. No entanto, como veremos, a corrente colateral que surgiu a partir de suas ideias acabou sendo fundamental para a consolidação de alguns traços do que vem sendo denominado «calvinismo político».
 
 Existem interpretações contrapostas sobre a pretendida modernidade política de Calvino, visto por uns como paladino da democracia, da separação entre Igreja e Estado ou paladino da resistência, do realismo político moderno, do pensamento monarcômaco, do republicanismo ou inclusive da secularização (com diferentes perspectivas, vejam-se as leituras de Hancock[^2], Gorski[^3], Biéler[^4], Walzer[^5]…); enquanto por outros é analisado como um teólogo político, que colocou o direito e a teologia a serviço da religião, evitando com isso os excessos de uma leitura «política» de Calvino (por exemplo, num sentido mais teológico, Leith[^6]; ou desde uma ótica filosófico-hermenêutica, García Alonso)[^7].
 
@@ -103,7 +103,7 @@ Esta obra não só proporcionava o texto bilíngue, mas também uma introdução
 
 *Les six livres de la Republique* pode ser considerado já um tratado «científico» de teoria política. Bodin queria assentar as bases para um estudo teórico de política como disciplina, e nela podemos ver um tênue tom ramista, que resultava muito mais evidente nas suas obras jurídicas e históricas.[^33] Vasoli vinculou *Les six livres de la Republique* às últimas versões da dialética de Ramus, enquanto *Iuris universi distributio* respondia mais bem ao modelo da dialética de 1555, menos axiomática que as posteriores.[^34] Bodin, usando o conceito de soberania como chave do seu pensamento, preludiava um tratamento analítico da política, que chegaria alguns lustros depois.
 
-Assim como Jean Bodin foi um ramista *sui generis*, não podemos saber até onde Ramus teria chegado no âmbito da teoria política se tivesse vivido mais anos. No entanto, podemos ver o que escreveu sobre o tema Johann Thomas Freigius (1543-1583), o seu mais devoto discípulo, que editou muitas das suas obras inéditas e continuou o caminho do seu mestre.
+Assim como Jean Bodin foi um ramista *sui generis*, não podemos saber até onde Ramus teria chegado no âmbito da teoria política se tivesse vivido mais anos. No entanto, podemos ver o que escreveu sobre o tema Johann Thomas Freigius (1543–1583), o seu mais devoto discípulo, que editou muitas das suas obras inéditas e continuou o caminho do seu mestre.
 
 ## Freigius e a política
 
@@ -143,7 +143,7 @@ Assim pode ver-se a partir de um testemunho que examinava as correntes calvinist
 
 E é que o ramismo era uma facção destacada mesmo fora da Europa Central. O ramismo teve um papel importante entre os puritanos ingleses, mais por questões formais do que pelo seu conteúdo material. Feingold o denomina «*lowgrade Ramism*»[^48] e cabe pensar, como aponta o mesmo autor, que foi usado também pelos calvinistas como forma de compromisso político-religioso com um de seus mais ilustres e desditosos correligionários.
 
-Concordamos com Feingold em que realmente o ramismo não foi uma corrente muito difundida nem muito profunda nos países de língua inglesa. Ficou circunscrita a uma linha de alguns puritanos, entre os quais sobressaíram William Perkins (1558-1602) e William Ames (1576-1633), que se centraram na teologia do foro íntimo ou o foro de consciência, buscando, como Ramus, que o pensamento estivesse ligado com a ação e a prática. Neste sentido, qualificado como «*the greatest master of the Arts*»[^49], Ramus era o modelo para um pensamento dialético.
+Concordamos com Feingold em que realmente o ramismo não foi uma corrente muito difundida nem muito profunda nos países de língua inglesa. Ficou circunscrita a uma linha de alguns puritanos, entre os quais sobressaíram William Perkins (1558–1602) e William Ames (1576–1633), que se centraram na teologia do foro íntimo ou o foro de consciência, buscando, como Ramus, que o pensamento estivesse ligado com a ação e a prática. Neste sentido, qualificado como «*the greatest master of the Arts*»[^49], Ramus era o modelo para um pensamento dialético.
 
 Na trilha do puritanismo, Perkins[^50] e Ames — como indicou Sprunger[^51] — enlaçaram o ramismo do velho e do novo continente. Focar-nos-emos em Ames, que é quem fez a transição desde o ramismo de Cambridge para o dos Países Baixos, e que favoreceu a sua expansão entre os peregrinos puritanos que marcharam para a terra prometida da América.
 
@@ -189,7 +189,7 @@ Há algumas pequenas variações nas edições seguintes da *Politica* de Althus
 
 Sem dúvida, Althusius propugnava, como o último Ramus, uma tendência científica para tratar a política.[^66] Foi advogando cada vez mais pelo enciclopedismo, como consequência tanto do seu aprofundamento no ramismo, quanto das necessidades do ambiente intelectual do momento.
 
-Em Herborn teve uma influência muito poderosa o teórico calvinista Bartholomäus Keckermann (c.1572-1608), que ensinou em diferentes universidades e fez uma adaptação cada vez mais analítica e enciclopédica dos saberes, pelo qual Walter Ong o qualificou de «semirramista».[^67] Escreveu diferentes «sistemas»: de lógica, gramática hebraica, teologia, retórica, direito, geografia, física, metafísica, ética, política…
+Em Herborn teve uma influência muito poderosa o teórico calvinista Bartholomäus Keckermann (c.1572–1608), que ensinou em diferentes universidades e fez uma adaptação cada vez mais analítica e enciclopédica dos saberes, pelo qual Walter Ong o qualificou de «semirramista».[^67] Escreveu diferentes «sistemas»: de lógica, gramática hebraica, teologia, retórica, direito, geografia, física, metafísica, ética, política…
 
 O estudo sistemático da política[^68] que Keckermann fez esteve caracterizado por uma síntese entre o ramismo no metodológico e o aristotelismo no temático (em relação à ética e à economia, como partes da filosofia prática). Esta síntese entre Ramus e Aristóteles fez-se com vocação monarcômaca, que punha em xeque a soberania plena e indivisível de Bodin. Tanto Althusius como Keckermann seguiram Aristóteles ao estudar histórica e empiricamente os diversos modelos políticos, decantando-se por um sistema mais bem misto.
 
@@ -201,7 +201,7 @@ Após este parágrafo, e como autores de referência, Hoen citou Pierre de Grég
 
 Timpler não buscou tanto a emancipação do saber político, mas sim uma fundamentação ontológica do mesmo no seio da filosofia prática.[^74] Neste sentido, o ideal de Ramus ficava desbotado e traído, pois os saberes ficavam presos de novo numa ontologia. Contudo, Timpler usou o método ramista quanto à estruturação e apresentação do conhecimento, desde o mais geral ao mais particular.[^75] A filosofia prática de Timpler, para além da sua subordinação metafísica, tratava questões muito comuns ao pensamento calvinista do momento e mostrava-se partidária da doutrina monarcômaca.[^76]
 
-O ápice do enciclopedismo calvinista deu-se em Herborn, com a figura de Johann Heinrich Alsted (1588-1638), que foi amadurecendo progressivamente a sua *Encyclopaedia septem tomis distincta*[^77], a magna obra da acumulação e disposição do saber, na qual davam-se as mãos Aristóteles, Ramus e Llull. Há que chamar a atenção para o fato de que o tomo quarto estava dedicado — num sentido aristotélico — à *philosophia practica* e que, nele, encontrava-se um tratamento muito detalhado das secções: *etica, oeconomica, politica, scolastica*.
+O ápice do enciclopedismo calvinista deu-se em Herborn, com a figura de Johann Heinrich Alsted (1588–1638), que foi amadurecendo progressivamente a sua *Encyclopaedia septem tomis distincta*[^77], a magna obra da acumulação e disposição do saber, na qual davam-se as mãos Aristóteles, Ramus e Llull. Há que chamar a atenção para o fato de que o tomo quarto estava dedicado — num sentido aristotélico — à *philosophia practica* e que, nele, encontrava-se um tratamento muito detalhado das secções: *etica, oeconomica, politica, scolastica*.
 
 Nesta obra achava-se a explicação mais sistemática e precisa da política no marco de uma explicação completa do saber. A partir da definição «*Politica est prudentia reipublicae bene regendae*»[^78], esta parte da enciclopédia estava composta por um estudo sistemático da política, um epítome da história política (que chegava até o momento de sua composição) e um florilégio político greco-latino, onde se reuniam autores como Tito Lívio, Xenofonte, Cícero, Platão…
 
@@ -213,15 +213,15 @@ Em suma, Pierre de la Ramée, apesar dos moldes de ensino da sua época, havia f
 
 A transição entre estes teóricos semirramistas e a dissolução do ramismo na teoria política de meados do século XVII não foi abrupta, embora caiba dizer que posteriormente, na segunda metade da centúria, as sendas que o pensamento político empreendeu deixaram para trás estas misturas entre aristotelismo e ramismo, para passar a outros modelos, nos quais a fundamentação racionalista ou hobbesiana teve uma maior preponderância.
 
-Estes autores que qualificamos aqui de pós-ramistas caracterizaram-se por unir o método analítico de Ramus — cada vez mais diluído — com a política aristotélica a serviço do direito público do Sacro Império, especialmente a partir de 1615-1620.[^80] Cada vez foram mais aristotélicos e menos ramistas, e inclusive em alguns casos se mostraram contrários a Ramus (como, por exemplo, Arnisaeus[^81], a quem poderíamos qualificar de pai do neoaristotelismo protestante).[^82]
+Estes autores que qualificamos aqui de pós-ramistas caracterizaram-se por unir o método analítico de Ramus — cada vez mais diluído — com a política aristotélica a serviço do direito público do Sacro Império, especialmente a partir de 1615–1620.[^80] Cada vez foram mais aristotélicos e menos ramistas, e inclusive em alguns casos se mostraram contrários a Ramus (como, por exemplo, Arnisaeus[^81], a quem poderíamos qualificar de pai do neoaristotelismo protestante).[^82]
 
 A maioria destes autores já não eram calvinistas, mas luteranos, que atuaram basicamente como juristas práticos, professores de direito ou historiadores das instituições germânicas.[^83] Enquanto os calvinistas tinham um certo respeito reverencial por Ramus, não acontecia o mesmo com os luteranos. A adoção do ramismo por parte de alguns autores luteranos ajudou na expansão das ideias de Ramus, embora também tenha coadjuvado à sua progressiva dissolução em outras correntes.
 
-Há que citar, entre eles, Christoph Besold (1577-1638), um destacado jurista luterano, que contribuiu a dar uma fundamentação jurídica à política. Queria encontrar na República romana os fundamentos para o direito público do Império.[^84] Apesar de que seguia — à sua maneira — as diretrizes analíticas de Ramus, não o citava sempre com respeito.[^85]
+Há que citar, entre eles, Christoph Besold (1577–1638), um destacado jurista luterano, que contribuiu a dar uma fundamentação jurídica à política. Queria encontrar na República romana os fundamentos para o direito público do Império.[^84] Apesar de que seguia — à sua maneira — as diretrizes analíticas de Ramus, não o citava sempre com respeito.[^85]
 
 Os últimos autores que tomaram em consideração o ramismo, como corrente já muito diluída no seio do aristotelismo, foram Leibniz e Conring, ambos luteranos irenistas, com uma visão não tão combativa como a dos calvinistas que tratamos no apartado anterior. Hermann Conring (1606-1681) era, assim como Leibniz, um homem interessado em todos os campos do saber. No tocante à história do pensamento político, cabe dizer que em 1650 obteve uma cátedra de Política na Universidade de Helmstedt, uma prova inequívoca da pujança e progressiva autonomia deste saber. Há que indicar que Conring era, essencialmente, um aristotélico, salpicado com algumas outras influências como o ramismo.[^86]
 
-Acrescentemos a algum erudito ramista de última hora, como Heinrich Kipping (1623-1678), jurista e historiador luterano que escreveu umas instituições políticas de caráter ramista[^87], quando o ramismo já não era a corrente de moda entre os intelectuais. Os seus elogios a Ramus não podiam ser mais claros: «*Has primus tradidit Petrus Ramus, felicissimus liberalium artium restaurator, qui de istarum jure videatur in Scholis Logicis et Mathematicis, eleganti et accuratae doctrinae plenis…*».[^88] Em seguida, Kipping enunciava as três leis da dialética ramista, que tentou aplicar ao longo de toda a obra.
+Acrescentemos a algum erudito ramista de última hora, como Heinrich Kipping (1623–1678), jurista e historiador luterano que escreveu umas instituições políticas de caráter ramista[^87], quando o ramismo já não era a corrente de moda entre os intelectuais. Os seus elogios a Ramus não podiam ser mais claros: «*Has primus tradidit Petrus Ramus, felicissimus liberalium artium restaurator, qui de istarum jure videatur in Scholis Logicis et Mathematicis, eleganti et accuratae doctrinae plenis…*».[^88] Em seguida, Kipping enunciava as três leis da dialética ramista, que tentou aplicar ao longo de toda a obra.
 
 O caso de Kipping, contudo, era uma exceção. A pujança do racionalismo e a progressiva decadência da política aristotélica conduziram o ramismo a uma situação de esquecimento, marginalização ou até de crítica. Para alguns era uma camada mais na história, que já tinha sedimentado e à qual se deviam sobrepor outras mais necessárias e úteis, enquanto para outros era um método inútil e ridículo. Assim como Leibniz[^89] ainda citava com certo afeto Ramus e o tinha por um pensador bem-intencionado, autores posteriores como Thomasius[^90] consideravam já que o ramismo era uma corrente estúpida e odiosa:
 
@@ -233,11 +233,11 @@ O caso de Kipping, contudo, era uma exceção. A pujança do racionalismo e a pr
 >
 > *91. Ut vero Ramus philosophiam rationalem, Cartesius, et hanc et naturalem emendare aggressi sunt, ita et autoritas philosophiae aristotelicae in doctina morali et politica, valde obscurata fuit per Hobbesium, Grotium, Prufendorffium.*[^91]
 
-Logo o ramismo foi visto como algo do passado, pois os esquemas hobbesianos e racionalistas, tal como fizeram com a filosofia, foram tomando conta de toda a teoria política. É verdade que alguns juristas, como Jakob Brunnemann (1674-1735), ao estabelecer uma sinopse do direito público do Sacro Império, continuaram a fazer referência a Aristóteles e a Ramus[^92], embora estes autores apenas tivessem peso na conformação da teoria política da primeira metade do século XVIII, transformada já cada vez mais numa teoria do Estado.
+Logo o ramismo foi visto como algo do passado, pois os esquemas hobbesianos e racionalistas, tal como fizeram com a filosofia, foram tomando conta de toda a teoria política. É verdade que alguns juristas, como Jakob Brunnemann (1674–1735), ao estabelecer uma sinopse do direito público do Sacro Império, continuaram a fazer referência a Aristóteles e a Ramus[^92], embora estes autores apenas tivessem peso na conformação da teoria política da primeira metade do século XVIII, transformada já cada vez mais numa teoria do Estado.
 
 ## O ramismo na historiografia política
 
-Voltemos ao início deste trabalho. Dizíamos ali que boa parte da historiografia contemporânea conectava a obra de Calvino e a dos calvinistas com alguns elementos centrais da teoria política contemporânea: assemblearismo, republicanismo, ideal monarcômaco, direito à resistência, liberdade de consciência…
+Voltemos ao início deste trabalho. Dizíamos ali que boa parte da historiografia contemporânea conectava a obra de Calvino e a dos calvinistas com alguns elementos centrais da teoria política contemporânea: assemblearismo, republicanismo, ideal monarcômaco, direito à resistência, liberdade de consciência...
 
 Dizíamos também que Ramus e o ramismo resultavam incômodos na construção deste relato político, porque não encaixavam nos esquemas prefixados da teoria política do que vem sendo chamado «A Reforma». Até mesmo um livro como *Law and Revolution*, no qual Berman estuda o impacto da Reforma no pensamento jurídico-político moderno — muito ponderado em seus juízos sobre Weber e o calvinismo puritano — mostra um desdém absoluto e explícito em relação a Ramus, atribuindo todas as suas descobertas a Melanchthon.[^93] É certo que se trata de uma obra cujo conteúdo essencial é a história das ideias jurídicas, embora pudessem extrair-se sem maiores problemas algumas conclusões paralelas sobre o impacto de Ramus na história do pensamento político.
 
@@ -305,7 +305,7 @@ Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como
 
 [^7]: García Alonso 2008.
 
-[^8]: Strohl 1930: 126-144.
+[^8]: Strohl 1930: 126–144.
 
 [^9]: Engammare 1998: 207-228.
 
@@ -315,7 +315,7 @@ Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como
 
 [^12]: Varamundo 1573: LIII.
 
-[^13]: Strohm 2004: 65-105. Vejam-se especialmente as páginas 93-99, nas quais o ramismo é apresentado como uma corrente do calvinismo.
+[^13]: Strohm 2004: 65-105. Vejam-se especialmente as páginas 93–99, nas quais o ramismo é apresentado como uma corrente do calvinismo.
 
 [^14]: Oldrini 1997: 107-112.
 
@@ -335,7 +335,7 @@ Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como
 
 [^22]: Rami 1551: 25.
 
-[^23]: Rami 1553: 164-165.
+[^23]: Rami 1553: 164–165.
 
 [^24]: Ramus 1557: 271.
 
@@ -343,15 +343,15 @@ Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como
 
 [^26]: Ibídem: 38.
 
-[^27]: Ramus 1569b: 72-73.
+[^27]: Ramus 1569b: 72–73.
 
-[^28]: Strohm 1999: 352-371.
+[^28]: Strohm 1999: 352–371.
 
 [^29]: Ramus 1601.
 
-[^30]: Sharratt 1997: 137-184.
+[^30]: Sharratt 1997: 137–184.
 
-[^31]: Ibídem: 153-156.
+[^31]: Ibídem: 153–156.
 
 [^32]: Ramus 1601. Prefácio.
 
@@ -371,7 +371,7 @@ Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como
 
 [^40]: Birocchi 1997: 165.
 
-[^41]: Hotson 2007: 71-79.
+[^41]: Hotson 2007: 71–79.
 
 [^42]: Freigius 1578: epist. dedic. f. 7r.
 
@@ -385,7 +385,7 @@ Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como
 
 [^47]: Ibídem: 174.
 
-[^48]: Feingold 2001: 127-176.
+[^48]: Feingold 2001: 127–176.
 
 [^49]: Ames 1968: 226.
 
@@ -399,7 +399,7 @@ Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como
 
 [^54]: Parkeri 1638.
 
-[^55]: Ibídem: 96-97.
+[^55]: Ibídem: 96–97.
 
 [^56]: Hoeveler 2002.
 
@@ -407,13 +407,13 @@ Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como
 
 [^58]: Strohm 1996.
 
-[^59]: Baschera 2013: 519-552.
+[^59]: Baschera 2013: 519–552.
 
 [^60]: Daneaus 1596.
 
 [^61]: Hotson 2007: 101-108.
 
-[^62]: Sobre o ramismo em Herborn e acerca destes autores, veja-se Ramis Barceló 2016: 160-167 e 175-180.
+[^62]: Sobre o ramismo em Herborn e acerca destes autores, veja-se Ramis Barceló 2016: 160-167 e 175–180.
 
 [^63]: Althusius 1586.
 
@@ -421,7 +421,7 @@ Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como
 
 [^65]: Althusius 1614.
 
-[^66]: Hattenhauer 2009: 239-261.
+[^66]: Hattenhauer 2009: 239–261.
 
 [^67]: Ong 1958: 521.
 
@@ -435,13 +435,13 @@ Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como
 
 [^72]: Hoenius 1608: II, 2.
 
-[^73]: Freedman 1988: especialmente 264-275.
+[^73]: Freedman 1988: especialmente 264–275.
 
 [^74]: Timplerus 1608.
 
 [^75]: Ong 1958: 531, considera-o semirramista com matizes.
 
-[^76]: Gelderen 2002: I, 195-217 (especialmente 205-206).
+[^76]: Gelderen 2002: I, 195–217 (especialmente 205–206).
 
 [^77]: Alstedii 1630: vol. IV.
 
@@ -449,25 +449,25 @@ Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como
 
 [^79]: Ibídem: 1447.
 
-[^80]: Stolleis 1988: 119-122.
+[^80]: Stolleis 1988: 119–122.
 
 [^81]: As críticas de Arnisaeus contra Ramus e os ramistas (contra Bodin, Althusius…) foram frequentes. Veja-se Arnissaeus 1606.
 
-[^82]: Veja-se Dreitzel 2006 e Carvajal Aravena 2006: 551-576.
+[^82]: Veja-se Dreitzel 2006 e Carvajal Aravena 2006: 551–576.
 
-[^83]: Veja-se especialmente Hotson 2007: 111-118.
+[^83]: Veja-se especialmente Hotson 2007: 111–118.
 
 [^84]: Besoldi 1620.
 
 [^85]: Besoldi 1648: 204.
 
-[^86]: Dreitzel 1983: 135-172.
+[^86]: Dreitzel 1983: 135–172.
 
 [^87]: Kippingi 1667.
 
 [^88]: Ibídem: 9.
 
-[^89]: Bruyère 1983: 157-173.
+[^89]: Bruyère 1983: 157–173.
 
 [^90]: Ramis Barceló 2016: 208-212.
 
@@ -475,13 +475,13 @@ Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como
 
 [^92]: Brunnemanno 1702.
 
-[^93]: Berman 2003: 112-113 e 423-424.
+[^93]: Berman 2003: 112–113 e 423–424.
 
-[^94]: Kelley 1994: 66-94. Vejam-se particularmente as páginas 86-91.
+[^94]: Kelley 1994: 66–94. Vejam-se particularmente as páginas 86–91.
 
-[^95]: Kingdon 1991: 193-218.
+[^95]: Kingdon 1991: 193–218.
 
-[^96]: Kingdon 1990: 41-55. Veja-se especialmente a página 54.
+[^96]: Kingdon 1990: 41–55. Veja-se especialmente a página 54.
 
 [^97]: Turchetti 2014: 107-149. A citação está na página 148: «*...siamo di fronte a due correnti di pensiero che si richiamano al calvinismo e che si battono per il proprio riconoscimento, nel regno di Francia in particolare: uno per la resistenza, sulla scia di Bèze-Buchanan-Jurieu, l’altro, per la tolleranza, sulla scia di Castellione-Grozio-Bayle. E Calvino? Da qual lato si sarebbe posto?*».
 
@@ -497,7 +497,7 @@ Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como
 
 Adrián Lara, L. 2015. *Dialéctica y calvinismo. Una reflexión desde la teoría política*. Madrid: Centro de Estudios Políticos y Constitucionales.
 
-Alstedii, J. H. 1630 [1388-1504]. *Encyclopaedia septem tomis distinct*. Herbornae Nassoviorum: [Corvinus]. vol. IV.
+Alstedii, J. H. 1630 [1388–1504]. *Encyclopaedia septem tomis distinct*. Herbornae Nassoviorum: [Corvinus]. vol. IV.
 
 Althusius, I. 1586. *Iuris Romani Libri duo: ad leges Methodi Rameae conformati*. Basileae: Ad Lecythum Waldkirchianam.
 
@@ -511,7 +511,7 @@ Amesii, G. 1633. *Technometria, omnium et singularum artium fines adæquate circ
 
 Arnissaeus, H. 1606. *Doctrina politica in genuinam methodum, quae est Aristotelis reducta*. Fracofurti: Johennes Thiemen.
 
-Baschera, L. 2013. «Ethics in Reformed Orthodoxy», em H. Selderhuis (ed.), *A Companion to Reformed Orthodoxy*: 519-552. Leiden: Brill.
+Baschera, L. 2013. «Ethics in Reformed Orthodoxy», em H. Selderhuis (ed.), *A Companion to Reformed Orthodoxy*: 519–552. Leiden: Brill.
 
 Berman, H. J. 2003. *Law and Revolution, II: The Impact of the Protestant Reformations on the Western Legal Tradition*. Cambridge, MA: Harvard U. P.
 
@@ -525,21 +525,21 @@ Birocchi, I. 1997. *Causa e categoria del contratto. Un problema dogmatico nella
 
 Brunnemanno, I. 1702. *Introductio in iuris publici prudentiam. Monita*, s. f. Halae Magdeburgicae: sumptibus J. F. Zeitleri.
 
-Bruyère, N. 1983. «Leibniz, lecteur de Ramus». *Studia Leibnitiana*. Suppl. 23: 157-173.
+Bruyère, N. 1983. «Leibniz, lecteur de Ramus». *Studia Leibnitiana*. Suppl. 23: 157–173.
 
-Carvajal Aravena, P. 2006. «La ‘Staatslehre’ de H. Arnisaeus (1575-1636) y la ‘Schule von Helmstedt’». *Revista de Estudios Histórico-Jurídicos* 27: 551-576.
+Carvajal Aravena, P. 2006. «La ‘Staatslehre’ de H. Arnisaeus (1575–1636) y la ‘Schule von Helmstedt’». *Revista de Estudios Histórico-Jurídicos* 27: 551–576.
 
 Couzinet, M. D. 1996. *Histoire et methode a la Renaissance: une lecture de la Methodus ad facilem historiarum cognitionem de Jean Bodin*. Paris: Vrin.
 
 Daneaus, L. 1596. *Politices Christianae libri VII, additi sunt peculiares aphorismi de optimo principe et eius officio ex C. Plinij panegyrico ad Trojanum*. s. l. Eustath: Vignon.
 
-Dreitzel, H. 1983. «Hermann Conring und die Politishe Wissenschaft seiner Zeit», em M. Stolleis (ed.), *Hermann Conring (1606-1681): Beiträge zu Leben und Werk*: 135-172. Berlin: Duncker & Humblot.
+Dreitzel, H. 1983. «Hermann Conring und die Politishe Wissenschaft seiner Zeit», em M. Stolleis (ed.), *Hermann Conring (1606-1681): Beiträge zu Leben und Werk*: 135–172. Berlin: Duncker & Humblot.
 
-Dreitzel, H. 2006. *Protestantischer Aristotelismus und Absoluter Staat. Die Politica des Henning Arnisaeus (ca. 1575-1636)*. Wiesbaden: Veröffentlichungen des Instituts für Europäische Geschichte Mainz.
+Dreitzel, H. 2006. *Protestantischer Aristotelismus und Absoluter Staat. Die Politica des Henning Arnisaeus (ca. 1575–1636)*. Wiesbaden: Veröffentlichungen des Instituts für Europäische Geschichte Mainz.
 
 Engammare, M. 1998. «Calvin monarchomaque? Du soupçon à l’argument». *Archiv fur Reformationgeschichte* 89: 207-228.
 
-Feingold, M. 2001. «English Ramism: A Reinterpretation», em M. Feingold, J. S. Freedman y W. Rother (eds.), *The Influence of Petrus Ramus*: 127-176. Basle: Schwabe.
+Feingold, M. 2001. «English Ramism: A Reinterpretation», em M. Feingold, J. S. Freedman y W. Rother (eds.), *The Influence of Petrus Ramus*: 127–176. Basle: Schwabe.
 
 Feuardentius, F. 1604. *Theomachia Calvinistica: sedecim libris profligata*. Parisiis: Apud Sebastianum Nivellium.
 
@@ -555,29 +555,29 @@ Freigii, I. T. 1578. *Quaestiones Justinianeae in Institutiones juris Civilis*. 
 
 García Alonso, M. 2008. *La teología política de Calvino*. Barcelona: Anthropos.
 
-Gelderen, M. 2002. «Aristotelians, Monarchomachs and Republicans: Sovereignty and respublica mixta in Dutch and German Political Thought, 1580-1650», em M. van Gelderen y Q. Skinner (eds.), *Republicanism: A Shared European Heritage: I*, 195-217. Cambridge: Cambridge U. P.
+Gelderen, M. 2002. «Aristotelians, Monarchomachs and Republicans: Sovereignty and respublica mixta in Dutch and German Political Thought, 1580-1650», em M. van Gelderen y Q. Skinner (eds.), *Republicanism: A Shared European Heritage: I*, 195–217. Cambridge: Cambridge U. P.
 
 Gorski, P. 2003. *The Disciplinary Revolution. Calvinism and the Rise of the State in Early Modern Europe*. Chicago: Chicago U. P.
 
 Hancock, R. 1989. *Calvin and the Foundations of Modern Politics*. Ithaca-Londres: Cornell U. Press.
 
-Hattenhauer, C. 2009. «Johannes Althusius, Petrus Ramus und die Systematisierung der kaufrechtlichen Sachmängelhaftung», em C. Strohm y H. de Wall (eds.), *Konfessionalität und Jurisprudenz in der frühen Neuzeit*: 239-261. Berlin: Dunker & Humblot.
+Hattenhauer, C. 2009. «Johannes Althusius, Petrus Ramus und die Systematisierung der kaufrechtlichen Sachmängelhaftung», em C. Strohm y H. de Wall (eds.), *Konfessionalität und Jurisprudenz in der frühen Neuzeit*: 239–261. Berlin: Dunker & Humblot.
 
 Hoenius, P. H. 1608. *Libri duo disputationum: prior politicarum methodice digestarum, posterior iuridicarum ad selectas aliquot pandectarum materias*. Herbonae Nassoviorum: s. e.
 
 Hoeveler, J. D. 2002. *Creating the American Mind: Intellect and Politics in the Colonial Colleges*. Lanham: Rowman & Littlefield.
 
-Hotson, H. 2007. *Commonplace Learning: Ramism and its German Ramifications 1543-1630*. Oxford: Oxford U. P.
+Hotson, H. 2007. *Commonplace Learning: Ramism and its German Ramifications 1543–1630*. Oxford: Oxford U. P.
 
 Kechermannus, B. 1608. *Systema disciplinae politicae, publicis praelectionibus anno MDCVI propositum in gymnasio Dantisca*. Hanoviae: apud Guilielmum Antonium.
 
-Kelley, D. R. 1994. «Law», em J. H. Burns (ed.), *The Cambridge History of Political Thought, 1450-1700*: 66-94. Cambridge: Cambridge U. P.
+Kelley, D. R. 1994. «Law», em J. H. Burns (ed.), *The Cambridge History of Political Thought, 1450-1700*: 66–94. Cambridge: Cambridge U. P.
 
-Kingdon, R. M. 1967. *Geneva and the Consolidation of the French Protestant Movement, 1564-1572: A Contribution to the History of Congregationalism, Presbyterianism and Calvinist Resistance Theory*. Genève: Droz.
+Kingdon, R. M. 1967. *Geneva and the Consolidation of the French Protestant Movement, 1564–1572: A Contribution to the History of Congregationalism, Presbyterianism and Calvinist Resistance Theory*. Genève: Droz.
 
-Kingdon, R. M. 1990. «Calvin et la démocratie», em P. Viallaneix (éd.), *Réforme et Révolutions. Aux origines de la démocratie moderne*: 41-55. Montpellier: Presses du Languedoc.
+Kingdon, R. M. 1990. «Calvin et la démocratie», em P. Viallaneix (éd.), *Réforme et Révolutions. Aux origines de la démocratie moderne*: 41–55. Montpellier: Presses du Languedoc.
 
-Kingdon, R. M. 1991. «Calvinism and resistance theory, 1550-1580», em *The Cambridge History of Political Thought 1450-1700*: 193-218.
+Kingdon, R. M. 1991. «Calvinism and resistance theory, 1550-1580», em *The Cambridge History of Political Thought 1450-1700*: 193–218.
 
 Kippingi, H. 1667. *Institutiones politicae methodicae libri duo sumptibus*. Bremae et Francofurdi: Erhardi Bergeri.
 
@@ -623,7 +623,7 @@ Rivera García, A. 1999. *Republicanismo calvinista*. Murcia: Res Publica.
 
 Scattola, M. 2003. *Dalla virtù alla scienza: la fondazione e la trasformazione della disciplina politica nell’età moderna*. Milano: Franco Angeli.
 
-Sharratt, P. 1997. «Ramus’s Engagement with Aristotle’s Politics», em K. Meerhoff y J. C. Moisan (eds.), *Autour de Ramus. Texte, théorie, commentaire*: 137-184. [Québec:] Nuit Blanche.
+Sharratt, P. 1997. «Ramus’s Engagement with Aristotle’s Politics», em K. Meerhoff y J. C. Moisan (eds.), *Autour de Ramus. Texte, théorie, commentaire*: 137–184. [Québec:] Nuit Blanche.
 
 Snellii, R. 1595. *Commentarius doctissimus in dialecticam Petri Rami forma dialogi conscriptus etc. Textu Rameorecens per singulacapita praefixo. Accessit ejusdem Snelli Ethica, methodo Ramea conscripta*. Herbonae: Christophorus Corvinus.
 
@@ -631,11 +631,11 @@ Sprunger, K. L. 1972. *The Learned Doctor William Ames. Dutch Backgrounds of Eng
 
 Stolleis, M. 1988. *Geschichte des öffentlichen Rechts in Deutschland: Erster Band, 1600-1800*. München: Beck.
 
-Strohl, H. 1930. «Le Droit à la résistance d’après les conceptions protestantes». *Revue d’histoire et de philosophie religieuses* 10: 126-144.
+Strohl, H. 1930. «Le Droit à la résistance d’après les conceptions protestantes». *Revue d’histoire et de philosophie religieuses* 10: 126–144.
 
 Strohm, C. 1996. *Ethik im frühen Calvinismus*. Berlin: Walter de Gruyter.
 
-Strohm, C. 1999. «Theologie und Zeitgeist. Beobachtungen zum Siegeszug der Methode des Petrus Ramus am Beginn der Moderne». *Zeitschrift für Kirchengeschichte* 110: 352-371.
+Strohm, C. 1999. «Theologie und Zeitgeist. Beobachtungen zum Siegeszug der Methode des Petrus Ramus am Beginn der Moderne». *Zeitschrift für Kirchengeschichte* 110: 352–371.
 
 Strohm, C. 2004. «Methodology in Discussion of ‘Calvin and Calvinism’», em H. J. Selderhuis (ed.), *Calvinus Præceptor Ecclesiæ. Papers of the International Congress on Calvin Research, Princeton, August 20-24, 2002*: 65-105. Genf: Droz.
 

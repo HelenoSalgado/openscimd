@@ -3,7 +3,7 @@ title: "Por que a Poesia é Mais Filosófica e Mais Nobre do que a História? Pe
 journal: "Peitho / Examina Antiqua"
 volume: 1
 issue: 1
-pages: "75-81"
+pages: "75–81"
 authors:
   - name: "Julius Domański"
     affiliation: "Varsóvia"
