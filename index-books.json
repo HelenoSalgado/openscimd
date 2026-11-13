@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1794209447692,
+  "last_updated": 1794548288336,
   "books": [
     {
       "id": "book_001",
@@ -32,11 +32,10 @@
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/o-guardador-de-rebanhos.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/o-guardador-de-rebanhos.pdf",
       "categories": [
-        "Filosofia",
         "Literatura",
         "Poesia"
       ],
-      "udc": "1:82",
+      "udc": "82",
       "published_at": 1794209294123,
       "estimated_reading_time_min": 39,
       "license": "Domínio Público",
