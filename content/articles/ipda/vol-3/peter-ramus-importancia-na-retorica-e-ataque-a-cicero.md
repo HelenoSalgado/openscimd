@@ -3,7 +3,7 @@ title: "Peter Ramus: Importância na Retórica e Ataques a Cícero"
 journal: "IPDA"
 volume: 3
 issue: 1
-pages: "46-56"
+pages: "46–56"
 authors:
   - name: "Cole Franklin"
     affiliation: "University of Southern Mississippi; East Texas Baptist University"

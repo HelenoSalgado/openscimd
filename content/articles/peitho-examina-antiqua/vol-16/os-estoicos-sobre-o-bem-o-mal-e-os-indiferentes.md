@@ -10,7 +10,7 @@ license: "CC BY 4.0"
 journal: "Peitho / Examina Antiqua"
 volume: 16
 issue: 1
-pages: "135-148"
+pages: "135–148"
 e_issn: "2449-8378"
 DOI: "10.14746/pea.2025.1.7"
 originalLanguage: "en"

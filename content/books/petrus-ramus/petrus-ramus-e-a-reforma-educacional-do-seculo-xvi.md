@@ -179,7 +179,7 @@ Outra missão diplomática de Ramus que prestou assinalado serviço à educaçã
 
 [^5]: Joly, *Traité historique des écoles épiscopales et ecclésiastiques*, p. 304.
 
-[^6]: Veja-se o seu *Conselho sobre a Reforma da Universidade*, às pp. 78-84.
+[^6]: Veja-se o seu *Conselho sobre a Reforma da Universidade*, às pp. 78–84.
 
 [^7]: Veja-se pp. 42 e seguintes.
 
@@ -211,7 +211,7 @@ Outra missão diplomática de Ramus que prestou assinalado serviço à educaçã
 
 [^21]: Freigius, op. cit., pp. 9 ss.
 
-[^22]: Aristotelicae Animadversiones, fol. 73-75.
+[^22]: Aristotelicae Animadversiones, fol. 73–75.
 
 [^23]: Vide pp. 13 s.
 

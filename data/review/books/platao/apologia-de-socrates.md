@@ -11,9 +11,9 @@ originalLanguage: "en"
 language: "pt-BR"
 ---
 
-_Tradução baseada na versão inglesa de Benjamin Jowett (3ª ed., 1892)[^1]._
-
 ## A Defesa
+
+_Tradução baseada na versão inglesa de Benjamin Jowett (3ª ed., 1892)[^ne1]._
 
 ### Introdução
 
@@ -217,8 +217,6 @@ Contudo, tenho um favor a pedir-lhes. Quando os meus filhos crescerem, peço-vos
 
 ---
 
-### Nota sobre o Tradutor
+## Nota Editorial
 
-[^1]: **Benjamin Jowett** (1817–1893) foi um renomado helenista, teólogo e Mestre do *Balliol College* na Universidade de Oxford. Figura central nos estudos clássicos do século XIX, Jowett é celebrado mundialmente por ter sido o primeiro acadêmico a traduzir a totalidade dos diálogos de Platão para a língua inglesa.
-
-A sua tradução da *Apologia*, cuja versão definitiva revisada foi publicada em 1892, é amplamente reconhecida não apenas pela profunda erudição, mas também por sua excepcional qualidade literária e prosa elegante. Embora traduções contemporâneas busquem uma precisão filológica mais rígida, a versão de Jowett permanece um clássico influente por capturar com maestria o ritmo, a retórica e o "espírito" do pensamento socrático.
+[^ne1]: **Benjamin Jowett** (1817–1893) foi um renomado helenista, teólogo e Mestre do *Balliol College* na Universidade de Oxford. Figura central nos estudos clássicos do século XIX, Jowett é celebrado mundialmente por ter sido o primeiro acadêmico a traduzir a totalidade dos diálogos de Platão para a língua inglesa. A sua tradução da *Apologia*, cuja versão definitiva revisada foi publicada em 1892, é amplamente reconhecida não apenas pela profunda erudição, mas também por sua excepcional qualidade literária e prosa elegante. Embora traduções contemporâneas busquem uma precisão filológica mais rígida, a versão de Jowett permanece um clássico influente por capturar com maestria o ritmo, a retórica e o "espírito" do pensamento socrático.

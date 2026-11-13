@@ -116,7 +116,7 @@ Hort sugeriu, em outras palavras, que a harmonia dos manuscritos bizantinos se d
 
 Embora a teoria desenvolvida por Westcott e Hort tenha, como dissemos anteriormente, dominado a moderna crítica textual do Novo Testamento, nem todos a aceitaram. John W. Burgon, Edward Miller, Frederick Scrivener e George Salmon foram alguns dos importantes estudiosos do Novo Testamento, contemporâneos de Westcott e Hort, que combateram tenazmente tanto a teoria como o texto grego desses autores.
 
-John William Burgon (1813-1888), Deão de Chichester, conhecido por sua ortodoxia e erudição inquestionáveis, foi um dos maiores defensores do que ele chamou de texto tradicional,[^27] em oposição ao Texto Eclético de Westcott e Hort.[^28] A defesa que Burgon fez do texto tradicional[^29] baseava-se nos seguintes argumentos: (1) Este é o texto apoiado pela grande maioria dos manuscritos, de qualquer tipo, em qualquer época, e nas principais regiões (Ásia Menor e Grécia); (2) Este é também o texto que apresenta melhor qualidade intrínseca (harmonia, gramática, estilo, etc.); (3) Este é o texto que tem sido universalmente aceito pela Igreja.
+John William Burgon (1813–1888), Deão de Chichester, conhecido por sua ortodoxia e erudição inquestionáveis, foi um dos maiores defensores do que ele chamou de texto tradicional,[^27] em oposição ao Texto Eclético de Westcott e Hort.[^28] A defesa que Burgon fez do texto tradicional[^29] baseava-se nos seguintes argumentos: (1) Este é o texto apoiado pela grande maioria dos manuscritos, de qualquer tipo, em qualquer época, e nas principais regiões (Ásia Menor e Grécia); (2) Este é também o texto que apresenta melhor qualidade intrínseca (harmonia, gramática, estilo, etc.); (3) Este é o texto que tem sido universalmente aceito pela Igreja.
 
 Dentre as contribuições de Burgon para a Crítica Textual do Novo Testamento, podemos citar as pesquisas de diversos manuscritos cursivos;[^30] a preparação de uma excelente coleção de citações patrísticas do Novo Testamento, nos Pais da Igreja, o *Index Patristicus*, com 86.489 citações, em dezesseis volumes manuscritos;[^31] uma defesa erudita, muito bem elaborada, dos últimos doze versos do Evangelho de Marcos;[^32] e uma crítica penetrante à *Revised Version* (Versão Revisada da Bíblia Inglesa), baseada no texto de Westcott e Hort.
 
@@ -234,7 +234,7 @@ Esta exposição e avaliação da teoria de Westcott-Hort é resumida, mas cremo
 
 ### Notas Editoriais
 
-[^ne1]: O seguinte artigo é publicado como o início de uma reflexão acadêmica e fraterna sobre a questão do melhor texto grego do Novo Testamento. Para alguns a discussão pode parecer supérflua e inócua: afinal, as concordâncias que existem entre os principais textos (no caso, Texto Majoritário e Texto Eclético, ou Crítico) são muito maiores que as diferenças que os separam. Partindo deste fato, alguns seminários teológicos nos Estados Unidos tomaram a posição de que a discussão do assunto é prejudicial, pois tem provocado, às vezes, divisão de igrejas, onde os que têm diferentes opiniões radicalizam em suas convicções. É o caso do Grace Theological Seminary, que rejeita versões modernas que não utilizem o Texto Majoritário como base. Obviamente não desejamos provocar dissensão por causa deste assunto. O que nos move é o desejo de informar os nossos leitores acerca do debate, ainda em andamento, entre os defensores do Texto Majoritário e os que têm adotado a teoria de Westcott e Hort. Afinal, entre as poucas diferenças significativas se encontram o final de Marcos (16.9-20), um texto bastante relevante para o debate sobre a contemporaneidade dos dons do Espírito Santo, e a conhecida passagem no Evangelho de João sobre Jesus e a mulher apanhada em adultério (João 7.53-8.11). E mais ainda, o Texto Eclético originário de Westcott e Hort tem recebido aceitação quase que universal no Brasil nas últimas décadas, tomando o lugar do texto tradicional que Almeida usou para a sua tradução em Português. E isto sem muita resistência. Creio que é do interesse de todos saber as razões que levaram tradutores a mudar, bem como o valor destas razões. Este primeiro artigo é escrito do ponto de vista de um estudioso que acredita que esta mudança não foi para melhor. Relembramos que a sua posição sobre o assunto não reflete necessariamente a posição do corpo docente do Seminário JMC, nem do Conselho Editorial de *Fides Reformata*.
+[^ne1]: O seguinte artigo é publicado como o início de uma reflexão acadêmica e fraterna sobre a questão do melhor texto grego do Novo Testamento. Para alguns a discussão pode parecer supérflua e inócua: afinal, as concordâncias que existem entre os principais textos (no caso, Texto Majoritário e Texto Eclético, ou Crítico) são muito maiores que as diferenças que os separam. Partindo deste fato, alguns seminários teológicos nos Estados Unidos tomaram a posição de que a discussão do assunto é prejudicial, pois tem provocado, às vezes, divisão de igrejas, onde os que têm diferentes opiniões radicalizam em suas convicções. É o caso do Grace Theological Seminary, que rejeita versões modernas que não utilizem o Texto Majoritário como base. Obviamente não desejamos provocar dissensão por causa deste assunto. O que nos move é o desejo de informar os nossos leitores acerca do debate, ainda em andamento, entre os defensores do Texto Majoritário e os que têm adotado a teoria de Westcott e Hort. Afinal, entre as poucas diferenças significativas se encontram o final de Marcos (16.9–20), um texto bastante relevante para o debate sobre a contemporaneidade dos dons do Espírito Santo, e a conhecida passagem no Evangelho de João sobre Jesus e a mulher apanhada em adultério (João 7.53–8.11). E mais ainda, o Texto Eclético originário de Westcott e Hort tem recebido aceitação quase que universal no Brasil nas últimas décadas, tomando o lugar do texto tradicional que Almeida usou para a sua tradução em Português. E isto sem muita resistência. Creio que é do interesse de todos saber as razões que levaram tradutores a mudar, bem como o valor destas razões. Este primeiro artigo é escrito do ponto de vista de um estudioso que acredita que esta mudança não foi para melhor. Relembramos que a sua posição sobre o assunto não reflete necessariamente a posição do corpo docente do Seminário JMC, nem do Conselho Editorial de *Fides Reformata*.
 
 ### Notas do Autor
 
@@ -310,9 +310,9 @@ Esta exposição e avaliação da teoria de Westcott-Hort é resumida, mas cremo
 
 [^36]: George Salmon, *Some Thoughts on the Textual Criticism of the New Testament*; obra não publicada (Londres, 1897), p. 33.
 
-[^37]: *The Identity of the New Testament Text*, pp. 41-97. É principalmente no capítulo 4 desta obra que baseamos essa avaliação.
+[^37]: *The Identity of the New Testament Text*, pp. 41–97. É principalmente no capítulo 4 desta obra que baseamos essa avaliação.
 
-[^38]: H. H. Oliver, *Present Trends in the Textual Criticism of the New Testament*, in *Journal of Bible and Religion*, 30 (1962), pp. 311-312.
+[^38]: H. H. Oliver, *Present Trends in the Textual Criticism of the New Testament*, in *Journal of Bible and Religion*, 30 (1962), pp. 311–312.
 
 [^39]: Metzger, *The Text of the New Testament*, p. 201.
 
@@ -328,7 +328,7 @@ Esta exposição e avaliação da teoria de Westcott-Hort é resumida, mas cremo
 
 [^45]: Esta é a conclusão de C. Clark, professor de latim na Universidade de Oxford, em *The Descent of Manuscripts*.
 
-[^46]: Em *Scribal Habits*, pp. 376-387.
+[^46]: Em *Scribal Habits*, pp. 376–387.
 
 [^47]: Metzger, *The Text of the New Testament*, p. 195.
 
@@ -336,21 +336,21 @@ Esta exposição e avaliação da teoria de Westcott-Hort é resumida, mas cremo
 
 [^49]: Eis apenas alguns nomes de eruditos da área os quais confirmam que Hort nunca aplicou a genealogia, ou que o método é impossível de ser aplicado diante das dificuldades: Parvis, Colwell, Zuntz, Vaganay, Aland.
 
-[^50]: M. M. Parvis, “New Testament Text”, em *The Interpreter’s Dictionary of the Bible*, vol. 4 (Nashville: Abington Press, 1952), pp. 594-614.
+[^50]: M. M. Parvis, “New Testament Text”, em *The Interpreter’s Dictionary of the Bible*, vol. 4 (Nashville: Abington Press, 1952), pp. 594–614.
 
-[^51]: A. F. J. Klijn, “The Value of the Versions for the Textual Criticism of the New Testament”, em *The Bible Translator*, 8 (1957), pp. 127-130.
+[^51]: A. F. J. Klijn, “The Value of the Versions for the Textual Criticism of the New Testament”, em *The Bible Translator*, 8 (1957), pp. 127–130.
 
-[^52]: H. C. Thiessen, *Introduction to the New Testament* (Grand Rapids, Michigan: Eerdmans, 1955), pp. 54-55.
+[^52]: H. C. Thiessen, *Introduction to the New Testament* (Grand Rapids, Michigan: Eerdmans, 1955), pp. 54–55.
 
 [^53]: Em *The Revision Revised* (citado por Pickering, *The Identity of the New Testament Text*, p. 96).
 
 [^54]: Citado por W. MacLean, *The Providential Preservation of the Greek of the New Testament* (Westminster Standard, 1977), p. 20.
 
-[^55]: Cf. Pickering, *The Identity of the New Testament Text*, pp. 64-65.
+[^55]: Cf. Pickering, *The Identity of the New Testament Text*, pp. 64–65.
 
 [^56]: Burgon, *The Traditional Text*, pp. ix, x.
 
-[^57]: Kenyon, *Handbook to the Textual Criticism*, pp. 322-323.
+[^57]: Kenyon, *Handbook to the Textual Criticism*, pp. 322–323.
 
 [^58]: *Ibid.*, p. 323.
 
