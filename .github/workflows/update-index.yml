@@ -40,7 +40,7 @@ jobs:
       - name: Check if index files changed
         id: check_changes
         run: |
-          git add -f index-articles.json index-books.json index-journals.json
+          git add index-articles.json index-books.json index-journals.json
           if git diff --cached --quiet; then
             echo "changed=false" >> $GITHUB_OUTPUT
             echo "ℹ️ Nenhum arquivo de índice foi alterado."
