@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "articles",
-  "last_updated": 1794153696157,
+  "last_updated": 1794566329088,
   "articles": [
     {
       "id": "art_001",
@@ -63,9 +63,8 @@
         }
       ],
       "summary": "Entre meados dos séculos XVI e XVII, se proliferou uma rica literatura dedicada a geometria prática que impulsionou a produção de tratados para auxiliar nos procedimentos manuais, executados pelos trabalhadores do período. Nesse contexto, o tratado Via regia ad geometriam, escrito e publicado originalmente na Suíça em 1596 pelo francês Petrus Ramus (1515 – 1572), passando a ganhar notoriedade como um dos documentos mais disseminados pela impressa medieval. O exemplar trazia consigo uma organização diferencial dos conhecimentos matemáticos existentes em sua época, que são incorporados em algumas maneiras de medir áreas de superfícies, volume de sólidos, junto ao cálculo de distâncias, tais como comprimento, altura e largura. Desta forma, o artigo tem o intuito de apresentar uma descrição sobre o tratado em questão, destacando alguns elementos matemáticos presentes em seu corpo, junto a uma breve biografia do autor, com suas principais obras e seus preceitos. Ao desenvolver o estudo, utilizou-se uma metodologia bibliográfica-descritiva, com cunho qualitativo, a partir da leitura de livros e artigos que versam sobre a temática estudada, a fim de recolher informações consistentes. No decorrer da pesquisa, observou-se um desenvolvimento sistemático no tratado de Petrus Ramus sobre os elementos matemáticos, sendo descrito em um dos capítulos, o instrumento intitulado por báculo que auxiliava nos procedimentos de medição, por meios desses componentes. Assim, concluiu-se que o documento histórico em questão, contribuiu de forma sucinta ao fornecer subsídios de mensuração para algumas profissões, visto que, era uma das principais atividades desenvolvidas no meio rural e urbano, bastando ter noções sobre as matemáticas do período para utilizá-lo.",
-      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/boletim-cearense-de-educacao-e-historia-da-matematica/vol-7/o-legado-de-petrus-ramus-e-o-tradado-via-regia-ad-geometram.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/o-legado-de-petrus-ramus-e-o-tradado-via-regia-ad-geometram.webp",
-      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/o-legado-de-petrus-ramus-e-o-tradado-via-regia-ad-geometram.pdf",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/boletim-cearense-de-educacao-e-historia-da-matematica/vol-7/o-legado-de-petrus-ramus-e-o-tratado-via-regia-ad-geometram.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/o-legado-de-petrus-ramus-e-o-tratado-via-regia-ad-geometram.webp",
       "categories": [
         "História",
         "Matemática"
@@ -141,7 +140,7 @@
       "volume": "70",
       "volume_id": "vol_hispania-sacra_70",
       "issue": "141",
-      "pages": "51-63"
+      "pages": "51–63"
     },
     {
       "id": "art_006",
@@ -169,7 +168,7 @@
         "História"
       ],
       "published_at": 1765756800000,
-      "estimated_reading_time_min": 28,
+      "estimated_reading_time_min": 27,
       "doi": "10.33864/2790-0037.2025.v6.i5.101-112",
       "udc": "1(091):161/162",
       "hos": 113,
@@ -207,7 +206,7 @@
       "volume": "3",
       "volume_id": "vol_ipda_3",
       "issue": "1",
-      "pages": "46-56",
+      "pages": "46–56",
       "language": "pt-BR"
     },
     {
@@ -238,7 +237,7 @@
       "volume": "1",
       "volume_id": "vol_peitho-examina-antiqua_1",
       "issue": "1",
-      "pages": "45-56",
+      "pages": "45–56",
       "language": "pt-BR",
       "issn": "2082-7539"
     },
@@ -269,7 +268,7 @@
       "volume": "1",
       "volume_id": "vol_peitho-examina-antiqua_1",
       "issue": "1",
-      "pages": "175-179",
+      "pages": "175–179",
       "language": "pt-BR",
       "e_issn": "2082-7539"
     },
@@ -299,7 +298,7 @@
       "volume": "1",
       "volume_id": "vol_peitho-examina-antiqua_1",
       "issue": "1",
-      "pages": "163-168",
+      "pages": "163–168",
       "language": "pt-BR",
       "e_issn": "2082-7539"
     },
@@ -330,7 +329,7 @@
       "volume": "1",
       "volume_id": "vol_peitho-examina-antiqua_1",
       "issue": "3",
-      "pages": "31-50",
+      "pages": "31–50",
       "language": "pt-BR",
       "e_issn": "2082-7539"
     },
@@ -362,7 +361,7 @@
       "volume": "1",
       "volume_id": "vol_peitho-examina-antiqua_1",
       "issue": "1",
-      "pages": "75-81",
+      "pages": "75–81",
       "language": "pt-BR",
       "e_issn": "2082-7539"
     },
@@ -424,7 +423,7 @@
       "volume": "16",
       "volume_id": "vol_peitho-examina-antiqua_16",
       "issue": "1",
-      "pages": "135-148",
+      "pages": "135–148",
       "language": "pt-BR",
       "e_issn": "2449-8378"
     },
@@ -462,7 +461,7 @@
       "journal_id": "journal_revista-historia-da-educacao",
       "volume": "23",
       "volume_id": "vol_revista-historia-da-educacao_23",
-      "pages": "1-33"
+      "pages": "1–33"
     },
     {
       "id": "art_016",
@@ -539,7 +538,7 @@
         "Teologia"
       ],
       "published_at": 1785283200000,
-      "estimated_reading_time_min": 122,
+      "estimated_reading_time_min": 121,
       "doi": "10.5281/zenodo.21684711",
       "udc": "2",
       "license": "ViVe 1.0 — REVISTA VIAE VERITATIS",
@@ -548,7 +547,7 @@
       "volume": "1",
       "volume_id": "vol_revista-viae-veritatis_1",
       "issue": "1",
-      "pages": "1-52",
+      "pages": "1–52",
       "e_issn": "3086-7746"
     }
   ]

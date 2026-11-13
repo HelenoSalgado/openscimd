@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1794548288336,
+  "last_updated": 1794566329398,
   "books": [
     {
       "id": "book_001",
@@ -325,7 +325,7 @@
       "udc": "1",
       "published_at": 1794153689623,
       "estimated_reading_time_min": 35,
-      "license": "Domínio Público",
+      "license": "CC BY 4.0",
       "language": "pt-BR",
       "originalLanguage": "el",
       "translator": "Natanael Rinan"
@@ -394,7 +394,7 @@
       ],
       "udc": "2",
       "published_at": 1091750400000,
-      "estimated_reading_time_min": 663,
+      "estimated_reading_time_min": 662,
       "license": "CC BY 4.0",
       "language": "pt-BR",
       "originalLanguage": "en",

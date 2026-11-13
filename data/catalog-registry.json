@@ -30,24 +30,26 @@
       "canonical_author": "Murilo Dumps",
       "doi": "10.5281/zenodo.21762396",
       "first_body_sha256": "863f09b516902b8c4118031c179d5bc065e508ed472dbf992d2e6ec774b97344",
-      "last_body_sha256": "863f09b516902b8c4118031c179d5bc065e508ed472dbf992d2e6ec774b97344",
+      "last_body_sha256": "2c45e5acae78e4e67f624d75a5c0ad07ee019e9baa4046f00667c4a3e535afca",
       "created_at": 1785974400000,
-      "updated_at": 1794554532680,
+      "updated_at": 1794566328886,
       "retired_at": null
     },
     "art_003": {
       "id": "art_003",
       "kind": "art",
       "status": "active",
-      "current_rel_path": "boletim-cearense-de-educacao-e-historia-da-matematica/vol-7/o-legado-de-petrus-ramus-e-o-tradado-via-regia-ad-geometram.md",
-      "past_rel_paths": [],
+      "current_rel_path": "boletim-cearense-de-educacao-e-historia-da-matematica/vol-7/o-legado-de-petrus-ramus-e-o-tratado-via-regia-ad-geometram.md",
+      "past_rel_paths": [
+        "boletim-cearense-de-educacao-e-historia-da-matematica/vol-7/o-legado-de-petrus-ramus-e-o-tradado-via-regia-ad-geometram.md"
+      ],
       "canonical_title": "O LEGADO DE PETRUS RAMUS E O TRATADO VIA REGIA AD GEOMETRIAM",
       "canonical_author": "Francisco Hemerson Brito da Silva",
       "doi": "10.30938/bocehm.v7i20.3297",
       "first_body_sha256": "b9ed43de9cc5d6fe7461d1247c0eb9c7fba3e51e6ee6ee25607f888e1369f1ca",
-      "last_body_sha256": "b9ed43de9cc5d6fe7461d1247c0eb9c7fba3e51e6ee6ee25607f888e1369f1ca",
+      "last_body_sha256": "36b1dabcc72a12ef087a67f83e99492720d6067f029de8774ff896cc281e9c60",
       "created_at": 1586217600000,
-      "updated_at": 1794554532680,
+      "updated_at": 1794566328886,
       "retired_at": null
     },
     "art_004": {
@@ -60,9 +62,9 @@
       "canonical_author": "Paulo R. B. Anglada",
       "doi": null,
       "first_body_sha256": "6f54f40dc1584da7c315fcacbf23acfe447eedfdafbf7e0b453cca498f967075",
-      "last_body_sha256": "6f54f40dc1584da7c315fcacbf23acfe447eedfdafbf7e0b453cca498f967075",
+      "last_body_sha256": "cc0cd439c418f79b421745bf60e51e4b6bd4a807fd363232d873acc970d5249c",
       "created_at": 836179200000,
-      "updated_at": 1794554532680,
+      "updated_at": 1794566328886,
       "retired_at": null
     },
     "art_005": {
@@ -75,9 +77,9 @@
       "canonical_author": "Rafael Ramis Barceló",
       "doi": "10.3989/hs.2018.005",
       "first_body_sha256": "ba8b31ba95623b3464f2d8c05d097c08746a7ce29574e33c07c87713ebd69a38",
-      "last_body_sha256": "ba8b31ba95623b3464f2d8c05d097c08746a7ce29574e33c07c87713ebd69a38",
+      "last_body_sha256": "c207613ac4bfbf028bc8a9dbbb6dfecad827c258af4a669521532e300dd245ea",
       "created_at": 1530316800000,
-      "updated_at": 1794554532680,
+      "updated_at": 1794566328886,
       "retired_at": null
     },
     "art_006": {
@@ -90,9 +92,9 @@
       "canonical_author": "Djamila Abdullazade",
       "doi": "10.33864/2790-0037.2025.v6.i5.101-112",
       "first_body_sha256": "ad529553992ba910680308c9e3fd8cf774109d8c16de2f61cfd5cb288760d71e",
-      "last_body_sha256": "ad529553992ba910680308c9e3fd8cf774109d8c16de2f61cfd5cb288760d71e",
+      "last_body_sha256": "ff434a472a170e15fc49be8b21de24ebaad868e772fc206f5b84b84e60d1433b",
       "created_at": 1765756800000,
-      "updated_at": 1794554532680,
+      "updated_at": 1794566328886,
       "retired_at": null
     },
     "art_007": {
@@ -225,9 +227,9 @@
       "canonical_author": "Jorge Ramos do Ó",
       "doi": "10.1590/2236-3459/83768",
       "first_body_sha256": "59da53daf10e1e374fc4d1c35795c0d3ed612755c731efba88b4c322ef8573da",
-      "last_body_sha256": "59da53daf10e1e374fc4d1c35795c0d3ed612755c731efba88b4c322ef8573da",
+      "last_body_sha256": "994e402c92f105df55b10040c936d29582c4d5011238ee66f853f41b7e07eec4",
       "created_at": 1547164800000,
-      "updated_at": 1794554532680,
+      "updated_at": 1794566328886,
       "retired_at": null
     },
     "art_016": {
@@ -240,9 +242,9 @@
       "canonical_author": "Iracema Campos Cusati",
       "doi": "10.21723/riaee.v16i1.13354",
       "first_body_sha256": "fe7a8673838121e742ff4d191a91d2d9e7cb49055fd15b34f62109b800ad8b73",
-      "last_body_sha256": "fe7a8673838121e742ff4d191a91d2d9e7cb49055fd15b34f62109b800ad8b73",
+      "last_body_sha256": "4646d63e748ea041b2e19134170542feaf817893162ed357a9851321d05cc30b",
       "created_at": 1609545600000,
-      "updated_at": 1794554532680,
+      "updated_at": 1794566328886,
       "retired_at": null
     },
     "art_017": {
@@ -255,9 +257,9 @@
       "canonical_author": "Plínio Sousa",
       "doi": "10.5281/zenodo.21684711",
       "first_body_sha256": "bb4d3e0eaeb9a57ec5a69588e81e0924eef7308e377ce11d767169165be16ee8",
-      "last_body_sha256": "bb4d3e0eaeb9a57ec5a69588e81e0924eef7308e377ce11d767169165be16ee8",
+      "last_body_sha256": "783b7bd30e09bb0db0155e06adb6f885e2193eaf7d44e22c6c74f14098649024",
       "created_at": 1785283200000,
-      "updated_at": 1794554532680,
+      "updated_at": 1794566328886,
       "retired_at": null
     },
     "book_001": {
@@ -330,9 +332,9 @@
       "canonical_author": "Hugo de São Vítor",
       "doi": null,
       "first_body_sha256": "91a1cc00357acd590eafa2f6afe3e752d77d1a9d2f9d84aa0b5e55c5fadfdc4b",
-      "last_body_sha256": "91a1cc00357acd590eafa2f6afe3e752d77d1a9d2f9d84aa0b5e55c5fadfdc4b",
+      "last_body_sha256": "d6b28b43416debca6ec8fcf694b848059754e7225de09c734b93acb16008ff6a",
       "created_at": 1794153689619,
-      "updated_at": 1794554533108,
+      "updated_at": 1794566329141,
       "retired_at": null
     },
     "book_006": {
@@ -405,9 +407,9 @@
       "canonical_author": "Frank Pierrepont Graves",
       "doi": null,
       "first_body_sha256": "354a36cc74ce5e27ab0da8d5768451def5f40f71dbba581a3a71a19cc875cb90",
-      "last_body_sha256": "354a36cc74ce5e27ab0da8d5768451def5f40f71dbba581a3a71a19cc875cb90",
+      "last_body_sha256": "026aa87cbd4a5ed1b332a316a0e30bbb1594d3f7d78ff8e2008c02ff0f49e8e1",
       "created_at": 1794153689621,
-      "updated_at": 1794554533108,
+      "updated_at": 1794566329141,
       "retired_at": null
     },
     "book_011": {
@@ -540,9 +542,9 @@
       "canonical_author": "Wilbur Norman Pickering",
       "doi": null,
       "first_body_sha256": "9b52794a8fd90588b11ec41067b447d57f203df81833460909a88d7e8792ca7a",
-      "last_body_sha256": "9b52794a8fd90588b11ec41067b447d57f203df81833460909a88d7e8792ca7a",
+      "last_body_sha256": "a74dbb338f0934e6a9eb058cf376fc0a24fa9a8638d542cb617377003f678863",
       "created_at": 1091750400000,
-      "updated_at": 1794554533108,
+      "updated_at": 1794566329141,
       "retired_at": null
     },
     "book_020": {
