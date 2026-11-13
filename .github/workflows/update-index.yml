@@ -7,6 +7,7 @@ on:
       - 'index-articles.json'
       - 'index-books.json'
       - 'index-journals.json'
+      - 'data/catalog-registry.json'
   workflow_dispatch:
 
 permissions:
@@ -35,12 +36,14 @@ jobs:
           uv run pytest
 
       - name: Run update-index script
-        run: uv run openscimd index
+        run: |
+          uv run openscimd index
+          uv run openscimd validate-ids --base-ref HEAD
 
       - name: Check if index files changed
         id: check_changes
         run: |
-          git add index-articles.json index-books.json index-journals.json
+          git add data/catalog-registry.json index-articles.json index-books.json index-journals.json
           if git diff --cached --quiet; then
             echo "changed=false" >> $GITHUB_OUTPUT
             echo "ℹ️ Nenhum arquivo de índice foi alterado."

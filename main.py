@@ -95,6 +95,17 @@ def index():
     """Atualiza o JSON index de artigos e livros."""
     update_index(str(BASE_DIR))
 
+
+@app.command(name="validate-ids")
+def validate_ids(
+    base_ref: str = typer.Option("HEAD", "--base-ref", help="Referência Git base para comparar invariantes do ledger."),
+):
+    """Valida imutabilidade e consistência de data/catalog-registry.json com os índices."""
+    from scripts.indexer import validate_catalog_identities
+
+    if not validate_catalog_identities(str(BASE_DIR), git_ref=base_ref):
+        raise typer.Exit(code=1)
+
 @app.command()
 def validate(
     target: str = typer.Option("all", "--target", "-t", help="Alvo de validação: 'all', 'articles' ou 'books'."),
