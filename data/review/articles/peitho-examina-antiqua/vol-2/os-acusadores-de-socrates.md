@@ -32,7 +32,7 @@ keywords:
 >
 > Platão, *Ep.* VII, 325 b–c
 
-## Prólogo[^ne2]
+## Prólogo[^ne1]
 
 A história por vezes é trágica e torna-se ainda mais trágica quando em suas páginas ingressam homens vis e vis servis, conselheiros audaciosos, a mediocridade e testas de ferro manipulados, que causam o mal a pessoas retas e insignes criadores da vida espiritual. Um exemplo eloquente foram os três acusadores de Sócrates: Meleto, Ânito e Lícon, que representavam no julgamento os poetas, políticos e retores ultrajados. Mencioná-los-emos aqui no contexto das fontes disponíveis e da bibliografia especializada, embora os verdadeiros heróis permaneçam para nós não eles próprios, mas a vítima trágica de suas maquinações e indignidades[^1].
 
