@@ -178,5 +178,3 @@ Virtudes e limites entrelaçam-se de modo indissociável na figura socrática. K
 - **Rossetti, L.**, 2011b, “Un filosofo senza filosofia”, in: J. Barnes et al., *Zenone e l’infinito*, Sankt Augustin: Academia Verlag, pp. 171–183.
 - **Rossetti, L.**, 2012a, “Anassimene vs. Anassimandro”, in: A. Gostoli, R. Velardi (eds.), *Mythologein. Mito e forme di discorso nel mondo antico. Studi in onore di Giovanni Cerri*, Roma: Serra Editore.
 - **Rossetti, L.**, 2012b, “Quale filosofia con i bambini e i ragazzi?”, *Bollettino della Società Filosofica Italiana*.
-
----

@@ -105,5 +105,3 @@ Sócrates acatou o preceito do deus (*Ap.*, 19 a, 35 d) e, seguindo o vaticínio
 * STOKES, M. C. Socrates’ Mission. In: GOWER, B. S.; STOKES, M. C. (Eds.). *Socratic Questions: New Essays on the Philosophy of Socrates and Its Significance*. London; New York: Routledge, 1992. p. 26–81.
 * TAYLOR, A. E. *Socrates: the man and his thought*. New York: Doubleday, 1953.
 * WEST, T. G.; WEST, G. S. *Four Texts on Socrates: Plato’s Euthyphro, Apology, and Crito, and Aristophanes’ Clouds*. Ithaca; London: Cornell University Press, 1989.
-
----

@@ -108,5 +108,3 @@ Em remate: os dilemas suscitados pelo *Êutifron* na Polônia oitocentista ilust
 * PLATON. *Dzieła*. T. 1. Tradução de A. Bronikowski. Poznań: Księgarnia J. K. Żupańskiego, 1858. p. 247–272.
 * PLATON. *Protagoras, Eutyfron*. Tradução de S. Siedlecki. Kraków: Drukarnia Uniwersytetu Jagiellońskiego, 1881. p. 83–106.
 * TRALKA, J. *Osnowa, układ i cel Platońskiego Eutyfrona. Istota idei*. Stryj: C. K. Gimnazyum w Stryju, 1897.
-
----

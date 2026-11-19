@@ -27,14 +27,12 @@ keywords:
   - "Platão"
   - "piedade"
 ---
-
-> κατὰ δέ τινα τύχην αὖ τὸν ἑταῖρον ἡμῶν Σωκράτη τοῦτον  
-> δυναστεύοντές τινες εἰσάγουσιν εἰς δικαστήριον, ἀνοσιωτάτην  
-> αἰτίαν ἐπιβαλόντες καὶ πάντων ἥκιστα Σωκράτει προσήκουσαν·  
-> *Por algum desígnio do destino, certos homens influentes levaram ao tribunal o nosso companheiro Sócrates, imputando-lhe a acusação mais ímpia e de todas a que menos lhe cabia.*  
+ 
+> *Por algum desígnio do destino, certos homens influentes levaram ao tribunal o nosso companheiro Sócrates, imputando-lhe a acusação mais ímpia e de todas a que menos lhe cabia.*[^nt1]
+>
 > Platão, *Ep.* VII, 325 b–c
 
-## Prólogo
+## Prólogo[^ne2]
 
 A história por vezes é trágica e torna-se ainda mais trágica quando em suas páginas ingressam homens vis e vis servis, conselheiros audaciosos, a mediocridade e testas de ferro manipulados, que causam o mal a pessoas retas e insignes criadores da vida espiritual. Um exemplo eloquente foram os três acusadores de Sócrates: Meleto, Ânito e Lícon, que representavam no julgamento os poetas, políticos e retores ultrajados. Mencioná-los-emos aqui no contexto das fontes disponíveis e da bibliografia especializada, embora os verdadeiros heróis permaneçam para nós não eles próprios, mas a vítima trágica de suas maquinações e indignidades[^1].
 
@@ -122,7 +120,7 @@ No periódico jurídico grego *Eudikia* (publicado paralelamente à revista *Dik
 
 As normas modernas, argumenta o ilustre magistrado, «não são aplicáveis não apenas pelo fato de a pólis daqueles juízes já não subsistir, mas também por imperativos de índole formal e processual». As condicionantes que impedem o reexame recursal residem no fato de que «os vereditos da antiguidade prescindiam de motivação detalhada, daí inexistir fundamentação escrita da decisão judicial; e, além disso, as fontes remanescentes não possuem natureza jurídica stricto sensu, mas puramente histórica e literária...» (Papadakis 2009: 150).
 
-Pode-se concluir, sob o prisma estritamente técnico-jurídico, que o processo de Sócrates encontra-se definitivamente prescrito e precluso. Todavia, semelhante prescrição jamais alcançará a perene atualidade dos questionamentos e argumentos filosóficos suscitados na defesa socrática e nos diálogos imortais legados por Platão e Xenofonte[^ne1].
+Pode-se concluir, sob o prisma estritamente técnico-jurídico, que o processo de Sócrates encontra-se definitivamente prescrito e precluso. Todavia, semelhante prescrição jamais alcançará a perene atualidade dos questionamentos e argumentos filosóficos suscitados na defesa socrática e nos diálogos imortais legados por Platão e Xenofonte.
 
 ---
 
@@ -141,6 +139,7 @@ Pode-se concluir, sob o prisma estritamente técnico-jurídico, que o processo d
 [^6]: Compare-se com Aristóteles, *Rh.* 1400 b 19.
 
 [^7]: Diferentemente opina Beys (2010: 140–143), ao sustentar que Sócrates estava profundamente possuído pela dimensão metafísica da morte ante a iminência da execução, tendo o encarceramento intensificado nele essa convicção, tal como no-la expõe Platão a propósito da imortalidade da alma.
+
 [^8]: Veja-se Guthrie 1991: 203–204 e 165.
 
 [^9]: Beys (2001: 200–201) invoca a conduta de Kant, o qual, após a publicação de *A Religião nos Limites da Simples Razão*, acatou disciplinadamente a ordem do Ministro da Educação e dos Cultos da Prússia que lhe vedava publicar ou lecionar sobre matéria religiosa. No entender de Beys, «semelhante capitulação teria sido inconcebível para Sócrates; seria impensável abdicar de sua dignidade intrínseca e da firmeza moral que desafia qualquer coação, mesmo diante da ameaça de morte».
@@ -161,7 +160,13 @@ Pode-se concluir, sob o prisma estritamente técnico-jurídico, que o processo d
 
 ---
 
-### Notas Editoriais
+### Notas do Tradutor
+
+[^nt1]: **Em língua original**: *κατὰ δέ τινα τύχην αὖ τὸν ἑταῖρον ἡμῶν Σωκράτη τοῦτον δυναστεύοντές τινες εἰσάγουσιν εἰς δικαστήριον, ἀνοσιωτάτην αἰτίαν ἐπιβαλόντες καὶ πάντων ἥκιστα Σωκράτει προσήκουσαν·
+
+---
+
+### Notas do Editor
 
 [^ne1]: Traduzido do grego moderno para o polonês por Marian Wesoły; vertido para o português a partir do texto polonês pela equipe editorial.
 
@@ -181,5 +186,3 @@ Pode-se concluir, sob o prisma estritamente técnico-jurídico, que o processo d
 * PAPADAKIS, R.-E. Hē anatheōrēsē tēs dikēs tou Sōkratē [A revisão do processo de Sócrates]. *Eudikia*, n. 9, p. 147–151, 2009.
 * PAPANIKOLAOU, P. Sōkratēs kai Isokratēs (Platōnos apologia Sōkratous kai Isokratous peri antidoseōs). In: VOUDOURIS, K. (Ed.). *Hē philosophia tou Sōkratē*. Athēna: [s.n.], 1992.
 * WESOŁY, M. O platōnikos dialogos 'Gorgias': Dramatiko requiem tēs dikaiōsēs tou Sōkratē stē zōē kai ton thanato. *Philosophia kai Paideia*, v. 160, n. 54, p. 24–25, 2010.
-
----

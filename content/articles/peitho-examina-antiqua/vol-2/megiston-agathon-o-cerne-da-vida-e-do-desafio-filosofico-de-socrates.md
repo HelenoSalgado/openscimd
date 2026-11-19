@@ -31,17 +31,20 @@ keywords:
   - Sócrates
 ---
 
-> *ἀνδρῶν ἁπάντων Σωκράτης σοφώτατος*  
-> De todos os homens, Sócrates é o mais sábio.  
+> De todos os homens, Sócrates é o mais sábio.[^nt1]
+>
 > — Diógenes Laércio, II, 37
 
-> *ὁ δὲ ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ*  
-> A vida sem exame não é digna de ser vivida pelo homem.  
+
+> A vida sem exame não é digna de ser vivida pelo homem.[^nt2]
+>
 > — Platão, *Apologia de Sócrates*, 38 a
 
-> *Σωκράτης ἠρώτα ἀλλ’ οὐκ ἀπεκρίνετο· ὡμολόγει γὰρ οὐκ εἰδέναι*  
-> Sócrates interrogava, mas não dava respostas; confessava, com efeito, não saber.  
+
+> Sócrates interrogava, mas não dava respostas; confessava, com efeito, não saber.[^nt3]
+>
 > — Aristóteles, *Refutações Sofísticas*, 183 b 7–8
+
 
 Acerca de Sócrates, o filósofo que nada escreveu, sabemos simultaneamente demasiado e demasiado pouco. Demasiado em razão dos testemunhos múltiplos e irredutíveis legados por adeptos e adversários. Neles gravou-se a marca indelével de autores de horizontes tão contrastantes quanto Aristófanes, Platão, Xenofonte e Aristóteles, para não mencionar os socráticos menores e a tradição helenística ulterior. A documentação remanescente da Antiguidade é de tal ordem diversificada que se revela penoso forjar uma visão unívoca do Sócrates histórico. Por essa razão, os historiadores modernos ou põem em dúvida a possibilidade de reconstituir o pensamento socrático — chegando no limite extremo a negar-lhe originalidade doutrinária —, ou empreendem ensaios de reconstrução integrativa alicerçados prioritariamente nos diálogos da juventude de Platão.
 
@@ -125,9 +128,9 @@ A Sócrates repugnavam tais artifícios: ele exigia a conversação breve, pauta
 
 A mecânica do diálogo socrático assenta-se no tripé clássico:
 
-* **Ironia (*εἰρωνεία*)**: desdobra-se na simulação intencional de ignorância e na deferência fingida ao saber do interlocutor, compelindo o pretenso doutor a explicitar seus pressupostos sem defesas artificiais;
-* **Refutação (*ἔλεγχος*)**: exame rigoroso em que as premissas aceitas pelo debatedor são confrontadas entre si, revelando a inconsistência lógica e a nulidade de suas opiniões prévias;
-* **Aporia (*ἀπορία*)**: estado de paralisia fecunda em que a alma, expurgada do falso saber, reconhece sua ignorância originária e abre-se para a busca autêntica da sabedoria.
+  * **Ironia (*εἰρωνεία*)**: desdobra-se na simulação intencional de ignorância e na deferência fingida ao saber do interlocutor, compelindo o pretenso doutor a explicitar seus pressupostos sem defesas artificiais;
+  * **Refutação (*ἔλεγχος*)**: exame rigoroso em que as premissas aceitas pelo debatedor são confrontadas entre si, revelando a inconsistência lógica e a nulidade de suas opiniões prévias;
+  * **Aporia (*ἀπορία*)**: estado de paralisia fecunda em que a alma, expurgada do falso saber, reconhece sua ignorância originária e abre-se para a busca autêntica da sabedoria.
 
 Sócrates legou ao Ocidente o exemplo imorredouro de uma existência em que o pensar e o agir, o *logos* e o *ergon*, fundiram-se em perfeita harmonia. A sua morte solene no cárcere de Atenas consagrou para sempre a máxima de que a vida sem exame não é digna de ser vivida.
 
@@ -158,6 +161,15 @@ Sócrates legou ao Ocidente o exemplo imorredouro de uma existência em que o pe
 [^11]: O inquérito não versa sobre enunciados abstratos descolados da realidade, mas visa a transformar a alma de pessoas em carne e osso.
 
 ---
+### Notas do Tradutor
+
+[^nt1]: **Em língua original**: *ἀνδρῶν ἁπάντων Σωκράτης σοφώτατος*.
+
+[^nt2]: **Em língua original**: *ὁ δὲ ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ*.
+
+[^nt3]: **Em língua original**: *Σωκράτης ἠρώτα ἀλλ’ οὐκ ἀπεκρίνετο· ὡμολόγει γὰρ οὐκ εἰδέναι*.
+
+---
 
 ## Bibliografia
 
@@ -182,5 +194,3 @@ Sócrates legou ao Ocidente o exemplo imorredouro de uma existência em que o pe
 - **Vlastos, G.**, 1991, *Socrates: Ironist and Moral Philosopher*, Cambridge: Cambridge University Press.
 - **Wesoły, M.**, 2009, “Platon o retoryce i polityce”, in: *Przegląd Filozoficzny*, 18, pp. 245–268.
 - **Wesoły, M.**, 2011, “Demagogia a filozofia w dobie kryzysu demokracji ateńskiej”, in: *Kwartalnik Filozoficzny*, 39, pp. 5–32.
-
----

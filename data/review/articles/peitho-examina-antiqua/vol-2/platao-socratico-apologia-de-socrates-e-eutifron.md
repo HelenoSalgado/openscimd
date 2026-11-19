@@ -62,7 +62,9 @@ Essa declaração profética funciona igualmente como a legitimação platônica
 
 No ápice da *Apologia*, Sócrates sintetiza essa vocação com uma fórmula lapidar:
 
-$$\text{ὁ δὲ ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ}$$
+```texto
+ὁ δὲ ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ
+```
 
 > “a vida sem exame não é vida digna de ser vivida pelo homem” (*Ap.* 38 a).
 
@@ -70,9 +72,9 @@ Apenas mediante o escrutínio ininterrupto da conduta e do pensamento pode o hom
 
 O postulado socrático estabelece que quem possui uma virtude deve ser capaz de dar conta conceitual dela (*Chrm.* 159 a). O *Cármides* e o *Laques* revelam que a virtude é compreendida como uma modalidade de saber racional. Essa equação intelectualista harmoniza-se com a mentalidade grega: o termo *arētē* acha-se vinculado à raiz de *agathos* (“bom”) e ao superlativo *aristos*. A *arētē* de um instrumento, de um órgão ou de um homem designa a sua excelência funcional: a navalha possui sua *arētē* quando corta com precisão; o olho, quando enxerga com nitidez; o homem, quando desempenha com nobreza sua destinação. As teses socráticas — amiúde rotuladas de paradoxos —, tais como:
 
-* A virtude é saber (*Men.* 87 c – 89 a);
-* Ninguém erra voluntariamente (*Grg.* 488 a; *Men.* 77 d–e; *Ap.* 25 d – 26 a);
-* As virtudes constituem uma unidade orgânica (*Prt.* 329 c – 333 e; Görgemanns 1994: 125 ss.);
+  * A virtude é saber (*Men.* 87 c – 89 a);
+  * Ninguém erra voluntariamente (*Grg.* 488 a; *Men.* 77 d–e; *Ap.* 25 d – 26 a);
+  * As virtudes constituem uma unidade orgânica (*Prt.* 329 c – 333 e; Görgemanns 1994: 125 ss.);
 
 constituem decorrências rigorosas dessa cosmovisão unificada.
 
@@ -152,5 +154,3 @@ Schleiermacher, em sua clássica *Introdução* à tradução das obras de Plat�
 - **Vlastos, G.**, 1973, “The Individual as an Object of Love in Plato”, in: *Platonic Studies*, Princeton: Princeton University Press, pp. 1–34.
 - **Vlastos, G.**, 1991, *Socrates: Ironist and Moral Philosopher*, Cambridge: Cambridge University Press.
 - **Vlastos, G.**, 1992, “Socratic Irony”, in: H. H. Benson (ed.), *Essays on the Philosophy of Socrates*, New York: Oxford University Press.
-
----

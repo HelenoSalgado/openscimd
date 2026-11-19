@@ -53,7 +53,9 @@ A primeira resposta de Eutífron vincula-se imediatamente à justiça e decorre 
 
 Nessa passagem de suma relevância para a gênese da teoria das ideias, impõem-se duas observações fundamentais. A primeira concerne à distinção entre *ἰδέα* e *εἶδος*:
 
-$$\text{αὐτὸ τὸ ὅσιον ᾧ πάντα τὰ ὅσια ὅσιά ἐστιν}$$
+```text
+αὐτὸ τὸ ὅσιον ᾧ πάντα τὰ ὅσια ὅσιά ἐστιν
+```
 
 > “o santo em si mesmo, em virtude do qual todas as coisas santas são efetivamente santas” (*Euthphr.* 6 d 9 – e 7)[^10].
 
@@ -93,8 +95,8 @@ Sócrates sintetiza a refutação com precisão ontológica: “quando te pergun
 
 Para que a resposta à pergunta pela essência atinja a sua finalidade, duas condições estruturais impõem-se:
 
-* Na definição cumpre assentar um sujeito ontológico estável, um *eidos* que se pretende definir, cujo nome não pode figurar no *definiens*, sob pena de tautologia circular viciosa[^18];
-* A *ousia* deve ser delimitada com base em determinações intrínsecas que não demandem elucidações ulteriores, conferindo solidez à definição.
+  * Na definição cumpre assentar um sujeito ontológico estável, um *eidos* que se pretende definir, cujo nome não pode figurar no *definiens*, sob pena de tautologia circular viciosa[^18];
+  * A *ousia* deve ser delimitada com base em determinações intrínsecas que não demandem elucidações ulteriores, conferindo solidez à definição.
 
 A refutação demonstra que a tese de Eutífron peca por confundir a substância essencial (*ousia*) com o mero afeto passivo (*pathos*). O amor dos deuses é uma propriedade adventícia; a santidade é o fundamento objetivo ontológico.
 
@@ -217,5 +219,3 @@ A conclusão do *Político* é terminante: o governante sábio deve unir as dime
 - **Szlezák, T. A.**, 2010, “Freundschaft zwischen Gott und Mensch. Zur Bedeutung von theophilés bei Platon”, in: D. Koch, I. Männlein-Robert, N. Weidtmann (hrsg.), *Platon und das Göttliche*, Tübingen: Attempto Verlag, pp. 216–232.
 - **Wilamowitz-Moellendorff, U. von**, 1919, *Platon (Bd. 2)*, Berlin: Weidmann.
 - **Wolfsdorf, D.**, 2005, “Euthyphro 10a2–11b1: A Study in Platonic Metaphysics and Its Reception Since 1960”, *Apeiron*, 38, pp. 1–71.
-
----

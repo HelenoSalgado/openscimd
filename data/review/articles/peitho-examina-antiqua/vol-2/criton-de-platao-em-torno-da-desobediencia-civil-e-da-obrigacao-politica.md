@@ -173,5 +173,3 @@ Por outro lado, quando o poder constituído comanda a prática de iniquidades, a
 - **Vlastos, G.**, 1991, *Socrates: Ironist and Moral Philosopher*, Ithaca: Cornell University Press.
 - **Walker, A. D. M.**, 1998, “Political Obligation and the Argument from Gratitude”, *Philosophy & Public Affairs*, 17, pp. 191–211.
 - **Woozley, A. D.**, 1980, “Socrates on Disobeying the Law”, in: G. Vlastos (ed.), *The Philosophy of Socrates*, Notre Dame: University of Notre Dame Press, pp. 299–318.
-
----

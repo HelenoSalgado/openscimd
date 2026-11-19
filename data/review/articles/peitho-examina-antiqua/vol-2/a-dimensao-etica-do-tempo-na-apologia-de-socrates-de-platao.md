@@ -30,6 +30,7 @@ keywords:
 ---
 
 > É hora de partir: eu para morrer, vós para viver.
+>
 > — Platão, *Apologia de Sócrates*, 42 a 2–3
 
 ## 1. Introdução
@@ -54,8 +55,10 @@ Sob a perspectiva filosófica, a partição do texto pode ser descrita de maneir
 1. Exórdio (*Ap.* 17 a 1 – 18 a 6);
 2. Delineamento geral da defesa (*Ap.* 18 a 7 – 19 a 7);
 3. Defesa propriamente dita (*Ap.* 19 a 8 – 28 a 1):
-   - Defesa contra as calúnias antigas e caricaturas (*Ap.* 19 a 8 – 24 b 2);
-   - Defesa contra as acusações formais do libelo (*Ap.* 24 b 3 – 28 a 1);
+
+  - Defesa contra as calúnias antigas e caricaturas (*Ap.* 19 a 8 – 24 b 2);
+  - Defesa contra as acusações formais do libelo (*Ap.* 24 b 3 – 28 a 1);
+
 4. Excurso sobre a missão divina de Sócrates (*Ap.* 28 a 2 – 34 b 5);
 5. Epílogo da primeira oração (*Ap.* 34 b 6 – 35 d 8);
 6. Proposição de contrapena por Sócrates (*Ap.* 35 e 1 – 38 b 9);
@@ -102,9 +105,13 @@ Confrontado com a sentença condenatória, Sócrates recusa as lamentações hum
 
 O desfecho do discurso atinge sua máxima densidade filosófica no anúncio da hora suprema:
 
-$$\text{ἀλλὰ γὰρ ἤδη ὥρα ἀπιέναι, ἐμοὶ μὲν ἀποθανουμένῳ, ὑμῖν δὲ βιωσομένοις·}$$
+```text
+ἀλλὰ γὰρ ἤδη ὥρα ἀπιέναι, ἐμοὶ μὲν ἀποθανουμένῳ, ὑμῖν δὲ βιωσομένοις·
+```
 
-$$\text{ὁπότεροι δὲ ἡμῶν ἔρχονται ἐπὶ ἄμεινον πρᾶγμα, ἄδηλον παντὶ πλὴν ἢ τῷ θεῷ.}$$
+```text
+ὁπότεροι δὲ ἡμῶν ἔρχονται ἐπὶ ἄμεινον πρᾶγμα, ἄδηλον παντὶ πλὴν ἢ τῷ θεῷ.
+```
 
 > “Mas eis que já é hora de partir: eu para morrer, vós para viver. Qual de nós caminha para o melhor quinhão, permanece oculto a todos, exceto a Deus” (*Ap.* 42 a 2–5).
 
@@ -159,5 +166,3 @@ O vocábulo *hōra* não traduz apenas a divisão cronológica do quadrante sola
 - **Shero, L. R.**, 1927, “Plato’s Apology and Xenophon’s Apology”, *The Classical Weekly*, 20, pp. 107–111.
 - **Shero, L. R.**, 1941, “Apology 26 D-E and the Writings of Anaxagoras”, *The Classical Weekly*, 35, pp. 219–220.
 - **Vander Waerdt, P. A.**, 1994, “Socrates in the Clouds”, in: *The Socratic Movement*, Ithaca: Cornell University Press, pp. 48–86.
-
----

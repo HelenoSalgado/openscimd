@@ -228,4 +228,3 @@ Emerge aqui o enigma perene da justiça: é lícito responder à injustiça medi
 * VAN’T WONT, P. E. Solon’s Law on Stasis. Promoting Active Neutrality. *The Classical Quarterly*, v. 60, p. 289–301, 2010.
 * YOUNG, G. Socrates and Obedience. *Phronesis*, v. 19, p. 1–29, 1974.
 
----

@@ -159,5 +159,3 @@ Nem conformismo cego, nem rebeldia facciosa: a conduta de Sócrates consuma a ha
 - **Weiss, R.**, 1998, *Socrates Dissatisfied: An Analysis of Plato’s Crito*, Oxford: Oxford University Press.
 - **Young, G.**, 2006, “Socrates and Civil Disobedience”, in: *Socratic Studies*, Cambridge: Cambridge University Press, pp. 49–68.
 - **Zuckert, C.**, 2009, *Plato’s Philosophers: The Coherence of the Dialogues*, Chicago: University of Chicago Press.
-
----

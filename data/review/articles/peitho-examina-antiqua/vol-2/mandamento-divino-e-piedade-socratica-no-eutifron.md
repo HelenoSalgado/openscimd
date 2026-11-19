@@ -160,5 +160,3 @@ Mesmo aqueles dentre nós que não prestam culto ao panteão grego — ou que n�
 - **O’Sullivan, B.**, 2006, “The Euthyphro Argument (9d-11b)”, *The Southern Journal of Philosophy*, 44, pp. 657–675.
 - **Sharvy, R.**, 1972, “Euthyphro 9d-11b: Analysis and Definition in Plato and Others”, *Noûs*, 6, pp. 119–137.
 - **Sparshott, F.**, 1970, “Disputed Evaluations”, *American Philosophical Quarterly*, 7, pp. 131–142.
-
----
