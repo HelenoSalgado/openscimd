@@ -36,7 +36,7 @@ O presente artigo abordará o conceito de mal e sua relação com a ação moral
 
 Estobeu, em uma passagem de sua *Antologia*[^3], apresenta a definição do mal que, segundo relata, foi formulada por Zenão, o fundador da Escola, por volta do final do século IV a.C., em contraposição ao bem e aos indiferentes. Escreve Estobeu:
 
-> Zenão afirma que, dentre as coisas, algumas são bens, outras são males e outras são indiferentes. (…) Bens são a sabedoria, a prudência, a justiça e a coragem. Males são a insensatez, a intemperança, a injustiça e a covardia (…) Indiferentes, por sua vez, são a morte, a glória, a infâmia, a dor, o prazer, a riqueza – a pobreza, a doença – a saúde e coisas semelhantes[^4].
+> Zenão afirma que, dentre as coisas, algumas são bens, outras são males e outras são indiferentes. (...) Bens são a sabedoria, a prudência, a justiça e a coragem. Males são a insensatez, a intemperança, a injustiça e a covardia (...) Indiferentes, por sua vez, são a morte, a glória, a infâmia, a dor, o prazer, a riqueza – a pobreza, a doença – a saúde e coisas semelhantes[^4].
 
 Parece evidente que os filósofos da Estoa elegem aqui as quatro virtudes cardeais platônicas[^5], visto serem elas as que conduzem à *eudaimonia*, que é a finalidade (*telos*), o alvo supremo do sábio estoico, como examinaremos mais adiante neste trabalho. O bem, afinal, é uma virtude que, segundo sustentam, pode ser ensinada. Prova disso é o fato de indivíduos viciosos tornarem-se virtuosos[^6]. Os estoicos muito provavelmente seguem o ensinamento socrático de que a virtude pode ser ensinada[^7]. Deste modo, declaram explicitamente seu pertencimento à linhagem dos filósofos socráticos, por intermédio de Antístenes[^8], interlocutor de Sócrates[^9], uma vez que, segundo este último, ninguém é mau por livre vontade, mas apenas por ignorância[^10].
 
@@ -104,7 +104,7 @@ Em conclusão, compreendemos que tal premissa se impôs aos filósofos da Estoa 
 
 [^4]: O fragmento original não possui vírgula entre as palavras: riqueza pobreza, doença saúde. É por este motivo que inserimos um hífen para melhor compreensão. Estobeu utiliza esses conceitos sem qualquer sinal de pontuação, formando pares antitéticos completos.
 
-[^5]: Cf. Pl. *Rep.* 427c: Δῆλον δὴ ὅτι σοφή τ᾽ἐστὶ καὶ ἀνδρεία καὶ σώφρων καὶ δικαία; *Rep.* 536a: Καὶ πρὸς σωφροσύνην, ἦν δ᾽ ἐγώ, καὶ ἀνδρείαν καὶ μεγαλοπρέπειαν καὶ πάντα τὰ τῆς ἀρετῆς μέρη […]; *Phd.* 69c: κάθαρσίς τις τῶν τοιούτων πάντων καὶ ἡ σωφροσύνη καὶ ἡ δικαιοσύνη καὶ ἀνδρεία, καὶ αὐτὴ ἡ φρόνησις.
+[^5]: Cf. Pl. *Rep.* 427c: Δῆλον δὴ ὅτι σοφή τ᾽ἐστὶ καὶ ἀνδρεία καὶ σώφρων καὶ δικαία; *Rep.* 536a: Καὶ πρὸς σωφροσύνην, ἦν δ᾽ ἐγώ, καὶ ἀνδρείαν καὶ μεγαλοπρέπειαν καὶ πάντα τὰ τῆς ἀρετῆς μέρη [...]; *Phd.* 69c: κάθαρσίς τις τῶν τοιούτων πάντων καὶ ἡ σωφροσύνη καὶ ἡ δικαιοσύνη καὶ ἀνδρεία, καὶ αὐτὴ ἡ φρόνησις.
 
 [^6]: D.L. VII 91: διδακτήν τε εἶναι αὐτήν, λέγω δὲ τὴν ἀρετήν, καὶ Χρύσιππος ἐν τῷ πρώτῳ Περὶ τέλους φησὶ καὶ Κλεάνθης καὶ Ποσειδώνιος ἐν τοῖς Προτρεπτικοῖς καὶ Ἑκάτων· ὅτι δὲ διδακτή ἐστι, δῆλον ἐκ τοῦ γίνεσθαι ἀγαθοὺς ἐκ φαύλων.
 
@@ -114,7 +114,7 @@ Em conclusão, compreendemos que tal premissa se impôs aos filósofos da Estoa 
 
 [^9]: D.L. VI 10: (Ἀντισθένης) διδακτὴν ἀπεδείκνυε τὴν ἀρετήν.
 
-[^10]: Pl. *Prt.* 358c: οὐδὲ τὸ ἥττω εἶναι αὑτοῦ ἄλλο τι τοῦτ᾽ ἐστὶν ἢ ἀμαθία, οὐδὲ κρείττω ἑαυτοῦ ἄλλο τι ἢ σοφία […] ἐπί γε τὰ κακὰ οὐδεὶς ἑκὼν ἔρχεται; *Rep.* 589c: οὐ γὰρ ἑκὼν ἁμαρτάνει, palavras atribuídas a Sócrates por Platão; *Ti.* 86d–e: κακὸς μὲν γὰρ ἑκὼν οὐδείς; *Euthd.* 281e: ἄλλο τι ἤ τῶν μὲν ἄλλων οὐδὲν ὄν οὔτε ἀγαθὸν οὔτε κακόν, τουτοῖν δὲ δυοῖν ὄντων ἡ μὲν σοφία ἀγαθὸν, ἡ δἐ ἀμαθία κακόν.
+[^10]: Pl. *Prt.* 358c: οὐδὲ τὸ ἥττω εἶναι αὑτοῦ ἄλλο τι τοῦτ᾽ ἐστὶν ἢ ἀμαθία, οὐδὲ κρείττω ἑαυτοῦ ἄλλο τι ἢ σοφία [...] ἐπί γε τὰ κακὰ οὐδεὶς ἑκὼν ἔρχεται; *Rep.* 589c: οὐ γὰρ ἑκὼν ἁμαρτάνει, palavras atribuídas a Sócrates por Platão; *Ti.* 86d–e: κακὸς μὲν γὰρ ἑκὼν οὐδείς; *Euthd.* 281e: ἄλλο τι ἤ τῶν μὲν ἄλλων οὐδὲν ὄν οὔτε ἀγαθὸν οὔτε κακόν, τουτοῖν δὲ δυοῖν ὄντων ἡ μὲν σοφία ἀγαθὸν, ἡ δἐ ἀμαθία κακόν.
 
 [^11]: Em sua obra *Sokrates, sein Bild in Dichtung und Geschichte*, O. Gigon (1995: 219) sustenta que a tradição textual do legado socrático é notavelmente heterogênea. Em Platão, a tradição socrática acha-se bem preservada, em parte porque Platão fundou uma escola institucionalizada. Contudo, nenhum dos outros discípulos de Sócrates estabeleceu uma escola duradoura própria. Não obstante, dois dos interlocutores de Sócrates foram reivindicados como ancestrais pelas escolas helenísticas: os estoicos traçaram sua linhagem até Antístenes, e Epicuro até Aristipo. Embora haja evidências limitadas de uma relação direta entre Antístenes e os estoicos, deparamos frequentemente com formulações antistênicas incorporadas no cerne da filosofia estoica.
 
