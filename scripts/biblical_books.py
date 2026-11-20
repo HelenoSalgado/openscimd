@@ -3,13 +3,15 @@
 from __future__ import annotations
 
 import re
+from dataclasses import dataclass
+from typing import Literal
 
 # Cada tupla:
 # (abrev_canonica, extenso_canonico_padrao, variantes_extenso_validas, aliases_extenso_todos, aliases_abreviados)
 _BOOK_SPECS: list[tuple[str, str, list[str], list[str], list[str]]] = [
     # Pentateuco
     ("Gn", "Gênesis", ["Gênesis"], ["Gênesis", "Genesis"], ["Gn", "Gên", "Gen"]),
-    ("Ex", "Êxodo", ["Êxodo"], ["Êxodo", "Exodo"], ["Ex", "Êxo", "Exo"]),
+    ("Ex", "Êxodo", ["Êxodo"], ["Êxodo", "Exodo"], ["Ex", "Êx", "Êxo", "Exo"]),
     ("Lv", "Levítico", ["Levítico"], ["Levítico", "Levitico"], ["Lv", "Lev"]),
     ("Nm", "Números", ["Números"], ["Números", "Numeros"], ["Nm", "Núm", "Num"]),
     ("Dt", "Deuteronômio", ["Deuteronômio"], ["Deuteronômio", "Deuteronomio"], ["Dt", "Deut", "Deu"]),
@@ -50,14 +52,14 @@ _BOOK_SPECS: list[tuple[str, str, list[str], list[str], list[str]]] = [
         "1 Crônicas",
         ["1 Crônicas"],
         ["1 Crônicas", "1Crônicas", "1 Cronicas", "1Cronicas", "I Crônicas", "I Cronicas", "1º Crônicas", "1ª Crônicas"],
-        ["1Cr", "1 Cr", "I Cr", "ICr", "1Crôn", "1 Crôn", "1Cron", "1 Cron", "I Cron"],
+        ["1Cr", "1 Cr", "I Cr", "ICr", "1Crôn", "1 Crôn", "1Cron", "1 Cron", "I Cron", "1Cro", "1 Cro", "I Cro", "1Crô", "1 Crô"],
     ),
     (
         "2Cr",
         "2 Crônicas",
         ["2 Crônicas"],
         ["2 Crônicas", "2Crônicas", "2 Cronicas", "2Cronicas", "II Crônicas", "II Cronicas", "2º Crônicas", "2ª Crônicas"],
-        ["2Cr", "2 Cr", "II Cr", "IICr", "2Crôn", "2 Crôn", "2Cron", "2 Cron", "II Cron"],
+        ["2Cr", "2 Cr", "II Cr", "IICr", "2Crôn", "2 Crôn", "2Cron", "2 Cron", "II Cron", "2Cro", "2 Cro", "II Cro", "2Crô", "2 Crô"],
     ),
     ("Ed", "Esdras", ["Esdras"], ["Esdras"], ["Ed", "Esd"]),
     ("Ne", "Neemias", ["Neemias"], ["Neemias"], ["Ne", "Neem", "Nee"]),
@@ -266,6 +268,37 @@ _FULL_AND_CI_SORTED = sorted(set(_CASE_INSENSITIVE_PATTERNS), key=_pattern_sort_
 _CS_SORTED = sorted(set(_CASE_SENSITIVE_PATTERNS), key=_pattern_sort_key, reverse=True)
 
 
+_VERSE_PART = r"\d+(?-i:[a-d]{1,2})?"
+
+_EXTRA_VERSES_RE = re.compile(
+    r"(?:[ \t]*,[ \t]*\d+(?!\d)(?-i:[a-d]{1,2})?(?![ \t]*[:.])\b"
+    r"(?:[ \t]*[-–][ \t]*\d+(?!\d)(?-i:[a-d]{1,2})?(?![ \t]*[:.])\b)?)*"
+)
+
+_CHAIN_CONTINUATION_RE = re.compile(
+    rf"(?:;[ \t]*|,[ \t]*|[ \t]+(?:e|ou)[ \t]+)"
+    rf"(?P<ref>"
+    rf"(?P<chap>\d+)[ \t]*(?P<sep>[:.])[ \t]*(?P<verse>{_VERSE_PART})"
+    rf"(?:[ \t]*(?P<dash>[-–])[ \t]*(?:(?P<chap_end>\d+)[ \t]*(?P<sep_end>[:.])[ \t]*)?(?P<verse_end>{_VERSE_PART}))?"
+    rf")\b"
+)
+
+
+@dataclass(frozen=True)
+class BiblicalRefMatch:
+    """Representa uma ocorrência bíblica (explícita, narrativa ou encadeada) localizada em prosa."""
+
+    start: int
+    end: int
+    raw: str
+    expected: str
+    kind: Literal["explicit", "narrative", "chained"]
+
+    @property
+    def is_canonical(self) -> bool:
+        return self.raw == self.expected
+
+
 def build_biblical_book_pattern() -> str:
     """Retorna padrão regex combinando nomes longos e siglas (curtas apenas Xx ou XX)."""
     ci_alt = "|".join(_FULL_AND_CI_SORTED)
@@ -274,22 +307,128 @@ def build_biblical_book_pattern() -> str:
 
 
 def build_biblical_reference_regex() -> re.Pattern[str]:
-    """Compila regex completa para referências bíblicas (livro + capítulo + separador + versículo/intervalo)."""
+    """Compila regex para referências bíblicas explícitas (com subversículo e intervalo intercapítulo)."""
     book_pat = build_biblical_book_pattern()
     return re.compile(
-        rf"(?<![\w])(?P<book_raw>(?P<book>{book_pat})\.?)\s+"
-        rf"(?P<chap>\d+)\s*(?P<sep>[:.,])\s*(?P<verse>\d+)"
-        rf"(?:\s*(?P<dash>[-–])\s*(?P<verse_end>\d+))?\b"
+        rf"(?<![\w])(?P<book_raw>(?P<book>{book_pat})\.?)(?:[ \t]+|(?<=\.)[ \t]*)"
+        rf"(?P<chap>\d+)[ \t]*(?P<sep>[:.,])[ \t]*(?P<verse>{_VERSE_PART})"
+        rf"(?:[ \t]*(?P<dash>[-–])[ \t]*(?:(?P<chap_end>\d+)[ \t]*(?P<sep_end>[:.])[ \t]*)?(?P<verse_end>{_VERSE_PART}))?\b"
     )
 
 
 def build_narrative_biblical_regex() -> re.Pattern[str]:
     """Compila regex para formas narrativas livres (ex.: 'Segunda Carta aos Coríntios 2:1')."""
     return re.compile(
-        r"(?i:(?:(?:Primeir[oa]|Segund[oa]|Terceir[oa])\s+)?(?:Carta|Epístola|Livro|Evangelho)\s+"
-        r"(?:aos?|dos?|das?|de|segundo)\s+[A-ZÀ-Ÿa-zà-ÿ]+(?:\s+(?:de|dos?|das?|e)\s+[A-ZÀ-Ÿa-zà-ÿ]+)*)"
-        r"\s+(?P<chap>\d+)\s*(?P<sep>[:.,])\s*(?P<verse>\d+)(?:\s*(?P<dash>[-–])\s*(?P<verse_end>\d+))?\b"
+        r"(?i:(?:(?:Primeir[oa]|Segund[oa]|Terceir[oa])[ \t]+)?(?:Carta|Epístola|Livro|Evangelho)[ \t]+"
+        r"(?:aos?|dos?|das?|de|segundo)[ \t]+[A-ZÀ-Ÿa-zà-ÿ]+(?:[ \t]+(?:de|dos?|das?|e)[ \t]+[A-ZÀ-Ÿa-zà-ÿ]+)*)"
+        rf"[ \t]+(?P<chap>\d+)[ \t]*(?P<sep>[:.,])[ \t]*(?P<verse>{_VERSE_PART})"
+        rf"(?:[ \t]*(?P<dash>[-–])[ \t]*(?:(?P<chap_end>\d+)[ \t]*(?P<sep_end>[:.])[ \t]*)?(?P<verse_end>{_VERSE_PART}))?\b"
     )
+
+
+def _format_ref_numbers(match: re.Match[str], target_sep: str, normalize_ranges: bool) -> str:
+    chap = match.group("chap")
+    verse = match.group("verse")
+    dash = match.group("dash")
+    chap_end = match.group("chap_end")
+    verse_end = match.group("verse_end")
+    if dash and verse_end:
+        out_dash = "–" if normalize_ranges else dash
+        if chap_end:
+            return f"{chap}{target_sep}{verse}{out_dash}{chap_end}{target_sep}{verse_end}"
+        return f"{chap}{target_sep}{verse}{out_dash}{verse_end}"
+    return f"{chap}{target_sep}{verse}"
+
+
+def _overlaps_any(start: int, end: int, spans: list[tuple[int, int]]) -> bool:
+    return any(not (end <= s or start >= e) for s, e in spans)
+
+
+def iter_biblical_reference_matches(
+    masked_text: str,
+    *,
+    target_sep: str = ".",
+    canonical_abbrev: bool = True,
+    force_abbrev: bool = False,
+    normalize_ranges: bool = True,
+) -> list[BiblicalRefMatch]:
+    """Localiza referências bíblicas explícitas, narrativas e encadeadas com livro implícito."""
+    matches: list[BiblicalRefMatch] = []
+    anchor_spans: list[tuple[int, int]] = []
+    anchors: list[re.Match[str]] = []
+
+    narrative_re = build_narrative_biblical_regex()
+    for m in narrative_re.finditer(masked_text):
+        span = (m.start(), m.end())
+        anchor_spans.append(span)
+        anchors.append(m)
+        prefix = m.group(0)[: m.start("chap") - m.start()]
+        numbers = _format_ref_numbers(m, target_sep=target_sep, normalize_ranges=normalize_ranges)
+        matches.append(
+            BiblicalRefMatch(
+                start=m.start(),
+                end=m.end(),
+                raw=m.group(0),
+                expected=f"{prefix}{numbers}",
+                kind="narrative",
+            )
+        )
+
+    explicit_re = build_biblical_reference_regex()
+    for m in explicit_re.finditer(masked_text):
+        if _overlaps_any(m.start(), m.end(), anchor_spans):
+            continue
+        span = (m.start(), m.end())
+        anchor_spans.append(span)
+        anchors.append(m)
+        raw_book = m.group("book_raw")
+        out_book = (
+            normalize_biblical_book_token(raw_book, force_abbrev=force_abbrev)
+            if canonical_abbrev
+            else raw_book
+        )
+        numbers = _format_ref_numbers(m, target_sep=target_sep, normalize_ranges=normalize_ranges)
+        matches.append(
+            BiblicalRefMatch(
+                start=m.start(),
+                end=m.end(),
+                raw=m.group(0),
+                expected=f"{out_book} {numbers}",
+                kind="explicit",
+            )
+        )
+
+    emitted_spans = list(anchor_spans)
+    for anchor in sorted(anchors, key=lambda item: item.start()):
+        pos = anchor.end()
+        while True:
+            extra_match = _EXTRA_VERSES_RE.match(masked_text, pos)
+            if extra_match:
+                pos = extra_match.end()
+            chain_match = _CHAIN_CONTINUATION_RE.match(masked_text, pos)
+            if not chain_match:
+                break
+            ref_start, ref_end = chain_match.start("ref"), chain_match.end("ref")
+            if _overlaps_any(ref_start, ref_end, emitted_spans):
+                break
+            emitted_spans.append((ref_start, ref_end))
+            matches.append(
+                BiblicalRefMatch(
+                    start=ref_start,
+                    end=ref_end,
+                    raw=chain_match.group("ref"),
+                    expected=_format_ref_numbers(
+                        chain_match,
+                        target_sep=target_sep,
+                        normalize_ranges=normalize_ranges,
+                    ),
+                    kind="chained",
+                )
+            )
+            pos = chain_match.end()
+
+    matches.sort(key=lambda item: item.start)
+    return matches
 
 
 def resolve_canonical_book(matched_book: str) -> str:

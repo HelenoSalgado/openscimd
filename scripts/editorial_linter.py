@@ -9,12 +9,7 @@ from typing import Literal
 
 from bs4 import BeautifulSoup
 
-from scripts.biblical_books import (
-    build_biblical_reference_regex,
-    build_narrative_biblical_regex,
-    is_canonical_biblical_book,
-    normalize_biblical_book_token,
-)
+from scripts.biblical_books import iter_biblical_reference_matches
 from scripts.utils import parse_markdown_file
 
 Severity = Literal["error", "warning"]
@@ -83,9 +78,6 @@ _ABBREV_BEFORE_DOT_RE = re.compile(
     r"e\.g|i\.e|pp|p|vv|v|vol|cap|art|n|s\.v|ed|trad|org|Jr|Sr|Dr|St|S|N"
     r")\.$"
 )
-
-_BIBLICAL_REF_RE = build_biblical_reference_regex()
-_BIBLICAL_NARRATIVE_RE = build_narrative_biblical_regex()
 
 _FOOTNOTE_DEF_RE = re.compile(r"^\[\^([a-zA-Z0-9_-]+)\]:")
 _FOOTNOTE_ANY_RE = re.compile(r"\[\^([a-zA-Z0-9_-]+)\]")
@@ -501,45 +493,18 @@ def _check_typography_and_ocr(masked_lines: list[str], masked_body: str) -> list
                 )
             )
 
-        narrative_spans: list[tuple[int, int]] = []
-        for m_nar in _BIBLICAL_NARRATIVE_RE.finditer(line):
-            narrative_spans.append((m_nar.start(), m_nar.end()))
-            if m_nar.group("sep") in (":", ","):
+        for ref_match in iter_biblical_reference_matches(line):
+            if not ref_match.is_canonical:
                 issues.append(
                     EditorialIssue(
                         code="ED014",
                         severity="error",
                         line=line_no,
                         message=(
-                            f"Referência bíblica '{m_nar.group(0)}' usa '{m_nar.group('sep')}' "
-                            "em vez de ponto canônico (ex.: Segunda Carta aos Coríntios 2.1)."
+                            f"Referência bíblica '{ref_match.raw}' fora do padrão canônico "
+                            f"(use '{ref_match.expected}')."
                         ),
-                        excerpt=m_nar.group(0),
-                    )
-                )
-
-        for m_bib in _BIBLICAL_REF_RE.finditer(line):
-            if any(not (m_bib.end() <= s or m_bib.start() >= e) for s, e in narrative_spans):
-                continue
-            raw_book = m_bib.group("book_raw")
-            sep = m_bib.group("sep")
-            book_ok = is_canonical_biblical_book(raw_book)
-            sep_ok = sep == "."
-            if not book_ok or not sep_ok:
-                expected_book = normalize_biblical_book_token(raw_book, force_abbrev=False)
-                expected_ref = f"{expected_book} {m_bib.group('chap')}.{m_bib.group('verse')}"
-                if m_bib.group("dash") and m_bib.group("verse_end"):
-                    expected_ref += f"–{m_bib.group('verse_end')}"
-                issues.append(
-                    EditorialIssue(
-                        code="ED014",
-                        severity="error",
-                        line=line_no,
-                        message=(
-                            f"Referência bíblica '{m_bib.group(0)}' fora do padrão canônico "
-                            f"(use '{expected_ref}')."
-                        ),
-                        excerpt=m_bib.group(0),
+                        excerpt=ref_match.raw,
                     )
                 )
 

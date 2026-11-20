@@ -30,9 +30,9 @@
       "canonical_author": "Murilo Dumps",
       "doi": "10.5281/zenodo.21762396",
       "first_body_sha256": "863f09b516902b8c4118031c179d5bc065e508ed472dbf992d2e6ec774b97344",
-      "last_body_sha256": "74965f9161bc337ab87c603095dd628ab9bb0b11f5dff10626454d16899f0d09",
+      "last_body_sha256": "4a94a85492e2c8c24273c6a92f8cb2d95da135a3de52a21ede85ad29b1e36cd4",
       "created_at": 1785974400000,
-      "updated_at": 1795202052220,
+      "updated_at": 1795204190075,
       "retired_at": null
     },
     "art_003": {
@@ -257,9 +257,9 @@
       "canonical_author": "Plínio Sousa",
       "doi": "10.5281/zenodo.21684711",
       "first_body_sha256": "bb4d3e0eaeb9a57ec5a69588e81e0924eef7308e377ce11d767169165be16ee8",
-      "last_body_sha256": "baff58b01a8970581a301968b4f371f585b1321b007db3022efae3640f63d666",
+      "last_body_sha256": "c1c44f09f07efed5499ceacb5ecb2fa079e19cf99687249f367dd3876a4829a5",
       "created_at": 1785283200000,
-      "updated_at": 1795202052220,
+      "updated_at": 1795204190075,
       "retired_at": null
     },
     "art_018": {
@@ -482,9 +482,9 @@
       "canonical_author": "Plínio Sousa",
       "doi": "10.5281/zenodo.21452142",
       "first_body_sha256": "24b0caf598c1c72d30851ee14ff842e165850cf69252285b1be2bfdd79c57ae1",
-      "last_body_sha256": "24b0caf598c1c72d30851ee14ff842e165850cf69252285b1be2bfdd79c57ae1",
+      "last_body_sha256": "ec670a23e9a3489fe637de86255e905f2b6dbf947c1a301e82705e3c9395dd5c",
       "created_at": 1795132800000,
-      "updated_at": 1795180517606,
+      "updated_at": 1795204190075,
       "retired_at": null
     },
     "art_033": {
@@ -512,9 +512,9 @@
       "canonical_author": "Plínio Sousa",
       "doi": "10.5281/zenodo.22651317",
       "first_body_sha256": "113590c5c0783e0586bb3d26d7374112528d6b21d2028f014e84f69cd81553b8",
-      "last_body_sha256": "113590c5c0783e0586bb3d26d7374112528d6b21d2028f014e84f69cd81553b8",
+      "last_body_sha256": "b8a901fe7920569e469c58e32ad0924fa4b18929e5a40478c168f9bf97aefa8c",
       "created_at": 1795132800000,
-      "updated_at": 1795180517606,
+      "updated_at": 1795204190075,
       "retired_at": null
     },
     "art_035": {
@@ -812,9 +812,9 @@
       "canonical_author": "Wilbur Norman Pickering",
       "doi": null,
       "first_body_sha256": "9b52794a8fd90588b11ec41067b447d57f203df81833460909a88d7e8792ca7a",
-      "last_body_sha256": "719a2d4a2a85cf7ddb58ffd5ee54c09737614927b02219dbb3cf8c6adfdf95d4",
+      "last_body_sha256": "ccf8dbe2c49cdb2ac85536312b4c5c01bb000738921a86353c36f8fbe2071f5f",
       "created_at": 1091750400000,
-      "updated_at": 1795202052620,
+      "updated_at": 1795204190437,
       "retired_at": null
     },
     "book_020": {

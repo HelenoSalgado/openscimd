@@ -4,11 +4,7 @@ import os
 import re
 from pathlib import Path
 
-from scripts.biblical_books import (
-    build_biblical_reference_regex,
-    build_narrative_biblical_regex,
-    normalize_biblical_book_token,
-)
+from scripts.biblical_books import iter_biblical_reference_matches
 from scripts.spellchecker.masker import MarkdownMasker
 
 
@@ -31,10 +27,6 @@ def converter_versiculos(input_path: str | Path, output_path: str | Path) -> Non
                 f_out.write(line)
 
     print(f"Conversão de versículos concluída. Escrito em: {output_path}")
-
-
-def _overlaps_any(start: int, end: int, spans: list[tuple[int, int]]) -> bool:
-    return any(not (end <= s or start >= e) for s, e in spans)
 
 
 def normalize_biblical_refs(
@@ -77,49 +69,15 @@ def normalize_biblical_refs(
             if new_str != m.group(0):
                 replacements.append((m.start(), m.end(), new_str))
     else:
-        narrative_spans: list[tuple[int, int]] = []
-        narrative_re = build_narrative_biblical_regex()
-        for m in narrative_re.finditer(masked):
-            narrative_spans.append((m.start(), m.end()))
-            prefix_text = m.group(0)[: m.start("chap") - m.start()]
-            chap = m.group("chap")
-            verse = m.group("verse")
-            dash = m.group("dash")
-            verse_end = m.group("verse_end")
-
-            range_part = ""
-            if dash and verse_end:
-                out_dash = "–" if normalize_ranges else dash
-                range_part = f"{out_dash}{verse_end}"
-
-            new_str = f"{prefix_text}{chap}{target_sep}{verse}{range_part}"
-            if new_str != m.group(0):
-                replacements.append((m.start(), m.end(), new_str))
-
-        ref_regex = build_biblical_reference_regex()
-        for m in ref_regex.finditer(masked):
-            if _overlaps_any(m.start(), m.end(), narrative_spans):
-                continue
-
-            raw_book = m.group("book_raw")
-            chap = m.group("chap")
-            verse = m.group("verse")
-            dash = m.group("dash")
-            verse_end = m.group("verse_end")
-
-            out_book = (
-                normalize_biblical_book_token(raw_book, force_abbrev=force_abbrev)
-                if canonical_abbrev
-                else raw_book
-            )
-            range_part = ""
-            if dash and verse_end:
-                out_dash = "–" if normalize_ranges else dash
-                range_part = f"{out_dash}{verse_end}"
-
-            new_str = f"{out_book} {chap}{target_sep}{verse}{range_part}"
-            if new_str != m.group(0):
-                replacements.append((m.start(), m.end(), new_str))
+        for ref_match in iter_biblical_reference_matches(
+            masked,
+            target_sep=target_sep,
+            canonical_abbrev=canonical_abbrev,
+            force_abbrev=force_abbrev,
+            normalize_ranges=normalize_ranges,
+        ):
+            if not ref_match.is_canonical:
+                replacements.append((ref_match.start, ref_match.end, ref_match.expected))
 
     if replacements:
         updated = content

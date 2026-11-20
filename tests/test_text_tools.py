@@ -57,6 +57,34 @@ def test_normalize_biblical_refs_force_abbrev_option(tmp_path: Path) -> None:
     assert "Ex 20.1–17" in result
 
 
+def test_normalize_biblical_refs_chained_subverses_aliases_and_safe_false_positives(tmp_path: Path) -> None:
+    md = tmp_path / "chained.md"
+    md.write_text(
+        "Veja (Êx 34:7), 1Cro. 16:15 e Mc.10:34.\n"
+        "Cadeias: Salmos 81.3 e 92:4; Colossenses 1.13 ou 1:15.\n"
+        "Lista longa: (cf. Romanos 1.11; 7:14; 15:27; 1 Coríntios 2.13–15; 10:3–4; 12:1).\n"
+        "Com versículos soltos: Romanos 8.29, 30; 9:10–24 e Mt 10.3, 22:13, 27:23 e 1Tm 3.16, 4:1,3.\n"
+        "Subversículos e intercapítulos: Salmos 19:13b, Atos 24:6b-8a, Mc 2.18–3:6, 2 Timóteo 3.2 – 4.\n"
+        "Não alterar: proporção de 2:1, 100:1, 1,33:1, Works, 2:31, Books, 2006, 7:540, "
+        "Salmos 139.1–4, 23, 1 João 5.7–8, 99%, Mateus 1.7–8, 10, Malaquias (3:1), às 14:30.\n",
+        encoding="utf-8",
+    )
+
+    count = normalize_biblical_refs(md)
+    result = md.read_text(encoding="utf-8")
+
+    assert count == 17
+    assert "Veja (Ex 34.7), 1Cr 16.15 e Mc 10.34." in result
+    assert "Cadeias: Salmos 81.3 e 92.4; Colossenses 1.13 ou 1.15." in result
+    assert "(cf. Romanos 1.11; 7.14; 15.27; 1 Coríntios 2.13–15; 10.3–4; 12.1)." in result
+    assert "Romanos 8.29, 30; 9.10–24 e Mt 10.3, 22.13, 27.23 e 1Tm 3.16, 4.1,3." in result
+    assert "Salmos 19.13b, Atos 24.6b–8a, Mc 2.18–3.6, 2 Timóteo 3.2–4." in result
+    assert (
+        "Não alterar: proporção de 2:1, 100:1, 1,33:1, Works, 2:31, Books, 2006, 7:540, "
+        "Salmos 139.1–4, 23, 1 João 5.7–8, 99%, Mateus 1.7–8, 10, Malaquias (3:1), às 14:30."
+    ) in result
+
+
 def test_converter_versiculos(tmp_path: Path) -> None:
     inp = tmp_path / "in.md"
     out = tmp_path / "out.md"
