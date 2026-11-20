@@ -4,6 +4,10 @@ Este documento descreve o protocolo obrigatório para o Agente de IA ou Editor H
 
 ## O Problema das Alucinações
 
+> [!IMPORTANT]
+> **Limites da Automação**:
+> Scripts e utilitários automatizados são essenciais para a conversão, extração e estruturação inicial. Contudo, **revisões puramente por scripts fatalmente não resolvem o texto**. A revisão textual fidedigna (eliminação de quebras indevidas de linha, restauração de lacunas e precisão semântica) exige conferência atenta e intervenção manual rigorosa, parágrafo por parágrafo.
+
 Os LLMs (Modelos de Linguagem Grandes) tendem a "amaciar", parafrasear e, frequentemente, alucinar textos. Em obras clássicas, teológicas e filosóficas, isso destrói a integridade da obra original. Para mitigar isso, utilizamos uma técnica de **Back-Translation** ancorada num motor matemático determinístico (MarianMT local, CPU-only).
 
 ---

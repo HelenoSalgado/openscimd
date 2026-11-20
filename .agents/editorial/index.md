@@ -46,6 +46,10 @@ Quando o material de origem exigir não somente edição, mas tradução para o 
 
 ## 2. Primazia e Incorrupção do Texto de Origem
 
+> [!IMPORTANT]
+> **Papel dos Scripts vs. Revisão Textual Genuína**:
+> Scripts e pipelines de conversão (incluindo `salopdoc`) são ferramentas valiosas para tarefas de **conversão, extração e organização de layout**, mas **revisões por scripts fatalmente não resolvem a integridade do texto**. A verdadeira revisão editorial — eliminação de lacunas, ajuste de quebras artificiais de linhas, concordância sintática, des-hifenização de quebras de página e preservação do fluxo da prosa — requer leitura atenta e trabalho de conferência direta contra o original. Nunca tente substituir a revisão analítica por execuções cegas de scripts.
+
 - **Fidelidade Absoluta**: O texto original do documento/PDF é a autoridade máxima. Nenhuma palavra, doutrina, citação histórica ou ênfase pode ser alterada, censurada, resumida ou suprimida.
 - **Proibição de Soluções Parciais e Gambiarras**: Toda correção deve obedecer à lógica universal do idioma e aos princípios tipográficos semânticos, sem soluções estáticas frágeis ("hardcodes").
 - **Respeito à Ortografia Original**: Mantenha termos latinos, gregos, hebraicos e expressões confessionais reformadas com sua grafia e estilização exatas.
