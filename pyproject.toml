@@ -49,5 +49,65 @@ explicit = true
 
 [dependency-groups]
 dev = [
+    "mypy>=2.4.1",
     "pytest>=9.1.1",
+    "ruff>=0.17.6",
+    "types-pyyaml>=6.0.12.20261113",
+    "types-requests>=2.33.0.20261030",
 ]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+extend-exclude = [
+    # Módulos de tradução congelados (redesign futuro)
+    "scripts/alignment_pipeline.py",
+    "scripts/fidelity_checker.py",
+    "scripts/bible_aligner.py",
+    # Módulos e testes legados fora do escopo desta refatoração (ratchet gradual)
+    "scripts/assets.py",
+    "scripts/covers.py",
+    "scripts/html2md.py",
+    "scripts/indexer.py",
+    "scripts/kindle_validator.py",
+    "scripts/md2epub.py",
+    "scripts/md2pdf.py",
+    "scripts/md2print.py",
+    "scripts/rag.py",
+    "scripts/salopdoc_adapter.py",
+    "scripts/spellchecker",
+    "tests/test_covers.py",
+    "tests/test_indexer.py",
+    "tests/test_kindle_validator.py",
+    "tests/test_md2epub.py",
+    "tests/test_md2print.py",
+    "tests/test_rag.py",
+    "tests/test_salopdoc_adapter.py",
+    "tests/test_spellchecker.py",
+]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
+ignore = ["E501"]
+
+[tool.mypy]
+python_version = "3.11"
+warn_unused_ignores = true
+warn_redundant_casts = true
+ignore_missing_imports = true
+
+[[tool.mypy.overrides]]
+module = [
+    "scripts.editorial_linter",
+    "scripts.workflow",
+    "scripts.validator",
+    "scripts.categories",
+    "scripts.enricher",
+    "scripts.text_tools",
+    "scripts.biblical_books",
+    "scripts.html_cleaner",
+    "scripts.book_assembler",
+    "scripts.utils",
+    "scripts.identity_registry",
+]
+disallow_untyped_defs = true

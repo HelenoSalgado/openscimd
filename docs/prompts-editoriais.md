@@ -1,15 +1,15 @@
 # Catálogo de Prompts Editoriais Recomendados para IA
 
-Este documento reúne os **modelos de prompts oficiais e recomendados** para interagir com Agentes de IA no ecossistema OpenSciMD. Cada prompt foi elaborado para eliminar ambiguidades, reforçar a imutabilidade das matrizes em `data/draft/` e garantir fidelidade estrita às diretrizes editoriais do projeto ([`.agents/editorial/index.md`](.agents/editorial/index.md)).
+Este documento reúne os **modelos de prompts oficiais e recomendados** para trabalhar com Agentes de IA no ecossistema OpenSciMD, alinhados ao contrato operacional em [`AGENTS.md`](../AGENTS.md) e aos playbooks modulares em `.agents/`.
 
 ---
 
 ## 🧭 Regras Gerais para Todos os Comandos de IA
 
-1. **Imutabilidade de `data/draft/`**: Qualquer instrução de revisão lê o rascunho de `data/draft/` e gera sua saída ativa obrigatoriamente em `data/review/<nome>.md`.
-2. **Incorrupção da Prosa**: A IA nunca deve reescrever, parafrasear, resumir ou modernizar o vocabulário de traduções humanas fornecidas. A atuação é estritamente estrutural e tipográfica.
-3. **Cabeçalhos Semânticos**: O título principal H1 vai no Frontmatter YAML (`title`). Cabeçalhos no corpo usam `##` e `###`. Itálicos nos títulos são permitidos (`## *Título*`); negritos são proibidos (`## **Título**`).
-4. **Notas de Rodapé Integrais**: Todas as notas `[^1]` a `[^N]` devem ser mantidas integrais e sem renumeração artificial.
+1. **Fonte Única da Verdade**: Consulte [`AGENTS.md`](../AGENTS.md) e os playbooks `.agents/00-pipeline.md`, `.agents/01-editorial-spec.md`, `.agents/02-translation-protocol.md` e `.agents/03-line-by-line-review.md`.
+2. **Imutabilidade de `data/raw/` e `data/draft/`**: Inicie sempre via `uv run openscimd start-review ...` e opere exclusivamente em `data/review/`.
+3. **Incorrupção da Prosa**: Nunca reescreva, parafraseie, resuma ou modernize vocabulário de traduções humanas fornecidas.
+4. **Leitura Integral em Blocos + Gate**: Proibido declarar revisão concluída sem preencher 100% do manifesto `<obra>.audit.md` (blocos de 150–200 linhas) e passar com 0 erros em `uv run openscimd validate --file ...`.
 
 ---
 
@@ -17,106 +17,81 @@ Este documento reúne os **modelos de prompts oficiais e recomendados** para int
 
 ### Contexto 1: Saneamento e Formatação de Tradução / Rascunho sem Matriz Original
 
-> **Cenário:** Você tem um rascunho de tradução em `data/draft/<arquivo>.md` (produzido por um tradutor humano ou fonte externa), sem o arquivo-fonte em língua original no repositório. O objetivo é sanitizar a formatação, adicionar o Frontmatter YAML, converter a paginação e salvar em `data/review/<arquivo>.md`.
+> **Cenário:** Você tem um rascunho de tradução humana em `data/draft/<arquivo>.md` (sem a matriz original no repositório) e deseja iniciá-lo e saneá-lo em `data/review/`.
 
 ```text
-Atue de acordo com as diretrizes editoriais em @[.agents/editorial/index.md] e @[.agents/editorial/notas.md].
+Siga integralmente @[AGENTS.md], @[.agents/00-pipeline.md], @[.agents/01-editorial-spec.md] e @[.agents/03-line-by-line-review.md].
 
-Execute o saneamento editorial do rascunho @data/draft/<nome-do-arquivo>.md, gerando o arquivo final revisado em data/review/<nome-do-arquivo>.md.
+1. Inicie a revisão via `uv run openscimd start-review data/draft/<nome-do-arquivo>.md --type books --dest <autor>/<slug>.md`.
+2. Mantenha data/draft/ 100% intacto; edite exclusivamente em data/review/books/<autor>/<slug>.md.
+3. INCORRUPÇÃO DA PROSA: Não altere, reescreva, resuma ou parafraseie nenhuma palavra da tradução de <Nome do Tradutor>; preserve glosas entre colchetes [...].
+4. FRONTMATTER YAML: Preencha title (Title Case), author, summary, translator, originalLanguage (<la|el|en|he>), language ("pt-BR" ou "pt-PT"), date e categories (sem keywords, pois é livro). Metadados não vão no corpo.
+5. CABEÇALHOS E TIPOGRAFIA: Sem H1 (#) no corpo; cabeçalhos em Title Case (exceto algarismos romanos); nunca use **negrito** em títulos (*itálico* permitido); use aspas curvas (“” / ‘’ — ou «» se clássico) e meia-risca (–) em intervalos numéricos.
+6. NOTAS E PAGINAÇÃO CRÍTICA: Padronize paginação [N] para (Página. Linha). Use padrão ABNT para âncoras (palavra[^1].) e namespaces [^ne1]/[^ne2] (Editoriais), [^nt1] (Tradutor), [^1] (Autor), após um único `---` e subseções `###`.
+7. AUDITORIA E GATE: Leia o texto integral em blocos de 150–200 linhas registrando cada bloco em .audit.md e rode `uv run openscimd normalize-refs ...`, `uv run openscimd review --check ...` e `uv run openscimd validate --file ...` até obter 0 erros.
+```
+
+---
+
+### Contexto 2: Tradução e/ou Auditoria Filológica com Matriz em `data/raw/` (1:1 Offline)
+
+> **Cenário:** O texto original está em `data/raw/<original>` e a tradução em `data/draft/<arquivo>.md`.
+
+```text
+Siga @[AGENTS.md], @[.agents/01-editorial-spec.md], @[.agents/02-translation-protocol.md] e @[.agents/03-line-by-line-review.md].
+
+Audite e revise data/draft/<arquivo>.md confrontando 100% em modo OFFLINE contra @data/raw/<original>, operando na cópia criada por `uv run openscimd start-review`.
 
 Diretrizes obrigatórias:
-1. IMUTABILIDADE DO RASCUNHO: Mantenha data/draft/<nome-do-arquivo>.md 100% intocado. Salve o resultado exclusivamente em data/review/<nome-do-arquivo>.md.
-2. INCORRUPÇÃO DA PROSA: Não altere, reescreva, resuma ou parafraseie nenhuma palavra da tradução. Preserve o vocabulário integral do tradutor (<Nome do Tradutor>) e todas as suas glosas explicativas entre colchetes [...].
-3. FRONTMATTER YAML: Adicione o cabeçalho completo com title, author, summary (fiel ao escopo da obra), translator ("<Nome do Tradutor>"), originalLanguage ("<código ISO ex: el, la, en>"), language ("pt-BR"), date e license. Não adicione linhas redundantes de tradutor no corpo do texto (metadados residem exclusivamente no YAML).
-4. CABEÇALHOS: Use ## para seções principais e ### para subseções. Mantenha os itálicos nos títulos caso existam (ex: ## *Do Gênero*). Nunca use negrito em títulos.
-6. PAGINAÇÃO CRÍTICA E NOTAS EDITORIAIS: Converta todas as marcações de paginação clássica de [N] / **[N]** para a notação canônica (Página. Linha) [ex: (1. 1), (2. 15)]. Ancore as notas no primeiro cabeçalho (ex: ## *Introdução*[^1][^2]), onde [^1] explica a edição de referência da paginação canônica e [^2] apresenta a mini-bio do tradutor.
-7. ESTRUTURA DE NOTAS (TOC): No final do documento, use um único separador horizontal --- e organize o aparato com cabeçalhos ### (ex: ### Notas Editoriais, ### Notas do Tradutor) para indexação limpa no Sumário.
+1. CONTENÇÃO OFFLINE: Proibido usar busca web ou memória paramétrica para reconstituir trechos do corpo textual.
+2. CORRESPONDÊNCIA 1:1: Leia em blocos de 150–200 linhas preenchendo o arquivo .audit.md; confira seções, diálogos (Interlocutor — ), notas e parágrafos sem omissões ou resumos silenciosos.
+3. ZERO PARÁFRASE: Corrija suavizações de LLM restaurando a literalidade e consistência terminológica do original.
+4. PADRÕES EDITORIAIS: Âncoras ABNT (palavra[^1].), referências bíblicas canônicas (Jo 3.16), meia-risca (–) em intervalos, itálico em termos estrangeiros e YAML com language ("pt-BR" ou "pt-PT") e originalLanguage.
+5. GATE FINAL: Execute `uv run openscimd review --check` e `uv run openscimd validate --file <review_md> --source data/raw/<original> --translated` até zerar os erros.
 ```
 
 ---
 
-### Contexto 2: Revisão e Auditoria de Tradução com Matriz em `data/raw/` (Anti-Alucinação 1:1)
+### Contexto 3: Conversão e Curadoria de Artigo Acadêmico (PDF + Crossref/Zenodo)
 
-> **Cenário:** Você possui o arquivo original em língua estrangeira em `data/raw/<arquivo>` e o rascunho traduzido em `data/draft/<arquivo>.md`. O objetivo é auditar a fidelidade semântica, eliminar lacunas e conferir parágrafo por parágrafo em `data/review/<arquivo>.md`.
+> **Cenário:** Artigo extraído via `openscimd import-pdf` ou `saloppdf` para `data/draft/<artigo>.md`.
 
 ```text
-Atue como Auditor Filológico conforme @[.agents/editorial/revisao-ia.md] e @[.agents/editorial/fluxo-de-revisao-de-traducao.md].
+Siga @[AGENTS.md], @[.agents/00-pipeline.md], @[.agents/01-editorial-spec.md] e @[.agents/03-line-by-line-review.md].
 
-Audite e revise o texto de @data/draft/<nome-do-arquivo>.md comparando-o rigorosamente contra o original em @data/raw/<nome-do-original>, gerando a saída em data/review/<nome-do-arquivo>.md.
-
-Diretrizes obrigatórias:
-1. CORRESPONDÊNCIA 1:1: Mapeie todas as seções e parágrafos do original para garantir que não haja omissões, saltos numéricos ou resumos silenciosos.
-2. COMBATE A ALUCINAÇÕES: Inspecione termos técnicos, citações e argumentos complexos. Corrija qualquer paráfrase "suavizada" pela IA, restaurando o sentido literal do original.
-3. FORMATAÇÃO DE DIÁLOGOS: Mantenha a pontuação canônica de interlocutores com travessão tipográfico (ex: AGOSTINHO — , RAZÃO — ).
-4. REFERÊNCIAS E TERMOS: Padronize referências bíblicas no formato canônico brasileiro (ex: Jo 10.30, Rm 3.23) e termos originais em *itálico*.
-5. FRONTMATTER: Preencha todos os campos canônicos incluindo originalLanguage ("la", "el", "en" ou "he").
+1. Execute `uv run openscimd start-review data/draft/<artigo>.md --type articles --dest <revista>/vol-<N>/<slug>.md`.
+2. Rode `uv run openscimd enrich <review_md>` para consultar Crossref/Zenodo e complete manualmente via registro oficial qualquer campo faltante (authors com orcid/email/affiliation, journal, volume igual a vol-<N>, issue, pages com meia-risca, date ISO YYYY-MM-DD ou ABNT, language "pt-BR"/"pt-PT", DOI, categories e keywords).
+3. Transcreva o resumo original 100% integral no campo `summary` do YAML e remova-o do corpo.
+4. Remova ruídos de OCR, cabeçalhos repetidos de página e recomponha parágrafos partidos em viradas de página.
+5. Rebaixe notas presas ao título/autor para o primeiro cabeçalho do corpo (ex.: `## Introdução[^1][^ne1]`), mantendo notas do autor integrais (`[^1]`..`[^N]`), âncoras no padrão ABNT (`palavra[^1].`) e único `---` com `### Notas...` no final.
+6. Preencha 100% do `.audit.md` lendo bloco a bloco contra @data/raw/<artigo>.pdf e valide com `uv run openscimd validate --file <review_md> --source data/raw/<artigo>.pdf`.
 ```
 
 ---
 
-### Contexto 3: Conversão e Digitalização de PDF de Artigo Acadêmico (Zenodo / DOI)
+### Contexto 4: Re-revisão de Obra Já Publicada (`content/`)
 
-> **Cenário:** Um artigo acadêmico foi convertido a partir de PDF via `salopdoc` para `data/draft/<artigo>.md`. O objetivo é limpar ruídos de OCR, enriquecer metadados via DOI e preparar o arquivo para publicação.
+> **Cenário:** Correção ou saneamento editorial de obra já publicada em `content/articles/` ou `content/books/`.
 
 ```text
-Atue conforme as diretrizes em @[.agents/editorial/index.md] e @[.agents/editorial/notas.md].
+Siga @[AGENTS.md], @[.agents/01-editorial-spec.md] e @[.agents/03-line-by-line-review.md].
 
-Revise o artigo acadêmico ou e-book em @data/draft/<nome-do-artigo>.md, salvando a versão limpa em data/review/<nome-do-artigo>.md.
-
-Diretrizes obrigatórias:
-1. LIMPEZA DE RUÍDOS DE OCR: Remova cabeçalhos de página repetidos, números de página vazados e recomponha parágrafos partidos em viradas de página.
-2. ENRIQUECIMENTO DE METADADOS: A partir do DOI constante no texto, pesquise ativamente no Zenodo ou na web para preencher a ficha catalográfica completa no Frontmatter YAML (authors com orcid, email e affiliation; journal; volume; issue; pages obrigatório; date; DOI; UDC; BBK; HoS; license).
-3. RESUMO: Insira o resumo original 100% integralmente no campo summary do YAML e remova-o do corpo do texto, exceto e-books.
-4. REBAIXAMENTO DE NOTAS DE TÍTULO: Se houver notas de rodapé no título ou nos autores originais, rebaixe as âncoras para o primeiro cabeçalho do corpo (## Introdução[^1]).
-5. NOTAS DE RODAPÉ (1 a N): Preserve todas as notas integralmente, sem renumeração artificial e declaradas ao final após ---.
-6. VALIDAÇÃO: Ao finalizar, certifique-se de que o arquivo seja validável via `uv run openscimd validate`.
+1. Copie a obra para edição ativa com `uv run openscimd start-review content/<subcaminho>/<obra>.md`.
+2. Audite integralmente em blocos de 150–200 linhas registrando em `.audit.md`, aplicando: Title Case nos cabeçalhos (exceto algarismos romanos), remoção de H1/negrito em cabeçalhos, aspas curvas (“” / ‘’ ou «»), meia-risca (–) em intervalos numéricos, padrão ABNT em notas (`palavra[^1].`), namespaces `[^ne]`/`[^nt]`/`[^1]` e `language` (`pt-BR`/`pt-PT`).
+3. Valide com `uv run openscimd validate --file data/review/<subcaminho>/<obra>.md --strict`.
+4. Somente após minha aprovação explícita, promova de volta com `uv run openscimd promote data/review/<subcaminho>/<obra>.md --index`.
 ```
 
 ---
 
-### Contexto 4: Edição de Livros e Tratados Clássicos em Partes e Capítulos
-
-> **Cenário:** Edição de uma obra clássica dividida em livros, tratados ou capítulos com parágrafos numerados (ex: *A Imitação de Cristo*).
-
-```text
-Atue de acordo com @[.agents/editorial/exemplos/hierarquia-e-cabecalhos.md] e @[.agents/editorial/index.md].
-
-Estruture e revise a obra clássica em @data/draft/<livro>.md, gerando a versão canônica em data/review/<livro>.md.
-
-Diretrizes obrigatórias:
-1. HIERARQUIA:
-   - YAML title: Título da obra e do livro (ex: "A Imitação de Cristo: Livro I").
-   - Nível ##: Título do Livro ou Parte Maior (ex: ## LIVRO PRIMEIRO: ADMOESTAÇÕES...).
-   - Nível ###: Capítulos (ex: ### CAPÍTULO I).
-   - Subtítulos de Capítulos: Em *itálico* na linha imediatamente abaixo ou integrados ao cabeçalho (### *Capítulo I: Do desprezo do mundo*). Nunca use negrito em títulos.
-2. PARÁGRAFOS NUMERADOS: Mantenha a numeração no formato "N - " no início da linha contínua (ex: "2 - O seu ensinamento supera...").
-3. REFERÊNCIAS BÍBLICAS: Padronize no formato canônico (ex: 1Co 15.54, Sl 119.105).
-4. DESTINO: Grave em data/review/<livro>.md preservando data/draft/<livro>.md intocado.
-```
-
----
-
-### Contexto 5: Normalização Tipográfica e Ajustes Finos
-
-> **Cenário:** O arquivo já está em `data/review/<arquivo>.md` e precisa de checagem final de regras tipográficas e estilísticas.
-
-```text
-Revise o arquivo @data/review/<nome-do-arquivo>.md aplicando a normalização tipográfica final conforme @[.agents/editorial/exemplos/referencias-e-tipografia.md]:
-
-1. ASPAS: Converta aspas retas ("...") para aspas curvas (“...” e ‘...’).
-2. ÂNCORAS DE NOTA: Cole as âncoras na pontuação ou palavra precedente sem espaço (ex: palavra[^1], texto”[^2]).
-3. TERMOS TÉCNICOS: Destaque expressões latinas, gregas e hebraicas em *itálico*.
-4. CITAÇÕES EM BLOCO: Garanta que apenas citações longas usem > e que citações curtas permaneçam em linha com aspas curvas.
-5. REFERÊNCIAS BÍBLICAS: Verifique a padronização com ponto separador de capítulo e versículo (ex: Jo 3.16).
-```
-
----
-
-## 🛠️ Comandos CLI Úteis para Apoio Editorial
+## 🛠️ Comandos CLI de Apoio Editorial
 
 | Ação | Comando |
 | :--- | :--- |
-| **Normalizar Referências Bíblicas** | `uv run openscimd normalize-refs "data/review/<arquivo>.md"` |
-| **Auditoria de Tradução Matemática** | `uv run openscimd pipeline-review "data/raw/<orig>.md" "data/review/<rev>.md" --limit 10` |
-| **Validar Metadados e Arquivos** | `uv run openscimd validate` |
-| **Atualizar Índices e Buscas** | `uv run openscimd index` |
+| **Iniciar revisão ativa** | `uv run openscimd start-review <origem> [--type articles\|books --dest <subcaminho>]` |
+| **Enriquecer YAML via DOI** | `uv run openscimd enrich "data/review/.../arquivo.md"` |
+| **Normalizar referências bíblicas** | `uv run openscimd normalize-refs "data/review/.../arquivo.md"` |
+| **Checagem ortográfica / arcaísmos** | `uv run openscimd review --check "data/review/.../arquivo.md"` |
+| **Linter editorial (isolado ou lote)** | `uv run openscimd lint "data/review/.../arquivo.md" [--source <orig>] --strict` |
+| **Gate completo (YAML + Linter + Fonte)** | `uv run openscimd validate --file "data/review/.../arquivo.md" [--source <orig>]` |
+| **Promover para `content/` + indexar** | `uv run openscimd promote "data/review/.../arquivo.md" [--source <orig>] --index` |

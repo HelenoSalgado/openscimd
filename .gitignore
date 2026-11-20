@@ -10,7 +10,6 @@ data/assets/
 legacy_scripts/
 __pycache__
 build-cloudflare
-tests/test_covers.py
 *.sqlite
 *.db
 dist/

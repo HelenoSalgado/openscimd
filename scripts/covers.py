@@ -398,11 +398,11 @@ def inject_cover_text(
         sub_lines = _wrap_to_width(draw, subtitle, sub_font, max_text_w)
         sub_line_h = int(sub_fs * 1.25)
 
-    # Autor: subordinado e visivelmente menor que o título (50% a 60% da altura do título)
+    # Autor: subordinado e sempre menor que o título (50% do tamanho do título)
     author_font = None
     author_text = ""
     if authors:
-        author_fs = max(int(title_fs * 0.55), 65)
+        author_fs = max(int(title_fs * 0.50), 65)
         author_font = _load_font("semibold", author_fs)
         author_text = authors.title() if authors.isupper() else authors
 
@@ -440,8 +440,8 @@ def inject_cover_text(
         draw_sh.text((x + 3, curr_y + 4), author_text, font=author_font, fill=COLOR_SHADOW)
         draw.text((x, curr_y), author_text, font=author_font, fill=COLOR_AUTHOR)
 
-    # Renderiza Data (se artigo, ou quando presente, na base da capa)
-    if date_display and not is_book:
+    # Renderiza Data (histórica em livros ou publicação em artigos) na base da capa com respiro
+    if date_display:
         date_font = _load_font("regular", 68)
         date_y = H - 190
         bbox = draw.textbbox((0, 0), date_display, font=date_font)

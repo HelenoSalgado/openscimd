@@ -1,17 +1,19 @@
 """Testes unitários para o extrator semântico LegacyHtmlCleaner."""
 
+from __future__ import annotations
+
 from pathlib import Path
-import pytest
+
 from scripts.html_cleaner import LegacyHtmlCleaner
 
 
-def test_decode_html_bytes():
+def test_decode_html_bytes() -> None:
     raw_iso = "Hugo de São Vítor: A Palavra de Deus".encode("iso-8859-1")
     decoded = LegacyHtmlCleaner.decode_html_bytes(raw_iso)
     assert decoded == "Hugo de São Vítor: A Palavra de Deus"
 
 
-def test_convert_tables_to_blockquotes():
+def test_convert_tables_to_blockquotes() -> None:
     html = """
     <html><body>
     <table width="100%">
@@ -23,11 +25,11 @@ def test_convert_tables_to_blockquotes():
     </body></html>
     """
     _, md = LegacyHtmlCleaner.clean_html_document(html)
-    assert '> “Uma só vez falou Deus.”' in md
+    assert "> “Uma só vez falou Deus.”" in md
     assert "— Salmo 61, 12" in md
 
 
-def test_sanitize_spurious_h4():
+def test_sanitize_spurious_h4() -> None:
     html = """
     <html><body>
     <h3>1. Introdução</h3>
@@ -37,12 +39,11 @@ def test_sanitize_spurious_h4():
     """
     _, md = LegacyHtmlCleaner.clean_html_document(html)
     assert "### 1. Introdução" in md
-    # Não deve gerar #### para o parágrafo longo
     assert "#### Este é um parágrafo longo" not in md
     assert "Este é um parágrafo longo explicativo sobre o amor divino" in md
 
 
-def test_remove_navigation_residuals():
+def test_remove_navigation_residuals() -> None:
     html = """
     <html><body>
     <p>Texto do tratado vitorino.</p>
@@ -57,7 +58,7 @@ def test_remove_navigation_residuals():
     assert "sum-hugo.htm" not in md
 
 
-def test_convert_file_end_to_end(tmp_path: Path):
+def test_convert_file_end_to_end(tmp_path: Path) -> None:
     sample_html = tmp_path / "sample.htm"
     sample_html.write_text(
         "<html><head><title>Tratado da Palavra</title></head><body>"
@@ -75,3 +76,22 @@ def test_convert_file_end_to_end(tmp_path: Path):
     assert 'author: "Hugo de São Vítor"' in content
     assert "### Capítulo 1" in content
     assert "O Verbo se fez carne." in content
+
+
+def test_preserves_inline_emphasis_and_generic_author(tmp_path: Path) -> None:
+    html = (
+        '<html><head><title>Diálogo</title><meta name="author" content="Platão"></head>'
+        "<body><p>Conhece-te a <i>ti mesmo</i> como <b>princípio</b>.</p></body></html>"
+    )
+    meta, md = LegacyHtmlCleaner.clean_html_document(html)
+    assert meta["author"] == "Platão"
+    assert "Conhece-te a *ti mesmo* como **princípio**." in md
+
+    meta_anon, _ = LegacyHtmlCleaner.clean_html_document("<html><body><p>Sem autor.</p></body></html>")
+    assert meta_anon["author"] == "Desconhecido"
+
+    meta_override, _ = LegacyHtmlCleaner.clean_html_document(
+        "<html><body><p>Texto.</p></body></html>",
+        author="Agostinho",
+    )
+    assert meta_override["author"] == "Agostinho"

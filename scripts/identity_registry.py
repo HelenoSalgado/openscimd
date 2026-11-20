@@ -213,14 +213,15 @@ def validate_registry_snapshot_with_sqlite(
         )
 
         for entry_id, entry in cand_entries.items():
-            kind = entry.get("kind")
-            if kind not in ("art", "book"):
-                raise IdentityViolationError(f"Kind inválido '{kind}' na entrada '{entry_id}'.")
+            raw_kind = entry.get("kind")
+            if raw_kind not in ("art", "book"):
+                raise IdentityViolationError(f"Kind inválido '{raw_kind}' na entrada '{entry_id}'.")
+            entry_kind: KindType = "art" if raw_kind == "art" else "book"
 
-            id_num = parse_id_number(entry_id, kind)
-            if id_num > int(cand_sequences.get(kind, 0)):
+            id_num = parse_id_number(entry_id, entry_kind)
+            if id_num > int(cand_sequences.get(entry_kind, 0)):
                 raise IdentityViolationError(
-                    f"ID '{entry_id}' excede o high-water mark '{kind}'={cand_sequences.get(kind)}."
+                    f"ID '{entry_id}' excede o high-water mark '{entry_kind}'={cand_sequences.get(entry_kind)}."
                 )
 
             try:
@@ -231,7 +232,7 @@ def validate_registry_snapshot_with_sqlite(
                     """,
                     (
                         entry_id,
-                        kind,
+                        entry_kind,
                         entry.get("status"),
                         entry.get("current_rel_path") or "",
                         entry.get("doi"),
@@ -244,27 +245,27 @@ def validate_registry_snapshot_with_sqlite(
                     f"Violação de unicidade relacional para '{entry_id}' ({entry.get('current_rel_path')}): {exc}"
                 ) from exc
 
-            prev_entry = prev_entries.get(entry_id)
-            if prev_entry:
-                if prev_entry.get("kind") != kind:
+            matched_prev = prev_entries.get(entry_id)
+            if matched_prev:
+                if matched_prev.get("kind") != entry_kind:
                     raise IdentityViolationError(
-                        f"ID '{entry_id}' alterou tipo de '{prev_entry.get('kind')}' para '{kind}'."
+                        f"ID '{entry_id}' alterou tipo de '{matched_prev.get('kind')}' para '{entry_kind}'."
                     )
                 if not allow_title_change:
-                    same_path = prev_entry.get("current_rel_path") == entry.get("current_rel_path")
+                    same_path = matched_prev.get("current_rel_path") == entry.get("current_rel_path")
                     in_history = entry.get("current_rel_path") in (entry.get("past_rel_paths") or [])
                     same_body = bool(
-                        prev_entry.get("last_body_sha256")
-                        and prev_entry.get("last_body_sha256") == entry.get("last_body_sha256")
+                        matched_prev.get("last_body_sha256")
+                        and matched_prev.get("last_body_sha256") == entry.get("last_body_sha256")
                     )
                     title_sim = text_similarity(
-                        str(prev_entry.get("canonical_title") or ""),
+                        str(matched_prev.get("canonical_title") or ""),
                         str(entry.get("canonical_title") or ""),
                     )
                     if not same_path and not in_history and not same_body and title_sim < 0.55:
                         raise IdentityViolationError(
                             f"Suspeita de troca de obra sob o ID '{entry_id}': "
-                            f"'{prev_entry.get('canonical_title')}' -> '{entry.get('canonical_title')}'."
+                            f"'{matched_prev.get('canonical_title')}' -> '{entry.get('canonical_title')}'."
                         )
     finally:
         conn.close()

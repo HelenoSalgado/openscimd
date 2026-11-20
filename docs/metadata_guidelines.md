@@ -1,72 +1,69 @@
 # Diretrizes de Metadados Acadêmicos (MDC)
 
-Este documento estabelece o padrão de metadados YAML (MDC keys) obrigatório para os artigos (`content/articles`) e e-books (`content/books`) no OpenSciMD. O uso de metadados padronizados otimiza a indexação, facilita o gerenciamento administrativo, melhora a busca e enriquece a experiência de leitura do usuário final.
+Este documento estabelece o padrão de metadados YAML obrigatório para artigos (`content/articles/`) e e-books (`content/books/`) no **OpenSciMD**.
 
 ---
 
 ## 📋 Chaves de Metadados
 
-| Chave YAML | Tipo de Dado | Obrigatória | Descrição / Exemplo | Propósito Administrativo |
+| Chave YAML | Tipo | Obrigatória | Descrição / Exemplo | Propósito |
 | :--- | :--- | :---: | :--- | :--- |
-| **`title`** | String | Sim | `"A Metafísica na Modernidade"` | Identificação primária da obra. |
-| **`authors`** | Array | Sim* | Lista de autores (ver seção de [Autores Estruturados](#-autores-estruturados-recomendado)) | Crédito acadêmico e busca por autor (*ou `author` no singular em livros). |
-| **`summary`** | String | Sim | Resumo sucinto do conteúdo. | Exibição de cards em portais de busca. |
-| **`date`** | String (Date) | Sim | `"2026-06-18"`, `"18-06-2026"` ou ano histórico | Data canônica de publicação original. |
-| **`categories`** | Array | Sim | `["Filosofia", "História"]` | **Disciplinas canônicas generalistas pré-aprovadas** (ver [Diretriz de Categorias](#-diretriz-estrita-de-categorias)). |
-| **`keywords`** | Array | Não (artigos) | `["Lógica", "Renascimento", "Metodologia"]` | Palavras-chave temáticas. **Exclusivo para artigos acadêmicos (e-books não possuem palavras-chave).** |
-| **`license`** | String | Sim | `"CC BY-NC 4.0"` ou `"Domínio Público"` | Licença editorial sob a qual o texto está distribuído. |
-| **`pages`** | String | Sim (artigos) | `"101-112"` ou `"1-15"` | Intervalo de páginas na publicação original. |
-| **`DOI`** | String | Não | `"10.33864/2790-0037.2025.v6.i5.101-112"` | Identificador persistente digital global. |
-| **`udc`** / **`UDC`** | String | Não | `"1(091):161/162"` | Classificação Decimal Universal. |
-| **`bbk`** / **`BBK`** | String | Não | `"87.3:87.4"` | Classificação Bibliotecária-Bibliográfica. |
-| **`journal`** | String | Não | `"Journal History of Science"` | Revista ou veículo de publicação original. |
-| **`volume`** | String / Int | Não | `"6"` ou `1` | Volume da publicação da revista. |
-| **`issue`** | String / Int | Não | `"5"` | Edição ou número da publicação da revista. |
-| **`e_issn`** | String | Não | `"1982-5587"` | ISSN eletrônico do periódico. |
-| **`language`** | String (ISO) | Não | `"pt-BR"`, `"pt"`, `"en"` | Código do idioma do texto. |
+| **`title`** | String | Sim | `"A Metafísica na Modernidade"` | Título em *Title Case* (H1 implícito). |
+| **`authors`** / **`author`** | Array / String | Sim | Lista estruturada em artigos; string ou lista em livros | Crédito acadêmico e busca por autor. |
+| **`summary`** | String | Sim | Resumo integral do artigo ou sinopse do livro | Exibição em cards e catálogo. |
+| **`date`** | String | Sim | `"2026-06-18"` ou ABNT (`"20 nov. 2025"`, `"20-11-2025"`); histórico em livros (`"399 a.C."`) | Data canônica de publicação original. |
+| **`language`** | String | Sim | `"pt-BR"` ou `"pt-PT"` | Variante de língua portuguesa da edição. |
+| **`originalLanguage`** | String | Recomendada | `"en"`, `"la"`, `"el"`, `"he"` | Idioma da matriz-fonte em `data/raw/` usada na tradução. |
+| **`translator`** | String | Se traduzido | `"Nome do Tradutor"` | Crédito exclusivo no YAML (não repetir no corpo). |
+| **`categories`** | Array | Sim | `["Filosofia", "História"]` | Apenas disciplinas canônicas pré-aprovadas, em ordem alfabética. |
+| **`keywords`** | Array | Só artigos | `["Lógica", "Renascimento", "Petrus Ramus"]` | Indexação temática específica (**proibido em livros**). |
+| **`license`** | String | Sim | `"CC BY 4.0"`, `"CC BY-NC 4.0"`, `"Domínio Público"` | Licença de distribuição da obra. |
+| **`pages`** | String | Sim (artigos) | `"101–112"` ou `"1–15"` | Intervalo de páginas na publicação original (com meia-risca). |
+| **`DOI`** | String | Recomendada | `"10.33864/2790-0037.2025.v6.i5.101-112"` | Identificador persistente para `openscimd enrich`. |
+| **`journal`** | String | Recomendada | `"History of Science"` | Periódico ou revista científica de origem. |
+| **`volume`** / **`issue`** | Int / String | Se periódico | `volume: 6`, `issue: 5` | `volume` deve coincidir com a pasta `vol-{N}`. |
+| **`e_issn`** | String | Recomendada | `"1982-5587"` | ISSN eletrônico do periódico. |
+| **`UDC`** / **`BBK`** / **`HoS`** | String | Opcional | `"1:94"` / `"87.3:87.4"` / `"113"` | Códigos biblioteconômicos (CDU derivada se ausente). |
 
 ---
 
 ## 🏷️ Diretriz Estrita de Categorias
 
-Para simplificar brutalmente e ordenar com precisão taxonômica o acervo, adota-se o **Princípio da Separação Semântica**:
+Adota-se o **Princípio da Separação Semântica**:
 
-1. **`categories` (Disciplinas Canônicas Gerais):**
-   - Deve conter **apenas** grandes áreas e disciplinas acadêmicas reconhecidas.
-   - **Termos Não Compostos:** Sempre substantivos puros (ex: `Filosofia`, e **não** `Filosofia Antiga`; `História`, e **não** `História da Educação`).
-   - **Ordenação Alfabética:** A lista no YAML deve estar **sempre ordenada alfabeticamente** (ex: `["Educação", "História"]`).
-   - **Chave Canônica:** Use sempre a chave no plural `categories`. O uso de `category` no singular é obsoleto.
+1. **`categories` (Disciplinas Canônicas Gerais)**:
+   - Contém apenas grandes áreas do conhecimento (substantivos simples, nunca termos compostos como `Filosofia Antiga`).
+   - A lista deve estar **ordenada alfabeticamente** e sem duplicatas.
+   - Use sempre `categories` no plural (`category` é obsoleto).
+2. **`keywords` (Exclusivo para Artigos)**:
+   - Recebe especializações, períodos e nomes próprios (`Patrística`, `Estoicismo`, `Petrus Ramus`).
+   - E-books (`content/books/`) **não podem** conter `keywords`.
 
-2. **`keywords` (Indexação Temática Específica — Exclusiva para Artigos):**
-   - Absorve ramificações, escolas de pensamento, períodos cronológicos e metodologias (ex: `Filosofia Antiga`, `Patrística`, `Estoicismo`, `Petrus Ramus`, `Processo de Sócrates`, `Modelos de Linguagem`, `Salmodia Exclusiva`).
-   - **Proibição em Livros:** E-books (`content/books/`) **não utilizam a chave `keywords`**. Palavras-chave são restritas a artigos acadêmicos.
+### Lista Pré-Aprovada das 23 Disciplinas Aceitas (`scripts/data/categories.json`)
 
-### Lista Pré-Aprovada de Disciplinas Aceitas
-
-Apenas as seguintes 22 categorias são aceitas pelo validador do repositório:
-
-- **Antropologia**
-- **Artes**
-- **Astronomia**
-- **Biologia**
-- **Computação**
-- **Direito**
-- **Economia**
-- **Educação**
-- **Filosofia**
-- **Física**
-- **Geografia**
-- **História**
-- **Linguística**
-- **Literatura**
-- **Matemática**
-- **Medicina**
-- **Música**
-- **Política**
-- **Psicologia**
-- **Química**
-- **Sociologia**
-- **Teologia**
+- **Antropologia** (`39`)
+- **Artes** (`7`)
+- **Astronomia** (`52`)
+- **Biologia** (`57`)
+- **Computação** (`004`)
+- **Direito** (`34`)
+- **Economia** (`33`)
+- **Educação** (`37`)
+- **Filosofia** (`1`)
+- **Física** (`53`)
+- **Geografia** (`91`)
+- **História** (`94`)
+- **Linguística** (`81`)
+- **Literatura** (`82`)
+- **Matemática** (`51`)
+- **Medicina** (`61`)
+- **Música** (`78`)
+- **Poesia** (`82-1`)
+- **Política** (`32`)
+- **Psicologia** (`159.9`)
+- **Química** (`54`)
+- **Sociologia** (`316`)
+- **Teologia** (`2`)
 
 ---
 
@@ -86,43 +83,19 @@ authors:
 
 ---
 
-## 🛠️ Exemplo Completo de Frontmatter
-
-```yaml
----
-title: "A Metafísica na Modernidade"
-authors:
-  - name: "Nome do Autor"
-    affiliation: "Instituição de Pesquisa"
-summary: "Um breve resumo sobre a pesquisa desenvolvida no artigo."
-date: "2026-06-20"
-categories:
-  - Filosofia
-  - História
-keywords:
-  - Metafísica
-  - Racionalismo
-  - Século XVII
-license: "CC BY 4.0"
-pages: "10-25"
-language: "pt-BR"
----
-```
-
----
-
-## 🔍 Comandos de Validação e Indexação
+## 🔍 Comandos de Validação, Lint e Indexação
 
 ```bash
-# Validar artigos e e-books
-uv run openscimd validate
+# Validar um arquivo em revisão (metadados + linter editorial + fonte)
+uv run openscimd validate --file "data/review/articles/revista/vol-1/artigo.md" --source "data/raw/artigo.pdf"
 
-# Validar especificamente artigos
-uv run openscimd validate --target articles
+# Executar linter editorial em arquivo ou diretório
+uv run openscimd lint "data/review/" --strict
 
-# Validar especificamente e-books
-uv run openscimd validate --target books
+# Validar todo o catálogo publicado
+uv run openscimd validate --target all
 
-# Atualizar os índices JSON (index-articles.json e index-books.json)
+# Atualizar índices JSON e validar ledger de IDs
 uv run openscimd index
+uv run openscimd validate-ids --base-ref HEAD
 ```

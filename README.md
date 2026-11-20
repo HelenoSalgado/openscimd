@@ -1,142 +1,105 @@
-# 🎓 OpenSciMD - Open-Access Scientific Articles in Markdown
+# 🎓 OpenSciMD — Open-Access Scientific Articles & Books in Markdown
 
-Bem-vindo ao **OpenSciMD**, um repositório centralizado projetado para o armazenamento, organização e compartilhamento de artigos acadêmicos e científicos estruturados em formato Markdown. 
-
-O repositório conta com uma automação CLI construída em Python (gerenciada via `uv`) que extrai metadados acadêmicos (como DOI, UDC e Licenças) e compila automaticamente o índice geral para consumo por aplicações externas, além de prover um conjunto de ferramentas robustas para processamento, conversão e validação.
+Bem-vindo ao **OpenSciMD**, um repositório e ecossistema CLI concebido para ingestão, curadoria filológica, validação editorial determinística e distribuição multiformato (Markdown, JSON API, EPUB 3, PDF/Typst e SQLite FTS5 RAG) de artigos científicos e livros clássicos consumidos pelo leitor **LeiaME**.
 
 ---
 
-## 🚀 Como Funciona a Automação?
+## 🚀 Principais Recursos
 
-Nosso script de indexação analisa as pastas `articles` e `books` compilando todos os metadados do cabeçalho YAML para os arquivos `index-articles.json` e `index-books.json`.
-
-### Principais Recursos:
-* **CLI Integrado**: Todas as operações são feitas de maneira simplificada através do comando unificado `openscimd`.
-* **Motor SalopDoc Integrado**: Extração tipográfica de PDFs com reflow semântico, detecção de frontmatter e normalização automática.
-* **Preservação de IDs**: O script preserva IDs de artigos e livros pré-existentes, garantindo que referências antigas nunca sejam alteradas ou quebradas.
-* **Estimação Inteligente de Leitura**: O tempo estimado de leitura é calculado baseando-se em uma velocidade média acadêmica de 200 palavras por minuto.
-* **Automação de Capas e Assets**: Ferramentas nativas para injeção tipográfica avançada e geração de imagens otimizadas para todas as plataformas de acesso (mobile, tablet, desktop).
-* **Geração de Arte via IA**: Interface de geração de arte com IA integrada diretamente no pipeline de criação de capas.
-* **Motor RAG e SQLite Local**: Conector de busca textual de alta performance baseado em SQLite FTS5 com BM25, gerando blocos de contexto prontos para LLMs e pesquisa acadêmica offline.
+- **CLI Unificado (`uv run openscimd`)**: Pipeline de ponta a ponta organizado por estágios (Ingestão → Revisão → Gates → Publicação → Capas → Exportação/RAG).
+- **Linter Editorial & Auditoria contra Matriz (`lint` / `validate --file`)**: Verifica automaticamente YAML, hierarquia Title Case, aspas, meia-risca (`–`), referências bíblicas, padrão ABNT de notas e integridade quantitativa contra o original.
+- **Fluxo Seguro de Revisão (`start-review` / `promote`)**: Mantém `data/raw/` e `data/draft/` imutáveis, exige mesa de revisão ativa em `data/review/` com manifesto linha a linha `.audit.md` e só promove para `content/` após aprovação nos gates.
+- **Ledger Imutável de IDs (`validate-ids`)**: Garante estabilidade perpétua de `art_XXX` e `book_XXX` em `data/catalog-registry.json`.
+- **Enriquecimento Bibliográfico (`enrich`)**: Consulta APIs oficiais do Crossref e Zenodo via DOI.
+- **Compilação & Validação Multiformato**: EPUB 3 (`build-epub` + `validate-kindle`), livro impresso 14×21 cm via Typst (`build-print`), PDF editorial (`export-pdf`) e capas 2:3 responsivas (`ai-cover`, `inject-text`, `build-covers`).
+- **Motor RAG Local (`build-rag` / `search-rag`)**: Busca textual BM25 em SQLite FTS5 pronta para pesquisa offline e LLMs.
 
 ---
 
 ## 📂 Estrutura do Repositório
 
-* `content/articles/`: Artigos acadêmicos curados em formato Markdown.
-* `content/books/`: Livros e tratados completos indexados no projeto.
-* `assets/covers/`: Capas oficiais dos artigos em formato de imagem (grid responsivo: mobile, tablet, desktop).
-* `assets/sources/`: Documentos-fonte originais normalizados (PDFs, HTMLs, etc.) disponíveis publicamente para consulta.
-* `assets/desktop/` / `assets/images/`: Figuras e ilustrações internas dos artigos para o leitor.
-* `data/raw/`: Fila de arquivos e PDFs brutos da web para processamento e ingestão preliminar (local).
-* `data/draft/`: Rascunhos de Markdown gerados pelo SalopDoc aguardando revisão.
-* `data/review/`: Fila de revisão editorial e colaborativa aberta a contribuições via Pull Request.
-* `scripts/`: Módulos em Python responsáveis pelas ferramentas de automação do projeto (`openscimd`).
-* `docs/`: Documentações detalhadas de funcionamento do repositório.
+- `AGENTS.md` e `.agents/`: Contrato operacional e playbooks modulares para agentes de IA.
+- `content/articles/` e `content/books/`: Fonte única da verdade publicada.
+- `data/raw/`: Matrizes originais brutas (PDF, HTML, MD) — **imutável**.
+- `data/draft/`: Extrações automáticas iniciais — **imutável**.
+- `data/review/`: Mesa de revisão ativa (+ manifestos `.audit.md`).
+- `assets/covers/`, `assets/images/`, `assets/sources/`: Capas responsivas, ilustrações e documentos originais.
+- `scripts/` e `tests/`: Automação Python e suíte de testes (`pytest`, `ruff`, `mypy`).
+- `docs/`: Documentação arquitetural e editorial.
 
 ---
 
-## 🛠️ Execução e Desenvolvimento
+## 🛠️ Execução Rápida
 
-O ambiente de execução e de gerenciamento de dependências deste projeto agora é totalmente baseado no `uv`. Certifique-se de ter o `uv` instalado em sua máquina. 
+O gerenciamento de dependências e execução usa exclusivamente **`uv`**:
 
-Para instalar as dependências, sincronizar o ambiente virtual e deixar tudo pronto para uso, execute na raiz do projeto:
 ```bash
+# Instalar dependências (incluindo ferramentas dev: pytest, ruff, mypy)
 uv sync
+
+# Ver todos os comandos agrupados por fase do pipeline
+uv run openscimd --help
 ```
 
-O comando oficial do projeto passa a ser `uv run openscimd`, que funciona como hub para todas as tarefas. Você pode obter ajuda global para qualquer comando digitando `uv run openscimd --help`.
+### Ciclo Padrão de Trabalho
 
-### 1. Ingestão e Conversão de PDFs (SalopDoc)
-Para converter um PDF original em Markdown rico com Frontmatter e reflow semântico:
 ```bash
-uv run openscimd import-pdf data/raw/artigo.pdf
+# 1. Ingestão (SalopDoc para PDF digital, ou saloppdf/clean-html conforme a fonte)
+uv run openscimd import-pdf "data/raw/artigo.pdf" -o "data/draft/artigo.md"
+
+# 2. Abrir revisão ativa (a partir de rascunho OU obra publicada em re-revisão)
+uv run openscimd start-review "data/draft/artigo.md" --type articles --dest "revista/vol-1/slug.md"
+
+# 3. Apoio à edição
+uv run openscimd enrich "data/review/articles/revista/vol-1/slug.md"
+uv run openscimd normalize-refs "data/review/articles/revista/vol-1/slug.md" --canonical
+uv run openscimd review --check "data/review/articles/revista/vol-1/slug.md"
+
+# 4. Gate obrigatório (YAML + Linter Editorial + Comparação com matriz)
+uv run openscimd validate --file "data/review/articles/revista/vol-1/slug.md" --source "data/raw/artigo.pdf"
+
+# 5. Promover para content/ e atualizar índices (somente após aprovação)
+uv run openscimd promote "data/review/articles/revista/vol-1/slug.md" --source "data/raw/artigo.pdf" --index
 ```
 
-Para processar todos os PDFs brutos em lote de `data/raw/` para `data/draft/`:
-```bash
-uv run openscimd batch-import
-```
+### Exportação, Capas, RAG e Qualidade de Código
 
-Para normalizar a tipografia, aspas e estrutura de um Markdown legado:
 ```bash
-uv run openscimd clean-md caminho/do/artigo.md
-```
+# Gerar e validar EPUB 3 / Impresso / PDF / RAG
+uv run openscimd build-epub "content/books/platao/fedon.md"
+uv run openscimd validate-kindle "dist/content/books/platao/fedon.epub"
+uv run openscimd build-print "content/books/platao/fedon.md"
+uv run openscimd build-rag && uv run openscimd search-rag "Sócrates justiça" --ai
 
-### 2. Atualizar o Índice Geral (`index-articles.json` e `index-books.json`)
-Sempre que novos artigos, imagens ou PDFs forem adicionados, atualize os índices para a API:
-```bash
-uv run openscimd index
-```
-
-### 3. Validar Artigos e Metadados (Para Contribuintes)
-Para verificar a formatação dos artigos e garantir a presença de todas as chaves obrigatórias no YAML, execute:
-```bash
-uv run openscimd validate
-```
-
-### 4. Gerar Capa de Artigo via IA (Recomendado: Google Gemini)
-Gere automaticamente uma ilustração conceitual e integre a tipografia para a capa de um artigo usando a IA.
-Configure primeiro as credenciais copiando e preenchendo o arquivo `.env`. E então:
-```bash
-uv run openscimd ai-cover <nome-do-artigo> ["estilo-opcional"] --provider gemini
-```
-
-### 5. Gestão e Tipografia de Capas
-Para injetar os textos (títulos e autores) de forma vetorizada sobre uma imagem-base limpa:
-```bash
-uv run openscimd inject-text assets/covers/<nome-da-imagem>.png
-```
-
-Para processar as capas base injetadas garantindo dimensões e DPI corretos em todo o grid responsivo:
-```bash
+# Capas (ver Design Systems em .agents/editorial/)
+uv run openscimd ai-cover <slug> --provider gemini
 uv run openscimd build-covers
-```
 
-### 6. Ferramentas Editoriais Diversas
-* `export-pdf`: Converte qualquer documento Markdown em PDF com tipografia clássica (EB Garamond/Cinzel/JetBrains Mono), paleta oficial LeiaME e box institucional de compilação.
-  ```bash
-  uv run openscimd export-pdf caminho/do/documento.md
-  ```
-* `verses`: Converte numerações e tópicos baseados em versículos para notação em sobrescrito.
-* `review`: Utilitário ortográfico interativo de correção manual baseada num dicionário de arcaísmos embutido.
-
-### 7. Motor RAG e Busca Local com IA
-Compile a base de dados SQLite indexada por seções semânticas e tabelas virtuais FTS5:
-```bash
-uv run openscimd build-rag
-```
-
-Realize buscas contextuais instantâneas com snippets e caminhos dos arquivos físicos:
-```bash
-uv run openscimd search-rag "Sócrates justiça" --limit 5
-```
-
-Para gerar a saída formatada pronta para injeção no prompt de qualquer chat de IA / LLM:
-```bash
-uv run openscimd search-rag "Sócrates justiça" --ai
+# Testes e rigor estático
+uv run ruff check .
+uv run mypy scripts/editorial_linter.py scripts/workflow.py scripts/validator.py scripts/categories.py scripts/enricher.py scripts/text_tools.py scripts/biblical_books.py scripts/html_cleaner.py scripts/book_assembler.py scripts/utils.py scripts/identity_registry.py
+uv run pytest
+uv run openscimd validate
+uv run openscimd validate-ids --base-ref HEAD
 ```
 
 ---
 
 ## 🤝 Como Contribuir
 
-Toda contribuição acadêmica, editorial ou técnica é muito bem-vinda!
-
-* **Revisões Textuais e Correções:** Para reportar erros ortográficos, falhas de OCR ou correções em livros e artigos, consulte nosso **[Guia de Contribuição (CONTRIBUTING.md)](CONTRIBUTING.md)** e abra uma **[Issue de Revisão Textual](https://github.com/helenosalgado/openscimd/issues/new?template=revisao_textual.yml)**.
-* **Automações e Novos Artigos:** Se você deseja submeter novos artigos ou propor melhorias nas automações, consulte a documentação de apoio:
-  1. **Entenda os Bastidores**: Leia o nosso guia de [Arquitetura e Funcionamento do Repositório](docs/arquitetura.md).
-  2. **Saiba como Publicar**: Siga o passo a passo em [Fluxo de Trabalho e Contribuição](docs/fluxo-de-trabalho.md).
-  3. **Diretrizes de Metadados**: Veja a lista de chaves YAML recomendadas para artigos científicos em [Diretrizes de Metadados Acadêmicos (MDC)](docs/metadata_guidelines.md).
-  4. **Gerador de Capas e Identidade Visual**: Entenda as diretrizes estéticas e o funcionamento do criador automático em [Modelo e Geração de Capas](docs/gerador-de-capas.md).
+- **Revisões Textuais:** Consulte o **[Guia de Contribuição](CONTRIBUTING.md)** e abra uma **[Issue de Revisão Textual](https://github.com/helenosalgado/openscimd/issues/new?template=revisao_textual.yml)**.
+- **Documentação Detalhada:**
+  1. [Arquitetura do Repositório](docs/arquitetura.md)
+  2. [Fluxo de Trabalho em 5 Estágios](docs/fluxo-de-trabalho.md)
+  3. [Diretrizes de Metadados (MDC)](docs/metadata_guidelines.md)
+  4. [Padrão de Notas e Aparato Crítico](docs/padrao-de-notas-e-aparato-critico.md)
+  5. [Design System de Capas — Artigos](.agents/editorial/design-system-capas-artigos.md) e [Livros](.agents/editorial/design-system-capas-livros.md)
 
 ---
 
 ## 📖 Como Citar o OpenSciMD
 
-Se você utilizar este corpus, estrutura de dados, catálogos ou automações em seus projetos acadêmicos, teses, artigos científicos, experimentos de Processamento de Linguagem Natural (PLN/NLP), sistemas de busca semântica/RAG ou aplicações educacionais, por favor cite a obra conforme os modelos abaixo:
-
-### BibTeX (LaTeX / Artigos Científicos / NLP)
+### BibTeX
 ```bibtex
 @dataset{salgado2026openscimd,
   author       = {Heleno Salgado},
@@ -149,25 +112,14 @@ Se você utilizar este corpus, estrutura de dados, catálogos ou automações em
 }
 ```
 
-### ABNT (Normas Brasileiras)
+### ABNT
 ```text
 SALGADO, Heleno. OpenSciMD: Open-Access Scientific Articles in Markdown. Versão 1.0.0. 2026. Disponível em: https://github.com/HelenoSalgado/openscimd.
 ```
-
-### APA (7ª edição)
-```text
-Salgado, H. (2026). OpenSciMD: Open-Access Scientific Articles in Markdown (Version 1.0.0) [Data set]. GitHub. https://github.com/HelenoSalgado/openscimd
-```
-
-> **Dica:** O repositório possui integração nativa com o padrão de citação acadêmica do GitHub através do arquivo [CITATION.cff](CITATION.cff), disponível pelo botão **"Cite this repository"** na barra lateral.
 
 ---
 
 ## ⚖️ Licença e Direitos Autorais
 
-O projeto **OpenSciMD** adota um modelo de licenciamento estratificado:
-
-* **Compilação, Metadados, Capas e Código:** Licenciados sob a licença **[Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional (CC BY-NC-ND 4.0)](LICENSES.md)**. A redistribuição da obra completa é livre para fins não comerciais com atribuição obrigatória, sendo expressamente proibidas alterações indevidas, derivações da estrutura de dados ou exploração comercial.
-* **Conteúdo Acadêmico dos Artigos:** Cada artigo e livro individual permanece sob a respectiva licença original concedida por seus autores ou editoras (ex: CC-BY, CC-BY-NC, Domínio Público), expressa no cabeçalho YAML de cada documento.
-
-Para detalhes completos sobre termos e conformidade, consulte o documento **[LICENSES.md](LICENSES.md)**.
+- **Compilação, Metadados, Capas e Código:** **[CC BY-NC-ND 4.0](LICENSES.md)**.
+- **Conteúdo Individual das Obras:** permanece sob a licença original declarada no YAML de cada documento (ex.: CC BY 4.0, CC BY-NC 4.0, Domínio Público).

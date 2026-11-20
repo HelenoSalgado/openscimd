@@ -1,8 +1,9 @@
-# Diretório `review/` (Mesa de Revisão)
+# Diretório `data/review/` (Mesa Única de Edição Ativa)
 
-**O que fazer aqui:**
-Esta é a mesa de edição e revisão. Os arquivos localizados nesta pasta estão em "trabalho ativo". É o local para você ler, corrigir erros que a conversão automática deixou passar, arrumar o layout e a estrutura markdown requerida de acordo com as diretrizes do openscimd e validar os metadados (Nunca confunda metadados de livros e artigos neste projeto, e nunca acrescente metadados inexistentes).
+**Finalidade:** Única pasta editável durante tradução, saneamento editorial e conferência linha a linha — tanto para **novas obras** vindas de `data/draft/` quanto para **obras já publicadas em `content/` que entram em re-revisão**.
 
-**Como trabalhar com esta pasta:**
-- Traga para cá arquivos do `../draft/` que você quer revisar agora (pode revisar em partes se o arquivo for muito grande, criando arquivos menores de revisão sob uma pasta).
-- **Metadados (Frontmatter):** Certifique-se que o YAML segue o padrão rigoroso do `openscimd` (preenchendo os campos genéricos como "Sem Título", conferindo `title`, `author`, `summary`, `date`, `license`, `language`, e `categories`).
+## Fluxo Obrigatório
+1. **Abrir revisão:** `uv run openscimd start-review <origem> [...]` (gera `<obra>.md` + manifesto `<obra>.audit.md`).
+2. **Editar e auditar:** Confira em blocos de 150–200 linhas contra `data/raw/` marcando o `.audit.md` (`.agents/03-line-by-line-review.md`).
+3. **Validar:** `uv run openscimd validate --file "data/review/.../<obra>.md" [--source "data/raw/<orig>"]` (deve fechar com **0 erros**).
+4. **Promover:** Após aprovação humana, `uv run openscimd promote "data/review/.../<obra>.md" --index` publica em `content/` e remove a cópia ativa e o `.audit.md` desta pasta.

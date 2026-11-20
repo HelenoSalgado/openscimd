@@ -1,75 +1,80 @@
 # Arquitetura e Funcionamento do Projeto
 
-Este repositório foi concebido para o armazenamento, organização e distribuição automatizada de artigos científicos e acadêmicos. Através de um script automatizado em Node.js, os metadados dos artigos escritos em Markdown são extraídos e centralizados em um arquivo `index-articles.json`.
+O **OpenSciMD** é um repositório e plataforma CLI em **Python 3.11+ (gerenciada via `uv`)** concebida para ingestão, curadoria editorial, validação determinística, indexação imutável e compilação multiformato (Markdown, JSON API, EPUB 3, PDF/Typst para impressão KDP e banco SQLite FTS5 RAG) de artigos científicos e livros clássicos consumidos pelo leitor **LeiaME**.
 
-## 🏗️ Estrutura do Projeto
+---
 
-O repositório é organizado de forma modular para separar conteúdo de texto, mídia (capas), documentos originais e automações:
+## 🏗️ Estrutura do Repositório
 
 ```text
 openscimd/
-├── articles/                                 # Artigos em formato Markdown (.md)
-├── covers/                                   # Imagens de capa associadas aos artigos (.webp, .png, etc.)
-├── authors/                                  # Imagens/Avatares de autores associadas ao ORCID
-├── pdfs/                                     # Arquivos PDF originais dos artigos (.pdf)
-├── scripts/                                  # Automações e testes do repositório
-│   ├── update-index.js                       # Script principal de indexação e compilação do index.json
-│   ├── ia_generate-cover.js nome-do-artigo   # Gera imagem de capa para o artigo, é preciso definir IA_KEY
-│   └── test-index.js                         # Suíte de testes unitários das automações
-├── docs/                                     # Documentação interna sobre o funcionamento do projeto
-│   └── arquitetura.md                        # Detalhes de arquitetura (este arquivo)
-├── index-articles.json                       # Registro compilado de todos os artigos e seus metadados
-└── README.md                                 # Guia geral do projeto e contribuição
+├── AGENTS.md                        # Contrato operacional e roteador para agentes de IA
+├── main.py                          # Hub CLI Typer (`uv run openscimd ...`)
+├── pyproject.toml                   # Dependências uv, regras ruff e mypy
+├── salopdoc.yml                     # Configuração de extração/reflow do SalopDoc
+├── index-articles.json              # Catálogo JSON compilado de artigos
+├── index-books.json                 # Catálogo JSON compilado de livros/e-books
+├── index-journals.json              # Catálogo JSON compilado de periódicos e volumes
+├── .agents/                         # Playbooks modulares (pipeline, spec editorial, revisão)
+├── content/                         # FONTE ÚNICA DA VERDADE publicada
+│   ├── articles/<revista>/vol-<N>/  # Artigos acadêmicos aprovados (.md)
+│   └── books/<autor>/               # Livros e tratados aprovados (.md)
+├── data/
+│   ├── raw/                         # Matrizes brutas imutáveis (PDF, HTML, MD original)
+│   ├── draft/                       # Rascunhos imutáveis de extração automática
+│   ├── review/                      # Mesa exclusiva de edição ativa (+ *.audit.md)
+│   ├── catalog-registry.json        # Ledger append-only de IDs imutáveis (`art_XXX`/`book_XXX`)
+│   └── openscimd_rag.sqlite         # Banco vetorial/textual SQLite FTS5 (BM25)
+├── assets/
+│   ├── covers/{originals,desktop,tablet,mobile}/  # Capas 2:3 em PNG e WebP responsivo
+│   ├── images/                      # Ilustrações internas responsivas
+│   └── sources/                     # Fontes primárias públicas (PDF ou Hub HTML)
+├── scripts/                         # Módulos Python da CLI e regras de negócio
+│   ├── workflow.py                  # Transições start-review e promote
+│   ├── validator.py                 # Validador de metadados YAML e gate individual/global
+│   ├── editorial_linter.py          # Linter editorial determinístico + comparador de matriz
+│   ├── indexer.py                   # Compilador de index-*.json e validação de ledger
+│   ├── identity_registry.py         # Ledger imutável de IDs com checagem SQLite
+│   ├── enricher.py                  # Enriquecimento via APIs Crossref e Zenodo
+│   ├── text_tools.py                # Normalização de referências bíblicas com masking
+│   ├── html_cleaner.py / html2md.py # Conversores HTML -> Markdown
+│   ├── book_assembler.py            # Montagem modular de tratados multi-partes
+│   ├── salopdoc_adapter.py          # Integração com SalopDoc (PDF -> MD)
+│   ├── spellchecker/                # Revisor de arcaísmos + Hunspell pt_BR
+│   ├── covers.py / ai_cover.py      # Composição tipográfica e arte conceitual 2:3
+│   ├── md2epub.py / kindle_validator.py  # Compilador EPUB 3 e validador KDP
+│   ├── md2print.py / md2pdf.py      # Compilação Typst (impresso 14x21) e PDF editorial
+│   └── rag.py                       # Indexação e busca FTS5 BM25
+├── tests/                           # Suíte pytest cobrindo CLI, gates, conversores e exports
+└── docs/                            # Documentação técnica e editorial de referência
 ```
 
-## ⚙️ Processo de Indexação e Automação
+---
 
-O script [update-index.js](scripts/update-index.js) é executado no ambiente Node.js. Ele realiza as seguintes operações ordenadamente:
+## ⚙️ Fluxo de Estados e Automação
 
 ```mermaid
-graph TD
-    A[Iniciar script update-index.js] --> B[Ler index.json existente para preservar IDs]
-    B --> C[Escanear diretório articles/]
-    C --> D[Processar cada arquivo .md]
-    D --> E[Extrair YAML Frontmatter]
-    D --> F[Estimar Tempo de Leitura no Corpo]
-    D --> G[Buscar Capa em covers/]
-    D --> H[Buscar PDF em pdfs/]
-    E & F & G & H --> I[Montar artigo e filtrar chaves vazias]
-    I --> J[Recompilar e gravar novo index.json]
-    J --> K[Logar Resumo da Execução]
+flowchart LR
+    RAW["data/raw/<br/>(Matriz Bruta Imutável)"] -->|import-pdf / saloppdf / clean-html| DRAFT["data/draft/<br/>(Rascunho Imutável)"]
+    DRAFT -->|start-review| REVIEW["data/review/<br/>(Edição Ativa + .audit.md)"]
+    CONTENT["content/<br/>(Acervo Publicado)"] -->|start-review<br/>(re-revisão)| REVIEW
+    REVIEW -->|enrich / normalize-refs / review --check| REVIEW
+    REVIEW -->|validate --file + lint| GATE{"Gate = 0 erros?"}
+    GATE -->|Não| REVIEW
+    GATE -->|Sim + promote| CONTENT
+    CONTENT -->|index + validate-ids| INDEX["index-*.json +<br/>catalog-registry.json"]
 ```
 
-### 1. Preservação de IDs de Artigos
+### 1. Ledger Imutável de Identidades (`data/catalog-registry.json`)
+Para garantir que IDs (`art_001`, `book_001`) consumidos pelo leitor **LeiaME** jamais sejam reciclados ou sequestrados ao mover ou renomear arquivos:
+- O [`identity_registry.py`](../scripts/identity_registry.py) reconcilia documentos por caminho atual, `past_rel_paths`, `git diff --find-renames`, DOI, hash SHA-256 do corpo e similaridade título/autor.
+- Invariantes append-only e unicidade são validadas em memória via SQLite e pelo comando `uv run openscimd validate-ids --base-ref HEAD`.
 
-Para garantir consistência e evitar que links e integrações de terceiros quebrem, o script lê o [index-articles.json](index-articles.json) anterior e mapeia os `id`s existentes aos seus respectivos arquivos de origem. Novos arquivos recebem um ID sequencial incremental (ex: `art_003`).
+### 2. Linter Editorial e Gate Determinístico
+- [`editorial_linter.py`](../scripts/editorial_linter.py) mascara frontmatter YAML, blocos de código, matemática e URLs antes de inspecionar: hierarquia de cabeçalhos e Title Case (`ED001`–`ED004`), aspas (`ED005`), integridade/sequência/ABNT de notas de rodapé (`ED006`–`ED012`), meia-risca em intervalos numéricos (`ED013`), referências bíblicas (`ED014`), artefatos de OCR (`ED015`) e desvios quantitativos contra a matriz local (`SRC001`–`SRC002`).
+- [`validator.py`](../scripts/validator.py) unifica a verificação de metadados YAML com o linter no comando `uv run openscimd validate --file ...` e bloqueia promoções inválidas em `promote`.
 
-### 2. Extração de Metadados (YAML Frontmatter)
-
-Os metadados no topo do arquivo de markdown (delimitados por `---`) são processados. As chaves suportadas incluem dados bibliográficos e de catalogação científica:
-* Identificação: `title`, `author`, `authors`, `summary`, `date`, `categories`.
-* Acadêmicos: `doi` (Digital Object Identifier), `udc` (Universal Decimal Classification), `bbk` (Bibliographical classification), `hos` (History of Science ID).
-* Direitos Autorais: `license` (ou `licence`).
-
-### 3. Estimativa de Tempo de Leitura
-
-O tempo de leitura é calculado dividindo a contagem de palavras do corpo do artigo pela velocidade média de leitura acadêmica/científica (**200 palavras por minuto**). 
-Para uma estimativa mais fiel, o script limpa do corpo do texto:
-
-* Blocos de código e comandos em linha (`code blocks`).
-* Tags HTML brutas.
-* Formatações de markdown adicionais (títulos, negritos, links).
-
-### 4. Associação de Imagens de Capa (Covers)
-
-O script verifica se existe uma imagem correspondente na pasta `covers/` com o mesmo nome do artigo. Ele suporta as extensões comuns: `.webp`, `.png`, `.jpg`, `.jpeg` e `.svg`.
-* Se encontrada, gera a URL direta com a extensão correta.
-* Caso não seja encontrada, gera a URL assumindo o padrão `.webp` e exibe um alerta (`Warning`) informando a ausência do arquivo físico.
-
-### 5. Associação do PDF Original
-
-Se houver um arquivo PDF na pasta `pdfs/` com o mesmo nome base do arquivo `.md`, o script adiciona o campo `pdf_url` apontando para o arquivo no repositório.
-
-### 6. Filtragem de Valores Vazios
-
-Para economizar banda e armazenamento na entrega do JSON do catálogo, qualquer chave que não possua valor preenchido (ou seja, contendo `null`, `undefined`, string vazia `""` ou array vazio `[]`) é totalmente eliminada da entrada daquele artigo no [index-articles.json](index-articles.json).
+### 3. Exportação, Capas e RAG
+- **Capas**: `ai-cover` / `inject-text` / `build-covers` produzem variantes WebP responsivas (`1696×2528`, `1200×1789`, `1080×1610`).
+- **EPUB & Impresso**: `build-epub` + `validate-kindle` geram e auditam EPUB 3 para KDP; `build-print` compila miolo e capa aberta via Typst (`scripts/templates/book_print.typ`).
+- **RAG Local**: `build-rag` e `search-rag` indexam seções semânticas em `data/openscimd_rag.sqlite` com `unicode61 remove_diacritics 2` e ranqueamento BM25.

@@ -30,8 +30,10 @@ jobs:
           enable-cache: true
           python-version: "3.11"
 
-      - name: Validate metadata and run tests
+      - name: Lint, type-check, validate metadata and run tests
         run: |
+          uv run ruff check .
+          uv run mypy scripts/editorial_linter.py scripts/workflow.py scripts/validator.py scripts/categories.py scripts/enricher.py scripts/text_tools.py scripts/biblical_books.py scripts/html_cleaner.py scripts/book_assembler.py scripts/utils.py scripts/identity_registry.py
           uv run openscimd validate
           uv run pytest
 

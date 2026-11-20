@@ -1,13 +1,15 @@
+from __future__ import annotations
+
 import json
 from pathlib import Path
-from typing import Any, List, Optional
+from typing import Any
 
 CATEGORIES_FILE = Path(__file__).resolve().parent / "data" / "categories.json"
 
-_CACHED_CATEGORIES: Optional[List[str]] = None
+_CACHED_CATEGORIES: list[str] | None = None
 
 
-def load_allowed_categories() -> List[str]:
+def load_allowed_categories() -> list[str]:
     """Carrega a lista pré-aprovada de categorias canônicas (disciplinas generalistas)."""
     global _CACHED_CATEGORIES
     if _CACHED_CATEGORIES is not None:
@@ -16,7 +18,7 @@ def load_allowed_categories() -> List[str]:
     if not CATEGORIES_FILE.exists():
         raise FileNotFoundError(f"Arquivo de categorias não encontrado em: {CATEGORIES_FILE}")
 
-    with open(CATEGORIES_FILE, "r", encoding="utf-8") as f:
+    with open(CATEGORIES_FILE, encoding="utf-8") as f:
         data = json.load(f)
 
     if not isinstance(data, list):
@@ -26,7 +28,7 @@ def load_allowed_categories() -> List[str]:
     return _CACHED_CATEGORIES
 
 
-def normalize_categories(categories: List[str]) -> List[str]:
+def normalize_categories(categories: list[str]) -> list[str]:
     """Remove duplicatas, aplica strip e ordena alfabeticamente uma lista de categorias."""
     if not categories:
         return []
@@ -34,7 +36,7 @@ def normalize_categories(categories: List[str]) -> List[str]:
     return sorted(cleaned)
 
 
-def validate_categories(categories_val: Any) -> List[str]:
+def validate_categories(categories_val: Any) -> list[str]:
     """Valida a integridade da chave categories em relação à taxonomia pré-aprovada.
 
     Retorna uma lista de mensagens de erro encontradas (vazia caso seja válido).
@@ -45,7 +47,7 @@ def validate_categories(categories_val: Any) -> List[str]:
       4. Ausência de elementos duplicados.
       5. Ordenação alfabética obrigatória.
     """
-    errors: List[str] = []
+    errors: list[str] = []
 
     if categories_val is None:
         errors.append('Campo obrigatório "categories" está ausente.')
@@ -60,7 +62,7 @@ def validate_categories(categories_val: Any) -> List[str]:
         return errors
 
     allowed = set(load_allowed_categories())
-    seen = set()
+    seen: set[str] = set()
     has_duplicates = False
 
     for item in categories_val:
@@ -76,26 +78,25 @@ def validate_categories(categories_val: Any) -> List[str]:
         if item_clean not in allowed:
             errors.append(
                 f'Categoria inválida ou composta: "{item_clean}". '
-                f'Use apenas disciplinas generalistas pré-aprovadas. '
-                f'Detalhes específicos, correntes e cronologias pertencem à chave "keywords".'
+                "Use apenas disciplinas generalistas pré-aprovadas. "
+                'Detalhes específicos, correntes e cronologias pertencem à chave "keywords".'
             )
 
     if has_duplicates:
         errors.append('A chave "categories" contém elementos duplicados.')
 
-    # Validação de ordenação alfabética
     string_items = [str(x).strip() for x in categories_val if isinstance(x, str)]
     if string_items and string_items != sorted(string_items):
         errors.append(
             f'A lista "categories" não está ordenada alfabeticamente. '
-            f'Ordem atual: {string_items}; Ordem esperada: {sorted(string_items)}.'
+            f"Ordem atual: {string_items}; Ordem esperada: {sorted(string_items)}."
         )
 
     return errors
 
 
 # Mapeamento oficial de disciplinas canônicas para a Classificação Decimal Universal (CDU / UDC)
-CATEGORY_TO_UDC = {
+CATEGORY_TO_UDC: dict[str, str] = {
     "Antropologia": "39",
     "Artes": "7",
     "Astronomia": "52",
@@ -113,6 +114,7 @@ CATEGORY_TO_UDC = {
     "Matemática": "51",
     "Medicina": "61",
     "Música": "78",
+    "Poesia": "82-1",
     "Política": "32",
     "Psicologia": "159.9",
     "Química": "54",
@@ -121,7 +123,7 @@ CATEGORY_TO_UDC = {
 }
 
 
-def derive_udc_from_categories(categories: Optional[List[str]]) -> Optional[str]:
+def derive_udc_from_categories(categories: list[str] | None) -> str | None:
     """Deriva a notação CDU (UDC) a partir das categorias canônicas do documento.
 
     Se houver múltiplas categorias, combina os códigos com dois-pontos ':' segundo
@@ -130,7 +132,7 @@ def derive_udc_from_categories(categories: Optional[List[str]]) -> Optional[str]
     """
     if not categories:
         return None
-    codes: List[str] = []
+    codes: list[str] = []
     for cat in sorted(categories):
         code = CATEGORY_TO_UDC.get(str(cat).strip())
         if code and code not in codes:

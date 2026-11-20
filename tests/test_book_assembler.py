@@ -1,12 +1,13 @@
 """Testes unitários para o montador de volumes BookAssembler."""
 
+from __future__ import annotations
+
 from pathlib import Path
-import pytest
-import yaml
+
 from scripts.book_assembler import BookAssembler
 
 
-def test_shift_headings():
+def test_shift_headings() -> None:
     text = "# Título 1\n## Título 2\n### Título 3\nParágrafo normal."
     shifted = BookAssembler.shift_headings(text, level_offset=1)
     assert "## Título 1" in shifted
@@ -15,7 +16,7 @@ def test_shift_headings():
     assert "Parágrafo normal." in shifted
 
 
-def test_extract_notes_from_body():
+def test_extract_notes_from_body() -> None:
     body = (
         "Texto do tratado com nota de rodapé[^1].\n\n"
         "---\n\n"
@@ -28,7 +29,22 @@ def test_extract_notes_from_body():
     assert "### Notas do Autor" not in clean_body
 
 
-def test_assemble_volume_end_to_end(tmp_path: Path):
+def test_extract_notes_preserves_thematic_hr_inside_body() -> None:
+    body = (
+        "Primeira parte do capítulo.\n\n"
+        "---\n\n"
+        "Segunda parte do capítulo que deve ser preservada.\n\n"
+        "---\n\n"
+        "### Notas do Autor\n\n"
+        "[^1]: Nota final."
+    )
+    clean_body, notes = BookAssembler.extract_notes_from_body(body)
+    assert "Primeira parte do capítulo." in clean_body
+    assert "Segunda parte do capítulo que deve ser preservada." in clean_body
+    assert notes == ["[^1]: Nota final."]
+
+
+def test_assemble_volume_end_to_end(tmp_path: Path) -> None:
     parts_dir = tmp_path / "parts"
     parts_dir.mkdir()
 
@@ -50,7 +66,7 @@ def test_assemble_volume_end_to_end(tmp_path: Path):
         'author: "Hugo de São Vítor"\n'
         "---\n\n"
         "## Capítulo Único\n\n"
-        "O amor é fonte de todos os bens.[^1]\n\n"
+        "O amor é fonte de todos os bens[^1].\n\n"
         "---\n\n"
         "[^1]: Citação clássica.\n",
         encoding="utf-8",
@@ -63,10 +79,10 @@ def test_assemble_volume_end_to_end(tmp_path: Path):
         "summary": "Resumo dos opúsculos.",
         "date": "c. 1130 d.C.",
         "license": "CC BY-NC 4.0",
-        "categories": ["Teologia", "Mística"],
+        "categories": ["Teologia"],
     }
 
-    result = BookAssembler.assemble_volume(parts_dir, output_file, metadata)
+    result = BookAssembler.assemble_volume(parts_dir, output_file, metadata, preset="hugo-vitor")
     assert result.exists()
 
     content = result.read_text(encoding="utf-8")
@@ -79,3 +95,24 @@ def test_assemble_volume_end_to_end(tmp_path: Path):
     assert "### Notas Editoriais" in content
     assert "### Notas do Autor" in content
     assert "[^1]: Citação clássica." in content
+
+
+def test_assemble_volume_generic_does_not_inject_hugo_hardcodes(tmp_path: Path) -> None:
+    parts_dir = tmp_path / "parts"
+    parts_dir.mkdir()
+    (parts_dir / "01-livro-i.md").write_text(
+        '---\ntitle: "Livro I"\n---\n\n## Capítulo I\n\nTexto do tratado.\n',
+        encoding="utf-8",
+    )
+
+    output_file = tmp_path / "tratado.md"
+    result = BookAssembler.assemble_volume(
+        parts_dir,
+        output_file,
+        {"title": "Tratado Genérico", "author": "Autor Clássico", "date": "1500"},
+    )
+    txt = result.read_text(encoding="utf-8")
+    assert "Hugo de São Vítor" not in txt
+    assert "cristianismo.org.br" not in txt
+    assert "Escola Vitorina" not in txt
+    assert "Teologia" in txt

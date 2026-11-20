@@ -1,124 +1,164 @@
 # Fluxo de Trabalho e Contribuição
 
-Este guia serve como referência rápida para o fluxo de trabalho cotidiano no repositório. Ele explica os passos necessários para incluir novos artigos científicos, e-books, mídias e como certificar-se de que a indexação funcionará corretamente.
+Este guia detalha o fluxo completo de cinco estágios para adicionar, revisar, validar e publicar artigos científicos e livros no **OpenSciMD**.
 
-## 📥 Fluxo para Adicionar Conteúdo
-
-Para introduzir um novo artigo científico ou e-book ao acervo do repositório, você pode partir de um PDF original (automatizado via SalopDoc) ou escrever diretamente em Markdown.
-
-### Opção A: Conversão Automática a partir de PDF (Recomendado via SalopDoc)
-
-Se você tem o PDF original do artigo:
-
-1. Coloque o PDF em `data/raw/` ou execute diretamente:
-   ```bash
-   uv run openscimd import-pdf data/raw/nome-do-artigo.pdf -o data/draft/nome-do-artigo.md
-   ```
-2. Caso tenha vários PDFs, você pode colocá-los em `data/raw/` e rodar:
-   ```bash
-   uv run openscimd batch-import
-   ```
-3. O SalopDoc gerará o arquivo Markdown com Frontmatter preenchido automaticamente, reflow semântico e notas de rodapé limpas em `data/draft/`.
-4. Mova para `data/review/` para realizar o saneamento editorial (ou utilize os [Prompts Editoriais](prompts-editoriais.md) com IA).
+> [!NOTE]
+> Para a especificação editorial detalhada (tipografia, ABNT, namespaces de notas e regras para IA), consulte [`AGENTS.md`](../AGENTS.md) e [`.agents/01-editorial-spec.md`](../.agents/01-editorial-spec.md).
 
 ---
 
-### Opção B: Escrever o artigo em Markdown Diretamente
+## 🔄 Os 5 Estágios do Pipeline
 
-Escreva o arquivo `.md` e coloque-o na pasta `content/articles/` ou `content/books/`. O nome do arquivo deve ser em formato slug lowercase do título completo do artigo (ex: `reformas-filosoficas-de-petrus-ramus.md`).
+1. **Ingestão (`data/raw/` → `data/draft/`)**: converta PDF ou HTML bruto para rascunho Markdown sem editar os arquivos originais.
+2. **Preparo (`data/draft/` ou `content/` → `data/review/`)**: abra uma mesa de revisão ativa com `start-review`.
+3. **Edição & Auditoria (`data/review/`)**: enriqueça metadados, normalize referências bíblicas, verifique ortografia e faça a leitura integral bloco a bloco registrando no `.audit.md`.
+4. **Gate (`validate --file` / `lint`)**: confirme **0 erros** de metadados, linter editorial e comparação contra a matriz.
+5. **Publicação (`promote` → `content/`)**: mova o documento validado para `content/` (removendo a cópia ativa de `data/review/`), atualize os índices e verifique o ledger de IDs.
 
-No topo do arquivo, estruture o cabeçalho YAML da seguinte forma:
+---
+
+## 📥 Passo 1 — Ingestão a partir de PDF ou HTML
+
+Deposite o arquivo original na pasta `data/raw/` (estritamente imutável).
+
+- **PDF digital com texto selecionável (SalopDoc)**:
+  ```bash
+  uv run openscimd import-pdf "data/raw/nome-do-artigo.pdf" -o "data/draft/nome-do-artigo.md"
+  # Ou em lote:
+  uv run openscimd batch-import
+  ```
+- **PDF escaneado, multi-coluna complexo ou com muitas tabelas/notas**:
+  Use `saloppdf` (MinerU) conforme [`docs/saloppdf.md`](saloppdf.md).
+- **HTML legado com tabelas de layout**:
+  ```bash
+  uv run openscimd clean-html "data/raw/obra.htm" "data/draft/obra.md" --author "Nome do Autor"
+  ```
+- **HTML moderno / frames**:
+  ```bash
+  uv run openscimd html-to-md "data/raw/obra.html" "data/draft/obra.md"
+  ```
+
+---
+
+## ✍️ Passo 2 e 3 — Abrir Revisão Ativa e Editar (`data/review/`)
+
+Nunca edite em `data/draft/` nem edite diretamente em `content/`. Inicie sempre via `start-review`:
+
+```bash
+# Para nova obra vinda de data/draft/:
+uv run openscimd start-review "data/draft/nome-do-artigo.md" --type articles --dest "revista/vol-1/slug.md"
+# ou para livro:
+uv run openscimd start-review "data/draft/obra.md" --type books --dest "autor/slug.md"
+
+# Para re-revisar uma obra já publicada em content/:
+uv run openscimd start-review "content/articles/revista/vol-1/slug.md"
+```
+
+Durante a edição em `data/review/`:
+1. **Enriquecer metadados via DOI (Crossref ou Zenodo)**:
+   ```bash
+   uv run openscimd enrich "data/review/articles/revista/vol-1/slug.md"
+   ```
+2. **Normalizar referências bíblicas**:
+   ```bash
+   uv run openscimd normalize-refs "data/review/.../slug.md" --canonical
+   ```
+3. **Checagem ortográfica e de arcaísmos**:
+   ```bash
+   uv run openscimd review --check "data/review/.../slug.md"
+   ```
+4. **Conferência linha a linha**: leia em blocos de 150–200 linhas contra a fonte em `data/raw/` e marque os blocos concluídos no arquivo irmão `<slug>.audit.md` (ver [`.agents/03-line-by-line-review.md`](../.agents/03-line-by-line-review.md)).
+
+### Modelo de Frontmatter YAML (Artigos)
 
 ```yaml
 ---
-title: "Título Completo do Artigo"
-
-journal: History of Science
+title: "Reformas Filosóficas de Petrus Ramus: A Simplificação da Lógica"
+journal: "History of Science"
 volume: 6
 issue: 5
-serial: 23, 2025, pp.101-112 
-e_issn: 2790-0037
+pages: "101–112"
+e_issn: "2790-0037"
 
 authors:
   - name: "Nome do Autor 1"
     orcid: "0000-0000-0000-0000"
     email: "email@example.com"
     affiliation: "Universidade Estatal de Baku"
-  - name: "Nome do Autor 2"
-    ...
 
-summary: "Um breve resumo ou sumário executivo do artigo."
+summary: "Resumo acadêmico integral do artigo original."
+date: "2026-06-20"
+language: "pt-BR"
+originalLanguage: "en"
+license: "CC BY 4.0"
 
-date: 2026-06-20
+UDC: "1:94"
+BBK: "87.3:87.4"
+HoS: "113"
+DOI: "10.33864/2790-0037.2025.v6.i5.101-112"
 
-UDC: 1(091):161/162  
-BBK: 87.3:87.4  
-HoS: 113
-DOI: 10.33864/2790-0037.2025.v6.i5.101-112
-
-keywords: 
-  - Renascimento  
+keywords:
+  - Renascimento
   - Humanismo
-  - Lógica
-  - Lógica aristotélica
-  - Metodização
   - Petrus Ramus
 
 categories:
-  - Lógica
   - Filosofia
-
-license: "CC BY 4.0"
+  - História
 ---
 ```
 
 > [!NOTE]
-> Se houver múltiplos autores, utilize a chave `authors` (lista). Se houver apenas um autor, pode optar por usar a chave simples `author: "Nome do Autor"`. O script omitirá automaticamente a chave que não for relevante para manter o JSON final eficiente.
+> Use `authors` (lista estruturada) para artigos e `author` (ou `authors`) para livros. Livros **não** podem ter `keywords`. Veja todas as regras em [`docs/metadata_guidelines.md`](metadata_guidelines.md).
 
 ---
 
-### Passo 2: Adicionar Imagens de Capa e o PDF Original (Opcionais)
+## 🛡️ Passo 4 — Gate de Validação Obrigatório
 
-* **Imagem de Capa**: Você pode criar a imagem de fundo manualmente na pasta `assets/covers/` ou usar o nosso gerador automático via Inteligência Artificial rodando:
+Antes de promover qualquer obra:
 
 ```bash
-uv run openscimd ai-cover nome-do-artigo
+uv run openscimd validate --file "data/review/.../slug.md" --source "data/raw/original.pdf"
+# Para validar também warnings em modo estrito:
+uv run openscimd lint "data/review/.../slug.md" --source "data/raw/original.pdf" --strict
 ```
 
-*(Para detalhes de estilo e configuração da API de IA, consulte o guia de [Modelo e Geração de Capas](gerador-de-capas.md)).*
+---
 
-* **Fonte Original (Opcional)**: Adicione o arquivo original correspondente na pasta `assets/sources/` com o mesmo slug (ex: `assets/sources/reformas-filosoficas-de-petrus-ramus.pdf`).
+## 🚀 Passo 5 — Capas, Fontes, Promoção e Indexação
+
+1. **Fonte Original (`assets/sources/`)**: salve o arquivo original como `assets/sources/<slug>.pdf` (ou `<slug>.html` para hubs de múltiplas fontes, conforme [`docs/readers/leiame.md`](readers/leiame.md)).
+2. **Imagem de Capa (`assets/covers/`)**: gere ou componha seguindo os Design Systems oficiais:
+   - Artigos: [`.agents/editorial/design-system-capas-artigos.md`](../.agents/editorial/design-system-capas-artigos.md)
+   - Livros: [`.agents/editorial/design-system-capas-livros.md`](../.agents/editorial/design-system-capas-livros.md)
+   ```bash
+   uv run openscimd ai-cover <slug>
+   uv run openscimd build-covers
+   ```
+3. **Promover e Indexar**:
+   ```bash
+   uv run openscimd promote "data/review/.../slug.md" --source "data/raw/original.pdf" --index
+   ```
+   O comando valida novamente, move o arquivo para `content/`, remove a cópia e o `.audit.md` de `data/review/`, atualiza `index-*.json` e checa `validate-ids`.
 
 ---
 
-### Passo 3: Executar a Atualização do Índice
-
-Após incluir todos os arquivos físicos, abra o seu terminal na raiz do projeto e execute:
+## 🧪 Como Executar Validações e Testes
 
 ```bash
-uv run openscimd index
-```
-
-O script atualizará automaticamente os arquivos `json` de indexes, calculando o tempo de leitura e inserindo a referência aos arquivos de mídia e PDF.
-
----
-
-## 🧪 Como Executar os Testes
-
-Dispomos de dois tipos de testes independentes no repositório:
-
-### 1. Validação de Artigos e Metadados (Para Contribuintes)
-
-Ideal para verificar se os artigos que você escreveu estão em conformidade com as regras bibliográficas e estruturais. O teste avisa sobre erros de digitação nas chaves YAML, formatação de datas, chaves mandatórias em falta ou arquivos físicos pendentes (capas e PDFs):
-
-```bash
+# Validação global de metadados do acervo publicado
 uv run openscimd validate
-```
 
-### 2. Suíte de Testes Automatizados (Desenvolvimento)
+# Validação global incluindo linter editorial
+uv run openscimd validate --editorial
 
-Para rodar os testes unitários do pipeline e do CLI com `pytest`:
+# Verificação de invariantes do ledger de IDs
+uv run openscimd validate-ids --base-ref HEAD
 
-```bash
+# Suíte de testes unitários e de integração
 uv run pytest
+
+# Linter de código e checagem estática de tipos
+uv run ruff check .
+uv run mypy scripts/editorial_linter.py scripts/workflow.py scripts/validator.py scripts/categories.py scripts/enricher.py scripts/text_tools.py scripts/biblical_books.py scripts/html_cleaner.py scripts/book_assembler.py scripts/utils.py scripts/identity_registry.py
 ```
