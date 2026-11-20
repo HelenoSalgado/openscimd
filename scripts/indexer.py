@@ -1,4 +1,5 @@
 import os
+import re
 import json
 import subprocess
 import time
@@ -137,6 +138,13 @@ def update_articles_index(base_dir, registry=None):
 
         journal_name = metadata.get('journal') or (existing.get('journal') if existing else None)
         volume_val = metadata.get('volume') if metadata.get('volume') is not None else (existing.get('volume') if existing else None)
+        m_vol = re.search(r'vol-(\d+)', rel_path)
+        if m_vol:
+            path_vol = m_vol.group(1)
+            if volume_val is None:
+                volume_val = path_vol
+            elif str(volume_val) != path_vol:
+                print(f"⚠️ Aviso de consistência: {rel_path} declara volume '{volume_val}', mas reside em 'vol-{path_vol}'")
         journal_id = f"journal_{slugify(journal_name)}" if journal_name else None
         volume_id = f"vol_{slugify(journal_name)}_{volume_val}" if journal_name and volume_val is not None else None
 

@@ -7,8 +7,8 @@ summary: "O presente artigo examina como filósofos, historiadores e classicista
 date: "2011-01-01"
 license: "CC BY 4.0"
 journal: "Peitho / Examina Antiqua"
-volume: 1
-issue: 2
+volume: 2
+issue: 1
 pages: "191–202"
 e_issn: "2082-7539"
 DOI: "10.14746/pea.2011.1.13"

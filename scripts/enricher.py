@@ -42,7 +42,10 @@ def enrich_metadata(filepath: str):
         if 'publisher' in data and not meta.get('journal'):
             meta['journal'] = data['publisher']
             
-        if 'volume' in data and not meta.get('volume'):
+        m_vol = re.search(r'vol-(\d+)', str(path))
+        if m_vol:
+            meta['volume'] = int(m_vol.group(1))
+        elif 'volume' in data and not meta.get('volume'):
             meta['volume'] = data['volume']
             
         if 'issue' in data and not meta.get('issue'):

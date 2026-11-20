@@ -112,3 +112,24 @@ def test_validators_full_execution():
     assert validate_articles(str(BASE_DIR)) is True
     assert validate_books(str(BASE_DIR)) is True
     assert validate_all(str(BASE_DIR)) is True
+
+
+def test_validate_articles_volume_consistency(tmp_path):
+    """Garante que a divergência entre pasta vol-X e volume no frontmatter é barrada."""
+    art_dir = tmp_path / "content" / "articles" / "test-journal" / "vol-2"
+    art_dir.mkdir(parents=True)
+    
+    file_path = art_dir / "artigo.md"
+    file_path.write_text(
+        "---\ntitle: 'Artigo Teste'\nauthor: 'Autor'\nsummary: 'Resumo'\ndate: '2020-01-01'\nlicense: 'CC BY 4.0'\npages: '1-10'\ncategories: ['Filosofia']\nvolume: 1\n---\nCorpo",
+        encoding="utf-8"
+    )
+    # Deve falhar com volume: 1 na pasta vol-2
+    assert validate_articles(str(tmp_path)) is False
+
+    # Corrigindo para volume: 2, deve passar da checagem de volume
+    file_path.write_text(
+        "---\ntitle: 'Artigo Teste'\nauthor: 'Autor'\nsummary: 'Resumo'\ndate: '2020-01-01'\nlicense: 'CC BY 4.0'\npages: '1-10'\ncategories: ['Filosofia']\nvolume: 2\n---\nCorpo",
+        encoding="utf-8"
+    )
+    assert validate_articles(str(tmp_path)) is True

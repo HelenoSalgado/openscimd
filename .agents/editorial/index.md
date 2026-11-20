@@ -152,6 +152,9 @@ keywords:
 2. **Autores Estruturados**: Forneça `name`, `orcid`, `email` e `affiliation` quando disponível.
 3. **Resumo Integral (`summary`)**: Insira o resumo original 100% integralmente no campo `summary`.
 4. **Busca Ativa por DOI**: Você deve consultar ativamente o DOI na internet/API para recuperar metadados ausentes.
+5. **Consistência de Volume com a Pasta**:
+   - O campo `volume` no YAML **deve corresponder obrigatoriamente** à pasta `vol-{N}` em que o artigo reside (ex.: em `vol-2/`, deve ser `volume: 2`). Divergências bloqueiam a validação estática.
+   - **Atenção a Vieses de Catalogação em APIs**: Repositórios acadêmicos e o Crossref muitas vezes trazem `issue: "1(2)"` ou `volume: null` para edições anuais sequenciais. Jamais deduza `volume: 1, issue: 2` cegamente a partir de `1(2)` se o artigo pertence ao Volume 2 da série. Nestes casos, o correto é `volume: 2` e `issue: 1`.
 
 ### B. Padrão para Livros e E-books (`content/books/`)
 

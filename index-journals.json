@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "journals",
-  "last_updated": 1795180518782,
+  "last_updated": 1795182010331,
   "journals": [
     {
       "id": "journal_boletim-cearense-de-educacao-e-historia-da-matematica",
@@ -133,7 +133,20 @@
               ]
             },
             {
-              "issue": "2",
+              "issue": "3",
+              "articles": [
+                "art_011"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "vol_peitho-examina-antiqua_2",
+          "volume": "2",
+          "year": 2011,
+          "issues": [
+            {
+              "issue": "1",
               "articles": [
                 "art_018",
                 "art_019",
@@ -148,12 +161,6 @@
                 "art_028",
                 "art_029",
                 "art_030"
-              ]
-            },
-            {
-              "issue": "3",
-              "articles": [
-                "art_011"
               ]
             }
           ]

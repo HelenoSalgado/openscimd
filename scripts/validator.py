@@ -1,4 +1,5 @@
 import os
+import re
 from pathlib import Path
 from typing import List, Tuple
 from scripts.utils import parse_markdown_file, parse_date_to_timestamp, get_files_recursively
@@ -72,6 +73,16 @@ def validate_articles(base_dir: str) -> bool:
             pages = metadata.get("pages")
             if not pages or not str(pages).strip():
                 errors.append('Campo obrigatório "pages" está ausente ou vazio.')
+
+            # Validação de consistência do Volume com a estrutura de pastas
+            m_vol = re.search(r'vol-(\d+)', rel_path)
+            if m_vol:
+                expected_vol = m_vol.group(1)
+                actual_vol = metadata.get("volume")
+                if actual_vol is None:
+                    errors.append(f'Artigo reside na pasta "vol-{expected_vol}", mas o campo obrigatório "volume" está ausente no YAML.')
+                elif str(actual_vol) != expected_vol:
+                    errors.append(f'Divergência de Volume: YAML declara volume "{actual_vol}", mas o arquivo reside na pasta "vol-{expected_vol}".')
 
             # Validação estrita de categorias canônicas
             if "category" in metadata and "categories" not in metadata:
