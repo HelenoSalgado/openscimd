@@ -10,7 +10,7 @@ categories:
 draft: true
 ---
 
-# Comentários sobre a Religião Cristã, em quatro livros.
+## Comentários sobre a Religião Cristã, em Quatro Livros
 
 **Nunca antes editados.**
 
@@ -32,7 +32,7 @@ Ora, quão vãos são esses estudos dos homens tolos, os exemplos de todas as na
 
 Muitos leram os escritos daqueles que até agora existiram; mas quão distante está o céu da terra é aquela sabedoria que recentemente emerge dos comentários sobre a religião cristã do Filósofo e Mártir cristão. Ela supera de longe todo louvor da doutrina e sabedoria humana. Antes de dizer algo sobre eles, falarei brevemente da vida de Petrus Ramus, de seus estudos de filosofia, de seus costumes, de sua religião e, enfim, de sua própria morte.
 
-## VIDA DE PETRUS RAMUS
+## Vida de Petrus Ramus
 
 A pátria de Petrus Ramus foi Vermandois, outrora obscura, mas que se tornará célebre no futuro, pois gerou um Orador e Filósofo não menos ilustre do que Cícero, gerado por Arpino, embora esta fosse de outra forma ignóbil. Nasceu no ano da salvação de 1515, precisamente no ano em que Francisco I (pai das letras) foi aclamado Rei dos Gauleses.
 

@@ -39,6 +39,7 @@ categories:
   - Educação
   - História
 license: "CC BY-NC-SA"
+language: "pt-BR"
 ---
 
 ## Universidades: do surgimento à nacionalização
@@ -65,7 +66,7 @@ Ademais, deve-se destacar também a utilização da língua latina nas aulas, a 
 
 A criação das universidades obedeceu basicamente a dois contextos. Um primeiro, chamado *ex-consuetudine*, referia-se à junção a partir de centros de estudos já existentes anteriormente, geralmente formados pela reunião de professores. Neste caso, as universidades eram organismos autônomos de natureza de caráter corporativo, eram reconhecidas pelas instituições eclesiásticas e laicas e tinham autonomia em relação ao ensino, aos programas das disciplinas, à duração dos estudos, modalidades de exames, entre outros (VERGER, 1999, p. 82). É necessário destacar que este modelo de formação universitária correspondia a um desejo de organização autônoma de uma comunidade de mestres e estudantes, apresentando-se como outro ofício urbano qualquer (BASCHET, 2006, p. 214). O segundo contexto, surgido posteriormente, chamado *ex-privilegio*, era uma criação universitária concedida pelo poder estatal (NUNES, 2018, p. 230). Assim, com o passar dos séculos, cada vez mais ocorreu a associação entre o mundo universitário e outro fenômeno que estava se formando neste mesmo contexto: a formação estatal.
 
-Em termos de formação do estado durante o Medievo, o século XIII apresenta o que seria o quarto estágio da formação estatal de acordo com Genet, aquele que seria, inclusive, o anterior ao estado absolutista. Cada vez mais havia uma centralização de poder, a criação de grupos burocráticos, uma padronização das cobranças de impostos em relação à sociedade e uma padronização em termos de relação da sociedade com o rei, na figura do súdito (GENET, 2002, p. 405-408). Afonso X, rei de Castela entre os anos 1252 e 1284, conhecido como o Sábio pelo seu envolvimento com atividades intelectuais no século XIII, nos apresenta esta divisão:
+Em termos de formação do estado durante o Medievo, o século XIII apresenta o que seria o quarto estágio da formação estatal de acordo com Genet, aquele que seria, inclusive, o anterior ao estado absolutista. Cada vez mais havia uma centralização de poder, a criação de grupos burocráticos, uma padronização das cobranças de impostos em relação à sociedade e uma padronização em termos de relação da sociedade com o rei, na figura do súdito (GENET, 2002, p. 405–408). Afonso X, rei de Castela entre os anos 1252 e 1284, conhecido como o Sábio pelo seu envolvimento com atividades intelectuais no século XIII, nos apresenta esta divisão:
 
 > Um estudo é uma associação de mestres e de escolares feita num determinado lugar com a vontade e a intenção de aprender os saberes. E dele existem duas modalidades: uma é a que chamam “estudo geral”, onde há mestres das artes, assim como de gramática, de lógica, de retórica, de aritmética, de geometria, e de astrologia, e outrossim em que há mestres de decretos e senhores de leis (mestres de direito civil); este estudo deve ser estabelecido por mandado de papa, de imperador ou de rei. A segunda modalidade é a que chamam “estudo particular”, quer dizer, quando um mestre ensina nalguma cidade, apartadamente, a poucos escolares. E este, pode mandá-lo fazer o prelado ou conselho de qualquer lugar (PEDRERO-SÁNCHEZ, 2000, p. 182).
 
@@ -211,7 +212,7 @@ AVELAR, Antonio Carrillo; ROA, Andrea Olmos; CUSATI, Iracema Campos. Articulaç�
 
 BASCHET, Jérôme. *A civilização feudal. Do ano mil à colonização da América*. Rio de Janeiro: Globo, 2006.
 
-BRUNNER. J. J. Ensaio: aval. pol. públ. Educ., Rio de Janeiro, v. 22, n. 82, p. 11-30, jan./mar. 2014.
+BRUNNER. J. J. Ensaio: aval. pol. públ. Educ., Rio de Janeiro, v. 22, n. 82, p. 11–30, jan./mar. 2014.
 
 CASTAÑEDA, José Antonio Serrano. Alrededor de la idea de formación. In: SALINAS, Sonia Comboni (Coord.). *La investigación educativa en México*. México: COMIE-UPN, 2001.
 
@@ -221,7 +222,7 @@ DIDRIKSSON, Axel. *La universidad de la innovación*. México: CESU/UNAM, 2015.
 
 FALLON, Daniel. *The German University: a heroic ideal in conflict with the modern world*. Boulder, Colorado: Colorado Associated University Press, 1983.
 
-GENET, Jean-Philippe. Estado. In: *Dicionário Temático do Ocidente Medieval*. São Paulo: Edusc, 2002. v. 1. p. 397-409.
+GENET, Jean-Philippe. Estado. In: *Dicionário Temático do Ocidente Medieval*. São Paulo: Edusc, 2002. v. 1. p. 397–409.
 
 HUMBOLDT, Wilhelm von. *Sobre a organização interna e externa das instituições científicas superiores em Berliml*. Rio de Janeiro: EdUERJ, 1997.
 

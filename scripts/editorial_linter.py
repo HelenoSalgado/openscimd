@@ -77,8 +77,9 @@ _ALLOWED_HEADING_ACRONYMS: frozenset[str] = frozenset(
 )
 
 _ABBREV_BEFORE_DOT_RE = re.compile(
-    r"(?:"
+    r"\b(?:"
     r"etc|a\.C|d\.C|Cf|cf|op\.\s*cit|loc\.\s*cit|ibid|ib|et\s+al|"
+    r"N\.\s*T|A\.\s*T|ms|mss|"
     r"e\.g|i\.e|pp|p|vv|v|vol|cap|art|n|s\.v|ed|trad|org|Jr|Sr|Dr|St|S|N"
     r")\.$"
 )
@@ -437,10 +438,11 @@ def _check_footnotes(masked_with_fn_lines: list[str]) -> list[EditorialIssue]:
                 )
             )
 
-        # Verifica separadores '---' duplicados dentro do bloco de notas pós-texto
+        # Verifica separadores '---' duplicados entre definições do aparato de notas pós-texto
+        last_def_line = def_lines[-1]
         post_hrs = [
             idx + 1
-            for idx in range(max(0, first_def_line - 1), len(masked_with_fn_lines))
+            for idx in range(max(0, first_def_line - 1), last_def_line)
             if masked_with_fn_lines[idx].strip() == "---"
         ]
         if post_hrs:

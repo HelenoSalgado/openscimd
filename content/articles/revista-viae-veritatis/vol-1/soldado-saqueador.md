@@ -27,6 +27,7 @@ categories:
   - Teologia
 copyright: "Instituto Reformado Santo Evangelho (IRSE)"
 license: "ViVe 1.0 — REVISTA VIAE VERITATIS"
+language: "pt-BR"
 ---
 
 ## Da Ordem do Intelecto e da Corrupção da Leitura[^ne1][^ne2]

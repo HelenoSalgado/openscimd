@@ -26,6 +26,7 @@ categories:
   - Teologia
 copyright: "Instituto Reformado Santo Evangelho (IRSE)"
 license: "ViVe 1.0 — REVISTA VIAE VERITATIS"
+language: "pt-BR"
 ---
 
 ## Da Ordem da Alma e da Ordem dos Ofícios[^ne1][^ne2]

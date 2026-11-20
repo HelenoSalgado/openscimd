@@ -25,7 +25,7 @@ categories:
 
 > Bem-aventurados os imaculados no caminho, que andam na lei do Senhor. Bem-aventurados os que perscrutam seus testemunhos, em todo coração o buscam.
 >
-> — *Sl 118.1-2*
+> — *Sl 118.1–2*
 
 Duas são as escolas, e dois são os gêneros dos que aprendem: alguns buscam a virtude, outros buscam a verdade. Aqueles, porém, aos quais apetece a virtude dentro da verdade não desprezam a nenhuma das duas, pois nem a virtude é odiosa para quem ama a verdade, nem a verdade é desprezível para os que amam a virtude.
 

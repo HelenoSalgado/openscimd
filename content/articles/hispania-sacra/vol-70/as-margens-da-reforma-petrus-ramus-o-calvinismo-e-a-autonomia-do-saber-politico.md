@@ -27,6 +27,7 @@ categories:
 copyright: "2018 CSIC"
 
 license: "CC BY 4.0"
+language: "pt-BR"
 ---
 
 ## Petrus Ramus e sua concepção do saber[^1]
@@ -35,19 +36,19 @@ Pierre de la Ramée, latinizado Petrus Ramus (1515–1572), é, sem dúvida, um 
 
 Existem interpretações contrapostas sobre a pretendida modernidade política de Calvino, visto por uns como paladino da democracia, da separação entre Igreja e Estado ou paladino da resistência, do realismo político moderno, do pensamento monarcômaco, do republicanismo ou inclusive da secularização (com diferentes perspectivas, vejam-se as leituras de Hancock[^2], Gorski[^3], Biéler[^4], Walzer[^5]…); enquanto por outros é analisado como um teólogo político, que colocou o direito e a teologia a serviço da religião, evitando com isso os excessos de uma leitura «política» de Calvino (por exemplo, num sentido mais teológico, Leith[^6]; ou desde uma ótica filosófico-hermenêutica, García Alonso)[^7].
 
-O muito citado caso da doutrina monarcômaca[^8], por exemplo, não pode ser extraído com clareza dos textos de Calvino, que nunca apoiou explicitamente o levante contra o tirano, a menos que fosse por razões religiosas.[^9] Note-se que a resistência é uma exceção, a qual, após os massacres de São Bartolomeu, foi considerada uma regra por outros autores calvinistas, que a apoiaram explicitamente.
+O muito citado caso da doutrina monarcômaca[^8], por exemplo, não pode ser extraído com clareza dos textos de Calvino, que nunca apoiou explicitamente o levante contra o tirano, a menos que fosse por razões religiosas[^9]. Note-se que a resistência é uma exceção, a qual, após os massacres de São Bartolomeu, foi considerada uma regra por outros autores calvinistas, que a apoiaram explicitamente.
 
-Como é sabido, em setembro de 1561 realizou-se a Conferência de Poissy, na qual intervieram, entre outros, o líder reformado Teodoro de Beza e Carlos de Guise, cardeal de Lorena e protetor de Ramus. Na controvérsia entre ambos, após escutar o líder reformado, em vez de apoiar o seu amigo e defensor, o humanista abjurou da fé católica, na qual havia sido batizado, e converteu-se ao calvinismo.[^10] Contudo, Pierre de la Ramée ainda demorou um tempo para integrar-se ativamente aos círculos hugonotes.
+Como é sabido, em setembro de 1561 realizou-se a Conferência de Poissy, na qual intervieram, entre outros, o líder reformado Teodoro de Beza e Carlos de Guise, cardeal de Lorena e protetor de Ramus. Na controvérsia entre ambos, após escutar o líder reformado, em vez de apoiar o seu amigo e defensor, o humanista abjurou da fé católica, na qual havia sido batizado, e converteu-se ao calvinismo[^10]. Contudo, Pierre de la Ramée ainda demorou um tempo para integrar-se ativamente aos círculos hugonotes.
 
-Até então, Ramus havia sido formalmente um católico exemplar, ainda que, entre seus alunos, tivesse representado uma das vozes mais dissidentes contra o aristotelismo escolar. Seguidor de Platão e de Cícero, foi, junto com o seu *alter ego* Omer Talon (c.1510-1562), um dos líderes do humanismo antiaristotélico parisiense. A partir da sua conversão, ao compasso das Guerras de Religião, teve que partir de Paris, onde ensinava, e exilar-se em outros lugares onde a Reforma havia triunfado. Passou por Heidelberg, Genebra, Lausanne e Basileia, onde fez novas amizades e congregou numerosos discípulos que conheceram as suas ideias reformadoras. Nestas cidades, Ramus encontrou um auditório atento às suas propostas. Estas estadias permitiram-lhe uma grande difusão da sua obra e travar amizade com muitos jovens estudiosos que, após a sua morte, se converteriam em propagadores da mesma.
+Até então, Ramus havia sido formalmente um católico exemplar, ainda que, entre seus alunos, tivesse representado uma das vozes mais dissidentes contra o aristotelismo escolar. Seguidor de Platão e de Cícero, foi, junto com o seu *alter ego* Omer Talon (c.1510–1562), um dos líderes do humanismo antiaristotélico parisiense. A partir da sua conversão, ao compasso das Guerras de Religião, teve que partir de Paris, onde ensinava, e exilar-se em outros lugares onde a Reforma havia triunfado. Passou por Heidelberg, Genebra, Lausanne e Basileia, onde fez novas amizades e congregou numerosos discípulos que conheceram as suas ideias reformadoras. Nestas cidades, Ramus encontrou um auditório atento às suas propostas. Estas estadias permitiram-lhe uma grande difusão da sua obra e travar amizade com muitos jovens estudiosos que, após a sua morte, se converteriam em propagadores da mesma.
 
-Apesar das divergências entre os seus biógrafos, sabe-se que Ramus foi assassinado durante os massacres parisienses de São Bartolomeu em 1572. O seu corpo foi mutilado e decapitado antes de ser atirado ao Sena. Por ser um autor calvinista, os seus correligionários o consideraram desde então como um mártir da Reforma: chegou-se a chamá-lo «the Great Scholar and Blessed Martyr».[^11] Sem dúvida, a sua morte como mártir hugonote conferiu um caráter lendário à sua vida e às suas causas. No panfleto *De Furoribus Gallicis*, atribuído a Hotman, publicado em 1573, já se pode ler a seguinte afirmação: «Petrus Ramus toto terrarum orbe celebratus».[^12]
+Apesar das divergências entre os seus biógrafos, sabe-se que Ramus foi assassinado durante os massacres parisienses de São Bartolomeu em 1572. O seu corpo foi mutilado e decapitado antes de ser atirado ao Sena. Por ser um autor calvinista, os seus correligionários o consideraram desde então como um mártir da Reforma: chegou-se a chamá-lo «the Great Scholar and Blessed Martyr»[^11]. Sem dúvida, a sua morte como mártir hugonote conferiu um caráter lendário à sua vida e às suas causas. No panfleto *De Furoribus Gallicis*, atribuído a Hotman, publicado em 1573, já se pode ler a seguinte afirmação: «Petrus Ramus toto terrarum orbe celebratus»[^12].
 
-Ramus, enquanto converso calvinista, opôs-se a algumas das diretrizes de Calvino e de Teodoro de Beza, e iniciou uma revolução epistemológica que teve uma grande incidência no seio do calvinismo.[^13] Tal revolução intelectual começara sendo católico e foi levada a cabo através da sua aposta num método único que servisse para estudar todos os saberes. Dá-se o paradoxo de que o ramismo, que foi uma das correntes mais difundidas do ambiente calvinista, nasceu num contexto católico de reforma antiaristotélica, ainda que depois, pela conversão de Ramus, tenha sido recolhida e desenvolvida por autores calvinistas.
+Ramus, enquanto converso calvinista, opôs-se a algumas das diretrizes de Calvino e de Teodoro de Beza, e iniciou uma revolução epistemológica que teve uma grande incidência no seio do calvinismo[^13]. Tal revolução intelectual começara sendo católico e foi levada a cabo através da sua aposta num método único que servisse para estudar todos os saberes. Dá-se o paradoxo de que o ramismo, que foi uma das correntes mais difundidas do ambiente calvinista, nasceu num contexto católico de reforma antiaristotélica, ainda que depois, pela conversão de Ramus, tenha sido recolhida e desenvolvida por autores calvinistas.
 
 Pierre de la Ramée foi durante toda a sua vida essencialmente um professor de Artes que estava interessado essencialmente em buscar um método único (baseado na dialética) e estendê-lo não só aos saberes superiores, mas também às disciplinas emergentes. Durante a sua juventude, Ramus opôs-se à pluralidade de métodos de Aristóteles e reivindicou um método único, que permitisse a igualação de todos os saberes e ciências. Assim como em Aristóteles havia uma hierarquização muito clara do saber a partir da lógica e da metafísica, e uma pluralidade metodológica, Ramus defendeu um método único e uma homogeneização dos saberes.
 
-O grande paradoxo é que o Ramus católico era antiaristotélico, enquanto o Ramus calvinista era muito mais condescendente com Aristóteles, embora com duas diferenças intransponíveis com o Estagirita[^14]: a primeira, a negação da dicotomia existente entre *sciencia* e *ars* ou entre filosofia teorética e filosofia prática, e a segunda, a igualação de todos os saberes. De acordo com o professor francês, já não cabiam hierarquias nem barreiras entre os conhecimentos, nem tampouco saberes superiores e subordinados, como ocorria na Universidade. Todos os saberes mereciam, segundo Ramus, um tratamento homogêneo e igualmente diferenciado, de acordo com três leis, que — no pensamento ramista — tiveram progressivamente um caráter cada vez mais axiomático.[^15]
+O grande paradoxo é que o Ramus católico era antiaristotélico, enquanto o Ramus calvinista era muito mais condescendente com Aristóteles, embora com duas diferenças intransponíveis com o Estagirita[^14]: a primeira, a negação da dicotomia existente entre *sciencia* e *ars* ou entre filosofia teorética e filosofia prática, e a segunda, a igualação de todos os saberes. De acordo com o professor francês, já não cabiam hierarquias nem barreiras entre os conhecimentos, nem tampouco saberes superiores e subordinados, como ocorria na Universidade. Todos os saberes mereciam, segundo Ramus, um tratamento homogêneo e igualmente diferenciado, de acordo com três leis, que — no pensamento ramista — tiveram progressivamente um caráter cada vez mais axiomático[^15].
 
 Segundo estas leis, cada um dos saberes tinha que ser homogêneo, e não podia ser que para fundamentar o saber jurídico, médico, histórico ou físico se começasse a partir de premissas de caráter teológico ou filosófico. Da mesma forma, cada saber tinha que ir do geral ao mais particular.
 
@@ -59,9 +60,9 @@ Muitos calvinistas (e luteranos) seguiram este método, que desembocava numa enc
 
 Como bom metodólogo, Ramus gostava mais de insinuar e propor planos do que fechá-los ou esgotá-los. Sabendo que não era um especialista em muitas questões, abria um caminho para que outros especialistas as abordassem. Assim aconteceu com o direito, a teologia ou a política, disciplinas sobre as quais não era especialmente versado.
 
-Apesar de não ser um teólogo, escreveu um *Commentariorum de religione christiana libri IV*[^16], que apareceu postumamente, no qual tentou fundamentar a religião cristã segundo seu método analítico. Reduziu a teologia à ética e a uma explicação do dogma — de corte moderadamente zwingliano —, que não tratava em profundidade a eclesiologia. Definiu a teologia como: «doctrina bene vivendi».[^17] O primeiro livro era uma exposição do Credo; o segundo tratava do decálogo; o terceiro versava sobre a oração; e o quarto sobre os sacramentos (batismo e ceia), de acordo com a teologia calvinista.
+Apesar de não ser um teólogo, escreveu um *Commentariorum de religione christiana libri IV*[^16], que apareceu postumamente, no qual tentou fundamentar a religião cristã segundo seu método analítico. Reduziu a teologia à ética e a uma explicação do dogma — de corte moderadamente zwingliano —, que não tratava em profundidade a eclesiologia. Definiu a teologia como: «doctrina bene vivendi»[^17]. O primeiro livro era uma exposição do Credo; o segundo tratava do decálogo; o terceiro versava sobre a oração; e o quarto sobre os sacramentos (batismo e ceia), de acordo com a teologia calvinista.
 
-Se compararmos esta obra com a *Institutio Christianae Religionis* de Calvino, sobressai a vocação de Ramus pela clareza e homogeneidade. Enquanto Calvino foi muito mais especulativo, é preciso indicar também que dedicou muitas seções aos aspectos mais jurídicos e eclesiológicos. Ramus situou-se muito mais perto da teologia de Zwinglio —«mild zwinglianism», nas palavras de Walter Ong[^18]— e, nos últimos anos de sua vida, envolveu-se nas disputas eclesiológicas no seio do calvinismo. Ramus aproximou-se da doutrina de Jean Morély (ca.1524-ca.1594), para quem era necessária uma reforma do calvinismo no sentido de que o governo da Igreja fosse mais comunitário. Segundo Morély, o poder de decisão tinha que ser mais «democrático» e recair na «congregação» dos fiéis (o que se denominou «congregacionalismo»), enquanto Teodoro de Beza, seguindo Calvino, considerava que as decisões tinham que ser tomadas pelo consistório, isto é, por membros eleitos para o governo da assembleia.[^19]
+Se compararmos esta obra com a *Institutio Christianae Religionis* de Calvino, sobressai a vocação de Ramus pela clareza e homogeneidade. Enquanto Calvino foi muito mais especulativo, é preciso indicar também que dedicou muitas seções aos aspectos mais jurídicos e eclesiológicos. Ramus situou-se muito mais perto da teologia de Zwinglio —«mild zwinglianism», nas palavras de Walter Ong[^18]— e, nos últimos anos de sua vida, envolveu-se nas disputas eclesiológicas no seio do calvinismo. Ramus aproximou-se da doutrina de Jean Morély (ca.1524-ca.1594), para quem era necessária uma reforma do calvinismo no sentido de que o governo da Igreja fosse mais comunitário. Segundo Morély, o poder de decisão tinha que ser mais «democrático» e recair na «congregação» dos fiéis (o que se denominou «congregacionalismo»), enquanto Teodoro de Beza, seguindo Calvino, considerava que as decisões tinham que ser tomadas pelo consistório, isto é, por membros eleitos para o governo da assembleia[^19].
 
 Frente à visão aristocrática do aristotélico Beza, emergia a do propedêutico Ramus, muito mais favorável à emancipação dos saberes e às decisões universais de toda a congregação. Embora seja uma simplificação, foi dito graficamente que Teodoro de Beza representou sempre no calvinismo os «de cima», enquanto Ramus foi o paladino dos «de baixo». A historiografia tem confrontado o distinto Beza, amante da ordem e da hierarquia, com o intrépido e transgressor Ramus, um *leveller* epistemológico, político e religioso (se me é permitido o anacronismo) *avant la lettre*.
 
@@ -69,7 +70,7 @@ A querela entre ambos, cada vez mais áspera, acabou com a morte de Ramus[^20], 
 
 Desta forma, o ramismo teve uma dimensão «democratizante» nesta dupla perspectiva que já comentamos: por um lado, defendendo a participação de toda a congregação (e não só do consistório) no governo da Igreja e, por outro, pela supressão da hierarquia aristotélica, a eliminação da diferença entre os saberes superiores e inferiores e a emancipação dos «inferiores», assim como o fomento dos novos saberes, como a política.
 
-Certamente, no século XVI, a política cobrou uma grande importância teórica. Desde a política entendida como virtude cívica nas cidades italianas até o seu estabelecimento como disciplina, mediam duros combates bélicos e intelectuais, no âmbito do que tem sido chamado de Reforma e Contrarreforma.[^21]
+Certamente, no século XVI, a política cobrou uma grande importância teórica. Desde a política entendida como virtude cívica nas cidades italianas até o seu estabelecimento como disciplina, mediam duros combates bélicos e intelectuais, no âmbito do que tem sido chamado de Reforma e Contrarreforma[^21].
 
 No mundo católico, seguindo Aristóteles, a política era um saber subordinado à ética. E esta era uma parte da filosofia, que era ensinada antes de se aceder às Faculdades superiores. Também os teólogos, os legistas e os canonistas tinham conexões com a política, sobre a qual podiam estabelecer alguns vínculos com suas respectivas disciplinas e à qual se negava qualquer autonomia. Apesar de ainda faltar muito a estudar sobre os conceitos de linguagem e de saber político do século XVI, o certo é que o papel da política era na época totalmente ancilar. Desde a recepção da *Política* de Aristóteles no Ocidente até meados do século XV, houve um seguimento quase exclusivo da teoria política através do tratado homônimo do Estagirita, enquanto daí até ao final do século XVI houve alguns autores que retornaram a um platonismo cristianizado, que em alguns casos permitiu uma reivindicação da utopia.
 
@@ -79,13 +80,13 @@ Comecemos por dizer que a política não foi uma disciplina que interessasse esp
 
 > *In liberali et ingenua iuuentutis educatione omnes magni legumlatores, omnes magni philosophi reipublicae fundamenta collocarunt. In his fundamentis diuina Platonis politia consumitur, Aristotelis politica finem illum tantummodo spectant et intuentur, gymnasticam corporis et philosophiam animi informandi gratias coniunctas instituerunt.*[^22]
 
-E na Dialética de 1553 mencionou a divisão entre ética, política e economia, de tradição aristotélica.[^23] Em *Ciceronianus*, uma obra fundamental, destacou que o Arpinate havia sobressaído «*atque omnem ferè amplitudinem et varietatem philosophiae Logicam, Mathematicam, Physicam, Ethicam, Politicam complexae*».[^24]
+E na Dialética de 1553 mencionou a divisão entre ética, política e economia, de tradição aristotélica[^23]. Em *Ciceronianus*, uma obra fundamental, destacou que o Arpinate havia sobressaído «*atque omnem ferè amplitudinem et varietatem philosophiae Logicam, Mathematicam, Physicam, Ethicam, Politicam complexae*»[^24].
 
-Nas últimas obras de Ramus, a situação mudou. Lemos em *Scholae in liberales artes* que: «*Scholas igitur logicas omnes perlustremus, quae numero quatuor insignes ostendentur, divina, mathematica, physica, politica*».[^25] Ao mesmo tempo em que defendia a matemática como saber matriz, reivindicava um lugar para a política:
+Nas últimas obras de Ramus, a situação mudou. Lemos em *Scholae in liberales artes* que: «*Scholas igitur logicas omnes perlustremus, quae numero quatuor insignes ostendentur, divina, mathematica, physica, politica*»[^25]. Ao mesmo tempo em que defendia a matemática como saber matriz, reivindicava um lugar para a política:
 
 > *Quamobrem si tot talesque mathematici fato aliquo ab inferis in hanc lucem redivivis corporibus excitati prae foribus tuae basilicae (Catharina Medicea) adstarent, postularentque ut in auditorio regio perceptis studiis Grammaticae, Rhetoricae, Logicae proximus ante Physicam et Politicam mathematis licus esset et honos, neque juventus, nisi mathematis erudita ad Physicam et Politicam admitteretur, moveret, opinor, praestantium personarum authoritas, et postulantium dignitas, rem per se justam atque; optabilem facilius impetraret.*[^26]
 
-O último Ramus, como dissemos, estava muito interessado na matematização do saber.[^27] Assim como defendeu a matematização do direito e da teologia[^28], fez o mesmo com a política. Contudo, devemos distinguir, antes de prosseguir, entre o interesse teórico e o interesse prático pela política em Ramus.
+O último Ramus, como dissemos, estava muito interessado na matematização do saber[^27]. Assim como defendeu a matematização do direito e da teologia[^28], fez o mesmo com a política. Contudo, devemos distinguir, antes de prosseguir, entre o interesse teórico e o interesse prático pela política em Ramus.
 
 Em meados do século XVI, tornar-se hugonote representava, na França, uma opção não apenas confessional, mas também política. Sem dúvida, Ramus passou a ser, no final da década de 1560, um dos autores mais comprometidos a favor da tolerância religiosa, e vítima das perseguições por parte dos católicos. Os amigos e discípulos de Ramus também tomaram partido em uma contenda que muitas vezes opunha a pequena nobreza rural — que havia se convertido ao calvinismo, para marcar sua independência e seus privilégios — ao centralismo autoritário do rei católico.
 
@@ -101,7 +102,7 @@ Como bem indicou Sharratt[^31], não é que Ramus aplaudisse a política aristot
 
 Esta obra não só proporcionava o texto bilíngue, mas também uma introdução a cada livro e uns utilíssimos índices analíticos em grego e em latim, que foram uma base muito importante para o esmiuçamento terminológico que coadjuvou a um estudo mais «científico» da política, como o que fez Jean Bodin, um autor influenciado por Ramus.
 
-*Les six livres de la Republique* pode ser considerado já um tratado «científico» de teoria política. Bodin queria assentar as bases para um estudo teórico de política como disciplina, e nela podemos ver um tênue tom ramista, que resultava muito mais evidente nas suas obras jurídicas e históricas.[^33] Vasoli vinculou *Les six livres de la Republique* às últimas versões da dialética de Ramus, enquanto *Iuris universi distributio* respondia mais bem ao modelo da dialética de 1555, menos axiomática que as posteriores.[^34] Bodin, usando o conceito de soberania como chave do seu pensamento, preludiava um tratamento analítico da política, que chegaria alguns lustros depois.
+*Les six livres de la Republique* pode ser considerado já um tratado «científico» de teoria política. Bodin queria assentar as bases para um estudo teórico de política como disciplina, e nela podemos ver um tênue tom ramista, que resultava muito mais evidente nas suas obras jurídicas e históricas[^33]. Vasoli vinculou *Les six livres de la Republique* às últimas versões da dialética de Ramus, enquanto *Iuris universi distributio* respondia mais bem ao modelo da dialética de 1555, menos axiomática que as posteriores[^34]. Bodin, usando o conceito de soberania como chave do seu pensamento, preludiava um tratamento analítico da política, que chegaria alguns lustros depois.
 
 Assim como Jean Bodin foi um ramista *sui generis*, não podemos saber até onde Ramus teria chegado no âmbito da teoria política se tivesse vivido mais anos. No entanto, podemos ver o que escreveu sobre o tema Johann Thomas Freigius (1543–1583), o seu mais devoto discípulo, que editou muitas das suas obras inéditas e continuou o caminho do seu mestre.
 
@@ -121,9 +122,9 @@ Comparemos esta divisão com a própria das universidades desde o século XIII: 
 
 Segundo Freigius, o *quadrivium* devia adquirir maior preponderância: a matemática tinha um amplo desenvolvimento e tinha o mesmo papel que, na pedagogia tradicional, recebia a lógica. No âmbito destes saberes «filosóficos», desaparecia a metafísica, que era a base ontológica fundamental para realizar categorias. O saber concentrava-se na matemática (que substituía em seu lugar a lógica), na física (que se convertia na base para todo o estudo da ciência natural) e da ética (o núcleo das matérias de caráter social). É preciso sublinhar que os saberes próprios das Faculdades superiores ficavam enquadrados na física e na ética. Além disso, junto a ele, apareciam novos saberes emergentes: geografia, economia, história e outras disciplinas que depois teriam maior ou menor fortuna.
 
-Freigius não foi muito mais longe na sua análise da política no seu manual para os escolares. Definiu-a como «*ars bene gubernandi seu colendi ciuilem societatem*».[^38] Apesar de citar Cícero e o jurista Paulo, bem como teóricos do momento como Charondas, as duas páginas e meia dedicadas à política são de orientação essencialmente aristotélica, de modo que continuou a considerar a política num sentido retórico-cívico. Assim, por exemplo, na divisão entre as formas de governo retas (monarquia, aristocracia e timocracia) e as aberrantes (tirania, oligarquia e democracia). As instituições da República procediam da história romana.
+Freigius não foi muito mais longe na sua análise da política no seu manual para os escolares. Definiu-a como «*ars bene gubernandi seu colendi ciuilem societatem*»[^38]. Apesar de citar Cícero e o jurista Paulo, bem como teóricos do momento como Charondas, as duas páginas e meia dedicadas à política são de orientação essencialmente aristotélica, de modo que continuou a considerar a política num sentido retórico-cívico. Assim, por exemplo, na divisão entre as formas de governo retas (monarquia, aristocracia e timocracia) e as aberrantes (tirania, oligarquia e democracia). As instituições da República procediam da história romana.
 
-Na sua análise das questões econômicas e políticas, teve sempre especial atração por Aristóteles (que analisou a partir da teoria das quatro causas), e também por Xenofonte e Cícero, de quem fez pequenos epítomes e sistematizou as suas ideias com esquemas de chaves. Seguindo com a ideia da política como a arte do bom governo, explicou que «*subiectum ergo huius artis est Urbs seu urbana societas*».[^39]
+Na sua análise das questões econômicas e políticas, teve sempre especial atração por Aristóteles (que analisou a partir da teoria das quatro causas), e também por Xenofonte e Cícero, de quem fez pequenos epítomes e sistematizou as suas ideias com esquemas de chaves. Seguindo com a ideia da política como a arte do bom governo, explicou que «*subiectum ergo huius artis est Urbs seu urbana societas*»[^39].
 
 Não há grandes ideias renovadoras nestas obras, visto que Freigius era, na realidade, «*un giurista di discreta levatura*»[^40], embora estas pequenas enciclopédias pedagógicas tenham sido a base do ensino nos *Gymnasia illustria*[^41], de algumas cidades do Sacro Império, que propunham um método de conhecimento muito mais prático do que o que se usava nas escolas e universidades tradicionais. Nestas escolas começou-se a seguir este método ramista, que reivindicava a igualdade de todos os conhecimentos e a supressão da hierarquização entre Faculdades superiores e inferiores.
 
@@ -137,9 +138,9 @@ Desta estrutura passou a uma elaboração mais complexa descrita no seu manual d
 
 Houve até o final do século XVI alguns ramistas puros, como por exemplo, Rudolph Snell[^44], que seguiram a dialética de seu mestre e a defenderam dos ataques daqueles que a menosprezavam ou daqueles que a queriam abrir a outras doutrinas. Foram minoria, pois se impôs progressivamente o sincretismo, embora os ramistas não tenham deixado de ter peso nem de ser um grupo identificável.
 
-Houve na França autores que se sentiram identificados com Ramus e o citaram como argumento de autoridade nos debates políticos do momento, especialmente por parte dos calvinistas.[^45] De fato, os seguidores de Ramus passaram a ser uma corrente minoritária, embora muito relevante intelectualmente, no seio do calvinismo.
+Houve na França autores que se sentiram identificados com Ramus e o citaram como argumento de autoridade nos debates políticos do momento, especialmente por parte dos calvinistas[^45]. De fato, os seguidores de Ramus passaram a ser uma corrente minoritária, embora muito relevante intelectualmente, no seio do calvinismo.
 
-Assim pode ver-se a partir de um testemunho que examinava as correntes calvinistas de fora: a refutação dos erros dos calvinistas feita pelo teólogo francês François Feuardent, franciscano observante, na sua *Theomachia Calvinistica*.[^46] Depois de tratar dos seguidores de Teodoro de Beza, fez menção aos «*Bucerani, Ramistae, Zuingliani*»[^47], como algumas das correntes mais proeminentes do calvinismo da sua época.
+Assim pode ver-se a partir de um testemunho que examinava as correntes calvinistas de fora: a refutação dos erros dos calvinistas feita pelo teólogo francês François Feuardent, franciscano observante, na sua *Theomachia Calvinistica*[^46]. Depois de tratar dos seguidores de Teodoro de Beza, fez menção aos «*Bucerani, Ramistae, Zuingliani*»[^47], como algumas das correntes mais proeminentes do calvinismo da sua época.
 
 E é que o ramismo era uma facção destacada mesmo fora da Europa Central. O ramismo teve um papel importante entre os puritanos ingleses, mais por questões formais do que pelo seu conteúdo material. Feingold o denomina «*lowgrade Ramism*»[^48] e cabe pensar, como aponta o mesmo autor, que foi usado também pelos calvinistas como forma de compromisso político-religioso com um de seus mais ilustres e desditosos correligionários.
 
@@ -149,7 +150,7 @@ Na trilha do puritanismo, Perkins[^50] e Ames — como indicou Sprunger[^51] —
 
 Ames foi um teólogo que exerceu como guia espiritual de muitos puritanos, especialmente a partir da Universidade de Franeker. Nas suas obras, seguindo Ramus, quis anular a diferença entre a teoria e a prática, de maneira que as artes tivessem que atender tanto à especulação quanto à educação da vontade e da ação. Em sua *Technometria*, Ames explicou que o cristão virtuoso, a partir da dialética, tinha que treinar-se em todos os saberes (desde a teologia até a gramática ou as matemáticas, cada um na sua especificidade), pois todos o orientavam neste trânsito desde o intelecto até à ação, ressaltando o papel da vontade.
 
-Perkins e Ames enfatizaram, como havia feito Ramus, a teologia prática. O importante, antes de tudo, era a ética e o saber viver e governar-se. Ambos os autores tomaram como tema principal do seu pensamento o governo do indivíduo, com importantes consequências políticas, que Laura Adrián estudou recentemente.[^52] No entanto, numa certa concessão às ideias de Calvino, Ames tentou desenvolver a teologia prática de Ramus até ao ponto de lhe conceder um papel mais importante que ao direito, à política ou à economia, as quais teriam que estar em consonância com ela. Desta forma, em vez de facilitar por completo a autonomia da política, subordinou-a a uma atividade de vigilância e introspecção e a uma moral puritana, tal e como pode ver-se nos seguintes fragmentos:
+Perkins e Ames enfatizaram, como havia feito Ramus, a teologia prática. O importante, antes de tudo, era a ética e o saber viver e governar-se. Ambos os autores tomaram como tema principal do seu pensamento o governo do indivíduo, com importantes consequências políticas, que Laura Adrián estudou recentemente[^52]. No entanto, numa certa concessão às ideias de Calvino, Ames tentou desenvolver a teologia prática de Ramus até ao ponto de lhe conceder um papel mais importante que ao direito, à política ou à economia, as quais teriam que estar em consonância com ela. Desta forma, em vez de facilitar por completo a autonomia da política, subordinou-a a uma atividade de vigilância e introspecção e a uma moral puritana, tal e como pode ver-se nos seguintes fragmentos:
 
 > 114. *Oeconomicae ergò et Politicae utilitas et necessitas ad Iurisprudentiam, licet aliqua sit, praecipua tamen non est, sed Theologiae. Haec enim generales juris regulas primaque principia et fundamenta omnia distinctissimè et perfectissimè suppeditat, illae non nisi quaedam eorum, usibus suis accomodata, eò secum devehunt.*
 >
@@ -161,7 +162,7 @@ Tudo isso pode ser visto na dura crítica do ministro puritano inglês Robert Pa
 
 > *Consitoria seniorium inquit, ex cerebro Calvini, Geneva nata sunt anno Domini 1541. Tam ex Laicis, quam ex ministris coagmentata monstrum, absurdum, infame, ingens, seditionem Gallicarum flabellum et fomentum, non solutum a Catholica Ecclesia ut prophana novitas, rejectum, damnatum, anathamizatum, sed etiam ab aliis Novatoribus et sectariis egregiè exagitatum, a Zanchio contra Calvinum, ab Erasto contra Bezam, a Petro Ramo contra utrumque...*[^55]
 
-O ramismo religioso (e político) teve, assim pois, a sua maior projeção entre os puritanos britânicos e dos Países Baixos que emigraram para a América, e que, segundo alguns autores, contribuíram para criar a mentalidade americana.[^56] Daí que haja uma linha de prolongamento do ramismo que ficou ligada, desde então, aos padrões de certo puritanismo americano, e que tenha contribuído a fixar alguns traços que alguns autores contemporâneos[^57] querem rastrear até hoje.
+O ramismo religioso (e político) teve, assim pois, a sua maior projeção entre os puritanos britânicos e dos Países Baixos que emigraram para a América, e que, segundo alguns autores, contribuíram para criar a mentalidade americana[^56]. Daí que haja uma linha de prolongamento do ramismo que ficou ligada, desde então, aos padrões de certo puritanismo americano, e que tenha contribuído a fixar alguns traços que alguns autores contemporâneos[^57] querem rastrear até hoje.
 
 ## Ramismo e política em Herborn
 
@@ -173,11 +174,11 @@ A política começou a ser um tema fundamental para todas as confissões, em par
 
 Por exemplo, autores como Lambert Daneau (c.1535-c.1590) seguiam o padrão de Calvino, pois eram teólogos com formação jurídica, e defendiam a ideia de sujeitar o conhecimento à revelação cristã. Daneau tinha uma forte vocação teológica, que permeava todos os campos do saber, os quais, no seu entender, tinham que ser estudados a partir de uma ótica cristã (ética, geografia, política…). Strohm[^58] indica que Daneau bebia basicamente de Calvino e que marcava uma linha de continuidade com aqueles que reivindicavam o conhecimento cristão de todos os saberes.
 
-A ética cristã de Daneau tratava de entroncar de novo com a escolástica, buscando não tanto a autonomia dos saberes como a cristianização — sob uma ótica calvinista — dos mesmos.[^59] Esta seria, no nosso entender, a continuação da via de Calvino, que foi defendida por muitos seguidores. No seu tratado *Politices Christianae libri VII*[^60], de forte inspiração antimaquiavélica, queria traçar uma teoria política cristã através de aforismos, muito ligada à ética. Tratava-se, portanto, de uma visão que, em vez de outorgar independência às disciplinas, as queria reunir sob a égide do cristianismo.
+A ética cristã de Daneau tratava de entroncar de novo com a escolástica, buscando não tanto a autonomia dos saberes como a cristianização — sob uma ótica calvinista — dos mesmos[^59]. Esta seria, no nosso entender, a continuação da via de Calvino, que foi defendida por muitos seguidores. No seu tratado *Politices Christianae libri VII*[^60], de forte inspiração antimaquiavélica, queria traçar uma teoria política cristã através de aforismos, muito ligada à ética. Tratava-se, portanto, de uma visão que, em vez de outorgar independência às disciplinas, as queria reunir sob a égide do cristianismo.
 
 Uma vocação genuinamente enciclopédica só se encontrava naqueles autores que seguiam ao último Ramus ou a Llull. As doutrinas de ambos acabaram convergindo em algumas sedes reformadas, particularmente na *Hohe Schüle* Herborn, universidade calvinista fundada em 1584, que se tornou um centro metodologicamente pioneiro, com um claustro de professores comprometido com os ideais da renovação pedagógica que já se havia aplicado nos *Gymnasia illustria*.
 
-A partir de 1585, especialmente entre filósofos e teólogos, começaram a conviver em Herborn (embora também noutras instituições educativas reformadas) os partidários do ramismo puro[^61] — para os quais a lógica deixava de estar vinculada à metafísica e a retórica estava subordinada à dialética, que era tomada, junto com a matemática, como base do conhecimento — e os partidários do ramismo reformado, justificado seja por uma exigência mesma da evolução das ideias do próprio Ramus, seja por uma adaptação ao marco científico. Entre estes últimos, houve autores filipo-ramistas (que misturaram Ramus com Melanchthon) ou semirramistas (que o combinaram com Aristóteles ou Llull, ou com ambos).[^62]
+A partir de 1585, especialmente entre filósofos e teólogos, começaram a conviver em Herborn (embora também noutras instituições educativas reformadas) os partidários do ramismo puro[^61] — para os quais a lógica deixava de estar vinculada à metafísica e a retórica estava subordinada à dialética, que era tomada, junto com a matemática, como base do conhecimento — e os partidários do ramismo reformado, justificado seja por uma exigência mesma da evolução das ideias do próprio Ramus, seja por uma adaptação ao marco científico. Entre estes últimos, houve autores filipo-ramistas (que misturaram Ramus com Melanchthon) ou semirramistas (que o combinaram com Aristóteles ou Llull, ou com ambos)[^62].
 
 Um dos ramistas mais conspícuos foi Johannes Althusius, que foi designado em 1588 professor ordinário de direito romano em Herborn e ensinou ali até 1603, quando foi nomeado síndico da cidade de Emden, um posto que ocupou até a sua morte, em 1638. O manual que escreveu para os seus estudantes era *Iuris Romani Libri duo: ad leges Methodi Rameae conformati*[^63], editado em Basileia, e estava disposto para o ensino do direito em Herborn. A dívida desta obra com Petrus Ramus fica já clara no título.
 
@@ -187,25 +188,25 @@ Há algumas pequenas variações nas edições seguintes da *Politica* de Althus
 
 > *…Quo modo illi est essentialis et homogenea et in aliis artibus heterogenea. Sic itaque rei ipsam sum expertus, quòd politicus ibi definat, ubi incipit jurisconsultus, sicut ubi definit ethicus, ibi incipit theologus et ubi physicus, ibi medicus. In praxi verò omnes artes conjunctas, nemo negat.*[^65]
 
-Sem dúvida, Althusius propugnava, como o último Ramus, uma tendência científica para tratar a política.[^66] Foi advogando cada vez mais pelo enciclopedismo, como consequência tanto do seu aprofundamento no ramismo, quanto das necessidades do ambiente intelectual do momento.
+Sem dúvida, Althusius propugnava, como o último Ramus, uma tendência científica para tratar a política[^66]. Foi advogando cada vez mais pelo enciclopedismo, como consequência tanto do seu aprofundamento no ramismo, quanto das necessidades do ambiente intelectual do momento.
 
-Em Herborn teve uma influência muito poderosa o teórico calvinista Bartholomäus Keckermann (c.1572–1608), que ensinou em diferentes universidades e fez uma adaptação cada vez mais analítica e enciclopédica dos saberes, pelo qual Walter Ong o qualificou de «semirramista».[^67] Escreveu diferentes «sistemas»: de lógica, gramática hebraica, teologia, retórica, direito, geografia, física, metafísica, ética, política…
+Em Herborn teve uma influência muito poderosa o teórico calvinista Bartholomäus Keckermann (c.1572–1608), que ensinou em diferentes universidades e fez uma adaptação cada vez mais analítica e enciclopédica dos saberes, pelo qual Walter Ong o qualificou de «semirramista»[^67]. Escreveu diferentes «sistemas»: de lógica, gramática hebraica, teologia, retórica, direito, geografia, física, metafísica, ética, política…
 
 O estudo sistemático da política[^68] que Keckermann fez esteve caracterizado por uma síntese entre o ramismo no metodológico e o aristotelismo no temático (em relação à ética e à economia, como partes da filosofia prática). Esta síntese entre Ramus e Aristóteles fez-se com vocação monarcômaca, que punha em xeque a soberania plena e indivisível de Bodin. Tanto Althusius como Keckermann seguiram Aristóteles ao estudar histórica e empiricamente os diversos modelos políticos, decantando-se por um sistema mais bem misto.
 
-Devemos acrescentar também nesta linha Philipp Heinrich Hoen, que foi professor de Leis em Herborn entre 1604 e 1608. Escreveu uma síntese do direito e da política[^69] segundo o método ramista, embora também aberto cada vez mais ao enciclopedismo. Nessa obra, Ramus, qualificado de «*Principe Philosopho*»[^70], era reivindicado como um pensador que podia ser posto à direita de Platão, Aristóteles e Cícero:[^71]
+Devemos acrescentar também nesta linha Philipp Heinrich Hoen, que foi professor de Leis em Herborn entre 1604 e 1608. Escreveu uma síntese do direito e da política[^69] segundo o método ramista, embora também aberto cada vez mais ao enciclopedismo. Nessa obra, Ramus, qualificado de «*Principe Philosopho*»[^70], era reivindicado como um pensador que podia ser posto à direita de Platão, Aristóteles e Cícero[^71]:
 
 > *Quia omnes artes, omnes scientiae et facultates, uti vocant, imperio Politicae subditae sunt. Sine Politicae consensu et voluntate filet Theologus, tacet Jurisconsultus, mutus est Medicus, sine ejus jussu et sanctione nulla est vel ex artibus ingenuis vel mechanicis, quae in publicum humanae vitae theatrum prodire audeat. Nam quid in scholis docentur Grammatica, Dialectica, Rhetorica, Physica, Ethica, et artes Mathematicae, quòd homines in pietate et religione instuuntur, quòd in legali Philosophia et medicina erudiuntur, quòd extra scholas etiam in pace opifices opificia exercent sua, eid omne suo sibi Politica jure vendicat (sic).*[^72]
 
-Após este parágrafo, e como autores de referência, Hoen citou Pierre de Grégoire, Justo Lípsio (quem, ao longo de sua vida, foi católico, luterano e calvinista), Lambert Daneau e Bartholomäus Keckermann, uma amostra do seu enciclopedismo eclético, como o que defendia Clemens Timpler (1563/4-1624), que misturava Ramus com Aristóteles e Suárez, num projeto de ontologia geral.[^73]
+Após este parágrafo, e como autores de referência, Hoen citou Pierre de Grégoire, Justo Lípsio (quem, ao longo de sua vida, foi católico, luterano e calvinista), Lambert Daneau e Bartholomäus Keckermann, uma amostra do seu enciclopedismo eclético, como o que defendia Clemens Timpler (1563/4-1624), que misturava Ramus com Aristóteles e Suárez, num projeto de ontologia geral[^73].
 
-Timpler não buscou tanto a emancipação do saber político, mas sim uma fundamentação ontológica do mesmo no seio da filosofia prática.[^74] Neste sentido, o ideal de Ramus ficava desbotado e traído, pois os saberes ficavam presos de novo numa ontologia. Contudo, Timpler usou o método ramista quanto à estruturação e apresentação do conhecimento, desde o mais geral ao mais particular.[^75] A filosofia prática de Timpler, para além da sua subordinação metafísica, tratava questões muito comuns ao pensamento calvinista do momento e mostrava-se partidária da doutrina monarcômaca.[^76]
+Timpler não buscou tanto a emancipação do saber político, mas sim uma fundamentação ontológica do mesmo no seio da filosofia prática[^74]. Neste sentido, o ideal de Ramus ficava desbotado e traído, pois os saberes ficavam presos de novo numa ontologia. Contudo, Timpler usou o método ramista quanto à estruturação e apresentação do conhecimento, desde o mais geral ao mais particular[^75]. A filosofia prática de Timpler, para além da sua subordinação metafísica, tratava questões muito comuns ao pensamento calvinista do momento e mostrava-se partidária da doutrina monarcômaca[^76].
 
 O ápice do enciclopedismo calvinista deu-se em Herborn, com a figura de Johann Heinrich Alsted (1588–1638), que foi amadurecendo progressivamente a sua *Encyclopaedia septem tomis distincta*[^77], a magna obra da acumulação e disposição do saber, na qual davam-se as mãos Aristóteles, Ramus e Llull. Há que chamar a atenção para o fato de que o tomo quarto estava dedicado — num sentido aristotélico — à *philosophia practica* e que, nele, encontrava-se um tratamento muito detalhado das secções: *etica, oeconomica, politica, scolastica*.
 
 Nesta obra achava-se a explicação mais sistemática e precisa da política no marco de uma explicação completa do saber. A partir da definição «*Politica est prudentia reipublicae bene regendae*»[^78], esta parte da enciclopédia estava composta por um estudo sistemático da política, um epítome da história política (que chegava até o momento de sua composição) e um florilégio político greco-latino, onde se reuniam autores como Tito Lívio, Xenofonte, Cícero, Platão…
 
-Num esquema de chaves, Alsted encerrava sua análise da política, dividindo entre política geral e especial. Quanto à geral, tratava do fim, do sujeito e dos meios, que se subdividiam entre os íntegros (fundação, conservação e amplificação dos regimes políticos) e os enfermos (e tratava-se sobre a sua cura). Quanto à especial, referia-se aos diferentes sistemas políticos na história.[^79]
+Num esquema de chaves, Alsted encerrava sua análise da política, dividindo entre política geral e especial. Quanto à geral, tratava do fim, do sujeito e dos meios, que se subdividiam entre os íntegros (fundação, conservação e amplificação dos regimes políticos) e os enfermos (e tratava-se sobre a sua cura). Quanto à especial, referia-se aos diferentes sistemas políticos na história[^79].
 
 Em suma, Pierre de la Ramée, apesar dos moldes de ensino da sua época, havia favorecido a autonomia dos saberes, e se havia alcançado um notável desenvolvimento temático da política. Estes autores citados quiseram construir uma síntese enciclopédica de cada um dos saberes, com interesse particular por cada um deles e pela totalidade.
 
@@ -213,15 +214,15 @@ Em suma, Pierre de la Ramée, apesar dos moldes de ensino da sua época, havia f
 
 A transição entre estes teóricos semirramistas e a dissolução do ramismo na teoria política de meados do século XVII não foi abrupta, embora caiba dizer que posteriormente, na segunda metade da centúria, as sendas que o pensamento político empreendeu deixaram para trás estas misturas entre aristotelismo e ramismo, para passar a outros modelos, nos quais a fundamentação racionalista ou hobbesiana teve uma maior preponderância.
 
-Estes autores que qualificamos aqui de pós-ramistas caracterizaram-se por unir o método analítico de Ramus — cada vez mais diluído — com a política aristotélica a serviço do direito público do Sacro Império, especialmente a partir de 1615–1620.[^80] Cada vez foram mais aristotélicos e menos ramistas, e inclusive em alguns casos se mostraram contrários a Ramus (como, por exemplo, Arnisaeus[^81], a quem poderíamos qualificar de pai do neoaristotelismo protestante).[^82]
+Estes autores que qualificamos aqui de pós-ramistas caracterizaram-se por unir o método analítico de Ramus — cada vez mais diluído — com a política aristotélica a serviço do direito público do Sacro Império, especialmente a partir de 1615–1620[^80]. Cada vez foram mais aristotélicos e menos ramistas, e inclusive em alguns casos se mostraram contrários a Ramus (como, por exemplo, Arnisaeus[^81], a quem poderíamos qualificar de pai do neoaristotelismo protestante)[^82].
 
-A maioria destes autores já não eram calvinistas, mas luteranos, que atuaram basicamente como juristas práticos, professores de direito ou historiadores das instituições germânicas.[^83] Enquanto os calvinistas tinham um certo respeito reverencial por Ramus, não acontecia o mesmo com os luteranos. A adoção do ramismo por parte de alguns autores luteranos ajudou na expansão das ideias de Ramus, embora também tenha coadjuvado à sua progressiva dissolução em outras correntes.
+A maioria destes autores já não eram calvinistas, mas luteranos, que atuaram basicamente como juristas práticos, professores de direito ou historiadores das instituições germânicas[^83]. Enquanto os calvinistas tinham um certo respeito reverencial por Ramus, não acontecia o mesmo com os luteranos. A adoção do ramismo por parte de alguns autores luteranos ajudou na expansão das ideias de Ramus, embora também tenha coadjuvado à sua progressiva dissolução em outras correntes.
 
-Há que citar, entre eles, Christoph Besold (1577–1638), um destacado jurista luterano, que contribuiu a dar uma fundamentação jurídica à política. Queria encontrar na República romana os fundamentos para o direito público do Império.[^84] Apesar de que seguia — à sua maneira — as diretrizes analíticas de Ramus, não o citava sempre com respeito.[^85]
+Há que citar, entre eles, Christoph Besold (1577–1638), um destacado jurista luterano, que contribuiu a dar uma fundamentação jurídica à política. Queria encontrar na República romana os fundamentos para o direito público do Império[^84]. Apesar de que seguia — à sua maneira — as diretrizes analíticas de Ramus, não o citava sempre com respeito[^85].
 
-Os últimos autores que tomaram em consideração o ramismo, como corrente já muito diluída no seio do aristotelismo, foram Leibniz e Conring, ambos luteranos irenistas, com uma visão não tão combativa como a dos calvinistas que tratamos no apartado anterior. Hermann Conring (1606-1681) era, assim como Leibniz, um homem interessado em todos os campos do saber. No tocante à história do pensamento político, cabe dizer que em 1650 obteve uma cátedra de Política na Universidade de Helmstedt, uma prova inequívoca da pujança e progressiva autonomia deste saber. Há que indicar que Conring era, essencialmente, um aristotélico, salpicado com algumas outras influências como o ramismo.[^86]
+Os últimos autores que tomaram em consideração o ramismo, como corrente já muito diluída no seio do aristotelismo, foram Leibniz e Conring, ambos luteranos irenistas, com uma visão não tão combativa como a dos calvinistas que tratamos no apartado anterior. Hermann Conring (1606–1681) era, assim como Leibniz, um homem interessado em todos os campos do saber. No tocante à história do pensamento político, cabe dizer que em 1650 obteve uma cátedra de Política na Universidade de Helmstedt, uma prova inequívoca da pujança e progressiva autonomia deste saber. Há que indicar que Conring era, essencialmente, um aristotélico, salpicado com algumas outras influências como o ramismo[^86].
 
-Acrescentemos a algum erudito ramista de última hora, como Heinrich Kipping (1623–1678), jurista e historiador luterano que escreveu umas instituições políticas de caráter ramista[^87], quando o ramismo já não era a corrente de moda entre os intelectuais. Os seus elogios a Ramus não podiam ser mais claros: «*Has primus tradidit Petrus Ramus, felicissimus liberalium artium restaurator, qui de istarum jure videatur in Scholis Logicis et Mathematicis, eleganti et accuratae doctrinae plenis…*».[^88] Em seguida, Kipping enunciava as três leis da dialética ramista, que tentou aplicar ao longo de toda a obra.
+Acrescentemos a algum erudito ramista de última hora, como Heinrich Kipping (1623–1678), jurista e historiador luterano que escreveu umas instituições políticas de caráter ramista[^87], quando o ramismo já não era a corrente de moda entre os intelectuais. Os seus elogios a Ramus não podiam ser mais claros: «*Has primus tradidit Petrus Ramus, felicissimus liberalium artium restaurator, qui de istarum jure videatur in Scholis Logicis et Mathematicis, eleganti et accuratae doctrinae plenis…*»[^88]. Em seguida, Kipping enunciava as três leis da dialética ramista, que tentou aplicar ao longo de toda a obra.
 
 O caso de Kipping, contudo, era uma exceção. A pujança do racionalismo e a progressiva decadência da política aristotélica conduziram o ramismo a uma situação de esquecimento, marginalização ou até de crítica. Para alguns era uma camada mais na história, que já tinha sedimentado e à qual se deviam sobrepor outras mais necessárias e úteis, enquanto para outros era um método inútil e ridículo. Assim como Leibniz[^89] ainda citava com certo afeto Ramus e o tinha por um pensador bem-intencionado, autores posteriores como Thomasius[^90] consideravam já que o ramismo era uma corrente estúpida e odiosa:
 
@@ -239,11 +240,11 @@ Logo o ramismo foi visto como algo do passado, pois os esquemas hobbesianos e ra
 
 Voltemos ao início deste trabalho. Dizíamos ali que boa parte da historiografia contemporânea conectava a obra de Calvino e a dos calvinistas com alguns elementos centrais da teoria política contemporânea: assemblearismo, republicanismo, ideal monarcômaco, direito à resistência, liberdade de consciência...
 
-Dizíamos também que Ramus e o ramismo resultavam incômodos na construção deste relato político, porque não encaixavam nos esquemas prefixados da teoria política do que vem sendo chamado «A Reforma». Até mesmo um livro como *Law and Revolution*, no qual Berman estuda o impacto da Reforma no pensamento jurídico-político moderno — muito ponderado em seus juízos sobre Weber e o calvinismo puritano — mostra um desdém absoluto e explícito em relação a Ramus, atribuindo todas as suas descobertas a Melanchthon.[^93] É certo que se trata de uma obra cujo conteúdo essencial é a história das ideias jurídicas, embora pudessem extrair-se sem maiores problemas algumas conclusões paralelas sobre o impacto de Ramus na história do pensamento político.
+Dizíamos também que Ramus e o ramismo resultavam incômodos na construção deste relato político, porque não encaixavam nos esquemas prefixados da teoria política do que vem sendo chamado «A Reforma». Até mesmo um livro como *Law and Revolution*, no qual Berman estuda o impacto da Reforma no pensamento jurídico-político moderno — muito ponderado em seus juízos sobre Weber e o calvinismo puritano — mostra um desdém absoluto e explícito em relação a Ramus, atribuindo todas as suas descobertas a Melanchthon[^93]. É certo que se trata de uma obra cujo conteúdo essencial é a história das ideias jurídicas, embora pudessem extrair-se sem maiores problemas algumas conclusões paralelas sobre o impacto de Ramus na história do pensamento político.
 
-Curiosamente, poucos anos antes, Pierre de la Ramée havia sido citado noutra obra como inspirador de alguns juristas[^94], enquanto a sua influência na teoria política não aparecia em lugar nenhum. Em contrapartida, Calvino e os seus seguidores eram estudados como teóricos que vislumbravam novos horizontes de progresso em muitos temas, como, por exemplo, o direito de resistência, no qual, segundo Robert M. Kingdon, os calvinistas desenvolveram temas e ideias mais propriamente luteranas do que calvinistas.[^95]
+Curiosamente, poucos anos antes, Pierre de la Ramée havia sido citado noutra obra como inspirador de alguns juristas[^94], enquanto a sua influência na teoria política não aparecia em lugar nenhum. Em contrapartida, Calvino e os seus seguidores eram estudados como teóricos que vislumbravam novos horizontes de progresso em muitos temas, como, por exemplo, o direito de resistência, no qual, segundo Robert M. Kingdon, os calvinistas desenvolveram temas e ideias mais propriamente luteranas do que calvinistas[^95].
 
-Tornou-se muito repetida a ideia do próprio Kingdon, segundo a qual o calvinismo, ao estabelecer um governo eclesiástico representativo, marcou uma etapa decisiva da cristandade na sua evolução para a democracia[^96], juízo que foi reformulado e discutido nos últimos anos por Turchetti, quem — no fim das contas — encontra duas correntes no seio do calvinismo: uma, caracterizada pela resistência, e outra, pela tolerância. E ele pergunta: de que lado se teria colocado Calvino?[^97]
+Tornou-se muito repetida a ideia do próprio Kingdon, segundo a qual o calvinismo, ao estabelecer um governo eclesiástico representativo, marcou uma etapa decisiva da cristandade na sua evolução para a democracia[^96], juízo que foi reformulado e discutido nos últimos anos por Turchetti, quem — no fim das contas — encontra duas correntes no seio do calvinismo: uma, caracterizada pela resistência, e outra, pela tolerância. E ele pergunta: de que lado se teria colocado Calvino[^97]?
 
 Em quase todos os temas encontramo-nos com um debate semelhante. Ao analisar o republicanismo calvinista, Antonio Rivera[^98] reconstrói a obra de Calvino e o calvinismo desde Kant, Weber e alguns autores da filosofia contemporânea. Para Rivera, as bases jurídico-políticas do republicanismo moderno (cujo paradigma é encarnado por Rousseau e Kant) encontravam-se esboçadas já em Calvino e Althusius. Na sua obra, depois de estudar os fundamentos antropológicos na obra de Calvino, dedica a última parte do livro à distinção entre soberania e representação na obra de Althusius, em quem, de fato, pode encontrar-se um caminho em direção ao que depois foi o republicanismo.
 
@@ -273,7 +274,7 @@ Encontramos essencialmente duas correntes que tomaram Ramus como autor insígnia
 
 Os puritanos expandiram a facção mais religiosa da política ramista, baseada num pensamento que unia reflexão e ação, de acordo com a teologia moral que Ramus havia traçado, no marco do estudo de todas as disciplinas por igual, que favorecia um desenvolvimento integral da pessoa, com implicações morais e políticas sobre o governo de si mesmos e da congregação. Progressivamente, estas ideias foram reformuladas de forma mais de acordo com a teologia de Calvino por autores como Perkins e Ames, que — fazendo equilíbrios entre Calvino e Ramus — reivindicavam antes de tudo a fundamentação cristã do saber.
 
-Os calvinistas centro-europeus, especialmente nos anos 1590-1620, desenvolveram os saberes de forma autônoma, sobretudo em Herborn, seguindo as ideias de Ramus ou misturando-as com outros autores como Aristóteles, Melanchthon e Llull. Daí surgiram tratados autônomos de política, como os de Althusius ou Hoen, e enciclopédias (como a de Alsted) nas quais a política tinha um tratamento em pé de igualdade com os demais saberes.
+Os calvinistas centro-europeus, especialmente nos anos 1590–1620, desenvolveram os saberes de forma autônoma, sobretudo em Herborn, seguindo as ideias de Ramus ou misturando-as com outros autores como Aristóteles, Melanchthon e Llull. Daí surgiram tratados autônomos de política, como os de Althusius ou Hoen, e enciclopédias (como a de Alsted) nas quais a política tinha um tratamento em pé de igualdade com os demais saberes.
 
 O saber político foi cultivado da mesma forma pela geração seguinte, especialmente pelos teóricos luteranos, a tal ponto que para autores como Conring se criou já uma cátedra de política. Os luteranos (desde Besold a Conring) buscaram uma fundamentação da política, que misturasse Aristóteles com Ramus e com outros autores. Estes teóricos seriam já pós-ramistas, no sentido de que o peso de Pierre de la Ramée cada vez foi menor, embora em alguns casos esporádicos, tenham continuado a citar Ramus como um dos autores-chave para estruturar os seus tratados de política.
 
@@ -285,7 +286,7 @@ As ideias de Ramus, portanto, significaram uma igualação epistemológica e rel
 
 Com isso, podemos concluir que o ramismo é uma das correntes mais curiosas e menos estudadas no âmbito da teoria política moderna. É necessário contrastar as fontes e analisar muitos pensadores que têm sido estudados sob outras óticas. Neste sentido, muitos dos debates contemporâneos acerca do calvinismo e da dialética da Modernidade poderiam ser examinados a partir do ramismo, e cabe pensar que os resultados lançariam luz sobre temas complexos e, sobretudo, muito suscetíveis de serem estudados a partir de uma perspectiva exclusivamente confessional.
 
-Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como do calvinismo, que tem os seus referentes em Calvino, Beza e outros. Por enquanto, ficou descartado dos grandes relatos históricos, filosóficos e teológicos sobre o pensamento calvinista e a sua relação com o mundo moderno e contemporâneo, especialmente no âmbito da política. Com este estudo queremos apenas sugerir que, em alguns pontos, «a pedra que rejeitaram os arquitetos» (Sal 117, 22), pode tornar-se pedra angular.
+Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como do calvinismo, que tem os seus referentes em Calvino, Beza e outros. Por enquanto, ficou descartado dos grandes relatos históricos, filosóficos e teológicos sobre o pensamento calvinista e a sua relação com o mundo moderno e contemporâneo, especialmente no âmbito da política. Com este estudo queremos apenas sugerir que, em alguns pontos, «a pedra que rejeitaram os arquitetos» (Sl 117.22), pode tornar-se pedra angular.
 
 ---
 
@@ -307,7 +308,7 @@ Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como
 
 [^8]: Strohl 1930: 126–144.
 
-[^9]: Engammare 1998: 207-228.
+[^9]: Engammare 1998: 207–228.
 
 [^10]: Para uma análise da vida e obra de Ramus, bem como para um balanço bibliográfico, que não podemos explicar detalhadamente aqui, remetemos ao nosso estudo Ramis Barceló 2016.
 
@@ -315,9 +316,9 @@ Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como
 
 [^12]: Varamundo 1573: LIII.
 
-[^13]: Strohm 2004: 65-105. Vejam-se especialmente as páginas 93–99, nas quais o ramismo é apresentado como uma corrente do calvinismo.
+[^13]: Strohm 2004: 65–105. Vejam-se especialmente as páginas 93–99, nas quais o ramismo é apresentado como uma corrente do calvinismo.
 
-[^14]: Oldrini 1997: 107-112.
+[^14]: Oldrini 1997: 107–112.
 
 [^15]: Ramus 1566: 2.
 
@@ -329,7 +330,7 @@ Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como
 
 [^19]: Kingdon 1967: 96 e ss.
 
-[^20]: Maruyama 1978: 106-109.
+[^20]: Maruyama 1978: 106–109.
 
 [^21]: Pode ver-se Scattola 2003.
 
@@ -357,9 +358,9 @@ Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como
 
 [^33]: Sobre o ramismo de Bodin, veja-se Couzinet 1996.
 
-[^34]: Vasoli 2008: 79-101.
+[^34]: Vasoli 2008: 79–101.
 
-[^35]: Mazzacane 1971: 3-30. Veja-se também Ramis Barceló 2016: 130-139.
+[^35]: Mazzacane 1971: 3–30. Veja-se também Ramis Barceló 2016: 130–139.
 
 [^36]: Talæi 1575: 271.
 
@@ -411,9 +412,9 @@ Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como
 
 [^60]: Daneaus 1596.
 
-[^61]: Hotson 2007: 101-108.
+[^61]: Hotson 2007: 101–108.
 
-[^62]: Sobre o ramismo em Herborn e acerca destes autores, veja-se Ramis Barceló 2016: 160-167 e 175–180.
+[^62]: Sobre o ramismo em Herborn e acerca destes autores, veja-se Ramis Barceló 2016: 160–167 e 175–180.
 
 [^63]: Althusius 1586.
 
@@ -469,9 +470,9 @@ Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como
 
 [^89]: Bruyère 1983: 157–173.
 
-[^90]: Ramis Barceló 2016: 208-212.
+[^90]: Ramis Barceló 2016: 208–212.
 
-[^91]: Thomasius 1719: 90-91.
+[^91]: Thomasius 1719: 90–91.
 
 [^92]: Brunnemanno 1702.
 
@@ -483,7 +484,7 @@ Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como
 
 [^96]: Kingdon 1990: 41–55. Veja-se especialmente a página 54.
 
-[^97]: Turchetti 2014: 107-149. A citação está na página 148: «*...siamo di fronte a due correnti di pensiero che si richiamano al calvinismo e che si battono per il proprio riconoscimento, nel regno di Francia in particolare: uno per la resistenza, sulla scia di Bèze-Buchanan-Jurieu, l’altro, per la tolleranza, sulla scia di Castellione-Grozio-Bayle. E Calvino? Da qual lato si sarebbe posto?*».
+[^97]: Turchetti 2014: 107–149. A citação está na página 148: «*...siamo di fronte a due correnti di pensiero che si richiamano al calvinismo e che si battono per il proprio riconoscimento, nel regno di Francia in particolare: uno per la resistenza, sulla scia di Bèze-Buchanan-Jurieu, l’altro, per la tolleranza, sulla scia di Castellione-Grozio-Bayle. E Calvino? Da qual lato si sarebbe posto?*».
 
 [^98]: Rivera García 1999.
 
@@ -533,11 +534,11 @@ Couzinet, M. D. 1996. *Histoire et methode a la Renaissance: une lecture de la M
 
 Daneaus, L. 1596. *Politices Christianae libri VII, additi sunt peculiares aphorismi de optimo principe et eius officio ex C. Plinij panegyrico ad Trojanum*. s. l. Eustath: Vignon.
 
-Dreitzel, H. 1983. «Hermann Conring und die Politishe Wissenschaft seiner Zeit», em M. Stolleis (ed.), *Hermann Conring (1606-1681): Beiträge zu Leben und Werk*: 135–172. Berlin: Duncker & Humblot.
+Dreitzel, H. 1983. «Hermann Conring und die Politishe Wissenschaft seiner Zeit», em M. Stolleis (ed.), *Hermann Conring (1606–1681): Beiträge zu Leben und Werk*: 135–172. Berlin: Duncker & Humblot.
 
 Dreitzel, H. 2006. *Protestantischer Aristotelismus und Absoluter Staat. Die Politica des Henning Arnisaeus (ca. 1575–1636)*. Wiesbaden: Veröffentlichungen des Instituts für Europäische Geschichte Mainz.
 
-Engammare, M. 1998. «Calvin monarchomaque? Du soupçon à l’argument». *Archiv fur Reformationgeschichte* 89: 207-228.
+Engammare, M. 1998. «Calvin monarchomaque? Du soupçon à l’argument». *Archiv fur Reformationgeschichte* 89: 207–228.
 
 Feingold, M. 2001. «English Ramism: A Reinterpretation», em M. Feingold, J. S. Freedman y W. Rother (eds.), *The Influence of Petrus Ramus*: 127–176. Basle: Schwabe.
 
@@ -555,7 +556,7 @@ Freigii, I. T. 1578. *Quaestiones Justinianeae in Institutiones juris Civilis*. 
 
 García Alonso, M. 2008. *La teología política de Calvino*. Barcelona: Anthropos.
 
-Gelderen, M. 2002. «Aristotelians, Monarchomachs and Republicans: Sovereignty and respublica mixta in Dutch and German Political Thought, 1580-1650», em M. van Gelderen y Q. Skinner (eds.), *Republicanism: A Shared European Heritage: I*, 195–217. Cambridge: Cambridge U. P.
+Gelderen, M. 2002. «Aristotelians, Monarchomachs and Republicans: Sovereignty and respublica mixta in Dutch and German Political Thought, 1580–1650», em M. van Gelderen y Q. Skinner (eds.), *Republicanism: A Shared European Heritage: I*, 195–217. Cambridge: Cambridge U. P.
 
 Gorski, P. 2003. *The Disciplinary Revolution. Calvinism and the Rise of the State in Early Modern Europe*. Chicago: Chicago U. P.
 
@@ -571,13 +572,13 @@ Hotson, H. 2007. *Commonplace Learning: Ramism and its German Ramifications 1543
 
 Kechermannus, B. 1608. *Systema disciplinae politicae, publicis praelectionibus anno MDCVI propositum in gymnasio Dantisca*. Hanoviae: apud Guilielmum Antonium.
 
-Kelley, D. R. 1994. «Law», em J. H. Burns (ed.), *The Cambridge History of Political Thought, 1450-1700*: 66–94. Cambridge: Cambridge U. P.
+Kelley, D. R. 1994. «Law», em J. H. Burns (ed.), *The Cambridge History of Political Thought, 1450–1700*: 66–94. Cambridge: Cambridge U. P.
 
 Kingdon, R. M. 1967. *Geneva and the Consolidation of the French Protestant Movement, 1564–1572: A Contribution to the History of Congregationalism, Presbyterianism and Calvinist Resistance Theory*. Genève: Droz.
 
 Kingdon, R. M. 1990. «Calvin et la démocratie», em P. Viallaneix (éd.), *Réforme et Révolutions. Aux origines de la démocratie moderne*: 41–55. Montpellier: Presses du Languedoc.
 
-Kingdon, R. M. 1991. «Calvinism and resistance theory, 1550-1580», em *The Cambridge History of Political Thought 1450-1700*: 193–218.
+Kingdon, R. M. 1991. «Calvinism and resistance theory, 1550–1580», em *The Cambridge History of Political Thought 1450–1700*: 193–218.
 
 Kippingi, H. 1667. *Institutiones politicae methodicae libri duo sumptibus*. Bremae et Francofurdi: Erhardi Bergeri.
 
@@ -629,7 +630,7 @@ Snellii, R. 1595. *Commentarius doctissimus in dialecticam Petri Rami forma dial
 
 Sprunger, K. L. 1972. *The Learned Doctor William Ames. Dutch Backgrounds of English and American Puritanism*. Urbana: University of Illinois Press.
 
-Stolleis, M. 1988. *Geschichte des öffentlichen Rechts in Deutschland: Erster Band, 1600-1800*. München: Beck.
+Stolleis, M. 1988. *Geschichte des öffentlichen Rechts in Deutschland: Erster Band, 1600–1800*. München: Beck.
 
 Strohl, H. 1930. «Le Droit à la résistance d’après les conceptions protestantes». *Revue d’histoire et de philosophie religieuses* 10: 126–144.
 
@@ -637,7 +638,7 @@ Strohm, C. 1996. *Ethik im frühen Calvinismus*. Berlin: Walter de Gruyter.
 
 Strohm, C. 1999. «Theologie und Zeitgeist. Beobachtungen zum Siegeszug der Methode des Petrus Ramus am Beginn der Moderne». *Zeitschrift für Kirchengeschichte* 110: 352–371.
 
-Strohm, C. 2004. «Methodology in Discussion of ‘Calvin and Calvinism’», em H. J. Selderhuis (ed.), *Calvinus Præceptor Ecclesiæ. Papers of the International Congress on Calvin Research, Princeton, August 20-24, 2002*: 65-105. Genf: Droz.
+Strohm, C. 2004. «Methodology in Discussion of ‘Calvin and Calvinism’», em H. J. Selderhuis (ed.), *Calvinus Præceptor Ecclesiæ. Papers of the International Congress on Calvin Research, Princeton, August 20–24, 2002*: 65–105. Genf: Droz.
 
 Talæi, A. 1575. *Quem Petri Rami Theseum dicere iure possis, Opera elegantioris methodicæ philosophiæ studiosis pernecessaria*. Basileae: ex officina Petri Pernae.
 
@@ -645,11 +646,11 @@ Thomasius C. 1719. *Paulo plenior historia juris naturalis, cum duplici appendic
 
 Timplerus, C. 1608. *Philosophiae Practicae Systema Methodicum*. Hanoviae: apud Guilielmum Antonium.
 
-Turchetti, M. 2014. «Il contributo di Calvino e del calvinismo alla nascita della democrazia moderna». *Protestantesimo* 69: 107-149.
+Turchetti, M. 2014. «Il contributo di Calvino e del calvinismo alla nascita della democrazia moderna». *Protestantesimo* 69: 107–149.
 
 Varamundo, E. 1573 [F. Hotman] *De Furoribus Gallicis*. Edimburgi.
 
-Vasoli, C. 2008. «Il metodo ne La République», em *Armonia e Giustizia. Studi sulle idee filosofiche di Jean Bodin*: 79-101. Firenze: Leo S. Olschki,
+Vasoli, C. 2008. «Il metodo ne La République», em *Armonia e Giustizia. Studi sulle idee filosofiche di Jean Bodin*: 79–101. Firenze: Leo S. Olschki,
 
 Walzer, M. 1976. *The Revolution of the Saints. A Study of Origins of Radical Politics*. New York: Atheneum.
 

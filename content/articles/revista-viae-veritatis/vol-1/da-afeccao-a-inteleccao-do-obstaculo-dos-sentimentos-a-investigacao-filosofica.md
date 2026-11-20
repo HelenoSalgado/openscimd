@@ -25,6 +25,7 @@ categories:
   - Filosofia
 copyright: "Instituto Reformado Santo Evangelho (IRSE)"
 license: "ViVe 1.0 — REVISTA VIAE VERITATIS"
+language: "pt-BR"
 ---
 
 ## Do Obstáculo dos Sentimentos à Investigação Filosófica[^ne1][^ne2]

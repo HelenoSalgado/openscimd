@@ -11,13 +11,13 @@ categories:
   - Teologia
 ---
 
-## LIVRO PRIMEIRO: ADMOESTAÇÕES PROVEITOSAS PARA A VIDA ESPIRITUAL
+## Livro Primeiro: Admoestações Proveitosas para a Vida Espiritual
 
-### CAPÍTULO I
+### Capítulo I
 
 *Da imitação de Cristo, e do desprezo do mundo e de todas as suas vaidades*
 
-Aquele que me segue não andará em trevas, diz o Senhor.[^1] Estas são as palavras de Cristo, e nos ensinam quanto devemos imitar a sua vida e o seu caráter, se buscamos verdadeira iluminação e livramento de toda cegueira de coração. Seja, pois, o nosso mais ardente estudo meditar sobre a vida de Jesus Cristo.
+Aquele que me segue não andará em trevas, diz o Senhor[^1]. Estas são as palavras de Cristo, e nos ensinam quanto devemos imitar a sua vida e o seu caráter, se buscamos verdadeira iluminação e livramento de toda cegueira de coração. Seja, pois, o nosso mais ardente estudo meditar sobre a vida de Jesus Cristo.
 
 2 - O seu ensinamento supera todo o ensinamento dos homens santos, e aqueles que possuem o seu Espírito encontram ali o maná escondido. Mas há muitos que, ainda que frequentemente ouçam o Evangelho, sentem pouco anelo por ele, porquanto não têm o espírito de Cristo. Aquele, pois, que quiser entender plenamente e com verdadeira sabedoria as palavras de Cristo, esforce-se por conformar toda a sua vida a esse espírito de Cristo.
 
@@ -25,9 +25,9 @@ Aquele que me segue não andará em trevas, diz o Senhor.[^1] Estas são as pala
 
 4 - É vaidade, pois, buscar e confiar nas riquezas que perecerão. É vaidade também cobiçar honras e exaltar-se a si mesmo. É vaidade seguir os desejos da carne e ser por eles conduzido, pois isso trará miséria ao fim. É vaidade desejar longa vida e cuidar pouco de uma vida boa. É vaidade cuidar somente da vida presente, e não olhar adiante para as coisas que virão. É vaidade amar o que rapidamente passa, e não apressar-se para onde permanece o gozo eterno.
 
-5 - Sê muitas vezes lembrado do dito: o olho não se satisfaz de ver, nem o ouvido de ouvir.[^2] Esforça-te, pois, por desviar o coração do amor das coisas visíveis, e fixá-lo nas coisas que não se veem. Porque os que seguem seus próprios desejos carnais mancham a consciência e destroem a graça de Deus.
+5 - Sê muitas vezes lembrado do dito: o olho não se satisfaz de ver, nem o ouvido de ouvir[^2]. Esforça-te, pois, por desviar o coração do amor das coisas visíveis, e fixá-lo nas coisas que não se veem. Porque os que seguem seus próprios desejos carnais mancham a consciência e destroem a graça de Deus.
 
-### CAPÍTULO II
+### Capítulo II
 
 *De pensar humildemente de si mesmo*
 
@@ -39,7 +39,7 @@ Há naturalmente em todo homem um desejo de saber; mas que aproveita o conhecime
 
 4 - Esta é a lição mais alta e mais proveitosa: quando o homem verdadeiramente se conhece e julga humildemente de si. Não fazer conta de si mesmo, e pensar sempre com benevolência e elevação a respeito dos outros, isso é grande e perfeita sabedoria. Ainda que vejas o teu próximo pecar abertamente ou de modo grave, não deves por isso reputar-te melhor do que ele, pois não sabes por quanto tempo conservarás a tua integridade. Todos nós somos fracos e frágeis; não tenhas ninguém por mais frágil do que a ti mesmo.
 
-### CAPÍTULO III
+### Capítulo III
 
 *Do conhecimento da verdade*
 
@@ -53,9 +53,9 @@ Feliz é o homem a quem a Verdade por si mesma ensina, não por figuras e palavr
 
 5 - Ó, se dessem eles à erradicação do vício e ao plantio da virtude a mesma diligência que dão às vãs indagações: não haveria tantos maus feitos e escândalos entre os leigos, nem tal má vida entre as casas de religião. De certo, no Dia do Juízo se nos há de perguntar, não o que lemos, mas o que fizemos; não quão bem falamos, mas quão santamente vivemos. Dize-me: onde estão agora todos aqueles mestres e doutores que bem conheceste, enquanto ainda estavam contigo, e floresciam em ciência? Suas cátedras já estão ocupadas por outros, que talvez nunca tenham um pensamento acerca deles. Enquanto viviam pareciam ser algo, mas agora ninguém fala deles.
 
-6 - Ó, quão rapidamente passa a gloria do mundo! Quisera Deus que a sua vida e a sua ciência tivessem concordado entre si! Pois então teriam lido e indagado com bom propósito. Quantos perecem por vã ciência neste mundo, que pouco se importam de servir a Deus. E porque amam mais ser grandes do que ser humildes, por isso “se tornaram vãos em suas imaginações”.[^3] Só é verdadeiramente grande aquele que tem grande caridade. É verdadeiramente grande quem a si mesmo se estima pequeno, e conta toda a altura da honra como nada. É o verdadeiramente sábio quem reputa todas as coisas terrenas como esterco, para que ganhe a Cristo. E é o verdadeiramente instruído quem faz a vontade de Deus, e renuncia à sua própria vontade.
+6 - Ó, quão rapidamente passa a gloria do mundo! Quisera Deus que a sua vida e a sua ciência tivessem concordado entre si! Pois então teriam lido e indagado com bom propósito. Quantos perecem por vã ciência neste mundo, que pouco se importam de servir a Deus. E porque amam mais ser grandes do que ser humildes, por isso “se tornaram vãos em suas imaginações”[^3]. Só é verdadeiramente grande aquele que tem grande caridade. É verdadeiramente grande quem a si mesmo se estima pequeno, e conta toda a altura da honra como nada. É o verdadeiramente sábio quem reputa todas as coisas terrenas como esterco, para que ganhe a Cristo. E é o verdadeiramente instruído quem faz a vontade de Deus, e renuncia à sua própria vontade.
 
-### CAPÍTULO IV
+### Capítulo IV
 
 *Da prudência no agir*
 
@@ -63,7 +63,7 @@ Não devemos confiar em toda palavra dos outros ou em todo sentimento dentro de 
 
 2 - Esta é grande sabedoria: não ser precipitado no agir, nem obstinado nas próprias opiniões. Parte desta sabedoria é também não crer em toda palavra que ouvimos, nem contar aos outros tudo o que ouvimos, ainda que o creiamos. Aconselha-te com um homem que seja sábio e de boa consciência; e busca ser instruído por alguém melhor que tu mesmo, ao invés de seguires as tuas próprias invenções. A boa vida faz o homem sábio para com Deus, e lhe dá experiência em muitas coisas. Quanto mais humilde for o homem em si mesmo, e mais obediente para com Deus, tanto mais sábio será em todas as coisas, e tanto mais a sua alma estará em paz.
 
-### CAPÍTULO V
+### Capítulo V
 
 *Da leitura das Sagradas Escrituras*
 
@@ -71,7 +71,7 @@ Não devemos confiar em toda palavra dos outros ou em todo sentimento dentro de 
 
 2 - Os homens passam, mas a verdade do Senhor permanece para sempre. Sem acepção de pessoas, Deus nos fala de diversas maneiras. A nossa própria curiosidade frequentemente nos impede na leitura dos escritos sagrados, quando buscamos entender e discutir onde deveríamos passar simplesmente adiante. Se queres aproveitar a tua leitura, lê humildemente, simplesmente, honestamente, e não desejando conquistar reputação de erudição. Pergunta livremente, e ouve em silêncio as palavras dos homens santos; nem te desagrades com os ditos severos dos mais velhos que tu, pois não são proferidos sem causa.
 
-### CAPÍTULO VI
+### Capítulo VI
 
 *Dos afetos desordenados*
 
@@ -79,7 +79,7 @@ Sempre que um homem deseja alguma coisa acima da medida, logo se torna inquieto.
 
 2 - Mas se, por outro lado, cede à sua inclinação, logo é oprimido pela condenação de sua consciência; pois seguiu o próprio desejo, e contudo de modo alguma alcançou a paz que esperava. Pois a verdadeira paz de coração se encontra em resistir à paixão, não em cedermos a ela. E por isso não há paz no coração de um homem que é carnal, nem naquele que se entrega às coisas que são exteriores a si, mas somente naquele que é fervoroso para com Deus e vive a vida do Espírito.
 
-### CAPÍTULO VII
+### Capítulo VII
 
 *De fugir da vã esperança e do orgulho*
 
@@ -89,7 +89,7 @@ Vã é a vida daquele homem que põe a sua confiança nos homens, ou em qualquer
 
 3 - Não te reputes melhor que os outros, para que não pareças pior aos olhos de Deus, que sabe o que há no homem. Não te orgulhes de tuas boas obras, porque os juízos de Deus são de outra natureza que os juízos dos homens, e o que agrada aos homens é frequentemente desagradável a Ele. Se tens algum bem, crê que os outros têm mais, e assim preservarás a tua humildade. Não te faz mal colocar-te abaixo de todos os outros; mas grande dano te faz colocar-te acima de um só. A paz está sempre com o homem humilde, mas no coração do soberbo há inveja e contínua ira.
 
-### CAPÍTULO VIII
+### Capítulo VIII
 
 *Do perigo da demasiada familiaridade*
 
@@ -97,7 +97,7 @@ Não abras o teu coração a todo homem, mas trata com aquele que é sábio e te
 
 2 - Devemos amar a todos os homens, mas não fazer de todos íntimos companheiros. Sucede algumas vezes que alguém que nos é desconhecido é tido em alta estima por bom testemunho seu, cuja pessoa, no entanto, desagrada àqueles que a observam. Às vezes pensamos agradar aos outros por nossa intimidade, e antes lhes desagradamos ainda mais pela falta de carácter que em nós percebem.
 
-### CAPÍTULO IX
+### Capítulo IX
 
 *Da obediência e sujeição*
 
@@ -107,7 +107,7 @@ Não abras o teu coração a todo homem, mas trata com aquele que é sábio e te
 
 3 - Muitas vezes tenho ouvido que é mais seguro escutar e receber conselho do que dá-lo. Pode também acontecer que cada opinião seja boa; mas recusar-se a escutar os outros, quando a razão ou a ocasião o requerem, é marca de orgulho ou obstinação.
 
-### CAPÍTULO X
+### Capítulo X
 
 *Do perigo da superfluidade de palavras*
 
@@ -115,7 +115,7 @@ Evita, tanto quanto puderes, o tumulto dos homens; pois a conversa acerca das co
 
 2 - Mas, ai! isso é frequentemente sem propósito e em vão. Pois esta consolação exterior não é pequeno impedimento para o conforto interior que vem de Deus. Portanto, devemos vigiar e orar para que o tempo não passe ociosamente. Se te for justo e desejável falar, fala coisas que sejam para edificação. O mau costume e a negligência do nosso verdadeiro proveito contribuem muito para nos tornar descuidados na vigilância sobre os nossos lábios. Todavia, a devota conversação sobre coisas espirituais ajuda não pouco ao progresso espiritual, mormente onde aqueles de mente e espírito afins encontram terreno de comunhão em Deus.
 
-### CAPÍTULO XI
+### Capítulo XI
 
 *De buscar a paz de espírito e o progresso espiritual*
 
@@ -131,7 +131,7 @@ Podemos gozar de abundância de paz se nos abstivermos de nos ocupar dos ditos e
 
 6 - É coisa dura romper um costume, e ainda mais dura ir contra a própria vontade. Contudo, se não vences os obstáculos leves e fáceis, como vencerás os maiores? Resiste à tua vontade no princípio, e desaprende um mau costume, para que ele não te leve pouco a pouco a dificuldades piores. Ó, se soubesses que paz traria a ti mesmo a tua santa vida, e que alegria aos outros, penso que serias mais zeloso pelo proveito espiritual.
 
-### CAPÍTULO XII
+### Capítulo XII
 
 *Da utilidade das adversidades*
 
@@ -139,11 +139,11 @@ Podemos gozar de abundância de paz se nos abstivermos de nos ocupar dos ditos e
 
 2 - Portanto, deve o homem repousar totalmente em Deus, de modo que não precise buscar muito conforto da parte dos homens. Quando um homem que teme a Deus é afligido, ou tentado, ou oprimido de maus pensamentos, então vê que Deus lhe é mais necessário, pois sem Deus nada de bom pode fazer. Então fica de coração pesado, geme, clama pela própria inquietude de seu coração. Então se cansa da vida, e desejaria partir e estar com Cristo. Por tudo isso é ensinado que no mundo não pode haver perfeita segurança nem plenitude de paz.
 
-### CAPÍTULO XIII
+### Capítulo XIII
 
 *De resistir à tentação*
 
-Enquanto vivemos no mundo, não podemos estar sem tribulação e prova. Por isso está escrito em Jó: a vida do homem sobre a terra é uma prova.[^4] E, portanto, deve cada um de nós atentar quanto às provas e tentações, e vigiar em oração, para que o diabo não ache ocasião de nos enganar; porque ele nunca dorme, mas anda ao redor buscando a quem possa devorar. Nenhum homem é tão perfeito em santidade que jamais tenha tentações, nem podemos nunca estar totalmente livres delas.
+Enquanto vivemos no mundo, não podemos estar sem tribulação e prova. Por isso está escrito em Jó: a vida do homem sobre a terra é uma prova[^4]. E, portanto, deve cada um de nós atentar quanto às provas e tentações, e vigiar em oração, para que o diabo não ache ocasião de nos enganar; porque ele nunca dorme, mas anda ao redor buscando a quem possa devorar. Nenhum homem é tão perfeito em santidade que jamais tenha tentações, nem podemos nunca estar totalmente livres delas.
 
 2 - Contudo, não obstante, as tentações se convertem grandemente em nosso proveito, ainda que sejam grandes e duras de suportar; pois por meio delas somos humilhados, purificados, instruídos. Todos os Santos passaram por muita tribulação e tentação, e delas se aproveitaram. E os que não suportaram a tentação tornaram-se réprobos e caíram. Não há posição tão sagrada, nem lugar tão secreto, que esteja sem tentações e adversidades.
 
@@ -160,11 +160,11 @@ Pois primeiro vem à mente a simples sugestão, depois a forte imaginação, dep
 
 6 - Alguns homens sofrem as suas mais graves tentações no princípio de sua conversão; outros, no fim. Alguns são duramente provados a vida toda. Há os que são tentados apenas levemente, segundo a sabedoria e justiça da ordenação de Deus, que conhece o caráter e as circunstâncias dos homens, e ordena todas as coisas para o bem-estar dos seus eleitos.
 
-7 - Portanto, não devemos desesperar quando somos tentados, mas antes clamar mais fervorosamente a Deus, para que Ele se digne a ajudar-nos em toda a nossa tribulação; e para que Ele, como diz São Paulo, com a tentação nos dê a saída, para que a possamos suportar.[^5] Humilhemo-nos, pois, sob a poderosa mão de Deus em toda tentação e tribulação, pois Ele salvará e exaltará aqueles que são de espírito humilde.
+7 - Portanto, não devemos desesperar quando somos tentados, mas antes clamar mais fervorosamente a Deus, para que Ele se digne a ajudar-nos em toda a nossa tribulação; e para que Ele, como diz São Paulo, com a tentação nos dê a saída, para que a possamos suportar[^5]. Humilhemo-nos, pois, sob a poderosa mão de Deus em toda tentação e tribulação, pois Ele salvará e exaltará aqueles que são de espírito humilde.
 
 8 - Nas tentações e tribulações é provado o homem, quanto progresso fez, e nisso é maior a sua recompensa, e mais aparece a sua virtude. Nem é grande coisa se o homem é devoto e zeloso enquanto não sofre aflição; mas se se comporta pacientemente no tempo da adversidade, então há esperança de grande progresso. Alguns são preservados de grandes tentações, mas são surpreendidos naquelas que são pequenas e comuns, para que a humilhação lhes ensine a não confiar em si mesmos nas coisas grandes, sendo fracos nas coisas pequenas.
 
-### CAPÍTULO XIV
+### Capítulo XIV
 
 *Do evitar o juízo temerário*
 
@@ -174,7 +174,7 @@ Olha bem para ti mesmo, e cuida-te de julgar os feitos dos outros. Ao julgar os 
 
 3 - O costume estabelecido não se abandona facilmente, e nenhum homem é muito facilmente levado a ver com os olhos de outro. Se te apoias mais na tua própria razão ou experiência do que no poder de Jesus Cristo, a tua luz virá lenta e dificilmente; pois Deus quer que sejamos perfeitamente sujeitos a Ele mesmo, e que toda a nossa razão seja exaltada pelo abundante amor para com Ele.
 
-### CAPÍTULO XV
+### Capítulo XV
 
 *Das obras de caridade*
 
@@ -184,7 +184,7 @@ Por nenhum bem mundano, nem por amor de nenhum homem, deve fazer-se coisa alguma
 
 3 - Aquele que tem verdadeira e perfeita caridade não busca em nada o próprio bem, mas deseja que só Deus seja glorificado em tudo. Não invidia a ninguém, porque não anela alegria egoísta; nem deseja alegrar-se em si mesmo, mas anela ser bendito em Deus como o supremo bem. Não atribui bem a ninguém, senão só a Deus, a Fonte de onde todo bem procede, e o Fim, a Paz, o gozo de todos os Santos. Ó, aquele que tem sequer uma centelha de verdadeira caridade, aprendeu verdadeiramente que todas as coisas mundanas estão plenas de vaidade.
 
-### CAPÍTULO XVI
+### Capítulo XVI
 
 *De suportar as faltas dos outros*
 
@@ -196,7 +196,7 @@ Aquelas coisas que o homem não pode emendar em si mesmo, ou nos outros, deve su
 
 4 - Mas agora Deus assim ordenou, para que aprendamos a suportar os fardos uns dos outros, porque nenhum é sem defeito, nenhum sem fardo, nenhum suficiente por si mesmo, nenhum sábio bastante de si mesmo; mas nos convém suportar uns aos outros, consolar uns aos outros, ajudar, instruir, admoestar uns aos outros. Quanta força cada um tem melhor se prova nas ocasiões de adversidade: pois tais ocasiões não tornam o homem frágil, mas mostram de que temperamento ele é.
 
-### CAPÍTULO XVII
+### Capítulo XVII
 
 *Da vida religiosa*
 
@@ -206,7 +206,7 @@ Convém que aprendas a mortificar-te em muitas coisas, se queres viver em amizad
 
 3 - Tu és chamado para suportar e trabalhar, não para uma vida de ócio e conversa fútil. Aqui, pois, são os homens provados como o ouro na fornalha. Nenhum homem pode permanecer firme, se com todo o coração não se humilhar por amor de Deus.
 
-### CAPÍTULO XVIII
+### Capítulo XVIII
 
 *Do exemplo dos Santos Padres*
 
@@ -222,7 +222,7 @@ Considera agora os vivos exemplos dos santos padres, nos quais resplandeceu verd
 
 6 - Ó a frieza e a negligência dos nossos tempos, que tão rapidamente declinamos do primeiro amor, e se torna cansaço viver, por causa da indolência e tibieza. Que o progresso na santidade não adormeça inteiramente em ti, que tantas vezes viste tantos exemplos de homens devotos!
 
-### CAPÍTULO XIX
+### Capítulo XIX
 
 *Dos exercícios de um homem religioso*
 
@@ -240,19 +240,19 @@ A vida de um cristão deve ser adornada de todas as virtudes, para que seja inte
 
 7 - E se isto se diferir, creiamos que estamos ainda mal preparados, e indignos ainda da glória que se há de revelar em nós na estação apontada; e estudemos preparar-nos melhor para o nosso fim. Bem-aventurado aquele servo, como diz o Evangelista Lucas, a quem, quando o Senhor vier, achar vigiando. Em verdade vos digo que Ele o fará senhor sobre tudo o que tem.
 
-### CAPÍTULO XX
+### Capítulo XX
 
 *Do amor à solidão e ao silêncio*
 
 Busca ocasião conveniente para a tua meditação, e pensa frequentemente nas misericórdias de Deus para contigo. Deixa as questões curiosas. Estuda aquelas matérias que trazem contrição pelo pecado, mais do que diversão. Se te retirares da conversação fútil e das andanças ociosas, bem como das novidades e mexericos, acharás o teu tempo suficiente e apto para boa meditação. Os maiores santos costumavam evitar, quanto podiam, a companhia dos homens, e escolhiam viver ocultos com Deus.
 
-2 - Disse alguém: “Tantas vezes fui entre os homens, quantas retornei menos homem.” Isto experimentamos frequentemente quando estivemos por muito tempo em conversação. Pois é mais fácil estar de todo em silêncio do que não exceder na palavra. É mais fácil permanecer oculto em casa do que guardar-se suficientemente fora dela. Aquele, pois, que busca alcançar o que é oculto e espiritual, deve ir com Jesus “apartado da multidão”.[^6] Nenhum homem sai seguramente que não ama descansar em casa. Nenhum homem fala seguramente senão o que ama guardar silêncio. Nenhum homem governa seguramente senão o que ama estar sujeito. Nenhum homem manda seguramente senão o que ama obedecer.
+2 - Disse alguém: “Tantas vezes fui entre os homens, quantas retornei menos homem.” Isto experimentamos frequentemente quando estivemos por muito tempo em conversação. Pois é mais fácil estar de todo em silêncio do que não exceder na palavra. É mais fácil permanecer oculto em casa do que guardar-se suficientemente fora dela. Aquele, pois, que busca alcançar o que é oculto e espiritual, deve ir com Jesus “apartado da multidão”[^6]. Nenhum homem sai seguramente que não ama descansar em casa. Nenhum homem fala seguramente senão o que ama guardar silêncio. Nenhum homem governa seguramente senão o que ama estar sujeito. Nenhum homem manda seguramente senão o que ama obedecer.
 
 3 - Nenhum homem se alegra seguramente senão o que tem consigo o testemunho de boa consciência. A ousadia dos Santos estava sempre repleta do temor de Deus. Nem eram menos sérios e humildes em si mesmos, porque resplandeciam com grandes virtudes e graça. Mas a ousadia dos homens perversos procede do orgulho e da presunção, e ao fim se torna a sua própria confusão. Nunca te prometas segurança nesta vida, ainda que pareças bom monge ou devoto solitário.
 
 4 - Frequentemente aqueles que estão em mais alta estima entre os homens caem mais gravemente por causa de sua excessiva confiança. Por isso é muito proveitoso a muitos que não estejam sem tentação interior, mas sejam frequentemente assaltados, para que não fiquem demasiado confiantes, para que não se ensoberbeçam, ou se apoiem demasiado livremente nas consolações do mundo. Ó quão boa consciência deveria manter aquele homem que nunca buscou alegria que passa, que nunca se enredou com o mundo! Ó quão grande paz e quietude deveria possuir aquele que rejeitasse todo vão cuidado, e pensasse somente nas coisas salutares e divinas, e edificasse toda a sua esperança sobre Deus!
 
-5 - Nenhum homem é digno da consolação celestial senão aquele que diligentemente se exercitou na santa contrição. Se queres sentir contrição em teu coração, entra em teu quarto e fecha fora os tumultos do mundo, como está escrito: comungai com o vosso próprio coração no vosso próprio quarto, e sossegai.[^7] No retiro acharás o que frequentemente perderás fora dele. O retiro, se nele permaneceres, se torna doce; mas se não o conservares, gera cansaço. Se, no princípio de tua conversão, nele habitares e o guardares bem, ele será depois para ti um caro amigo, e mui agradável consolo.
+5 - Nenhum homem é digno da consolação celestial senão aquele que diligentemente se exercitou na santa contrição. Se queres sentir contrição em teu coração, entra em teu quarto e fecha fora os tumultos do mundo, como está escrito: comungai com o vosso próprio coração no vosso próprio quarto, e sossegai[^7]. No retiro acharás o que frequentemente perderás fora dele. O retiro, se nele permaneceres, se torna doce; mas se não o conservares, gera cansaço. Se, no princípio de tua conversão, nele habitares e o guardares bem, ele será depois para ti um caro amigo, e mui agradável consolo.
 
 6 - No silêncio e na quietude, a alma devota progride, e aprende as coisas ocultas das Escrituras. Ali encontra uma fonte de lágrimas, em que se banhar e limpar-se cada noite, para que se torne mais cara ao seu Criador quanto mais longe habitar de toda distração mundana. Àquele que se retira de suas relações e amigos, Deus, com os seus santos anjos, se aproximará. É melhor ser desconhecido e cuidar de si mesmo do que negligenciar-se e fazer maravilhas. É digno de louvor para um homem religioso sair raramente, fugir de ser visto, não ter desejo de ver os homens.
 
@@ -260,7 +260,7 @@ Busca ocasião conveniente para a tua meditação, e pensa frequentemente nas mi
 
 8 - Que podes ver em algum lugar que possa durar muito sob o sol? Crês talvez que ficarás satisfeito, mas nunca conseguirás alcançar isto. Se vires todas as coisas diante de ti de uma vez, que seria isso senão uma vã visão? Levanta os teus olhos a Deus no alto, e ora para que os teus pecados e negligências sejam perdoados. Deixa as coisas vãs para os homens vãos, e cuida das coisas que Deus te ordenou. Fecha a tua porta sobre ti, e chama a ti a Jesus, o teu amado. Permanece com Ele no teu quarto, pois não acharás em outro lugar tão grande paz. Se não tivesses saído nem escutado conversas vãs, terias melhor guardado a tua boa paz. Mas porque às vezes te delicia ouvir coisas novas, deves por isso sofrer perturbação de coração.
 
-### CAPÍTULO XXI
+### Capítulo XXI
 
 *Da contrição de coração*
 
@@ -274,9 +274,9 @@ Se queres progredir, conserva-te no temor de Deus, e não anseies por ser demasi
 
 5 - Se pensasses na tua morte mais frequentemente do que em quanto durará a tua vida, sem dúvida te esforçarias mais ardentemente por melhorar. E se considerasses seriamente as futuras penas do inferno, creio que suportarias de bom grado o trabalho ou a dor, e não temerias a disciplina. Mas porque estas coisas não alcançam o coração, e ainda amamos as coisas agradáveis, por isso permanecemos frios e miseravelmente indiferentes.
 
-6 - Frequentemente é da pobreza de espírito que o corpo desgraçado é tão facilmente levado a queixar-se. Ora, pois, humildemente ao Senhor que te dê o espírito de contrição, e dize com a linguagem do profeta: alimenta-me, ó Senhor, com pão de lágrimas, e dá-me abundância de lágrimas para beber.[^8]
+6 - Frequentemente é da pobreza de espírito que o corpo desgraçado é tão facilmente levado a queixar-se. Ora, pois, humildemente ao Senhor que te dê o espírito de contrição, e dize com a linguagem do profeta: alimenta-me, ó Senhor, com pão de lágrimas, e dá-me abundância de lágrimas para beber[^8].
 
-### CAPÍTULO XXII
+### Capítulo XXII
 
 *Da contemplação da miséria humana*
 
@@ -284,7 +284,7 @@ Miserável estás onde quer que estejas, e para onde quer que te voltes, a menos
 
 2 - Há muitos homens insensatos e instáveis que dizem: “Vede que vida próspera tem aquele homem, quão rico e quão grande é, quão poderoso, quão exaltado.” Mas levanta os teus olhos aos bens do céu, e verás que todas estas coisas mundanas são nada, são de todo incertas, sim, são fatigantes, porque nunca se possuem sem cuidado e temor. A felicidade do homem não está na abundância das coisas temporais; mas uma porção moderada lhe basta. A nossa vida sobre a terra é verdadeiramente miséria. Quanto mais um homem deseja ser espiritual, tanto mais amarga se torna para ele a vida presente; porque melhor entende e vê os defeitos da corrupção humana. Pois comer, beber, vigiar, dormir, repousar, laborar, e estar sujeito às demais necessidades da natureza, é verdadeiramente grande miséria e aflição para o homem devoto, que anseia ser livre e liberto de todo pecado.
 
-3 - Pois o homem interior é pesadamente sobrecarregado pelas necessidades do corpo neste mundo. Por isso o profeta devotamente ora para ser libertado delas, dizendo: livra-me das minhas necessidades, ó Senhor.[^9] Mas ai daqueles que não conhecem a sua própria miséria, e ainda maior ai daqueles que amam esta vida miserável e corruptível. Pois a tal ponto alguns se apegam a ela (ainda que, trabalhando ou mendigando, apenas alcancem o necessário à subsistência) que, se pudessem viver aqui para sempre, nada se importariam com o Reino de Deus.
+3 - Pois o homem interior é pesadamente sobrecarregado pelas necessidades do corpo neste mundo. Por isso o profeta devotamente ora para ser libertado delas, dizendo: livra-me das minhas necessidades, ó Senhor[^9]. Mas ai daqueles que não conhecem a sua própria miséria, e ainda maior ai daqueles que amam esta vida miserável e corruptível. Pois a tal ponto alguns se apegam a ela (ainda que, trabalhando ou mendigando, apenas alcancem o necessário à subsistência) que, se pudessem viver aqui para sempre, nada se importariam com o Reino de Deus.
 
 4 - Ó insensatos e infiéis de coração, que jazem tão profundamente enterrados nas coisas mundanas, que nada apreciam senão as coisas da carne! Ó miseráveis! bem tristemente descobrirão ao fim quão vil e sem valor era aquilo que amavam. Os santos de Deus e todos os leais amigos de Cristo tiveram por nada as coisas que agradavam à carne, ou as que floresciam nesta vida, mas toda a sua esperança e afeto aspirava às coisas que estão acima. Todo o seu desejo era levado para cima, às coisas eternas e invisíveis, para que não fossem arrastados para baixo pelo amor das coisas visíveis.
 
@@ -294,7 +294,7 @@ Miserável estás onde quer que estejas, e para onde quer que te voltes, a menos
 
 7 - Que será de nós ao fim, se no princípio somos tépidos e ociosos? Ai de nós, se escolhermos descansar, como se fosse tempo de paz e segurança, enquanto ainda nenhum sinal aparece em nossa vida de verdadeira santidade. Antes precisaríamos de começar de novo, como bons novícios, a ser instruídos para a boa vida, se por acaso houver esperança de futura emenda e maior aumento espiritual.
 
-### CAPÍTULO XXIII
+### Capítulo XXIII
 
 *Da meditação sobre a morte*
 
@@ -302,7 +302,7 @@ Muito rapidamente haverá um fim de ti aqui; atenta, pois, a como será contigo 
 
 2 - Que aproveita viver muito tempo, quando tão pouco melhoramos? Ah! a longa vida nem sempre melhora, mas frequentemente aumenta ainda mais a culpa. Ó, se pudéssemos gastar um único dia neste mundo como deveria ser gasto! Muitos há que contam os anos desde que se converteram, e contudo quão pouco é frequentemente o fruto disso. Se é coisa temível morrer, talvez seja coisa ainda mais temível viver por muito tempo. Feliz o homem que tem sempre diante dos olhos a hora de sua morte, e diariamente se prepara para morrer. Se alguma vez viste alguém morrer, considera que também tu passarás pelo mesmo caminho.
 
-3 - Quando for manhã, reflete que talvez não vejas o entardecer, e à tardinha não te atrevas a ufanar-te do amanhã. Está sempre preparado, e vive de tal modo que a morte nunca te encontre despreparado. Muitos morrem subitamente e inesperadamente. Pois na hora em que menos pensarem, virá o Filho do Homem.[^10] Quando chegar essa última hora, começarás a pensar muito diferentemente sobre toda a tua vida passada, e lamentarás amargamente por teres sido tão negligente e indolente.
+3 - Quando for manhã, reflete que talvez não vejas o entardecer, e à tardinha não te atrevas a ufanar-te do amanhã. Está sempre preparado, e vive de tal modo que a morte nunca te encontre despreparado. Muitos morrem subitamente e inesperadamente. Pois na hora em que menos pensarem, virá o Filho do Homem[^10]. Quando chegar essa última hora, começarás a pensar muito diferentemente sobre toda a tua vida passada, e lamentarás amargamente por teres sido tão negligente e indolente.
 
 4 - Feliz e sábio é aquele que agora se esforça por ser tal na vida qual desejaria ser achado na morte! Pois um perfeito desprezo do mundo, um fervoroso desejo de sobressair em virtude, o amor à disciplina, a dor da penitência, a prontidão para obedecer, a negação de si mesmo, a submissão a qualquer adversidade por amor de Cristo; estas são as coisas que darão grande confiança de uma morte feliz. Enquanto estás em saúde, tens muitas oportunidades de boas obras; mas quando estiveres enfermo, não sei quanto poderás fazer. Poucos são melhorados pela enfermidade: assim como os que andam muito fora raramente se tornam santos.
 
@@ -314,9 +314,9 @@ Muito rapidamente haverá um fim de ti aqui; atenta, pois, a como será contigo 
 
 8 - Quem se lembrará de ti depois de tua morte? E quem intercederá por ti? Trabalha, trabalha agora, ó caro amado, trabalha tudo o que puderes. Pois não sabes quando morrerás, nem o que te sucederá depois da morte. Enquanto tens tempo, junta para ti riquezas imperecíveis. Não penses em nada senão na tua salvação; cuida somente das coisas de Deus. Faze para ti amigos, venerando os santos de Deus e caminhando em suas pegadas, para que, quando faltares, sejas recebido nas moradas eternas.
 
-9 - Conserva-te como estranho e peregrino sobre a terra, a quem não pertencem as coisas do mundo. Guarda o teu coração livre, e elevado para Deus, pois aqui não temos cidade permanente.[^11] A Ele dirige as tuas diárias orações com clamor e lágrimas, para que o teu espírito seja achado digno de passar felizmente após a morte para o seu Senhor. Amém.
+9 - Conserva-te como estranho e peregrino sobre a terra, a quem não pertencem as coisas do mundo. Guarda o teu coração livre, e elevado para Deus, pois aqui não temos cidade permanente[^11]. A Ele dirige as tuas diárias orações com clamor e lágrimas, para que o teu espírito seja achado digno de passar felizmente após a morte para o seu Senhor. Amém.
 
-### CAPÍTULO XXIV
+### Capítulo XXIV
 
 *Do juízo e castigo dos ímpios*
 
@@ -334,7 +334,7 @@ Em tudo o que fizeres, lembra-te do fim, e de como comparecerás diante de um Ju
 
 7 - Se até este dia sempre tivesses vivido em honras e prazeres, que te aproveitaria tudo, se agora a morte te viesse num instante? Tudo, pois, é vaidade, salvo amar a Deus e servi-Lo somente. Pois aquele que ama a Deus com todo o coração não teme a morte, nem o castigo, nem o juízo, nem o inferno, porque o amor perfeito dá acesso seguro a Deus. Mas aquele que ainda se deleita no pecado, não é de maravilhar que tema a morte e o juízo. Contudo, é boa coisa, se o amor ainda não pode reter-te do mal, que ao menos o temor do inferno te detenha. Mas aquele que põe de lado o temor de Deus não pode continuar por muito no bem, mas rapidamente cairá nas armadilhas do demônio.
 
-### CAPÍTULO XXV
+### Capítulo XXV
 
 *Da emenda zelosa de toda a nossa vida*
 
@@ -342,7 +342,7 @@ Sê vigilante e diligente no serviço de Deus, e pensa frequentemente por que re
 
 2 - Certo homem, estando em ansiedade de espírito, continuamente lançado entre a esperança e o temor, e sendo em certo dia oprimido pela tristeza, lançou-se em oração diante do altar de uma igreja, e meditou dentro de si, dizendo: “Ó! se ao menos soubesse que havia de perseverar,” e logo ouviu dentro de si uma voz de Deus: “E se o soubesses, que farias? Faze agora o que farias então, e estarás muito seguro.” E, sendo logo consolado e fortalecido, entregou-se à vontade de Deus, e cessou a perturbação de espírito, nem mais teve mente de buscar curiosamente saber o que lhe havia de suceder no futuro, mas se aplicou antes a indagar qual era a boa e aceitável vontade de Deus, para o começo e aperfeiçoamento de toda boa obra.
 
-3 - Espera no Senhor e faze o bem, diz o Profeta; habita na terra, e serás alimentado com as suas riquezas.[^12] Uma coisa há que retarda a muitos do progresso e fervorosa emenda, mesmo o temor da dificuldade, ou o trabalho do combate. Não obstante, avançam sobre todos os demais em virtude aqueles que se esforçam bravamente por vencer aquelas coisas que lhes são mais graves e contrárias, pois ali aproveita mais o homem, e merece maior graça, onde mais se vence a si mesmo, e se mortifica em espírito.
+3 - Espera no Senhor e faze o bem, diz o Profeta; habita na terra, e serás alimentado com as suas riquezas[^12]. Uma coisa há que retarda a muitos do progresso e fervorosa emenda, mesmo o temor da dificuldade, ou o trabalho do combate. Não obstante, avançam sobre todos os demais em virtude aqueles que se esforçam bravamente por vencer aquelas coisas que lhes são mais graves e contrárias, pois ali aproveita mais o homem, e merece maior graça, onde mais se vence a si mesmo, e se mortifica em espírito.
 
 4 - Mas nem todos os homens têm as mesmas paixões a vencer e a mortificar; contudo, aquele que é diligente alcançará mais proveito, ainda que tenha paixões mais fortes, do que outro que é mais temperado de disposição, mas é, contudo, menos fervoroso na busca da virtude. Duas coisas especialmente aproveitam para o progresso na santidade, a saber: firmeza para nos retirarmos do pecado a que por natureza mais nos inclinamos, e fervoroso zelo por aquele bem em que mais carecemos. E esforça-te também muito seriamente por guardar-te e vencer aquelas faltas que mais frequentemente te desagradam nos outros.
 
@@ -359,6 +359,8 @@ Sê vigilante e diligente no serviço de Deus, e pensa frequentemente por que re
 10 - Lembra-te sempre do teu fim, e de como o tempo que se perde não retorna. Sem cuidado e diligência, nunca alcançarás a virtude. Se começares a arrefecer, começará a ir mal contigo; mas se te entregares ao zelo, encontrarás muita paz, e acharás o teu labor mais leve pela graça de Deus e pelo amor da virtude. O homem zeloso e diligente está pronto para todas as coisas. É trabalho maior resistir aos pecados e às paixões do que labutar em trabalhos corporais. Aquele que não evita as pequenas faltas cai pouco a pouco em maiores. À tardinha estarás sempre contente se tiveres gasto o dia com proveito. Vigia sobre ti mesmo, exorta-te, admoesta-te, e, seja como for com os outros, não te negligencies. Quanto mais violência fizeres contigo mesmo, tanto mais aproveitarás. Amém.
 
 ---
+
+### Notas do Tradutor
 
 [^1]: Cf. Jo 8.12.
 

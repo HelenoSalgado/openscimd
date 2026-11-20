@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "articles",
-  "last_updated": 1795182009927,
+  "last_updated": 1795202052472,
   "articles": [
     {
       "id": "art_001",
@@ -79,7 +79,8 @@
       "volume": "7",
       "volume_id": "vol_boletim-cearense-de-educacao-e-historia-da-matematica_7",
       "issue": "20",
-      "pages": "158 – 169"
+      "pages": "158 – 169",
+      "language": "pt-BR"
     },
     {
       "id": "art_004",
@@ -140,7 +141,8 @@
       "volume": "70",
       "volume_id": "vol_hispania-sacra_70",
       "issue": "141",
-      "pages": "51–63"
+      "pages": "51–63",
+      "language": "pt-BR"
     },
     {
       "id": "art_006",
@@ -179,6 +181,7 @@
       "volume_id": "vol_history-of-science_6",
       "issue": "5",
       "pages": "101-112",
+      "language": "pt-BR",
       "e_issn": "2790-0037"
     },
     {
@@ -868,7 +871,8 @@
       "journal_id": "journal_revista-historia-da-educacao",
       "volume": "23",
       "volume_id": "vol_revista-historia-da-educacao_23",
-      "pages": "1–33"
+      "pages": "1–33",
+      "language": "pt-PT"
     },
     {
       "id": "art_016",
@@ -924,6 +928,7 @@
       "volume_id": "vol_revista-ibero-americana-de-estudos-em-educacao_16",
       "issue": "1",
       "pages": "3-19",
+      "language": "pt-BR",
       "e_issn": "1982-5587"
     },
     {
@@ -957,6 +962,7 @@
       "volume_id": "vol_revista-viae-veritatis_1",
       "issue": "1",
       "pages": "1–12",
+      "language": "pt-BR",
       "e_issn": "3086-7746"
     },
     {
@@ -988,6 +994,7 @@
       "volume_id": "vol_revista-viae-veritatis_1",
       "issue": "1",
       "pages": "1–9",
+      "language": "pt-BR",
       "e_issn": "3086-7746"
     },
     {
@@ -1020,6 +1027,7 @@
       "volume_id": "vol_revista-viae-veritatis_1",
       "issue": "1",
       "pages": "1–8",
+      "language": "pt-BR",
       "e_issn": "3086-7746"
     },
     {
@@ -1051,6 +1059,7 @@
       "volume_id": "vol_revista-viae-veritatis_1",
       "issue": "1",
       "pages": "1–52",
+      "language": "pt-BR",
       "e_issn": "3086-7746"
     },
     {
@@ -1083,6 +1092,7 @@
       "volume_id": "vol_revista-viae-veritatis_1",
       "issue": "1",
       "pages": "1–17",
+      "language": "pt-BR",
       "e_issn": "3086-7746"
     },
     {
@@ -1115,6 +1125,7 @@
       "volume_id": "vol_revista-viae-veritatis_1",
       "issue": "1",
       "pages": "1–10",
+      "language": "pt-BR",
       "e_issn": "3086-7746"
     }
   ]

@@ -12,8 +12,6 @@ categories:
   - Literatura
 ---
 
-# Poética
-
 ## I
 
 Propomo-nos tratar da Poesia em si mesma e de suas diversas espécies, assinalando a qualidade essencial de cada uma; inquirir acerca da estrutura do enredo como requisito de um bom poema; acerca do número e da natureza das partes de que se compõe um poema; e, de modo semelhante, acerca de tudo o mais que caiba na mesma investigação. Seguindo, pois, a ordem da natureza, comecemos pelos princípios que vêm primeiro.

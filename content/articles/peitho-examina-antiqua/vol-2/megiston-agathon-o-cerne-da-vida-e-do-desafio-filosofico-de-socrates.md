@@ -31,17 +31,17 @@ keywords:
   - Sócrates
 ---
 
-> De todos os homens, Sócrates é o mais sábio.[^nt1]
+> De todos os homens, Sócrates é o mais sábio[^nt1].
 >
 > — Diógenes Laércio, II, 37
 
 
-> A vida sem exame não é digna de ser vivida pelo homem.[^nt2]
+> A vida sem exame não é digna de ser vivida pelo homem[^nt2].
 >
 > — Platão, *Apologia de Sócrates*, 38 a
 
 
-> Sócrates interrogava, mas não dava respostas; confessava, com efeito, não saber.[^nt3]
+> Sócrates interrogava, mas não dava respostas; confessava, com efeito, não saber[^nt3].
 >
 > — Aristóteles, *Refutações Sofísticas*, 183 b 7–8
 
@@ -160,7 +160,6 @@ Sócrates legou ao Ocidente o exemplo imorredouro de uma existência em que o pe
 
 [^11]: O inquérito não versa sobre enunciados abstratos descolados da realidade, mas visa a transformar a alma de pessoas em carne e osso.
 
----
 ### Notas do Tradutor
 
 [^nt1]: **Em língua original**: *ἀνδρῶν ἁπάντων Σωκράτης σοφώτατος*.

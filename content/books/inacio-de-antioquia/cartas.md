@@ -14,7 +14,7 @@ language: "pt-BR"
 
 ## *Apresentação de São Jerônimo*
 
-> “Inácio, terceiro bispo, depois do Apóstolo Pedro, da Igreja de Antioquia, foi enviado preso a Roma, condenado às feras durante a perseguição movida por Trajano [provavelmente no ano 107 d.C.]. Chegando por mar a Esmirna, onde Policarpo, o ouvinte de João, era bispo, escreveu uma carta aos efésios, outra aos magnésios, uma terceira aos tralianos, e a quarta aos romanos. Partindo daí, escreveu aos filadélfios, aos esmirnenses, e em particular ainda a Policarpo, recomendando-lhe a Igreja de Antioquia.[^ne1]”
+> “Inácio, terceiro bispo, depois do Apóstolo Pedro, da Igreja de Antioquia, foi enviado preso a Roma, condenado às feras durante a perseguição movida por Trajano [provavelmente no ano 107 d.C.]. Chegando por mar a Esmirna, onde Policarpo, o ouvinte de João, era bispo, escreveu uma carta aos efésios, outra aos magnésios, uma terceira aos tralianos, e a quarta aos romanos. Partindo daí, escreveu aos filadélfios, aos esmirnenses, e em particular ainda a Policarpo, recomendando-lhe a Igreja de Antioquia[^ne1].”
 >
 > — *São Jerônimo, De Viris Illustribus, cap. XVI*
 
@@ -42,7 +42,7 @@ Inácio, também chamado Teóforo, àquela que é bendita em grandeza na plenitu
 
 ### *Capítulo V*
 
-(1) Pois, se em tão curto lapso de tempo tive tal intimidade com vosso bispo, não em sentido humano mas espiritual, quanto mais devo felicitar-vos por estardes tão profundamente ligados a ele como a Igreja a Jesus Cristo e como Jesus Cristo ao Pai, para que todas as coisas estejam em sintonia na unidade. (2) Não se iluda ninguém. Se não se encontrar no interior do recinto do altar, ver-se-á privado do pão de Deus. Vede, se a oração de um e dois possui tal força, quanto mais então a do bispo e de toda a Igreja! (3) Aquele que não vem à reunião comum já se revela como orgulhoso e se julgou a si próprio, pois está escrito: *"Deus se opõe aos orgulhosos"*. Por conseguinte, cuidemo-nos de não nos opormos ao bispo, para estarmos submissos a Deus.
+(1) Pois, se em tão curto lapso de tempo tive tal intimidade com vosso bispo, não em sentido humano mas espiritual, quanto mais devo felicitar-vos por estardes tão profundamente ligados a ele como a Igreja a Jesus Cristo e como Jesus Cristo ao Pai, para que todas as coisas estejam em sintonia na unidade. (2) Não se iluda ninguém. Se não se encontrar no interior do recinto do altar, ver-se-á privado do pão de Deus. Vede, se a oração de um e dois possui tal força, quanto mais então a do bispo e de toda a Igreja! (3) Aquele que não vem à reunião comum já se revela como orgulhoso e se julgou a si próprio, pois está escrito: *“Deus se opõe aos orgulhosos”*. Por conseguinte, cuidemo-nos de não nos opormos ao bispo, para estarmos submissos a Deus.
 
 ### *Capítulo VI*
 
@@ -82,7 +82,7 @@ Inácio, também chamado Teóforo, àquela que é bendita em grandeza na plenitu
 
 ### *Capítulo XV*
 
-(1) É melhor calar-se e ser do que falar e não ser. É maravilhoso ensinar, quando se faz o que se diz. Assim, um é o Mestre *"que falou e tudo foi feito"*; também aquilo que realizou em silêncio é digno do Pai. (2) Quem de fato possui a Palavra de Jesus pode até ouvir-lhe o silêncio; para ser perfeito, para agir pelo que fala e ser reconhecido pelo que cala. (3) Nada escapa ao Senhor; antes, o que é segredo para nós está perto d'Ele. Façamos pois tudo como se Ele em nós morasse, para sermos seus templos e Ele nosso Deus em nós. E é essa a realidade; e ela se manifestará aos nossos olhos, se o amarmos devidamente.
+(1) É melhor calar-se e ser do que falar e não ser. É maravilhoso ensinar, quando se faz o que se diz. Assim, um é o Mestre *“que falou e tudo foi feito”*; também aquilo que realizou em silêncio é digno do Pai. (2) Quem de fato possui a Palavra de Jesus pode até ouvir-lhe o silêncio; para ser perfeito, para agir pelo que fala e ser reconhecido pelo que cala. (3) Nada escapa ao Senhor; antes, o que é segredo para nós está perto d'Ele. Façamos pois tudo como se Ele em nós morasse, para sermos seus templos e Ele nosso Deus em nós. E é essa a realidade; e ela se manifestará aos nossos olhos, se o amarmos devidamente.
 
 ### *Capítulo XVI*
 
@@ -308,11 +308,11 @@ Inácio, também chamado Teóforo, à Igreja de Deus Pai e do Senhor Jesus Crist
 
 ### *Capítulo VII*
 
-(1) Alguns desejaram de fato enganar-me segundo a carne, mas o Espírito, que é de Deus, não se deixa enganar, pois Ele sabe donde vem e para onde vai e revela os segredos. Clamei, quando estive entre vós, e o disse alto e bom som, na voz de Deus: *"Apegai-vos ao Bispo, ao Presbitério e aos Diáconos! "* (2) Alguns desconfiaram que eu assim falava, porque sabia da separação de diversos deles. No entanto, é-me testemunha Aquele, por quem estou preso, que por intermédio de homem carnal não vim a saber coisa alguma. O Espírito é que mo anunciou: Nada façais sem o Bispo! Guardai vosso corpo como templo de Deus! Amai a união! Fugi das discórdias! Tornai-vos imitadores de Jesus Cristo, como Ele o é do Pai!
+(1) Alguns desejaram de fato enganar-me segundo a carne, mas o Espírito, que é de Deus, não se deixa enganar, pois Ele sabe donde vem e para onde vai e revela os segredos. Clamei, quando estive entre vós, e o disse alto e bom som, na voz de Deus: *“Apegai-vos ao Bispo, ao Presbitério e aos Diáconos!”* (2) Alguns desconfiaram que eu assim falava, porque sabia da separação de diversos deles. No entanto, é-me testemunha Aquele, por quem estou preso, que por intermédio de homem carnal não vim a saber coisa alguma. O Espírito é que mo anunciou: Nada façais sem o Bispo! Guardai vosso corpo como templo de Deus! Amai a união! Fugi das discórdias! Tornai-vos imitadores de Jesus Cristo, como Ele o é do Pai!
 
 ### *Capítulo VIII*
 
-(1) Eu por minha parte cumpri o meu dever, agindo como homem destinado a unir. Deus não mora onde houver desunião e ira. A todos porém que se converterem perdoa o Senhor, se voltarem à unidade de Deus e ao senado do Bispo. Confio na graça de Jesus Cristo, pois Ele livrará de toda cadeia. (2) Exorto-vos a nada praticar em espírito de dissenção, mas sim em conformidade com os ensinamentos de Cristo. É que ouvi alguns dizerem: *"Se não o encontro nos documentos antigos, não dou fé ao Evangelho"*. Dizendo eu a eles *"Está escrito"*, responderam-me: *"É o que se deve provar! "* Para mim, documentos antigos são Jesus Cristo; para mim documentos invioláveis constituem a Sua Cruz, Sua Morte, Sua Ressurreição, como também a Fé que nos vem d'Ele! Nisso é que desejo, por vossa oração, ser justificado.
+(1) Eu por minha parte cumpri o meu dever, agindo como homem destinado a unir. Deus não mora onde houver desunião e ira. A todos porém que se converterem perdoa o Senhor, se voltarem à unidade de Deus e ao senado do Bispo. Confio na graça de Jesus Cristo, pois Ele livrará de toda cadeia. (2) Exorto-vos a nada praticar em espírito de dissenção, mas sim em conformidade com os ensinamentos de Cristo. É que ouvi alguns dizerem: *“Se não o encontro nos documentos antigos, não dou fé ao Evangelho”*. Dizendo eu a eles *“Está escrito”*, responderam-me: *“É o que se deve provar!”* Para mim, documentos antigos são Jesus Cristo; para mim documentos invioláveis constituem a Sua Cruz, Sua Morte, Sua Ressurreição, como também a Fé que nos vem d'Ele! Nisso é que desejo, por vossa oração, ser justificado.
 
 ### *Capítulo IX*
 
@@ -424,7 +424,7 @@ Inácio, também chamado Teóforo, a Policarpo, bispo da Igreja dos esmirnenses,
 
 ---
 
-#### Nota Editorial
+### Notas Editoriais
 
 > [!NOTE]
 > **Proveniência do Texto**: Esta edição em Markdown semântico foi compilada e revisada para o OpenSciMD e o leitor LeiaME a partir do texto digitalizado e traduzido originalmente por *cristianismo.org.br*, sob licença de livre reprodução para fins de estudo e uso não comercial.

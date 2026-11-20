@@ -92,7 +92,7 @@ Em remate: os dilemas suscitados pelo *Eutífron* na Polônia oitocentista ilust
 
 [^3]: O Padre Stefan Pawlicki (1839–1915) nasceu em Gdańsk (Danzig) e obteve o doutorado na Universidade de Wrocław (Breslau) com tese consagrada à filosofia de Schopenhauer. Após a ordenação sacerdotal e período docente em Roma, fixou-se em Cracóvia, onde lecionou filosofia e teologia na Universidade Jaguelônica até o fim da vida.
 
-### Nota do Editor
+### Notas Editoriais
 
 [^ne1]: O estudo original do autor foi subsidiado por recursos de fomento à pesquisa acadêmica polonesa no triênio 2008–2010 (Projeto nº NN 101 116435), com agradecimento consignado a Una Maclean-Hanćkowiak pela revisão do original inglês. Tradução e adaptação para o português pela equipe editorial.
 

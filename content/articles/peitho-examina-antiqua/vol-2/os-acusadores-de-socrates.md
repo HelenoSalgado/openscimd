@@ -158,13 +158,9 @@ Pode-se concluir, sob o prisma estritamente técnico-jurídico, que o processo d
 
 [^16]: Texto disponível em: `www.kostasbeys.gr/articles.php?s=4&mid=1498&mnu=4&id=25671`.
 
----
-
 ### Notas do Tradutor
 
 [^nt1]: **Em língua original**: *κατὰ δέ τινα τύχην αὖ τὸν ἑταῖρον ἡμῶν Σωκράτη τοῦτον δυναστεύοντές τινες εἰσάγουσιν εἰς δικαστήριον, ἀνοσιωτάτην αἰτίαν ἐπιβαλόντες καὶ πάντων ἥκιστα Σωκράτει προσήκουσαν·
-
----
 
 ### Notas do Editor
 

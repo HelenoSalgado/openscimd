@@ -223,8 +223,8 @@ A nós, que não sabemos dar por elas.
 Mas que melhor metafísica que a delas,  
 Que é a de não saber para que vivem  
 Nem saber que o não sabem?  
-"Constituição íntima das cousas"...  
-"Sentido íntimo do Universo"...  
+“Constituição íntima das cousas”...  
+“Sentido íntimo do Universo”...  
 Tudo isto é falso, tudo isto não quer dizer nada.  
 É incrível que se possa pensar em cousas dessas.  
 É como pensar em razões e fins  
@@ -381,12 +381,12 @@ E empoleira-se nas cadeiras e suja-as.
 Tudo no céu é estúpido como a Igreja Católica.  
 Diz-me que Deus não percebe nada  
 Das coisas que criou —  
-"Se é que ele as criou, do que duvido" —  
-"Ele diz, por exemplo, que os seres cantam a sua glória,  
+“Se é que ele as criou, do que duvido” —  
+“Ele diz, por exemplo, que os seres cantam a sua glória,  
 Mas os seres não cantam nada.  
 Se cantassem seriam cantores.  
 Os seres existem e mais nada,  
-E por isso se chamam seres."  
+E por isso se chamam seres.”  
 E depois, cansados de dizer mal de Deus,  
 O Menino Jesus adormece nos meus braços  
 E eu levo-o ao colo para casa.  
@@ -497,21 +497,21 @@ Sei a verdade e sou feliz.
 
 ## *X — Olá, Guardador de Rebanhos*
 
-"Olá, guardador de rebanhos,  
+“Olá, guardador de rebanhos,  
 Aí à beira da estrada,  
-Que te diz o vento que passa?"  
-"Que é vento, e que passa,  
+Que te diz o vento que passa?”  
+“Que é vento, e que passa,  
 E que já passou antes,  
 E que passará depois.  
-E a ti o que te diz?"  
-"Muita cousa mais do que isso.  
+E a ti o que te diz?”  
+“Muita cousa mais do que isso.  
 Fala-me de muitas outras cousas.  
 De memórias e de saudades  
-E de cousas que nunca foram."  
-"Nunca ouviste passar o vento.  
+E de cousas que nunca foram.”  
+“Nunca ouviste passar o vento.  
 O vento só fala do vento.  
 O que lhe ouviste foi mentira,  
-E a mentira está em ti."  
+E a mentira está em ti.”  
 
 ---
 
@@ -610,7 +610,7 @@ A quem ninguém reza...
 E cortam-as e vêm à nossa mesa  
 E nos hotéis os hóspedes ruidosos,  
 Que chegam com correias tendo mantas  
-Pedem "Salada", descuidosos...,  
+Pedem “Salada”, descuidosos...,  
 Sem pensar que exigem à Terra-Mãe  
 A sua frescura e os seus filhos primeiros,  
 As primeiras verdes palavras que ela tem,  

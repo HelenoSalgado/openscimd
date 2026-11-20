@@ -12,7 +12,7 @@ categories:
   - Teologia
 ---
 
-# LIVRO PRIMEIRO
+## Livro Primeiro
 
 ### 1. 1.
 
@@ -70,13 +70,13 @@ R. — Nada mais?
 
 A. — Absolutamente nada.
 
-R. — Começa, pois, a inquirir. Mas antes explica de que modo, se Deus te for demonstrado, poderás dizer: "É o bastante".
+R. — Começa, pois, a inquirir. Mas antes explica de que modo, se Deus te for demonstrado, poderás dizer: “É o bastante”.
 
-A. — Não sei de que modo Ele me possa ser demonstrado para que eu diga: "É o bastante"; pois não creio que conheça coisa alguma do modo como desejo conhecer a Deus.
+A. — Não sei de que modo Ele me possa ser demonstrado para que eu diga: “É o bastante”; pois não creio que conheça coisa alguma do modo como desejo conhecer a Deus.
 
 R. — Que havemos de fazer, então? Não julgas que primeiramente te seja necessário saber de que modo te seja suficiente conhecer a Deus, para que, quando a isso chegares, não busques mais além?
 
-A. — Assim o julgo, decerto; mas de que modo isso possa ser feito, não vejo. Pois o que conheci que seja semelhante a Deus, para que eu possa dizer: "Assim como conheço isto, assim quero conhecer a Deus"?
+A. — Assim o julgo, decerto; mas de que modo isso possa ser feito, não vejo. Pois o que conheci que seja semelhante a Deus, para que eu possa dizer: “Assim como conheço isto, assim quero conhecer a Deus”?
 
 R. — Tu, que ainda não conheces a Deus, donde sabes que nada conheces semelhante a Deus?
 
@@ -96,7 +96,7 @@ A. — Homens eles são, e eu os amo não por serem animais, mas por serem homen
 
 ### 3. 8.
 
-R. — Aceito isto; mas se alguém te dissesse: "Eu farei com que conheças a Deus assim como conheces a Alípio", não darias graças e dirias: "É o bastante"?
+R. — Aceito isto; mas se alguém te dissesse: “Eu farei com que conheças a Deus assim como conheces a Alípio”, não darias graças e dirias: “É o bastante”?
 
 A. — Daria certamente graças, mas não diria ser o bastante.
 
@@ -190,7 +190,7 @@ R. — Mas se conheces a esta e àquela igualmente, e contudo, como confessas, d
 
 A. — Quem jamais o negou?
 
-R. — Tu, há pouco. Pois quando te perguntei como desejavas conhecer a Deus para poderes dizer: "É o bastante", respondeste que não podias explicá-lo porque nada tinhas percebido do modo como desejas perceber a Deus, visto que nada conheces semelhante a Deus. Que dizes agora? A linha e a esfera são semelhantes?
+R. — Tu, há pouco. Pois quando te perguntei como desejavas conhecer a Deus para poderes dizer: “É o bastante”, respondeste que não podias explicá-lo porque nada tinhas percebido do modo como desejas perceber a Deus, visto que nada conheces semelhante a Deus. Que dizes agora? A linha e a esfera são semelhantes?
 
 A. — Quem diria isto?
 
@@ -384,7 +384,7 @@ A. — Quando será isto, peço-te? Pois não creio que estas coisas possam vir 
 
 ### 14. 25.
 
-R. — Deste modo também este olho do corpo poderia dizer: "Não amarei as trevas quando vir o sol". Pois parece que também isto pertence à boa ordem, o que está longe de ser verdade. Pois ele ama as trevas pelo fato de não estar são; mas o sol, a não ser estando são, não o pode ver. E nisso a mente muitas vezes se engana, julgando-se sã e jactando-se; e porque ainda não vê, queixa-se como se tivesse direito. Aquela Formosura, porém, sabe quando há de mostrar-se. Pois ela própria exerce o ofício de médico, e compreende melhor quem está são do que os próprios que são curados. Nós, porém, parece-nos ver o quanto emergimos; mas o quanto estávamos submersos e até onde havíamos progredido, não nos é permitido pensar nem sentir, e em comparação com a doença mais grave julgamo-nos sãos. Não vês quão seguros, no dia de ontem, havíamos declarado que já não éramos detidos por peste alguma, que nada amávamos senão a sabedoria, e que as demais coisas não buscávamos nem queríamos senão por causa dela? Quão sórdido, quão torpe, quão execrável, quão horrível te parecia o abraço feminino quando entre nós se indagou sobre o desejo de esposa! Todavia, vigiando nesta mesma noite, ao tratarmos novamente dessas coisas entre nós, sentiste quão diversamente do que havias presumido aquelas imaginadas carícias e aquela amarga suavidade te provocaram: muito, muito menos decerto do que de costume, mas também muito diversamente do que havias pensado; para que aquele secretíssimo Médico te demonstrasse ambas as coisas: quer daquilo de que escapaste pelo cuidado d'Ele, quer daquilo que ainda resta por curar.
+R. — Deste modo também este olho do corpo poderia dizer: “Não amarei as trevas quando vir o sol”. Pois parece que também isto pertence à boa ordem, o que está longe de ser verdade. Pois ele ama as trevas pelo fato de não estar são; mas o sol, a não ser estando são, não o pode ver. E nisso a mente muitas vezes se engana, julgando-se sã e jactando-se; e porque ainda não vê, queixa-se como se tivesse direito. Aquela Formosura, porém, sabe quando há de mostrar-se. Pois ela própria exerce o ofício de médico, e compreende melhor quem está são do que os próprios que são curados. Nós, porém, parece-nos ver o quanto emergimos; mas o quanto estávamos submersos e até onde havíamos progredido, não nos é permitido pensar nem sentir, e em comparação com a doença mais grave julgamo-nos sãos. Não vês quão seguros, no dia de ontem, havíamos declarado que já não éramos detidos por peste alguma, que nada amávamos senão a sabedoria, e que as demais coisas não buscávamos nem queríamos senão por causa dela? Quão sórdido, quão torpe, quão execrável, quão horrível te parecia o abraço feminino quando entre nós se indagou sobre o desejo de esposa! Todavia, vigiando nesta mesma noite, ao tratarmos novamente dessas coisas entre nós, sentiste quão diversamente do que havias presumido aquelas imaginadas carícias e aquela amarga suavidade te provocaram: muito, muito menos decerto do que de costume, mas também muito diversamente do que havias pensado; para que aquele secretíssimo Médico te demonstrasse ambas as coisas: quer daquilo de que escapaste pelo cuidado d'Ele, quer daquilo que ainda resta por curar.
 
 ### 14. 26.
 
@@ -460,7 +460,7 @@ A. — Aqui estou.
 
 ### 15. 29.
 
-R. — Parece-te verdadeira esta sentença: "Tudo o que existe é compelido a estar em algum lugar"?
+R. — Parece-te verdadeira esta sentença: “Tudo o que existe é compelido a estar em algum lugar”?
 
 A. — Nada me induz tanto ao assentimento.
 

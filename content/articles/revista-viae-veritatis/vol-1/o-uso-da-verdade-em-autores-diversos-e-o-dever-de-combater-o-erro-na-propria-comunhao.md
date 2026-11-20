@@ -25,6 +25,7 @@ categories:
   - Teologia
 copyright: "Instituto Reformado Santo Evangelho (IRSE)"
 license: "ViVe 1.0 — REVISTA VIAE VERITATIS"
+language: "pt-BR"
 ---
 
 ## A Primazia da Verdade sobre a Filiação Doutrinária[^ne1][^ne2]

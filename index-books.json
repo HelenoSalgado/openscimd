@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1794835483128,
+  "last_updated": 1795202052906,
   "books": [
     {
       "id": "book_001",
@@ -35,7 +35,7 @@
         "Literatura",
         "Poesia"
       ],
-      "udc": "82",
+      "udc": "82:82-1",
       "published_at": 1794209294123,
       "estimated_reading_time_min": 39,
       "license": "Domínio Público",
@@ -55,7 +55,7 @@
         "Literatura",
         "Poesia"
       ],
-      "udc": "1:82",
+      "udc": "1:82:82-1",
       "published_at": 1794153689615,
       "estimated_reading_time_min": 6,
       "license": "Domínio Público",
@@ -112,7 +112,7 @@
         "Literatura",
         "Poesia"
       ],
-      "udc": "82",
+      "udc": "82:82-1",
       "published_at": 1794209294124,
       "estimated_reading_time_min": 21,
       "license": "Domínio Público",

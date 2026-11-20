@@ -92,14 +92,45 @@ def test_lint_footnotes_abnt_and_sequence_rules() -> None:
 def test_lint_abnt_allows_abbreviation_dot_before_anchor() -> None:
     doc = _valid_doc(
         "## Introdução\n\n"
-        "Platão, Aristóteles, etc.[^1] E em 399 a.C.[^2]\n\n"
+        "Platão, Aristóteles, etc.[^1] E em 399 a.C.[^2] nos textos do N.T.[^3]\n\n"
         "---\n\n"
         "### Notas do Autor\n\n"
         "[^1]: Nota sobre abreviação.\n\n"
-        "[^2]: Nota sobre era."
+        "[^2]: Nota sobre era.\n\n"
+        "[^3]: Nota sobre sigla."
     )
     report = lint_markdown_text(doc)
     assert not any(issue.code == "ED010" for issue in report.all_issues)
+
+
+def test_lint_ed012_allows_hr_before_bibliography_but_rejects_between_note_sections() -> None:
+    doc_with_bib = _valid_doc(
+        "## Introdução\n\n"
+        "Texto com nota[^1] e nota do tradutor[^nt1].\n\n"
+        "---\n\n"
+        "### Notas do Autor\n\n"
+        "[^1]: Nota do autor.\n\n"
+        "### Notas do Tradutor\n\n"
+        "[^nt1]: Nota do tradutor.\n\n"
+        "---\n\n"
+        "## Bibliografia\n\n"
+        "- **Autor**, 2020, *Obra*."
+    )
+    report_bib = lint_markdown_text(doc_with_bib)
+    assert not any(issue.code == "ED012" for issue in report_bib.all_issues)
+
+    doc_with_inner_hr = _valid_doc(
+        "## Introdução\n\n"
+        "Texto com nota[^1] e nota do tradutor[^nt1].\n\n"
+        "---\n\n"
+        "### Notas do Autor\n\n"
+        "[^1]: Nota do autor.\n\n"
+        "---\n\n"
+        "### Notas do Tradutor\n\n"
+        "[^nt1]: Nota do tradutor."
+    )
+    report_inner = lint_markdown_text(doc_with_inner_hr)
+    assert any(issue.code == "ED012" for issue in report_inner.all_issues)
 
 
 def test_lint_numeric_ranges_ignores_dates_urls_dois_and_numbered_paragraphs() -> None:

@@ -11,7 +11,7 @@ categories:
   - Filosofia
 ---
 
-## COMENTÁRIO À ISAGOGE DE PORFÍRIO | SEVERINO BOÉCIO[^ne1][^ne2]
+## Comentário à Isagoge de Porfírio | Severino Boécio[^ne1][^ne2]
 
 ### Livro I
 
@@ -1209,7 +1209,7 @@ Talvez um espírito instruído por estas considerações e tornado mais perspica
 
 E, visto que alcançamos o porto da obra prometida e expusemos em língua latina a sequência deste livro, traduzido primeiramente pelo retórico Victorino e depois por nós, acompanhando-o de uma dupla exposição, estabelecemos aqui o termo desta longa obra, que contém o tratado dos cinco elementos e serve de preparação para os predicamentos.
 
-## EXPLICAÇÃO DO TEXTO DA ISAGOGE DE PORFÍRIO | JOÃO DE SÃO TOMÁS[^ne3]
+## Explicação do Texto da Isagoge de Porfírio | João de São Tomás[^ne3]
 
 O livro dos Predicáveis é simplesmente chamado *Isagoge*, isto é, *Introdução*, porque serve para a compreensão das categorias, pelas quais começa a Lógica de Aristóteles. E, como a Lógica é a primeira entre as demais ciências na ordem da aquisição, por isso a introdução a ela é chamada, absoluta e simplesmente, *Introdução*.
 
@@ -1245,11 +1245,11 @@ Neste capítulo, Porfírio propõe três definições do acidente e uma divisão
 
 Neste capítulo, Porfírio, mediante uma longa exposição, compara entre si estes cinco predicáveis e explica claramente em que convêm e em que diferem. Pelo que foi dito, contudo, conhece-se suficientemente de que modo estes predicáveis diferem entre si e em que podem convir.
 
-### QUESTÃO VI
+### Questão VI
 
 *Da Divisão do Universal nos Cinco Predicáveis*
 
-#### ARTIGO I
+#### Artigo I
 
 *Se esta divisão é boa e adequada*
 
@@ -1345,7 +1345,7 @@ E, quanto à objeção acrescentada acerca do número das categorias, responde-s
 
 Em suma, as categorias distinguem-se, quanto aos acidentes, pelo modo diverso de participar da substância; a própria substância, porém, distingue-se pelo fato de ter o ser por si. Os predicáveis, por sua vez, distinguem-se segundo a ordem diversa do universal em relação aos inferiores.
 
-#### ARTIGO II
+#### Artigo II
 
 *Se esta divisão do gênero em espécies é imediata*
 
@@ -1385,11 +1385,11 @@ Acerca da segunda questão, que se propõe no título do artigo, a saber, se est
 
 Também se pode dizer que o universal se divide imediatamente naquelas cinco espécies, porque a predicação essencial e a acidental, enquanto tais, não dividem por si mesmas a razão de universalidade, senão na medida em que pertencem à própria razão de gênero, espécie etc. Com efeito, o essencial ou o acidental, considerados absolutamente, podem encontrar-se também fora da predicação universal, como quando digo: «Pedro é este homem»: trata-se de uma predicação acidental. Portanto, o essencial e o acidental, enquanto tais, não são por si e propriamente diferenças do universal, visto que se encontram fora da predicação universal; são-no somente enquanto acidental e essencial constituem ou estão compreendidos na própria razão de gênero, espécie, próprio etc.
 
-### QUESTÃO VII
+### Questão VII
 
 *Do Gênero*
 
-#### ARTIGO I
+#### Artigo I
 
 *Se a definição de gênero apresentada por Porfírio é boa*
 
@@ -1459,7 +1459,7 @@ Por último, argumenta-se para provar que esta definição é essencial: a inten
 
 Responde-se que o sentido de Santo Tomás é claro: a predicabilidade pertence à razão do gênero e lhe convém por si e essencialmente, tomando-se a predicabilidade pela sua raiz, e não pela própria intenção formal de predicabilidade. Ora, a raiz da predicabilidade é a universalidade. Ou, se a predicabilidade for tomada formalmente, entende-se que convém ao gênero por si e que está incluída na sua intenção segundo a perseidade do segundo modo, como propriedade, e não segundo a perseidade do primeiro modo, como predicado essencial. Neste tratado, porém, Porfírio trata dos predicáveis não enquanto se distinguem do universal, mas enquanto se fundamentam nele, incluindo a própria razão de universal, e não a excluindo. Por conseguinte, é necessário que as definições essenciais sejam também apresentadas mediante a própria razão de universal.
 
-#### ARTIGO II
+#### Artigo II
 
 *Qual é o definido na definição de gênero: a própria intenção, o sujeito ou algo composto de ambos.*
 
@@ -1539,7 +1539,7 @@ O constituído, porém, a partir da brancura e do corpo, compreende ambos, a for
 
 A natureza não convém aos inferiores denominativamente; contudo, a predicabilidade, ou universalidade, convém à própria natureza denominativamente, para que seja predicada essencialmente dos inferiores, não quanto à coisa predicada, mas segundo o modo de universal e de superior, sem cuja universalidade, todavia, a essência existe. É, porém, em razão da coisa que se predica que Santo Tomás afirma que a natureza, considerada em si mesma, se predica dos inferiores.
 
-#### ARTIGO III
+#### Artigo III
 
 *Como o gênero é dito todo potencial e é tomado da matéria.*
 
@@ -1637,13 +1637,13 @@ Quanto à confirmação, responde-se que a matéria celeste e a sublunar são de
 
 Do mesmo modo, deve-se compreender que a matéria possui a razão de natureza e outros predicados quiditativos de modo incompleto e transcendental, e não genérico.
 
-### QUESTÃO VIII
+### Questão VIII
 
 *Da Espécie Predicável e Sujeitável*
 
 O correlativo do gênero é a espécie, da qual o gênero se predica; ela própria, por sua vez, é predicável dos indivíduos e, por isso, compreende uma dupla relação: a de sujeitabilidade em relação ao gênero e a de superioridade em relação aos indivíduos. Portanto, para explicar exatamente este segundo predicável, devem-se explicar ambas as relações.
 
-#### ARTIGO I
+#### Artigo I
 
 *Se a espécie é constituída na razão de espécie pela razão de sujeitável ou de predicável.*
 
@@ -1717,7 +1717,7 @@ Prova-se a premissa menor: é anterior que a natureza específica seja uma natur
 
 Nesta ordem de intenções, a universalidade e a predicabilidade precedem a sujeitabilidade na constituição do segundo predicável, que é a espécie. Embora, em relação à natureza considerada em si mesma, a contração do gênero, que é o fundamento da sujeitabilidade, seja compreendida anteriormente à possibilidade de contração em relação aos indivíduos, que é o fundamento da universalidade, para a constituição da espécie, porém, esta última precede aquela.
 
-#### ARTIGO II
+#### Artigo II
 
 *Explicam-se as definições da espécie.*
 
@@ -1743,7 +1743,7 @@ Do mesmo modo, a definição da espécie predicável convém também a outras co
 
 **À última objeção**, responder-se-á no artigo seguinte.
 
-#### ARTIGO III
+#### Artigo III
 
 *Se pode existir uma espécie sujeitável que não seja predicável de muitos, mas possua somente um indivíduo.*
 
@@ -1865,7 +1865,7 @@ Assim, segundo a opinião de Santo Tomás, na terceira parte da *Suma Teológica
 
 Do mesmo modo, a relação daquela natureza específica refere-se positivamente a um único indivíduo de tal maneira que, por si mesma, poderia atingir muitos, se estes existissem, na medida em que isso depende da força daquele conceito.
 
-#### ARTIGO IV
+#### Artigo IV
 
 *Se a espécie pode conservar-se num único indivíduo, e o gênero numa única espécie.*
 
@@ -1939,13 +1939,13 @@ Daí se resolve também outra objeção, a saber, como a espécie, sendo um todo
 
 **Responde-se, pois:** A espécie que existe num único indivíduo é um todo potencial não somente em relação àquele indivíduo, mas também em relação a muitos aos quais, em virtude do seu conceito formal, não repugna ser comunicada, embora, na realidade, não sejam possíveis muitos indivíduos aos quais possa ser comunicada. Portanto, não se diz que a espécie se conserva em relação a um único indivíduo somente, mas que, existindo num único indivíduo, não repugna que seja concebida como comunicável a muitos, na medida em que isso depende do modo de conceber aquela forma ou natureza.
 
-### QUESTÃO IX
+### Questão IX
 
 *Do Indivíduo*
 
 O indivíduo é duplo: um é designado e determinado, como Pedro, Paulo etc.; o outro é vago, ou tomado em comum, como algum homem. Trataremos do primeiro neste artigo e do segundo no seguinte.
 
-#### ARTIGO I
+#### Artigo I
 
 *Se as definições do indivíduo são corretamente explicadas*
 
@@ -1987,7 +1987,7 @@ Até aqui, explicamos a definição de indivíduo de Porfírio segundo a primeir
 
 **Responde-se:** não é incompatível que algum acidente que denomina extrinsecamente convenha a muitos como sujeitos inadequados e particulares, ou que uma matéria, ou sujeito, possa receber formas diversas, simultânea ou sucessivamente. Isso, porém, não significa que um indivíduo seja predicado de muitos numericamente distintos como inferiores, nem que uma mesma forma exista em vários sujeitos individuais adequados, o que é necessário para que o indivíduo seja predicado de muitos em sentido absoluto e adequado. Por conseguinte, o acidente, ou forma, que denomina vários sujeitos tem-nos como que por partes e de maneira inadequada, e não como todos relativamente à sua denominação, embora seja verdade que uma forma inerente não pode existir em várias coisas realmente distintas e separadas. Quando, porém, a água é dividida em várias águas, isso não ocorre pela multiplicação e predicação de si mesma, mas antes pela corrupção e divisão, porque deixa de ser um único indivíduo de água, e dela se originam vários por divisão. Contudo, não tratamos aqui desse modo de divisão.
 
-#### ARTIGO II
+#### Artigo II
 
 *O que é o indivíduo em comum, ou indivíduo vago*
 
@@ -2045,13 +2045,13 @@ Ou, em segundo lugar, diz-se que o indivíduo é aquilo que se predica somente d
 
 **Respondo:** aquele ofício, ou modo, de singularizar não pode ser separado atualmente das diferenças determinadas e individuais, porque estas são primeiramente diversas e não podem ser resolvidas em dois conceitos, dos quais um seja contraente e o outro contraível, como foi dito; além disso, cada diferença contraente participa daquele ofício de singularizar. E, embora seja concebido de maneira confusa e em comum, é concebido como algo que não se separa perfeitamente das próprias diferenças, mas que está atualmente incluído nelas, embora, quando concebido em comum, não as explicite atualmente. Assim, separa-se delas do mesmo modo que o análogo e os transcendentais se separam de seus inferiores, como se explica mais amplamente no tratado sobre a analogia.
 
-### QUESTÃO X
+### Questão X
 
 *Da Diferença tomada Comumente e Enquanto É o Terceiro Predicável*
 
 Visto que Porfírio, prestes a tratar da diferença, que é o terceiro predicável, antepôs as divisões da diferença em própria, comum e propriíssima, os comentadores costumam tratar aqui muitas questões acerca da própria razão da diferença em comum e de suas divisões, as quais, todavia, são propriamente tratadas nos livros V e X da *Metafísica*. Por isso, nós nos desobrigaremos brevemente delas, advertindo que devemos tratar da razão da diferença e de sua relação de modo conforme à razão e à relação da semelhança ou conveniência, que se opõem à razão e à relação da diferença.
 
-#### ARTIGO I
+#### Artigo I
 
 *Se a diferença é corretamente dividida em comum, própria e propriíssima.*
 
@@ -2105,7 +2105,7 @@ Ao segundo, responde-se negando a premissa menor. Quanto à prova, diz-se que h�
 
 Quanto ao argumento apresentado acerca da relação de semelhança e conveniência, responde-se que a relação de semelhança e conveniência é unívoca no gênero da relação predicamental, quer a conveniência seja acidental, quer essencial, assim como foi dito acerca da relação de diferença. Contudo, a própria razão ou forma que produz a conveniência, enquanto razão de convir, não é unívoca na conveniência essencial e acidental quanto ao efeito de produzir unidade ou conveniência em sentido absoluto, assim como foi dito acerca da diferença.
 
-#### ARTIGO II
+#### Artigo II
 
 *Se as definições da diferença do terceiro predicável são boas.*
 
@@ -2157,7 +2157,7 @@ Quanto à última expressão, *in quale quid*, observa duas coisas. A primeira �
 
 A segunda é que, assim como, nas coisas naturais, a forma ou ato se relaciona tanto com a matéria, como com aquilo que possui potencialidade e do qual a forma é extraída, quanto com o todo constituído de matéria e forma, assim também a diferença se refere primeiramente ao gênero, como ao potencial que atualiza e de cuja potência é extraída, não por extração física, como a forma é extraída da matéria, mas por extração metafísica, como a razão determinada e atualizante é extraída da razão indeterminada, confusa e atualizável. Em seguida, refere-se à espécie como a certo todo constituído e formado pela própria diferença. Por isso, em relação ao gênero, a diferença se comporta *in quale*, porque determina sua confusão e potencialidade; em relação à espécie, porém, não se diz *in quale* porque determine sua potencialidade, mas porque é parte constitutiva dela, mais atual e mais determinada. Encontrarás essa doutrina em Santo Tomás, I parte, questão L, artigo IV, resposta à primeira objeção, e na questão acerca das criaturas espirituais, artigo VIII, resposta à nona objeção. Dessa doutrina resulta que a diferença deve ser sempre mais perfeita do que seu gênero, assim como o ato é mais perfeito do que a potência, o determinado do que o indeterminado e a qualidade do que aquilo que pode ser qualificado.
 
-#### ARTIGO III
+#### Artigo III
 
 *Se a diferença se diz universal em relação à sua espécie ou em relação aos inferiores dessa espécie.*
 
@@ -2211,7 +2211,7 @@ A consequência é evidente, e a premissa menor foi concedida acima.
 
 **Quanto à confirmação,** diz-se que, pelo próprio fato de a diferença ser igual à espécie, possui certamente o ser universal, mas não em relação à espécie, à qual é igual, e sim em relação aos indivíduos, aos quais não é igual, mas superior.
 
-#### ARTIGO IV
+#### Artigo IV
 
 *Se as diferenças superiores e genéricas estão incluídas nas diferenças atômicas e são predicadas delas*
 
@@ -2247,11 +2247,11 @@ Se insistires: *Este silogismo é válido em Celarent: Nenhum racional é formal
 
 **À confirmação, responde-se:** que a diferença não é composta *a partir destes elementos*, mas composta *para este elemento*, porque é uma parte, ou se comporta à maneira de uma parte. Ora, a parte não é simples como o ato puro, por uma simplicidade de perfeição, mas por uma simplicidade de negação, isto é, porque não é plenamente perfeita. A simplicidade de negação, porém, contém maior potencialidade, pois é suscetível de composição com outra coisa pela qual seja aperfeiçoada; não obstante, não é composta mediante a resolução em vários conceitos dos quais constaria, a não ser, talvez, analogicamente, porque o ente está incluído em todas as coisas, inclusive nas diferenças. Tampouco a diferença inferior está formal e diretamente subordinada à superior como a um gênero, embora a pressuponha, assim como pressupõe o gênero que é constituído por ela. E assim: «O que pode relinchar é princípio de uma operação sensível»; concedo, se tomado como sensível por suposição e materialmente; nego, se tomado como sensível formal e diretamente. Isto é, para que algo seja capaz de relinchar, pressupõe-se que seja sensível, mas ele não é formalmente o sensível.
 
-### QUESTÃO XI
+### Questão XI
 
 *Sobre o Próprio*
 
-#### ARTIGO I
+#### Artigo I
 
 *Explica-se a natureza do próprio e examinam-se suas divisões*
 
@@ -2319,7 +2319,7 @@ Quanto à outra parte do argumento, relativa às paixões próprias que são imp
 
 Quanto ao que se acrescenta acerca da existência, respondo: em relação a qualquer criatura, a existência não possui conexão necessária, mas lhe convém contingentemente; caso contrário, convinha-lhe sempre e desde a eternidade, em virtude da conexão de uma verdade eterna, embora dependa de um agente livre, a saber, Deus. Diz-se, porém, que a existência convém *por si* à forma não segundo a *perseidade* lógica, que se fundamenta na relação de conexão intrínseca, mas segundo a *perseidade* física, que se fundamenta na coisa enquanto produzida e enquanto submetida ao influxo físico do agente. E diz-se que a existência decorre da forma assim como o esplendor decorre da luz, porque a existência recebe da forma a sua determinação e especificação, visto que lhe pertence; e, assim, será determinada e especificada pela forma. Com efeito, a existência do homem, enquanto especificativamente humana e não angélica, decorre da forma do homem, porque a existência, por si mesma, não é determinada nem especificada, mas o é em razão daquilo a que pertence a existência. E, no caso de uma forma dependente da matéria, a existência é dissolvida pela separação da forma em relação à matéria, porque a forma se perde. Se, porém, não depender da matéria, não poderá ser retirada da forma senão pela suspensão da ação do agente, do qual somente tal forma depende; isso equivale a deixar de existir por aniquilação.
 
-#### ARTIGO II
+#### Artigo II
 
 *O que é o próprio como quarto predicável e em relação a quais inferiores devem ser considerado.*
 
@@ -2365,11 +2365,11 @@ Quanto ao argumento acerca da predicação do próprio da espécie, respondo que
 
 Por último, observa que, por vezes, a paixão própria não é um acidente determinado, mas disjuntivo, como par ou ímpar em relação ao número, masculino e feminino em relação ao animal. Nesse caso, cada um deles, tomado determinadamente, é um acidente, ao passo que aquilo que é disjuntivo é o que convém *por si*. Sobre isso, veja-se Santo Tomás, nos *Segundos Analíticos*, livro I, lição X, no final.
 
-### QUESTÃO XII
+### Questão XII
 
 *Sobre o Acidente, Quinto Predicável*
 
-#### ARTIGO I
+#### Artigo I
 
 *Se as definições e divisões do acidente foram corretamente apresentadas por Porfírio.*
 
@@ -2429,7 +2429,7 @@ Por último, perguntarás se todo acidente é uma paixão própria em relação 
 
 E, se disseres que tudo aquilo que convém acidentalmente deve ser reconduzido àquilo que convém *por si*, respondo que é reconduzido àquilo que é *por si*, não quanto à conexão necessária com algum sujeito do qual dimane, mas quanto à causalidade eficiente ou final, porque não é causado acidentalmente por alguma causa, mas *por si*. Com efeito, não é necessário que tudo aquilo que convém acidentalmente seja reconduzido a todo modo de conveniência *por si*; basta que seja reconduzido a algum deles, como à causalidade *por si*, embora não à conexão *por si* com o sujeito.
 
-#### ARTIGO II
+#### Artigo II
 
 *Como o acidente é denominado quinto predicável e em relação a quais inferiores.*
 
@@ -2477,7 +2477,7 @@ Portanto, em uma palavra: a possibilidade, quando é predicada, torna a proposi�
 
 Quanto ao segundo fundamento, diz-se que tal predicação é impossível em relação aos sujeitos não existentes, não por uma deficiência do acidente considerado em si mesmo, mas pela falta de aplicação da parte dos sujeitos, assim como o acidente separado conserva a possibilidade de estar inerente, embora atualmente não esteja inerente nem seja aplicado a um sujeito que se encontre em tal estado.
 
-## COMENTÁRIO À ISAGOGE DE PORFÍRIO | JULIUS PACIUS[^ne4]
+## Comentário à Isagoge de Porfírio | Julius Pacius[^ne4]
 
 Antes de empreender a explicação dos livros singulares que estão contidos no *Órganon* lógico, será proveitoso fazer algumas observações preliminares acerca dos vocábulos da lógica e da dialética, acerca da definição, divisão e método da lógica, e também acerca da inscrição do *Órganon*.
 
@@ -2585,7 +2585,7 @@ Quis fazer estas observações gerais acerca da lógica e dos livros lógicos. A
 
 Este livro deveria ter sido colocado depois do livro das *Categorias*, porque, sendo as *Categorias* os fundamentos da lógica, devem ser colocadas em primeiro lugar. Há duas inscrições para este livro de Porfírio: uma, tomada do fim, pela qual é chamado *Isagoge*, porque introduz às *Categorias* e, consequentemente, à lógica de Aristóteles; a outra, tomada da matéria, pela qual é chamado livro das cinco vozes, ou acerca das cinco vozes, porque explica aquelas cinco vozes, gênero etc. A primeira inscrição encontra-se em todos os livros gregos, escritos à mão e impressos, que me foi possível ver. A segunda, em alguns impressos latinos e em alguns manuscritos gregos. Além disso, este livro divide-se em três partes. A primeira contém o prefácio, cap. 1. A segunda declara absolutamente aqueles cinco vocábulos, caps. 2, 3, 4 e 5. Na última, isto é, nos capítulos restantes que se seguem, as mesmas cinco vozes são comparadas entre si.
 
-### AO CAPÍTULO I
+### Ao Capítulo I
 
 Neste capítulo, Porfírio declara o sujeito, a utilidade e o método deste livro, como aparecerá claramente pela explicação de cada uma das partes particulares.
 
@@ -2639,7 +2639,7 @@ Diz *Peripatéticos*, isto é, Aristotélicos, que, segundo Amônio, foram chama
 
 Por isso, aqueles foram chamados Peripatéticos da Academia; estes, Peripatéticos do Liceu. Com o passar do tempo, porém, aqueles, abandonada a denominação derivada da ação, foram chamados Acadêmicos; estes, por sua vez, retirada a denominação do lugar, foram chamados Peripatéticos.
 
-### AO CAPÍTULO II
+### Ao Capítulo II
 
 *Do Gênero e da Espécie*
 
@@ -2787,7 +2787,7 @@ Por fim, o animal contém muitas espécies, como homem, cavalo e boi, que são c
 
 **40.** ***De genere igitur*****.** Porfírio conclui este capítulo sobre o gênero e a espécie por meio de um epílogo. Tanto deste epílogo quanto da proposição apresentada na primeira parte e de todo o tratado exposto, evidencia-se que há um único capítulo sobre o gênero e a espécie, e não dois, como comumente o dividem, ou, antes, dilaceram Porfírio.
 
-### AO CAPÍTULO III
+### Ao Capítulo III
 
 *Da Diferença*
 
@@ -2859,7 +2859,7 @@ Em terceiro lugar, quando diz *nam aptum natura*, prova que o acréscimo mencion
 
 **21.** ***Ac de differentia*****.** Conclui este capítulo sobre a diferença, encerrando-o com um breve epílogo.
 
-### AO CAPÍTULO IV
+### Ao Capítulo IV
 
 *Do Próprio*
 
@@ -2879,7 +2879,7 @@ No presente contexto, porém, o próprio é assim chamado não por se opor ao im
 
 **6.** ***Atque haec proprie*****.** Distingue a última significação das três restantes mediante esta propriedade: o próprio tomado na última significação é convertível com aquilo de que é próprio. Assim, todo homem é apto para rir, e tudo o que é apto para rir é homem. (Confronta-se com o livro 1 dos *Tópicos*, capítulo 5, passagem 5, e capítulo 8, passagem 2.) As restantes significações, porém, não são convertíveis: todo médico é homem, mas nem todo homem é médico; igualmente, todo homem é bípede, mas nem todo bípede é homem; do mesmo modo, todo aquele que encanece é homem, mas nem todo homem encanece.
 
-### AO CAPÍTULO V
+### Ao Capítulo V
 
 *Do Acidente*
 
@@ -2927,7 +2927,7 @@ Do que foi dito, inferimos a distinção entre diferença, próprio e acidente. 
 
 **4.** ***Et quod neque*****.** Esta é a terceira e última definição do acidente, tomada da passagem 8 do capítulo 5 do livro 1 dos *Tópicos*. Diz: *sempre, porém, inere em um sujeito*, isto é, não pode existir sem sujeito, embora, como disse acima, o sujeito possa existir sem o próprio acidente.
 
-### AO CAPÍTULO VI
+### Ao Capítulo VI
 
 *Da Comparação das Cinco Vozes*
 
@@ -2939,7 +2939,7 @@ Do que foi dito, inferimos a distinção entre diferença, próprio e acidente. 
 
 Em segundo lugar, quando diz *nam animal*, explica e confirma mediante exemplos claros o que afirmou acerca da atribuição de cada um dos predicáveis. Diz: *sed primum*. Observa a notável distinção entre o próprio e o acidente. Com efeito, o próprio procede da forma e é efeito da forma comum; o acidente, porém, procede da matéria, cuja diversidade constitui indivíduos diversos. Por isso, Aristóteles, no livro 9 da *Metafísica* (que corresponde ao livro 10 na versão latina), capítulo penúltimo, afirma que o homem é branco por acidente, enquanto indivíduo, como Cálias, é branco.
 
-### AO CAPÍTULO VII
+### Ao Capítulo VII
 
 *No qual o Gênero é comparado com a Diferença*
 
@@ -2985,7 +2985,7 @@ Primeiramente, Porfírio infere esta distinção a partir do que foi dito acima.
 
 **11.** ***Cum autem*****.** Mostra ter exposto as principais comunidades e distinções entre o gênero e a diferença, embora outras também possam ser acrescentadas. Por exemplo, ambos são incluídos na definição, conforme foi dito no capítulo 3, passagem 17, e será repetido por Aristóteles no livro 6 dos *Tópicos*, capítulo 4, passagem 5. Contudo, o gênero é colocado primeiro, e as diferenças são acrescentadas depois, como diremos com base no livro 2 dos *Segundos Analíticos*, capítulo 13, passagens 18, 19 e 20.
 
-### AO CAPÍTULO VIII
+### Ao Capítulo VIII
 
 *Em que o Gênero é comparado com a Espécie*
 
@@ -3011,7 +3011,7 @@ Expõe três coisas comuns ao gênero e à espécie, mas sete diferenças.
 
 *Além disso, não se diz espécie.* A sétima diferença é que se diz gênero generalíssimo, mas não se diz gênero especialíssimo; inversamente, diz-se espécie especialíssima, não espécie generalíssima.
 
-### AO CAPÍTULO IX
+### Ao Capítulo IX
 
 *Em que o Gênero é comparado com o Próprio*
 
@@ -3033,7 +3033,7 @@ Explica três comunidades entre o gênero e o próprio, e cinco diferenças.
 
 *Além disso, os próprios.* A quinta diferença é que, suprimido o gênero, a espécie é suprimida, como foi dito no cap. 8, parte 7. Consequentemente, o próprio também é suprimido, pois não pode existir sem a espécie que lhe serve de sujeito; suprimido, porém, o próprio, o gênero não é suprimido. Assim, suprimido animal, suprime-se homem e, por conseguinte, suprime-se a aptidão para rir, que está presente somente no homem; suprimida, porém, a aptidão para rir, animal não é suprimido, mas permanece.
 
-### AO CAPÍTULO X
+### Ao Capítulo X
 
 *Em que o Gênero é comparado com o Acidente*
 
@@ -3049,7 +3049,7 @@ Apresenta uma comunidade e quatro diferenças entre o gênero e o acidente.
 
 *E os gêneros.* A quarta diferença também foi apresentada acima, no cap. 2, parte 13: o gênero é atribuído em resposta à pergunta «o que é?», ao passo que o acidente é atribuído em resposta à pergunta «que qualidade é?» ou «em que estado se encontra?».
 
-### AO CAPÍTULO XI
+### Ao Capítulo XI
 
 *Sobre o Número das Comparações*
 
@@ -3061,7 +3061,7 @@ Depois de ter comparado o gênero com os demais categoremas, antes de considerar
 
 Em segundo lugar, quando diz *pois, quanto ao gênero*, começa a esclarecer mais distintamente aquilo que havia dito sumariamente, tomando o gênero como ponto de partida, no qual mostra que devem ser consideradas quatro diferenças ou quatro comparações. Em terceiro lugar, quando diz *a diferença, porém*, mostra distintamente que restam três comparações da diferença a serem enumeradas. Em quarto lugar, quando diz *novamente, de que modo*, prova que restam duas comparações a serem explicadas a respeito da espécie. Em quinto lugar, quando diz *o próprio, porém*, mostra que resta uma comparação do próprio com o acidente a ser explicada. Em sexto lugar, quando diz *portanto, visto que são quatro*, apresenta a conclusão, pois reúne distintamente o número de cada uma das comparações, o total e aquilo que já foi exposto. O número das comparações particulares é o seguinte: o gênero possui quatro comparações, a diferença, três; a espécie, duas; o próprio, uma. O total é de dez comparações. Foram expostas quatro, que são consideradas entre o gênero e os quatro categoremas restantes. Por conseguinte, restam seis comparações a examinar, das quais se tratará nos capítulos seguintes.
 
-### AO CAPÍTULO XII
+### Ao Capítulo XII
 
 *Em que a Diferença é comparada com a Espécie*
 
@@ -3079,7 +3079,7 @@ Neste capítulo, ensina duas comunidades e cinco diferenças entre a diferença 
 
 *Além disso, a diferença.* A quinta diferença é que muitas diferenças se unem para constituir uma espécie. Por isso, costumamos constituir definições a partir do gênero e das diferenças; as espécies, porém, não se unem dessa maneira, como Porfírio confirma com exemplos. E, como alguém poderia dizer que a égua e o asno se unem para gerar a mula, responde que isso é uma união de indivíduos, não uma composição de espécies. Com efeito, a mula não é formada a partir da espécie do asno e da espécie do cavalo, mas certa mula é gerada pelo acasalamento de certa égua com certo asno.
 
-### AO CAPÍTULO XIII
+### Ao Capítulo XIII
 
 *Em que a Diferença é comparada com o Próprio*
 
@@ -3093,7 +3093,7 @@ Apresenta duas comunidades e duas diferenças entre a diferença e o próprio.
 
 *E a diferença.* A segunda diferença é que a diferença não é recíproca com a espécie, mas tem extensão mais ampla; o próprio, porém, é recíproco. Assim, racional diz-se do homem e não é recíproco, porque também se diz do anjo. Portanto, todo homem é racional, mas nem todo ser racional é homem. O próprio, porém, é recíproco, como foi exposto no cap. 4, parte final. Por exemplo, todo homem é apto a rir, e tudo aquilo que é apto a rir é homem.
 
-### AO CAPÍTULO XIV
+### Ao Capítulo XIV
 
 *Em que a Diferença é comparada com o Acidente*
 
@@ -3113,7 +3113,7 @@ Primeiramente, Porfírio declara a propriedade da diferença, que contém, mas n
 
 *Tantas são as comunidades.* Com um breve resumo, põe fim à segunda comparação geral, que se estabelece entre a diferença e os demais categoremas.
 
-### AO CAPÍTULO XV
+### Ao Capítulo XV
 
 *Em que a Espécie é comparada com o Próprio*
 
@@ -3131,7 +3131,7 @@ Primeiramente, Porfírio declara a propriedade da diferença, que contém, mas n
 
 *Além disso, aquelas coisas cujas...* A quarta diferença é tomada das definições, pois uma é a definição da espécie e outra, a do próprio.
 
-### AO CAPÍTULO XVI
+### Ao Capítulo XVI
 
 *Em que a Espécie é comparada com o Acidente*
 
@@ -3147,7 +3147,7 @@ Apresenta uma comunidade e distingue a espécie do acidente por meio de quatro d
 
 *A quarta diferença é:* que a espécie é atribuída igualmente, como Platão e Sócrates são igualmente homens; o acidente, porém, é atribuído desigualmente, como Platão é mais branco ou mais alto do que Sócrates. Primeiramente, apresenta esta diferença. Depois, quando diz *com efeito, o etíope*, fornece um exemplo do acidente, isto é, da negrura, que em um etíope é mais intensa e em outro, menos intensa, porque um é mais negro e outro, menos negro.
 
-### AO CAPÍTULO XVII
+### Ao Capítulo XVII
 
 *Em que o Próprio é comparado com o Acidente*
 
@@ -3167,9 +3167,9 @@ Compara o próprio com o acidente inseparável e mostra, por meio de duas comuni
 
 *Há também outras.* Dissolve uma objeção. Com efeito, alguém poderia objetar que a doutrina de Porfírio é imperfeita, porque ele não explicou todas as comunidades e diferenças. Por exemplo, não ensinou como comunidade do próprio e do acidente o fato de não poderem existir sem um sujeito e de o sujeito poder ser concebido sem eles. Porfírio responde que não se propôs a expor todas as comunidades e diferenças dos categoremas, mas tantas quantas fossem suficientes para mostrar que eles são, em parte, semelhantes e, em parte, dissemelhantes. Para este propósito, porém, a doutrina apresentada é abundantemente suficiente. Diz *são abundantemente suficientes*. No texto grego, no verbo *ērkésen*, o prefixo *ex-* intensifica a significação do verbo.
 
-## EXPLICAÇÃO À ISAGOGE DE PORFÍRIO | ZACHARIAS URSINUS[^ne5]
+## Explicação à Isagoge de Porfírio | Zacharias Ursinus[^ne5]
 
-### CAPÍTULO I
+### Capítulo I
 
 *Do número e do uso dos predicáveis*
 
@@ -3185,7 +3185,7 @@ São quatro. Primeiramente, são necessários para constituir e compreender a s�
 
 Não metafisicamente, a saber, se subsistem fora da intelecção; se são corpóreos ou incorpóreos; se são separáveis da própria coisa, ou se, ao contrário, apenas estão e inerem nos sensíveis; e, por conseguinte, nem fisicamente, a saber, investigando-se a sua essência ou natureza nos singulares; mas apenas logicamente, isto é, quais se atribuem a quais e de que modo nas predicações; donde também são denominados predicáveis.
 
-### CAPÍTULO II
+### Capítulo II
 
 *Do Gênero*
 
@@ -3233,7 +3233,7 @@ Porque o próprio se diz apenas de uma só espécie e de seus indivíduos, como 
 
 Porque estas se predicam na questão “qual é?” [in quale], como: “de que qualidade é o homem?” — racional; “qual é o corvo?” — negro. O gênero, porém, [se predica] na questão “que é?”.
 
-### CAPÍTULO III
+### Capítulo III
 
 *Da Espécie*
 
@@ -3349,7 +3349,7 @@ Não. Porque, sendo infinitos, não pode haver ciência acerca deles.
 
 O gênero se comporta como um certo todo em relação à espécie e aos indivíduos; o indivíduo se comporta como parte em relação à espécie e ao gênero; a espécie se comporta como parte em relação ao gênero, e como todo em relação ao indivíduo.
 
-### CAPÍTULO IV
+### Capítulo IV
 
 *Da Diferença*
 
@@ -3465,7 +3465,7 @@ Diferença é aquilo que distingue o gênero em espécies de tal modo que, junta
 
 Porque aquelas coisas que inerem à coisa de tal modo que não constituem o seu esse, nem são assumidas em sua definição, não são propriamente diferença, mas próprios ou acidentes, que sobrevêm à coisa já constituída.
 
-### CAPÍTULO V
+### Capítulo V
 
 *Do Próprio*
 
@@ -3473,7 +3473,7 @@ Porque aquelas coisas que inerem à coisa de tal modo que não constituem o seu 
 
 Quatro. Primeiro, aquilo que convém somente a alguma espécie, mas não a todos os seus indivíduos; por exemplo, ser médico pertence somente ao homem, mas não a todo homem. Segundo, aquilo que convém a todos os indivíduos de alguma espécie, mas não somente a esta espécie; por exemplo, ser bípede convém ao homem. Terceiro, aquilo que convém somente à espécie e a todos os seus indivíduos, mas não lhes é inerente sempre; por exemplo, a canície convém ao homem. Quarto, aquilo que propriamente se diz assim e se converte com a sua espécie, isto é, aquilo que sempre é inerente a uma única espécie e a todos os seus indivíduos; por exemplo, ser naturalmente apto para rir é próprio do homem; ser naturalmente apto para relinchar é próprio do cavalo.
 
-### CAPÍTULO VI
+### Capítulo VI
 
 *Do Acidente*
 
@@ -3489,7 +3489,7 @@ De duas. Separável, como dormir; inseparável, como a negrura no corvo.
 
 Porque, embora não possam ser separadas na realidade, podem, contudo, ser separadas pelo pensamento, sem corrupção da coisa.
 
-### CAPÍTULO VII
+### Capítulo VII
 
 *Daquilo que é comum e próprio às cinco vozes em geral*
 
@@ -3507,7 +3507,7 @@ Que se predicam de muitos.
 
 Não. Pois os acidentes comuns inerem primeiramente nos singulares, isto é, como em sujeitos primeiros; nos universais, porém, inerem secundariamente, isto é, como em sujeitos segundos, e por causa dos singulares, a partir de cujos princípios existem os acidentes. Ao contrário, porém, sucede com as propriedades próprias, que se predicam dos indivíduos por causa dos universais, a partir de cujos princípios se originam.
 
-### CAPÍTULO VIII
+### Capítulo VIII
 
 *Das coisas comuns e próprias ao gênero e à diferença*
 
@@ -3537,7 +3537,7 @@ A quinta: o gênero próximo de cada espécie é um só; as diferenças, porém,
 
 A sexta: o gênero tem razão de matéria; a diferença, porém, de forma; por exemplo, a natureza do animal é como que a matéria, e racional é como que a forma do homem, assim como a pedra é a matéria e a escultura, ou figura, é a forma da estátua.
 
-### CAPÍTULO IX
+### Capítulo IX
 
 *Do que é comum e diverso ao gênero e à espécie*
 
@@ -3565,7 +3565,7 @@ A quarta: o gênero excede a espécie pela inclusão de outras espécies; a esp�
 
 A quinta: aquilo que é gênero não pode tornar-se espécie especialíssima; e aquilo que é espécie não pode tornar-se gênero generalíssimo. Pois a natureza de espécie é incompatível com o gênero supremo, e a natureza de gênero é incompatível com a espécie ínfima.
 
-### CAPÍTULO X
+### Capítulo X
 
 *Da conveniência e diversidade do gênero e do próprio*
 
@@ -3593,7 +3593,7 @@ A quarta: o próprio é inerente à espécie inteira, somente a ela e sempre; o 
 
 A quinta: suprimido o próprio, não se suprime o gênero; suprimido, porém, o gênero, suprimem-se os próprios, porque se suprimem as espécies às quais os próprios são inerentes.
 
-### CAPÍTULO XI
+### Capítulo XI
 
 *Da comunidade e diversidade do gênero e do acidente*
 
@@ -3613,7 +3613,7 @@ A terceira: o acidente comum subsiste primeira e principalmente no indivíduo, s
 
 A quarta: o gênero predica-se na questão o que é?; o acidente, na questão qual é? ou como se comporta?
 
-### CAPÍTULO XII
+### Capítulo XII
 
 *Do número das comparações entre as cinco vozes*
 
@@ -3621,7 +3621,7 @@ A quarta: o gênero predica-se na questão o que é?; o acidente, na questão qu
 
 Dez. Pois há quatro do gênero com a espécie, a diferença, o próprio e o acidente; três da diferença com a espécie, o próprio e o acidente; duas da espécie com o próprio e o acidente; uma do próprio com o acidente.
 
-### CAPÍTULO XIII
+### Capítulo XIII
 
 *Do que é comum e diverso à espécie e à diferença*
 
@@ -3645,7 +3645,7 @@ A terceira: a diferença é anterior por natureza à espécie que produz, tanto 
 
 A quarta: várias diferenças podem ser conjugadas para constituir uma única espécie; várias espécies, porém, não podem ser conjugadas para constituir outra espécie como suas partes essenciais. Por exemplo, racional e bípede concorrem no homem; mas o homem e o cavalo não são simultaneamente inerentes a nenhuma espécie.
 
-### CAPÍTULO XIV
+### Capítulo XIV
 
 *Da comunidade e diversidade da diferença e do próprio*
 
@@ -3665,7 +3665,7 @@ A primeira: as diferenças gerais são ditas de muitas espécies; os próprios, 
 
 A segunda: as diferenças gerais predicam-se das espécies sem conversibilidade; os próprios, porém, exceto os do primeiro e do segundo modo do próprio, convertem-se com as suas espécies.
 
-### CAPÍTULO XV
+### Capítulo XV
 
 *Do que é comum e diverso à diferença e ao acidente*
 
@@ -3687,7 +3687,7 @@ A segunda: os acidentes admitem o mais e o menos; as diferenças, porém, não. 
 
 A terceira: as diferenças contrárias não se misturam para a constituição de alguma espécie; os acidentes contrários, porém, misturam-se para constituir um terceiro. Assim, racional e irracional não se misturam; mas o negro e o branco misturam-se para constituir alguma cor intermediária; o quente e o frio, misturados, produzem o tépido.
 
-### CAPÍTULO XVI
+### Capítulo XVI
 
 *Do que é comum e diverso à espécie e ao próprio*
 
@@ -3711,7 +3711,7 @@ A terceira: a espécie está sempre em ato nos indivíduos; o próprio está sem
 
 A quarta: diferem pelas definições. Pois a espécie é aquilo que está subordinado ao gênero e se predica dos indivíduos na resposta à questão o que é?; o próprio é aquilo que sempre é inerente à espécie inteira e somente a ela.
 
-### CAPÍTULO XVII
+### Capítulo XVII
 
 *Do que é comum e próprio à espécie e ao acidente*
 
@@ -3731,7 +3731,7 @@ Terceiro: a espécie é anterior por natureza e é entendida sem os acidentes, m
 
 Quarto: a espécie é participada igualmente; o acidente, segundo o mais e o menos.
 
-### CAPÍTULO XVIII
+### Capítulo XVIII
 
 *Da conveniência e discrepância do próprio e do acidente*
 

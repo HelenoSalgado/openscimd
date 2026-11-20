@@ -25,6 +25,7 @@ categories:
   - História
   - Matemática
 license: "CC BY 4.0"
+language: "pt-BR"
 ---
 
 ## Introdução
@@ -159,7 +160,7 @@ Por fim, gostaríamos de agradecer a Universidade Estadual do Ceará (UECE) pelo
 
 ---
 
-## Notas do Autor
+### Notas do Autor
 
 [^1]: Era um corpo de conhecimentos matemáticos do período medieval, referentes às quatro áreas consideradas matemáticas como a astronomia, aritmética, geometria e música (SAITO, 2015).
 
