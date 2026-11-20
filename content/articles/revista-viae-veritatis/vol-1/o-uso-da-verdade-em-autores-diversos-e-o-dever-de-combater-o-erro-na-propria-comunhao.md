@@ -1,5 +1,5 @@
 ---
-title: "O USO DA VERDADE EM AUTORES DIVERSOS E O DEVER DE COMBATER O ERRO NA PRÓPRIA COMUNHÃO"
+title: "O Uso da Verdade em Autores Diversos e o Dever de Combater o Erro na Própria Comunhão"
 volume: 1
 issue: "1"
 pages: "1–17"
@@ -27,13 +27,13 @@ copyright: "Instituto Reformado Santo Evangelho (IRSE)"
 license: "ViVe 1.0 — REVISTA VIAE VERITATIS"
 ---
 
-## A PRIMAZIA DA VERDADE SOBRE A FILIAÇÃO DOUTRINÁRIA[^ne1][^ne2]
+## A Primazia da Verdade sobre a Filiação Doutrinária[^ne1][^ne2]
 
-## 1. INTRODUÇÃO
+## 1. Introdução
 
 Entre muitos cristãos surge, por vezes, uma aparente tensão intelectual: — como pode alguém ler e até recomendar certos autores de tradições teológicas diferentes — por exemplo, escritores católicos ou filósofos não protestantes — e, ao mesmo tempo, combater com veemência mestres que se encontram dentro do próprio campo protestante? À primeira vista, tal atitude pode parecer incoerente. Contudo, quando se introduzem algumas distinções clássicas da Teologia e da Filosofia, o problema desaparece. A questão não é de incoerência, mas de ordem e de prioridade.
 
-## 2. A VERDADE PERTENCE A DEUS
+## 2. A Verdade Pertence a Deus
 
 O primeiro princípio a ser estabelecido é que a verdade pertence a Deus e pode ser encontrada mesmo entre aqueles que erram em muitos pontos. Esta convicção não é moderna; ela atravessa toda a tradição cristã. Como declara o Apóstolo em 1 João 5.20: — “Sabemos que o Filho de Deus veio e nos deu entendimento para conhecermos aquele que é verdadeiro”. A antiga máxima escolástica afirma: — “omne verum, a quocumque dicatur, a Spiritu Sancto est” — “toda verdade, dita por quem quer que seja, procede do Espírito Santo”. Isso significa que uma proposição verdadeira não deixa de ser verdadeira apenas porque foi pronunciada por alguém que, em outros aspectos, erra. Como bem observa Santo Agostinho em “De Doctrina Christiana”:
 
@@ -43,7 +43,7 @@ E mais, diz Agostinho:
 
 > “Além disso, se aqueles que são chamados filósofos — especialmente os platônicos — disseram algo que seja verdadeiro e esteja em harmonia com a nossa fé, não devemos apenas deixar de rejeitá-lo, mas antes reclamá-lo para nosso próprio uso, tirando-o daqueles que o possuem de modo ilegítimo. Pois, assim como os egípcios possuíam não somente os ídolos e os pesados fardos que o povo de Israel odiava e dos quais fugiu, mas também vasos e ornamentos de ouro e de prata, bem como vestes, que o mesmo povo, ao sair do Egito, apropriou para si, destinando-os a um uso melhor — não fazendo isso por sua própria autoridade, mas por mandamento de Deus — sendo os próprios egípcios, em sua ignorância, aqueles que lhes forneciam coisas das quais eles mesmos não faziam bom uso; da mesma forma, todos os ramos do saber pagão contêm não apenas fantasias falsas e supersticiosas e pesados fardos de trabalho desnecessário, que cada um de nós, ao sair da convivência dos pagãos sob a liderança de Cristo, deve aborrecer e evitar; mas contêm também instruções liberais mais adequadas ao serviço da verdade, bem como alguns excelentes preceitos de moralidade, e até mesmo certas verdades relativas ao culto do Deus único podem ser encontradas entre eles. Essas coisas são, por assim dizer, o seu ouro e a sua prata, que eles não criaram por si mesmos, mas extraíram das minas da providência de Deus, as quais estão espalhadas por toda parte, e que perversamente e de modo ilícito prostituem ao culto dos demônios. Essas, portanto, o cristão, ao separar-se em espírito da miserável comunhão desses homens, deve retirar deles e dedicar ao seu devido uso na pregação do Evangelho. Também as suas vestes — isto é, as instituições humanas que são apropriadas para o convívio com os homens, indispensável nesta vida — devemos tomar e converter para um uso cristão[^2]”.
 
-## 3. A APROPRIAÇÃO DA VERDADE E A APROVAÇÃO DO SISTEMA
+## 3. A Apropriação da Verdade e a Aprovação do Sistema
 
 Por essa razão, ao longo da história, teólogos reformados, escolásticos e puritanos frequentemente recorreram a autores de diferentes tradições quando encontravam neles alguma formulação verdadeira ou útil. Assim, ler um autor como Tomás de Kempis, especialmente em sua obra–prima “A Imitação de Cristo” (De imitatione Christi), ou um teólogo medieval como Hugo de São Vítor, notadamente em seu tratado “Didascalicon de studio legendi” (Sobre o Estudo da Leitura e da Sabedoria), não implica adesão ao sistema teológico completo desses escritores.
 
@@ -53,7 +53,7 @@ A apropriação material da verdade consiste em reconhecer e receber uma proposi
 
 Pois isso só ocorre com relação a certas verdades que são conhecidas e proclamadas, e especialmente com relação àquelas que dizem respeito à fé, das quais o Apóstolo fala[^3]”. Toda verdade genuína (seja científica, filosófica, moral ou cotidiana) tem origem em Deus. Mesmo se dita por um pagão, ateu, herege ou pecador, não perde seu caráter de verdade por causa de quem a pronuncia. Deus é a Verdade em si (veritas prima), e toda verdade participada (verdades finitas) deriva dEle.
 
-## 4. A ILUMINAÇÃO INTELECTUAL E A GRAÇA SALVÍFICA
+## 4. A Iluminação Intelectual e a Graça Salvífica
 
 O Espírito Santo é o agente principal aqui porque Ele é o dom da iluminação intelectual e o motor da busca e proclamação da verdade (conferir também 1 Coríntios 12.3: — “Ninguém pode dizer ‘Jesus é Senhor’ senão no Espírito Santo”, que Tomás usa para estender o princípio). Mas, como o Espírito Santo age nisso? A Luz Natural refere-se à razão natural (lumen naturale intellectus), que todo ser humano possui por criação. É a capacidade inata de conhecer verdades (exemplo, princípios primeiros como “o todo é maior que a parte”, leis morais básicas, verdades científicas).
 
@@ -63,7 +63,7 @@ Nem como um dom habitual acrescentado à natureza: — “não é um hábito per
 
 Estes, porém, são edificados porque as recebem sob a operação da graça santificante, isto é, da graça salvífica, que neles produz profunda transformação do entendimento e do coração, ainda que tenham recebido a verdade por meio de vasos desprezíveis”. O entendimento pode ser tocado por certo conhecimento, mas não passa a deleitar-se em Deus nem a encontrar nEle sua satisfação[^4]. “Falta-lhe a percepção espiritual da glória da graça divina”, segundo Owen.
 
-## 5. A VERDADE NOS LÁBIOS DOS ÍMPIOS
+## 5. A Verdade nos Lábios dos Ímpios
 
 Tal iluminação na mente de tais homens tampouco purifica a consciência das obras mortas para que se sirva ao Deus vivo (Hebreus 9.14). O que ela realiza é apenas convencer a alma do pecado e levá-la a reprovar muitas coisas que antes aprovava de coração; por essa razão, não é raro observar homens ímpios que, exteriormente, manifestam vida moral ou até certa aparência de virtude.
 
@@ -87,7 +87,7 @@ O terceiro é que essa reforma de vida, embora possa ser forte a princípio, log
 
 pessoas, por fim, como esqueletos espirituais.
 
-## 6. A VERDADE, SEU USO E SEUS EFEITOS NA PROVIDÊNCIA
+## 6. A Verdade, Seu Uso e Seus Efeitos na Providência
 
 “Assim, quando alguém lê autores de outras tradições, pode fazê-lo de maneira crítica e discernida, reconhecendo que tais homens podem possuir apenas esse tipo de iluminação não-salvífica. Recebe-se, portanto, apenas aquilo que é verdadeiro em suas palavras ou escritos, sem assumir integralmente sua autoridade doutrinária, mas acolhendo unicamente a verdade que, por providência de Deus, aparece em seus lábios ou conteúdos”.
 
@@ -103,13 +103,13 @@ O contraste aparece logo em seguida: — “Mas o SENHOR vos tomou, e vos tirou 
 
 Assim, o mesmo elemento criado possui dois usos distintos na história da providência divina: — “para as nações, ocasião de idolatria; para o povo de Deus, instrumento legítimo da ordem criada”. A realidade é a mesma, mas o efeito e o uso são diferentes conforme o propósito de Deus. Esse princípio harmoniza-se com o argumento anterior: — “a verdade permanece pertencendo a Deus, e Ele a emprega de modos distintos em sua providência — para abençoar e iluminar o seu povo, ou para deixar outros em seus próprios caminhos”. Notemos, pois, que a verdade não pertence ao homem nem pode ser por ele controlada; daí a serenidade com que a recebemos, venha ela de quem vier, certos de que pertence unicamente ao Deus Criador e Salvador.
 
-## 7. AMIGO PLATÃO, MAS MAIS AMIGA A VERDADE
+## 7. Amigo Platão, mas Mais Amiga a Verdade
 
 “Essa prática de receber a verdade, reconhecendo que ela pertence unicamente a Deus, não é sinal de confusão, mas antes expressão de maturidade intelectual, de reto discernimento e de verdadeira consciência metafísica”. Parafraseando o pensamento de Aristóteles: — “o sábio que busca a verdade nas coisas mesmas, sem se prender à autoridade de quem a pronuncia, pois, como ele indica, onde há amizade de ambos os lados (com Platão e com a verdade), é justo preferir a verdade”.
 
 Essa ideia aparece especialmente na Ética a Nicômaco[^6], onde Aristóteles critica a teoria das Ideias de Platão e declara que, embora ambos sejam amigos, “é sagrado honrar mais a verdade” — em grego, “amphoterois philois ousin hosion protiman ten aletheian” — “sendo ambos amigos, é piedoso preferir a verdade”. A tradição posterior sintetizou isso na máxima latina, “Amicus Plato, sed magis amica veritas[^7]” — “Platão é amigo, mas mais amiga é a verdade”, amplamente atribuída a Aristóteles desde a Idade Média (embora não seja literal dele, deriva diretamente desse trecho da Ética a Nicômaco[^8]).
 
-## 8. O PERIGO DO ERRO DENTRO DA PRÓPRIA COMUNHÃO
+## 8. O Perigo do Erro Dentro da Própria Comunhão
 
 Entretanto, outro princípio igualmente importante deve ser considerado: — “o erro dentro da própria comunhão é mais perigoso que o erro externo ou passado”. A razão é pastoral e eclesiológica; diz respeito também ao quinhão próprio do intelectual em relação ao seu tempo. Cabe-lhe vigiar para que erros e heresias não se consolidem e passem a integrar o patrimônio histórico–doutrinário das gerações futuras. O erro que provém de fora, em geral, é prontamente reconhecido como tal; não goza da mesma autoridade entre os fiéis e carece do disfarce que lhe daria maior poder de engano. Quando se leem autores católico–romanos, por exemplo, eles já são recebidos sob essa identificação previamente definida — papistas, romanistas, mariólatras, pertencentes àquilo que qualificamos como a Babilônia espiritual sob o governo do Anticristo.
 
@@ -121,7 +121,7 @@ Os cristãos devem saber que “a Igreja primitiva já condenou esta doutrina h�
 
 Nessa leitura, conduzida com critério e separação doutrinária e histórica, retém-se unicamente a verdade que pertence a Deus, ao passo que se rejeitam continuamente e se condenam as falsidades do autor. Além disso, não há qualquer promoção pública, pois tais autores não pertencem ao nosso tempo; a rejeição decorre da clara distinção entre proposições verdadeiras e falsas”. Não há união com o erro, nem consentimento com doutrinas falsas ou heréticas; acolhe-se exclusivamente aquilo que procede de Deus, e não o que nasce do engenho humano. A Escritura, de fato, reconhece que lampejos de verdade podem ser encontrados até entre os pagãos, como em Atos 17.28[^10], mas jamais autoriza que, sob tal pretexto, se estabeleça comunhão com falsos mestres para supostamente defender a verdade.
 
-## 9. O DEVER DE COMBATER O ERRO E SEPARAR–SE DO HEREGE
+## 9. O Dever de Combater o Erro e Separar–Se do Herege
 
 Antes, o mandamento é de separação. “Não vos associeis com aquele que, dizendo-se irmão, for devasso, ou avarento, ou idólatra, ou maldizente, ou beberrão, ou roubador; com o tal nem ainda comais” (1 Coríntios 5.11). Do mesmo modo: — “Ao homem herege, depois de uma e outra admoestação, evita-o” (Tito 3.10); e ainda: — “Destes afasta-te”, referindo-se àqueles que “têm aparência de piedade, mas negam a eficácia dela” (2 Timóteo 3.5).
 
@@ -133,7 +133,7 @@ Ainda há outros que, sob o título de mestres da doutrina reformada, procedem c
 
 Assim, homens que outrora seriam evitados por amor à verdade são hoje recebidos como companheiros, inclusive como oficiais, em programas de debate que, longe de edificar, prestam desserviço ao Evangelho, ao nivelarem a verdade e o erro sob a aparência de legítima controvérsia. E, se alguém objetar que tais debates produzem edificação ou aprendizado, cumpre responder que tal impressão não passa de aparência de piedade. Não há ensino verdadeiramente sadio que proceda de contextos nos quais a verdade é relativizada e o erro é tratado com deferência. E, ainda que algum proveito acidental se alegue, permanece o princípio: — Deus, se assim quiser, pode comunicar sua verdade até por instrumentos indignos, como outrora falou por meio de um jumento, o que em nada legitima o meio, mas antes evidencia a Providência divina sobre ele.
 
-## 10. CONSULTA INTELECTUAL NÃO É PROMOÇÃO PÚBLICA
+## 10. Consulta Intelectual Não É Promoção Pública
 
 Os calvinistas, em sua ampla maioria, no contexto brasileiro, contribuíram para uma reabilitação indevida do Arminianismo, concedendo-lhe espaço e força quando o dever seria antes instruir a Igreja de que tal heresia já foi devidamente refutada e condenada. Em lugar de guardarem a distinção necessária entre verdade e erro, colocaram-no, na prática, ao nível de paridade com a doutrina bíblica. Tal proceder não se explica por pertinácia sincera pela verdade, mas antes por motivações inferiores — vaidade, projeção e interesses pragmáticos —, pelas quais a verdade eterna foi subordinada às ambições humanas. E, como consequência, abre-se espaço até mesmo para formas mais graves de heresia, como o Pelagianismo em suas expressões mais extremadas, bem como para um trato indevidamente cordial com seus propagadores, cuja doutrina, por sua própria natureza, se opõe frontalmente à graça onipotente e soberana e à verdade do Evangelho.
 
@@ -149,13 +149,13 @@ Unir-se a hereges com o propósito de combater doutrinas papistas constitui mani
 
 Tal fenômeno revela um dos traços mais problemáticos da apologética contemporânea: — “a tentativa de preservar uma aparência de pureza doutrinária mediante alianças inconsistentes e diabólicas, nas quais erros substanciais são relativizados em nome de batalhas comuns. Essa postura assume frequentemente a forma de duplicidade: — combate-se um erro quando se está entre determinados interlocutores, mas tolera-se ou minimiza-se outro erro igualmente grave quando se está entre aliados diferentes”. A Escritura já expôs essa tensão quando o Apóstolo Paulo resistiu publicamente ao Apóstolo Pedro devido à sua incoerência prática, conforme narrado em Gálatas 2.11 – 14. Esse episódio evidencia que a fidelidade à verdade requer consistência doutrinária e moral, não se limitando a uma oposição seletiva a determinados erros.
 
-## 10. A VIGILÂNCIA CONTRA O ERRO DISFARÇADO
+## 10. A Vigilância Contra o Erro Disfarçado
 
 A própria Escritura evidencia essa preocupação ao dirigir severas advertências contra falsos mestres que se levantam dentro da Igreja. Como o Apóstolo Paulo alerta aos presbíteros de Éfeso em Atos 20.29, 30: — “Eu sei que, depois da minha partida, lobos vorazes penetrarão no meio de vocês e não pouparão o rebanho. Mesmo dentre vocês mesmos se levantarão homens que torcerão a verdade a fim de arrastar os discípulos”. O perigo pastoral não se limita à mera existência do erro, mas reside sobretudo no fato de ele ser ensinado por alguém que reivindica autoridade dentro do mesmo campo confessional. Nesse contexto, tal autor adquire poder e influência para apresentar seus equívocos como verdade, aumentando o risco de confusão e desvio entre os fiéis. O próprio Senhor Jesus advertiu em Mateus 7.15: — “Cuidado com os falsos profetas. Eles vêm a vocês vestidos de ovelhas, mas por dentro são lobos devoradores”.
 
 Assim, quando um cristão combate erros como o Arminianismo entre protestantes, desvios cristológicos — como formas de Nestorianismo — ou ainda heresias trinitárias propagadas por teólogos que se apresentam como “reformados” ou “calvinistas”, não se trata de incoerência. “Trata-se apenas do reconhecimento de que o erro interno, dentro da própria comunhão de fé, exige correção imediata e firme. Pela própria natureza do engano, tais erros são mais difíceis de identificar; por isso, aqueles que os promovem vêm até a Igreja ‘vestidos de ovelhas’, enquanto o Senhor, que conhece o íntimo, os declara como ‘lobos devoradores’”.
 
-### 10.1. OUTRO ELEMENTO ESCLARECEDOR É A DISTINÇÃO ENTRE CONSULTA INTELECTUAL E PROMOÇÃO PÚBLICA
+### 10.1. Outro Elemento Esclarecedor É a Distinção entre Consulta Intelectual e Promoção Pública
 
 Consultar um autor significa, simplesmente, lê-lo como fonte histórica ou intelectual. Todos os reformadores, posteriormente os puritanos ingleses e teólogos escoceses, procederam assim: — “construíram suas teologias recorrendo a diversas fontes, analisando-as criticamente”. Contudo, jamais se uniram a falsos mestres ou hereges para elaborar suas teologias, nem para supostamente “defender a verdade”; sua fidelidade à doutrina exigia discernimento e separação claras entre a verdade e o erro. Trata-se de um ato privado de investigação e aprendizado pelo primeiro princípio — “Toda verdade pertence a Deus, onde quer que seja encontrada”. Promover um autor, porém, significa ampliá-lo como referência contemporânea: — “divulgá-lo amplamente, recomendar sua autoridade ou fomentar sua influência”.
 
@@ -173,7 +173,7 @@ Exemplos bíblicos de heresias que se originaram dentro da própria Igreja evide
 
 Além disso, Fileto é citado em 2 Timóteo 2 por distorcer a verdade acerca da ressurreição, alegando que ela já havia ocorrido, transtornando, assim, a fé de alguns: — “E as palavras da sua boca crescerão como gangrena; entre os quais estão Himeneu e Fileto, que se desviaram da verdade, dizendo que a ressurreição já aconteceu, e transtornam a fé de alguns” (v. 17, 18). Esses exemplos ilustram historicamente por que a Igreja sempre exerceu vigilância redobrada contra os erros internos. Nas Epístolas Paulinas, o Apóstolo Paulo instrui repetidamente sobre a necessidade de cuidado frente a desvios, sejam doutrinários ou morais, pois o erro que surge dentro da própria comunhão possui maior poder de enganar e afastar os fiéis da verdade.
 
-## 11. A SÍNTESE DO PRINCÍPIO
+## 11. A Síntese do Princípio
 
 A conclusão que se observa em Paulo possui certo caráter irônico. O Apóstolo não hesita, em algumas ocasiões, em recorrer a autores pagãos[^13] quando estes expressam proposições verdadeiras, e tal uso permanece registrado em seus próprios escritos inspirados (Atos 17.28[^14]; 1 Coríntios 15.33[^15]; Tito 1.12[^16]); entretanto, quando a Escritura se refere àqueles que pertencem propriamente ao interior da comunidade da fé, o tom do registro torna-se severo e, por vezes, extraordinariamente grave.
 

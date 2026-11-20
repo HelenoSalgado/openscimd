@@ -1,5 +1,5 @@
 ---
-title: "REFORMAS FILOSÓFICAS DE PETRUS RAMUS: A SIMPLIFICAÇÃO DA LÓGICA E A SISTEMATIZAÇÃO DA METODOLOGIA"
+title: "Reformas Filosóficas de Petrus Ramus: A Simplificação da Lógica e a Sistematização da Metodologia"
 journal: History of Science
 volume: 6
 issue: 5
@@ -53,7 +53,7 @@ Ramus foi uma personalidade profundamente controversa em razão de sua obra. Hav
 
 As informações sobre a vida de Peter Ramus foram obtidas, além das notas biográficas escritas em suas próprias obras, a partir de dados de três de seus contemporâneos. Entre eles, T. Banosius e C. T. Freigius mantiveram contato com Ramus por período bastante breve. Seu outro contemporâneo, Nicolas Nancelius, foi inicialmente aluno de Ramus e, posteriormente, tornou-se seu amigo íntimo. Nesse sentido, as informações escritas por Nancelius sobre Ramus distinguem-se por sua completude e riqueza[^7].
 
-## 2. A essência do humanismo
+## 2. A Essência do Humanismo
 
 Para compreender com clareza a obra de Peter Ramus, é indispensável examinar as características da época em que viveu. Nesse sentido, é necessário analisar o desenvolvimento do conceito de humanismo, que se manifesta na Europa Ocidental no século XVII e adquire novas nuances na França, bem como o Renascimento que nele se fundamenta.
 
@@ -73,7 +73,7 @@ Um dos principais objetivos dessa renovação também foi o recurso às Sagradas
 
 Os humanistas acreditavam que o ser humano deveria estar no centro de todas as indagações e buscas. Na base desse sistema deveria estar um sistema de conhecimento composto pela harmonia entre moral e arte. A concretização desse objetivo contou com o papel de vários filósofos e pensadores destacados. Um deles foi Peter (Petrus) Ramus [Raghuvashi & Chand, 2024, p. 4094][^8]. Pode-se observar que Peter Ramus procurou realizar a ideia da liberdade da mente humana e da sistematização do conhecimento. Assim, em sua filosofia, o ser humano aparece não apenas como receptor do saber, mas também como sujeito produtor de conhecimento. “Meu objetivo constante era remover todos os espinhos e rochedos do caminho das artes liberais, todos os obstáculos intelectuais, e tornar esse caminho reto e plano, para alcançar mais facilmente a aplicação prática do conhecimento” [Graves, 1912, p. 108-109][^4].
 
-## 3. A atividade de Peter Ramus como escritor
+## 3. A Atividade de Peter Ramus como Escritor
 
 Peter Ramus passou grande parte de sua obra como professor e escritor. O que levou sua produção a atingir um patamar mais elevado foram as obras que escreveu em relação à sua atividade docente. Seus manuais estavam ligados ao sistema educacional ou consistiam em séries de conferências que ele escreveu com o objetivo de superar dificuldades na arte, e que depois foram publicadas [Ong, 2004, p. 29][^6]. Aqui, destaca-se a orientação pedagógica das obras de Ramus. Em nossa opinião, Ramus utilizou sua atividade de escritor não apenas para fins científicos, mas também para promover mudanças práticas no sistema educacional. Isso porque ele via o objetivo da ciência não apenas como acumulação de conhecimento, mas também como a transformação desse conhecimento em algo compreensível, prático e aplicável para os aprendizes. Esse objetivo de alcançar praticidade levou a obra de Ramus a se desenvolver em certas etapas ao longo do tempo. Ong classifica essas etapas em quatro linhas principais de desenvolvimento.
 
@@ -85,7 +85,7 @@ A terceira fase caracteriza-se pelo período em que sua dialética foi aplicada 
 
 A quarta e última fase é a que prossegue após sua morte, período em que suas ideias foram desenvolvidas por seus alunos e seguidores. Nessa época foi publicada a obra “Comentários sobre a Religião Cristã”, em 4 livros, cujo prefácio pertence a Theophilus Banosius e que se baseia nas explicações de Philip Sidney. Nessa obra, tratou-se da posição de Ramus quanto à inter-relação entre o conhecimento científico e o religioso [Ong, 2004, p. 32–33][^6]. Assim, ele aceitou a combinação do conhecimento religioso com a racionalidade como princípio fundamental do humanismo cristão. Essa divisão da obra de Ramus é metodologicamente bem-sucedida. No entanto, em nossa opinião, essa classificação considera de maneira algo insuficiente a influência das transformações sociais e religiosas ocorridas em sua vida. Pois as obras de Ramus foram moldadas não apenas pelos métodos científicos, mas também pelas transformações ideológicas e religiosas de sua época.
 
-## 4. As críticas de Peter Ramus ao pensamento aristotélico
+## 4. As Críticas de Peter Ramus ao Pensamento Aristotélico
 
 Uma de suas atividades importantes, que o tornaram célebre na Idade Média, foi sua oposição à filosofia aristotélica, especialmente ao seu sistema lógico. No período da Reforma, a existência de movimentos desse tipo não era um fato incomum. Segundo informações fornecidas por seu contemporâneo C. T. Freigius, a expressão “tudo o que Aristóteles disse é falso” [Graves, 1912, p. 26][^4], utilizada por Ramus na Universidade de Paris em 1536, prejudicou sua carreira e provocou reações severas. Essa declaração ousada de Ramus, em nossa opinião, mostrava que ele não tinha como alvo apenas Aristóteles, mas todo um sistema autoritário de conhecimento. Seu objetivo não era abalar a pessoa de Aristóteles, mas o modelo mecânico de pensamento construído em seu nome. A iniciativa de Ramus decorreu do fato de ele considerar a lógica aristotélica um sistema mecânico, distante do pensamento objetivo e do conhecimento criativo. A raiz dessa crítica não estava apenas na insatisfação filosófica, mas também nas práticas de ensino aplicadas nas universidades daquela época.
 
@@ -113,7 +113,7 @@ O legado intelectual e criativo de Peter Ramus não se limita apenas às contrib
 
 As inovações que ele lançou no campo da educação continuaram a exercer influência por longo tempo nas escolas-universidades europeias. De toda essa atividade, é possível perceber que a oposição às tradições vigentes nem sempre termina em resultados negativos. Às vezes, tal atividade atua como chave para o surgimento de inovações.
 
-## Como citar este artigo
+## Como Citar Este Artigo
 
 ```cite
 Abdullazade, D., & Malikov, A. [2025]. Reformas filosóficas de Petrus Ramus: a simplificação da lógica e a sistematização da metodologia. Journal History of Science, 6(5), p. 101-112.

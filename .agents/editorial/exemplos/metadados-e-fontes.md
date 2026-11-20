@@ -50,7 +50,7 @@ categories:
 
 ```yaml
 ---
-title: "REFORMAS FILOSÓFICAS DE PETRUS RAMUS: A SIMPLIFICAÇÃO DA LÓGICA E A SISTEMATIZAÇÃO DA METODOLOGIA"
+title: "Reformas Filosóficas de Petrus Ramus: A Simplificação da Lógica e a Sistematização da Metodologia"
 authors:
   - name: "Djamila Abdullazade"
     orcid: "0009-0007-5639-8512"

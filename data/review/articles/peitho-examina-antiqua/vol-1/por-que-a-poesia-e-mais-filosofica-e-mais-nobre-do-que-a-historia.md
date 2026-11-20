@@ -1,5 +1,5 @@
 ---
-title: "Por que a Poesia é Mais Filosófica e Mais Nobre do que a História? Pequena anotação ao opúsculo da Poética de Aristóteles"
+title: "Por que a Poesia É Mais Filosófica e Mais Nobre do que a História? Pequena Anotação ao Opúsculo da Poética de Aristóteles"
 journal: "Peitho / Examina Antiqua"
 volume: 1
 issue: 1

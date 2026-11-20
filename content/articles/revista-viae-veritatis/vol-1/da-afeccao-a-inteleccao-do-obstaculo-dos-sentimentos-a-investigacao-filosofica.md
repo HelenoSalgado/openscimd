@@ -1,5 +1,5 @@
 ---
-title: "DA AFECÇÃO À INTELECÇÃO"
+title: "Da Afecção à Intelecção"
 volume: 1
 issue: "1"
 pages: "1–9"
@@ -27,13 +27,13 @@ copyright: "Instituto Reformado Santo Evangelho (IRSE)"
 license: "ViVe 1.0 — REVISTA VIAE VERITATIS"
 ---
 
-## DO OBSTÁCULO DOS SENTIMENTOS À INVESTIGAÇÃO FILOSÓFICA[^ne1][^ne2]
+## Do Obstáculo dos Sentimentos à Investigação Filosófica[^ne1][^ne2]
 
-## 1. INTRODUÇÃO
+## 1. Introdução
 
 O sentimento, considerado formalmente, manifesta primariamente o estado daquele que sente. Ele dá a conhecer as disposições da interioridade, os movimentos da alma, exteriorizando carências e expectativas, temores, culpas e inclinações apetitivas, mas não necessariamente a realidade objetiva do ente contemplado ou da pessoa à qual nos vinculamos por circunstâncias diversas. Disso decorre que os sentimentos não devem ser elevados à condição de critério nem constituídos como medida de discernimento da verdade, tampouco convertidos em parâmetro de avaliação do bem. A experiência afetiva, por si só, não implica a intelecção[^1] adequada de uma realidade nem a compreensão autêntica de outrem.
 
-## 2. DA AFECÇÃO À INTELECÇÃO
+## 2. Da Afecção à Intelecção
 
 Sentir não é conhecer; conhecer consiste na apreensão intelectiva da realidade, cujo desenvolvimento se dá mediante a ordenação racional. Um homem para quem o mar permanece uma realidade desconhecida empreende, pela primeira vez, uma viagem até a costa. Ao contemplar a imensidão das águas, é tomado por profunda alegria. O brilho do oceano, a vastidão do horizonte e o movimento incessante das ondas produzem nele uma intensa afecção da alma. Ao regressar, afirma haver categoricamente conhecido o mar. Mas pode-se dizer, propriamente, que o conhece? Não necessariamente.
 

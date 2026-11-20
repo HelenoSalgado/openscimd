@@ -1,5 +1,5 @@
 ---
-title: "DA QUÁDRUPLA CONDIÇÃO DOS HOMENS"
+title: "Da Quádrupla Condição dos Homens"
 volume: 1
 issue: "1"
 pages: "1–8"
@@ -28,11 +28,11 @@ copyright: "Instituto Reformado Santo Evangelho (IRSE)"
 license: "ViVe 1.0 — REVISTA VIAE VERITATIS"
 ---
 
-## DA ORDEM DA ALMA E DA ORDEM DOS OFÍCIOS[^ne1][^ne2]
+## Da Ordem da Alma e da Ordem dos Ofícios[^ne1][^ne2]
 
 > “Dai pois a César o que é de César, e a Deus o que é de Deus” (Mateus 22.21 – ACF).
 
-## 1. INTRODUÇÃO
+## 1. Introdução
 
 O estudo verdadeiro é um ato de adoração: — “não mera acumulação de fatos, mas consagração do espírito ao Verbo que ilumina as coisas”. Consagre-se, temos, obrigatoriamente, de nos entregar completamente a Deus; consagrada ao Deus da verdade em sua totalidade, a nossa vida é dEle em todas as situações que ela integra!
 
@@ -40,7 +40,7 @@ O pensamento que não se oferece torna-se soberbo; a inteligência que não se d
 
 São almas recolhidas, formadas na disciplina do silêncio e da consagração, nas quais a verdade opera longamente em segredo, como a água subterrânea que fecunda silenciosamente as raízes mais profundas de uma árvore, a qual, em sua estação própria, virá a frutificar”. A busca da verdade requer “pobreza de espírito”: — “não aquela miséria espiritual que abdica do pensamento, mas a humildade interior que reconhece os limites da própria razão e abre a alma para ser conduzida à douta ignorância pelo Verbo de Deus”.
 
-## 2. HUMILHA-TE, POIS, DIANTE DO VERBO!
+## 2. Humilha-Te, Pois, Diante do Verbo!
 
 A pobreza de espírito não empobrece o entendimento; antes, purifica-o e enriquece-o. Quem se julga rico em entendimento ergue imediatamente uma muralha entre si e a verdade; a soberba intelectual fecha os ouvidos do inteligir, transformando “o pensamento em terreno improdutivo”. A pobreza de espírito é um recolhimento operoso, é reconhecer as sombras do próprio juízo e convidar a luz primeva a entrar.
 
@@ -60,21 +60,21 @@ A leitura que não transforma é vã, é puramente livresca, é puramente hipot�
 
 Submeta o raciocínio às virtudes cardeais — “a ‘prudência’, porque é ela que refreia a precipitação, a ‘fortaleza’, porque é ela que sustém a diligência, a ‘temperança’, porque é ela que evita o excesso de opiniões, e a ‘justiça’, porque é ela que sempre orienta a intenção”. Eis a verdade, quando afirmamos que, todo tema é parte do todo! Nunca se isole um problema, todo argumento aponta para as causas primeiras e participa da Providência. “Pensar fragmentariamente é amputar a verdade; pensar em vista do todo é restaurá-la, e, em vista do fim [ontológico[^3]], estabelecê-la”.
 
-## 3. ATLETA DA INTELIGÊNCIA, LEVANTA-TE, POIS, AGORA, PORQUE A DISCIPLINA INTELECTUAL FORMA O CARÁTER!
+## 3. Atleta da Inteligência, Levanta-Te, Pois, Agora, Porque a Disciplina Intelectual Forma o Caráter!
 
 Não busques, de nenhum modo, a glória fácil dos homens fracos, muito menos o aplauso que te oferece o dia sem progresso, isto é, aquele pelo qual não te graduaste na virtude; a glória sem serviço é o princípio que guia este mundo, é a regra de toda alma desordenada que tenta encobrir a sua tibieza; busca, sim, a fidelidade que sempre dura, aquela que é diária e que pertence ao ofício, aquela que ecoa, certamente, para a eternidade e para os corações.
 
-## 4. RECOLHE-TE E TRABALHA, RECOLHE-TE E RETOMA!
+## 4. Recolhe-Te e Trabalha, Recolhe-Te e Retoma!
 
 Que cada narração, cada exposição, cada letra, cada sentido e cada sentença seja oferenda a Deus; e que cada ocasião de silêncio — isto é, cada preparação para aquilo que, em sua Providência, Ele santamente determinou para a nossa vida — seja igualmente consagrada a Ele.
 
-## 5. PERSEVERA NA HUMILDADE, A QUAL É A MATRIZ DE TODA FECUNDIDADE INTELECTUAL!
+## 5. Persevera na Humildade, a Qual É a Matriz de Toda Fecundidade Intelectual!
 
 Vai — e faze da tua vida de estudo um ministério fecundo: — “o ofício de traduzir a realidade à luz do Verbo de Deus, para que o mundo veja não apenas conjunturas e sucedidos, mas, que veja, claramente, a causa e o sentido de todas as coisas”. Cultiva, insistentemente, mas pacientemente, o fervor monástico que este mundo tanto rejeita: — “a arte de aprender”. Ela te tornará mais humano, mais sábio e, por fim, mais santo. Muitos, caro leitor, vivem no anonimato e evitam os holofotes, os chamariscos da publicidade, não por medo da exposição ou das responsabilidades, mas porque sabem que a vida exterior foi transposta para a interior — a verdadeira vida, da qual toda aparência exterior recebe seu sentido.
 
 > “Neles, a ‘virtude’ não é mero entretenimento moral, mas o único modo de viver perfeitamente diante de Deus e dos homens; é lume. A ‘sabedoria’ não é divertimento intelectual, mas a única maneira de existir em temor diante de Deus e de viver, entre os homens, uma vida verdadeiramente filosófica; é lume. A ‘retidão’ não é artifício moral, mas a concórdia da alma que vive ordenada, isto é, que vive virtuosamente e sabiamente, segundo o que Deus lhe comunicou, para que, diante dos homens, nossas obras sejam compreendidas e o Deus Doador de todo Bem seja sempre glorificado em perfeito louvor santificador; é puro lume! Assim, pois, segue-se que a virtude e a sabedoria convergem num Uno Indivisível: — a retidão, uma única obra que revela quem pertence ao Eterno e que constará nos livros eternos, glorificando a Deus como memorial. Estes, pois, são homens sem espaventos ou pompas, porém densos de ser e de pertencer”.
 
-## 6. DA QUÁDRUPLA DISTINÇÃO ENTRE VIRTUDE E DIGNIDADE
+## 6. Da Quádrupla Distinção entre Virtude e Dignidade
 
 Há alguns homens, que são elevados interiormente, mas homens não elevados exteriormente. Nestes resplandece a excelência da virtude, a retidão da disposição interior e a abundância dos dons espirituais; contudo, não lhes é concedida dignidade pública, honra manifesta ou autoridade visível. Permanecem ocultos aos olhos do século presente, embora sejam preciosos diante de Deus e dos séculos futuros. A esta ordem pertencem muitos homens piedosos, cristãos íntegros e recônditos intelectuais, cujo interior excede em muito a estima que deles fazem os homens.
 
@@ -86,25 +86,25 @@ Por fim, existem aqueles homens que nem interior nem exteriormente foram elevado
 
 Cumpre, pois, sumarizar cuidadosamente entre a “elevação interior” e a “elevação exterior”. A primeira, elevação interior, radica-se propriamente na qualidade da alma e refere-se principalmente: — “à posse habitual da virtude, recepção dos dons sobrenaturais, à retidão da prudência e à reta disposição de todas as potências espirituais para o seu fim último”; a segunda, elevação exterior, refere-se principalmente: — “à dignidade visível, ao exercício de ofícios, à autoridade pública (civil, política ou eclesial), à estima e reputação que os homens conferem hierarquicamente uns aos outros segundo funções”. Ora, nem sempre ambas coincidem em ato, pois não é necessário que a perfeição do ser interior se manifeste sempre na ordem das aparências externas.
 
-## 7. DA PRIMEIRA DISTINÇÃO — DOS ESCONDIDOS DE DEUS
+## 7. Da Primeira Distinção — Dos Escondidos de Deus
 
 > “(Dos quais o mundo não era digno), errantes pelos desertos, e montes, e pelas covas e cavernas da terra” (Hebreus 11.38; cf. Mateus 6.4[^4]).
 
 Existem aqueles que se elevam pela perfeição interior, permanecendo, porém, na privação exterior. “Estes, pois, são engrandecidos, de fato, pela sabedoria e pela virtude, contudo, permanecem destituídos da dignidade patente, desprovidos do exercício de ofícios, faltos de autoridade pública — seja civil, política ou eclesial —, depostos de qualquer estima, e sem a reputação que os homens, costumeiramente, conferem hierarquicamente uns aos outros segundo suas funções”. Isto se dá, seja pela divina Providência, seja pelas contingências da vida temporal [pela sorte] — segundo os mistérios da divina Sabedoria.
 
-## 8. DA SEGUNDA DISTINÇÃO — DOS AMANTES DE SI MESMOS
+## 8. Da Segunda Distinção — Dos Amantes de Si Mesmos
 
 > “Este povo se aproxima de mim com a sua boca e me honra com os seus lábios, mas o seu coração está longe de mim” (Mateus 15.8; cf. 2 Timóteo 3.5[^5]; Mateus 23.27–28[^6]).
 
 Outros há que recebem “elevação exterior” sem a correspondente “elevação interior”. “Estes obtêm ofícios, títulos e honrarias, mas carecem da formação da alma e da virtude que deveria sustentá-las, vivendo, por conseguinte, da mera aparência da autoridade, sem a realidade que lhe corresponde”.
 
-## 9. DA TERCEIRA DISTINÇÃO — DOS HOMENS PERFEITOS[^7]
+## 9. Da Terceira Distinção — Dos Homens Perfeitos[^7]
 
 > “Sede vós pois perfeitos, como é perfeito o vosso Pai que está nos céus” (Mateus 5.48; cf. 1 Coríntios 2.6[^8]).
 
 Outros, enfim, realizam a devida conformidade entre a “elevação interior” e a “elevação exterior”. “Estes possuem habitualmente a virtude e a sabedoria na alma, isto é, uma disposição estável e ultimada da verdade no íntimo do espírito, e, simultaneamente, exercem de modo legítimo os ofícios e recebem as dignidades externas, de sorte que haja coerência entre o ser e o operar, e o congraçamento entre a disposição interior e a manifestação pública da ordem[^9]”.
 
-## 10. DA QUARTA DISTINÇÃO — DOS DESORDENADOS NA ALMA E NA VIDA
+## 10. Da Quarta Distinção — Dos Desordenados na Alma e na Vida
 
 > “Conheço as tuas obras, que tens nome de que vives, e estás morto” (Apocalipse 3.1; cf. 2 Tessalonicenses 3.6[^10]).
 

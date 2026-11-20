@@ -44,6 +44,7 @@ Ao receber uma solicitação de revisão de um documento:
 - **Termos em Língua Estrangeira**: Use *itálico* para vocábulos em latim, grego, hebraico ou inglês.
 - **Formatação de Diálogos**: Utilize travessão tipográfico (`—`) espaçado após o interlocutor (`A. — `, `R. — `).
 - **Notas de Rodapé**: Devem ser fiéis, sequenciais (`[^1]`), sem renumeração artificial e declaradas ao final precedidas de `---`.
+- **Títulos e Cabeçalhos**: Use **Title Case** tanto no `title` do YAML quanto nas seções (`##`, `###`), vedado o uso de CAIXA ALTA ou *sentence case*.
 
 ### Passo 4: Frontmatter YAML
 

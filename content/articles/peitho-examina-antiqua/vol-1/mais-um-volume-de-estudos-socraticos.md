@@ -1,5 +1,5 @@
 ---
-title: "Mais um volume de estudos socráticos"
+title: "Mais um Volume de Estudos Socráticos"
 journal: "Peitho / Examina Antiqua"
 volume: 1
 issue: 1

@@ -1,5 +1,5 @@
 ---
-title: "Universidades: surgimento, nacionalização e indicadores de internacionalização"
+title: "Universidades: Surgimento, Nacionalização e Indicadores de Internacionalização"
 journal: "Revista Ibero-Americana de Estudos em Educação"
 volume: 16
 issue: 1

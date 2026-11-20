@@ -1,5 +1,5 @@
 ---
-title: "O DESTINO ETERNO DOS BEBÊS QUE MORREM PRECOCEMENTE E DAS PESSOAS COM DEFICIÊNCIA INTELECTUAL SEVERA"
+title: "O Destino Eterno dos Bebês que Morrem Precocemente e das Pessoas com Deficiência Intelectual Severa"
 volume: 1
 issue: "1"
 pages: "1–52"
@@ -33,7 +33,7 @@ copyright: "Instituto Reformado Santo Evangelho (IRSE)"
 license: "ViVe 1.0 — REVISTA VIAE VERITATIS"
 ---
 
-## A DOUTRINA DA GRAÇA APLICADA AOS INCAPAZES MORAIS[^1][^2]
+## A Doutrina da Graça Aplicada aos Incapazes Morais[^1][^2]
 
 > E, ainda que a consciência nos condene, Deus é maior que nossa consciência e sabe todas as coisas (1 João 3:20[^3]).
 
@@ -395,7 +395,7 @@ Que cada razão seja convencida pelos argumentos apresentados, e que a fé siga 
 
 Por ora, basta o que foi exposto acerca desta matéria. Procurei, dentro das minhas limitações, defender uma tese que considero de grande importância e profundamente cara ao meu coração. Se, no futuro, houver novos elementos a acrescentar, retornarei a este tema, tão relevante quanto vasto, tão doloroso quanto solene, e cuja profundidade ultrapassa os limites de uma breve exposição.
 
-## RESUMO DA DOUTRINA REFORMADA DA ELEIÇÃO
+## Resumo da Doutrina Reformada da Eleição
 
 - A eleição é um ato soberano e livre de Deus, pelo qual Ele determina quem será constituído herdeiro do céu.
 - O decreto eletivo foi estabelecido na eternidade.

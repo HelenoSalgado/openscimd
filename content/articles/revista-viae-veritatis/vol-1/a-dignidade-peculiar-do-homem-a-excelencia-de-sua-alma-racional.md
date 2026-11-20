@@ -1,5 +1,5 @@
 ---
-title: "A DIGNIDADE PECULIAR DO HOMEM — A EXCELÊNCIA DE SUA ALMA RACIONAL"
+title: "A Dignidade Peculiar do Homem — A Excelência de Sua Alma Racional"
 volume: 1
 issue: "1"
 pages: "1–12"
@@ -28,7 +28,7 @@ copyright: "Instituto Reformado Santo Evangelho (IRSE)"
 license: "ViVe 1.0 — REVISTA VIAE VERITATIS"
 ---
 
-## A RACIONALIDADE HUMANA COMO EXPRESSÃO DA IMAGEM DE DEUS[^ne1][^ne2]
+## A Racionalidade Humana como Expressão da Imagem de Deus[^ne1][^ne2]
 
 > “Não pelo corpo, mas pelo intelecto; capaz de Deus pela alma racional” (*Non propter corpus, sed propter intellectum; capax Dei per animam rationalem*)[^1].
 
@@ -36,7 +36,7 @@ license: "ViVe 1.0 — REVISTA VIAE VERITATIS"
 
 > “Deus criou o ser humano da terra e o fez segundo a sua imagem. E novamente o fez retornar à terra, revestindo-o de força conforme a sua própria natureza. Concedeu-lhe número de dias e tempo determinado, deu-lhe domínio sobre tudo o que está na terra. Fê-lo temido por todos os seres vivos, fê-lo senhor dos animais e dos pássaros. Deu-lhe inteligência, língua, olhos, ouvidos e coração para pensar. Encheu-o com a disciplina do entendimento e revelou-lhe o sentido da sabedoria. Encheu-o também com o conhecimento do entendimento, mostrando-lhe o bem e o mal. Colocou os seus olhos sobre o coração deles, para revelar-lhes a grandeza das suas obras” (Eclesiástico 17.1–8[^3]).
 
-## 1. INTRODUÇÃO
+## 1. Introdução
 
 Da aparente inferioridade corpórea do homem na ordem natural da criação. Quando contemplamos a criação, percebemos uma realidade aparentemente paradoxal: — “sob muitos aspectos e em inúmeras particularidades, o homem, embora seja um animal racional, parece ocupar uma condição de fragilidade e indigência natural quando comparado às diversas perfeições sensíveis existentes nos demais animais”. Se compararmos o corpo humano ao de inúmeros animais, sob determinados aspectos e qualidades, veremos facilmente nossa inferioridade. Tal como o cavalo que possui força e resistência muito superiores às nossas. Seu couro suporta condições que facilmente lesionariam a pele humana. O leão, por sua vez, dispõe de presas e garras capazes de despedaçar um homem em instantes. Já no urso encontra-se uma potência física que nenhum ser humano poderia enfrentar em igualdade de condições apenas mediante suas capacidades naturais.
 
@@ -50,13 +50,13 @@ Malgrado isso, essa marca extraordinária ainda é inferior à velocidade alcan�
 
 No domínio aquático, somos superados por incontáveis criaturas dotadas de disposições naturais próprias para esse ambiente. No domínio aéreo, sequer recebemos por natureza a potência da locomoção pelo voo, capacidade concedida a diversas espécies. Se considerarmos apenas as potências vegetativas e sensitivas que o homem compartilha com os demais seres vivos, sua condição manifesta certa inferioridade relativa na ordem natural da criação, pois muitas criaturas o excedem em determinadas disposições corpóreas e sensitivas.
 
-## 2. DA ALMA RACIONAL COMO PRINCÍPIO DISTINTIVO DA NATUREZA HUMANA
+## 2. Da Alma Racional como Princípio Distintivo da Natureza Humana
 
 Entretanto, tal consideração se altera inteiramente quando se contempla aquilo que pertence ao homem de modo próprio e distintivo, a saber, sua alma racional, dotada de potência intelectiva e de potência apetitiva racional. Com efeito, embora o homem compartilhe com os demais viventes certas operações próprias da vida, sua natureza não se reduz às potências vegetativa e sensitiva. Deus o constituiu com uma alma racional, princípio primeiro de suas operações propriamente humanas, pela qual é capaz de conhecer o universal, apreender a verdade, deliberar acerca dos meios ordenados aos fins e apetecer racionalmente aquilo que reconhece como bem. É precisamente por essa alma que o homem se distingue dos demais entes corpóreos e se ordena à vida intelectual.
 
 A potência intelectiva permite-lhe transcender o conhecimento meramente sensível e alcançar, mediante a abstração, aquilo que é inteligível; a potência apetitiva racional, por sua vez, permite-lhe ordenar suas inclinações segundo o juízo da razão, elegendo e buscando bens sob a razão de bem. Assim, a racionalidade não constitui um acréscimo meramente acidental à natureza humana, mas pertence à sua própria constituição. Desse modo, a alma racional é o princípio distintivo pelo qual o homem ocupa uma posição singular na ordem da criação. Ele não apenas existe e vive, nem somente percebe e se move segundo as determinações sensíveis; ele conhece, julga, delibera e ordena voluntariamente seus atos segundo fins reconhecidos pela razão. Por isso, a dignidade própria da natureza humana deve ser compreendida a partir dessa alma racional, pela qual o homem participa, de modo finito e criado, da ordem intelectual e se encontra naturalmente ordenado ao conhecimento da verdade e à consecução do bem.
 
-## 3. DA HIERARQUIA DAS POTÊNCIAS DA ALMA E DA SINGULARIDADE DA ALMA RACIONAL
+## 3. Da Hierarquia das Potências da Alma e da Singularidade da Alma Racional
 
 Conforme a doutrina gnosiológica[^5] de Santo Agostinho acerca da ascensão da atividade anímica pelos seus diferentes graus de operação [sete graus da atividade da alma], pode-se perceber uma gradação segundo os modos pelos quais a vida se manifesta nos seres viventes:
 
@@ -70,13 +70,13 @@ Por esta potência racional florescem as obras próprias do homem: — “a agri
 
 Santo Agostinho reconhece neste grau a manifestação da capacidade operativa da alma racional, expressa mediante a arte e a habilidade, enquanto esta se relaciona com o corpo e com o mundo exterior, transformando a realidade sensível mediante o engenho, a imaginação e a ordem inteligível impressa pela razão. Explicados tais graus potenciais, entende-se que os animais permanentemente se encontram circunscritos ao conhecimento sensível e aos movimentos próprios da natureza instintiva. O homem, pela operação do intelecto (intellectus) e da razão (ratio), alcança a apreensão dos universais, a consideração das causas, a deliberação ordenada dos meios convenientes e a disposição dos seus atos segundo fins inteligíveis, conduzindo-se pela luz da razão ao conhecimento da verdade e à ordenação de sua existência ao seu fim último.
 
-## 4. DA APREENSÃO DOS UNIVERSAIS PELA RAZÃO HUMANA
+## 4. Da Apreensão dos Universais pela Razão Humana
 
 Em determinadas potências sensíveis, o leão manifesta maior força, a águia possui maior acuidade visual e o cavalo alcança maior velocidade. Mas somente o homem compreende o que são força, visão e velocidade. O leão utiliza sua força para caçar; o homem compreende racionalmente as propriedades da força e as aplica na construção de alavancas, guindastes, tratores e máquinas capazes de remover obstáculos, erguer edifícios ou resgatar uma criança soterrada. A águia utiliza sua visão para localizar presas; o homem compreende o princípio da visão e desenvolve óculos, microscópios, telescópios e instrumentos que lhe permitem enxergar tanto o infinitamente pequeno quanto o imensamente distante.
 
 O cavalo corre velozmente para locomover-se; o homem compreende o princípio da velocidade e o emprega na construção de veículos, aeronaves e sistemas de emergência que transportam médicos, medicamentos e socorro em tempo hábil para salvar vidas. Os animais possuem essas capacidades de modo particular e instintivo. O homem, porém, apreende nelas princípios universais, reflete sobre suas causas e os ordena a uma multiplicidade de fins. É por isso que ele não apenas utiliza a força, a visão e a velocidade, mas compreende o que elas são e pode colocá-las a serviço do bem comum. Nisso reside uma das expressões mais elevadas da dignidade da razão humana.
 
-## 5. DAS OBRAS DA RAZÃO E DA ORDENAÇÃO RACIONAL DA NATUREZA
+## 5. Das Obras da Razão e da Ordenação Racional da Natureza
 
 Donde se segue que, necessariamente, embora o homem não possua a força do cavalo, ele cria arreios, selas e técnicas de adestramento. O resultado é que o cavalo passa a ser submetido ao serviço humano mediante adestramento e técnica. Embora não possua a velocidade de determinadas aves de voo rápido, constrói aeronaves capazes de atravessar continentes em poucas horas. Embora não possua a visão da águia, inventa lunetas, telescópios e microscópios que ampliam sua visão para além de qualquer capacidade natural dos animais. Embora não possua as garras do leão, o homem fabrica instrumentos capazes de dominar e enfrentar as maiores feras, mediante a arte mecânica do armamento. Embora não consiga respirar sob as águas como os peixes, constrói embarcações e submarinos que exploram as profundezas dos oceanos. Embora não consiga tecer teias como a aranha, projeta pontes suspensas que atravessam vales inteiros, suportando toneladas e mais toneladas.
 
@@ -88,7 +88,7 @@ A aranha tece uma teia de grande precisão para capturar suas presas. A alma rac
 
 A diferença não está na intensidade das capacidades sensíveis, mas na presença da razão. É por isso que um domador pode controlar um leão. Um cavaleiro pode governar um cavalo. Um pastor pode conduzir um rebanho inteiro. Um cientista pode observar estrelas que nenhum animal possui capacidade racional para conhecer ou investigar. A superioridade humana não se encontra nos músculos, nos sentidos ou nos instintos. Se fosse assim, muitas criaturas seriam superiores a nós. A dignidade singular do homem reside na alma racional, imagem de Deus em sentido próprio. Por ela o homem conhece a verdade, contempla a ordem da criação, produz cultura, transmite conhecimento entre gerações e exerce domínio sobre a terra. Por essa razão, a fraqueza física do homem não é sinal de inferioridade, mas um testemunho de que Deus lhe concedeu uma perfeição mais elevada. Enquanto os animais superam o homem em potências particulares, o homem supera todos eles pela potência intelectiva [inteligência] que ordena, governa e dá sentido a essas potências.
 
-## 6. DAS ARTES HUMANAS COMO EXPRESSÃO DA RAZÃO
+## 6. Das Artes Humanas como Expressão da Razão
 
 O mesmo princípio pode ser observado nas artes mecânicas. Muitos animais realizam operações que guardam certa semelhança remota com as artes humanas, mas sempre de modo instintivo e particular. O homem, contudo, as exerce segundo o intelecto, a deliberação e a arte. As ovelhas produzem naturalmente a lã que as protege do frio; o homem desenvolve a arte do lanifício, transformando a lã em tecidos, vestimentas e diversos bens úteis à vida humana. Diversos animais combatem para defender território, alimento ou prole; o homem desenvolve a arte militar, a arte equestre e os instrumentos bélicos, concebendo instrumentos, estratégias e tecnologias ordenadas à defesa e à preservação da sociedade. Os peixes movimentam-se nos ambientes aquáticos conforme as disposições naturais próprias de sua espécie; em contrapartida, o homem desenvolve a arte da navegação e da construção naval, projetando e construindo embarcações, estudando os ventos, as marés, os efeitos da lua sobre as águas, as correntes marítimas e os movimentos dos astros, atravessando oceanos e estabelecendo comunicação e comércio entre povos distantes.
 
@@ -100,7 +100,7 @@ Além disso, alguns animais apresentam comportamentos instintivos associados à 
 
 Pela razão, o homem organiza sons segundo princípios, compõe sinfonias e óperas, utiliza técnicas mnemônicas por meio da música para preservar e transmitir conhecimentos, e produz obras capazes de comunicar verdades, despertar emoções profundas, conservar memórias e expressar realidades universais. Além disso, desenvolve a arte teatral, por meio da qual representa ações humanas, imita a realidade de modo consciente, comunica ensinamentos, preserva histórias e cultiva a imaginação e a sensibilidade. O animal manifesta sons e movimentos segundo disposições naturais; o homem transforma som, gesto e representação em artes racionais, ordenadas pela inteligência e dirigidas à comunicação de significados.
 
-## 7. DA DIGNIDADE PECULIAR DO HOMEM ENQUANTO IMAGEM DE DEUS
+## 7. Da Dignidade Peculiar do Homem Enquanto Imagem de Deus
 
 Em todos esses casos, os animais realizam ações admiráveis conforme as disposições particulares inscritas em sua natureza. O homem, no entanto, ultrapassa o âmbito do instinto ao apreender os princípios universais presentes nessas atividades, refletir sobre suas causas e aperfeiçoá-las mediante a razão. Por isso, ele não apenas realiza ações semelhantes às dos animais, mas compreende aquilo que faz, conhece os princípios que orientam suas ações e ordena seus atos segundo fins conscientemente escolhidos. É precisamente nessa capacidade intelectual de conhecer, deliberar e criar que se manifesta a singular excelência da natureza humana — a faculdade intelectiva própria da alma racional, criada segundo a imagem de Deus, pela qual o homem apreende a verdade, ordena racionalmente suas ações e manifesta sua dignidade peculiar dentre todas as criaturas.
 

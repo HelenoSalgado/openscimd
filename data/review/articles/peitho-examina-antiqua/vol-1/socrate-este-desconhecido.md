@@ -1,5 +1,5 @@
 ---
-title: "Sócrates, este desconhecido"
+title: "Sócrates, Este Desconhecido"
 authors:
   - name: "Livio Rossetti"
     affiliation: "Universidade de Perúgia"

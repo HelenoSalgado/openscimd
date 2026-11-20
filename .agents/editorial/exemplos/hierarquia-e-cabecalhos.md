@@ -34,7 +34,7 @@ Aquele que me segue não andará em trevas, diz o Senhor.[^1] Estas são as pala
 
 ```markdown
 ---
-title: "REFORMAS FILOSÓFICAS DE PETRUS RAMUS"
+title: "Reformas Filosóficas de Petrus Ramus"
 authors:
   - name: "Djamila Abdullazade"
 ...
@@ -52,6 +52,16 @@ A reforma proposta por Ramus consistiu fundamentalmente...
 
 A primeira lei, a lei da verdade (*lex veritatis*)...
 ```
+
+---
+
+### Padrão de Títulos e Subtítulos (Title Case)
+
+Tanto o `title` no YAML quanto todos os subtítulos e seções no corpo (`##`, `###`, etc.) devem seguir **Title Case** (Caixa Alta/Baixa), nunca CAIXA ALTA nem *sentence case*:
+- Palavras principais em maiúscula; artigos, preposições e conjunções breves em minúscula (salvo no início ou após `:` e `—`).
+- Exemplos:
+  - YAML: `title: "A Dignidade Peculiar do Homem — A Excelência de Sua Alma Racional"`
+  - Seções: `## 1. Introdução`, `## 2. A Verdade Pertence a Deus`, `### 10.1. Distinção entre Consulta e Promoção`
 
 ---
 

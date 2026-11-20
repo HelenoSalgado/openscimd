@@ -1,5 +1,5 @@
 ---
-title: "Um Sócrates que não escuta: o caso Eutífron"
+title: "Um Sócrates que Não Escuta: O Caso Eutífron"
 authors:
   - name: "Livio Rossetti"
     affiliation: "Universidade de Perúgia, Itália"

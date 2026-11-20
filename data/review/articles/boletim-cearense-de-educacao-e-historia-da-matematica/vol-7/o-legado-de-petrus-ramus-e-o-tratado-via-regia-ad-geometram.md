@@ -1,5 +1,5 @@
 ---
-title: "O LEGADO DE PETRUS RAMUS E O TRATADO VIA REGIA AD GEOMETRIAM"
+title: "O Legado de Petrus Ramus e o Tratado Via Regia ad Geometriam"
 journal: "Boletim Cearense de Educação e História da Matemática"
 volume: 7
 issue: 20

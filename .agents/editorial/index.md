@@ -52,6 +52,7 @@ Quando o material de origem exigir não somente edição, mas tradução para o 
 
 - **Fidelidade Absoluta**: O texto original do documento/PDF é a autoridade máxima. Nenhuma palavra, doutrina, citação histórica ou ênfase pode ser alterada, censurada, resumida ou suprimida.
 - **Proibição de Soluções Parciais e Gambiarras**: Toda correção deve obedecer à lógica universal do idioma e aos princípios tipográficos semânticos, sem soluções estáticas frágeis ("hardcodes").
+- **Títulos e Subtítulos em Title Case**: O campo `title` do YAML e todos os cabeçalhos de seções (`##`, `###`) devem adotar Title Case (Caixa Alta/Baixa), sendo vedado o uso de CAIXA ALTA ou *sentence case*.
 - **Respeito à Ortografia Original**: Mantenha termos latinos, gregos, hebraicos e expressões confessionais reformadas com sua grafia e estilização exatas.
 
 ---

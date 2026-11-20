@@ -1,5 +1,5 @@
 ---
-title: "AS MARGENS DA REFORMA: PETRUS RAMUS, O CALVINISMO E A AUTONOMIA DO SABER POLÍTICO"
+title: "As Margens da Reforma: Petrus Ramus, o Calvinismo e a Autonomia do Saber Político"
 journal: "Hispania Sacra"
 volume: 70
 issue: 141

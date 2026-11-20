@@ -1,5 +1,5 @@
 ---
-title: "SOLDADO SAQUEADOR"
+title: "Soldado Saqueador"
 volume: 1
 issue: "1"
 pages: "1–10"
@@ -29,9 +29,9 @@ copyright: "Instituto Reformado Santo Evangelho (IRSE)"
 license: "ViVe 1.0 — REVISTA VIAE VERITATIS"
 ---
 
-## DA ORDEM DO INTELECTO E DA CORRUPÇÃO DA LEITURA[^ne1][^ne2]
+## Da Ordem do Intelecto e da Corrupção da Leitura[^ne1][^ne2]
 
-## 1. INTRODUÇÃO
+## 1. Introdução
 
 O principal entrave à conquista do saber não reside na ausência de inteligibilidade do real — entendido em sua amplitude, enquanto ordem das coisas físicas[^1], estrutura da leitura[^2] e disciplina do pensamento filosófico, bem como na sua dimensão de consciência metafísica[^3] —, mas na desordem do intelecto em detrimento da reta razão[^4]: — “a precipitação anárquica que dispersa a atenção, fragmenta o nexo das verdades e subordina a busca da ordem universal ao capricho subjetivo do leitor–intérprete”.
 

@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "articles",
-  "last_updated": 1794835482667,
+  "last_updated": 1795180518352,
   "articles": [
     {
       "id": "art_001",
@@ -49,7 +49,7 @@
     },
     {
       "id": "art_003",
-      "title": "O LEGADO DE PETRUS RAMUS E O TRATADO VIA REGIA AD GEOMETRIAM",
+      "title": "O Legado de Petrus Ramus e o Tratado Via Regia ad Geometriam",
       "authors": [
         {
           "name": "Francisco Hemerson Brito da Silva",
@@ -113,7 +113,7 @@
     },
     {
       "id": "art_005",
-      "title": "AS MARGENS DA REFORMA: PETRUS RAMUS, O CALVINISMO E A AUTONOMIA DO SABER POLÍTICO",
+      "title": "As Margens da Reforma: Petrus Ramus, o Calvinismo e a Autonomia do Saber Político",
       "authors": [
         {
           "name": "Rafael Ramis Barceló",
@@ -144,7 +144,7 @@
     },
     {
       "id": "art_006",
-      "title": "REFORMAS FILOSÓFICAS DE PETRUS RAMUS: A SIMPLIFICAÇÃO DA LÓGICA E A SISTEMATIZAÇÃO DA METODOLOGIA",
+      "title": "Reformas Filosóficas de Petrus Ramus: A Simplificação da Lógica e a Sistematização da Metodologia",
       "authors": [
         {
           "name": "Djamila Abdullazade",
@@ -274,7 +274,7 @@
     },
     {
       "id": "art_010",
-      "title": "Mais um volume de estudos socráticos",
+      "title": "Mais um Volume de Estudos Socráticos",
       "authors": [
         {
           "name": "Francesca Pentassuglio",
@@ -335,7 +335,7 @@
     },
     {
       "id": "art_012",
-      "title": "Por que a Poesia é Mais Filosófica e Mais Nobre do que a História? Pequena anotação ao opúsculo da Poética de Aristóteles",
+      "title": "Por que a Poesia É Mais Filosófica e Mais Nobre do que a História? Pequena Anotação ao Opúsculo da Poética de Aristóteles",
       "authors": [
         {
           "name": "Julius Domański",
@@ -367,7 +367,7 @@
     },
     {
       "id": "art_013",
-      "title": "Sócrates, este desconhecido",
+      "title": "Sócrates, Este Desconhecido",
       "authors": [
         {
           "name": "Livio Rossetti",
@@ -428,8 +428,415 @@
       "e_issn": "2449-8378"
     },
     {
+      "id": "art_018",
+      "title": "A Dimensão Ética do Tempo na Apologia de Sócrates de Platão",
+      "authors": [
+        {
+          "name": "Artur Pacewicz",
+          "affiliation": "Universidade de Breslávia (Wrocław), Polônia"
+        }
+      ],
+      "summary": "O presente artigo tem por objetivo demonstrar a dimensão ética do tempo na Apologia de Sócrates de Platão. Enquanto as abordagens tradicionais ao problema do tempo na filosofia platônica costumam concentrar-se nas categorias ontológicas e cosmológicas do Timeu (onde o tempo é retratado como imagem móvel da eternidade), a correlação orgânica entre a temporalidade e a ordem moral já se manifestava no pensamento arcaico grego. O exame analisa minuciosamente a tensão estrutural entre o tempo exíguo do tribunal (a clepsidra judiciária de um único dia) e a temporalidade dilatada de toda a existência de Sócrates (setenta anos de integridade moral inabalável). Evidencia-se como as noções de chronos (tempo contínuo da fidelidade ao mandamento divino), schole (tempo livre filosófico em oposição à azáfama utilitária) e kairos (o instante decisivo e a 'hora de partir' em 42 a) convergem para constituir o alicerce ético do agir socrático, no qual a firmeza da virtude permanece perene frente à contingência da morte.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/a-dimensao-etica-do-tempo-na-apologia-de-socrates-de-platao.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-dimensao-etica-do-tempo-na-apologia-de-socrates-de-platao.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/a-dimensao-etica-do-tempo-na-apologia-de-socrates-de-platao.pdf",
+      "categories": [
+        "Filosofia",
+        "História"
+      ],
+      "published_at": 1293840000000,
+      "estimated_reading_time_min": 13,
+      "doi": "10.14746/pea.2011.1.8",
+      "udc": "1:94",
+      "license": "CC BY 4.0",
+      "journal": "Peitho / Examina Antiqua",
+      "journal_id": "journal_peitho-examina-antiqua",
+      "volume": "1",
+      "volume_id": "vol_peitho-examina-antiqua_1",
+      "issue": "2",
+      "pages": "123–138",
+      "language": "pt-BR",
+      "e_issn": "2082-7539"
+    },
+    {
+      "id": "art_019",
+      "title": "A Filosofia de Sócrates como um Serviço Divino na Apologia de Platão",
+      "authors": [
+        {
+          "name": "Dorota Tymura",
+          "affiliation": "Lublin, Polônia"
+        }
+      ],
+      "summary": "O objetivo do presente artigo é discutir a concepção socrática da filosofia como um serviço prestado ao deus. Inicialmente, investiga-se por que Querefonte foi a Delfos e por que dirigiu à Pítia a célebre pergunta a respeito de Sócrates. Essa averiguação fornece a base para distinguir dois períodos capitais em sua atividade: o anterior ao oráculo délfico, que consistia em conduzir investigações num grupo restrito de amigos íntimos; e o posterior ao oráculo, que consistiu em dirigir-se a um público muito mais amplo. A análise de ambos os períodos sugere que o oráculo de Delfos afetou profundamente as relações de Sócrates com os demais atenienses. Ao abordar também a questão do daimonion socrático, o artigo levanta a hipótese de que a voz do daimonion e a resposta da Pítia poderiam ser consideradas intervenções de Apolo.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/a-filosofia-de-socrates-como-um-servico-divino-na-apologia-de-platao.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-filosofia-de-socrates-como-um-servico-divino-na-apologia-de-platao.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/a-filosofia-de-socrates-como-um-servico-divino-na-apologia-de-platao.pdf",
+      "categories": [
+        "Filosofia",
+        "História",
+        "Teologia"
+      ],
+      "published_at": 1293840000000,
+      "estimated_reading_time_min": 15,
+      "doi": "10.14746/pea.2011.1.12",
+      "udc": "1:94:2",
+      "license": "CC BY 4.0",
+      "journal": "Peitho / Examina Antiqua",
+      "journal_id": "journal_peitho-examina-antiqua",
+      "volume": "1",
+      "volume_id": "vol_peitho-examina-antiqua_1",
+      "issue": "2",
+      "pages": "183–190",
+      "language": "pt-BR",
+      "e_issn": "2082-7539"
+    },
+    {
+      "id": "art_020",
+      "title": "Algumas Observações sobre os Estudos do Século XIX sobre o Eutífron na Polônia",
+      "authors": [
+        {
+          "name": "Tomasz Mróz",
+          "affiliation": "Zielona Góra, Polônia"
+        }
+      ],
+      "summary": "O presente artigo examina como filósofos, historiadores e classicistas poloneses compreenderam e interpretaram o Eutífron de Platão no século XIX. O trabalho demonstra o duplo interesse que os leitores poloneses demonstraram pelo diálogo nesse período. Em primeiro lugar, os pensadores católicos concentraram-se nas questões éticas da obra e apoiaram o renascimento da Escolástica, confirmando concomitantemente a vitalidade perene do pensamento platônico. Em segundo lugar, o texto desse opúsculo platônico constituiu conveniente material didático para professores de língua grega: ao mesmo tempo em que o Eutífron lhes proporcionava o ensejo de abordar problemas éticos e lógicos, servia de base para o ensino introdutório de filosofia nos ginásios.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/algumas-observacoes-sobre-os-estudos-do-seculo-xix-sobre-o-eutifron-na-polonia.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/algumas-observacoes-sobre-os-estudos-do-seculo-xix-sobre-o-eutifron-na-polonia.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/algumas-observacoes-sobre-os-estudos-do-seculo-xix-sobre-o-eutifron-na-polonia.pdf",
+      "categories": [
+        "Educação",
+        "Filosofia",
+        "História"
+      ],
+      "published_at": 1293840000000,
+      "estimated_reading_time_min": 19,
+      "doi": "10.14746/pea.2011.1.13",
+      "udc": "37:1:94",
+      "license": "CC BY 4.0",
+      "journal": "Peitho / Examina Antiqua",
+      "journal_id": "journal_peitho-examina-antiqua",
+      "volume": "1",
+      "volume_id": "vol_peitho-examina-antiqua_1",
+      "issue": "2",
+      "pages": "191–202",
+      "language": "pt-BR",
+      "e_issn": "2082-7539"
+    },
+    {
+      "id": "art_021",
+      "title": "Críton de Platão: Em Torno da Desobediência Civil e da Obrigação Política",
+      "authors": [
+        {
+          "name": "Tomasz Kuniński",
+          "affiliation": "Universidade Jaguelônica de Cracóvia, Polônia"
+        }
+      ],
+      "summary": "O presente artigo investiga a complexa relação entre ética e política no Críton de Platão a partir de uma perspectiva contemporânea. Analisam-se os problemas da desobediência civil (as razões morais que justificam a transgressão da lei) e da obrigação política (o fundamento do dever moral de obedecer ao ordenamento jurídico). Rebatendo a tese comum de que Sócrates advogaria no diálogo uma obediência cega e incondicional ao Estado, o trabalho articula as premissas da Apologia e do Críton, traça paralelos entre a postura do filósofo ateniense e a de H. D. Thoreau, e examina como os argumentos personificados das Leis antecipam as principais teorias modernas da obrigação política: o contratualismo do consentimento, a teoria da gratidão, o princípio do jogo limpo (fair play) e o dever natural de justiça.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/criton-de-platao-em-torno-da-desobediencia-civil-e-da-obrigacao-politica.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/criton-de-platao-em-torno-da-desobediencia-civil-e-da-obrigacao-politica.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/criton-de-platao-em-torno-da-desobediencia-civil-e-da-obrigacao-politica.pdf",
+      "categories": [
+        "Direito",
+        "Filosofia",
+        "Política"
+      ],
+      "published_at": 1293840000000,
+      "estimated_reading_time_min": 13,
+      "doi": "10.14746/pea.2011.1.9",
+      "udc": "34:1:32",
+      "license": "CC BY 4.0",
+      "journal": "Peitho / Examina Antiqua",
+      "journal_id": "journal_peitho-examina-antiqua",
+      "volume": "1",
+      "volume_id": "vol_peitho-examina-antiqua_1",
+      "issue": "2",
+      "pages": "139–158",
+      "language": "pt-BR",
+      "e_issn": "2082-7539"
+    },
+    {
+      "id": "art_022",
+      "title": "Desafio, Persuasão ou Conformidade? O Argumento na Apologia e no Críton de Platão",
+      "authors": [
+        {
+          "name": "Mikołaj Domaradzki",
+          "affiliation": "Universidade Adam Mickiewicz de Poznań, Polônia"
+        }
+      ],
+      "summary": "Enquanto a relação entre o indivíduo e o Estado constitui um dos temas mais complexos da filosofia política ocidental, o confronto entre o Sócrates da Apologia e o do Críton figura como um dos problemas mais controvertidos dos estudos socráticos. Na Apologia (29 c–d), defrontamo-nos com um rebelde destemido que desafia a ordem política estabelecida; no Críton (51 b–c), encontramos um cidadão respeitador da legalidade que se submete serenamente ao veredito das Leis atenienses. O artigo sugere que, em ambos os diálogos, o jovem Platão investiga a possibilidade de trilhar um caminho intermediário entre a capitulação perante o relativismo pragmático, de um lado, e o incentivo à desobediência civil anárquica, de outro. Assim, o filósofo concentra-se primariamente em investigar a alternativa constitucional 'persuadir ou obedecer', demonstrando a coerência ética inabalável que une a postura socrática perante o tribunal e no cárcere.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/desafio-persuasao-ou-conformidade-o-argumento-na-apologia-e-no-criton.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/desafio-persuasao-ou-conformidade-o-argumento-na-apologia-e-no-criton.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/desafio-persuasao-ou-conformidade-o-argumento-na-apologia-e-no-criton.pdf",
+      "categories": [
+        "Filosofia",
+        "Política"
+      ],
+      "published_at": 1293840000000,
+      "estimated_reading_time_min": 15,
+      "doi": "10.14746/pea.2011.1.7",
+      "udc": "1:32",
+      "license": "CC BY 4.0",
+      "journal": "Peitho / Examina Antiqua",
+      "journal_id": "journal_peitho-examina-antiqua",
+      "volume": "1",
+      "volume_id": "vol_peitho-examina-antiqua_1",
+      "issue": "2",
+      "pages": "111–122",
+      "language": "pt-BR",
+      "e_issn": "2082-7539"
+    },
+    {
+      "id": "art_023",
+      "title": "Hosion, Eu Dzen e Dikaiousune na Apologia de Sócrates e no Eutífron",
+      "authors": [
+        {
+          "name": "Riccardo Dottori",
+          "affiliation": "Universidade de Roma Tor Vergata, Itália"
+        }
+      ],
+      "summary": "Enquanto as interpretações linguísticas e analíticas do Eutífron costumam circunscrever-se a duas passagens do diálogo (Euthphr. 10 a 2 – 11 b 1), há uma tendência geral a desconsiderar a distinção entre o ὅσιον e o θεοφιλές. Consequentemente, quase não se realizam esforços para compreender a crítica platônica da religião. Os conceitos de θεραπεία τοῦ θεοῦ e de ἀπεργασία proporcionam-nos a possibilidade de caracterizar positivamente a piedade e distingui-la do mero afeto amoroso. Contrariamente às teses de Schleiermacher e Gigon, mas seguindo Wilamowitz, o presente artigo demonstra que a ideia de serviço a Deus consiste na harmonia dórica entre Λόγος e Ἔργον, combinada com os diversos deveres e serviços para com o Estado. Sendo isto precisamente o que constitui a justiça, a crítica da religião não é meramente negativa. Mediante a justiça, o ὅσιον é elevado ao εὖ ζῆν e ao supremo ἀγαθόν, tanto na dimensão privada quanto na pública. Sem a justiça, resta apenas a necessidade de fugir para o outro mundo e acolher a ὁμοίωσις com Deus, conforme exposto no Teeteto. Se este é o sentido da morte de Sócrates, tal concepção assemelha-se ao postulado kantiano da imortalidade da alma, pois em ambos os casos defronta-se a tarefa infindável de realizar o bem supremo. A questão reside em saber se é possível realizar a δικαιοσύνη na vida política. Platão examina esse problema na República, no Sofista, no Político e nas Leis. No Político, a justiça é o objetivo primordial de toda vida política, o qual somente pode ser atingido mediante o cultivo da relação divina dos elementos harmoniosos no ὅσιον. É aqui que a doutrina platônica do ὅσιον atinge a sua consumação.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/hosion-eu-dzen-e-dikaiousune-na-apologia-de-socrates-e-no-eutifron.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/hosion-eu-dzen-e-dikaiousune-na-apologia-de-socrates-e-no-eutifron.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/hosion-eu-dzen-e-dikaiousune-na-apologia-de-socrates-e-no-eutifron.pdf",
+      "categories": [
+        "Filosofia",
+        "Política"
+      ],
+      "published_at": 1293840000000,
+      "estimated_reading_time_min": 28,
+      "doi": "10.14746/pea.2011.1.4",
+      "udc": "1:32",
+      "license": "CC BY 4.0",
+      "journal": "Peitho / Examina Antiqua",
+      "journal_id": "journal_peitho-examina-antiqua",
+      "volume": "1",
+      "volume_id": "vol_peitho-examina-antiqua_1",
+      "issue": "2",
+      "pages": "57–78",
+      "language": "pt-BR",
+      "e_issn": "2082-7539"
+    },
+    {
+      "id": "art_024",
+      "title": "Mandamento Divino e Piedade Socrática no Eutífron",
+      "authors": [
+        {
+          "name": "Glen Koehn",
+          "affiliation": "Londres, Canadá"
+        }
+      ],
+      "summary": "Embora Sócrates fosse, a seu modo, um homem profundamente religioso, o Eutífron é frequentemente considerado como fornecedor de uma refutação da teoria do mandamento divino da moralidade: a teoria segundo a qual o que é moralmente bom é bom porque é divinamente aprovado. Sócrates parece sugerir que o que é santo ou piedoso (ὅσιος) é agradável aos deuses porque é santo, e não santo porque lhes agrada. Assim, o diálogo é por vezes apresentado como uma demonstração de que o moralmente bom e o mau devem ser independentes da vontade divina. Sustento que as coisas não são tão simples, visto existirem várias maneiras pelas quais os deuses poderiam ajudar a determinar quais atos são bons — por exemplo, ao dispor certos assuntos humanos relevantes para as decisões morais. Ademais, Sócrates sugere possuir obrigações para com os próprios deuses, e essas obrigações teriam de depender, em parte, daquilo que lhes agrada. Disso decorre que o dilema proposto por Sócrates a Eutífron (piedoso porque amado pelos deuses, ou amado pelos deuses porque piedoso) não oferece duas alternativas mutuamente exclusivas. Há vários modos pelos quais as preferências de tais deuses podem ajudar a determinar quais atos são adequados para louvor ou censura moral. Dificilmente se poderia sustentar, portanto, que as doutrinas religiosas, se verdadeiras, sejam irrelevantes para o conteúdo da moralidade. O conhecimento das preferências dos deuses, se estivesse disponível, seria de importância para a teoria moral. O próprio Sócrates não nega isso, nem nós deveríamos fazê-lo.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/mandamento-divino-e-piedade-socratica-no-eutifron.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/mandamento-divino-e-piedade-socratica-no-eutifron.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/mandamento-divino-e-piedade-socratica-no-eutifron.pdf",
+      "categories": [
+        "Filosofia"
+      ],
+      "published_at": 1293840000000,
+      "estimated_reading_time_min": 29,
+      "doi": "10.14746/pea.2011.1.1",
+      "udc": "1",
+      "license": "CC BY 4.0",
+      "journal": "Peitho / Examina Antiqua",
+      "journal_id": "journal_peitho-examina-antiqua",
+      "volume": "1",
+      "volume_id": "vol_peitho-examina-antiqua_1",
+      "issue": "2",
+      "pages": "13–24",
+      "language": "pt-BR",
+      "e_issn": "2082-7539"
+    },
+    {
+      "id": "art_025",
+      "title": "Μέγιστον Ἀγαθόν (Pl. Ap. 38 a) – O Cerne da Vida e do Desafio Filosófico de Sócrates",
+      "authors": [
+        {
+          "name": "Marian Wesoły",
+          "affiliation": "Universidade Adam Mickiewicz de Poznań, Polônia"
+        }
+      ],
+      "summary": "O presente artigo concentra-se no ponto culminante da Apologia de Sócrates de Platão (38 a), momento em que Sócrates define a vida sem exame e proclama o sumo bem para o ser humano (megiston agathon). Enquanto a maioria dos estudos especializados negligencia essa provocação decisiva, ela constitui não apenas o motivo condutor para a justa compreensão do inquérito socrático (exetazein) — estruturado segundo a ironia, o elenchos e a aporia —, mas igualmente a fonte inspiradora primordial para a busca das virtudes e do sumo bem na história da filosofia ocidental.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/megiston-agathon-o-cerne-da-vida-e-do-desafio-filosofico-de-socrates.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/megiston-agathon-o-cerne-da-vida-e-do-desafio-filosofico-de-socrates.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/megiston-agathon-o-cerne-da-vida-e-do-desafio-filosofico-de-socrates.pdf",
+      "categories": [
+        "Filosofia",
+        "História"
+      ],
+      "published_at": 1293840000000,
+      "estimated_reading_time_min": 16,
+      "doi": "10.14746/pea.2011.1.6",
+      "udc": "1:94",
+      "license": "CC BY 4.0",
+      "journal": "Peitho / Examina Antiqua",
+      "journal_id": "journal_peitho-examina-antiqua",
+      "volume": "1",
+      "volume_id": "vol_peitho-examina-antiqua_1",
+      "issue": "2",
+      "pages": "93–110",
+      "language": "pt-BR",
+      "e_issn": "2082-7539"
+    },
+    {
+      "id": "art_026",
+      "title": "O Método Adequado para Eutífron: Uma Calma Distância",
+      "authors": [
+        {
+          "name": "Laura Candiotto",
+          "affiliation": "Veneza, Itália"
+        }
+      ],
+      "summary": "O presente artigo tem por objetivo descrever o método empregado por Sócrates com Eutífron no diálogo homônimo. A primeira parte concentra-se na descrição do personagem, passando em seguida à análise do próprio método, não apenas em termos de sua estrutura argumentativa, mas igualmente sob seus aspectos psicológicos, emocionais e sociais. Demonstra-se que Eutífron foi um partidário da religião tradicional ateniense inteiramente incapaz de articular na prática os ideais religiosos que tão confiantemente apregoava. Ao retratar a refutação de Eutífron por Sócrates, Platão visa não apenas a defender e reabilitar seu mestre, mas também a formular uma crítica contundente à sociedade de sua época. Ao descrever a metodologia socrática, o artigo propõe caracterizá-la como uma 'calma distância', fundamentando-se no fato de que o traço distintivo do método consiste em instaurar um distanciamento emocional sereno entre Sócrates e Eutífron. A finalidade dessa estratégia pedagógica reside em fazer com que Eutífron reconheça a fragilidade de suas certezas e acolha a purificação intelectual proporcionada pelo elenchos socrático.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/o-metodo-adequado-para-eutifron-uma-calma-distancia.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/o-metodo-adequado-para-eutifron-uma-calma-distancia.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/o-metodo-adequado-para-eutifron-uma-calma-distancia.pdf",
+      "categories": [
+        "Educação",
+        "Filosofia"
+      ],
+      "published_at": 1293840000000,
+      "estimated_reading_time_min": 25,
+      "doi": "10.14746/pea.2011.1.3",
+      "udc": "37:1",
+      "license": "CC BY 4.0",
+      "journal": "Peitho / Examina Antiqua",
+      "journal_id": "journal_peitho-examina-antiqua",
+      "volume": "1",
+      "volume_id": "vol_peitho-examina-antiqua_1",
+      "issue": "2",
+      "pages": "39–56",
+      "language": "pt-BR",
+      "e_issn": "2082-7539"
+    },
+    {
+      "id": "art_027",
+      "title": "Os Acusadores de Sócrates",
+      "authors": [
+        {
+          "name": "Anna Kelessidou",
+          "affiliation": "Atenas, Grécia"
+        }
+      ],
+      "summary": "Infelizmente, dispomos de pouquíssimas informações sobre os três acusadores de Sócrates: Meleto, Ânito e Lícon. Não obstante isso, o presente artigo procura discutir as circunstâncias e os motivos que conduziram ao julgamento de Sócrates. Além disso, o artigo aborda a postura crucial de Sócrates após o veredito e considera os argumentos do filósofo tais como foram apresentados na primeira tetralogia.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/os-acusadores-de-socrates.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/os-acusadores-de-socrates.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/os-acusadores-de-socrates.pdf",
+      "categories": [
+        "Direito",
+        "Filosofia",
+        "História"
+      ],
+      "published_at": 1293840000000,
+      "estimated_reading_time_min": 21,
+      "doi": "10.14746/pea.2011.1.10",
+      "udc": "34:1:94",
+      "license": "CC BY 4.0",
+      "journal": "Peitho / Examina Antiqua",
+      "journal_id": "journal_peitho-examina-antiqua",
+      "volume": "1",
+      "volume_id": "vol_peitho-examina-antiqua_1",
+      "issue": "2",
+      "pages": "159–168",
+      "language": "pt-BR",
+      "e_issn": "2082-7539"
+    },
+    {
+      "id": "art_028",
+      "title": "‘Platão Socrático’ – Apologia de Sócrates e Eutífron",
+      "authors": [
+        {
+          "name": "Michael Erler",
+          "affiliation": "Universidade de Würzburgo, Alemanha"
+        }
+      ],
+      "summary": "O presente artigo concentra-se em duas obras da primeira tetralogia platônica a fim de evidenciar e caracterizar de modo geral a dimensão socrática do filosofar de Platão. É sabido que o julgamento e a defesa de Sócrates inspiraram Platão a engajar-se na escrita dialógica, a qual culminou nos célebres logoi Sokratikoi. O trabalho aborda os seguintes tópicos: 1. A filosofia como 'cuidado da alma' na Apologia; 2. 'A vida sem exame não é digna de ser vivida pelo homem' (Ap. 38 a); 3. A filosofia como serviço a Deus no Eutífron; 4. O elenchos socrático; 5. Os logoi Sokratikoi platônicos. Enquanto tais questões são vivamente debatidas na literatura especializada, o artigo faz referências a estudos capitais e à exposição mais ampla da filosofia platônica constante em Erler (2006) e Erler (2007).",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/platao-socratico-apologia-de-socrates-e-eutifron.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/platao-socratico-apologia-de-socrates-e-eutifron.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/platao-socratico-apologia-de-socrates-e-eutifron.pdf",
+      "categories": [
+        "Educação",
+        "Filosofia"
+      ],
+      "published_at": 1293840000000,
+      "estimated_reading_time_min": 17,
+      "doi": "10.14746/pea.2011.1.5",
+      "udc": "37:1",
+      "license": "CC BY 4.0",
+      "journal": "Peitho / Examina Antiqua",
+      "journal_id": "journal_peitho-examina-antiqua",
+      "volume": "1",
+      "volume_id": "vol_peitho-examina-antiqua_1",
+      "issue": "2",
+      "pages": "79–92",
+      "language": "pt-BR",
+      "e_issn": "2082-7539"
+    },
+    {
+      "id": "art_029",
+      "title": "Por Que Não Escapar? Sobre a Hosiotes no Críton de Platão",
+      "authors": [
+        {
+          "name": "Joanna Komorowska",
+          "affiliation": "Varsóvia, Polônia"
+        }
+      ],
+      "summary": "Ao discutir os fatores que motivaram a decisão de Sócrates no Críton, o artigo enfatiza o possível significado cultural da escolha empreendida no rescaldo das convulsões políticas do final do século V a.C. Argumenta-se também que, tendo o diálogo platônico sido redigido no período subsequente à renovação da politeia ateniense, ele deve ser compreendido como enraizado tanto na realidade histórica de seu foco narrativo (o julgamento de Sócrates) quanto na realidade contemporânea da Atenas de Platão (a saber, sua estabilidade política dependente do juramento efébico).",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/por-que-nao-escapar-sobre-os-hosiotes-no-criton-de-platao.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/por-que-nao-escapar-sobre-os-hosiotes-no-criton-de-platao.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/por-que-nao-escapar-sobre-os-hosiotes-no-criton-de-platao.pdf",
+      "categories": [
+        "Filosofia",
+        "História",
+        "Política"
+      ],
+      "published_at": 1293840000000,
+      "estimated_reading_time_min": 33,
+      "doi": "10.14746/pea.2011.1.11",
+      "udc": "1:94:32",
+      "license": "CC BY 4.0",
+      "journal": "Peitho / Examina Antiqua",
+      "journal_id": "journal_peitho-examina-antiqua",
+      "volume": "1",
+      "volume_id": "vol_peitho-examina-antiqua_1",
+      "issue": "2",
+      "pages": "169–182",
+      "language": "pt-BR",
+      "e_issn": "2082-7539"
+    },
+    {
+      "id": "art_030",
+      "title": "Um Sócrates que Não Escuta: O Caso Eutífron",
+      "authors": [
+        {
+          "name": "Livio Rossetti",
+          "affiliation": "Universidade de Perúgia, Itália"
+        }
+      ],
+      "summary": "Walter Kohan observou recentemente que Sócrates não parece particularmente interessado nas opiniões de seus interlocutores. Consequentemente, o filósofo não está verdadeiramente engajado em uma relação paritética com eles, mas antes empenha-se na tarefa de aniquilar suas ideias. Diante desse quadro, a imagem de Sócrates como paladino do diálogo começa a vacilar. Embora o presente artigo tenha por objetivo discutir tais afirmações, uma série de questões precisa ser levada em conta. Em primeiro lugar, o diálogo socrático começa, com efeito, de modo caracteristicamente simétrico, mas torna-se cada vez mais assimétrico à medida que o elenchos passa a atuar. Isso se deve ao fato de o elenchos colocar os interlocutores na defensiva, ao passo que Sócrates pode atacar livremente. Posto isso, as teses de Kohan afiguram-se justificadas e esclarecedoras, mas não devem ser tidas como conclusivas, uma vez que não se deve esquecer nem subestimar quão inovador foi substituir discursos monológicos por diálogos individuais diretos que ofereciam a oportunidade de engajamento em conversações imprevisíveis.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/um-socrate-que-nao-escuta-o-caso-eutifron.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/um-socrate-que-nao-escuta-o-caso-eutifron.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/um-socrate-que-nao-escuta-o-caso-eutifron.pdf",
+      "categories": [
+        "Educação",
+        "Filosofia"
+      ],
+      "published_at": 1293840000000,
+      "estimated_reading_time_min": 25,
+      "doi": "10.14746/pea.2011.1.2",
+      "udc": "37:1",
+      "license": "CC BY 4.0",
+      "journal": "Peitho / Examina Antiqua",
+      "journal_id": "journal_peitho-examina-antiqua",
+      "volume": "1",
+      "volume_id": "vol_peitho-examina-antiqua_1",
+      "issue": "2",
+      "pages": "25–38",
+      "language": "pt-BR",
+      "e_issn": "2082-7539"
+    },
+    {
       "id": "art_015",
-      "title": "DA UNIVERSIDADE QUINHENTISTA DE PARIS PARA O MUNDO: CURRÍCULO E MÉTODO EM PETRUS RAMUS",
+      "title": "Da Universidade Quinhentista de Paris para o Mundo: Currículo e Método em Petrus Ramus",
       "authors": [
         {
           "name": "Jorge Ramos do Ó",
@@ -465,7 +872,7 @@
     },
     {
       "id": "art_016",
-      "title": "Universidades: surgimento, nacionalização e indicadores de internacionalização",
+      "title": "Universidades: Surgimento, Nacionalização e Indicadores de Internacionalização",
       "authors": [
         {
           "name": "Iracema Campos Cusati",
@@ -520,8 +927,104 @@
       "e_issn": "1982-5587"
     },
     {
+      "id": "art_031",
+      "title": "A Dignidade Peculiar do Homem — A Excelência de Sua Alma Racional",
+      "authors": [
+        {
+          "name": "Plínio Sousa",
+          "orcid": "0009-0000-1772-1849",
+          "email": "reitoria@irse.com.br",
+          "affiliation": "Instituto Reformado Santo Evangelho (IRSE)"
+        }
+      ],
+      "summary": "Este artigo examina a dignidade peculiar do homem à luz da doutrina cristã da imago Dei, sustentando que a excelência da natureza humana não reside em suas disposições corpóreas, mas na posse da alma racional. Mediante abordagem teológico-filosófica fundamentada nas Escrituras divinas, na tradição agostiniana e na metafísica aristotélico-tomista, demonstra-se que, embora o homem seja inferior a diversos animais em determinadas potências vegetativas e sensitivas, distingue-se absolutamente pela faculdade intelectiva, capaz de apreender universais, conhecer causas, deliberar racionalmente e ordenar meios aos fins. A exposição desenvolve a hierarquia das potências da alma, enfatizando a singularidade da alma racional como princípio formal da racionalidade humana e expressão própria da imagem de Deus. Em seguida, evidencia-se que as artes, as ciências, a cultura, a técnica, a linguagem, a organização política e as demais realizações humanas procedem da atividade do intelecto, e não do instinto, revelando a capacidade exclusivamente humana de conhecer a verdade, transformar a natureza e transmitir o conhecimento entre as gerações. Conclui-se que a superioridade humana não consiste na intensidade das potências sensíveis, mas na excelência da razão, por meio da qual o homem exerce domínio sobre a criação, manifesta sua vocação cultural e reflete, de modo singular entre as criaturas terrenas, a imagem do seu Criador.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/revista-viae-veritatis/vol-1/a-dignidade-peculiar-do-homem-a-excelencia-de-sua-alma-racional.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-dignidade-peculiar-do-homem-a-excelencia-de-sua-alma-racional.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/a-dignidade-peculiar-do-homem-a-excelencia-de-sua-alma-racional.pdf",
+      "categories": [
+        "Antropologia",
+        "Filosofia",
+        "Teologia"
+      ],
+      "published_at": 1795132800000,
+      "estimated_reading_time_min": 26,
+      "doi": "10.5281/zenodo.22036528",
+      "udc": "39:1:2",
+      "license": "ViVe 1.0 — REVISTA VIAE VERITATIS",
+      "journal": "Revista Viae Veritatis (ViVe)",
+      "journal_id": "journal_revista-viae-veritatis",
+      "volume": "1",
+      "volume_id": "vol_revista-viae-veritatis_1",
+      "issue": "1",
+      "pages": "1–12",
+      "e_issn": "3086-7746"
+    },
+    {
+      "id": "art_032",
+      "title": "Da Afecção à Intelecção",
+      "authors": [
+        {
+          "name": "Plínio Sousa",
+          "orcid": "0009-0000-1772-1849",
+          "email": "reitoria@irse.com.br",
+          "affiliation": "Instituto Reformado Santo Evangelho (IRSE)"
+        }
+      ],
+      "summary": "O artigo sustenta que o sentimento, embora constitua uma dimensão legítima da experiência humana, não pode ser elevado à condição de critério do conhecimento nem da verdade. A partir da tradição aristotélico-tomista, demonstra-se que a experiência afetiva manifesta primariamente os estados interiores do sujeito, ao passo que o conhecimento exige a apreensão intelectiva da realidade mediante a abstração da forma inteligível. Para evidenciar essa distinção, contrapõe-se a experiência emocional de quem contempla o mar pela primeira vez ao conhecimento objetivo adquirido pelo marinheiro ao longo de sua convivência com o oceano. Em seguida, analisa-se o processo cognoscitivo descrito por Aristóteles e desenvolvido pela Escolástica, ressaltando o papel da sensação, da memória, da experiência, da imaginação e do intelecto na constituição do conhecimento. Critica-se, ainda, o sentimentalismo contemporâneo, entendido como a absolutização das afecções e sua indevida identificação com a intelecção. Por fim, argumenta-se que tanto o conhecimento quanto o amor autênticos exigem a superação da subjetividade afetiva e a conformidade da inteligência à realidade objetiva do ser, fundamento indispensável da investigação filosófica, da vida moral e da contemplação da verdade.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/revista-viae-veritatis/vol-1/da-afeccao-a-inteleccao-do-obstaculo-dos-sentimentos-a-investigacao-filosofica.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/da-afeccao-a-inteleccao-do-obstaculo-dos-sentimentos-a-investigacao-filosofica.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/da-afeccao-a-inteleccao-do-obstaculo-dos-sentimentos-a-investigacao-filosofica.pdf",
+      "categories": [
+        "Filosofia"
+      ],
+      "published_at": 1795132800000,
+      "estimated_reading_time_min": 21,
+      "doi": "10.5281/zenodo.21452142",
+      "udc": "1",
+      "license": "ViVe 1.0 — REVISTA VIAE VERITATIS",
+      "journal": "Revista Viae Veritatis (ViVe)",
+      "journal_id": "journal_revista-viae-veritatis",
+      "volume": "1",
+      "volume_id": "vol_revista-viae-veritatis_1",
+      "issue": "1",
+      "pages": "1–9",
+      "e_issn": "3086-7746"
+    },
+    {
+      "id": "art_033",
+      "title": "Da Quádrupla Condição dos Homens",
+      "authors": [
+        {
+          "name": "Plínio Sousa",
+          "orcid": "0009-0000-1772-1849",
+          "email": "reitoria@irse.com.br",
+          "affiliation": "Instituto Reformado Santo Evangelho (IRSE)"
+        }
+      ],
+      "summary": "O artigo examina a quádrupla condição dos homens a partir da distinção entre elevação interior e elevação exterior, estabelecendo como princípio fundamental a necessária ordenação da vida intelectual, moral e ministerial a Deus, fonte e fim de toda verdadeira dignidade. A partir da tradição cristã e de categorias provenientes da Filosofia aristotélico-tomista, distingue-se a excelência interior, fundada na virtude, na sabedoria, na prudência e na reta disposição da alma, da excelência exterior, manifesta na dignidade, nos ofícios, na autoridade e na estima pública. Demonstra-se, assim, que essas duas ordens podem encontrar-se separadas ou unidas, dando origem a quatro condições fundamentais: — os homens interiormente elevados, mas exteriormente ocultos; os exteriormente elevados, mas interiormente desordenados; aqueles nos quais virtude e dignidade legitimamente convergem; e aqueles privados tanto da excelência interior quanto da dignidade exterior. O estudo sustenta ainda que a verdadeira formação intelectual não consiste na mera acumulação de conhecimentos, mas em um processo de recolhimento, disciplina, humildade, contemplação e exercício perseverante, pelo qual a inteligência é ordenada à verdade e a vida intelectual se converte em serviço. Por fim, argumenta-se que a autoridade legítima somente alcança sua forma mais elevada quando a dignidade exterior corresponde à excelência interior, de modo que o ofício se torne expressão da virtude, instrumento de serviço e meio de glorificação de Deus.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/revista-viae-veritatis/vol-1/da-quadrupla-condicao-dos-homens.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/da-quadrupla-condicao-dos-homens.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/da-quadrupla-condicao-dos-homens.pdf",
+      "categories": [
+        "Filosofia",
+        "Teologia"
+      ],
+      "published_at": 1795132800000,
+      "estimated_reading_time_min": 16,
+      "doi": "10.5281/zenodo.22172199",
+      "udc": "1:2",
+      "license": "ViVe 1.0 — REVISTA VIAE VERITATIS",
+      "journal": "Revista Viae Veritatis (ViVe)",
+      "journal_id": "journal_revista-viae-veritatis",
+      "volume": "1",
+      "volume_id": "vol_revista-viae-veritatis_1",
+      "issue": "1",
+      "pages": "1–8",
+      "e_issn": "3086-7746"
+    },
+    {
       "id": "art_017",
-      "title": "O DESTINO ETERNO DOS BEBÊS QUE MORREM PRECOCEMENTE E DAS PESSOAS COM DEFICIÊNCIA INTELECTUAL SEVERA",
+      "title": "O Destino Eterno dos Bebês que Morrem Precocemente e das Pessoas com Deficiência Intelectual Severa",
       "authors": [
         {
           "name": "Plínio Sousa",
@@ -548,6 +1051,70 @@
       "volume_id": "vol_revista-viae-veritatis_1",
       "issue": "1",
       "pages": "1–52",
+      "e_issn": "3086-7746"
+    },
+    {
+      "id": "art_034",
+      "title": "O Uso da Verdade em Autores Diversos e o Dever de Combater o Erro na Própria Comunhão",
+      "authors": [
+        {
+          "name": "Plínio Sousa",
+          "orcid": "0009-0000-1772-1849",
+          "email": "reitoria@irse.com.br",
+          "affiliation": "Instituto Reformado Santo Evangelho (IRSE)"
+        }
+      ],
+      "summary": "O artigo examina a aparente tensão entre reconhecer a verdade em autores de diferentes tradições teológicas e filosóficas e combater rigorosamente o erro doutrinário dentro da própria comunhão. Sustenta-se que não há contradição entre essas atitudes quando se distingue a apropriação material da verdade da aprovação formal de um sistema. Toda verdade procede de Deus e, por isso, pode ser reconhecida onde quer que seja encontrada, sem que isso implique a aceitação dos erros de seu autor. O artigo distingue ainda a iluminação intelectual da graça salvífica e demonstra que o erro dentro da própria comunhão possui especial gravidade pastoral, sobretudo quando se apresenta sob linguagem ortodoxa. Por fim, distingue-se a consulta crítica a autores históricos da promoção pública de mestres contemporâneos, afirmando que a fidelidade à verdade exige tanto discernimento para receber o que é verdadeiro quanto firmeza para rejeitar e combater o erro.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/revista-viae-veritatis/vol-1/o-uso-da-verdade-em-autores-diversos-e-o-dever-de-combater-o-erro-na-propria-comunhao.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/o-uso-da-verdade-em-autores-diversos-e-o-dever-de-combater-o-erro-na-propria-comunhao.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/o-uso-da-verdade-em-autores-diversos-e-o-dever-de-combater-o-erro-na-propria-comunhao.pdf",
+      "categories": [
+        "Filosofia",
+        "Teologia"
+      ],
+      "published_at": 1795132800000,
+      "estimated_reading_time_min": 37,
+      "doi": "10.5281/zenodo.22651317",
+      "udc": "1:2",
+      "license": "ViVe 1.0 — REVISTA VIAE VERITATIS",
+      "journal": "Revista Viae Veritatis (ViVe)",
+      "journal_id": "journal_revista-viae-veritatis",
+      "volume": "1",
+      "volume_id": "vol_revista-viae-veritatis_1",
+      "issue": "1",
+      "pages": "1–17",
+      "e_issn": "3086-7746"
+    },
+    {
+      "id": "art_035",
+      "title": "Soldado Saqueador",
+      "authors": [
+        {
+          "name": "Plínio Sousa",
+          "orcid": "0009-0000-1772-1849",
+          "email": "reitoria@irse.com.br",
+          "affiliation": "Instituto Reformado Santo Evangelho (IRSE)"
+        }
+      ],
+      "summary": "O artigo investiga a ordem própria da vida intelectual, tomando como problema central a desordem do intelecto e seus efeitos sobre a leitura, a interpretação e a aquisição do conhecimento. Sustenta-se que o verdadeiro labor intelectual exige não apenas esforço, mas também método, ordem e reta razão, mediante os quais a multiplicidade dos conteúdos é conduzida à unidade inteligível. A partir de uma estrutura quádrupla aplicada analogicamente à Teologia e à Filosofia, distinguem-se os níveis da religião, Teologia, doutrina e dogma, de um lado, e da atitude filosófica, doutrina, sistema e primeiros princípios da razão, de outro. Examina-se, em seguida, a leitura como ato intelectivo e formativo, ressaltando a necessidade de humildade, disciplina, filologia e assimilação efetiva do conteúdo. Nesse contexto, apresenta-se a figura do “soldado saqueador” como imagem do leitor que recolhe proposições isoladas de obras alheias sem respeitar sua unidade orgânica, apropriando-se exteriormente de conteúdos que não foram interiormente assimilados. Critica-se, assim, a interpretação fragmentária, a projeção subjetiva e a erudição meramente aparente, distinguindo-se a posse formal de informações da verdadeira intelecção. Por fim, argumenta-se que a formação intelectual autêntica requer a conversão progressiva do intelecto à ordem da verdade, de modo que o conhecimento recebido seja efetivamente integrado à estrutura interior do sujeito e se converta em sabedoria, evitando a corrupção hermenêutica e a mera reprodução exterior de fórmulas intelectuais.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/revista-viae-veritatis/vol-1/soldado-saqueador.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/soldado-saqueador.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/soldado-saqueador.pdf",
+      "categories": [
+        "Filosofia",
+        "Teologia"
+      ],
+      "published_at": 1795132800000,
+      "estimated_reading_time_min": 23,
+      "doi": "10.5281/zenodo.22172425",
+      "udc": "1:2",
+      "license": "ViVe 1.0 — REVISTA VIAE VERITATIS",
+      "journal": "Revista Viae Veritatis (ViVe)",
+      "journal_id": "journal_revista-viae-veritatis",
+      "volume": "1",
+      "volume_id": "vol_revista-viae-veritatis_1",
+      "issue": "1",
+      "pages": "1–10",
       "e_issn": "3086-7746"
     }
   ]
