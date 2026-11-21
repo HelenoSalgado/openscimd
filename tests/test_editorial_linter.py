@@ -225,3 +225,63 @@ def test_compare_with_source_detects_truncation_and_missing_notes(tmp_path: Path
 
     full_report = lint_markdown_file(review, source_path=source)
     assert not full_report.is_valid
+
+
+def test_lint_ed016_rejects_ascii_ellipsis_outside_code() -> None:
+    bad_doc = _valid_doc(
+        "## Seção\n\n"
+        "Citação com pontos ASCII... e outra espaçada . . . fora de código.\n\n"
+        "Reticência válida… e omissão de período. … Ainda válido com `...` inline.\n\n"
+        "```text\n"
+        "Exemplo ... e . . . permitidos em bloco de código.\n"
+        "```"
+    )
+    report = lint_markdown_text(bad_doc)
+    ed016 = [issue for issue in report.errors if issue.code == "ED016"]
+    assert len(ed016) == 2
+
+    good_doc = _valid_doc(
+        "## Seção\n\n"
+        "Citação com reticências tipográficas… e final. … Mais código `...`.\n\n"
+        "```text\n"
+        "Bloco com ... permitido.\n"
+        "```"
+    )
+    good_report = lint_markdown_text(good_doc)
+    assert [issue for issue in good_report.errors if issue.code == "ED016"] == []
+
+
+def test_lint_ed017_requires_blank_line_before_lists_and_sublists() -> None:
+    bad_doc = _valid_doc(
+        "## Seção\n\n"
+        "Texto colado:\n"
+        "- item solto.\n\n"
+        "3. Em um número grande de casos:\n"
+        "   - **2** (ver acima).\n"
+        "4. Retorno à lista externa sem linha em branco.\n\n"
+        "> Citação colada:\n"
+        "> - item em citação."
+    )
+    report = lint_markdown_text(bad_doc)
+    ed017 = [issue for issue in report.errors if issue.code == "ED017"]
+    assert len(ed017) == 4
+
+    good_doc = _valid_doc(
+        "## Seção\n\n"
+        "Texto separado:\n\n"
+        "- item um;\n"
+        "- item dois.\n\n"
+        "3. Em um número grande de casos:\n\n"
+        "   - **2** (ver acima).\n"
+        "   - **3** (irmão).\n\n"
+        "4. Retorno com linha em branco.\n\n"
+        "> Citação separada:\n>\n"
+        "> - item um em citação;\n"
+        "> - item dois em citação.\n\n"
+        "```markdown\n"
+        "Texto:\n"
+        "- permitido em código\n"
+        "```"
+    )
+    good_report = lint_markdown_text(good_doc)
+    assert [issue for issue in good_report.errors if issue.code == "ED017"] == []

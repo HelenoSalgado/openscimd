@@ -812,9 +812,9 @@
       "canonical_author": "Wilbur Norman Pickering",
       "doi": null,
       "first_body_sha256": "9b52794a8fd90588b11ec41067b447d57f203df81833460909a88d7e8792ca7a",
-      "last_body_sha256": "ccf8dbe2c49cdb2ac85536312b4c5c01bb000738921a86353c36f8fbe2071f5f",
+      "last_body_sha256": "24e30cb953629b302618d2cf6cd21c9b3a9a595f11f20b066b267eae21615c50",
       "created_at": 1091750400000,
-      "updated_at": 1795204190437,
+      "updated_at": 1795269916842,
       "retired_at": null
     },
     "book_020": {

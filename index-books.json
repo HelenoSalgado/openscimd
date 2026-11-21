@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1795202052906,
+  "last_updated": 1795269917133,
   "books": [
     {
       "id": "book_001",
@@ -394,7 +394,7 @@
       ],
       "udc": "2",
       "published_at": 1091750400000,
-      "estimated_reading_time_min": 662,
+      "estimated_reading_time_min": 661,
       "license": "CC BY 4.0",
       "language": "pt-BR",
       "originalLanguage": "en",

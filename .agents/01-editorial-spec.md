@@ -106,6 +106,12 @@ categories:
   - Use obrigatoriamente **meia-risca (`–`)**, nunca hífen (`-`), em qualquer intervalo numérico de anos, páginas, linhas ou versículos:
   - ✅ `1510–1562`, `pp. 101–112`, `325 b–c`, `Jo 1.1–14`.
   - ❌ `1510-1562`, `pp. 101-112`, `Jo 1.1-14`.
+- **Reticências tipográficas (`…`)**:
+  - Padrão obrigatório: caractere único Unicode **`…` (`U+2026`)**; proibido usar três ou mais pontos ASCII (`...`, `....`, `. . .`) fora de blocos de código, matemática, links ou YAML.
+  - Em omissões após fim de período em citações, use `. …` (ponto final + espaço + `…`), nunca `....` nem `. ...`.
+- **Listas (Compatibilidade com o leitor Leia-me)**:
+  - Toda lista (ordenada ou não ordenada, de nível principal ou **sublista aninhada**) **deve** ser separada por **uma linha em branco** do texto imediatamente acima — inclusive entre um item pai e sua sublista (ex.: `3. Texto:\n\n   - **2** ...`) e ao retornar de uma sublista ao nível externo.
+  - Em sublistas aninhadas sob itens ordenados separados por linha em branco, alinhe a indentação à largura do marcador pai (`3` espaços para `1.`–`9.`, `4` espaços para `10.`–`99.`, `5` espaços para `100.`+) para preservar o aninhamento em CommonMark.
 - **Diálogos e *Disputatio***:
   - Diálogos: interlocutor em Title Case ou sigla canônica seguido de travessão espaçado (`Agostinho — `, `Razão — `, `A. — `, `R. — `).
   - *Disputatio*: objeção em blockquote `> *Objeção...*` seguida de `**Resposta**:`.

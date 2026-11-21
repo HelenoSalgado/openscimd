@@ -11,7 +11,7 @@ categories:
   - Teologia
 ---
 
-## *Introdução*[^1][^ne1][^ne2]
+## *Introdução*[^ne1][^ne2][^1]
 
 Uma vez que este livro será lido por pessoas que representam um amplo espectro de interesses e experiências, começarei com uma breve revisão do problema textual.
 
@@ -29,7 +29,7 @@ A mais visível consequência e prova desse controle pode ser percebida nas trad
 
 Até o ponto em que você possa estar consciente desses fatos, talvez tenha aceito como razoáveis as alegações usualmente feitas no sentido de que a substancial melhora no nosso estoque de materiais disponíveis (manuscritos em grego e outras testemunhas) e no nosso entendimento de que fazer com eles (os princípios da crítica textual) tornaram possível uma aproximação mais acurada do texto original do que aquela que foi alcançada há várias centenas de anos. As declarações encontradas nos prefácios de algumas versões dão ao leitor a impressão de que esta melhora está refletida nas suas traduções [fazendo-as superiores]. Por exemplo, o prefácio da *Revised Standard Version*, página ix, diz:
 
-> O Novo Testamento da Versão do Rei Tiago baseou-se em um texto grego que foi desfigurado por equívocos, contendo os erros acumulados em quatorze séculos do processo manual de copiar manuscritos [isto não é verdadeiro: quase todas as leituras adotadas no TR são antigas]... Possuímos, agora, muito mais manuscritos antigos do Novo Testamento, e estamos muito melhor equipados para procurar recuperar as palavras originais do texto em grego.
+> O Novo Testamento da Versão do Rei Tiago baseou-se em um texto grego que foi desfigurado por equívocos, contendo os erros acumulados em quatorze séculos do processo manual de copiar manuscritos [isto não é verdadeiro: quase todas as leituras adotadas no TR são antigas]… Possuímos, agora, muito mais manuscritos antigos do Novo Testamento, e estamos muito melhor equipados para procurar recuperar as palavras originais do texto em grego.
 
 E o prefácio da *New International Version*, página viii, diz:
 
@@ -47,9 +47,9 @@ Não é surpreendente que estudiosos trabalhando dentro de tal arcabouço digam 
 
 > O objetivo primário do estudo textual do Novo Testamento continua sendo a recuperação daquilo que os seus escritores escreveram. Já temos sugerido que alcançar este objetivo é extremamente próximo de ser impossível. Portanto, temos que nos contentar com aquilo que Reinhold Niebuhr e outros têm chamado, em outros contextos, de uma ‘possibilidade impossível’[^13].
 
-E Kenneth W. Clark, um outro bem conhecido professor titular-catedrático e estudioso do texto neotestamentário, comentando sobre P⁷⁵:
+E Kenneth W. Clark, um outro bem conhecido professor titular-catedrático e estudioso do texto [neotestamentário], comentando sobre P⁷⁵:
 
-> ... o papiro exibe vividamente um estado fluido do texto ao redor do ano 200 d.C. ... Uma tal liberdade no trabalho dos copistas sugere que o texto do evangelho era pouco mais estável do que a tradição oral, e que nós podemos estar perseguindo a miragem fugidia do ‘texto original’[^14].
+> … o papiro exibe vividamente um estado fluido do texto ao redor do ano 200 d.C. … Uma tal liberdade no trabalho dos copistas sugere que o texto do evangelho era pouco mais estável do que a tradição oral, e que nós podemos estar perseguindo a miragem fugidia do ‘texto original’[^14].
 
 Cinquenta anos atrás, Grant tinha dito: “É geralmente reconhecido que o texto original da Bíblia não pode ser recuperado.”[^15]
 
@@ -61,19 +61,13 @@ Em 1974 Eldon Jay Epp, um respeitado estudioso textual contemporâneo, escreveu:
 
 Assim, as RSV (“Revised Standard Version”), NEB (“New English Bible”) e NIV (“New International Version”) são confessadamente baseadas num texto eclético.
 
-Os dois grandes esforços de tradução destes anos [do século XX] — RSV e NEB — cada um escolheu o texto em grego a ser traduzido tomando como base as evidências internas das leituras variantes. O capítulo de F. C. Grant, na brochura que apresenta e explica a RSV, deixou isto claro. Os tradutores, diz ele, seguiram duas regras:
-
-1) Escolher a leitura que melhor se ajusta ao contexto;
-
-2) Escolher a leitura que [melhor] explique a origem das outras leituras.
-
-O Professor C. H. Dodd informou-me que os tradutores britânicos também usaram estes dois princípios — a Probabilidade Intrínseca e a Probabilidade Transcricional, segundo Hort. Um dos tradutores da RSV, enquanto dava palestras ao Clube do Novo Testamento na Universidade de Chicago, respondeu a uma pergunta sobre qual era o texto em grego que ele usava dizendo que isto dependia de onde ele estava trabalhando: ele usava Souter no escritório e Nestle em casa. Um dos tradutores britânicos, ao admitir a desigualdade de qualidade textual da tradução NEB, explicou que a qualidade dependia da habilidade do homem que fez a primeira tradução-esboço do livro.
-
-Tanto nos primeiros dias do cristianismo quanto hoje, os tradutores têm tão frequentemente tratado o texto descuidadamente, que os críticos textuais deveriam estar já endurecidamente precavidos contra isto. Mas muito mais séria é a presença maciça desta mesma dependência das evidências internas das leituras, encontrada nos artigos eruditos sobre crítica textual, e na popularidade das edições do Novo Testamento em grego de tamanho reduzido. Estas últimas, com suas limitadas citações de variantes e de testemunhas, na realidade compelem o usuário a depender das evidências internas das leituras. Os documentos que estes aparatos severamente abreviados citam não podem levar o usuário a se apoiar nas evidências externas dos documentos. Estas edições (“manuais”) usam documentos (para citar Housman) “como os bêbados usam os postes — não para receberem luz nos seus caminhos, mas para dissimularem suas instabilidades.”[^18]
+> Os dois grandes esforços de tradução destes anos [do século XX] — RSV e NEB — cada um escolheu o texto em grego a ser traduzido tomando como base as evidências internas das leituras variantes. O capítulo de F. C. Grant, na brochura que apresenta e explica a RSV, deixou isto claro. Os tradutores, diz ele, seguiram duas regras: 1) Escolher a leitura que melhor se ajusta ao contexto; 2) Escolher a leitura que [melhor] explique a origem das outras leituras. O Professor C. H. Dodd informou-me que os tradutores britânicos também usaram estes dois princípios — a Probabilidade Intrínseca e a Probabilidade Transcricional, segundo Hort. Um dos tradutores da RSV, enquanto dava palestras ao Clube do Novo Testamento na Universidade de Chicago, respondeu a uma pergunta sobre qual era o texto em grego que ele usava dizendo que isto dependia de onde ele estava trabalhando: ele usava Souter no escritório e Nestle em casa. Um dos tradutores britânicos, ao admitir a desigualdade de qualidade textual da tradução NEB, explicou que a qualidade dependia da habilidade do homem que fez a primeira tradução-esboço do livro.
+>
+> Tanto nos primeiros dias do cristianismo quanto hoje, os tradutores têm tão frequentemente tratado o texto descuidadamente, que os críticos textuais deveriam estar já endurecidamente precavidos contra isto. Mas muito mais séria é a presença maciça desta mesma dependência das evidências internas das leituras, encontrada nos artigos eruditos sobre crítica textual, e na popularidade das edições do Novo Testamento em grego de tamanho reduzido. Estas últimas, com suas limitadas citações de variantes e de testemunhas, na realidade compelem o usuário a depender das evidências internas das leituras. Os documentos que estes aparatos severamente abreviados citam não podem levar o usuário a se apoiar nas evidências externas dos documentos. Estas edições (“manuais”) usam documentos (para citar Housman) “como os bêbados usam os postes — não para receberem luz nos seus caminhos, mas para dissimularem suas instabilidades.”[^18]
 
 A declaração no prefácio da NIV já foi notada: “O texto grego usado no trabalho de tradução foi um texto eclético.”
 
-A Introdução ao texto grego publicado pela “United Bible Societies”, páginas x-xi (1966), diz:
+A Introdução ao texto grego publicado pela “United Bible Societies”, páginas x–xi (1966), diz:
 
 > Por meio das letras A, B, C, e D, colocadas entre colchetes { } no início de cada conjunto de variantes textuais, a Comissão tem procurado indicar o grau de certeza relativo das leituras adotadas como texto, ao qual chegou com base na consideração de evidências tanto internas quanto externas. A letra A significa que o texto é virtualmente certo, enquanto B indica que há um certo grau de dúvida quanto a ele. A letra C quer dizer que há um considerável grau de dúvida se o texto ou o aparato contém a melhor leitura, enquanto D mostra que há um grau muito elevado de dúvida concernente à leitura selecionada para o texto.
 
@@ -90,7 +84,7 @@ E. C. Colwell[^20] elucida:
 > 1) prefere-se a leitura que melhor se ajuste ao contexto; e
 > 2) prefere-se a leitura que melhor explique a origem de todas as outras.
 >
-> Estas duas regras são nada menos que fórmulas concentradas de tudo que o crítico textual tem que saber e usar na solução de seu problema. A primeira regra, sobre escolher o que [melhor] se ajusta ao contexto, exorta o estudante a conhecer o documento (com que está trabalhando) tão completamente que as expressões idiomáticas dele serão também as suas, as ideias dele serão tão bem conhecidas quanto um cômodo familiar. A segunda regra, sobre escolher o que poderia ter causado as outras leituras, requer que o estudante saiba tudo da história do cristianismo que poderia levar à criação de uma leitura variante. Isto envolve conhecimento de instituições, doutrinas, e eventos. Este é um conhecimento de forças e movimentos complicados e frequentemente conflitantes[^21].
+> Estas duas regras são nada menos que fórmulas concentradas de tudo que o crítico textual tem que saber e usar na solução de seu problema. A primeira regra, sobre escolher o que [melhor] se ajusta ao contexto, exorta o estudante a conhecer o documento (com que está trabalhando) tão completamente que as expressões idiomáticas dele serão também as suas, as ideias dele serão tão bem conhecidas quanto um cômodo familiar. A segunda regra, sobre escolher o que poderia ter causado as outras leituras, requer que o estudante saiba tudo da história do cristianismo que poderia levar à criação de uma leitura variante. Isto envolve conhecimento de instituições, doutrinas, e eventos. … Este é um conhecimento de forças e movimentos complicados e frequentemente conflitantes[^21].
 
 (Que pessoa vivente realmente possui estas qualificações? E como podem tais regras ser aplicadas, quando nem a identidade nem as circunstâncias do originador de uma dada variante são conhecidas?)
 
@@ -100,7 +94,7 @@ Mais recentemente, Colwell parece estar menos encantado com o método:
 
 J. K. Elliott, um total ecletista como Kilpatrick, diz das probabilidades transcricionais:
 
-> Ao usar critérios tais como os acima, o crítico pode chegar a uma conclusão, na discussão das variantes textuais, e estar habilitado a dizer qual variante é a leitura original. No entanto, é legítimo perguntar: pode uma leitura ser aceita como genuína se é atestada por apenas um ms.? Não há nenhuma razão pela qual uma leitura original não deva ter sido preservada em apenas um ms., mas obviamente uma leitura pode ser aceita com maior confiança quando ela tem sustentação mais forte. ...
+> Ao usar critérios tais como os acima, o crítico pode chegar a uma conclusão, na discussão das variantes textuais, e estar habilitado a dizer qual variante é a leitura original. No entanto, é legítimo perguntar: pode uma leitura ser aceita como genuína se é atestada por apenas um ms.? Não há nenhuma razão pela qual uma leitura original não deva ter sido preservada em apenas um ms., mas obviamente uma leitura pode ser aceita com maior confiança quando ela tem sustentação mais forte. …
 >
 > Até mesmo Aland, com suas reservas com respeito ao ecletismo, diz: ‘Teoricamente, as leituras originais podem estar escondidas em um único ms., assim erguendo-se sozinho contra o resto da tradição,’ e Tasker tem uma observação similar: ‘Tem que ser deixada aberta a possibilidade de que, em alguns casos, a verdadeira leitura possa ter sido preservada e apenas umas poucas testemunhas ou mesmo em uma única testemunha relativamente recente’[^23].
 
@@ -130,9 +124,9 @@ Como A. F. J. Klijn[^31] diz: “Este método chega a resultados tão variados q
 
 Ecletismo é um rebento que cresceu a partir da teoria de crítica textual de Westcott e Hort (doravante, W-H). Epp a sintetiza de forma útil, para nossos propósitos imediatos:
 
-> ... o agrupamento de manuscritos levou à separação dos manuscritos antigos (que são relativamente poucos) da massa dos mais recentes, e eventualmente o processo alcançou seu clímax de desenvolvimento e seu enunciado clássico na obra de Westcott e Hort (em 1881–1882), e particularmente na clara e firme visão deles (realmente, de Hort) sobre a história do texto do NT nos seus primeiros séculos. Esta visão clara foi formada a partir de Hort ter separado os manuscritos em essencialmente três (embora ele dissesse quatro) grupos textuais básicos, chamados de tipos-texto. Baseados principalmente em evidências de manuscritos da metade do 4º século em diante, e em evidências das antigas versões e Pais da Igreja, dois destes tipos-texto, chamados Neutro e Ocidental, foram considerados textos que competiam desde cerca da metade do 2º século, enquanto o terceiro tipo, agora denominado Bizantino, foi um texto eclesiástico posterior, conflado[^33] e polido. ... Isto deixou essencialmente dois tipos-texto básicos competindo no mais antigo período rastreável da transmissão textual, o Ocidental e o Neutro, mas esta reconstrução histórica não pôde ser levada mais adiante, de modo a revelar — em bases históricas — qual dos dois era mais aproximado de (e assim mais provável de representar) o texto original do NT[^34].
+> … o agrupamento de manuscritos levou à separação dos manuscritos antigos (que são relativamente poucos) da massa dos mais recentes, e eventualmente o processo alcançou seu clímax de desenvolvimento e seu enunciado clássico na obra de Westcott e Hort (em 1881–1882), e particularmente na clara e firme visão deles (realmente, de Hort) sobre a história do texto do NT nos seus primeiros séculos. Esta visão clara foi formada a partir de Hort ter separado os manuscritos em essencialmente três (embora ele dissesse quatro) grupos textuais básicos, chamados de tipos-texto. Baseados principalmente em evidências de manuscritos da metade do 4º século em diante, e em evidências das antigas versões e Pais da Igreja, dois destes tipos-texto, chamados Neutro e Ocidental, foram considerados textos que competiam desde cerca da metade do 2º século, enquanto o terceiro tipo, agora denominado Bizantino, foi um texto eclesiástico posterior, conflado[^33] e polido. … Isto deixou essencialmente dois tipos-texto básicos competindo no mais antigo período rastreável da transmissão textual, o Ocidental e o Neutro, mas esta reconstrução histórica não pôde ser levada mais adiante, de modo a revelar — em bases históricas — qual dos dois era mais aproximado de (e assim mais provável de representar) o texto original do NT[^34].
 >
-> ... a pergunta que confrontou Westcott-Hort permanece para nós: É o texto original algo mais próximo do tipo Neutro ou do tipo Ocidental? ... Hort resolveu o problema, não com base na história do texto, e sim em termos da presumida qualidade interna dos textos e fundado em julgamentos em grande parte subjetivos daquela qualidade[^35].
+> … a pergunta que confrontou Westcott-Hort permanece para nós: É o texto original algo mais próximo do tipo Neutro ou do tipo Ocidental? … Hort resolveu o problema, não com base na história do texto, e sim em termos da presumida qualidade interna dos textos e fundado em julgamentos em grande parte subjetivos daquela qualidade[^35].
 
 Hort, seguindo o “tinir de genuinidade”, preferiu as leituras do tipo-texto “Neutro” (hoje chamado Alexandrino) e especialmente aquelas do Códice B, enquanto alguns estudiosos subsequentes têm preferido as leituras do tipo-texto “Ocidental” e do Códice D, na mesma base. Embora Hort alegasse estar seguindo evidências externas — e ele de fato seguiu seu tipo “Neutro”, em geral — sua escolha prévia daquele tipo-texto foi baseada em considerações internas (subjetivas)[^36]. Apesar disto, a impressão geral foi dada de que a teoria de W-H se baseava em evidências externas (isto é, históricas e de manuscritos).
 
@@ -150,11 +144,11 @@ Qual o porquê disto? Epp responde:
 
 > Uma resposta para o fato que nossos textos críticos populares ainda são tão próximos daquele de Westcott-Hort poderia ser que o tipo de texto a que eles chegaram, e que é tão largamente apoiado pela crítica subsequente, é de fato e sem questionamento o melhor texto do NT a que podemos chegar; todavia, todo crítico textual sabe que esta similaridade de textos indica, ao contrário, que nós pouco temos progredido em teoria textual depois de Westcott-Hort; que simplesmente não sabemos como fazer uma determinação definitiva sobre qual o melhor texto é; que não temos um quadro claro da transmissão e alteração do texto nos primeiros séculos; e, consequentemente, que é largamente por falta [de existência/ aceitação de alternativas] que o tipo de texto de Westcott-Hort tem mantido sua posição dominante.
 
-Gunther Zuntz reforça este ponto de um modo ligeiramente diferente quando diz que ‘a concordância entre nossas edições modernas não significa que temos recuperado o texto original. Ela se deve ao simples fato que seus redatores seguem um segmento estreito da evidência, a saber, os Antigos Unciais não-Ocidentais.’[^43]
+> Gunther Zuntz reforça este ponto de um modo ligeiramente diferente quando diz que ‘a concordância entre nossas edições modernas não significa que temos recuperado o texto original. Ela se deve ao simples fato que seus redatores … seguem um segmento estreito da evidência, a saber, os Antigos Unciais não-Ocidentais.’[^43]
 
 Clark concorda com Zuntz: “Todos [os textos críticos modernos] estão fundamentados sobre a mesma recensão[^44] egípcia e, em geral, refletem as mesmas hipóteses de transmissão.”[^45] Clark também dá um enfoque mais penetrante a um aspecto da resposta de Epp:
 
-> ... o texto de Westcott-Hort tem se tornado, hoje, nosso *textus receptus*. Libertamo-nos de um somente para nos tornarmos escravizados pelo outro... Os grilhões psicológicos de nossos pais, tão recentemente rompidos, têm sido novamente forjados sobre nós, ainda mais fortemente... Até mesmo o especialista textual acha difícil quebrar o hábito de avaliar cada testemunha pela norma deste atual *textus receptus*. Sua mente pode ter rejeitado o termo “Neutro”, de Westcott-Hort, mas seu procedimento técnico ainda reflete a aceitação generalizada do texto. Um problema básico de hoje é o fator técnico e psicológico [resultante do fato] de que o texto de Westcott-Hort tem se tornado nosso *textus receptus*.
+> … o texto de Westcott-Hort tem se tornado, hoje, nosso *textus receptus*. Libertamo-nos de um somente para nos tornarmos escravizados pelo outro… Os grilhões psicológicos de nossos pais, tão recentemente rompidos, têm sido novamente forjados sobre nós, ainda mais fortemente… Até mesmo o especialista textual acha difícil quebrar o hábito de avaliar cada testemunha pela norma deste atual *textus receptus*. Sua mente pode ter rejeitado o termo “Neutro”, de Westcott-Hort, mas seu procedimento técnico ainda reflete a aceitação generalizada do texto. Um problema básico de hoje é o fator técnico e psicológico [resultante do fato] de que o texto de Westcott-Hort tem se tornado nosso *textus receptus*.
 >
 > Psicologicamente é agora difícil abordar o problema textual com uma mente independente e livre. Não importa quão grande tenha sido o progresso alcançado com o texto de Westcott-Hort: progresso subsequente, que tanto desejamos, somente poderá ser obtido quando nossas cadeias psicológicas forem quebradas. Aqui repousa o principal problema de hoje com o texto crítico do Novo Testamento[^46].
 
@@ -170,9 +164,9 @@ Por isso me volto agora para uma discussão daquela teoria.
 
 ### *Introdução*
 
-Embora Brooke Foss Westcott se identificasse com o projeto e os resultados, é geralmente entendido que foi principalmente Fenton John Anthony Hort[^51] quem desenvolveu a teoria e compôs a *Introdução* da obra deles (em dois volumes)[^52]. Na discussão que segue considero a teoria de WH como sendo criação de Hort.
+Embora Brooke Foss Westcott se identificasse com o projeto e os resultados, é geralmente entendido que foi principalmente Fenton John Anthony Hort[^51] quem desenvolveu a teoria e compôs a *Introdução* da obra deles (em dois volumes)[^52]. Na discussão que segue considero a teoria de W-H como sendo criação de Hort.
 
-Com a idade de 23 anos, ao final de 1851, Hort escreveu a um amigo: “Eu não tinha nenhuma ideia, até as últimas poucas semanas, da importância de textos, tendo lido tão pouco o Testamento Grego, e vinha me arrastando com o iníquo *Textus Receptus*... Pense naquele vil *Textus Receptus*, se apoiando inteiramente em MSS recentes; é uma bênção que haja MSS tão antigos.”[^53]
+Com a idade de 23 anos, ao final de 1851, Hort escreveu a um amigo: “Eu não tinha nenhuma ideia, até as últimas poucas semanas, da importância de textos, tendo lido tão pouco o Testamento Grego, e vinha me arrastando com o iníquo *Textus Receptus*… Pense naquele vil *Textus Receptus*, se apoiando inteiramente em MSS recentes; é uma bênção que haja MSS tão antigos.”[^53]
 
 Pouco mais que um ano depois, “o plano de uma revisão conjunta [com Westcott] do texto do Testamento Grego foi acordado definitivamente pela primeira vez.”[^54] E dentro daquele ano (1853) Hort escreveu a um amigo dizendo que esperava ter o novo texto impresso “em pouco mais que um ano”[^55]. Que isto, na realidade, lhe tomou vinte e oito anos não esconde [nem atenua] a circunstância que, embora desinformado, como ele mesmo admitiu, Hort concebeu uma animosidade pessoal para com o *Textus Receptus*[^56], e somente porque ele estava inteiramente baseado, assim Hort pensava, em manuscritos recentes. Torna-se visível que Hort não chegou a sua teoria através de intercurso imparcial e não preconceituoso com os fatos. Ao contrário, ele deliberadamente se lançou à construção de uma teoria que iria justificar sua animosidade preconcebida para com o Texto Recebido.
 
@@ -192,17 +186,17 @@ Uma tal posição permitiu a Hort trazer para dentro da crítica textual do Novo
 
 Aqui está a definição clássica de Hort, para o método genealógico:
 
-> O acurado método de Genealogia consiste... na recuperação mais ou menos completa dos textos de ancestrais sucessivos, pela análise e comparação dos textos variantes dos seus descendentes respectivos, cada texto ancestral assim recuperado sendo por sua vez usado, em conjunção com outros textos similares, para a recuperação do texto de um ancestral comum e ainda mais antigo[^62].
+> O acurado método de Genealogia consiste… na recuperação mais ou menos completa dos textos de ancestrais sucessivos, pela análise e comparação dos textos variantes dos seus descendentes respectivos, cada texto ancestral assim recuperado sendo por sua vez usado, em conjunção com outros textos similares, para a recuperação do texto de um ancestral comum e ainda mais antigo[^62].
 
 Colwell diz do uso que Hort fez deste método:
 
-> Como justificativa de terem rejeitado a maioria [dos MSS], Westcott e Hort acharam que o potencial do método genealógico era inestimável. Suponha que há apenas dez cópias de um documento e que nove delas são todas elas copiadas da outra; então a maioria pode ser rejeitada com segurança. Ou suponha que as nove são copiadas de um manuscrito perdido e que este manuscrito perdido e o outro [o décimo] foram ambos copiados do original; então o voto da maioria não deveria sobrepujar aquele da minoria. Estes são os argumentos com os quais W. e H. abriram sua discussão do método genealógico... Eles mostraram claramente que uma maioria de manuscritos não é necessariamente para ser preferido como correto. É esta possibilidade *a priori* que Westcott e Hort usaram para demolir o argumento baseado na superioridade numérica [defendido] pelos aderentes do *Textus Receptus*[^63].
+> Como justificativa de terem rejeitado a maioria [dos MSS], Westcott e Hort acharam que o potencial do método genealógico era inestimável. Suponha que há apenas dez cópias de um documento e que nove delas são todas elas copiadas da outra; então a maioria pode ser rejeitada com segurança. Ou suponha que as nove são copiadas de um manuscrito perdido e que este manuscrito perdido e o outro [o décimo] foram ambos copiados do original; então o voto da maioria não deveria sobrepujar aquele da minoria. Estes são os argumentos com os quais W. e H. abriram sua discussão do método genealógico… Eles mostraram claramente que uma maioria de manuscritos não é necessariamente para ser preferido como correto. É esta possibilidade *a priori* que Westcott e Hort usaram para demolir o argumento baseado na superioridade numérica [defendido] pelos aderentes do *Textus Receptus*[^63].
 
 É claro que a ideia de genealogia é crucial para a teoria e propósito de Hort. Ele achou que o método genealógico lhe habilitava a reduzir a massa de testemunho de manuscritos a quatro vozes — “Neutra”, “Alexandrina”, “Ocidental”, e “Síria”.
 
 ### *Tipos-de-Texto e Recensões*
 
-> Para sumariar o que tem sido dito dos resultados da evidência genealógica propriamente dita, como afetando o texto do Novo Testamento, consideramos as seguintes proposições como absolutamente certas: (I) Os grandes textos antigos realmente existiram como os descrevemos nas Seções II e III... (III) Os documentos existentes [conhecidamente] não contêm nenhuma leitura (a não ser que as não-interpolações peculiares do texto “Ocidental”, notadas acima, sejam contadas como exceções), que sugira a existência de importantes eventos textuais a nós desconhecidos, um conhecimento dos quais poderia alterar materialmente a interpretação das evidências tal qual determinada pela história acima[^64].
+> Para sumariar o que tem sido dito dos resultados da evidência genealógica propriamente dita, como afetando o texto do Novo Testamento, consideramos as seguintes proposições como absolutamente certas: (I) Os grandes textos antigos realmente existiram como os descrevemos nas Seções II e III… (III) Os documentos existentes [conhecidamente] não contêm nenhuma leitura (a não ser que as não-interpolações peculiares do texto “Ocidental”, notadas acima, sejam contadas como exceções), que sugira a existência de importantes eventos textuais a nós desconhecidos, um conhecimento dos quais poderia alterar materialmente a interpretação das evidências tal qual determinada pela história acima[^64].
 
 Os “grandes textos antigos” são os quatro supra mencionados. Embora os “Neutro” e “Alexandrino” de Hort sejam agora geralmente classificados como um só tipo, chamado “Alexandrino”, e o “Sírio” de Hort seja agora usualmente chamado “Bizantino”, e a literatura se refira a um tipo-de-texto adicional, “Cesariano”, a noção de pelo menos três tipos-de-texto ou recensões domina a disciplina até os dias de hoje. Nisto está um outro elemento fundamental da teoria de Hort.
 
@@ -232,7 +226,7 @@ Em outro local, ele considerou que Crisóstomo (que morreu em 407) foi o primeir
 
 A importância deste argumento para a teoria de Hort foi reconhecida por Kenyon:
 
-> A alegação de Hort, que foi a pedra de esquina da sua teoria, foi que leituras características do Texto Recebido nunca são encontradas nas citações dos escritores cristãos anteriores a cerca de 350 d.C. Antes daquela data encontramos leituras caracteristicamente “Neutras” e “Ocidentais”, mas nunca “Sírias”. Este argumento é, de fato, decisivo[^74];
+> A alegação de Hort, que foi a pedra de esquina da sua teoria, foi que leituras características do Texto Recebido nunca são encontradas nas citações dos escritores cristãos anteriores a cerca de 350 d.C. Antes daquela data encontramos leituras caracteristicamente “Neutras” e “Ocidentais”, mas nunca “Sírias”. Este argumento é, de fato, decisivo; …[^74]
 
 Lake, também, o considerou decisivo[^75].
 
@@ -254,7 +248,7 @@ Mesmo após ter demonstrado, assim ele pensou, que o texto “Sírio” fosse ec
 
 “O texto Sírio”, disse Hort, “tem, de fato, que ser o resultado de uma ‘recensão’ no sentido próprio da palavra, um tentativa de criticismo, deliberadamente realizado por redatores e não meramente por escribas.”[^79]
 
-> Uma Revisão autoritativa em Antioquia... foi ela própria submetida a uma segunda Revisão autoritativa que alcançou mais completamente os propósitos da primeira. Em que data entre 250 e 350 d.C. o primeiro processo ocorreu, é impossível se dizer com confiança. O processo final foi aparentemente completado em 350 d.C. ou ao redor disto[^80].
+> Uma Revisão autoritativa em Antioquia… foi ela própria submetida a uma segunda Revisão autoritativa que alcançou mais completamente os propósitos da primeira. Em que data entre 250 e 350 d.C. o primeiro processo ocorreu, é impossível se dizer com confiança. O processo final foi aparentemente completado em 350 d.C. ou ao redor disto[^80].
 
 Hort tentativamente sugeriu Luciano (que morreu em 311) como, talvez, o líder no movimento, e alguns estudiosos subsequentes se tornaram dogmáticos nesta tese.
 
@@ -262,7 +256,7 @@ O assunto da versão síria Peshitta é frequentemente tratado em conexão com o
 
 Ambas ideias têm tido uma ampla aceitação. A declaração de H. C. Thiessen é típica, tanto em conteúdo como em dogmatismo:
 
-> Esta [Peshitta] foi previamente considerada como a mais antiga das versões sírias; mas Burkitt tem mostrado que ela é na realidade uma revisão da Antiga Siríaca, feita por Rábula, bispo de Edessa, ao redor do ano 425. Esta visão é agora mantida por praticamente todos estudiosos das versões Sírias... O texto [base] da Peshitta é agora identificado como o texto Bizantino, que remonta, com certeza quase que total, à revisão feita por Luciano de Antioquia ao redor de 300 d.C.[^82]
+> Esta [Peshitta] foi previamente considerada como a mais antiga das versões sírias; mas Burkitt tem mostrado que ela é na realidade uma revisão da Antiga Siríaca, feita por Rábula, bispo de Edessa, ao redor do ano 425. Esta visão é agora mantida por praticamente todos estudiosos das versões Sírias… O texto [base] da Peshitta é agora identificado como o texto Bizantino, que remonta, com certeza quase que total, à revisão feita por Luciano de Antioquia ao redor de 300 d.C.[^82]
 
 ### *Sumário e Consequências*
 
@@ -274,10 +268,7 @@ E isto explica a natureza e extensão da divergência comunal das versões moder
 
 Mas a questão permanece: O potencial aparente de melhoria do texto (decorrente do aumento [na disponibilidade] de materiais e de “sabedoria”) tem sido alcançado? Os tradutores da RSV, por exemplo, fizeram melhor uso dos manuscritos e empregaram superiores princípios de crítica textual do que fizeram os tradutores da AV? Bem, os princípios que eles usaram os levaram a adotar o texto de W-H com muito pouca variação, e aquele texto é baseado essencialmente em apenas dois manuscritos, Códices B e ℵ[^85].
 
-Hort declarou: “É nossa crença:
-
-1) que as leituras de ℵB devem ser aceitas como a verdadeira leitura até que forte evidência interna seja encontrada ao contrário; e
-2) que nenhuma leitura de ℵB pode ser rejeitada de forma absoluta, seguramente.”[^86]
+Hort declarou: “É nossa crença: 1) que as leituras de ℵB devem ser aceitas como a verdadeira leitura até que forte evidência interna seja encontrada ao contrário; e 2) que nenhuma leitura de ℵB pode ser rejeitada de forma absoluta, seguramente.”[^86]
 
 Novamente, Hort diz de B e de Aleph: “A mais completa comparação não faz senão aumentar a convicção que a preeminente pureza relativa deles é, da mesma forma, aproximadamente absoluta, uma reprodução verdadeiramente aproximada do texto dos autógrafos.”[^87] Levanta-se a pergunta se a teoria e o texto de W-H teriam jamais visto a luz do dia se o Códice B não mais existisse. Hort se trai enquanto discute genealogia:
 
@@ -297,7 +288,7 @@ Uma vez que o propósito de Hort foi o de livrar-se do texto “Sírio” e que 
 
 Deve o Novo Testamento ser tratado como um outro livro qualquer? Os mesmos procedimentos usados para com as obras de Homero ou Aristóteles serão suficientes? Se tanto Deus como também Satanás estão intensamente interessados no destino do texto do Novo Testamento, a resposta presumível é não. Mas como podemos pôr em prova o fato ou extensão da intervenção sobrenatural? Felizmente temos relatos de testemunhas oculares que nos dão pelo menos uma resposta parcial. Hort afirmou que “não há sinais de falsificação deliberada do texto por motivos doutrinários,” mas os antigos Pais da Igreja discordam disso. Metzger afirma:
 
-> Irineu, Clemente de Alexandria, Tertuliano, Eusébio, e muitos outros Pais da Igreja acusaram os hereges de terem adulterado as Escrituras com a finalidade de prover apoio para seus pontos de vista particulares. Na metade do segundo século, Márcion eliminou das suas cópias do Evangelho segundo Lucas todas as referências feitas à formação judaica de Jesus. A Harmonia dos Evangelhos de Taciano contém várias alterações[^91] textuais que deram apoio ao ponto de vista ascético ou da seita encratita.
+> Irineu, Clemente de Alexandria, Tertuliano, Eusébio, e muitos outros Pais da Igreja acusaram os hereges de terem adulterado as Escrituras com a finalidade de prover apoio para seus pontos de vista particulares. Na metade do segundo século, Márcion eliminou das suas cópias do Evangelho segundo Lucas todas as referências feitas à formação judaica de Jesus. A Harmonia dos Evangelhos de Taciano contém várias alterações textuais que deram apoio ao ponto de vista ascético ou da seita encratita[^91].
 
 Gaio, um Pai ortodoxo que escreveu entre 175 e 200 d.C., cita Asclepíades, Teódoto, Hermófilo e Apolônides como hereges que prepararam cópias adulteradas das Escrituras e que tinham discípulos que multiplicaram cópias dessas fabricações[^92].
 
@@ -325,11 +316,11 @@ Para ilustrar o segundo ponto, a visão de Hort quanto à história textual prim
 
 ![Figura A: A visão de Hort quanto à história textual primitiva](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-a.webp)
 
-Ao passo que a visão sugerida pelos Pais da Igreja pode ser representada pela figura B (as linhas pontilhadas na figura B representam as maquinações introduzidas por diferentes hereges, como os antigos Pais os chamavam):
+Já a visão sugerida pelos Pais da Igreja pode ser representada pela figura B (as linhas pontilhadas na figura B representam as maquinações introduzidas por diferentes hereges, como os antigos Pais os chamavam):
 
 ![Figura B: A visão sugerida pelos Pais da Igreja](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-b.webp)
 
-A Genealogia não pode arbitrar as reivindicações conflitantes apresentadas pela primeira fileira de descendentes na Figura B[^100]. Ademais, nas palavras de Colwell:
+Genealogia não pode arbitrar as reivindicações conflitantes apresentadas pela primeira fileira de descendentes na Figura B[^100]. Ademais, nas palavras de Colwell:
 
 > Este método (genealogia) se baseou em erros em comum como o indício para uma ancestria comum. Estes erros foram alterações feitas sem intenção, que podem ser identificadas objetivamente como erros. Concordância em variantes deste tipo raramente ocorre por coincidência ou por acaso. As cópias do Novo Testamento diferem amplamente das cópias dos clássicos [de literatura antiga] neste ponto. O percentual de variantes devido a erros [não intencionais] nas cópias dos clássicos é grande. Nos manuscritos do Novo Testamento, por outro lado, os estudiosos agora acreditam que a maioria das variantes foram feitas deliberadamente[^101].
 
@@ -337,19 +328,21 @@ A reconstrução de árvores genealógicas é seriamente complicada pela presen�
 
 ### *Genealogia*
 
-Já vimos como Hort definiu a genealogia e o uso que alegou fazer dela. Entretanto, os estudiosos até agora só conseguiram isolar uns poucos pares de “pai e filho” dentre os mais de 5.000 manuscritos[^102]. Como então Hort conseguiu traçar a descendência genealógica dos manuscritos existentes? M. M. Parvis responde: “Westcott e Hort nunca aplicaram o método genealógico aos manuscritos do Novo Testamento.”[^103] Colwell concorda:
+Já vimos como Hort definiu a genealogia e o uso que alegou fazer dela. Entretanto, os estudiosos até agora só conseguiram isolar uns poucos pares de “pai e filho” dentre os mais de 5.000 manuscritos[^102]. Como então Hort conseguiu traçar a descendência genealógica dos manuscritos existentes? M. M. Parvis responde: “Westcott e Hort nunca aplicaram o método genealógico aos manuscritos do Novo Testamento, …”[^103] Colwell concorda:
 
 > Que Westcott e Hort não aplicaram este método aos manuscritos do Novo Testamento é óbvio. Onde estão os diagramas que começam com a maioria dos manuscritos mais recentes e que ascendem às gerações de ancestrais de número cada vez menor até os textos Neutro e Ocidental? A resposta é que não estão em lugar nenhum. Olhe novamente para o primeiro diagrama, e verá que a, b, c, etc. não são manuscritos reais do Novo Testamento, mas são manuscritos hipotéticos. As demonstrações ou ilustrações do método genealógico, como aplicado aos manuscritos do Novo Testamento pelos seguidores de Hort (os “Horticuli”, como eram chamados por Lake) da mesma forma usam manuscritos hipotéticos, e não códices verdadeiros. Note, por exemplo, os diagramas e discussões na obra de crítica textual mais popular de Kenyon, incluindo a edição mais recente. Todos os manuscritos referidos são na realidade manuscritos imaginários, e o último destes diagramas foi impresso sessenta anos depois de Hort[^104].
 
 Como então podia Hort falar de apenas “ambiguidades ocasionais na evidência a favor das relações genealógicas,”[^105] ou dizer —
 
-> Até onde as relações genealógicas forem descobertas com certeza absoluta, os resultados textuais que as seguem também são absolutamente certos, estando diretamente envolvidos nos fatos históricos; e quaisquer oposições aparentes sugeridas contra elas por outros métodos são meras conjecturas contra o que se conhece como fato[^106].
+> Até onde as relações genealógicas forem descobertas com certeza absoluta, os resultados textuais que as seguem também são absolutamente certos, estando diretamente envolvidos nos fatos históricos; e quaisquer suposições aparentes sugeridas contra elas por outros métodos são meras conjecturas contra o que se conhece como fato[^106]
 
 — quando ele não havia demonstrado a existência de sequer uma tal relação, e muito menos com “certeza absoluta”?
 
 Um outro desafio à genealogia é a “mistura”:
 
-> A segunda limitação sobre a aplicação do método genealógico aos manuscritos do Novo Testamento provém da presença quase universal de mistura nestes manuscritos... O diagrama genealógico anterior, tirado da obra de Westcott e Hort, mostra o que acontece *quando não há mistura*. Quando *há* mistura (e Westcott e Hort afirmam que isto é comum, realmente quase universal até certo ponto), então o método genealógico, *quando aplicado aos manuscritos*, é inútil.
+> A segunda limitação sobre a aplicação do método genealógico aos manuscritos do Novo Testamento provém da presença quase universal de mistura nestes manuscritos…
+>
+> O diagrama genealógico anterior, tirado da obra de Westcott e Hort, mostra o que acontece *quando não há mistura*. Quando *há* mistura (e Westcott e Hort afirmam que isto é comum, realmente quase universal até certo ponto), então o método genealógico, *quando aplicado aos manuscritos*, é inútil.
 >
 > *Sem* mistura, uma árvore genealógica é como uma árvore normal com seus galhos, só que colocada de cabeça para baixo: ela se apoia sobre os galhos [os MSS mais recentes] e tem no topo o tronco (o texto original). Partindo da massa de manuscritos mais recentes, quanto mais alto — ou quanto mais no passado — você vai, menos ancestrais encontra!
 >
@@ -357,27 +350,33 @@ Um outro desafio à genealogia é a “mistura”:
 
 Outros estudiosos concordam que o método genealógico nunca foi aplicado ao Novo Testamento, e vão mais adiante afirmando que *não é possível* aplicá-lo. Assim, Zuntz diz que ele é “inaplicável”[^108], Vaganay que é “inútil”[^109], e Aland que “não pode ser aplicado ao Novo Testamento”[^110]. Colwell também declara enfaticamente “que *não pode* ser aplicado assim”[^111]. À luz de tudo isto, o que podemos pensar de Hort quando assevera:
 
-> Estamos persuadidos de que não há qualquer justificativa (nem na probabilidade antecedente, nem na experiência) para ceticismo quanto à possibilidade de se obter uma interpretação genealógica confiável dos fenômenos documentários no Novo Testamento... Qualquer que seja a ambiguidade do total das evidências em determinadas passagens, o rumo geral da crítica futura deve ser moldado pela feliz circunstância de que o quarto século nos proporcionou dois MSS, dos quais até mesmo o menos íntegro deles tem que ter sido de excepcional pureza dentre todos os seus próprios contemporâneos[^112].
+> Estamos persuadidos de que não há qualquer justificativa (nem na probabilidade antecedente, nem na experiência) para ceticismo quanto à possibilidade de se obter uma interpretação genealógica confiável dos fenômenos documentários no Novo Testamento… Qualquer que seja a ambiguidade do total das evidências em determinadas passagens, o rumo geral da crítica futura deve ser moldado pela feliz circunstância de que o quarto século nos proporcionou dois MSS, dos quais até mesmo o menos íntegro deles tem que ter sido de excepcional pureza dentre todos os seus próprios contemporâneos[^112]?
 
 Depois de demolir o método genealógico, Colwell conclui seu artigo dizendo que, “ainda assim o método genealógico de Westcott e Hort aniquilou o Textus Receptus. A demonstração *a priori* é logicamente irrefutável.”[^113] Entretanto, a demonstração *a priori* não pode resistir a uma demonstração *a posteriori* que lhe seja contrária. Colwell mesmo, uns doze anos antes de fazer esta afirmação, reconheceu que “a demonstração *a priori*” a qual ele se referia havia sido refutada:
 
-> O domínio universal e intolerante da Idade Média por apenas um tipo de texto é agora reconhecido como um mito... As complexidades e perplexidades do texto medieval foram impostas à nossa atenção pelo trabalho de dois grandes eruditos: Hermann von Soden e Kirsopp Lake... Esta obra pioneira e inestimável de von Soden enfraqueceu grandemente o dogma do domínio de um texto Sírio homogêneo. Mas a falácia recebeu seu golpe mortal pelas mãos do catedrático Lake. Numa digressão publicada junto com seu estudo sobre o texto Cesareano do Evangelho de Marcos, ele devastou a teoria de que a Idade Média foi regida por uma única recensão que atingiu um alto grau de uniformidade[^114].
+> O domínio universal e intolerante da Idade Média por apenas um tipo de texto é agora reconhecido como um mito…
+>
+> As complexidades e perplexidades do texto medieval foram impostas à nossa atenção pelo trabalho de dois grandes eruditos: Hermann von Soden e Kirsopp Lake…
+>
+> Esta obra pioneira e inestimável de von Soden enfraqueceu grandemente o dogma do domínio de um texto Sírio homogêneo. Mas a falácia recebeu seu golpe mortal pelas mãos do catedrático Lake. Numa digressão publicada junto com seu estudo sobre o texto Cesareano do Evangelho de Marcos, ele devastou a teoria de que a Idade Média foi regida por uma única recensão que atingiu um alto grau de uniformidade[^114].
 
 Em verdade, Hort não produziu qualquer “demonstração” — apenas suposições. Uma vez que o método genealógico não foi aplicado aos MSS do Novo Testamento, não pode ser usado como parte integral de uma teoria da crítica neotestamentária. Se foi o método genealógico de Hort que “aniquilou o Textus Receptus”, então este ainda permanece são e salvo — a arma nunca foi usada. Mas Hort alegou tê-la usado, e a arma era tão temível, e ele falou dos “resultados” com tanta confiança, que ele ganhou a parada.
 
-Desde Westcott e Hort, o método genealógico tem sido o método canônico usado para restaurar o texto original dos livros do Novo Testamento. Este método domina os manuais sobre o assunto. Sir Frederic Kenyon, C. R. Gregory, Alexander Souter, e A. T. Robertson[^115] são alguns entre muitos que declaram a sua excelência.
+> Desde Westcott e Hort, o método genealógico tem sido o método canônico usado para restaurar o texto original dos livros do Novo Testamento. Este método domina os manuais sobre o assunto. Sir Frederic Kenyon, C. R. Gregory, Alexander Souter, e A. T. Robertson são alguns entre muitos que declaram a sua excelência[^115].
 
 A situação é essencialmente a mesma hoje, e a advertência que Colwell fez em 1965 ainda é válida:
 
 > Há muitos anos juntei-me a outros em apontar as limitações do uso que Hort fez da genealogia, e a inaplicabilidade do método genealógico — estritamente definido — à crítica textual do NT. Desde então muitos outros têm concordado com esta crítica, e raramente se tenta traçar árvores genealógicas. Por isso poderíamos supor que a influência da ênfase de Hort no método genealógico não é mais uma ameaça. Mas esta suposição é falsa.
 >
-> A obra brilhante de Hort ainda cativa nossas mentes. Então quando nos confrontamos com um texto cujo apoio é mínimo e muito separado no tempo e no espaço, pensamos primeira e unicamente em relações genealógicas. Hort colocou vendas genealógicas nos nossos olhos…[^116] Os estudiosos, exegetas, e tradutores da atualidade continuam a agir como se o método genealógico não apenas pudesse ser aplicado aos manuscritos do NT, mas [realmente] o tenha sido, e a basear seus trabalhos nos supostos resultados. Mas que dizer desses “resultados”?
+> A obra brilhante de Hort ainda cativa nossas mentes. Então quando nos confrontamos com um texto cujo apoio é mínimo e muito separado no tempo e no espaço, pensamos primeira e unicamente em relações genealógicas. Hort colocou vendas genealógicas nos nossos olhos…[^116]
+
+Os estudiosos, exegetas, e tradutores da atualidade continuam a agir como se o método genealógico não apenas pudesse ser aplicado aos manuscritos do NT, mas [realmente] o tenha sido, e a basear seus trabalhos nos supostos resultados. Mas que dizer desses “resultados”?
 
 ### *Tipos-de-Texto e Recensões*
 
 Embora Hort tenha reivindicado certeza absoluta para os resultados da evidência genealógica conforme os descreveu, fica claro que os “resultados” foram fabricados. Como poderia haver resultados se o método jamais foi aplicado aos MSS? Um contemporâneo de W-H protestou que tais reivindicações só poderiam ser admissíveis se o crítico textual tivesse primeiramente feito um índice de [todas as citações do NT por] cada um dos principais Pais da Igreja e, por um processo laborioso de indução, tivesse reduzido os MSS a famílias[^117].
 
-Ainda assim, os “resultados” de Hort foram aceitos como fato por muitos — George Salmon falou da “atitude servil com a qual a sua [de Hort] história do texto tem sido aceita, e até sua nomenclatura adotada, como se agora a última palavra tivesse sido dita sobre o assunto da crítica do Novo Testamento”[^118].
+Ainda assim, os “resultados” de Hort foram aceitos como fato por muitos — George Salmon falou da “atitude servil com a qual a sua [de Hort] história do texto tem sido aceita, e até sua nomenclatura adotada, como se agora a última palavra tivesse sido dita sobre o assunto da crítica do Novo Testamento…”[^118]
 
 #### *Eruditismo Subsequente*
 
@@ -395,9 +394,13 @@ Depois de cuidadoso estudo de P⁴⁶ Zuntz faz certas observações e conclui:
 
 Klijn duvida “se qualquer agrupamento de manuscritos dá resultados satisfatórios,”[^123] e continua, dizendo:
 
-> Ainda é costume dividir manuscritos nas quatro famílias bem conhecidas: a Alexandrina, a Cesareana, a Ocidental e a Bizantina. Esta divisão clássica não pode mais ser mantida... Se qualquer progresso deve ser esperado na crítica textual, temos que nos livrar da divisão em textos locais. Novos manuscritos não devem ser atribuídos a uma área geográfica limitada mas a seus locais na história do texto[^124].
+> Ainda é costume dividir manuscritos nas quatro famílias bem conhecidas: a Alexandrina, a Cesareana, a Ocidental e a Bizantina.
+>
+> Esta divisão clássica não pode mais ser mantida…
+>
+> Se qualquer progresso deve ser esperado na crítica textual, temos que nos livrar da divisão em textos locais. Novos manuscritos não devem ser atribuídos a uma área geográfica limitada mas a seus locais na história do texto[^124].
 
-Após uma longa discussão do texto “Cesareano”, Metzger diz, a título de sumário, que “tem que ser reconhecido que, presentemente, o texto Cesareano está se desintegrando.”[^125] Duas páginas depois, referindo-se ao impacto de P⁴⁵, ele pergunta: “Houve uma falha fundamental na investigação prévia que tolerou um agrupamento tão errôneo?” Evidentemente houve. Poderia ela ser a mentalidade que insiste em pensar em termos de tipos-de-texto e recensões como sendo entidades reconhecidas e reconhecíveis[^126]? Aqueles poucos homens que têm feito colações extensivas de manuscritos, ou dedicado atenção àquelas feitas por outros, em geral não têm aceito tais agrupamentos errôneos[^127].
+Após uma longa discussão do texto “Cesareano”, Metzger diz, a título de sumário, que “tem que ser reconhecido que, presentemente, o texto Cesareano está se desintegrando.”[^125] Duas páginas depois, referindo-se ao impacto de P⁴⁵, ele pergunta: “Houve uma falha fundamental na investigação prévia que tolerou um agrupamento tão errôneo?” Evidentemente houve. Poderia ela ser a mentalidade que insiste em pensar em termos de tipos-de-texto e recensões como sendo entidades reconhecidas e reconhecíveis[^126]? Aqueles poucos homens que têm feito colações[^nt1] extensivas de manuscritos, ou dedicado atenção àquelas feitas por outros, em geral não têm aceito tais agrupamentos errôneos[^127].
 
 H. C. Hoskier, cujas colações de MSS do NT são insuperadas em qualidade e talvez em quantidade, fez o seguinte comentário após colacionar Códice 604 (hoje 700) e compará-lo com outros MSS:
 
@@ -413,29 +416,31 @@ Colwell observa que o texto de Nestle (25ª edição) nega a existência do text
 
 Quanto ao texto “Alexandrino” de hoje, que parece essencialmente incluir os “Neutro” e “Alexandrino” de Hort, Colwell oferece os resultados de uma pesquisa interessante:
 
-> Depois de um estudo cuidadoso de todas as alegadas testemunhas do Tipo-de-texto Beta no primeiro capítulo de Marcos, seis manuscritos gregos emergiram como testemunhas principais: ℵ B L 33 892 2427. Portanto, os manuscritos Beta mais fracos C ∆ 157 517 579 1241 e 1342 foram postos de lado. Então, com base nas seis testemunhas principais, um texto “médio” ou mediano foi reconstruído incluindo todas as leituras sustentadas pela maioria das testemunhas primárias. Mesmo a partir desta base restrita a quantidade de variação registrada no aparato foi de pasmar. Neste primeiro capítulo, cada uma das seis testemunhas diferiu do tipo-de-texto Beta “médio” como segue: L, dezenove vezes (Westcott e Hort, vinte e uma vezes); Aleph, vinte e seis vezes; 2427, trinta e duas vezes; 33, trinta e três vezes; B, trinta e quatro vezes; e 892, quarenta e uma vezes. Estes resultados mostram convincentemente que qualquer tentativa de reconstruir um arquétipo do tipo-de-texto Beta sobre uma base quantitativa está condenada ao fracasso. O texto assim reconstruído não é reconstruído mas sim construído[^134].
+> Depois de um estudo cuidadoso de todas as alegadas testemunhas do Tipo-de-texto Beta no primeiro capítulo de Marcos, seis manuscritos gregos emergiram como testemunhas principais: ℵ B L 33 892 2427. Portanto, os manuscritos Beta mais fracos C Δ 157 517 579 1241 e 1342 foram postos de lado. Então, com base nas seis testemunhas principais, um texto “médio” ou mediano foi reconstruído incluindo todas as leituras sustentadas pela maioria das testemunhas primárias. Mesmo a partir desta base restrita a quantidade de variação registrada no aparato foi de pasmar. Neste primeiro capítulo, cada uma das seis testemunhas diferiu do tipo-de-texto Beta “médio” como segue: L, dezenove vezes (Westcott e Hort, vinte e uma vezes); Aleph, vinte e seis vezes; 2427, trinta e duas vezes; 33, trinta e três vezes; B, trinta e quatro vezes; e 892, quarenta e uma vezes. Estes resultados mostram convincentemente que qualquer tentativa de reconstruir um arquétipo do tipo-de-texto Beta sobre uma base quantitativa está condenada ao fracasso. O texto assim reconstruído não é reconstruído mas sim construído[^134].
 
 Hoskier, depois de encher 450 páginas com uma detalhada e cuidadosa discussão dos erros do Códice B e outras 400 páginas com as idiossincrasias do Códice ℵ, afirma que, apenas nos Evangelhos, estes dois MSS diferem entre si bem mais que 3000 vezes, número que não inclui erros de menor importância tais como de grafia, nem variantes entre certos sinônimos que poderiam se dever a “mudanças provinciais.”[^135] De fato, com base na sugestão de Colwell de uma concordância de 70% [nos locais onde existe variação] ser exigida para se atribuir dois MSS ao mesmo tipo, Aleph e B não se qualificam. Os textos UBS e Nestle não mais utilizam um símbolo coletivo para o tipo-de-texto “Alexandrino”.
 
 A respeito do texto “Bizantino”, Zuntz diz que “a grande massa de manuscritos Bizantinos desafia todas as tentativas de agrupá-las.”[^136] Clark se expressa de forma parecida:
 
-> A conclusão principal a respeito do texto Bizantino é que ele foi extremamente fluido. Pode se esperar de qualquer manuscrito isolado que mostre um bom número de afinidades inconstantes. Todavia, dentro da variedade e confusão, uns poucos tipos textuais têm sido distinguidos. ... Estes tipos não são proximamente aparentados como as famílias, mas são como a larga Via Láctea incluindo muitos membros dentro de uma afinidade geral[^137].
+> A conclusão principal a respeito do texto Bizantino é que ele foi extremamente fluido. Pode se esperar de qualquer manuscrito isolado que mostre um bom número de afinidades inconstantes. Todavia, dentro da variedade e confusão, uns poucos tipos textuais têm sido distinguidos. … Estes tipos não são proximamente aparentados como as famílias, mas são como a larga Via Láctea incluindo muitos membros dentro de uma afinidade geral[^137].
 
 A declaração enfática de Colwell com o mesmo efeito foi dada acima. O trabalho de Lake a que Colwell se refere foi uma colação de Marcos, capítulo onze, em todos os MSS de Monte Sinai, Patmos, e na Biblioteca dos Patriarcas e coleção do Santo Saba em Jerusalém. Lake, com R. P. Blake e Silva New, verificou que o texto “Bizantino” não era homogêneo, que houve uma ausência de relacionamento estreito entre MSS, mas que houve menos variação “dentro da família” do que seria encontrado em um tratamento similar dos textos “Neutro” ou “Cesareanos”. Nas suas próprias palavras:
 
-> Esta colação cobre três das grandes coleções antigas de MSS; e estas não são conglomerações modernas, ajuntadas de todas as direções. Muitos dos MSS, agora em Sinai, Patmos e Jerusalém, têm que ser cópias escritas nos “scriptoria” destes mosteiros. Esperávamos achar que uma colação cobrindo todos os MSS em cada biblioteca mostraria muitos casos de cópia direta. Mas praticamente não há nenhum tal caso. ... Ademais, a quantidade de genealogia direta que tem sido detectada nos códices existentes é quase negligenciável. Também poucos MSS conhecidos são códices irmãos. O grupo Ferrar e a família 1 são os únicos casos reportados do copiar repetido de um único arquétipo, e assim mesmo há provavelmente dois arquétipos para o grupo Ferrar, ao invés de um. ... Há grupos cognatos — famílias de primos distantes — mas os manuscritos que temos são quase todos filhos órfãos e sem irmãos ou irmãs.
+> Esta colação cobre três das grandes coleções antigas de MSS; e estas não são conglomerações modernas, ajuntadas de todas as direções. Muitos dos MSS, agora em Sinai, Patmos e Jerusalém, têm que ser cópias escritas nos “scriptoria” destes mosteiros. Esperávamos achar que uma colação cobrindo todos os MSS em cada biblioteca mostraria muitos casos de cópia direta. Mas praticamente não há nenhum tal caso. … Ademais, a quantidade de genealogia direta que tem sido detectada nos códices existentes é quase negligenciável. Também poucos MSS conhecidos são códices irmãos. O grupo Ferrar e a família 1 são os únicos casos reportados do copiar repetido de um único arquétipo, e assim mesmo há provavelmente dois arquétipos para o grupo Ferrar, ao invés de um…
+>
+> Há grupos cognatos — famílias de primos distantes — mas os manuscritos que temos são quase todos filhos órfãos e sem irmãos ou irmãs.
 >
 > Levando este fato em consideração juntamente com o resultado negativo de nossa colação de MSS em Sinai, Patmos, e Jerusalém, é difícil resistir à conclusão que os copistas usualmente destruíam seus exemplares quando tinham copiados os livros sagrados[^138].
 
 J. W. Burgon[^139], uma vez que ele próprio tinha colacionado numerosos MSS minúsculos, tinha feito a mesma observação anos antes de Lake:
 
-> Agora, aqueles muitos MSS foram demonstravelmente produzidos em tempos diferentes e em países diferentes. Eles trazem os sinais, em suas muitas centenas, de representarem a área inteira da Igreja, exceto onde versões foram usadas ao invés de cópias no grego original. ... Todavia, das multidões deles que sobrevivem, dificilmente qualquer deles tem sido copiado de qualquer um dos demais. Ao contrário, percebe-se que eles diferem entre si em incontáveis minúcias sem importância; e de vez em quando uma cópia isolada exibe idiossincrasias que são realmente surpreendentes e extraordinárias. Portanto, demonstravelmente não tem havido nenhum conluio — nenhuma adaptação a um padrão arbitrário — nenhuma fraude no atacado. É certo que cada uma delas [as cópias] representa um MS, ou uma linhagem de MSS, mais velho que ela própria, e não é senão razoável supor que ela exerce tal representação com tolerável acurácia[^140].
+> Agora, aqueles muitos MSS foram demonstravelmente produzidos em tempos diferentes e em países diferentes. Eles trazem os sinais, em suas muitas centenas, de representarem a área inteira da Igreja, exceto onde versões foram usadas ao invés de cópias no grego original. … Todavia, das multidões deles que sobrevivem, dificilmente qualquer deles tem sido copiado de qualquer um dos demais. Ao contrário, percebe-se que eles diferem entre si em incontáveis minúcias sem importância; e de vez em quando uma cópia isolada exibe idiossincrasias que são realmente surpreendentes e extraordinárias. Portanto, demonstravelmente não tem havido nenhum conluio — nenhuma adaptação a um padrão arbitrário — nenhuma fraude no atacado. É certo que cada uma delas [as cópias] representa um MS, ou uma linhagem de MSS, mais velho que ela própria, e não é senão razoável supor que ela exerce tal representação com tolerável acurácia[^140].
 
 Kurt Aland[^141] sumaria:
 
-> P⁶⁶ confirmou as observações já feitas em conexão com os papiros Chester Beatty. Com P⁷⁵ terreno novo se nos tem aberto. Antes, todos compartilhávamos a opinião, em concordância com nossos professores e de acordo com a erudição neotestamentária, antes e depois de Westcott e Hort, que em vários locais, durante o quarto século, recensões do texto do NT tinham sido feitas, das quais os principais tipos-de-texto então se desenvolveram. ... Falávamos de recensões e tipos-de-texto, e se isto não era suficiente, referíamo-nos a tipos-de-texto pré-Cesareanos e outros, a textos mistos, e assim por diante.
+> P⁶⁶ confirmou as observações já feitas em conexão com os papiros Chester Beatty. Com P⁷⁵ terreno novo se nos tem aberto. Antes, todos compartilhávamos a opinião, em concordância com nossos professores e de acordo com a erudição neotestamentária, antes e depois de Westcott e Hort, que em vários locais, durante o quarto século, recensões do texto do NT tinham sido feitas, das quais os principais tipos-de-texto então se desenvolveram. … Falávamos de recensões e tipos-de-texto, e se isto não era suficiente, referíamo-nos a tipos-de-texto pré-Cesareanos e outros, a textos mistos, e assim por diante.
 >
-> Eu, também, tenho falado de textos mistos, em conexão com a forma de texto do NT nos séculos segundo e terceiro, mas sempre o fiz com uma consciência culpada. Pois, de acordo com as regras de filologia linguística, é impossível se falar de textos mistos antes que recensões tenham sido feitas (aqueles apenas podem seguir estas), ao passo que, os manuscritos do NT dos séculos segundo e terceiro que têm um “texto misto” claramente existiram antes que recensões fossem feitas. ... O simples fato que todos estes papiros, com suas várias características distintivas, existiram lado a lado, na mesma província eclesiástica, isto é, no Egito onde foram encontrados, é o melhor argumento contra a existência de quaisquer tipos-de-texto, inclusive o Alexandrino e o Antioquino. Ainda vivemos no mundo de Westcott e Hort com nossa concepção de recensões e tipos-de-texto diferentes, embora este conceito tenha perdido sua razão de ser, ou pelo menos ela precise ser nova e convincentemente demonstrada. Pois o aumento da evidência documentária e as áreas de pesquisa inteiramente novas que nos foram abertas pela descoberta dos papiros, significam o fim da concepção de Westcott e Hort[^142].
+> Eu, também, tenho falado de textos mistos, em conexão com a forma de texto do NT nos séculos segundo e terceiro, mas sempre o fiz com uma consciência culpada. Pois, de acordo com as regras de filologia linguística, é impossível se falar de textos mistos antes que recensões tenham sido feitas (aqueles apenas podem seguir estas), ao passo que, os manuscritos do NT dos séculos segundo e terceiro que têm um “texto misto” claramente existiram antes que recensões fossem feitas. … O simples fato que todos estes papiros, com suas várias características distintivas, existiram lado a lado, na mesma província eclesiástica, isto é, no Egito onde foram encontrados, é o melhor argumento contra a existência de quaisquer tipos-de-texto, inclusive o Alexandrino e o Antioquino. Ainda vivemos no mundo de Westcott e Hort com nossa concepção de recensões e tipos-de-texto diferentes, embora este conceito tenha perdido sua razão de ser, ou pelo menos ela precise ser nova e convincentemente demonstrada. Pois o aumento da evidência documentária e as áreas de pesquisa inteiramente novas que nos foram abertas pela descoberta dos papiros, significam o fim da concepção de Westcott e Hort[^142].
 
 (Tenho citado homens tais como Zuntz, Clark e Colwell sobre o texto “Bizantino” para mostrar que os estudiosos modernos estão prontos para rejeitar a noção de uma recensão “Bizantina”, mas a principal lição a ser extraída da variação entre MSS “Bizantinos” é aquela observada por Lake e Burgon — eles são testemunhas órfãs, independentes; pelo menos nas suas gerações. A variação entre dois MSS “Bizantinos” difere tanto em número quanto em severidade daquela entre dois MSS “Ocidentais” ou dois MSS “Alexandrinos” — o número e natureza das discordâncias entre dois MSS “Bizantinos” através de todos os Evangelhos parecerá trivial comparado com o número (acima de 3000) e natureza (muitas sérias) das discordâncias entre Aleph e B, os principais MSS “Alexandrinos”, no mesmo compasso).
 
@@ -451,9 +456,21 @@ Ao discordar de Aland (ver notas 52 e 54), Epp declarou que nosso material exist
 
 Mas ele mesmo tinha acabado de fornecer evidência contrária. Assim, com referência a 103 unidades de variação em Marcos 6–9 (onde P⁴⁵ é sobrevivente), Epp registra que P⁴⁵ mostra uma concordância de 38% com Códice D, 40% com o *Textus Receptus*, 42% com B, 59% com f¹³, e 68% com Códice W[^147]. Como pode Epp dizer que P⁴⁵ é um ancestral “Ocidental” quando ele está mais próximo dos principais representantes de cada um dos outros “tipos-de-texto” do que está de D? Em Marcos 5–16, Epp registra que o Códice W mostra uma concordância de 34% com B, 36% com D, 38% com o *Textus Receptus*, e 40% com ℵ[^148]. A qual “corrente textual” deve W ser atribuído?
 
-Ambos P⁶⁶ e P⁷⁵ têm sido geralmente afirmados pertencer ao “tipo-de-texto Alexandrino.”[^149] Klijn oferece os resultados de uma comparação de ℵ, B, P⁴⁵, P⁶⁶ e P⁷⁵ nas passagens onde todos eles são sobreviventes (Jo 10.7–25, 10.32–11.10, 11.19–33 e 11.43–56). Ele considerou apenas aqueles locais onde ℵ e B discordam *e* onde pelo menos um dos papiros se junta a ℵ ou a B. Ele encontrou oito tais locais *mais* 43 onde todos três papiros se alinham com ℵ ou B. Ele reporta o resultado para os 43 locais como se segue (adicionei números relativos ao *Textus Receptus*, BFBS [British and Foreign Bible Society] 1946): P⁴⁵ concorda com ℵ 19 vezes, com B 24 vezes, com TR 32 vezes; P⁶⁶ concorda com ℵ 14 vezes, com B 29 vezes, com TR 33 vezes; P⁷⁵ concorda com ℵ 9 vezes, com B 33 vezes, com TR 29 vezes; P⁴⁵,⁶⁶,⁷⁵ concordam com ℵ 4 vezes, com B 18 vezes, com TR 20 vezes; P⁴⁵,⁶⁶ concordam com ℵ 7 vezes, com B 3 vezes, com TR 8 vezes; P⁴⁵,⁷⁵ concordam com ℵ 1 vez, com B 2 vezes, com TR 2 vezes; P⁶⁶,⁷⁵[^150] concordam com ℵ 0 vezes, com B 8 vezes, com TR 5 vezes.
+Ambos P⁶⁶ e P⁷⁵ têm sido geralmente afirmados pertencer ao “tipo-de-texto Alexandrino.”[^149] Klijn oferece os resultados de uma comparação de ℵ, B, P⁴⁵, P⁶⁶ e P⁷⁵ nas passagens onde todos eles são sobreviventes (Jo 10.7–25, 10.32–11.10, 11.19–33 e 11.43–56). Ele considerou apenas aqueles locais onde ℵ e B discordam *e* onde pelo menos um dos papiros se junta a ℵ ou a B. Ele encontrou oito tais locais *mais* 43 onde todos três papiros se alinham com ℵ ou B. Ele reporta o resultado para os 43 locais como se segue (adicionei números relativos ao *Textus Receptus*, BFBS [British and Foreign Bible Society] 1946):
 
-Quanto aos outros 8 locais: P⁴⁵ concorda com ℵ 2 vezes, com B 1 vez, com TR 1 vez; P⁶⁶ concorda com ℵ 2 vezes, com B 3 vezes, com TR 5 vezes; P⁷⁵[^151] concorda com ℵ 2 vezes, com B 3 vezes, com TR 4 vezes.
+- P⁴⁵ concorda com ℵ 19 vezes, com B 24 vezes, com TR 32 vezes;
+- P⁶⁶ concorda com ℵ 14 vezes, com B 29 vezes, com TR 33 vezes;
+- P⁷⁵ concorda com ℵ 9 vezes, com B 33 vezes, com TR 29 vezes;
+- P⁴⁵,⁶⁶,⁷⁵ concordam com ℵ 4 vezes, com B 18 vezes, com TR 20 vezes;
+- P⁴⁵,⁶⁶ concordam com ℵ 7 vezes, com B 3 vezes, com TR 8 vezes;
+- P⁴⁵,⁷⁵ concordam com ℵ 1 vez, com B 2 vezes, com TR 2 vezes;
+- P⁶⁶,⁷⁵ concordam com ℵ 0 vezes, com B 8 vezes, com TR 5 vezes[^150].
+
+Quanto aos outros 8 locais:
+
+- P⁴⁵ concorda com ℵ 2 vezes, com B 1 vez, com TR 1 vez;
+- P⁶⁶ concorda com ℵ 2 vezes, com B 3 vezes, com TR 5 vezes;
+- P⁷⁵ concorda com ℵ 2 vezes, com B 3 vezes, com TR 4 vezes[^151].
 
 (Cada um dos três papiros também tem outras leituras.)
 
@@ -461,11 +478,11 @@ Tudo computado, a atribuição sumária de P⁶⁶ e P⁷⁵ ao “tipo-de-texto
 
 Esta evidência realmente sugere “duas claras correntes textuais”?
 
-Nestes manuscritos do terceiro século, cujas evidências nos levam de volta pelo menos à metade do segundo século, não encontramos nenhuma pureza original, nenhum casto ancestral de Vaticanus, mas sim representantes desfigurados e decaídos do texto original. Características de todos os textos principais isolados por Hort ou por von Soden são aqui encontradas — ‘combinações’[^154] são aqui encontradas — ‘combinados’ muito diferentemente em P⁶⁶ e P⁴⁵.
+> Nestes manuscritos do terceiro século, cujas evidências nos levam de volta pelo menos à metade do segundo século, não encontramos nenhuma pureza original, nenhum casto ancestral de Vaticanus, mas sim representantes desfigurados e decaídos do texto original. Características de todos os textos principais isolados por Hort ou por von Soden são aqui encontradas — ‘combinados’ muito diferentemente em P⁶⁶ e P⁴⁵[^154].
 
 #### *O Classificar dos MSS*
 
-Uma parte grave do problema é a maneira pela qual MSS têm sido atribuídos a um “tipo-de-texto” ou a outro. Por exemplo, os editores de P¹ (Oxyrh. 2), Grenfell e Hunt, declararam que “o papiro claramente pertence à mesma classe dos códices Sinaítico e Vaticano, e não tem nenhuma inclinação Ocidental ou Síria.” Ora, o papiro contém apenas Mateus 1.1–9a, 12b-20 (e não é todo ele legível), mas C. H. Turner declarou que ele concorda intimamente com o texto de B e “pode ser razoavelmente crido que conduz todo o texto dos Evangelhos [encontrado] em B de volta ao terceiro século.”[^155] Até o presente dia P¹ é atribuído ao “tipo-de-texto Alexandrino.”[^156] Bem, ele evidentemente concorda com B sete vezes, contra o TR, mas quatro daquelas variantes têm algum apoio “Ocidental”; no entanto, discorda de B dez vezes, embora apoiando o TR em apenas duas daquelas[^157]. Amontoar P¹ e B juntos é realmente razoável?
+Uma parte grave do problema é a maneira pela qual MSS têm sido atribuídos a um “tipo-de-texto” ou a outro. Por exemplo, os editores de P¹ (Oxyrh. 2), Grenfell e Hunt, declararam que “o papiro claramente pertence à mesma classe dos códices Sinaítico e Vaticano, e não tem nenhuma inclinação Ocidental ou Síria.” Ora, o papiro contém apenas Mateus 1.1–9a, 12b–20 (e não é todo ele legível), mas C. H. Turner declarou que ele concorda intimamente com o texto de B e “pode ser razoavelmente crido que conduz todo o texto dos Evangelhos [encontrado] em B de volta ao terceiro século.”[^155] Até o presente dia P¹ é atribuído ao “tipo-de-texto Alexandrino.”[^156] Bem, ele evidentemente concorda com B sete vezes, contra o TR, mas quatro daquelas variantes têm algum apoio “Ocidental”; no entanto, discorda de B dez vezes, embora apoiando o TR em apenas duas daquelas[^157]. Amontoar P¹ e B juntos é realmente razoável?
 
 Para uma demonstração clara da grande tolice de caracterizar um manuscrito com base em apenas um capítulo (ou ainda menos!), o leitor pode ver o estudo de P⁶⁶ por Fee. Ele faz um gráfico da percentagem de concordância entre P⁶⁶ e o T. R., P⁷⁵, B, ℵ, A, C, D, e W respectivamente, capítulo por capítulo, através dos primeiros 14 capítulos de João[^158]. Para cada um dos documentos o gráfico sobe e desce de capítulo a capítulo, de um modo errático. Todos eles mostram uma faixa de variação acima de 30% — e.g. Códice B vai de uma concordância com P⁶⁶ de 71,1% no capítulo 5 para uma concordância de 32,3% no capítulo 7.
 
@@ -479,7 +496,9 @@ Uma vez que genealogia não tem sido (e não pode ser?) aplicada aos MSS, as tes
 
 Todo o litígio de Hort contra o *Textus Receptus*, sob este título, foi baseado sobre apenas *oito* exemplos, tomados de dois Evangelhos (Marcos e Lucas). Caracterizar todo um texto, para todo o Novo Testamento, com base em oito exemplos, é tolice. Colwell enuncia bem o problema:
 
-> Nenhum texto ou documento é bastante homogêneo para justificar que, com base em parte de suas leituras, se julgue o restante. Este foi o calcanhar de Aquiles de Hort. Ele está dizendo aqui que, desde que estas oito leituras confladas ocorrem no texto Sírio, este é misto como um todo; se faltam aquelas leituras a um manuscrito ou texto, ele, em suas outras leituras, é testemunha de um texto antecedente à mistura. ... Westcott e Hort enunciam esta falácia muito claramente ao argumentarem pela importância da evidência de um documento ao contrário de leituras:
+> Nenhum texto ou documento é bastante homogêneo para justificar que, com base em parte de suas leituras, se julgue o restante. Este foi o calcanhar de Aquiles de Hort. Ele está dizendo aqui que, desde que estas oito leituras confladas ocorrem no texto Sírio, este é misto como um todo; se faltam aquelas leituras a um manuscrito ou texto, ele, em suas outras leituras, é testemunha de um texto antecedente à mistura…
+>
+> Westcott e Hort enunciam esta falácia muito claramente ao argumentarem pela importância da evidência de um documento ao contrário de leituras:
 >
 >> “Então, quando descobre-se que um dos documentos habitualmente contem estas leituras moralmente certas ou pelo menos fortemente preferidas, e o outro habitualmente contem suas rivais rejeitadas, não podemos ter nenhuma dúvida, primeiro, que o texto do primeiro tem sido transmitido em comparativa pureza, e que o texto do segundo tem sofrido adulteração comparativamente grande; e, a seguir, que a *superioridade do primeiro tem que ser tão grande nas variações nas quais a Evidência Interna das Leituras não tem fornecido nenhum critério decisivo, quanto naqueles que nos têm habilitado a formar uma apreciação comparativa dos dois textos.*” [Ênfase de Colwell.]
 >
@@ -511,7 +530,7 @@ Mas em uma questão deste tipo a confusão tem que ser computada. Se as testemun
 
 Dada uma instância, tal como Lc 24.53, onde as características exigidas para uma conflação estão presentes, tem de ser demonstrado que as duas leituras mais curtas não surgiram através de omissões independentes de partes diferentes da leitura mais longa, antes que possa ser asseverado que uma conflação ocorreu. Sem uma tal demonstração não é justo alegar uma conflação e então construir uma teoria em cima dela. A demonstração de Hort relativa a Lc 24.53, na sua totalidade, é “Esta simples ocorrência não necessita nenhuma explanação.”[^171]
 
-Burgon (que pessoalmente colacionou D) observou que no último capítulo de Lucas o Texto Recebido tem 837 palavras — destas D omite 121, ou uma em cada sete palavras[^172]. Para alguém usando o Texto de Nestle (24ª edição), D omite 66 de 782, ou uma em cada doze (Nestle omitiu 38 palavras do texto grego de Lucas 24 baseando-se na autoridade grega de D sozinho, e outras 5 palavras na de D e ℵ sozinhos). Em face de uma tal inveterada propensão para omissão, não é irrazoável suspeitar que no verso 53 D omitiu “e bendizendo” do original “louvando e bendizendo” ao invés de que a leitura de todos MSS gregos existentes (exceto seis) é uma conflação. Ademais, a leitura de D pode facilmente ter surgido da “Bizantina” por homoioteleuton (*OYNTEC--OYNTEC*). Kilpatrick está entre os mais recentes de um número de estudiosos que têm argumentado que pelo menos algumas das “conflações Sírias” de Hort são a leitura original[^173].
+Burgon (que pessoalmente colacionou D) observou que no último capítulo de Lucas o Texto Recebido tem 837 palavras — destas D omite 121, ou uma em cada sete palavras[^172]. Para alguém usando o Texto de Nestle (24ª edição), D omite 66 de 782, ou uma em cada doze (Nestle omitiu 38 palavras do texto grego de Lucas 24 baseando-se na autoridade grega de D sozinho, e outras 5 palavras na de D e ℵ sozinhos). Em face de uma tal inveterada propensão para omissão, não é irrazoável suspeitar que no verso 53 D omitiu “e bendizendo” do original “louvando e bendizendo” ao invés de que a leitura de todos MSS gregos existentes (exceto seis) é uma conflação. Ademais, a leitura de D pode facilmente ter surgido da “Bizantina” por homoioteleuton (*ΟΥΝΤΕΣ–ΟΥΝΤΕΣ*). Kilpatrick está entre os mais recentes de um número de estudiosos que têm argumentado que pelo menos algumas das “conflações Sírias” de Hort são a leitura original[^173].
 
 K. Lake falou do problema de decidir qual interpretação tomar:
 
@@ -521,17 +540,17 @@ K. Lake falou do problema de decidir qual interpretação tomar:
 
 Parece, segundo Lake, que a evidência patrística é que decide a questão. Mas nem Lake nem mais ninguém tem produzido qualquer citação patrística destas passagens nos primeiros três séculos. As poucas citações disponíveis depois daquela época, todas elas, apoiam as leituras Bizantinas[^175].
 
-Na realidade, toda a questão de “conflação” é um pseudoproblema, uma tempestade em copo d'água. Simplesmente não há possíveis exemplos em número suficiente para sustentar generalizações. A evidência que existe, no entanto, certamente não é desfavorável ao texto “Sírio”. Como Zuntz diz, a ideia de que o texto posterior foi derivado das duas “recensões” anteriores combinadas, é errônea[^176].
+Na realidade, toda a questão de “conflação” é um pseudoproblema, uma tempestade em copo d’água. Simplesmente não há possíveis exemplos em número suficiente para sustentar generalizações. A evidência que existe, no entanto, certamente não é desfavorável ao texto “Sírio”. Como Zuntz diz, a ideia de que o texto posterior foi derivado das duas “recensões” anteriores combinadas, é errônea[^176].
 
 ### *Leituras “Sírias” Antes de Crisóstomo*
 
-As declarações de Hort concernentes à natureza do testemunho patrístico préNiceno ainda são aceitas por muitos. Assim, afirma-se largamente que Crisóstomo usou o texto “Bizantino.”[^177] Mas Lake tem afirmado: Escritores sobre o texto do Novo Testamento usualmente copiam um do outro a declaração que Crisóstomo usou o texto Bizantino, ou também chamado Antioquino. Mas assim que qualquer investigação é feita diretamente, torna-se evidente, mesmo a partir das suas obras impressas, que há muitas variações importantes no texto que ele cita, o qual evidentemente não foi idêntico àquele encontrado nos MSS do texto Bizantino[^178].
+As declarações de Hort concernentes à natureza do testemunho patrístico pré-Niceno ainda são aceitas por muitos. Assim, afirma-se largamente que Crisóstomo usou o texto “Bizantino.”[^177] Mas Lake tem afirmado:
+
+> Escritores sobre o texto do Novo Testamento usualmente copiam um do outro a declaração que Crisóstomo usou o texto Bizantino, ou também chamado Antioquino. Mas assim que qualquer investigação é feita diretamente, torna-se evidente, mesmo a partir das suas obras impressas, que há muitas variações importantes no texto que ele cita, o qual evidentemente não foi idêntico àquele encontrado nos MSS do texto Bizantino[^178].
 
 Metzger chama a atenção para o trabalho de Geerlings e New.
 
-Tem sido frequentemente dito pelos estudiosos textuais que Crisóstomo foi um dos primeiros Pais a usar o texto Antioquino. Esta opinião foi examinada por Jacob Geerlings e Silva New em um estudo sobre evidência que, por falta de uma edição crítica, foi tomado da *opera* de Crisóstomo editada por Migne. As conclusões deles são que:
-
-> O texto de Marcos usado por Crisóstomo não é o de nenhum grupo de manuscritos até hoje descoberto e classificado. ... Seu texto de Marcos, ou melhor, o texto que pode ser fracamente percebido através de suas citações, é um ‘texto misto’ combinando alguns dos elementos de cada um dos tipos que tinha florescido antes do fim do século quarto[^179].
+> Tem sido frequentemente dito pelos estudiosos textuais que Crisóstomo foi um dos primeiros Pais a usar o texto Antioquino. Esta opinião foi examinada por Jacob Geerlings e Silva New em um estudo sobre evidência que, por falta de uma edição crítica, foi tomado da *opera* de Crisóstomo editada por Migne. As conclusões deles são que “O texto de Marcos usado por Crisóstomo não é o de nenhum grupo de manuscritos até hoje descoberto e classificado. … Seu texto de Marcos, ou melhor, o texto que pode ser fracamente percebido através de suas citações, é um ‘texto misto’ combinando alguns dos elementos de cada um dos tipos que tinha florescido antes do fim do século quarto.”[^179]
 
 Eles dizem mais:
 
@@ -539,7 +558,7 @@ Eles dizem mais:
 
 Eles fizeram uma colação do texto de Crisóstomo e observaram a seu respeito:
 
-> O número de variantes a partir do *Textus Receptus* não é apreciavelmente menor do que o número de variantes a partir do texto de Westcott e Hort. Isto prova que não é um representante típico do texto posterior (K, de von Soden) mais do que o é do texto Neutro. …[^181]
+> O número de variantes a partir do *Textus Receptus* não é apreciavelmente menor do que o número de variantes a partir do texto de Westcott e Hort. Isto prova que não é um representante típico do texto posterior (K, de von Soden) mais do que o é do texto Neutro[^181].
 
 Que tal Orígenes; ele realmente representa o texto “Neutro”?
 
@@ -547,7 +566,7 @@ Que tal Orígenes; ele realmente representa o texto “Neutro”?
 
 Zuntz concorda:
 
-> As dificuldades insuperáveis se opondo ao estabelecimento de ‘o’ texto do Novo Testamento de Orígenes e Eusébio são bem conhecidas a todos que já tentaram fazê-lo. Deixando de lado as dificuldades comuns impostas pelas incertezas da transmissão, o estado incompleto do material, e a frequente frouxidão ao citar, sobra o fato incontestável que estes dois Pais estão frequentemente em desacordo; que cada um deles cita a mesma passagem diferentemente em escritos diferentes; e que às vezes eles fazem isto dentro do âmbito de um e o mesmo trabalho. ... Sempre que uma e a mesma passagem é sobrevivente em mais que uma citação por Orígenes ou Eusébio, variação entre elas é a regra ao invés da exceção. …[^183]
+> As dificuldades insuperáveis se opondo ao estabelecimento de ‘o’ texto do Novo Testamento de Orígenes e Eusébio são bem conhecidas a todos que já tentaram fazê-lo. … Deixando de lado as dificuldades comuns impostas pelas incertezas da transmissão, o estado incompleto do material, e a frequente frouxidão ao citar, sobra o fato incontestável que estes dois Pais estão frequentemente em desacordo; que cada um deles cita a mesma passagem diferentemente em escritos diferentes; e que às vezes eles fazem isto dentro do âmbito de um e o mesmo trabalho. … Sempre que uma e a mesma passagem é sobrevivente em mais que uma citação por Orígenes ou Eusébio, variação entre elas é a regra ao invés da exceção[^183].
 
 Metzger afirma: “Orígenes sabia da existência de leituras variantes que representam cada uma das principais famílias de manuscritos que os estudiosos modernos têm isolado.”[^184] (Isto inclui a “Bizantina”.) Edward Miller, em seu estudo exaustivo dos Pais, descobriu que Orígenes se alinhou com o Texto Tradicional 460 vezes enquanto se alinhou com o “Neologiano” 491 vezes[^185]. (Texto “Neologiano”[^186], como Miller usava o termo, inclui tanto leituras “Neutro” como “Ocidental”; enquanto “Texto Tradicional” é seu termo para o texto “Sírio” de Hort.) Como então pôde Hort dizer de Orígenes, “Por outro lado suas citações, ao melhor de nossa crença, não exibem nenhum traço claro e tangível do texto Sírio”[^187]?
 
@@ -557,7 +576,9 @@ Que tal Ireneu; ele realmente representa o texto “Ocidental”? Miller descobr
 
 Hoskier adiciona uma palavra concernente a Hipólito:
 
-> Tomemos uma outra testemunha muito interessante, viz. Hipólito, quem, como Lúcifer, frequentemente cita em tal extensão de ambos os Testamentos, Velho e Novo, que é absolutamente certo que estava copiando do seu exemplar das Escrituras. Hipólito cita 1Ts 4.13–17, 2Ts 2.1–12, completos. Em face destas citações se vê quão frouxamente Turner argumenta quando diz: “Hort foi o último e talvez o mais hábil de uma longa linhagem de editores do Testamento Grego, começando no décimo oitavo século, que muito tentativamente a princípio, mas bastante intransigentemente no final, *jogou fora os MSS gregos mais RECENTES em favor dos mais ANTIGOS*, e aquela questão nunca terá que ser examinada novamente.”
+> Tomemos uma outra testemunha muito interessante, viz. Hipólito, quem, como Lúcifer, frequentemente cita em tal extensão de ambos os Testamentos, Velho e Novo, que é absolutamente certo que estava copiando do seu exemplar das Escrituras.
+>
+> Hipólito cita 1Ts 4.13–17, 2Ts 2.1–12, completos. Em face destas citações se vê quão frouxamente Turner argumenta quando diz: “Hort foi o último e talvez o mais hábil de uma longa linhagem de editores do Testamento Grego, começando no décimo oitavo século, que muito tentativamente a princípio, mas bastante intransigentemente no final, *jogou fora os MSS gregos mais RECENTES em favor dos mais ANTIGOS*, e aquela questão nunca terá que ser examinada novamente.”
 >
 > Mas permitam-me perguntar o que o Sr. Turner quer dizer com esta sentença alegre. Que quer ele dizer com Manuscritos mais antigos e mais recentes? Não pode querer dizer que o manuscrito de Hipólito é mais recente que o de B? Todavia, permitam-me dizer que, nestas longas passagens abrangendo 12 versos consecutivos de uma epístola e quatro da outra, o manuscrito de Hipólito, do início do terceiro século, geralmente se encontra ao lado do que Turner chamaria de MSS “mais recentes”[^190].
 
@@ -567,7 +588,7 @@ De acordo com o estudo de Miller, a vantagem do Texto Tradicional sobre o “Neo
 
 Por causa da importância do estudo de Miller, já citado, considerá-lo-ei agora em mais detalhes, juntamente com a resposta de Kenyon. Miller viu claramente a natureza crucial da proposta de Hort:
 
-> É evidente que o período crucial da controvérsia entre nós e a escola Neologiana tem que repousar nos séculos antes de São Crisóstomo. Se, como Dr. Hort mantém, o Texto Tradicional não apenas ganhou supremacia naquela era mas não existiu nas eras anteriores, então nossa contenção é vã. ... Por outro lado, se é provada se estender para trás, em linha inquebrada, alcançando até o tempo dos Evangelistas, ou até um período tão próximo deles quanto o testemunho sobrevivente possa provar, então a teoria do Dr. Hort, de um texto ‘Sírio’ formado por recensão ou não, de modo exatamente tão evidente cai em terra[^192].
+> É evidente que o período crucial da controvérsia entre nós e a escola Neologiana tem que repousar nos séculos antes de São Crisóstomo. Se, como Dr. Hort mantém, o Texto Tradicional não apenas ganhou supremacia naquela era mas não existiu nas eras anteriores, então nossa contenção é vã. … Por outro lado, se é provada se estender para trás, em linha inquebrada, alcançando até o tempo dos Evangelistas, ou até um período tão próximo deles quanto o testemunho sobrevivente possa provar, então a teoria do Dr. Hort, de um texto ‘Sírio’ formado por recensão ou não, de modo exatamente tão evidente cai em terra[^192].
 
 Miller, editor póstumo de Burgon, sondou exaustivamente a questão do testemunho anterior ao Concílio de Niceia, fazendo uso completo do índice, feito por Burgon, de (86.489) citações patrísticas do Novo Testamento. Ele merece ser ouvido, em detalhes:
 
@@ -671,13 +692,13 @@ Para recapitular, leituras “Bizantinas” são reconhecidas (mais notavelmente
 
 Nos dias de Hort e mesmo de Miller, os antigos Papiros não eram conhecidos — se o fossem, a teoria de WH dificilmente poderia ter aparecido na forma que o fez. Cada um dos primevos Papiros (300 d.C. ou antes) atesta algumas leituras “Bizantinas”. G. Zuntz realizou um estudo exaustivo de P⁴⁶ e concluiu:
 
-> Para sumariar: várias leituras Bizantinas, a maioria delas genuína, que previamente foram descartadas como ‘posteriores’, são antecipadas por P⁴⁶. ... Como então — assim vem a vontade de continuar perguntando — onde não acontece de algum papiro Chester Beatty certificar a existência primitiva de uma leitura Bizantina? São todas as leituras Bizantinas antigas? No caso cognato da tradição Homérica G. Pasquali responde a mesma pergunta na afirmativa[^217].
+> Para sumariar: várias leituras Bizantinas, a maioria delas genuína, que previamente foram descartadas como ‘posteriores’, são antecipadas por P⁴⁶. … Como então — assim vem a vontade de continuar perguntando — onde não acontece de algum papiro Chester Beatty certificar a existência primitiva de uma leitura Bizantina? São todas as leituras Bizantinas antigas? No caso cognato da tradição Homérica G. Pasquali responde a mesma pergunta na afirmativa[^217].
 
 Colwell reconhece a declaração de Zuntz e concorda[^218]. Ele tinha dito do “Novo Testamento Bizantino” alguns anos antes: “A maioria das suas leituras existiram no segundo século.”[^219]
 
 Hills afirma que os papiros Beatty vindicam 26 leituras “Bizantinas” nos Evangelhos, 8 em Atos e 31 nas epístolas de Paulo[^220]. Ele diz em referência a P⁶⁶:
 
-> Para ser preciso, o Papiro Bodmer II contém treze porcento (18 de 138) de todas as leituras alegadamente posteriores do texto Bizantino na área que ele cobre. Treze porcento das leituras Bizantinas que a maioria dos críticos tem considerado como posteriores[^221] têm sido provados agora pelo Papiro Bodmer ser leituras primevas.
+> Para ser preciso, o Papiro Bodmer II contém treze porcento (18 de 138) de todas as leituras alegadamente posteriores do texto Bizantino na área que ele cobre. Treze porcento das leituras Bizantinas que a maioria dos críticos tem considerado como posteriores têm sido provados agora pelo Papiro Bodmer ser leituras primevas[^221].
 
 A declaração de Colwell sobre P⁶⁶ já foi dada.
 
@@ -703,9 +724,9 @@ Uma vez mais, a pregação de Hort é melhor do que sua prática:
 
 Se apenas trocarmos as palavras “dados genealógicos” por “evidência externa”, então podemos concordar com Hort. Infelizmente, no entanto, os admiráveis pensamentos acima citados não foram senão uma cortina de fumaça. Como Fee diz, referindo-se a Hort:
 
-> A evidência interna de leituras foi também o fator predominante na escolha do seu texto ‘Neutro’ sobre os textos ‘Ocidental’ e ‘Alexandrino’ e sua escolha de B.
+> A evidência interna de leituras foi também o fator predominante na escolha do seu texto ‘Neutro’ sobre os textos ‘Ocidental’ e ‘Alexandrino’ … e sua escolha de B.
 >
-> O ponto relevante é que Hort não chegou à sua conclusão acerca dos [manuscritos] Bizantinos e B pelo método genealógico[^228].
+> O ponto relevante é que Hort não chegou à sua conclusão acerca dos [manuscritos] Bizantinos e B pelo método genealógico…[^228]
 
 A natureza precária e insatisfatória da evidência interna já tem recebido alguma atenção na discussão de ecletismo. Colwell diz especificamente do uso de probabilidade intrínseca e transcricional: “Infelizmente, estes dois critérios frequentemente colidem frontalmente, porque tanto copistas antigos como redatores modernos frequentemente preferiram a leitura que melhor se adequa ao contexto.”[^229] “Se escolhermos a leitura que melhor explica a origem da outra leitura, estamos usualmente escolhendo a leitura que não se encaixa no contexto. Os dois critérios se cancelam um ao outro.”[^230] E isto deixa o estudioso “livre para escolher em termos dos seus próprios prejulgamentos.”[^231]
 
@@ -723,9 +744,15 @@ Talvez o cânon mais amplamente usado contra o texto “Bizantino” seja *brevi
 
 Mas será realmente verdade que interpolações “são muitas vezes mais numerosas” que omissões na transmissão do Novo Testamento? B. H. Streeter pensou que não:
 
-> Hort fala da ‘tendência quase universal dos copistas fazerem seus textos tão completos quanto possível, e abominar omissões’, e infere que copistas tenderiam a preferir um texto interpolado a um texto não interpolado. Isto pode ser verdade quanto a certos textos locais do segundo século; é o extremo oposto da verdade, no que concerne aos copistas ou editores treinados na tradição da crítica textual Alexandrina. Os editores Alexandrinos de Homero eram tão perspicazes para detectar e marcar como duvidáveis ‘interpolações’ em Homero quanto um crítico moderno. ... Temos evidência irrefutável de que copistas e estudiosos cristãos eram capazes da mesma atitude crítica. ... Está completamente refutada a noção que a tendência normal dos copistas era escolher a leitura mais longa, e portanto que o redator moderno está bastante seguro enquanto firmemente rejeitar [as leituras mais longas]. ... Agora, quem quer que tenha sido responsável por ele, o texto B tem sido editado a partir do princípio Alexandrino[^238].
+> Hort fala da ‘tendência quase universal dos copistas fazerem seus textos tão completos quanto possível, e abominar omissões’, e infere que copistas tenderiam a preferir um texto interpolado a um texto não interpolado. Isto pode ser verdade quanto a certos textos locais do segundo século; é o extremo oposto da verdade, no que concerne aos copistas ou editores treinados na tradição da crítica textual Alexandrina. Os editores Alexandrinos de Homero eram tão perspicazes para detectar e marcar como duvidáveis ‘interpolações’ em Homero quanto um crítico moderno…
+>
+> Temos evidência irrefutável de que copistas e estudiosos cristãos eram capazes da mesma atitude crítica…
+>
+> Está completamente refutada a noção que a tendência normal dos copistas era escolher a leitura mais longa, e portanto que o redator moderno está bastante seguro enquanto firmemente rejeitar [as leituras mais longas]…
+>
+> Agora, quem quer que tenha sido responsável por ele, o texto B tem sido editado a partir do princípio Alexandrino[^238].
 
-Toda a questão de interpolações nos MSS antigos tem sido posta sob uma luz inteiramente nova pelas pesquisas de A. C. Clark, Professor Catedrático de Latim na Universidade de Oxford. Em *The Descent of Manuscripts*, uma investigação da tradição manuscrita dos clássicos gregos e latinos, ele prova conclusivamente que o erro a que os copistas eram mais inclinados não era interpolação mas sim omissão acidental. ... Até aqui a máxima ‘*brevior lectio potior*’ tem sido assumida como um postulado de crítica científica. Clark tem mostrado que, tanto quanto toca aos textos clássicos, os fatos apontam inteiramente na outra direção[^239].
+> Toda a questão de interpolações nos MSS antigos tem sido posta sob uma luz inteiramente nova pelas pesquisas de A. C. Clark, Professor Catedrático de Latim na Universidade de Oxford. … Em *The Descent of Manuscripts*, uma investigação da tradição manuscrita dos clássicos gregos e latinos, ele prova conclusivamente que o erro a que os copistas eram mais inclinados não era interpolação mas sim omissão acidental. … Até aqui a máxima ‘*brevior lectio potior*’ … tem sido assumida como um postulado de crítica científica. Clark tem mostrado que, tanto quanto toca aos textos clássicos, os fatos apontam inteiramente na outra direção[^239].
 
 Burgon tinha objetado, muito antes:
 
@@ -733,7 +760,7 @@ Burgon tinha objetado, muito antes:
 
 Leo Vaganay também tinha reservas relativas a este cânon:
 
-> Via de regra o copista, especialmente quando executando o trabalho de revisão, é inclinado a amplificar o texto. ... Mas a regra sofre muitas exceções. ... Distrações do copista, ... correções intencionais. ... E, finalmente, ... a tendência fundamental de alguma recensão, da qual um bom exemplo é a recensão egípcia. ... E também não devemos esquecer que os escritores do Novo Testamento eram orientais, que são mais dados a comprimento que a brevidade[^241].
+> Via de regra o copista, especialmente quando executando o trabalho de revisão, é inclinado a amplificar o texto. … Mas a regra sofre muitas exceções. … Distrações do copista, … correções intencionais. … E, finalmente, … a tendência fundamental de alguma recensão, da qual um bom exemplo é a recensão egípcia. … E também não devemos esquecer que os escritores do Novo Testamento eram orientais, que são mais dados a comprimento que a brevidade[^241].
 
 Kilpatrick inclusive sugere que um cânon substituto, “a leitura mais longa é preferível”, não seria pior. Ele conclui:
 
@@ -767,7 +794,7 @@ Um outro cânon usado contra o texto “Bizantino” é *proclivi lectioni praes
 
 Vaganay diz deste cânon:
 
-> Mas a leitura mais difícil não é sempre a mais provavelmente autêntica. A regra não se aplica, por exemplo, no caso de alguns erros acidentais. ... Mas, o que é pior, algumas vezes achamos leituras difíceis ou intrincadas que são o resultado de correções intencionais. Um copista, por entender mal certa passagem ou por não tomar o contexto em conta, pode com toda sinceridade obscurecer aquilo que tenciona esclarecer[^249].
+> Mas a leitura mais difícil não é sempre a mais provavelmente autêntica. A regra não se aplica, por exemplo, no caso de alguns erros acidentais. … Mas, o que é pior, algumas vezes achamos leituras difíceis ou intrincadas que são o resultado de correções intencionais. Um copista, por entender mal certa passagem ou por não tomar o contexto em conta, pode com toda sinceridade obscurecer aquilo que tenciona esclarecer[^249].
 
 Não temos todos nós ouvido pregadores fazerem esta mesma coisa?
 
@@ -789,7 +816,7 @@ Salmon notou a mesma coisa: “Aquilo com que Hort ganhou tantos aderentes teve 
 
 Samuel Hemphill escreveu a respeito do papel de Hort no Comitê do Novo Testamento que produziu a “Revised Version” de 1881:
 
-> Também não é difícil entender que muitos dos seus colegas menos resolutos e decididos frequentemente devem ter sido completamente conquistados pela capacidade persuasiva e astúcia e zelo de Hort. ... De fato, dificilmente pode ser duvidado que a vontade mais forte de toda a Companhia foi a de Hort, e sua sagaz agilidade em debate somente foi igualada pela sua pertinácia[^255].
+> Também não é difícil entender que muitos dos seus colegas menos resolutos e decididos frequentemente devem ter sido completamente conquistados pela capacidade persuasiva e astúcia e zelo de Hort. … De fato, dificilmente pode ser duvidado que a vontade mais forte de toda a Companhia foi a de Hort, e sua sagaz agilidade em debate somente foi igualada pela sua pertinácia[^255].
 
 (Pareceria que a composição do texto grego usado pelos autores da “English Revised Version” — e consequentemente pelos da RSV, NASB, etc. — foi em larga medida determinada pelo brilhantismo e pertinácia de Hort, inspirados pela sua devoção a um único manuscrito grego.)
 
@@ -797,9 +824,9 @@ O desempenho de Hort mostra a razoabilidade da advertência de Colwell contra a 
 
 #### *Harmonização*[^257]
 
-É amplamente alegado que o texto “Bizantino” é caracterizado por harmonizações; e.g. Metzger diz: “Os montadores deste texto procuraram... harmonizar passagens paralelas divergentes.”[^258] Pela escolha desta terminologia é assumido que as variadas leituras encontradas na minoria dos MSS são originais e que copistas se sentiram impelidos a fazer relatos paralelos concordarem. Talvez seja tempo de perguntar se jamais foi (ou se pode ser) provado que tal interpretação é correta. Jakob Van Bruggen diz da declaração de Metzger: “*Este julgamento não tem sido provado, e não pode sê-lo.*”[^259]
+É amplamente alegado que o texto “Bizantino” é caracterizado por harmonizações; e.g. Metzger diz: “Os montadores deste texto procuraram… harmonizar passagens paralelas divergentes.”[^258] Pela escolha desta terminologia é assumido que as variadas leituras encontradas na minoria dos MSS são originais e que copistas se sentiram impelidos a fazer relatos paralelos concordarem. Talvez seja tempo de perguntar se jamais foi (ou se pode ser) provado que tal interpretação é correta. Jakob Van Bruggen diz da declaração de Metzger: “*Este julgamento não tem sido provado, e não pode sê-lo.*”[^259]
 
-##### *1) Van Bruggen*
+**1) Van Bruggen**
 
 Uma vez que o valioso trabalho de Van Bruggen pode não estar disponível a muitos leitores, citarei com certa extensão o seu tratamento do assunto em foco. Sua reação à declaração de Metzger continua:
 
@@ -817,31 +844,31 @@ Em uma nota de rodapé, Van Bruggen cita a discussão que Metzger apresenta sobr
 
 > O que é [dito ser] típico do texto Bizantino evidentemente não é tão exclusivo deste tipo de texto! Mas se certos fenômenos parecem ser visíveis em todos tipos de texto, então não é justo categoricamente condenar um deles e considerá-lo inferior, com base em tais fenômenos.
 
-2. Ademais, é metodologicamente difícil falar de desvios harmonizadores e assimiladores em um texto, quando o original não é conhecido. Ou será um axioma que, em qualquer caso, o texto original foi tão desarmonioso que toda leitura harmoniosa torna-se imediatamente suspeita? Hort nos deixa sentir que ele pessoalmente não prefere um Novo Testamento 'mais adequado ao estudo superficial e a recitação do que ao estudo repetido e diligente' (*Introduction*, pag. 153). Mas quem, sem o original à sua disposição, pode provar que este original tinha as características que um filologista e um crítico textual consideram ser mais recomendáveis[^263]?
+> 2. Ademais, é metodologicamente difícil falar de desvios harmonizadores e assimiladores em um texto, quando o original não é conhecido. Ou será um axioma que, em qualquer caso, o texto original foi tão desarmonioso que toda leitura harmoniosa torna-se imediatamente suspeita? Hort nos deixa sentir que ele pessoalmente não prefere um Novo Testamento ‘mais adequado ao estudo superficial e a recitação do que ao estudo repetido e diligente’ (*Introduction*, pag. 153). Mas quem, sem o original à sua disposição, pode provar que este original tinha as características que um filologista e um crítico textual consideram ser mais recomendáveis[^263]?
 
-P. Walters comenta sobre o senso de estilo de Hort como segue: O senso de estilo de Hort, sua ideia do que era correto e preferível em cada alternativa, foi adquirido de uma íntima companhia com seu texto 'neutro'. Não lhe ocorreu que a maioria dos aspectos formais deste texto correspondeu tão bem com os padrões dele
+P. Walters comenta sobre o senso de estilo de Hort como segue:
 
-[Hort] exatamente porque estes foram tomados de seu modelo. Até aqui as decisões de Hort têm a natureza de um círculo vicioso: Nós que hoje vivemos fora deste círculo mágico, o qual manteve enfeitiçada uma geração, somos capazes de desmascarar a ilusão de Hort[^264].
+> O senso de estilo de Hort, sua ideia do que era correto e preferível em cada alternativa, foi adquirido de uma íntima companhia com seu texto ‘neutro’. Não lhe ocorreu que a maioria dos aspectos formais deste texto correspondeu tão bem com os padrões dele [Hort] exatamente porque estes foram tomados de seu modelo. Até aqui as decisões de Hort têm a natureza de um círculo vicioso: Nós que hoje vivemos fora deste círculo mágico, o qual manteve enfeitiçada uma geração, somos capazes de desmascarar a ilusão de Hort[^264].
 
 Van Bruggen continua:
 
-4. Se os editores do texto Bizantino tivessem se dispostos a harmonizar o texto e a encaixar passagens paralelas dos Evangelhos uma dentro da outra, então temos que observar que eles deixaram quase todas as suas oportunidades escapar. Além disso, o que parece ser harmonização, frequentemente em uma direção diferente não é harmonização. Uma leitura pode parecer ajustada à passagem paralela em um outro Evangelho, mas então frequentemente se desvia novamente da leitura no terceiro Evangelho. Uma leitura pode parecer ter sido tomada emprestada do relato paralelo, todavia ao mesmo tempo desafinar no contexto do próprio Evangelho. Aqui os exemplos são inumeráveis, enquanto alguém não se limitar a uns poucos textos e sim prestar atenção ao contexto e aos Evangelhos como um todo[^265].
+> 4. Se os editores do texto Bizantino tivessem se dispostos a harmonizar o texto e a encaixar passagens paralelas dos Evangelhos uma dentro da outra, então temos que observar que eles deixaram quase todas as suas oportunidades escapar. … Além disso, o que parece ser harmonização, frequentemente em uma direção diferente não é harmonização. Uma leitura pode parecer ajustada à passagem paralela em um outro Evangelho, mas então frequentemente se desvia novamente da leitura no terceiro Evangelho. Uma leitura pode parecer ter sido tomada emprestada do relato paralelo, todavia ao mesmo tempo desafinar no contexto do próprio Evangelho. Aqui os exemplos são inumeráveis, enquanto alguém não se limitar a uns poucos textos e sim prestar atenção ao contexto e aos Evangelhos como um todo[^265].
 
-Com referência a dar a devida atenção ao contexto, Van Bruggen cita um estudo onde comparou o TR com Nestle[^25] em catorze passagens extensas, para ver se qualquer deles poderia ser caracterizado como harmonizando ou assimilando: A comparação da edição de Stephanus (1550) com Nestle-Aland (25ª edição) levou à conclusão que o dilema 'harmonização/ não harmonização' é inapropriado para distinguir ambas dessas edições de texto. Examinamos Mt 5.1–12; 6.9–13; 13.1–20; 19.1–12; Mc 2.18–3.6; Lc 9.52–62; 24.1–12; Jo 6.22–71; At 18.18–19.7; 22.6–21; 1Co. 7; Tg 3.1–10; 5.10–20; Ap. 5. No exame comparativo, não apenas o contexto, mas também todas as passagens paralelas foram levadas em conta. Uma vez que o texto de
+Com referência a dar a devida atenção ao contexto, Van Bruggen cita um estudo onde comparou o TR com Nestle²⁵ em catorze passagens extensas, para ver se qualquer deles poderia ser caracterizado como harmonizando ou assimilando:
 
-Stephanus é intimamente aparentado com o Bizantino e a edição de Nestle-Aland é claramente não Bizantina, o resultado desta investigação também pode se aplicar à relação entre o texto Bizantino e outros tipos de texto: o dilema 'harmonização/não harmonização' ou 'assimilação/não assimilação' é inválido para distinguir tipos na tradição textual do Novo Testamento[^266].
+> A comparação da edição de Stephanus (1550) com Nestle-Aland (25ª edição) levou à conclusão que o dilema ‘harmonização/ não harmonização’ é inapropriado para distinguir ambas dessas edições de texto. Examinamos Mt 5.1–12; 6.9–13; 13.1–20; 19.1–12; Mc 2.18–3.6; Lc 9.52–62; 24.1–12; Jo 6.22–71; At 18.18–19.7; 22.6–21; 1Co 7; Tg 3.1–10; 5.10–20; Ap 5. No exame comparativo, não apenas o contexto, mas também todas as passagens paralelas foram levadas em conta. Uma vez que o texto de Stephanus é intimamente aparentado com o Bizantino e a edição de Nestle-Aland é claramente não Bizantina, o resultado desta investigação também pode se aplicar à relação entre o texto Bizantino e outros tipos de texto: o dilema ‘harmonização/não harmonização’ ou ‘assimilação/não assimilação’ é inválido para distinguir tipos na tradição textual do Novo Testamento[^266].
 
 Isto nos lembra a observação de Burgon que decisões baseadas em considerações internas são frequentemente “o resultado de inclinação pessoais ou de observação limitada.”[^267] A este respeito, será bom considerarmos alguns exemplos.
 
-*2) Exemplos*
+**2) Exemplos**
 
-Mc 1.2 — Leremos “*em Isaías o profeta*”, com os textos “Alexandrino-Ocidental”, ou “*nos profetas*”, com o texto “Bizantino”? Todas as edições críticas seguem a primeira leitura e Fee afirma que ela é um “claro exemplo da 'leitura mais difícil sendo preferida como a original'.”[^268] Eu diria que a discussão superficial de Fee é um “claro exemplo” de inclinação pessoal (para o cânon da “leitura mais difícil”) e de observação limitada. Os únicos outros locais em que Isaías 40.3 é citado no Novo Testamento são Mt 3.3, Lc 3.4 e Jo 1.23. Os primeiros dois são em passagens paralelas a Mc 1.2 e todas três são idênticas à LXX. A citação em João difere da LXX em uma palavra e é também usada em conexão com João Batista. A consideração crucial, para nosso propósito aqui, é que Mateus, Lucas e João todos identificam a citação como sendo de Isaías (sem variação de MS). Parece claro que a leitura “Alexandrina-Ocidental” em Mc 1.2 é simplesmente uma assimilação aos outros três Evangelhos. Deve também ser notado que o material de Malaquias (3:1) parece mais uma alusão que uma citação direta. Ademais, embora Malaquias seja citado (ou aludido) várias vezes no Novo Testamento, nunca o é por nome. Os próprios hábitos de Marcos podem também ser relevantes a esta discussão. Marcos cita Isaías em 4:12; 11:17 e 12:32 e a ele alude em cerca de dez outros locais, todos sem dar o nome de sua fonte. A única vez que ele usa o nome de Isaías é quando cita Jesus em 7:6[^269]. É o texto “Bizanti-no” que escapou de harmonização e preserva a leitura original.
+Mc 1.2 — Leremos “*em Isaías o profeta*”, com os textos “Alexandrino-Ocidental”, ou “*nos profetas*”, com o texto “Bizantino”? Todas as edições críticas seguem a primeira leitura e Fee afirma que ela é um “claro exemplo da ‘leitura mais difícil sendo preferida como a original’.”[^268] Eu diria que a discussão superficial de Fee é um “claro exemplo” de inclinação pessoal (para o cânon da “leitura mais difícil”) e de observação limitada. Os únicos outros locais em que Isaías 40.3 é citado no Novo Testamento são Mt 3.3, Lc 3.4 e Jo 1.23. Os primeiros dois são em passagens paralelas a Mc 1.2 e todas três são idênticas à LXX. A citação em João difere da LXX em uma palavra e é também usada em conexão com João Batista. A consideração crucial, para nosso propósito aqui, é que Mateus, Lucas e João todos identificam a citação como sendo de Isaías (sem variação de MS). Parece claro que a leitura “Alexandrina-Ocidental” em Mc 1.2 é simplesmente uma assimilação aos outros três Evangelhos. Deve também ser notado que o material de Malaquias (3.1) parece mais uma alusão que uma citação direta. Ademais, embora Malaquias seja citado (ou aludido) várias vezes no Novo Testamento, nunca o é por nome. Os próprios hábitos de Marcos podem também ser relevantes a esta discussão. Marcos cita Isaías em 4.12; 11.17 e 12.32 e a ele alude em cerca de dez outros locais, todos sem dar o nome de sua fonte. A única vez que ele usa o nome de Isaías é quando cita Jesus em 7.6[^269]. É o texto “Bizantino” que escapou de harmonização e preserva a leitura original.
 
-Mc. l0:47 -- Ναζαρηνος B L W ∆ Θ Ψ 1 lat cop
+Mc 10.47 -- Ναζαρηνος B L W Δ Θ Ψ 1 lat cop
 
 Ναζορηνος D
 
-Ναζωραιος *Byz* ℵ A C (K) X Π 13 *pl* itpt syr[^270]
+Ναζωραιος *Byz* ℵ A C (K) X Π 13 *pl* itᵖᵗ syr[^270]
 
 //Lc 18.37 -- Ναζαρηνος D 1 *pc*
 
@@ -855,31 +882,31 @@ Mc 16.6 -- Ναζαρηνον todos concordam, com exceção das omissões de �
 
 Todas as edições críticas seguem a primeira leitura em Mc 10.47 e interpretam a leitura “Bizantina” como uma assimilação a Lc 18.37 (onde elas rejeitam a leitura de D). Deve ser observado, no entanto, que em todos os outros locais onde Marcos usa a palavra, a forma -αρην- ocorre. Não será igualmente tão possível que Códice B e companhia têm se assimilado à forma prevalecente de Marcos[^271]?
 
-Mc 8.31 -- µετα τρεις ηµερας todos concordam
+Mc 8.31 -- μετα τρεις ημερας todos concordam
 
-//Mt 16.21 -- µετα τρεις ηµερας D *al* τη τριτη ηµερα *rell*
+//Mt 16.21 -- μετα τρεις ημερας D *al* / τη τριτη ημερα *rell*
 
-//Lc 9.22 -- µεθ ηµερας τρεις D it τη τριτη ηµερα *rell*
+//Lc 9.22 -- μεθ ημερας τρεις D it / τη τριτη ημερα *rell*
 
-Mc 9.31 -- µετα τρεις ηµερας ℵ B C D L ∆ τη τριτη ηµερα *Byz* Θ *pl*
+Mc 9.31 -- μετα τρεις ημερας ℵ B C D L Δ / τη τριτη ημερα *Byz* Θ *pl*
 
-//Mt 17.23 -- µετα τρεις ηµερας D it τη τριτη ηµερα *rell*
+//Mt 17.23 -- μετα τρεις ημερας D it / τη τριτη ημερα *rell*
 
-Mc 10.34 -- µετα τρεις ηµερας ℵ B C D L ∆ Ψ it cop τη τριτη ηµερα *Byz* Ac K W X Θ Π 1 13 *pl* syr
+Mc 10.34 -- μετα τρεις ημερας ℵ B C D L Δ Ψ it cop / τη τριτη ημερα *Byz* Aᶜ K W X Θ Π 1 13 *pl* syr
 
-//Mt 10.19 -- τη τριτη ηµερα todos concordam
+//Mt 10.19 -- τη τριτη ημερα todos concordam
 
-//Lc 18.33 -- τη ηµερα τη τριτη todos concordam
+//Lc 18.33 -- τη ημερα τη τριτη todos concordam
 
 Todas edições críticas seguem a primeira leitura em Mc 9.31 e 10.34, e interpretam a leitura “Bizantina” como uma assimilação a Mateus, em ambos os casos. Mas então, por que os “Bizantinos” também não assimilaram em Mc 8.31, onde havia a pressão de ambos Mateus e Lucas? Não será mais provável que os “Alexandrinos” façam Marcos consistente (notar que Mateus é consistente) por assimilar as duas últimas instâncias à primeira? Notar que, neste exemplo e no precedente, é o Códice D que se engaja na atividade de assimilação mais flagrante[^272].
 
-Mc 13.14 — Leremos “que foi dito por Daniel o profeta” com o texto “Bizantino” ou seguiremos o texto “Alexandrino-Ocidental” no qual esta frase está faltando? Todas edições críticas tomam a segunda opção e Fee nos assegura que o texto “Bizantino” tem se assimilado a Mt 24.15, onde todas testemunhas têm a frase em questão[^273]. Mas consideremos a própria evidência: Mt 24.15 -- το ρηθεν δια ∆ανιηλ του προφητου
+Mc 13.14 — Leremos “que foi dito por Daniel o profeta” com o texto “Bizantino” ou seguiremos o texto “Alexandrino-Ocidental” no qual esta frase está faltando? Todas edições críticas tomam a segunda opção e Fee nos assegura que o texto “Bizantino” tem se assimilado a Mt 24.15, onde todas testemunhas têm a frase em questão[^273]. Mas consideremos a própria evidência:
 
-Mc 13.14 -- το ρηθεν υπο ∆ανιηλ του προφητου
+Mt 24.15 -- το ρηθεν δια Δανιηλ του προφητου
 
-Se os “Bizantinos” estavam resolvidos a copiar de Mateus, por que alteraram a redação? Se o propósito deles foi harmonizar, por que desarmonizaram, para usar a expressão de Fee? Ademais, se usarmos apenas o texto “Bizantino” e compararmos o trecho completo em ambos os Evangelhos (Mt 24.15–22 e Mc 13.14–20), o resultado será que, embora os dois relatos sejam virtualmente do mesmo comprimento, vêm a diferir em nada menos que um terço das palavras. A alegação que os “Bizantinos” eram dados a harmonizar torna-se tola. Ainda mais, parece haver três claras assimilações a Marcos da parte das testemunhas “Alexandrino-Ocidental”, e uma a Mateus (επι a εις em Mt 24.15, καταβαινετω a καταβατω em Mt 24.17, τα ιµατια a το ιµατιον em Mt 24.18, e a omissão de ων em Mc 13.16) mais três outras assimilações “Ocidentais” (τα a τι em Mt 24.17, και a ουδ em Mc 13.19, e δε adicionado a Mt 24.17). Mas, retornando à primeira variante, por que os “Alexandri-nos” teriam omitido a frase em questão? Uma comparação da LXX de Daniel com o contexto imediato sugere uma resposta. A frase de Marcos, “onde não deve” não é encontrada em Daniel [compare Dn 9.27; 11.31; 12.11]. Que algumas pessoas sentiram que a integridade de Marcos necessitava de proteção é claro das ações remediais esboçadas por uns poucos MSS gregos e de versões. A omissão
+Mc 13.14 -- το ρηθεν υπο Δανιηλ του προφητου
 
-Alexandrina pode muito bem ser uma tal tentativa[^274].
+Se os “Bizantinos” estavam resolvidos a copiar de Mateus, por que alteraram a redação? Se o propósito deles foi harmonizar, por que desarmonizaram, para usar a expressão de Fee? Ademais, se usarmos apenas o texto “Bizantino” e compararmos o trecho completo em ambos os Evangelhos (Mt 24.15–22 e Mc 13.14–20), o resultado será que, embora os dois relatos sejam virtualmente do mesmo comprimento, vêm a diferir em nada menos que um terço das palavras. A alegação que os “Bizantinos” eram dados a harmonizar torna-se tola. Ainda mais, parece haver três claras assimilações a Marcos da parte das testemunhas “Alexandrino-Ocidental”, e uma a Mateus (επι a εις em Mt 24.15, καταβαινετω a καταβατω em Mt 24.17, τα ιματια a το ιματιον em Mt 24.18, e a omissão de ων em Mc 13.16) mais três outras assimilações “Ocidentais” (τα a τι em Mt 24.17, και a ουδ em Mc 13.19, e δε adicionado a Mt 24.17). Mas, retornando à primeira variante, por que os “Alexandrinos” teriam omitido a frase em questão? Uma comparação da LXX de Daniel com o contexto imediato sugere uma resposta. A frase de Marcos, “onde não deve” não é encontrada em Daniel [compare Dn 9.27; 11.31; 12.11]. Que algumas pessoas sentiram que a integridade de Marcos necessitava de proteção é claro das ações remediais esboçadas por uns poucos MSS gregos e de versões. A omissão Alexandrina pode muito bem ser uma tal tentativa[^274].
 
 Para concluir, é demonstrável que todos “tipos de texto” têm muitas possíveis harmonizações. Não tem sido demonstrado que o texto “Bizantino” tem mais harmonizações possíveis ou reais do que os outros. Segue-se que “harmonização” não pode ser razoável ou responsavelmente usada para argumentar que o tipo de texto “Bizantino” é inferior.
 
@@ -891,17 +918,13 @@ Depois do exame das páginas designadas[^276], descobrimos que não há nenhuma 
 
 Em qualquer caso, o comprimento das listas dificilmente é satisfatório. Ninguém tem feito para o texto “Bizantino” algo mesmo remotamente próximo daquilo que Hoskier fez para Códice B, enchendo 450 páginas com uma cuidadosa discussão, um por um, de muitos dos seus erros e idiossincrasias[^278]. Como já registramos, Hort declarou o *Textus Receptus* ser “depravado” e “vil” quando só tinha vinte e três anos de idade — antes que tivesse estudado a evidência, antes que tivesse trabalhado através do texto para avaliar leituras variantes uma por uma. Você supõe que ele trouxe uma mente aberta para aquele estudo e avaliação?
 
-Elliott e Kilpatrick professam fazer suas avaliações com uma mente aberta, sem nenhuma predileção quanto aos tipos de texto; todavia inescapavelmente usam os cânones ambíguos da evidência inter-na. Que concluem eles? Elliott decidiu que o texto “Bizantino” estava correto aproximadamente tão frequentemente quanto Aleph e D, os principais representantes dos textos “Alexandrino” e “Ocidental”
+Elliott e Kilpatrick professam fazer suas avaliações com uma mente aberta, sem nenhuma predileção quanto aos tipos de texto; todavia inescapavelmente usam os cânones ambíguos da evidência interna. Que concluem eles? Elliott decidiu que o texto “Bizantino” estava correto aproximadamente tão frequentemente quanto Aleph e D, os principais representantes dos textos “Alexandrino” e “Ocidental” (nas Epístolas Pastorais)[^279]. Kilpatrick afirma:
 
-(nas Epístolas Pastorais)[^279]. Kilpatrick afirma:
-
-> Nossa conclusão principal é que o texto Sírio é frequentemente correto. Ele, em muitos pontos, está isento de enganos e alterações deliberadas encontrados em outras testemunhas. Isto significa que em cada variação temos que encarar as leituras dos manuscritos Bizantinos com a possibilidade em mente que eles podem estar corretos.
->
-> Não podemos descartar suas variantes características como sendo, em princípio, inferiores[^280].
+> Nossa conclusão principal é que o texto Sírio é frequentemente correto. Ele, em muitos pontos, está isento de enganos e alterações deliberadas encontrados em outras testemunhas. Isto significa que em cada variação temos que encarar as leituras dos manuscritos Bizantinos com a possibilidade em mente que eles podem estar corretos. Não podemos descartar suas variantes características como sendo, em princípio, inferiores[^280].
 
 A deficiência básica, tanto fundamental quanto séria, de qualquer caracterização baseada em critérios subjetivos, é que o resultado é uma mera opinião: não pode ser verificado objetivamente. Será que não existe nenhuma maneira melhor para identificar a redação original do Novo Testamento? Creio que sim, mas primeiro há mais um componente da teoria de Hort a ser analisado.
 
-### *A “Recensão Luciânica” e a Peshitta*
+### *A “Recensão Luciânica” e a Peshita*
 
 Burgon deu a resposta suficiente a esta invenção:
 
@@ -923,11 +946,15 @@ Mas que tal se escolhermos não “supor” coisa alguma, mas, ao invés, insist
 
 Um processo normal de transmissão textual resulta em divergência, não convergência. Uniformidade de texto é geralmente maior mais próxima da fonte e diminui ao longo da transmissão.
 
-A evidência que se acumula parece não incomodar Metzger. Ele ainda afirmou em 1968 que o texto “Bizantino” é baseado em uma recensão preparada por Luciano[^288]. Há um problema adicional com essa tese. Luciano era um ariano, e clamoroso. Será que Metzger seriamente nos convida a crer que os atanasianos vitoriosos abraçaram uma revisão ariana do Novo Testamento em grego?
+A evidência que se acumula parece não incomodar Metzger. Ele ainda afirmou em 1968 que o texto “Bizantino” é baseado em uma recensão preparada por Luciano[^288]. Há um problema adicional com essa tese.
+
+Luciano era um ariano, e clamoroso. Será que Metzger seriamente nos convida a crer que os atanasianos vitoriosos abraçaram uma revisão ariana do Novo Testamento em grego?
 
 Quanto à Peshitta Siríaca, novamente Burgon protestou a completa falta de evidência para as assertivas de Hort[^289]. A. Vööbus diz do esforço de Burkitt:
 
-> Burkitt tem tentado pintar o período de vida do bispo Rábula como decisivo no desenvolvimento do texto do Novo Testamento na igreja Síria. Apesar da aceitação geral do axioma por ele estabelecido que ‘a autoridade de Rábula garantiu um sucesso instantâneo para a nova versão revisada’ e que ‘cópias da Peshita foram rapidamente multiplicadas, ela cedo se tornou o único texto em uso eclesiástico’ — este tipo de reconstrução da história textual é pura ficção sem sequer uma raspa de evidência para apoiá-la[^290].
+> Burkitt tem tentado pintar o período de vida do bispo Rábula como decisivo no desenvolvimento do texto do Novo Testamento na igreja Síria.
+>
+> Apesar da aceitação geral do axioma por ele estabelecido que ‘a autoridade de Rábula garantiu um sucesso instantâneo para a nova versão revisada. …’ e que ‘cópias da Peshita foram rapidamente multiplicadas, ela cedo se tornou o único texto em uso eclesiástico’ — este tipo de reconstrução da história textual é pura ficção sem sequer uma raspa de evidência para apoiá-la[^290].
 
 Vööbus entende que o próprio Rábula usou o tipo de texto da Velha Siríaca. Suas pesquisas mostram claramente que a Peshitta retrocede pelo menos até a metade do quarto século e que ela não foi o resultado de uma revisão imposta autoritariamente[^291].
 
@@ -941,7 +968,7 @@ Há aqui, novamente, uma dificuldade histórica adicional:
 
 E isto completa nossa revisão da teoria crítica de WH. Esta teoria é evidentemente errônea em cada ponto. Nossas conclusões concernentes à teoria também se aplicam necessariamente a qualquer texto grego construído a partir dela, bem como a todas aquelas versões baseadas em tais textos (e aos comentários nelas baseados).
 
-K. W. Clark diz do texto de WH: “A história textual postulada para o *‘textus receptus’* em que agora confiamos [isto é, o Texto Crítico de WH] tem sido explodida.”[^293] Epp confessa que “simplesmente, não temos uma teoria do texto.”[^294] A questão relevante é que “o estabelecimento do texto do NT pode ser alcançado apenas por uma reconstrução da história daquele texto primitivo.”[^295] Colwell concorda: “Sem um conhecimento da história do texto, a leitura original não pode ser estabelecida.”[^296]
+K. W. Clark diz do texto de WH: “A história textual postulada para o *‘textus receptus’* em que agora confiamos [isto é, o Texto Crítico de WH] tem sido explodida.”[^293] Epp confessa que “simplesmente, não temos uma teoria do texto.”[^294] A questão relevante é que “o estabelecimento do texto do NT pode ser alcançado apenas por uma reconstrução da história daquele texto primitivo. …”[^295] Colwell concorda: “Sem um conhecimento da história do texto, a leitura original não pode ser estabelecida.”[^296]
 
 Nas palavras de Aland: “Agora, como no passado, não é possível crítica textual sem uma história do texto.”[^297] Ou, como o próprio Hort expressou: “TODA RESTAURAÇÃO CONFIÁVEL DE TEXTOS ADULTERADOS É FUNDADA NO ESTUDO DE SUAS HISTÓRIAS.”[^298]
 
@@ -991,17 +1018,23 @@ Policarpo, escrevendo à igreja dos Filipenses (c. 115 d.C.?), tece um fio quase
 
 A sua atitude para com os escritos do Novo Testamento fica clara em 12.1:
 
-> “Estou certo que vós sois bem treinados nas Escrituras sagradas, ... Agora, como se diz nessas Escrituras: ‘Irai-vos, e não pequeis’, e: ‘não se ponha o sol sobre a vossa ira’. Bem-aventurado aquele que observa isto.”[^308]
+> “Estou certo que vós sois bem treinados nas Escrituras sagradas, … Agora, como se diz nessas Escrituras: ‘Irai-vos, e não pequeis’, e: ‘não se ponha o sol sobre a vossa ira’. Bem-aventurado aquele que observa isto.”[^308]
 
 Ambas as partes da citação poderiam ser de Ef 4.26, mas tendo-a dividido, Policarpo talvez tenha se referido a Sl 4.5 (LXX) na primeira metade. Em todo caso, ele está declarando Efésios como sendo “Escritura sagrada”. Um subsídio a mais quanto a sua atitude se acha em 3.1–2:
 
-> Irmãos, eu vos escrevo isto acerca da justiça, não por iniciativa própria, mas porque primeiro me convidastes. Porque nem eu, nem ninguém como eu, é capaz de competir com a sabedoria do bendito e glorioso Paulo, que vivendo entre vós, cuidadosa e firmemente ensinava a palavra da verdade face a face com os seus contemporâneos, e estando ausente, vos escreveu cartas. Pelo exame cuidadoso de suas cartas sereis capazes de vos fortalecer na fé que vos foi dada, “que é a mãe de todos nós, ...”[^309]
+> Irmãos, eu vos escrevo isto acerca da justiça, não por iniciativa própria, mas porque primeiro me convidastes. Porque nem eu, nem ninguém como eu, é capaz de competir com a sabedoria do bendito e glorioso Paulo, que vivendo entre vós, cuidadosa e firmemente ensinava a palavra da verdade face a face com os seus contemporâneos, e estando ausente, vos escreveu cartas. Pelo exame cuidadoso de suas cartas sereis capazes de vos fortalecer na fé que vos foi dada, “que é a mãe de todos nós, …”[^309]
 
 (Isto veio de um que era talvez o bispo mais respeitado da Ásia Menor no tempo dele. Foi martirizado em 156 d.C.)
 
 A segunda carta, assim chamada, de Clemente de Roma geralmente é datada antes de 150 d.C. e parece claramente citar Mateus, Marcos, Lucas, Atos, 1 Coríntios, Efésios, 1 Timóteo, Hebreus, Tiago e 1 Pedro, com possíveis alusões a 2 Pedro, Judas e Apocalipse. Depois de citar e comentar uma passagem do Velho Testamento, o autor prossegue dizendo em 2.4: “Uma outra Escritura diz: ‘Eu não vim chamar os justos, mas pecadores’” (Mt 9.13; Mc 2.17; Lc 5.32). Aqui há um outro autor que reconheceu os escritos do Novo Testamento como Escritura.
 
-Duas outras obras primitivas, o *Didaquê* e a carta a Diogneto, utilizam os escritos do Novo Testamento como autoritários mas sem expressamente chamá-los Escritura. O *Didaquê* aparentemente cita Mateus, Lucas, 1 Coríntios, Hebreus e 1 Pedro, e tem possíveis alusões a Atos, Romanos, Efésios, 1 e 2 Tessalonicenses e Apocalipse. A carta a Diogneto cita Atos, 1 e 2 Coríntios, enquanto faz alusão a Marcos, João, Romanos, Efésios, Filipenses, 1 Timóteo, Tito, 1 Pedro e 1 João. Uma outra obra primitiva, o Pastor de Hermas, muito usada nos séculos segundo e terceiro, faz alusão relativamente clara a Mateus, Marcos, 1 Coríntios, Efésios, Hebreus e especialmente Tiago.
+Duas outras obras primitivas, o *Didaquê* e a carta a Diogneto, utilizam os escritos do Novo Testamento como autoritários mas sem expressamente chamá-los Escritura.
+
+O *Didaquê* aparentemente cita Mateus, Lucas, 1 Coríntios, Hebreus e 1 Pedro, e tem possíveis alusões a Atos, Romanos, Efésios, 1 e 2 Tessalonicenses e Apocalipse.
+
+A carta a Diogneto cita Atos, 1 e 2 Coríntios, enquanto faz alusão a Marcos, João, Romanos, Efésios, Filipenses, 1 Timóteo, Tito, 1 Pedro e 1 João.
+
+Uma outra obra primitiva, o Pastor de Hermas, muito usada nos séculos segundo e terceiro, faz alusão relativamente clara a Mateus, Marcos, 1 Coríntios, Efésios, Hebreus e especialmente Tiago.
 
 Desde a metade do segundo século obras relativamente extensas de Justino Mártir (martirizado em 165) chegam às nossas mãos. O seu “Diálogo com Trifo” demonstra conhecimento adestrado do Velho Testamento ao qual ele atribui a mais elevada autoridade possível — em *Trifo* 34 diz: “para persuadir você que não tem entendido nada das Escrituras, lembro-te de um outro Salmo, ditado a Davi pelo Espírito Santo.”[^310] A finalidade de *Trifo* é provar que Jesus é Cristo e Deus e portanto aquilo que ele disse e mandou era da mais elevada autoridade.
 
@@ -1017,15 +1050,13 @@ Uma passagem bem esclarecedora ocorre em *Apol.* i.67:
 
 Quer a sequência sugira ou não que os Evangelhos eram preferidos sobre os Profetas, claro é que ambos eram considerados autoritários e igualmente admoestados aos ouvintes. Notar ainda mais que cada congregação deveria possuir a sua própria cópia dos escritos dos apóstolos para poder lê-los, e que tal leitura acontecia cada semana.
 
-Atenágoro, em seu “Apelo”, escrito no início do ano 177, cita Mt 5.28 como Escritura: “... não nos é permitido sequer um olhar concupiscente. Porque as Escrituras dizem: ‘Aquele que repara uma mulher com concupiscência, já cometeu adultério no seu coração’” (32)[^314]. Ele trata de maneira semelhante Mt 19.9, ou Mc 10.11, em 33.
+Atenágoro, em seu “Apelo”, escrito no início do ano 177, cita Mt 5.28 como Escritura: “… não nos é permitido sequer um olhar concupiscente. Porque as Escrituras dizem: ‘Aquele que repara uma mulher com concupiscência, já cometeu adultério no seu coração’” (32)[^314]. Ele trata de maneira semelhante Mt 19.9, ou Mc 10.11, em 33.
 
 Teófilo, bispo de Antioquia, no seu tratado a Autólico, cita 1Tm 2.1 e Rm 13.7 como “a Palavra Divina” (iii.14); cita o quarto Evangelho, dizendo que João era “inspirado pelo Espírito” (ii.22); Isaías e “o Evangelho” são mencionados em um parágrafo como Escritura (iii.14), e ele insiste em diversas passagens que os escritores jamais se contradiziam. “As declarações dos Profetas e dos Evangelhos se acham coerentes, porque todas elas foram inspiradas pelo único Espírito de Deus” (ii.9; ii.35; iii.17)[^315].
 
 Os escritos sobreviventes de Irineu (faleceu em 202 d.C.), sua obra principal *Contra Hereges* sendo escrita no ano 185 aproximadamente, são mais ou menos iguais em quantidade aos de todos os pais anteriores juntos.
 
-O seu testemunho à autoridade e inspiração das Escrituras Sagradas é claro e inequívoco:
-
-> Difunde-se por todos os seus escritos; e este testemunho é de valor incomum porque deve ser considerado como representando pelo menos três igrejas, aquelas de Lions, Ásia Menor e Roma. O uso autoritário de ambos os Testamentos é claramente estabelecido[^316].
+> O seu testemunho à autoridade e inspiração das Escrituras Sagradas é claro e inequívoco. Difunde-se por todos os seus escritos; e este testemunho é de valor incomum porque deve ser considerado como representando pelo menos três igrejas, aquelas de Lions, Ásia Menor e Roma. O uso autoritário de ambos os Testamentos é claramente estabelecido[^316].
 
 Irineu afirmou que os apóstolos ensinavam que Deus é o Autor de ambos os Testamentos (*Contra Hereges* IV. 32.2) e evidentemente considerava que os escritos do Novo Testamento formavam um segundo cânon. Ele citou todos os capítulos de Mateus, 1 Coríntios, Gálatas, Efésios, Colossenses e Filipenses; citou todos menos um ou dois capítulos de Lucas, João, Romanos, 2 Tessalonicenses, 1 e 2 Timóteo, e Tito; citou a maioria dos capítulos de Marcos (incluindo os últimos doze versos), Atos, 2 Coríntios, e Apocalipse; e citou todos os outros livros do N. T. exceto Filemon e 3 João. Estes dois livros são muito pequenos e talvez Irineu não tivesse ocasião de fazer referência a eles nas suas obras existentes, mas isto não significa que ele não soubesse a respeito deles, nem que os tenha rejeitado. Evidentemente as dimensões do cânon do Novo Testamento reconhecido por Irineu eram muito próximas ao que afirmamos hoje.
 
@@ -1039,7 +1070,7 @@ Por que será que críticos modernos imaginam que os cristãos primitivos, e par
 
 #### *Os Apóstolos*
 
-Os próprios apóstolos tanto declaram os escritos do Novo Testamento serem Escritura, o que criaria reverência e cuidado por parte dos fiéis no seu tratamento, quanto expressamente advertiram os crentes a ficarem de alerta contra falsos mestres — ver At 20.27–32, Gl 1.6–12, 2Tm 3.1–4.4, 2Pe 2.1–2, 1Jo 2.18–19, 2 Jo 7–11, Jd 3–4, 16–19. A afirmação de Pedro a respeito do torcer das palavras de Paulo (2Pe 3.16) sugere que havia consciência e preocupação quanto ao texto e à maneira pela qual estava sendo tratado. Reconheço que os apóstolos se concentravam mais na interpretação do que na transcrição do texto, mas mesmo assim, uma vez que qualquer alteração resultaria numa interpretação diferente, podemos razoavelmente deduzir que a sua preocupação pela verdade incluiria a transmissão fiel do texto. Aliás, mal poderíamos pedir uma expressão mais clara desta preocupação do que aquela apresentada em Ap 22.18–19. 2Ts 2.2 evidentemente se preocupa com autenticidade.
+Os próprios apóstolos tanto declaram os escritos do Novo Testamento serem Escritura, o que criaria reverência e cuidado por parte dos fiéis no seu tratamento, quanto expressamente advertiram os crentes a ficarem de alerta contra falsos mestres — ver At 20.27–32, Gl 1.6–12, 2Tm 3.1–4.4, 2Pe 2.1–2, 1Jo 2.18–19, 2Jo 7–11, Jd 3–4, 16–19. A afirmação de Pedro a respeito do torcer das palavras de Paulo (2Pe 3.16) sugere que havia consciência e preocupação quanto ao texto e à maneira pela qual estava sendo tratado. Reconheço que os apóstolos se concentravam mais na interpretação do que na transcrição do texto, mas mesmo assim, uma vez que qualquer alteração resultaria numa interpretação diferente, podemos razoavelmente deduzir que a sua preocupação pela verdade incluiria a transmissão fiel do texto. Aliás, mal poderíamos pedir uma expressão mais clara desta preocupação do que aquela apresentada em Ap 22.18–19. 2Ts 2.2 evidentemente se preocupa com autenticidade.
 
 #### *Os Pais Primitivos*
 
@@ -1057,7 +1088,7 @@ Tertuliano também atesta o seu direito às Escrituras do Novo Testamento: “Eu
 
 #### *Irineu*
 
-A fim de assegurar precisão na transcrição, os autores às vezes incluiriam no final de suas obras literárias uma intimação dirigida a copistas futuros. Assim, por exemplo, Irineu anexou ao final do seu tratado *Sobre o Ogdoad* o seguinte: “Eu te conjuro, quem copiar este livro, por Nosso Senhor Jesus Cristo e por seu glorioso Advento, quando vier julgar os vivos e os mortos, que compares o que transcreves e o corrijas a partir deste manuscrito do qual estás copiando, e também que transcrevas este conjuramento e o coloques na cópia.”[^318]
+> A fim de assegurar precisão na transcrição, os autores às vezes incluiriam no final de suas obras literárias uma intimação dirigida a copistas futuros. Assim, por exemplo, Irineu anexou ao final do seu tratado *Sobre o Ogdoad* o seguinte: “Eu te conjuro, quem copiar este livro, por Nosso Senhor Jesus Cristo e por seu glorioso Advento, quando vier julgar os vivos e os mortos, que compares o que transcreves e o corrijas a partir deste manuscrito do qual estás copiando, e também que transcrevas este conjuramento e o coloques na cópia.”[^318]
 
 Se Irineu tomou tais precauções extremas em prol da transmissão precisa de sua própria obra, quanto mais ele teria preocupação pela transcrição exata da Palavra de Deus? De fato, ele demonstra a sua preocupação pela exatidão do texto por defender a leitura tradicional de uma única letra. A questão é se o apóstolo João escreveu χξςʹ (666) ou χιςʹ (616) em Ap 13.18. Irineu assevera que 666 se acha “em todas as cópias mais antigas e aprovadas” e que “aqueles homens que viram João face a face” atestam esta leitura. E ele adverte aqueles que fizeram a alteração (duma só letra) que “o castigo sobre aquele que aumenta ou diminui qualquer coisa da Escritura não será leve” (xxx.1). Parece que Irineu está impondo Ap 22.18–19.
 
@@ -1075,11 +1106,9 @@ Ambos Justino Mártir e Irineu afirmaram que a Igreja estava espalhada por toda 
 
 Temos evidência objetiva na História para sustentar as seguintes proposições:
 
-• O texto verdadeiro jamais “se perdeu.”
-
-• Em 200 d.C. a exata redação original dos diversos livros ainda podia ser verificada e certificada.
-
-• Portanto não havia nenhuma necessidade de praticar a crítica textual, e qualquer esforço nesse sentido seria espúrio.
+- O texto verdadeiro jamais “se perdeu.”
+- Em 200 d.C. a exata redação original dos diversos livros ainda podia ser verificada e certificada.
+- Portanto não havia nenhuma necessidade de praticar a crítica textual, e qualquer esforço nesse sentido seria espúrio.
 
 Contudo, certas regiões presumivelmente estariam em situação melhor para proteger e transmitir o texto verdadeiro do que outras.
 
@@ -1139,7 +1168,7 @@ Até o ponto em que as raízes do método alegórico que prosperou na Alexandria
 
 A escola de crítica literária existente em Alexandria também seria um fator negativo, se tivesse qualquer influência sobre a Igreja, e W. R. Farmer argumenta que teve:
 
-> Existe ampla evidência que no tempo de Eusébio as práticas de crítica textual de Alexandria estavam sendo seguidas em pelo menos algumas ‘scriptória’ onde os manuscritos do Novo Testamento estavam sendo produzidos. Precisamente quando primeiro foram usados os princípios da crítica textual da Alexandria não se sabe[^329].
+> Existe ampla evidência que no tempo de Eusébio as práticas de crítica textual de Alexandria estavam sendo seguidas em pelo menos algumas ‘scriptória’ onde os manuscritos do Novo Testamento estavam sendo produzidos. Precisamente quando primeiro foram usados os princípios da crítica textual da Alexandria … não se sabe[^329].
 
 Ele prossegue sugerindo que a escola cristã em Alexandria fundada por Panteno, cerca de 180 d.C., inevitavelmente seria influenciada pelos eruditos da grande biblioteca daquela cidade. O relevante é que os princípios utilizados em tentar “restaurar” as obras de Homero, não seriam apropriados para os escritos do N. T. quando ainda era possível apelar para os autógrafos, ou cópias exatas deles.
 
@@ -1169,31 +1198,31 @@ Em suma, creio que a evidência claramente favorece aquela interpretação da hi
 
 Assim sendo, afirmo que o texto do N. T. teve uma transmissão normal, isto é: a plenamente previsível difusão e reprodução de cópias fiéis dos autógrafos desde os primeiros anos ao longo da história da transmissão até que a disponibilidade de textos impressos colocou um ponto final na prática de copiar à mão.
 
-**A transmissão anormal**[^331]
+#### *A Transmissão Anormal*[^331]
 
-Voltando agora para a transmissão anormal, sem dúvida ela começou junto com a normal. Os próprios escritos apostólicos contêm fortes reclamações e advertências contra atividades heréticas e maliciosas. À medida que o Cristianismo se espalhou e começou a impactar o mundo, nem todas as pessoas o aceitaram como “boas novas”. Vários tipos de oposição surgiram. Também surgiram divisões dentro da comunidade cristã global-no próprio N. T. notam-se os começos de alguns desses desvios. Em alguns casos fidelidade a uma posição ideológica (teológica) evidentemente tornou-se mais importan-te do que fidelidade ao texto do N. T. Certo é que alguns dos Pais da Igreja que escreveram durante o segundo século se queixaram amargamente a respeito das alterações propositadas do Texto feitas pelos “hereges”. Grandes partes dos escritos existentes dos primeiros Pais se ocupam precisa e exclusivamente com o combate aos hereges. É claro que durante o segundo século, e talvez já no primeiro, tais pessoas produziram muitas cópias dos escritos do N. T. incorporando as suas alterações[^332]. Algumas aparentemente foram largamente circuladas por algum tempo. O resultado foi uma misturada de leituras variantes para confundir os mal informados e enganar os incautos. Tal cenário era totalmente previsível. Se o N. T. é de fato a Palavra de Deus, então tanto Deus quanto Satanás devem ter um vivo interesse na sua situação. Abordar a crítica textual do N. T. sem levar isto devidamente em conta é agir irresponsavelmente.
+Voltando agora para a transmissão anormal, sem dúvida ela começou junto com a normal. Os próprios escritos apostólicos contêm fortes reclamações e advertências contra atividades heréticas e maliciosas. À medida que o Cristianismo se espalhou e começou a impactar o mundo, nem todas as pessoas o aceitaram como “boas novas”. Vários tipos de oposição surgiram. Também surgiram divisões dentro da comunidade cristã global — no próprio N. T. notam-se os começos de alguns desses desvios. Em alguns casos fidelidade a uma posição ideológica (teológica) evidentemente tornou-se mais importante do que fidelidade ao texto do N. T. Certo é que alguns dos Pais da Igreja que escreveram durante o segundo século se queixaram amargamente a respeito das alterações propositadas do Texto feitas pelos “hereges”. Grandes partes dos escritos existentes dos primeiros Pais se ocupam precisa e exclusivamente com o combate aos hereges. É claro que durante o segundo século, e talvez já no primeiro, tais pessoas produziram muitas cópias dos escritos do N. T. incorporando as suas alterações[^332]. Algumas aparentemente foram largamente circuladas por algum tempo. O resultado foi uma misturada de leituras variantes para confundir os mal informados e enganar os incautos. Tal cenário era totalmente previsível. Se o N. T. é de fato a Palavra de Deus, então tanto Deus quanto Satanás devem ter um vivo interesse na sua situação. Abordar a crítica textual do N. T. sem levar isto devidamente em conta é agir irresponsavelmente.
 
-*1) A maior parte do estrago foi feito até 200 DC*
+**1) A maior parte do estrago foi feito até 200 DC**
 
 É geralmente aceito que a maioria das variantes significativas já existiam até o final do segundo século. Colwell afirma: “A maioria esmagadora das leituras foi criada antes do ano 200.”[^333] Décadas antes dele Scrivener disse: “Tanto é de acordo com os fatos quanto soa paradoxal que as piores corrupções feitas ao Novo Testamento tiveram origem dentro de cem anos de sua origem.”[^334] Kilpatrick comenta a evidência dos papiros mais antigos.
 
-Vamos considerar nossos dois manuscritos mais ou menos dessa data [200 DC] que contêm partes de João, o Papiro Chester Beatty e o Papiro Bodmer. Eles trazem mais ou menos setenta versículos em comum. No escopo desses setenta versículos eles discordam entre si umas setenta e três vezes, afora equívocos.
+> Vamos considerar nossos dois manuscritos mais ou menos dessa data [200 DC] que contêm partes de João, o Papiro Chester Beatty e o Papiro Bodmer. Eles trazem mais ou menos setenta versículos em comum. No escopo desses setenta versículos eles discordam entre si umas setenta e três vezes, afora equívocos.
+>
+> Além disso, no Papiro Bodmer o copista original frequentemente corrigiu aquilo que ele havia primeiro escrito. Em alguns lugares ele está corrigindo os seus próprios equívocos mas em outros, ele substitui uma forma de frase por uma outra. Em mais ou menos setenta e cinco dessas substituições ambas as alternativas são conhecidas independentemente a partir de outros manuscritos. O copista está de fato substituindo uma variante por uma outra em cerca de setenta e cinco lugares, de sorte que podemos concluir que no tempo dele já havia variação nesses pontos[^335].
 
-Além disso, no Papiro Bodmer o copista original frequentemente corrigiu aquilo que ele havia primeiro escrito. Em alguns lugares ele está corrigindo os seus próprios equívocos mas em outros, ele substitui uma forma de frase por uma outra. Em mais ou menos setenta e cinco dessas substituições ambas as alternativas são conhecidas independentemente a partir de outros manuscritos. O copista está de fato substituindo uma variante por uma outra em cerca de setenta e cinco lugares, de sorte que podemos concluir que no tempo dele já havia variação nesses pontos[^335].
+Zuntz também reconheceu tudo isso. “A crítica moderna para diante da barreira do segundo século. Parece ser a época de liberdades incontidas para com o texto.”[^336]
 
-Zuntz também reconheceu tudo isso. “A crítica moderna para diante da barreira do segundo século.
+Kilpatrick continua a argumentar que a criação de novas variantes cessou em torno de 200 DC porque tornou-se impossível “vendê-las.” Ele comenta algumas das tentativas de Orígenes para introduzir modificações no texto, e prossegue:
 
-Parece ser a época de liberdades incontidas para com o texto.”[^336]
-
-Kilpatrick continua a argumentar que a criação de novas variantes cessou em torno de 200 DC porque tornou-se impossível “vendê-las.” Ele comenta algumas das tentativas de Orígenes para introduzir modificações no texto, e prossegue: O tratamento dado por Orígenes a Mt 19.19 é significante de duas outras maneiras.
-
-Primeiro ele era provavelmente o comentarista mais influente da Igreja Antiga e mesmo assim a sua conjectura parece ter influenciado só um manuscrito duma versão local do Novo Testamento. A tradição grega aparentemente não sofreu nenhuma influência dela. A partir do terceiro século nem mesmo um Orígenes podia efetivamente alterar o texto.
-
-Isto nos leva para o segundo ponto significante — sua data. A partir do começo do terceiro século em diante a liberdade para alterar o texto que havia existido não mais podia ser praticada. Taciano é o último autor a fazer mudanças propositadas no texto acerca de quem temos informação explícita. Entre Taciano e Orígenes a opinião cristã mudou tanto que não era mais possível fazer mudanças no texto nem mesmo que fossem inofensivas[^337].
+> O tratamento dado por Orígenes a Mt 19.19 é significante de duas outras maneiras.
+>
+> Primeiro ele era provavelmente o comentarista mais influente da Igreja Antiga e mesmo assim a sua conjectura parece ter influenciado só um manuscrito duma versão local do Novo Testamento. A tradição grega aparentemente não sofreu nenhuma influência dela. A partir do terceiro século nem mesmo um Orígenes podia efetivamente alterar o texto.
+>
+> Isto nos leva para o segundo ponto significante — sua data. A partir do começo do terceiro século em diante a liberdade para alterar o texto que havia existido não mais podia ser praticada. Taciano é o último autor a fazer mudanças propositadas no texto acerca de quem temos informação explícita. Entre Taciano e Orígenes a opinião cristã mudou tanto que não era mais possível fazer mudanças no texto nem mesmo que fossem inofensivas[^337].
 
 Kilpatrick acha que essa atitude foi uma reação contra o remanejo do texto pelos hereges do segundo século. Certamente houve um grande clamor, e qualquer que seja a razão, parece que houve pouco prejuízo adicional após o ano 200 DC.
 
-*2) As formas de texto aberrantes*
+**2) As formas de texto aberrantes**
 
 O alcance das dificuldades textuais do segundo século facilmente pode ser exagerado. Mesmo assim, a evidência citada realmente prova que formas aberrantes do texto do N. T. foram produzidas. Naturalmente, algumas daquelas formas podem ter obtido aceitação local e temporária, mas mal poderiam se tornar mais do que pequenos remansos à beira do rio “majoritário.” Lembre-se de que a possibilidade de conferir com os autógrafos deve ter servido para inibir a difusão de tais formas de texto.
 
@@ -1207,23 +1236,19 @@ Agora, que tipo de quadro podemos esperar encontrar nas testemunhas sobrevivente
 
 ![Figura C: O Cone de Transmissão Textual — Transmissão Irresponsável, Normal e Fabricada (AD 100 a AD 1000)](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-2.webp)
 
-Os MSS dentro do cone representam a transmissão “normal”. À esquerda tenho colocado alguns possíveis representantes daquilo que poderíamos caracterizar como transmissão “irresponsável” do texto-os copistas produziram cópias defeituosas por causa de incompetência ou descuido, mas não fizeram alterações propositadas. À direita tenho colocado alguns possíveis representantes daquilo que poderíamos caracterizar como a transmissão “fabricada” do texto-os copistas fizeram alterações propositadas no texto (quaisquer que tenham sido as razões), produzindo cópias fabricadas, não cópias verdadeiras. Estou bem ciente que os MSS distribuídos na figura acima contêm tanto erros de descuido quanto erros deliberados, em proporções diferentes (7Q5,4,8 e P⁵² são fragmentos pequenos demais para permitir a classificação de seus erros como deliberados em vez de descuidados), de sorte que uma classificação como esta, não deixa de ser relativa, e apresenta um quadro um pouco distorcido. Mesmo assim, eu insisto em que ignorância, descuido, intromissão e malícia, todos deixaram marcas sobre a transmissão do texto do Novo Testamento, e devemos levá-los em conta em qualquer tentativa de reconstruir a história dessa transmissão.
+Os MSS dentro do cone representam a transmissão “normal”. À esquerda tenho colocado alguns possíveis representantes daquilo que poderíamos caracterizar como transmissão “irresponsável” do texto — os copistas produziram cópias defeituosas por causa de incompetência ou descuido, mas não fizeram alterações propositadas. À direita tenho colocado alguns possíveis representantes daquilo que poderíamos caracterizar como a transmissão “fabricada” do texto — os copistas fizeram alterações propositadas no texto (quaisquer que tenham sido as razões), produzindo cópias fabricadas, não cópias verdadeiras. Estou bem ciente que os MSS distribuídos na figura acima contêm tanto erros de descuido quanto erros deliberados, em proporções diferentes (7Q5,4,8 e P⁵² são fragmentos pequenos demais para permitir a classificação de seus erros como deliberados em vez de descuidados), de sorte que uma classificação como esta, não deixa de ser relativa, e apresenta um quadro um pouco distorcido. Mesmo assim, eu insisto em que ignorância, descuido, intromissão e malícia, todos deixaram marcas sobre a transmissão do texto do Novo Testamento, e devemos levá-los em conta em qualquer tentativa de reconstruir a história dessa transmissão.
 
 Como a figura sugere, sustento que a campanha de Diocleciano teve um efeito purificador sobre o fluxo da transmissão. Para suportar tortura (e morte) antes de entregar o(s) seu(s) MS(S), alguém teria que ser crente comprometido, o tipo de pessoa que quereria boas cópias das Escrituras. Assim, é provável que eram os MSS mais contaminados, em geral, que foram destruídos, deixando os MSS mais puros para repovoar a terra (favor ver a parte: “A repressão imperial ao N. T.” no capítulo seis).
 
 Um outro elemento deve ser considerado — uma vez que a campanha de Diocleciano, como registrado pela História, foi mais intensiva e eficiente na região Bizantina, a vantagem numérica do tipo de texto “Bizantino” sobre o “Ocidental” e o “Alexandrino” teria sido reduzida, dando a estes a oportunidade de avançar (no cômputo global). Mas assim não aconteceu. De modo geral a Igreja recusou-se a propagar essas formas do texto Grego.
 
-O que encontramos ao consultar as testemunhas é exatamente tal quadro. Temos o Texto Majoritário (como Aland o chama), ou o Texto Tradicional (como Burgon o chama), dominando o fluxo da transmissão, com umas poucas testemunhas individualmente seguindo seus caminhos peculiares. Já vimos que a ideia de “tiposdetexto” e recensões, como definidos por Hort e seus seguidores, é infundada. A ideia de “correntes” de Epp não é nada melhor. Só existe uma correnteza, com vários remansos pequenos pelas suas margens[^339]. Ao dizer que o Texto Majoritário domina o fluxo, isto significa que se representa em cerca de 95% dos MSS[^340].
+O que encontramos ao consultar as testemunhas é exatamente tal quadro. Temos o Texto Majoritário (como Aland o chama), ou o Texto Tradicional (como Burgon o chama), dominando o fluxo da transmissão, com umas poucas testemunhas individualmente seguindo seus caminhos peculiares. Já vimos que a ideia de “tipos-de-texto” e recensões, como definidos por Hort e seus seguidores, é infundada. A ideia de “correntes” de Epp não é nada melhor. Só existe uma correnteza, com vários remansos pequenos pelas suas margens[^339]. Ao dizer que o Texto Majoritário domina o fluxo, isto significa que se representa em cerca de 95% dos MSS[^340].
 
 Bem, tal afirmação não é completamente satisfatória porque não dá margem para a mistura ou as afinidades vagantes encontradas dentro de MSS individuais. Uma maneira melhor (embora mais trabalhosa) de descrever a situação seria algo mais ou menos assim: 100% dos MSS concordam quanto a, digamos, 50% do Texto; 99% dos MSS concordam quanto a outros 40% do Texto; mais de 95% dos MSS concordam quanto a outros 4% do Texto; mais de 90% dos MSS concordam quanto a outros 2% do Texto; mais de 80% concordam quanto a outros 2% do Texto; somente para 2% do Texto temos menos que 80% dos MSS concordando, e a maioria desses casos ocorre no Apocalipse[^341]. E os componentes do grupo dissidente variam de leitura para leitura. (Alguém certamente vai me relembrar que testemunhas devem ser pesadas, não contadas; me tolere, em breve chegarei lá.) Contudo, com a ressalva acima, podemos razoavelmente dizer que até 95% dos MSS existentes pertencem ao tipo de texto Majoritário.
 
-Não vejo como explicar uma dominação de 95% (ou 90%) a não ser que aquele texto é procedente dos autógrafos. Hort viu o problema e inventou uma revisão. Sturz parece não ter visto o problema. Ele demonstra que o “tipode-texto Bizantino” é primitivo e independente dos tipos de texto “Ocidental” e
+Não vejo como explicar uma dominação de 95% (ou 90%) a não ser que aquele texto é procedente dos autógrafos. Hort viu o problema e inventou uma revisão. Sturz parece não ter visto o problema. Ele demonstra que o “tipo-de-texto Bizantino” é primitivo e independente dos tipos de texto “Ocidental” e “Alexandrino”, e como Von Soden, quer tratá-los como três testemunhas iguais[^342]. Mas, se os três tipos de texto fossem iguais, como poderia o tipo “Bizantino” obter um predomínio de 90% a 95%?
 
-“Alexandrino”, e como Von Soden, quer tratá-los como três testemunhas iguais[^342]. Mas, se os três tipos de texto fossem iguais, como poderia o tipo “Bizantino” obter um predomínio de 90% a 95%?
-
-O argumento baseado em probabilidade estatística entra aqui com bastante força. Não somente os MSS nos apresentam uma forma de texto gozando de uma maioria de 95%, mas os outros 5% não representam um único tipo de texto concorrente. Os MSS da minoria discordam entre si tanto (ou mais) do que o fazem com a maioria. É uma raridade dois deles concordarem tanto quanto P⁷⁵ e B o fazem. Não estamos, portanto, julgando entre duas formas de texto, uma representando 95% dos MSS e a outra 5%. Antes, temos que julgar entre 95% e uma fração de 1% (comparando o Texto Majoritário com, por exemplo, a forma de texto P⁷⁵, B). Podemos ver um caso específico: em 1Tm 3.16 uns 600 MSS gregos (além dos lecionários) trazem “Deus”, enquanto somente sete trazem algo diferente.
-
-Dos sete, três têm leituras particulares e quatro concordam em ler “quem.”[^343] De sorte que temos que decidir entre 99% e 0,6%, “Deus” contra “quem.” É difícil imaginar qualquer combinação de circunstâncias na história da transmissão do texto possivelmente suficiente para produzir a cataclísmica “virada de cabeça para baixo” na probabilidade estatística necessária para afirmar que “quem” seja a leitura original.
+O argumento baseado em probabilidade estatística entra aqui com bastante força. Não somente os MSS nos apresentam uma forma de texto gozando de uma maioria de 95%, mas os outros 5% não representam um único tipo de texto concorrente. Os MSS da minoria discordam entre si tanto (ou mais) do que o fazem com a maioria. É uma raridade dois deles concordarem tanto quanto P⁷⁵ e B o fazem. Não estamos, portanto, julgando entre duas formas de texto, uma representando 95% dos MSS e a outra 5%. Antes, temos que julgar entre 95% e uma fração de 1% (comparando o Texto Majoritário com, por exemplo, a forma de texto P⁷⁵, B). Podemos ver um caso específico: em 1Tm 3.16 uns 600 MSS gregos (além dos lecionários) trazem “Deus”, enquanto somente sete trazem algo diferente. Dos sete, três têm leituras particulares e quatro concordam em ler “quem.”[^343] De sorte que temos que decidir entre 99% e 0,6%, “Deus” contra “quem.” É difícil imaginar qualquer combinação de circunstâncias na história da transmissão do texto possivelmente suficiente para produzir a cataclísmica “virada de cabeça para baixo” na probabilidade estatística necessária para afirmar que “quem” seja a leitura original.
 
 Realmente parece que aqueles eruditos que rejeitam o Texto Majoritário enfrentam um problema sério. Como ele se explica se não reflete o Original? A ideia duma revisão luciânica, proposta por Hort, já foi abandonada pela maioria dos estudiosos pela falta total de evidência histórica. Os ecleticistas nem estão tentando explicar [o Texto Majoritário]. A tese de “processo” não tem sido articulada em detalhe suficiente para permitir uma refutação, mas parece contraditada frontalmente pelo argumento a partir da probabilidade estatística[^344]. Como poderia qualquer quantidade de “processo” transpor o abismo entre B (ou Aleph) e o TR?
 
@@ -1237,7 +1262,7 @@ Sinceramente, só existe uma explicação razoável para o Texto Majoritário qu
 
 #### *Os Unciais*
 
-Em “*The Text of the New Testament*”[^345] K. Aland apresenta um resumo de resultados duma “colação experimental e sistemática” dos unciais mais importantes dos séculos IV-IX. Ele emprega quatro categorias: “Bizantino”, “original”, “concordâncias” entre os dois, e leituras “independentes ou distintivas.” Visto que por “original” ele parece querer dizer essencialmente “Egípcio” (ou “Alexandrino”) eu usarei as categorias seguintes: Egípcio, Majoritário (“Bizantino”), ambos (“concordâncias”) e outros (“independentes”). Eu prossigo alistando cada MS desde o século IV até o IX para os quais Aland apresenta um resumo:
+Em “*The Text of the New Testament*”[^345] K. Aland apresenta um resumo de resultados duma “colação experimental e sistemática” dos unciais mais importantes dos séculos IV–IX. Ele emprega quatro categorias: “Bizantino”, “original”, “concordâncias” entre os dois, e leituras “independentes ou distintivas.” Visto que por “original” ele parece querer dizer essencialmente “Egípcio” (ou “Alexandrino”) eu usarei as categorias seguintes: Egípcio, Majoritário (“Bizantino”), ambos (“concordâncias”) e outros (“independentes”). Eu prossigo alistando cada MS desde o século IV até o IX para os quais Aland apresenta um resumo:
 
 | Códice | Data | Cont. | Egípcio | Ambos | Majoritário | Outros | Total | Class. | Cat. |
 |:-------|:----:|:-----:|:-------:|:-----:|:-----------:|:------:|:-----:|:------:|:----:|
@@ -1308,11 +1333,11 @@ Em “*The Text of the New Testament*”[^345] K. Aland apresenta um resumo de r
 | U-030 | IX | e | 1 | 38 | 105 | 11 | 155 | M++ | V |
 | V-031 | IX | e | 8 | 101 | 192 | 17 | 318 | M++ | V |
 | Y-034 | IX | e | 4 | 95 | 192 | 6 | 297 | M++++ | V |
-| ∆-037 | IX | e | 69 | 88 | 120 | 47 | 324 | M | III |
+| Δ-037 | IX | e | 69 | 88 | 120 | 47 | 324 | M | III |
 | Θ-038 | IX | e | 75 | 59 | 89 | 95 | 318 | O- | II |
 | Λ-039 | IX | e | 0 | 10 | 41 | 2 | 53 | M++++ | V |
 | Π-041 | IX | e | 11 | 104 | 190 | 18 | 323 | M++ | V |
-| Ω-045 | IX | e | 3 | 104 | 208 | 10 | 325 | M+++ | V |
+| Ω-045 | IX | e | 3 | 104 | 208 | 10 | 325 | M+++ | V |
 | 049 | IX | a | 3 | 29 | 69 | 3 | 104 | M+++ | V |
 | | | p | 0 | 34 | 113 | 3 | 150 | M++++ | V |
 | | | c | 1 | 9 | 82 | 4 | 96 | M+++ | V |
@@ -1379,15 +1404,15 @@ Categorias I, IV, e V são razoavelmente coerentes, mas como devemos interpretar
 | M++++ | | | | | 8 | 8 |
 | M+++++ | | | | | 1 | 1 |
 
-0274 e 063 são fragmentários, o que presumivelmente explica seus resultados excepcionais, E+++ e M+++++ respectivamente; se fossem mais completos provavelmente desceriam um nível. De entre 45 segmentos-M, 31 deles são registrados como acima de 80% 'puros', enquanto 9 registram como acima de 95% ‘puros’. Deve ser possível reconstruir um protótipo “Bizantino” com tolerável confiança. Mas tem-se que conjeturar como Aland chegou ao padrão egípcio nos Evangelhos, desde que a melhor testemunha egípcia (com a exceção do fragmentário 0274, que possui menos que 10% do texto mas registra 90% de pureza), o Códice B, mal registra além de 70%. (Em *The Text*, pag. 95, Aland apresenta um resumo para P⁷⁵ em Lucas — este registra 77% de pureza.) Ademais, além de B e 0274, P⁷⁵ e Z (ambos também fragmentários) são os únicos MSS gregos que alcançam até E+ nos Evangelhos. Isto relembra a conclusão de E. C. Colwell depois de tentar reconstruir um texto alexandrino médio para o primeiro capítulo de Marcos:
+0274 e 063 são fragmentários, o que presumivelmente explica seus resultados excepcionais, E+++ e M+++++ respectivamente; se fossem mais completos provavelmente desceriam um nível. De entre 45 segmentos-M, 31 deles são registrados como acima de 80% ‘puros’, enquanto 9 registram como acima de 95% ‘puros’. Deve ser possível reconstruir um protótipo “Bizantino” com tolerável confiança. Mas tem-se que conjeturar como Aland chegou ao padrão egípcio nos Evangelhos, desde que a melhor testemunha egípcia (com a exceção do fragmentário 0274, que possui menos que 10% do texto mas registra 90% de pureza), o Códice B, mal registra além de 70%. (Em *The Text*, pag. 95, Aland apresenta um resumo para P⁷⁵ em Lucas — este registra 77% de pureza.) Ademais, além de B e 0274, P⁷⁵ e Z (ambos também fragmentários) são os únicos MSS gregos que alcançam até E+ nos Evangelhos. Isto relembra a conclusão de E. C. Colwell depois de tentar reconstruir um texto alexandrino médio para o primeiro capítulo de Marcos:
 
 > Esses resultados mostram de modo convincente que qualquer tentativa de reconstruir um arquétipo do tipo-de-texto Beta [Alexandrino] numa base quantitativa, é destinada ao fracasso. O texto assim reconstruído não é reconstruído, mas construído; é uma entidade artificial que jamais existiu[^346].
 
 Para os outros segmentos de conteúdo a situação não é muito melhor. Só P⁷⁴ (86% de pureza), B (85%) e 81 (80%) registram E++ em a; além deles só A e Aleph conseguem até E+. Códice B é o único E++ (80%) em p, e somente P⁴⁶, A, C, 048 e 1739 alcançam E+. Além dos 88% de pureza do Códice B em c, somente P⁷⁴, A e 1739 alcançam até E+. De que maneira Aland chegou a seu padrão Egípcio nesses segmentos? Poderá esse “padrão” ser fictício, como Colwell afirmou?
 
-Códice A^e é 82% Bizantino e deve ter sido baseado num exemplar Bizantino, presumivelmente do século IV. Códice W em Mateus também é claramente Bizantino e deve ter sido baseado num exemplar Bizantino. O punhado de leituras Bizantinas em B é tão limitado que poderia ser atribuído ao acaso, imagino, mas essa explicação não é cabível para Aleph. Pelo menos em p, se não em todo o teor, o copista de Aleph certamente teve acesso a um exemplar Bizantino, que poderia ser do século III. Mas Astério apresenta evidência muito mais pesada: ele morreu em 341, e assim escreveu mais cedo que isso; parece que os seus MSS seriam do século III — já que mostra 90% de preferência por leituras Bizantinas, aqueles MSS tinham que ser Bizantinos. (Utilizando a minha classificação, Astério seria M++, a preferência pelo Bizantino sendo de 83%. Na base de porcentagem Astério é tão fortemente Bizantino quanto B é Egípcio.) Adamantius morreu em 300, e assim escreveu antes disso. Poderiam os MSS dele ser da primeira metade do século III? Já que mostra uma preferência de 52% por leituras Bizantinas (ou 39%, utilizando a minha classificação) pelo menos alguns dos seus MSS eram presumivelmente Bizantinos. Ademais, P⁶⁶ possui tantas leituras Bizantinas que seu copista tinha que ter acesso a um exemplar Bizantino, que por necessidade seria do século II! A circunstância que algumas leituras Bizantinas em P⁶⁶* foram corrigidas para leituras Egípcias, enquanto algumas leituras Egípcias em P⁶⁶* foram corrigidas para leituras Bizantinas, realmente parece exigir que pressuponhamos exemplares dos dois tipos — entre ambas, as duas mãos dão clara evidência que o Texto Bizantino, como tal, existiu no seu tempo. (Para evidência dos primeiros Pais, papiros e versões, favor ver a seção, “Mas Não Existe Evidência do Texto Bizantino nos Primeiros Séculos”, no capítulo seis.)
+Códice Aᵉ é 82% Bizantino e deve ter sido baseado num exemplar Bizantino, presumivelmente do século IV. Códice W em Mateus também é claramente Bizantino e deve ter sido baseado num exemplar Bizantino. O punhado de leituras Bizantinas em B é tão limitado que poderia ser atribuído ao acaso, imagino, mas essa explicação não é cabível para Aleph. Pelo menos em p, se não em todo o teor, o copista de Aleph certamente teve acesso a um exemplar Bizantino, que poderia ser do século III. Mas Astério apresenta evidência muito mais pesada: ele morreu em 341, e assim escreveu mais cedo que isso; parece que os seus MSS seriam do século III — já que mostra 90% de preferência por leituras Bizantinas, aqueles MSS tinham que ser Bizantinos. (Utilizando a minha classificação, Astério seria M++, a preferência pelo Bizantino sendo de 83%. Na base de porcentagem Astério é tão fortemente Bizantino quanto B é Egípcio.) Adamantius morreu em 300, e assim escreveu antes disso. Poderiam os MSS dele ser da primeira metade do século III? Já que mostra uma preferência de 52% por leituras Bizantinas (ou 39%, utilizando a minha classificação) pelo menos alguns dos seus MSS eram presumivelmente Bizantinos. Ademais, P⁶⁶ possui tantas leituras Bizantinas que seu copista tinha que ter acesso a um exemplar Bizantino, que por necessidade seria do século II! A circunstância que algumas leituras Bizantinas em P⁶⁶* foram corrigidas para leituras Egípcias, enquanto algumas leituras Egípcias em P⁶⁶* foram corrigidas para leituras Bizantinas, realmente parece exigir que pressuponhamos exemplares dos dois tipos — entre ambas, as duas mãos dão clara evidência que o Texto Bizantino, como tal, existiu no seu tempo. (Para evidência dos primeiros Pais, papiros e versões, favor ver a seção, “Mas Não Existe Evidência do Texto Bizantino nos Primeiros Séculos”, no capítulo seis.)
 
-Voltando ao quadro dos unciais acima, no século IV E está na frente em todas as quatro áreas, embora Aleph seja fraco e M ganhando espaço. Se W é do século IV M já ganhou ainda mais. Relembro o leitor que estou me referindo somente à informação do quadro acima. Na realidade eu presumo que no século IV, como em todos os outros, os MSS Bizantinos predominaram. Sendo cópias boas foram usadas e gastas, e portanto se acabaram. Cópias como B e Aleph sobreviveram porque eram “diferentes”, e portanto não usadas. Por “usadas” quero dizer para finalidades comuns — estou bem ciente que Aleph exercitou a ingenuidade de certo número de corretores através dos séculos, mas não deixou descendentes. No século V M toma a frente em e enquanto E retém apc (pode ser surpresa para alguns que C^e é mais M do que qualquer outra coisa). No século VI M fortalece sua posição em e, e fecha o espaço para a (pode ser surpresa para alguém que D^p é mais M do que qualquer outra coisa). Após o século V, com a única exceção do fragmentário Z, todas as testemunhas egípcias são fracas — mesmo a “rainha dos cursivos,” 33, não alcança E+. Dos unciais do século X, para os quais Aland oferece um resumo, todos são claramente Bizantinos (028, 033, 036, 056, 075 e 0124) exceto 0243, que tem registro como um E[^347].
+Voltando ao quadro dos unciais acima, no século IV E está na frente em todas as quatro áreas, embora Aleph seja fraco e M ganhando espaço. Se W é do século IV M já ganhou ainda mais. Relembro o leitor que estou me referindo somente à informação do quadro acima. Na realidade eu presumo que no século IV, como em todos os outros, os MSS Bizantinos predominaram. Sendo cópias boas foram usadas e gastas, e portanto se acabaram. Cópias como B e Aleph sobreviveram porque eram “diferentes”, e portanto não usadas. Por “usadas” quero dizer para finalidades comuns — estou bem ciente que Aleph exercitou a ingenuidade de certo número de corretores através dos séculos, mas não deixou descendentes. No século V M toma a frente em e enquanto E retém apc (pode ser surpresa para alguns que Cᵉ é mais M do que qualquer outra coisa). No século VI M fortalece sua posição em e, e fecha o espaço para a (pode ser surpresa para alguém que Dᵖ é mais M do que qualquer outra coisa). Após o século V, com a única exceção do fragmentário Z, todas as testemunhas egípcias são fracas — mesmo a “rainha dos cursivos,” 33, não alcança E+. Dos unciais do século X, para os quais Aland oferece um resumo, todos são claramente Bizantinos (028, 033, 036, 056, 075 e 0124) exceto 0243, que tem registro como um E[^347].
 
 #### *Os Cursivos*
 
@@ -1403,7 +1428,7 @@ Ao nos voltarmos para os cursivos, Aland também oferece resumos para 150 deles,
 
 Até mesmo entre esses cursivos “independentes” existem dois segmentos que realmente registram como 100% Bizantinos! O melhor representante Egípcio é 81 em Atos, com 80% de pureza. 1739 registra 70% (E+) em c e 68% (E+) em p. Estes são os únicos três segmentos que eu chamaria “claramente Egípcios”. Há dezesseis segmentos que registram entre 50 e 66% (E). Colocando M até M+++++ contra E até E++ temos 344 a 19, e isto baseado nos minúsculos “independentes”. Se acrescentarmos os 900 MSS “predominantemente Bizantinos”, que terão por média mais de dois segmentos cada um, a real proporção é bem mais que 100 a um. Eu presumo que quase todos esses 900 registrarão pelo menos M++, e a maioria sem dúvida registrará M+++ ou acima. Se computássemos somente os segmentos que registram pelo menos 80%, a proporção Bizantino:Egípcio seria mais parecida com 1.000 a um — os MSS que foram classificados pela “colação de ensaio”, como relatada no seu livro, talvez representem 40% do total (excluindo Lecionários), mas podemos razoavelmente concluir que a maior parte dos “independentes” já tenham sido identificados e apresentados. Segue-se que o restante, pelo menos 1.600 MSS, só poderá aumentar o lado Bizantino da proporção. Se o texto Bizantino for “o pior”, então ao longo dos séculos de copiar manuscritos a Igreja estava maciçamente errada!
 
-Os MSS tratados no livro de Aland (primeira edição) refletem a colação feita no seu instituto até 1981. Sem dúvida muitos outros já foram colados de lá para cá, mas as proporções gerais provavelmente não se modificarão significativamente. Veja o estudo feito por Frederic Wisse. Ele colacionou e comparou 1.386 MSS em Lucas 1.10 e 20, e descobriu só quatro unciais (de 34) e quatro cursivos (de 1.352) que apresentavam o tipo de texto Egípcio, mais dois outros de cada que tinham o tipo Egípcio em um dos três capítulos[^348].
+Os MSS tratados no livro de Aland (primeira edição) refletem a colação feita no seu instituto até 1981. Sem dúvida muitos outros já foram colados de lá para cá, mas as proporções gerais provavelmente não se modificarão significativamente. Veja o estudo feito por Frederic Wisse. Ele colacionou e comparou 1.386 MSS em Lucas 1, 10 e 20, e descobriu só quatro unciais (de 34) e quatro cursivos (de 1.352) que apresentavam o tipo de texto Egípcio, mais dois outros de cada que tinham o tipo Egípcio em um dos três capítulos[^348].
 
 #### *Observações Finais*
 
@@ -1417,11 +1442,11 @@ Aland parece concordar que através dos séculos da história da igreja o texto 
 
 Burgon reconheceu a “probabilidade antecedente” com estas palavras: 
 
-> O testemunho mais antigo é provavelmente o melhor testemunho. Que de modo algum esta [probabilidade] sempre se concretiza também é um fato familiarContudo, permanece verdadeiro que, em qualquer ocorrência específica, até que evidência tenha sido produzida em contrário, a mais antiga de duas testemunhas pode razoavelmente ser presumida ser a testemunha melhor informada[^351].
+> O testemunho mais antigo é provavelmente o melhor testemunho. Que de modo algum esta [probabilidade] sempre se concretiza também é um fato familiar. … Contudo, permanece verdadeiro que, em qualquer ocorrência específica, até que evidência tenha sido produzida em contrário, a mais antiga de duas testemunhas pode razoavelmente ser presumida ser a testemunha melhor informada[^351].
 
 Esta expectativa a priori parece ter sido elevada a uma certeza virtual nas mentes de muitos críticos textuais do século passado. O ingrediente básico do trabalho de homens tais como Tregelles, Tischendorf e Hort foi uma deferência aos MSS mais antigos, e nisto eles seguiram Lachmann.
 
-A 'melhor' atestação, assim afirmou Lachmann, é suprida pelas testemunhas mais antigas. Posicionando-se rigorosamente a favor do mais antigo, e desconsiderando toda a evidência [mais] recente, ele assumiu as consequências das observações de Bengel. O material que Lachmann usou poderia, com vantagem, ter sido aumentado; mas o princípio que o texto do Novo Testamento (como daquele de toda outra edição crítica) tem que ser inteiramente baseado sobre a melhor evidência disponível, foi de uma vez para sempre estabelecido por ele[^352].
+> A ‘melhor’ atestação, assim afirmou Lachmann, é suprida pelas testemunhas mais antigas. Posicionando-se rigorosamente a favor do mais antigo, e desconsiderando toda a evidência [mais] recente, ele assumiu as consequências das observações de Bengel. O material que Lachmann usou poderia, com vantagem, ter sido aumentado; mas o princípio que o texto do Novo Testamento (como daquele de toda outra edição crítica) tem que ser inteiramente baseado sobre a melhor evidência disponível, foi de uma vez para sempre estabelecido por ele[^352].
 
 Notar que aqui Zuntz claramente iguala “a mais antiga” a “a melhor”. Ele evidentemente exemplifica o que Oliver tem chamado “a crescente crença que os manuscritos mais antigos contêm o texto mais próximo do original.” Oliver prossegue: 
 
@@ -1431,29 +1456,37 @@ Mas, a “evidência contrária” está à mão. Já vimos que a maioria das va
 
 Geralmente concorda-se que todos os MSS mais antigos, aqueles sobre os quais nossos textos críticos são baseados, vieram do Egito.
 
-Quando o crítico textual olha mais acuradamente para os seus materiais manuscritos mais antigos, a escassez dos seus recursos é mais completamente apreendida. Todas as testemunhas mais antigas, quer papiros ou pergaminhos, vêm apenas do Egito.
-
-Manuscritos produzidos no Egito, estendendo-se do terceiro século ao quinto, fornecem somente uma meia dúzia de testemunhas extensivas (os Papiros Beatty, e os bem conhecidos unciais, Vaticanus, Sinaiticus, Alexandrinus, Ephraem Syrus, e Freer Washington)[^355]. [A estes, os papiros Bodmer têm agora que ser adicionados.]
+> Quando o crítico textual olha mais acuradamente para os seus materiais manuscritos mais antigos, a escassez dos seus recursos é mais completamente apreendida. Todas as testemunhas mais antigas, quer papiros ou pergaminhos, vêm apenas do Egito.
+>
+> Manuscritos produzidos no Egito, estendendo-se do terceiro século ao quinto, fornecem somente uma meia dúzia de testemunhas extensivas (os Papiros Beatty, e os bem conhecidos unciais, Vaticanus, Sinaiticus, Alexandrinus, Ephraem Syrus, e Freer Washington)[^355]. [A estes, os papiros Bodmer têm agora que ser adicionados.]
 
 Mas quais são as qualificações do Egito para se impor à nossa confiança? E quão sábio é seguir o testemunho de apenas um local? Quem achar convincente a história do texto aqui apresentada colocará pouca confiança nos MSS mais antigos.
 
 #### *A Sua Qualidade Julgada por Eles Próprios*
 
-Deixando de lado a história da transmissão do texto, os MSS mais antigos trazem as próprias condenações nas suas faces. P⁶⁶ é largamente considerado como sendo o mais antigo manuscrito de algum tamanho. Que tal sua qualidade? Novamente tomo emprestado do estudo de Colwell sobre P⁴⁵, P⁶⁶, e P⁷⁵. Falando “da seriedade de intento do copista e das peculiaridades do seu próprio método básico de copiar”, ele continua: Sobre estes últimos e importantíssimos assuntos, nossos três escribas estão marcadamente separados. P⁷⁵ e P⁴⁵ seriamente tencionam fazer uma boa cópia, mas é difícil de acreditar que esta foi a intenção de P⁶⁶. As quase 200 leituras sem sentido e 400 grafias itacísticas[^356] em P⁶⁶ são evidência de algo menos que atenção disciplinada à tarefa básica. A esta evidência de descuido têm que ser adicionadas aquelas leituras singulares cuja origem frusta especulação, leituras que não podem receber nenhum rótulo mais exato que desleixo que leva a diversificadas leituras variantes. Uma contagem apressada mostra P⁴⁵ com 20, P⁷⁵ com 57, e P⁶⁶ com 216 leituras puramente descuidadas. Como temos visto, P⁶⁶ tem, adicionalmente, mais que duas vezes os “saltos” de [palavras] iguais para iguais, que qualquer um dos outros dois[^357].
+Deixando de lado a história da transmissão do texto, os MSS mais antigos trazem as próprias condenações nas suas faces. P⁶⁶ é largamente considerado como sendo o mais antigo manuscrito de algum tamanho. Que tal sua qualidade? Novamente tomo emprestado do estudo de Colwell sobre P⁴⁵, P⁶⁶, e P⁷⁵. Falando “da seriedade de intento do copista e das peculiaridades do seu próprio método básico de copiar”, ele continua:
+
+> Sobre estes últimos e importantíssimos assuntos, nossos três escribas estão marcadamente separados. P⁷⁵ e P⁴⁵ seriamente tencionam fazer uma boa cópia, mas é difícil de acreditar que esta foi a intenção de P⁶⁶. As quase 200 leituras sem sentido e 400 grafias itacísticas[^356] em P⁶⁶ são evidência de algo menos que atenção disciplinada à tarefa básica. A esta evidência de descuido têm que ser adicionadas aquelas leituras singulares cuja origem frusta especulação, leituras que não podem receber nenhum rótulo mais exato que desleixo que leva a diversificadas leituras variantes. Uma contagem apressada mostra P⁴⁵ com 20, P⁷⁵ com 57, e P⁶⁶ com 216 leituras puramente descuidadas. Como temos visto, P⁶⁶ tem, adicionalmente, mais que duas vezes os “saltos” de [palavras] iguais para iguais, que qualquer um dos outros dois[^357].
 
 O estudo de Colwell levou em consideração somente leituras singulares — leituras não apoiadas por nenhum outro MS. Ele localizou e revelou que P⁶⁶ tem 400 itacismos mais 482 leituras singulares outras, 40 porcento das quais são sem sentido[^358]. “P⁶⁶ edita [i.é, introduz as opiniões do copista], como faz com tudo o mais — de forma desleixada.”[^359] Em suma, P⁶⁶ é uma cópia extremamente ruim, no entanto é uma das mais antigas!
 
 P⁷⁵ é colocado próximo a P⁶⁶ quanto à data de origem. Embora não seja tão ruim quanto P⁶⁶, dificilmente poderia ser dito que é uma boa cópia. Colwell localizou e revelou que P⁷⁵ tem cerca de 145 itacismos, mais 257 outras leituras singulares, 25 porcento das quais são sem sentido[^360]. Embora Colwell dê ao copista de P⁷⁵ o crédito de ter tentado produzir uma boa cópia, P⁷⁵ parece bom somente ao ser comparado com P⁶⁶. (Se você fosse copiar o Evangelho de João a mão, será que cometeria mais de 400 erros[^361]? Experimente e veja!) Deve ser conservado em mente que os números oferecidos por Colwell tratam somente dos erros que são propriedade exclusiva dos respectivos MSS. Estes, sem dúvida, contêm muitos outros erros que acontecem também ser encontrados em alguma(s) outra(s) testemunha(s). Em outras palavras, P⁷⁵ e P⁶⁶ são de fato ainda piores do que os números de Colwell indicam.
 
-P⁴⁵, embora um pouco posterior quanto à data de origem, será considerado a seguir porque é o terceiro membro do estudo de Colwell. Ele localizou e revelou que P⁴⁵ tem aproximadamente 90 itacismos mais 275 outras leituras singulares, 10 porcento das quais são sem sentido[^362]. No entanto, P⁴⁵ é mais curto que P⁶⁶ (P⁷⁵ é mais longo) e assim não é comparativamente o tanto melhor quanto os números podem sugerir à primeira olhadela. Colwell comenta sobre P⁴⁵: Uma outra maneira de dizer isto é que, quando o copista de P⁴⁵ cria uma leitura singular, quase sempre ela faz sentido; quando os copistas de P⁶⁶ e P⁷⁵ criam leituras singulares, elas frequentemente não fazem sentido e são erros óbvios. Assim P⁴⁵ tem que receber o [mau] crédito de uma densidade de mudanças intencionais muito maior do que os outros dois MSS[^363].
+P⁴⁵, embora um pouco posterior quanto à data de origem, será considerado a seguir porque é o terceiro membro do estudo de Colwell. Ele localizou e revelou que P⁴⁵ tem aproximadamente 90 itacismos mais 275 outras leituras singulares, 10 porcento das quais são sem sentido[^362]. No entanto, P⁴⁵ é mais curto que P⁶⁶ (P⁷⁵ é mais longo) e assim não é comparativamente o tanto melhor quanto os números podem sugerir à primeira olhadela. Colwell comenta sobre P⁴⁵:
+
+> Uma outra maneira de dizer isto é que, quando o copista de P⁴⁵ cria uma leitura singular, quase sempre ela faz sentido; quando os copistas de P⁶⁶ e P⁷⁵ criam leituras singulares, elas frequentemente não fazem sentido e são erros óbvios.
+>
+> Assim P⁴⁵ tem que receber o [mau] crédito de uma densidade de mudanças intencionais muito maior do que os outros dois MSS[^363].
 
 Como um editor, o copista de P⁴⁵ usou um machado afiado. O aspecto do seu estilo que mais chama a atenção é sua concisão. As palavras dispensáveis são dispensadas. Ele omite advérbios, adjetivos, substantivos, particípios, verbos, pronomes pessoais — sem qualquer hábito compensatório de adição. Frequentemente omite frases e cláusulas. Prefere as palavras simples às compostas. Em suma, favorece brevidade. Ele encurta o texto em pelo menos cinquenta locais, somente contando as leituras singulares. Mas não remove sílabas nem letras. Seu texto encurtado é legível[^364].
 
 De especial significância é a possibilidade de afirmar com certeza que o copista de P⁴⁵ deliberada e extensamente encurtou o texto. Colwell lhe concede o crédito de ter tentado produzir uma boa cópia. Se por “boa” ele significa “legível”, pode ser, mas se por “boa” nós significamos uma reprodução fiel do original, então P⁴⁵ é uma cópia má. Uma vez que P⁴⁵ contém muitas alterações deliberadas, somente com certas reservas pode ser chamada uma “cópia”.
 
-P⁴⁶ é considerado por alguns ser tão antigo quanto P⁶⁶. O estudo de P⁴⁶ por Zuntz é bem conhecido. “Apesar da sua boa aparência (foi escrito por um copista profissional e corrigido — mas muito imperfeitamente — por um perito), de modo algum P⁴⁶ é um bom manuscrito. O copista cometeu muitos erros grosseiros... Minha impressão é que foi sujeito a ataques de exaustão.”[^365]
+P⁴⁶ é considerado por alguns ser tão antigo quanto P⁶⁶. O estudo de P⁴⁶ por Zuntz é bem conhecido. “Apesar da sua boa aparência (foi escrito por um copista profissional e corrigido — mas muito imperfeitamente — por um perito), de modo algum P⁴⁶ é um bom manuscrito. O copista cometeu muitos erros grosseiros… Minha impressão é que foi sujeito a ataques de exaustão.”[^365]
 
-Deve ser observado de passagem que o Códice B também é notado por sua “boa aparência”, mas não deve consequentemente ser presumido que deve ser uma boa cópia. Zuntz diz mais: “P⁴⁶ abunda em grosseiros erros de cópia, em omissões e também em adições.”[^366] O copista que escreveu o papiro fez seu trabalho muito mal. De suas inumeráveis falhas, somente uma fração (menos que uma em dez) tem sido corrigida e mesmo aquela fração — como frequentemente acontece em manuscritos — diminui progressivamente à medida que se aproxima do final do livro. Páginas inteiras têm sido deixadas sem qualquer correção, por mais que precisassem dela[^367].
+Deve ser observado de passagem que o Códice B também é notado por sua “boa aparência”, mas não deve consequentemente ser presumido que deve ser uma boa cópia. Zuntz diz mais: “P⁴⁶ abunda em grosseiros erros de cópia, em omissões e também em adições.”[^366]
+
+> o copista que escreveu o papiro fez seu trabalho muito mal. De suas inumeráveis falhas, somente uma fração (menos que uma em dez) tem sido corrigida e mesmo aquela fração — como frequentemente acontece em manuscritos — diminui progressivamente à medida que se aproxima do final do livro. Páginas inteiras têm sido deixadas sem qualquer correção, por mais que precisassem dela[^367].
 
 Hoskier também discutiu o “grande número de omissões” que desfiguram P⁴⁶[^368]. Novamente, Zuntz diz: “Temos observado, por exemplo, que o copista de P⁴⁶ foi descuidado e lerdo, e produziu uma pobre representação de uma excelente tradição. Nem podemos atribuir a excelência básica desta tradição ao manuscrito do qual P⁴⁶ foi copiado (veremos que ele também foi defeituoso).”[^369]
 
@@ -1467,19 +1500,23 @@ Quanto a B e Aleph, já registramos a asserção de Hoskier que estes dois MSS d
 
 Burgon pessoalmente colacionou aqueles que, nos seus dias, eram “os cinco unciais antigos” (ℵ, A, B, C, D). Nas suas obras de forma geral ele repetidamente chama a atenção para a *concordia discors*, a confusão e discordância prevalecente que os unciais antigos mostram entre si. Lc 11.2–4 oferece um exemplo.
 
-“Os cinco Unciais Antigos” (ℵ ABCD) falsificam a Oração [dominical] do Senhor, como registrada por São Lucas, em nada…[^371], em nada menos que 45 palavras. Mas tão pouco eles concordam entre si que se colocam a si próprios em 6 combinações diferentes em seus desvios do Texto Tradicional; no entanto eles nunca são capazes de concordar entre si próprios quanto a uma única leitura variante: enquanto apenas uma vez são mais que dois deles observados concordando, e este supremo ponto de união é nada menos que a omissão de um artigo. Tamanha é a tendência excêntrica deles que em
+> “Os cinco Unciais Antigos” (ℵ ABCD) falsificam a Oração [dominical] do Senhor, como registrada por São Lucas, em nada menos que 45 palavras[^371]. Mas tão pouco eles concordam entre si que se colocam a si próprios em 6 combinações diferentes em seus desvios do Texto Tradicional; no entanto eles nunca são capazes de concordar entre si próprios quanto a uma única leitura variante: enquanto apenas uma vez são mais que dois deles observados concordando, e este supremo ponto de união é nada menos que a omissão de um artigo. Tamanha é a tendência excêntrica deles que em 32 das 45 palavras [que diferem do Texto Tradicional] eles, respectivamente, dão evidência solitária[^372].
 
-32 das 45 palavras [que diferem do Texto Tradicional] eles, respectivamente, dão evidência[^372] solitária.
+Mc 2.1–12 oferece outro exemplo:
 
-Mc 2.1–12 oferece outro exemplo: No curso daqueles 12 versosacharemos existir 60 variações de leituraAgora, no presente caso os 'cinco unciais antigos' não podem ser os depositários de uma tradição — seja ocidental ou oriental — porque em cada verso prestam testemunho inconsistente. Ademais, tem que ser admitido (pois esta não é uma questão de opinião mas um óbvio caso fatual) que é irrazoável depositar confiança em tais documentos. Qual seria o pensamento em uma Corte Judicial a respeito de cinco testemunhas que, chamadas 47 vezes para serem examinadas, fossem observadas produzindo testemunho contraditório todas as vezes[^373]?
+> No curso daqueles 12 versos … acharemos existir 60 variações de leitura. … Agora, no presente caso os ‘cinco unciais antigos’ não podem ser os depositários de uma tradição — seja ocidental ou oriental — porque em cada verso prestam testemunho inconsistente. Ademais, tem que ser admitido (pois esta não é uma questão de opinião mas um óbvio caso fatual) que é irrazoável depositar confiança em tais documentos. Qual seria o pensamento em uma Corte Judicial a respeito de cinco testemunhas que, chamadas 47 vezes para serem examinadas, fossem observadas produzindo testemunho contraditório todas as vezes[^373]?
 
-Também Hort teve ocasião de notar um caso desta *concordia discors*. Comentando sobre os quatro locais no Evangelho de Marcos onde o cantar do galo é mencionado (14:30, 68, 72a, b), ele disse: “A confusão de atestação introduzida por estas várias correntes opostas de mudanças é tão grande que, dos sete principais MSS, ℵ A B C D L ∆, nenhum par deles tem o mesmo texto em todos os quatro locais.”[^374] Ele poderia também ter dito que nestes quatro locais os sete unciais se apresentam em doze combinações diferentes (e apenas A e ∆ concordam em três dos quatro locais). Se adicionarmos W e Θ a confusão continua a mesma exceto que agora há treze combinações. São tais testemunhas merecedoras de crédito?
+Também Hort teve ocasião de notar um caso desta *concordia discors*. Comentando sobre os quatro locais no Evangelho de Marcos onde o cantar do galo é mencionado (14.30, 68, 72a, b), ele disse: “A confusão de atestação introduzida por estas várias correntes opostas de mudanças é tão grande que, dos sete principais MSS, ℵ A B C D L Δ, nenhum par deles tem o mesmo texto em todos os quatro locais.”[^374] Ele poderia também ter dito que nestes quatro locais os sete unciais se apresentam em doze combinações diferentes (e apenas A e Δ concordam em três dos quatro locais). Se adicionarmos W e Θ a confusão continua a mesma exceto que agora há treze combinações. São tais testemunhas merecedoras de crédito?
 
-Recordando o esforço de Colwell para reconstruir um arquétipo “Alexandrino” para o primeiro capítulo de Marcos, ou códice B está errado 34 vezes somente naquele capítulo, ou então a maioria das demais testemunhas “Alexandrinas” primárias está errada, e assim quanto a Aleph e L, etc. Ademais, Kenyon admitiu que B está “desfigurado por muitos erros grosseiros no processo de copiar”[^375]. Scrivener disse de B: Uma propriedade marcante, característica desta cópia, é o grande número de suas omissõesQue uma porção não pequena delas resultou de mera desatenção do copista parece evidente pela circunstância que este mesmo copista repetidamente escreveu palavras e cláusulas duas vezes em seguida, uma classe de enganos que Mai e os colacionadores raramente consideraram digno de registro,mas que de modo algum aumenta nossa estimativa do cuidado empregado no copiar deste venerável registro do cristianismo primitivo[^376].
+Recordando o esforço de Colwell para reconstruir um arquétipo “Alexandrino” para o primeiro capítulo de Marcos, ou códice B está errado 34 vezes somente naquele capítulo, ou então a maioria das demais testemunhas “Alexandrinas” primárias está errada, e assim quanto a Aleph e L, etc. Ademais, Kenyon admitiu que B está “desfigurado por muitos erros grosseiros no processo de copiar”[^375]. Scrivener disse de B:
 
-Até mesmo Hort reconheceu que o copista de B “de modo algum alcançou um alto padrão de acurácia*.*”[^377] Aleph é, por todos os lados, reconhecido ser pior que B, em todas as maneiras.
+> Uma propriedade marcante, característica desta cópia, é o grande número de suas omissões. … Que uma porção não pequena delas resultou de mera desatenção do copista parece evidente pela circunstância que este mesmo copista repetidamente escreveu palavras e cláusulas duas vezes em seguida, uma classe de enganos que Mai e os colacionadores raramente consideraram digno de registro, … mas que de modo algum aumenta nossa estimativa do cuidado empregado no copiar deste venerável registro do cristianismo primitivo[^376].
 
-O Códice D forma uma classe sozinho. Disse Scrivener: O caráter interno do códice Bezae é um tema muito difícil e, na verdade, quase inexaurível. Nenhum manuscrito conhecido contém tantas interpolações ousadas e extensivas (seiscentas, é dito, somente em Atos)Mr. Harris, de curiosas evidências internas, tais como a existência no texto de uma tradução viciada de um verso de Homero, que trás sinais de ter sido retraduzido a partir de uma tradução latina, infere que o grego foi fabricado a partir do latim[^378].
+Até mesmo Hort reconheceu que o copista de B “de modo algum alcançou um alto padrão de acurácia.”[^377] Aleph é, por todos os lados, reconhecido ser pior que B, em todas as maneiras.
+
+O Códice D forma uma classe sozinho. Disse Scrivener:
+
+> O caráter interno do códice Bezae é um tema muito difícil e, na verdade, quase inexaurível. Nenhum manuscrito conhecido contém tantas interpolações ousadas e extensivas (seiscentas, é dito, somente em Atos). … Mr. Harris, de curiosas evidências internas, tais como a existência no texto de uma tradução viciada de um verso de Homero, que trás sinais de ter sido retraduzido a partir de uma tradução latina, infere que o grego foi fabricado a partir do latim[^378].
 
 Hort falou “da quantidade tremenda de erros que D contém.”[^379] Burgon concluiu que D se aproxima mais de um Targum do que de uma cópia[^380].
 
@@ -1493,7 +1530,9 @@ Considere o assim chamado tipo de texto “Alexandrino”. Em tempos recentes, n
 
 Novamente, a Igreja universal simplesmente recusou-se a copiar, ou de qualquer outro modo propagar, aquele tipo de texto. Códice B não tem nenhum “filho”. Códice Aleph não tem nenhum “filho” — de fato, ele é tão ruim que, através dos séculos, algo como 14 pessoas diferentes trabalharam com ele, tentando consertá-lo (mas ninguém o copiou). Relembre o estudo de Colwell onde ele tentou chegar ao arquétipo do Texto “Alexandrino” no primeiro capítulo de Marcos, com base nos 13 MSS que se presumia representar aquele tipo de texto. Eles eram tão díspares que Colwell descartou os sete “piores” deles e então tentou seu experimento usando os seis remanescentes. Mesmo assim os resultados foram tão maus — códice B divergiu do texto médio 34 vezes (somente em um capítulo) — que Colwell colocou as mãos na cabeça e declarou que um tal arquétipo nunca existiu. Se Colwell está correto, então o tipo de texto “Alexandrino” *não pode representar o autógrafo*. O autógrafo é o supremo arquétipo, e ele realmente existiu.
 
-Considere um detalhe a mais. Zuntz diz do copista de P⁴⁶: De suas inumeráveis falhas, somente uma fração (menos que uma em dez) tem sido corrigida e mesmo aquela fração — como frequentemente acontece em manuscritos — diminui progressivamente à medida que se aproxima do final do livro. Páginas inteiras têm sido deixadas sem qualquer correção, por mais que precisassem dela[^382].
+Considere um detalhe a mais. Zuntz diz do copista de P⁴⁶:
+
+> De suas inumeráveis falhas, somente uma fração (menos que uma em dez) tem sido corrigida e mesmo aquela fração — como frequentemente acontece em manuscritos — diminui progressivamente à medida que se aproxima do final do livro. Páginas inteiras têm sido deixadas sem qualquer correção, por mais que precisassem dela[^382].
 
 Uma coisa similar ocorre em P⁶⁶. Por que? Provavelmente porque o corretor esgotou sua esperança, desistiu. Talvez ele viu que a cópia era tão desesperançosamente má que ninguém quereria usá-la, mesmo se ele a pudesse remendar. Deve também ser notado que, embora muitas colações e discussões de MSS ignorem erros de grafia, para uma pessoa no ano 250 desejando usar uma cópia (para estudos devocionais ou o que seja), erros de grafia seriam tão irritantes e distrativos quanto erros mais sérios. Uma cópia como P⁶⁶, com aproximadamente dois erros por verso, seria detestada e posta de lado.
 
@@ -1509,19 +1548,21 @@ Não deve ser presumido, no entanto, que o Texto “Bizantino” não foi usado 
 
 Considere o caso do códice B e P⁷⁵; é dito que eles concordam 82% das vezes (fato sem precedentes para MSS “Alexandrinos”, mas bastante pobre para “Bizantinos”). Mas que tal a discrepância de 18%? Quando P⁷⁵ e B discordam, na maioria das vezes um ou o outro concorda com a leitura “Bizantina”. Se eles vêm de uma fonte em comum, aquela fonte teria sido mais “Bizantina” que qualquer dos descendentes. Mesmo as versões cópticas concordam com o Texto “Bizantino” tão frequentemente quanto discordam.
 
-**“Filhos órfãos”**
+#### *“Filhos Órfãos”*
 
 O estudo e as conclusões de Lake, Blake, e New, já discutidos em uma seção prévia, são de especial interesse aqui. Eles procuraram evidência de genealogia direta e não encontraram virtualmente nenhuma. Eu repito a conclusão deles.
 
-“os manuscritos que temos são, quase todos eles, filhos órfãos, sem irmãos nem irmãs. Tomando este fato em consideração juntamente com o resultado negativo da nossa colação de MSS em Sinai, Patmos, e Jerusalém, é difícil resistir à conclusão que os copistas usualmente destruíam seus exemplares quando tinham copiado os livros sagrados*.*”[^384]
+> “… os manuscritos que temos são, quase todos eles, filhos órfãos, sem irmãos nem irmãs. Tomando este fato em consideração juntamente com o resultado negativo da nossa colação de MSS em Sinai, Patmos, e Jerusalém, é difícil resistir à conclusão que os copistas usualmente destruíam seus exemplares quando tinham copiado os livros sagrados.”[^384]
 
 Será irrazoável supor que uma vez que um MSS velho se tornou esfarrapado e quase ilegível em certos locais, os fiéis fariam uma exata cópia dele e então o destruiriam, ao invés de permitir a indignidade dele literalmente ir se decompondo [até completa destruição]? Que poderia tal prática acarretar às nossas chances de encontrar um MS “Bizantino” bem antigo? Quem objetar a esta conclusão ainda terá que explicar o fato de que em três bibliotecas monásticas antigas equipadas com *scriptória* (cômodos desenhados para facilitar o copiar fiel de MSS), só há “filhos órfãos”. Por que não há nenhum pai?!
 
-Van Bruggen aborda o problema de uma direção ligeiramente diferente. Ele diz do Texto “Bizantino”: O fato que esta forma de texto se faz conhecida a nós através de manuscritos mais recentes não é, como tal, nenhuma prova de que é um tipo de texto tardio, mas parece se tornar uma prova quando ao mesmo tempo um texto diferente é encontrado em todos os manuscritos mais antigos. A combinação destas duas coisas parece oferecer prova decisiva para a origem tardia do Texto Tradicional[^385].
+Van Bruggen aborda o problema de uma direção ligeiramente diferente. Ele diz do Texto “Bizantino”:
 
-Ele responde à “prova aparente” da seguinte maneira: Façamo-nos conscientes do que temos pressuposto com este argumento aparentemente convincente. Que condições têm que ser satisfeitas se desejarmos conceder o prêmio aos maiúsculos mais velhos? Enquanto fizemos esta pergunta assumimos, quer ou não o desejássemos, que éramos capazes de fazer uma comparação imparcial entre manuscritos de um período anterior e aqueles de um período posterior. Afinal de contas, somente se esta hipótese for verdadeira é que podemos chegar a asserções categóricas. Imagine que alguém dissesse: 'na Idade Média foram construídas principalmente catedrais, mas em tempos modernos muitas igrejas pequenas e mais simples estão sendo construídas.' Esta declaração parece completamente verdadeira quando hoje olhamos ao redor nas cidades e aldeias. Todavia estamos em erro. Um erro compreensível: muitas pequenas igrejas da Idade Média têm desaparecido, e usualmente somente as catedrais foram restauradas. Portanto, surge uma grande falsificação histórica de perspectiva com respeito à história da construção de igrejas. Não podemos fazer uma assertiva genérica sobre construção de igrejas na Idade Média, baseados nos materiais sobreviventes. Se ainda ousássemos fazer uma tal asserção, então erroneamente assumimos que os materiais sobreviventes nos capacitaram a fazer uma comparação imparcial. Mas como é a situação no campo dos manuscritos do
+> O fato que esta forma de texto se faz conhecida a nós através de manuscritos mais recentes não é, como tal, nenhuma prova de que é um tipo de texto tardio, mas parece se tornar uma prova quando ao mesmo tempo um texto diferente é encontrado em todos os manuscritos mais antigos. A combinação destas duas coisas parece oferecer prova decisiva para a origem tardia do Texto Tradicional[^385].
 
-Novo Testamento? Temos um número representativo de manuscritos dos primeiros séculos? Somente se esta hipótese for verdadeira é que temos o direito de fazer conclusões e declarações categóricas. Todavia é exatamente neste ponto que as dificuldades surgem. A situação é mesmo tal que sabemos com certeza que não possuímos um número representativo de manuscritos dos primeiros séculos[^386].
+Ele responde à “prova aparente” da seguinte maneira:
+
+> Façamo-nos conscientes do que temos pressuposto com este argumento aparentemente convincente. Que condições têm que ser satisfeitas se desejarmos conceder o prêmio aos maiúsculos mais velhos? Enquanto fizemos esta pergunta assumimos, quer ou não o desejássemos, que éramos capazes de fazer uma comparação imparcial entre manuscritos de um período anterior e aqueles de um período posterior. Afinal de contas, somente se esta hipótese for verdadeira é que podemos chegar a asserções categóricas. Imagine que alguém dissesse: ‘na Idade Média foram construídas principalmente catedrais, mas em tempos modernos muitas igrejas pequenas e mais simples estão sendo construídas.’ Esta declaração parece completamente verdadeira quando hoje olhamos ao redor nas cidades e aldeias. Todavia estamos em erro. Um erro compreensível: muitas pequenas igrejas da Idade Média têm desaparecido, e usualmente somente as catedrais foram restauradas. Portanto, surge uma grande falsificação histórica de perspectiva com respeito à história da construção de igrejas. Não podemos fazer uma assertiva genérica sobre construção de igrejas na Idade Média, baseados nos materiais sobreviventes. Se ainda ousássemos fazer uma tal asserção, então erroneamente assumimos que os materiais sobreviventes nos capacitaram a fazer uma comparação imparcial. Mas como é a situação no campo dos manuscritos do Novo Testamento? Temos um número representativo de manuscritos dos primeiros séculos? Somente se esta hipótese for verdadeira é que temos o direito de fazer conclusões e declarações categóricas. Todavia é exatamente neste ponto que as dificuldades surgem. A situação é mesmo tal que sabemos com certeza que não possuímos um número representativo de manuscritos dos primeiros séculos[^386].
 
 A conclusão de Lake, Blake e New reflete uma outra consideração. A idade do manuscrito não deve ser confundida com a idade do texto que ele exibe. Qualquer cópia, por definição, contém um texto que é mais velho que ela. Nas palavras de Burgon, ela “representa um MS, ou um pedigree de MSS, mais antigos que ela própria, e não é senão justo supor que ela exercita tal representação com acurácia tolerável.”[^387]
 
@@ -1529,17 +1570,15 @@ A conclusão de Lake, Blake e New reflete uma outra consideração. A idade do m
 
 Van Bruggen discute ainda uma outra consideração relevante.
 
-Na Codicologia é reconhecido o grande valor do processo de transliteração no século nono e depois. Naquele tempo, os manuscritos mais importantes do Novo Testamento, escritos em maiúsculas, foram cuidadosamente transcritos para a escrita minúscula. É assumido que depois deste processo de transliteração os [MSS] maiúsculos foram retirados de circulaçãoA importância deste dado não tem sido suficientemente tomada em consideração na crítica textual presente do Novo Testamento. Pois o fato implica que apenas os mais velhos, melhores e mais comumente usados manuscritos nos chegam às mãos na nova vestimenta da escrita minúscula, não é? Isto é ainda mais convincente uma vez que parece que vários arquétipos podem ser detectados neste processo de transliteração para o Novo Testamento. Assim, não recebemos um manuscritomãe através das comportas da transliteração, mas sim vários. Os originais têm, no entanto, desaparecido! Isto lança uma luz totalmente diferente sobre a situação com a qual estamos confrontados com respeito aos manuscritos. Por que os antigos manuscritos sobreviventes mostram um outro tipo de texto? Porque são os únicos sobreviventes da sua geração, e porque sobreviveram devido ao fato que eram de um tipo diferente. Embora alguém continue a sustentar que os copistas do tempo da transliteração transmitiram para a Idade Média um tipo de texto errado, ele, todavia, nunca poderá provar isto codicologicamente com a observação que os maiúsculos mais velhos têm um texto diferente. Isto seria raciocinar em círculo vicioso[^388]. Certamente existiram maiúsculos exatamente tão veneráveis e antigos quanto os sobreviventes Vaticanus e Sinaiticus, e que, como uma seção do Alexandrinus, apresentavam um Texto
-
-Bizantino. Mas eles têm sido renovados na forma de escrita minúscula e sua aparência maiúscula tem desaparecido. Historicamente, parece que os manuscritos maiúsculos mais antigos contêm exclusivamente um texto não Bizantino, mas esta perspectiva é falsificada, exatamente como com respeito à construção de igrejas na Idade Média e no presente[^389].
+> Na Codicologia é reconhecido o grande valor do processo de transliteração no século nono e depois. Naquele tempo, os manuscritos mais importantes do Novo Testamento, escritos em maiúsculas, foram cuidadosamente transcritos para a escrita minúscula. É assumido que depois deste processo de transliteração os [MSS] maiúsculos foram retirados de circulação. … A importância deste dado não tem sido suficientemente tomada em consideração na crítica textual presente do Novo Testamento. Pois o fato implica que apenas os mais velhos, melhores e mais comumente usados manuscritos nos chegam às mãos na nova vestimenta da escrita minúscula, não é? Isto é ainda mais convincente uma vez que parece que vários arquétipos podem ser detectados neste processo de transliteração para o Novo Testamento. Assim, não recebemos um manuscrito-mãe através das comportas da transliteração, mas sim vários. Os originais têm, no entanto, desaparecido! Isto lança uma luz totalmente diferente sobre a situação com a qual estamos confrontados com respeito aos manuscritos. Por que os antigos manuscritos sobreviventes mostram um outro tipo de texto? Porque são os únicos sobreviventes da sua geração, e porque sobreviveram devido ao fato que eram de um tipo diferente. Embora alguém continue a sustentar que os copistas do tempo da transliteração transmitiram para a Idade Média um tipo de texto errado, ele, todavia, nunca poderá provar isto codicologicamente com a observação que os maiúsculos mais velhos têm um texto diferente. Isto seria raciocinar em círculo vicioso[^388]. Certamente existiram maiúsculos exatamente tão veneráveis e antigos quanto os sobreviventes Vaticanus e Sinaiticus, e que, como uma seção do Alexandrinus, apresentavam um Texto Bizantino. Mas eles têm sido renovados na forma de escrita minúscula e sua aparência maiúscula tem desaparecido. Historicamente, parece que os manuscritos maiúsculos mais antigos contêm exclusivamente um texto não Bizantino, mas esta perspectiva é falsificada, exatamente como com respeito à construção de igrejas na Idade Média e no presente[^389].
 
 A significância do processo de transliteração foi explicada por A. Dain como segue: “A cópia transliterada, cuidadosamente escrita e firmemente encadernada, tornou-se o ponto de referência para a tradição subsequente. Os velhos exemplares em papiro e pergaminho que tinham sido copiados, sem dúvidas bastante desgastados, não foram mais de nenhum interesse e foram usualmente descartados ou destruídos.”[^390] Aparentemente houve um movimento organizado para “transliterar” MSS unciais para a forma ou caligrafia minúscula. Notar que Dain concorda com Lake que os exemplares “desgastados” foram então destruídos (alguns podem ter sido “reciclados”, tornando-se palimpsestos). Que tal se aqueles exemplares foram antigos unciais “Bizantinos”? Aliás, pensando melhor, eles têm que tê-lo sido, uma vez que os cursivos são “Bizantinos”.
 
 C. H. Roberts comenta sobre uma prática dos antigos cristãos que teria tido um efeito similar.
 
-Era um hábito judaico tanto conservar manuscritos por pô-los em jarrasquanto, também, descartar escrituras heréticas, desgastadas ou defeituosas enterrando-as próximo a um cemitério; não para preservá-las, mas porque qualquer coisa que pudesse conter o nome de Deus não podia ser destruídacertamente parece que esta instituição de um necrotério para manuscritos sagrados mas não desejados foi transmitida do judaísmo para a Igreja antiga[^391].
+> Era um hábito judaico tanto conservar manuscritos por pô-los em jarras … quanto, também, descartar escrituras heréticas, desgastadas ou defeituosas enterrando-as próximo a um cemitério; não para preservá-las, mas porque qualquer coisa que pudesse conter o nome de Deus não podia ser destruída. … certamente parece que esta instituição de um necrotério para manuscritos sagrados mas não desejados foi transmitida do judaísmo para a Igreja antiga[^391].
 
-Notar que o efeito desta prática em qualquer clima que não seja árido seria a decomposição dos MSS. Se exemplares “Bizantinos”, desgastados pelo uso, foram descartados desta maneira (como parece provável), eles certamente pereceriam. Tudo isso reduz nossas chances de encontrar MSS “Bizanti-nos” realmente antigos. Mas isto também não é tudo.
+Notar que o efeito desta prática em qualquer clima que não seja árido seria a decomposição dos MSS. Se exemplares “Bizantinos”, desgastados pelo uso, foram descartados desta maneira (como parece provável), eles certamente pereceriam. Tudo isso reduz nossas chances de encontrar MSS “Bizantinos” realmente antigos. Mas isto também não é tudo.
 
 #### *Repressão Imperial ao Novo Testamento*
 
@@ -1547,15 +1586,15 @@ Há uma consideração adicional. “É historicamente certo que o texto do Novo
 
 Roberts refere-se à “habitual requisição e destruição de livros pelas autoridades durante os tempos de perseguição, tantas vezes registradas nos atos dos mártires.”[^393] Tal atividade oficial parece ter chegado a um clímax na campanha de Diocleciano para destruir os manuscritos do Novo Testamento, em torno de 300 DC.
 
-Se houve qualquer trauma na história da transmissão normal do texto, foi este; ainda mais que a campanha evidentemente se centrou na área Egeia. Muitos MSS foram descobertos ou entregues e queimados, mas outros certamente escaparam. Que muitos cristãos não teriam poupado nenhum esforço para esconder e preservar suas cópias das Escrituras é demonstrado pela atitude deles para com aqueles que desprezaram e entregaram seus MSS-o cisma Donatista, que imediatamente seguiu à campanha Diocleciana, se prendeu em parte à questão da punição àqueles que tinham entregue MSS. Os cristãos cuja completa devoção às Escrituras foi assim demonstrada viriam a ser também exatamente aqueles que seriam os mais cuidadosos quanto ao pedigree dos seus próprios MSS; do mesmo modo que eles se esforçaram para proteger seus MSS, eles presumivelmente teriam se esforçado para assegurar que seus MSS preservavam a verdadeira redação.
+Se houve qualquer trauma na história da transmissão normal do texto, foi este; ainda mais que a campanha evidentemente se centrou na área Egeia. Muitos MSS foram descobertos ou entregues e queimados, mas outros certamente escaparam. Que muitos cristãos não teriam poupado nenhum esforço para esconder e preservar suas cópias das Escrituras é demonstrado pela atitude deles para com aqueles que desprezaram e entregaram seus MSS — o cisma Donatista, que imediatamente seguiu à campanha Diocleciana, se prendeu em parte à questão da punição àqueles que tinham entregue MSS. Os cristãos cuja completa devoção às Escrituras foi assim demonstrada viriam a ser também exatamente aqueles que seriam os mais cuidadosos quanto ao pedigree dos seus próprios MSS; do mesmo modo que eles se esforçaram para proteger seus MSS, eles presumivelmente teriam se esforçado para assegurar que seus MSS preservavam a verdadeira redação.
 
 De fato, a campanha de Diocleciano pode mesmo ter tido um efeito purificador sobre a transmissão do texto. Se a atitude de desconsideração pelo texto, refletida na disposição de alguns para entregarem seus MSS, também se estendeu à qualidade de texto que estavam dispostos a usar, então podem ter sido principalmente os MSS mais contaminados que foram destruídos, deixando os mais puros para repovoar a terra[^394]. Mas estes MSS puros sobreviventes teriam ficado em demanda extraordinariamente pesada, para serem copiados (a fim de repor aqueles que tinham sido destruídos) e teriam se desgastado mais rápido que o normal.
 
-Em suma, se a história da transmissão aqui apresentada é válida, não seria de esperar, necessariamente, encontrarmos quaisquer MSS “Bizantinos” mais antigos. Eles teriam se desgastado pelo muito uso. (Mas o texto que continham seria preservado por seus descendentes.) Uma analogia é fornecida pelo destino da *Bíblia dos Pobres,* no século XV.
+Em suma, se a história da transmissão aqui apresentada é válida, não seria de esperar, necessariamente, encontrarmos quaisquer MSS “Bizantinos” mais antigos. Eles teriam se desgastado pelo muito uso. (Mas o texto que continham seria preservado por seus descendentes.) Uma analogia é fornecida pelo destino da *Bíblia dos Pobres*, no século XV.
 
 #### *A Biblia Pauperum*
 
-De todas as obras Xilográficas (isto é, aquelas impressas a partir de blocos de madeira) a *BIBLIA PAUPERUM* é talvez a mais rara, como também a mais antiga; é um manual ou um tipo de catecismo da Bíblia, para o uso de jovens e do povo comum, de onde deriva seu nome — 'Biblia Pauperum' — 'A Bíblia dos Pobres'. Assim, os pobres podiam adquirir, por um preço comparativamente baixo, um conhecimento imperfeito de alguns dos eventos registrados nas Escrituras. Sendo muito usadas, as poucas cópias que podem hoje ser encontradas nas bibliotecas dos curiosos estão na sua maior parte mutiladas ou em más condições. A extrema raridade deste livro, e as circunstâncias sob as quais foi produzido, concorrem para lhe conferir um alto grau de interesse[^395].
+> De todas as obras Xilográficas (isto é, aquelas impressas a partir de blocos de madeira) a *BIBLIA PAUPERUM* é talvez a mais rara, como também a mais antiga; é um manual ou um tipo de catecismo da Bíblia, para o uso de jovens e do povo comum, de onde deriva seu nome — ‘Biblia Pauperum’ — ‘A Bíblia dos Pobres’. Assim, os pobres podiam adquirir, por um preço comparativamente baixo, um conhecimento imperfeito de alguns dos eventos registrados nas Escrituras. Sendo muito usadas, as poucas cópias que podem hoje ser encontradas nas bibliotecas dos curiosos estão na sua maior parte mutiladas ou em más condições. A extrema raridade deste livro, e as circunstâncias sob as quais foi produzido, concorrem para lhe conferir um alto grau de interesse[^395].
 
 Embora tenha passado por cinco edições, presumivelmente totalizando milhares de cópias, era tão popular que as cópias foram destruídas pelo uso. Sustento que a mesma coisa aconteceu com os antigos MSS “Bizantinos”.
 
@@ -1567,14 +1606,14 @@ Embora Hort e Kenyon tenham declarado claramente que nenhuma “leitura síria�
 
 #### *Evidência Oriunda dos Pais Antigos*
 
-Esta questão já recebeu alguma atenção no capítulo 4 (“Leituras sírias antes de Crisóstomo”), mas K. Aland nos oferece certa evidência nova e fascinante. Em “The Text of the Church?” ele oferece uma tabulação de citações patrísticas do N.T.[^397] A significância da evidência é de algum modo obscurecida pela apresentação, que parece ser um pouco tendenciosa. O arranjo das palavras é tal que leva o leitor desatento a uma impressão exagerada sobre a evidência contra o Texto Majoritário. Por exemplo, Orígenes é dito ser: “55% contra o Texto Majoritário (30% das quais mostra concordância com o 'Texto Egípcio'), 28% comum a ambos os textos, e 17% pró o Texto Majoritário.” 55 + 28 + 17 = 100. O problema repousa em “das quais”. No uso normal do inglês este “of which” refere-se aos 55% (não aos 100%); assim temos que calcular 30% de 55%, o que nos dá 16,5% (do total). 55 menos 16,5 deixam 38,5% que não são nem Egípcio nem Majoritário, portanto são “outros”. Tabularei as estatísticas inambiguamente, seguindo esta interpretação:
+Esta questão já recebeu alguma atenção no capítulo 4 (“Leituras sírias antes de Crisóstomo”), mas K. Aland nos oferece certa evidência nova e fascinante. Em “The Text of the Church?” ele oferece uma tabulação de citações patrísticas do N.T.[^397] A significância da evidência é de algum modo obscurecida pela apresentação, que parece ser um pouco tendenciosa. O arranjo das palavras é tal que leva o leitor desatento a uma impressão exagerada sobre a evidência contra o Texto Majoritário. Por exemplo, Orígenes é dito ser: “55% contra o Texto Majoritário (30% das quais mostra concordância com o ‘Texto Egípcio’), 28% comum a ambos os textos, e 17% pró o Texto Majoritário.” 55 + 28 + 17 = 100. O problema repousa em “das quais”. No uso normal do inglês este “of which” refere-se aos 55% (não aos 100%); assim temos que calcular 30% de 55%, o que nos dá 16,5% (do total). 55 menos 16,5 deixam 38,5% que não são nem Egípcio nem Majoritário, portanto são “outros”. Tabularei as estatísticas inambiguamente, seguindo esta interpretação:
 
 | Pai | Data | Somente Egípcio | Egípcio e Majoritário | Somente Majoritário | Outros (-EM) | Número de passagens |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | Marcion | (160?) | 23% | 10% | 18% | 49% | 94 |
 | Irineu | (d.202)[^398] | 16% | 16,5% | 16,5% | 51% | 181 |
 | Clemente de Alex. | (d.215) | 13,5% | 29% | 15% | 42,5% | 161 |
-| Hipólito | (d.235) | 14,5% | 31% | 19% | 46,5% | 33\*\* |
+| Hipólito | (d.235) | 14,5% | 31% | 19% | 46,5% | 33** |
 | | — | 13,5% | 18% | 21% | 43,5% | 21 |
 | | — | 14,5% | 18% | 21% | 46,5% | 33 |
 | Orígenes | (d.254) | 16,5% | 28% | 17% | 38,5% | 459 |
@@ -1583,7 +1622,7 @@ Esta questão já recebeu alguma atenção no capítulo 4 (“Leituras sírias a
 | Astério | (d.341) | — | 40% | 50% | 10% | 30 |
 | Basílio | (d.379) | 2,5% | 39% | 40% | 18,5% | 249 |
 | Apost. Const. | (380?) | 3% | 33% | 41% | 23% | 46 |
-| Epifânio | (d.403) | 11% | 33% | 41% | 37% | 114\*\* |
+| Epifânio | (d.403) | 11% | 33% | 41% | 37% | 114** |
 | | — | 11% | 30% | 22% | 37% | 114 |
 | Crisóstomo | (d.407) | 2% | 38% | 40,5% | 19,5% | 915 |
 | Severiano | (d.408) | 3% | 37% | 30% | 30% | 91 |
@@ -1594,9 +1633,9 @@ Esta questão já recebeu alguma atenção no capítulo 4 (“Leituras sírias a
 | Teodoreto | (d.466) | 1% | 41% | 42% | 16% | 481 |
 | João Damasceno | (d.749) | 2% | 40% | 40% | 18% | 63 |
 
-\*\* (Com referência a Hipólito e Epifânio, a primeira linha reflete as estatísticas fornecidas no artigo de Aland, mas elas não totalizam 100%. A segunda linha reflete as estatísticas fornecidas em um rascunho distribuído pela American Bible Society antes da publicação do mesmo artigo. Para Epifânio, a segunda linha é provavelmente correta, uma vez que totaliza 100% — os 33 e 41 foram provavelmente copiados da linha acima. Para Hipólito a segunda linha também não totaliza 100, assim somos obrigados a fazer uma pequena crítica textual para ver se podemos recuperar o original. A terceira linha dá a minha conjectura — os 31 e 19 foram provavelmente tomados emprestados da linha abaixo [no seu artigo Metódio é colocado antes de Orígenes — eu os coloco em ordem cronológica]. Seis erros do rascunho pré-publicação foram corrigidos, mas outros quatro foram criados.)
+** (Com referência a Hipólito e Epifânio, a primeira linha reflete as estatísticas fornecidas no artigo de Aland, mas elas não totalizam 100%. A segunda linha reflete as estatísticas fornecidas em um rascunho distribuído pela American Bible Society antes da publicação do mesmo artigo. Para Epifânio, a segunda linha é provavelmente correta, uma vez que totaliza 100% — os 33 e 41 foram provavelmente copiados da linha acima. Para Hipólito a segunda linha também não totaliza 100, assim somos obrigados a fazer uma pequena crítica textual para ver se podemos recuperar o original. A terceira linha dá a minha conjectura — os 31 e 19 foram provavelmente tomados emprestados da linha abaixo [no seu artigo Metódio é colocado antes de Orígenes — eu os coloco em ordem cronológica]. Seis erros do rascunho pré-publicação foram corrigidos, mas outros quatro foram criados.)
 
-Uma coisa torna-se aparente em um relance. Com a única exceção de Marcion, cada um dos Pais usou o Texto Majoritário mais que o Egípcio. Mesmo com Clemente e Orígenes (no Egito, portanto), o Texto Majoritário é preferido sobre o Egípcio, e pelo final do terceiro século a preferência é clara. Isto é surpreendente, porque vai contra quase tudo que temos sido ensinados durante todo este século. Talvez tenhamos entendido mal a declaração de Aland? Retornando a Orígenes, somos ditos que ele é “55% contra o Texto Majoritário (30% das quais mostra concordância com o 'Texto Egípcio')”. Pensando melhor, o “of which” provavelmente deve referir-se ao total. Neste caso, uma maneira menos ambígua de apresentar as estatísticas seria dizer: “30% concordando com o Texto Egípcio, 17% com o Majoritário, 28% com ambos o Majoritário e o Egípcio e 25% diferindo de ambos.” Tabularei suas estatísticas desta maneira, usando “outros” para a última categoria:
+Uma coisa torna-se aparente em um relance. Com a única exceção de Marcion, cada um dos Pais usou o Texto Majoritário mais que o Egípcio. Mesmo com Clemente e Orígenes (no Egito, portanto), o Texto Majoritário é preferido sobre o Egípcio, e pelo final do terceiro século a preferência é clara. Isto é surpreendente, porque vai contra quase tudo que temos sido ensinados durante todo este século. Talvez tenhamos entendido mal a declaração de Aland? Retornando a Orígenes, somos ditos que ele é “55% contra o Texto Majoritário (30% das quais mostra concordância com o ‘Texto Egípcio’), ….” Pensando melhor, o “of which” provavelmente deve referir-se ao total. Neste caso, uma maneira menos ambígua de apresentar as estatísticas seria dizer: “30% concordando com o Texto Egípcio, 17% com o Majoritário, 28% com ambos o Majoritário e o Egípcio e 25% diferindo de ambos.” Tabularei suas estatísticas desta maneira, usando “outros” para a última categoria:
 
 | Pai | Data | Somente Egípcio | Egípcio e Majoritário | Somente Majoritário | Outros (-EM) | Número de passagens |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -1626,31 +1665,31 @@ Algo que Aland não explica, mas que absolutamente exige nossa atenção, é o p
 
 #### *Evidência Oriunda de Clemente de Alexandria*
 
-Quero explorar esta questão um pouco mais, avaliando uma cópia de Mc 10.17–31 feita por Clemente de Alexandria. O texto é tomado de três edições: *Clement of Alexandria*, ed. G. W. Butterworth (Harvard University Press, 1939 [The Loeb Classical Library]); *Clemens Alexandrinus*, ed. Otto Stahlin (Berlin: Akademie-Verlag, 1970); the Library of Greek Fathers (Athens, 1956, vol. 8). O texto de Clemente é comparado com aquele da UBS[^3], considerado como um representante do texto Egípcio, com o Texto Majoritário de HF, como um representante do texto Bizantino, e com o Códice D como um representante do texto “Ocidental”. O texto grego de cada uma dessas quatro fontes foi arranjado de modo a facilitar a comparação e é fornecido nas páginas seguintes. As quatro linhas em cada conjunto são sempre dadas na mesma ordem: em primeiro lugar Clemente [onde as três edições não estão em completa concordância, eu sigo duas contra uma], em segundo o Texto Majoritário, em terceiro UBS[^3] e em quarto o Códice D. O resultado é interessante e, penso eu, instrutivo.
+Quero explorar esta questão um pouco mais, avaliando uma cópia de Mc 10.17–31 feita por Clemente de Alexandria. O texto é tomado de três edições: *Clement of Alexandria*, ed. G. W. Butterworth (Harvard University Press, 1939 [The Loeb Classical Library]); *Clemens Alexandrinus*, ed. Otto Stahlin (Berlin: Akademie-Verlag, 1970); the Library of Greek Fathers (Athens, 1956, vol. 8). O texto de Clemente é comparado com aquele da UBS³, considerado como um representante do texto Egípcio, com o Texto Majoritário de HF, como um representante do texto Bizantino, e com o Códice D como um representante do texto “Ocidental”. O texto grego de cada uma dessas quatro fontes foi arranjado de modo a facilitar a comparação e é fornecido nas páginas seguintes. As quatro linhas em cada conjunto são sempre dadas na mesma ordem: em primeiro lugar Clemente [onde as três edições não estão em completa concordância, eu sigo duas contra uma], em segundo o Texto Majoritário, em terceiro UBS³ e em quarto o Códice D. O resultado é interessante e, penso eu, instrutivo.
 
 ```text
-Clem. 17) - - - εκπορευοµενω αυτω εις οδον προσελθων    τις −−− εγονυπετει − − − − − −     −−−
-TM          και εκπορευοµενου αυτου εις οδον προσδραµων εις και γονυπετησας αυτον επηρωτα αυτον
+Clem. 17) - - - εκπορευομενω αυτω εις οδον προσελθων    τις −−− εγονυπετει − − − − − −     −−−
+TM          και εκπορευομενου αυτου εις οδον προσδραμων εις και γονυπετησας αυτον επηρωτα αυτον
 UBS           “         “            “    “    “         “        “    “        “          “    “      “
 Bezae         “         “            “    “    “         “        “    “ γονυπετων         “   ηρωτα   “
 
-λεγων διδασκαλε αγαθε τι αγαθον ποιησω ινα ζωην αιωνιον κληρονοµησω 18) ο δε Ιησους λεγει −− − τι
+λεγων διδασκαλε αγαθε τι αγαθον ποιησω ινα ζωην αιωνιον κληρονομησω 18) ο δε Ιησους λεγει −− − τι
 −−−       “       “    “ −−−       “      “    “     “        “           “ “     “  ειπεν αυτω τι
 −−−       “       “    “ −−−        “     “   “     “   “        “ “    “     “     “ “
 λεγων     “       “    “ −−−        “    “   “     “    “        “ “    “       “    “ “
 
-µε αγαθον λεγεις ουδεις αγαθος ει µη − − − εις ο Θεος 19) τας εντολας οιδας µη µοιχευσας µη φονευσης
-µε λεγεις αγαθον     “     “    “ “ −−− “ “ “              “     “      “    “      “     “     “
- “    “      “      “      “   “ “ −−− “ “ “               “     “      “    “ φονευσης µη µοιχευσης
- “    “      “      “      “    “ “ µονος “ − − “          “     “      “    “ µοιχευσης µη πορνευσης
+με αγαθον λεγεις ουδεις αγαθος ει μη − − − εις ο Θεος 19) τας εντολας οιδας μη μοιχευσας μη φονευσης
+με λεγεις αγαθον     “     “    “ “ −−− “ “ “              “     “      “    “      “     “     “
+ “    “      “      “      “   “ “ −−− “ “ “               “     “      “    “ φονευσης μη μοιχευσης
+ “    “      “      “      “    “ “ μονος “ − − “          “     “      “    “ μοιχευσης μη πορνευσης
 
-µη κλεψης µη ψευδοµαρτυρησης − −    −−−      τιµα τον πατερα − − και την µητερα 20) ο δε αποκρι−
- “    “     “        “        µη αποστερησης “       “    “ σου “ “          “        “ “    “
+μη κλεψης μη ψευδομαρτυρησης − −    −−−      τιμα τον πατερα − − και την μητερα 20) ο δε αποκρι−
+ “    “     “        “        μη αποστερησης “       “    “ σου “ “          “        “ “    “
  “    “    “         “         “      “          “   “    “     “ “ “        “        “ “ −−−
- “    “    “ ψευδοµαρτυρησεις  “ αποστερησεις τειµα “     “ −− “ “           “        “ “ αποκρι−
+ “    “    “ ψευδομαρτυρησεις  “ αποστερησεις τειμα “     “ −− “ “           “        “ “ αποκρι−
 
-θεις λεγει αυτω − − − παντα ταυτα εφυλαξα    − − − − − − − 21) ο δε Ιησους εµβλεψας − − −
-  “ ειπεν “ διδασκαλε ταυτα παντα εφυλαξαµην εκ νεωτητος µου   “ “     “      “    αυτω
+θεις λεγει αυτω − − − παντα ταυτα εφυλαξα    − − − − − − − 21) ο δε Ιησους εμβλεψας − − −
+  “ ειπεν “ διδασκαλε ταυτα παντα εφυλαξαμην εκ νεωτητος μου   “ “     “      “    αυτω
 − − εφη      “    “     “     “         “     “     “     “    “ “     “      “        “
 θεις ειπεν “      “   παντα ταυτα εφυλαξα     “     “     “    “ “     “      “        “
 
@@ -1659,42 +1698,42 @@ Bezae         “         “            “    “    “         “        �
     “       “   “    “      “ “ σε       “ −− − − − − − − − −         “     “   “       “      “     “
     “       “   “    “      “ “ σοι      “ −− − − − − − − − − “             “   “      “      “     “
 
-− − −πτωχοις και εξεις θησαυρον εν ουρανω και δευρο ακολουθει µοι − − − − − − − − 22) ο δε στυ−
+− − −πτωχοις και εξεις θησαυρον εν ουρανω και δευρο ακολουθει μοι − − − − − − − − 22) ο δε στυ−
 −−−      “     “    “      “     “    “     “    “       “      “ αρας τον σταυρον     “ “ “
 (τοις)   “     “    “      “     “    “     “    “       “      “ −−− −− −−−            “ “   “
- tois    “     “    “      “     “    “     “    “       “      “ −−− −− −−−           “ “ εστυ−
+ τοις    “     “    “      “     “    “     “    “       “      “ −−− −− −−−           “ “ εστυ−
 
-γνασας επι − − −τω λογω − −απηλθεν λυπουµενος ην γαρ πλουσιος εχων κτηµατα πολλα και αγρους 23)
+γνασας επι − − −τω λογω − −απηλθεν λυπουμενος ην γαρ πλουσιος εχων κτηματα πολλα και αγρους 23)
    “    “ −−− “ “ −−            “        “      “ “    −−−       “     “      “ −− −−−
    “    “ −−− “ “ −−          “          “      “ “     −−−      “     “      “ −− −−−
-γνασεν “ τουτω “ “ και          “        “      “ “     −−−     “ πολλα χρηµατα −− − − −
+γνασεν “ τουτω “ “ και          “        “      “ “     −−−     “ πολλα χρηματα −− − − −
 
-− − περιβλεψαµενος δε ο Ιησους λεγει τοις µαθηταις αυτου πως δυσκολως οι τα χρηµατα εχοντες εισε−
+− − περιβλεψαμενος δε ο Ιησους λεγει τοις μαθηταις αυτου πως δυσκολως οι τα χρηματα εχοντες εισε−
 και         “      −− “    “     “     “      “      “    “     “     “ “      “       “    − −−
   “         “      −− “    “     “     “      “      “    “     “     “ “      “       “     − −−
   “         “      −− “    “     “     “      “      “    “     “     “ “      “       “     − −−
 
-λευσονται εις την βασιλειαν του Θεου    −−−       24) οι δε µαθηται − − − εθαµβουντο επι τοις λογοις
+λευσονται εις την βασιλειαν του Θεου    −−−       24) οι δε μαθηται − − − εθαμβουντο επι τοις λογοις
   −−−      “ “        “      “   “ εισελευσονται       “ “     “     −−−        “      “ “       “
   −−−      “ “        “       “   “       “             “ “    “     −−−        “      “ “       “
-  −−−      “ “        “      “   “ εισελευσοντ[399] [400]” “ “ αυτου εθανβουντο “ “     “
+  −−−      “ “        “      “   “ εισελευσοντ[399] **)[400]” “ “ αυτου εθανβουντο “ “     “
 
 αυτου παλιν δε ο Ιησους αποκριθεις λεγει αυτοις τεκνια πως δυσκολον εστιν τους πεποιθοτας επι −−−
   “ ο δε Ιησους παλιν       “        “     “    τεκνα “        “      “     “       “       “ −−−
   “ “ “      “      “       “        “     “       “    “      “      “ −− −      − − − −− −−−
   “ “ “      “      “       “        “     “       “    “      “      “ τους πεποιθοτας επι τοις
 
-χρηµασιν εις την βασιλειαν του Θεου εισελθειν 25) ευκολωτερον − − − δια της τρυµαλιας της βελονης
-    “      “ “       “       “   “      “         ευκοπωτερον εστι καµηλον δια της τρυµαλιας της
+χρημασιν εις την βασιλειαν του Θεου εισελθειν 25) ευκολωτερον − − − δια της τρυμαλιας της βελονης
+    “      “ “       “       “   “      “         ευκοπωτερον εστι καμηλον δια της τρυμαλιας της
   −−−      “ “       “      “    “      “               “         “    “      “ (“)      “     (“)
-χρηµασιν “     “      “     “    “      “          (fragmentado)  καµηλος     “ −− τρυµαλιδος −−
+χρημασιν “     “      “     “    “      “          (fragmentado)  καμηλος     “ −− τρυμαλιδος −−
 
-καµηλος εισελευσεται η πλουσιος εις την βασιλειαν του Θεου − − − 26) οι δε περισσως εξεπλησσοντο
+καμηλος εισελευσεται η πλουσιος εις την βασιλειαν του Θεου − − − 26) οι δε περισσως εξεπλησσοντο
 ραφιδος εισελθειν    η πλουσιον “ “        “       “    “ εισελθειν    “ “     “          “
       “     διελθειν     “    “     “         “             “           “   “        “       “ “   “          “
       “     διελευσεται η πλουσιος “          “             “       “       “       −−−      “ “   “          “
 
-και ελεγον − − − − − − − − τις ουν δυναται σωθηναι 27) ο δε εµβλεψας −− αυτοις−− − − − ειπεν οτι
+και ελεγον − − − − − − − − τις ουν δυναται σωθηναι 27) ο δε εμβλεψας −− αυτοις−− − − − ειπεν οτι
 λεγοντες προς εαυτους και “ − −       “      “         −−−      “    δε   “    ο Ιησους λεγει −−
     “        “     “    “ “ −−        “      “         −−−      “    −−   “     “   “     “ −−
     “        “     “    “ “ −−        “      “         −−− ενβλεψας δε    “    “    “     “ −−
@@ -1704,35 +1743,35 @@ Bezae         “         “            “    “    “         “        �
   “      “      −−−      “    −−− “ “        “ −− −− “       “   “    “    −−−      “   “ “
   “      “     τουτο     “    εστιν − − −−   “ δε τω “ − − − −− δυνατον − − − − − − −− −−
 
-28) − − ηρξατο ο Πετρος λεγειν αυτω ιδε ηµεις αφηκαµεν παντα και ηκολουθησαµεν σοι 29) αποκριθεις
+28) − − ηρξατο ο Πετρος λεγειν αυτω ιδε ημεις αφηκαμεν παντα και ηκολουθησαμεν σοι 29) αποκριθεις
       −−      “    “    “       “       “ ιδου      “           “               “    “       “         “          “
-      −−      “    λεγειν ο Πετρος      “    “      “           “               “    “ ηκολουθηκαµεν   “    εφη
+      −−      “    λεγειν ο Πετρος      “    “      “           “               “    “ ηκολουθηκαμεν   “    εφη
       και     “   −−Πετρος λεγειν       “ ειδ ου        “       “               “    “       “         “   αποκριθεις
 
-−− ο Ιησους λεγει αµην υµιν λεγω ος αν αγη τα ιδια και γονεις και αδελφους −− − − − −− − − − −−
-δε[401] “ “  ειπεν “ λεγω υµιν ουδεις εστιν ος αφηκεν οικιαν η        “   η αδελφας η πατερα η
-−− “    “   −−− “        “    “    “      “   “     “       “   “     “    “    “    “ µητερα “
+−− ο Ιησους λεγει αμην υμιν λεγω ος αν αγη τα ιδια και γονεις και αδελφους −− − − − −− − − − −−
+δε[401] “ “  ειπεν “ λεγω υμιν ουδεις εστιν ος αφηκεν οικιαν η        “   η αδελφας η πατερα η
+−− “    “   −−− “        “    “    “      “   “     “       “   “     “    “    “    “ μητερα “
 δε “ “      −−− “        “    “    “      “   “     “    −−− “       “     “     “   “    “   −−
 
-− − − −− − − − −− − − − και χρηµατα ενεκεν εµου και ενεκεν του ευαγγελιου µου 30) αποληψεται
-µητερα η γυναικα η τεκνα η αγρους      “     “   “    “     “      “      −−     εαν µη λαβη
+− − − −− − − − −− − − − και χρηματα ενεκεν εμου και ενεκεν του ευαγγελιου μου 30) αποληψεται
+μητερα η γυναικα η τεκνα η αγρους      “     “   “    “     “      “      −−     εαν μη λαβη
 πατερα−− − − − “      “  “    “        “     “   “    “     “      “      −−       “ “    “
-− − − −− − − − “ “       “    “        “     “ η ενεκα “           “      − − ος αν µη λαβη
+− − − −− − − − “ “       “    “        “     “ η ενεκα “           “      − − ος αν μη λαβη
 
-εκατοµπλασιονα νυν εν τω καιρω τουτω αγρους και χρηµατα και οικιας και αδελφους −− − − −
+εκατομπλασιονα νυν εν τω καιρω τουτω αγρους και χρηματα και οικιας και αδελφους −− − − −
 εκατονταπλασιονα “ “ “     “     “    −−− −− −−− −−            “     “     “    και αδελφας
         “        “ “ “     “     “    −−− −− −−− −−            “     “     “      “     “
         “       −− “ “     “     “    ος δε αφηκεν οικειαν          “ αδελφας “ αδελφους
 
-− − − − − − − − − − − − − − − µετα διωγµων εν δε τω − − − −− ερχοµενω ζωη εστιν αιωνιος
-και µητερας και τεκνα και αγρους “     “ και εν “ αιωνι τω       “    ζωην − − − αιωνιον
+− − − − − − − − − − − − − − − μετα διωγμων εν δε τω − − − −− ερχομενω ζωη εστιν αιωνιος
+και μητερας και τεκνα και αγρους “     “ και εν “ αιωνι τω       “    ζωην − − − αιωνιον
   “     “    “     “   “     “   “     “    “ “ “ “        “       “    “ −−−       “
-  “ µητερα “       “   “     “   “ διωγµου− − “ “ “        “      “     “ −−−       “
+  “ μητερα “       “   “     “   “ διωγμου− − “ “ “        “      “     “ −−−       “
 
   − − − 31) πολλοι δε εσονται πρωτοι εσχατοι και οι εσχατοι πρωτοι.
   −−−          “    “    “      “       “     “ −−     “       “
   −−−          “    “    “      “       “     “ (οι)   “       “
-ληµψεται       “    “    “      “       “     “ −−     “       “
+λημψεται       “    “    “      “       “     “ −−     “       “
 ```
 
 *(Notas da colação: 399[^399], 400[^400], 401[^401].)*
@@ -1756,7 +1795,7 @@ Isto não significa necessariamente que Clemente é relacionado mais intimamente
 - As concordâncias totais entre Clemente e UBS³ são 26,
 - As concordâncias totais entre Clemente e TM são 33.
 
-Portanto, parece que, dos três tipos de texto mais comumente mencionados — Bizantino, Egípcio e Ocidental — Clemente tem menores relacionamentos com o “Ocidental” (nesta passagem), embora as 9 concordâncias singulares sugiram alguma influência em comum. Tem sido comumente dito que Clemente é um dos mais “Alexandrinos” ou “Egípcios” dos antigos Pais da Igreja, em termos de sua preferência textual. Mas, pelo menos nesta passagem, Clemente é mais próximo do tipo de texto Bizantino do que do Egípcio. 24 das 26 concordâncias de UBS[^3] com Clemente são comuns com o TM.
+Portanto, parece que, dos três tipos de texto mais comumente mencionados — Bizantino, Egípcio e Ocidental — Clemente tem menores relacionamentos com o “Ocidental” (nesta passagem), embora as 9 concordâncias singulares sugiram alguma influência em comum. Tem sido comumente dito que Clemente é um dos mais “Alexandrinos” ou “Egípcios” dos antigos Pais da Igreja, em termos de sua preferência textual. Mas, pelo menos nesta passagem, Clemente é mais próximo do tipo de texto Bizantino do que do Egípcio. 24 das 26 concordâncias de UBS³ com Clemente são comuns com o TM.
 
 Há muito tempo, Códice D tem sido notório por sua “excentricidade”, e esta passagem provê um eloquente exemplo disto. Mas, comparado a Clemente, o códice parece quase inofensivo. Eu diria que Clemente tem acima de 60 erros (envolvendo acima de 120 palavras) nestes 15 versos, ou uma média de quatro erros por verso! Como devemos explicar tamanho espetáculo?
 
@@ -1800,7 +1839,7 @@ Deve ser mencionado o estudo feito por Harry A. Sturz[^405]. Ele próprio colaci
 
 “PB = leituras de Papiros endossando o texto Bizantino; A = texto Alexandrino; e W = texto Ocidental. Portanto, PB/A/W significa que as leituras Papiro-Bizantinas estão sendo comparadas contra as Alexandrinas onde elas diferem das leituras Ocidentais” (pag. 228). Assim, torna-se visível que Sturz identificou 31 + 121 = 152 locais onde os antigos papiros se alinham com o texto Bizantino contra ambos os textos Alexandrino e Ocidental. Ele dá evidência para mais 175 leituras Bizantinas apoiadas por papiros mas que também têm alguma atestação Ocidental ou Alexandrina, e assim não são “distintamente Bizantinas” (pags. 189–212). Ele ainda se refere a outros 195 casos onde a leitura Bizantina tem apoio de papiros, mas não alista estes casos (pag. 187).
 
-As 169 ocorrências PBW/A nos lembram a declaração feita por Gunther Zuntz: “Leituras Bizantinas que reaparecem em testemunhas Ocidentais têm [ênfase dele] que ser antigas. Elas retroagem ao tempo anterior àquele em que o papiro Chester Beatty [P⁴⁶] foi escrito; o tempo anterior à emergência das separadas tradições Oriental e Ocidental[^406]; em suma, elas retroagem para bem dentro do segundo século.” Poderíamos desejar que Sturz também nos tivesse dado os alinhamentos PA/BW e PW/AB, mas não o fez. De qualquer modo, será que toda aquela atestação das leituras Bizantinas por papiros antigos não merece ser chamada pelo menos de um “vestígio”?
+As 169 ocorrências PBW/A nos lembram a declaração feita por Gunther Zuntz: “Leituras Bizantinas que reaparecem em testemunhas Ocidentais têm [ênfase dele] que ser antigas. Elas retroagem ao tempo anterior àquele em que o papiro Chester Beatty [P⁴⁶] foi escrito; o tempo anterior à emergência das separadas tradições Oriental e Ocidental; em suma, elas retroagem para bem dentro do segundo século.”[^406] Poderíamos desejar que Sturz também nos tivesse dado os alinhamentos PA/BW e PW/AB, mas não o fez. De qualquer modo, será que toda aquela atestação das leituras Bizantinas por papiros antigos não merece ser chamada pelo menos de um “vestígio”?
 
 #### *Evidência Oriunda das Versões Antigas*
 
@@ -1812,13 +1851,13 @@ Tem sido afirmado que as versões antigas (Latina, Siríaca e Cóptica) não tes
 | Siríaca | 63 | 23 | 35 |
 | Cóptica | 49 | 45 | 27 |
 
-Mesmo a versão Cóptica se alinha com o texto Bizantino mais frequentemente que não, mas a tendência de cada uma das versões Latina e Siríaca é claramente em direção ao texto Bizantino. E parece não haver nenhuma correlação previsível entre qualquer uma destas três versões e os unciais e papiros mais antigos e importantes. A versão Velha Latina frequentemente discorda de D, por exemplo, ou divide seu apoio. Eu diria que a Velha Latina dá testemunho claro da existência antiga do “texto” Bizantino. Se a Siríaca e a Cóptica não testemunham pelo “texto” Bizantino, então presumivelmen-te também não podem ser reivindicados para nenhum outro “texto”.
+Mesmo a versão Cóptica se alinha com o texto Bizantino mais frequentemente que não, mas a tendência de cada uma das versões Latina e Siríaca é claramente em direção ao texto Bizantino. E parece não haver nenhuma correlação previsível entre qualquer uma destas três versões e os unciais e papiros mais antigos e importantes. A versão Velha Latina frequentemente discorda de D, por exemplo, ou divide seu apoio. Eu diria que a Velha Latina dá testemunho claro da existência antiga do “texto” Bizantino. Se a Siríaca e a Cóptica não testemunham pelo “texto” Bizantino, então presumivelmente também não podem ser reivindicados para nenhum outro “texto”.
 
-#### *Sumário e Conclusão*
+#### *Sumário e Conclusão [da evidência do texto Bizantino nos primeiros séculos]*
 
-A distinção entre “leituras” e “texto” é comumente feita de um modo enganador. Por exemplo, não é legítimo falar de leituras “Ocidentais” até que alguém tenha definido um texto “Ocidental”, como tal. Para definir um “texto” deve-se reconstruir o arquétipo presumido. Tendo feito isto, então pode-se identificar as leituras que são peculiares àquele arquétipo e portanto característicos dele. Ninguém jamais reconstruiu um arquétipo “Ocidental”, e há concordância geral entre os estudiosos que nunca existiu. Eis aí porque edições críticas do N. T. grego não incluem um símbolo (ícone) representativo do “texto Ocidental”. Em seu recente livro texto, os Aland agora falam do texto “D”, referindo-se ao Códice Bezae. Segue-se que não é legítimo falar de leituras “Ocidentais”. É menos legítimo ainda atribuir MSS, Pais ou Versões ao texto “Ocidental” fantasma. É verdade que MSS, Pais e Versões dos primeiros sécu-los certamente contêm muitas leituras que não são nem “Alexandrinas” nem “Bizantinas”, mas elas parecem ser largamente aleatórias, com uma influência comum discernível aqui e ali. Se o texto “Ocidental” não tem arquétipo, ele não pode representar o original. Vou repetir: Sem arquétipo o texto “Ocidental” não pode representar o original; é impossível!
+A distinção entre “leituras” e “texto” é comumente feita de um modo enganador. Por exemplo, não é legítimo falar de leituras “Ocidentais” até que alguém tenha definido um texto “Ocidental”, como tal. Para definir um “texto” deve-se reconstruir o arquétipo presumido. Tendo feito isto, então pode-se identificar as leituras que são peculiares àquele arquétipo e portanto característicos dele. Ninguém jamais reconstruiu um arquétipo “Ocidental”, e há concordância geral entre os estudiosos que nunca existiu. Eis aí porque edições críticas do N. T. grego não incluem um símbolo (ícone) representativo do “texto Ocidental”. Em seu recente livro texto, os Aland agora falam do texto “D”, referindo-se ao Códice Bezae. Segue-se que não é legítimo falar de leituras “Ocidentais”. É menos legítimo ainda atribuir MSS, Pais ou Versões ao texto “Ocidental” fantasma. É verdade que MSS, Pais e Versões dos primeiros séculos certamente contêm muitas leituras que não são nem “Alexandrinas” nem “Bizantinas”, mas elas parecem ser largamente aleatórias, com uma influência comum discernível aqui e ali. Se o texto “Ocidental” não tem arquétipo, ele não pode representar o original. Vou repetir: Sem arquétipo o texto “Ocidental” não pode representar o original; é impossível!
 
-Similarmente, não é legítimo falar de leituras “Alexandrinas” até que se tenha reconstruído o arquétipo presumido. Colwell tentou e desistiu, declarando que ele nunca existiu. As edições UBS e N-A[^26] não mais incluem um símbolo (ícone) representativo do “texto Alexandrino”. Pelos números fornecidos por Aland, a testemunha “Alexandrina” mais forte, Códice B, é somente 72% ‘pura’ nos Sinópticos — aonde devemos ir para encontrar os outros 28%? Dizem que P⁷⁵ e B têm uma concordância de 82% — aonde devemos ir para encontrar os outros 18%? As testemunhas geralmente atribuídas ao texto “Alexandri-no” estão em discordância constante e significativa entre elas próprias. Uma influência comum sobre elas é, na verdade, discernível, mas há, do mesmo modo, uma grande quantidade de variações aparentemente aleatórias. Todas elas mostram concordâncias significativas com o texto “Bizantino”, em diferentes locais e em variados graus. De fato, nos Sinópticos o Códice C é mais “Bizantino” que “Alexandrino”. Uma vez que não há nenhum arquétipo “Alexandrino” à mão, eu contesto a legitimidade de falar de leituras “Alexandrinas” e de reivindicar MSS, Pais e Versões dos primeiros séculos em favor daquele suposto “texto”. Se o texto “Alexandrino” não tem arquétipo, ele não pode representar o original. Vou repetir: Sem arquétipo o texto “Alexandrino” não pode representar o original; é impossível!
+Similarmente, não é legítimo falar de leituras “Alexandrinas” até que se tenha reconstruído o arquétipo presumido. Colwell tentou e desistiu, declarando que ele nunca existiu. As edições UBS e N-A²⁶ não mais incluem um símbolo (ícone) representativo do “texto Alexandrino”. Pelos números fornecidos por Aland, a testemunha “Alexandrina” mais forte, Códice B, é somente 72% ‘pura’ nos Sinópticos — aonde devemos ir para encontrar os outros 28%? Dizem que P⁷⁵ e B têm uma concordância de 82% — aonde devemos ir para encontrar os outros 18%? As testemunhas geralmente atribuídas ao texto “Alexandrino” estão em discordância constante e significativa entre elas próprias. Uma influência comum sobre elas é, na verdade, discernível, mas há, do mesmo modo, uma grande quantidade de variações aparentemente aleatórias. Todas elas mostram concordâncias significativas com o texto “Bizantino”, em diferentes locais e em variados graus. De fato, nos Sinópticos o Códice C é mais “Bizantino” que “Alexandrino”. Uma vez que não há nenhum arquétipo “Alexandrino” à mão, eu contesto a legitimidade de falar de leituras “Alexandrinas” e de reivindicar MSS, Pais e Versões dos primeiros séculos em favor daquele suposto “texto”. Se o texto “Alexandrino” não tem arquétipo, ele não pode representar o original. Vou repetir: Sem arquétipo o texto “Alexandrino” não pode representar o original; é impossível!
 
 Em contraste, um arquétipo “Bizantino” ou “Majoritário” pode na verdade ser reconstruído, com grau de certeza acima de 99%. Eis aí porque edições críticas modernas do N. T. em grego ainda incluem um símbolo (ícone) representativo do “texto Bizantino” ou “texto Majoritário”. Segue-se que é inteiramente legítimo falar de leituras “Bizantinas” ou “Majoritárias” — elas são definidas pelo arquétipo. Uma vez que o arquétipo “Bizantino” é o único que tem sido demonstrado existir, de onde veio ele senão dos Autógrafos?
 
@@ -1832,7 +1871,7 @@ A forma da pergunta, que reflete aquela da asserção usualmente feita, é tende
 
 Como exatamente devem os MSS ser pesados? E quem seria competente para realizar a pesagem? Como o leitor a esta altura já é bem sabedor, Hort e a maioria dos estudiosos subsequentes têm feito suas “pesagens” com base na assim chamada “evidência interna” — os dois critérios padrão são “escolha a leitura que se adequa ao contexto” e “escolha a leitura que explique a origem da outra leitura.”
 
-Um problema com isto foi bem exposto por Colwell: “De fato, estes dois critérios padrão para a avaliação da evidência interna de leituras podem facilmente cancelar um ao outro e deixar o estudioso livre para escolher [entre as leituras] em termos de seus próprios prejulgamentos.”[^408] Ademais, “quanto mais conhecimento erudito o estudioso tem, mais fácil é para ele produzir uma defesa razoável de ambas as leituras”[^409]
+Um problema com isto foi bem exposto por Colwell: “De fato, estes dois critérios padrão para a avaliação da evidência interna de leituras podem facilmente cancelar um ao outro e deixar o estudioso livre para escolher [entre as leituras] em termos de seus próprios prejulgamentos.”[^408] Ademais, “quanto mais conhecimento erudito o estudioso tem, mais fácil é para ele produzir uma defesa razoável de ambas as leituras. …”[^409]
 
 Todo o processo é tão subjetivo que faz da palavra “pesar” uma sátira ridicularizante. O significado básico do termo envolve uma avaliação feita por um instrumento objetivo. Se queremos que nossa pesagem de MSS tenha validade objetiva, temos que achar um procedimento objetivo.
 
@@ -1846,7 +1885,7 @@ Similarmente, tem sido mostrado por simples lógica/aritmética que Aleph e B t�
 
 Mesmo quando não é possível afirmar objetivamente que uma testemunha particular é mal informada, sua credibilidade sofre se ela anda em companhia suspeita. Várias referências já têm sido dadas para o fenômeno que Burgon chamou de *concordia discors*. Darei mais um exemplo. Burgon nos convida a irmos para Lc 8.35–44 e colacionar os cinco unciais antigos — ℵ, A, B, C, D — para a passagem toda. Comparando os unciais um aos outros e contra o pano de fundo da maioria dos MSS — códice A aparece sozinho 2 vezes; B, 6 vezes; ℵ, 8 vezes; C, 15 vezes; D, 93 vezes — A e B aparecem juntos contra todos 1 vez; B e ℵ, 4 vezes; B e C, 1 vez; B e D, 1 vez; ℵ e C, 1 vez; C e D, 1 vez — A, ℵ e C conspiram juntos 1 vez; B, ℵ e C, 1 vez; B, ℵ e D, 1 vez; A, B, ℵ e C, 1 vez; B, ℵ, C e D, 1 vez. Todos os cinco não concordam juntos nenhuma vez sequer contra a maioria. Como Burgon observou, eles “concordam e novamente se separam, com singular imparcialidade,”[^411] o que o levou a concluir:
 
-> Após uma sincera inspeção das dependências, irá alguém nos condenar como irrazoáveis se declararmos que uma tal demonstração da 'concordia discors' que sempre prevalece entre os unciais mais antigos, mas que especialmente caracteriza ℵ B D, grandemente nos indispõem a tolerar que sua autoridade sem apoio nos determine o Texto das Escrituras[^412]?
+> Após uma sincera inspeção das dependências, irá alguém nos condenar como irrazoáveis se declararmos que uma tal demonstração da ‘concordia discors’ que sempre prevalece entre os unciais mais antigos, mas que especialmente caracteriza ℵ B D, grandemente nos indispõem a tolerar que sua autoridade sem apoio nos determine o Texto das Escrituras[^412]?
 
 Não havemos de concordar com Burgon?
 
@@ -1882,9 +1921,9 @@ Como arcabouço para a discussão que segue usarei as sete “Marcas da Verdade�
 
 ### *As Marcas da Verdade: Antiguidade, ou Primitividade*
 
-Uma leitura, para ser candidata séria a ser a original, deve ser antiga. Se não há atestação[^416] para uma leitura antes da Idade Média[^417], é improvável que ela seja genuína. No entanto uma palavra de cautela se faz necessária. Não apenas pode antiguidade ser demonstrada por uma única testemunha antiga, mas também pela concordância de um número de testemunhas independentes subsequentes-a fonte comum delas teria de ser bem mais antiga. Sturz tem uma boa discussão deste ponto[^418]. Mas qualquer leitura que tenha ampla atestação mais recente quase sempre tem também atestação explícita bem anterior.
+Uma leitura, para ser candidata séria a ser a original, deve ser antiga. Se não há atestação[^416] para uma leitura antes da Idade Média[^417], é improvável que ela seja genuína. No entanto uma palavra de cautela se faz necessária. Não apenas pode antiguidade ser demonstrada por uma única testemunha antiga, mas também pela concordância de um número de testemunhas independentes subsequentes — a fonte comum delas teria de ser bem mais antiga. Sturz tem uma boa discussão deste ponto[^418]. Mas qualquer leitura que tenha ampla atestação mais recente quase sempre tem também atestação explícita bem anterior.
 
-Para dar uma definição concreta à ideia de “antiguidade”, tomarei o ano 400 DC como um pontode-corte arbitrário. Permitindo somente aquelas testemunhas que “falaram” antes daquela data, “antiguidade” incluiria acima de setenta Pais; incluiria os Códices Aleph, B, e vários unciais fragmentários; incluiria os Papiros mais antigos; e também as Versões mais antigas. Como uma ilustração específica, desde 1881 a palavra “vinagre” em Mt 27.34 tem sido desprezada como uma leitura “recente, Bizantina” — mas qual é o veredicto do critério de “antiguidade”? Contra “vinagre” estão os Códices Aleph e B, as versões Latina e Cópticas, os Atos Apócrifos dos Apóstolos, o Evangelho de Nicodemus, e Macarius Magnes — sete testemunhas. A favor de “vinagre” estão o Evangelho de Pedro, *Acta Philippi,* Barnabé, Ireneu, Tertuliano, Celso, Orígenes, pseudoTaciano, Atanásio, Eusébio de Emesa, Teodoro de Heracla, Dídimo, Gregório de Nissa, Gregório Nazianzo, Efraim Sírio, Lactâncio, Tito de Bostra, e a versão Siríaca — dezoito testemunhas[^419]. As testemunhas a favor de “vinagre” são tanto mais antigas quanto mais numerosas que aquelas a favor de “vinho”.
+Para dar uma definição concreta à ideia de “antiguidade”, tomarei o ano 400 DC como um ponto-de-corte arbitrário. Permitindo somente aquelas testemunhas que “falaram” antes daquela data, “antiguidade” incluiria acima de setenta Pais; incluiria os Códices Aleph, B, e vários unciais fragmentários; incluiria os Papiros mais antigos; e também as Versões mais antigas. Como uma ilustração específica, desde 1881 a palavra “vinagre” em Mt 27.34 tem sido desprezada como uma leitura “recente, Bizantina” — mas qual é o veredicto do critério de “antiguidade”? Contra “vinagre” estão os Códices Aleph e B, as versões Latina e Cópticas, os Atos Apócrifos dos Apóstolos, o Evangelho de Nicodemus, e Macarius Magnes — sete testemunhas. A favor de “vinagre” estão o Evangelho de Pedro, *Acta Philippi,* Barnabé, Ireneu, Tertuliano, Celso, Orígenes, pseudo-Taciano, Atanásio, Eusébio de Emesa, Teodoro de Heracla, Dídimo, Gregório de Nissa, Gregório Nazianzo, Efraim Sírio, Lactâncio, Tito de Bostra, e a versão Siríaca — dezoito testemunhas[^419]. As testemunhas a favor de “vinagre” são tanto mais antigas quanto mais numerosas que aquelas a favor de “vinho”.
 
 Naturalmente grande idade, em si própria, não é suficiente. Temos visto que a maioria dos desvios significativos datam do segundo século. O que estamos procurando é a leitura mais antiga, a original, e para julgarmos entre leituras antigas que competem entre si, precisamos de outras considerações.
 
@@ -1894,7 +1933,7 @@ Uma leitura, para ser candidata séria a ser a original, dever ser atestada por 
 
 Até mesmo Hort reconheceu o peso inerente a maioria absoluta: “Uma pressuposição teórica verdadeiramente permanece: que uma maioria de documentos existentes é mais provável de representar uma maioria de documentos ancestrais, a cada etapa de transmissão, do que vice-versa.”[^421] O trabalho daqueles que têm feito colação extensa de MSS tende a confirmar esta hipótese. Assim Lake, Blake e New acharam apenas filhos órfãos entre os MSS que eles colacionaram, e declaram ademais que quase não existiam irmãos — cada MS é um “filho único.”[^422] Isto significa que eles são testemunhas independentes, na própria geração deles. Nas palavras de Burgon:
 
-> ...dificilmente qualquer deles tem sido copiado de qualquer um dos restantes. Ao contrário, descobre-se que diferem entre se em incontáveis detalhes sem importância; e de vez em quando cópias isoladamente trazem idiossincrasias que são totalmente surpreendentes e extraordinárias. Portanto, é demonstrável não ter qualquer conluio conspiratório — nenhum ajustamento a um padrão arbitrário — nenhuma fraude no atacado. É certo que cada um deles representa um MS (ou uma linhagem de MSS) mais antigo que ele próprio, e não é senão justo supor que ele exercita tal representação com acurácia satisfatória[^423].
+> …dificilmente qualquer deles tem sido copiado de qualquer um dos restantes. Ao contrário, descobre-se que diferem entre se em incontáveis detalhes sem importância; e de vez em quando cópias isoladamente trazem idiossincrasias que são totalmente surpreendentes e extraordinárias. Portanto, é demonstrável não ter qualquer conluio conspiratório — nenhum ajustamento a um padrão arbitrário — nenhuma fraude no atacado. É certo que cada um deles representa um MS (ou uma linhagem de MSS) mais antigo que ele próprio, e não é senão justo supor que ele exercita tal representação com acurácia satisfatória[^423].
 
 De acordo com a boa prática jurídica, é injusto declarar arbitrariamente que os ancestrais não eram independentes, algum tipo de evidência tem de ser exibida [antes que tal se afirme]. Já tem sido demonstrado que a “evidência genealógica” de Hort, com referência aos MSS, é fictícia. Mas é verdade que concordância numa leitura implica origem comum, a não ser que seja o tipo de engano que diversos escribas possam ter feito independentemente. O que se considera aqui é a origem comum de leituras individuais, não a dos MSS, mas onde vários MSS compartilham um grande número de leituras peculiares a si próprios, evidentemente sua pretensão a serem independentes fica completamente comprometida. (O “Método Claremont de [traçar] Perfis”[^424] dá promessas de ser um instrumento eficaz para traçar o relacionamento entre MSS.)
 
@@ -1906,7 +1945,7 @@ Quanto ao restante, a história da transmissão torna-se um fator importante, ma
 
 Uma leitura, para ser candidata séria a ser a original, deve ser atestada por uma ampla variedade de testemunhas. Por variedade se quer dizer, em primeiro lugar, muitas áreas geográficas, mas também diferentes espécies de testemunhas — MSS, Pais, Versões, e Lecionários. A importância da “Variedade” é bem estabelecida por Burgon:
 
-> Variedade, distinguindo testemunhas amontoadas juntas, certamente constitui um argumento bastante poderoso para se crer que tal Evidência é verdadeira. Testemunhas de diferentes espécies, de países diferentes, falando línguas diferentes — testemunhas que não podem jamais ter se encontrado, e entre as quais é inimaginável que tenha havido conluio de qualquer tipo — tais testemunhas merecem ser ouvidas com muito respeito. Na verdade, quando testemunhas de tão variados tipos concordam em grandes números, elas devem ser consideradas merecedoras até mesmo de confiança implícita. ... Variedade é que confere virtude a mero Número, impede a urna de ser enchida de cédulas fraudulentas, assegura testemunho genuíno. Testemunho falso é assim detectado e condenado, porque não concorda com o restante. Variedade é o consenso de testemunhas independentes, ...
+> Variedade, distinguindo testemunhas amontoadas juntas, certamente constitui um argumento bastante poderoso para se crer que tal Evidência é verdadeira. Testemunhas de diferentes espécies, de países diferentes, falando línguas diferentes — testemunhas que não podem jamais ter se encontrado, e entre as quais é inimaginável que tenha havido conluio de qualquer tipo — tais testemunhas merecem ser ouvidas com muito respeito. Na verdade, quando testemunhas de tão variados tipos concordam em grandes números, elas devem ser consideradas merecedoras até mesmo de confiança implícita. … Variedade é que confere virtude a mero Número, impede a urna de ser enchida de cédulas fraudulentas, assegura testemunho genuíno. Testemunho falso é assim detectado e condenado, porque não concorda com o restante. Variedade é o consenso de testemunhas independentes, …
 > 
 > É precisamente esta consideração que nos constrange a prestar suprema atenção ao testemunho combinado dos Unciais e de todo o corpo das Cópias Cursivas. Elas: a) são espalhadas por um período de pelo menos 1000 anos; b) evidentemente pertencem a tantas regiões diversas (Grécia, Constantinopla, Ásia Menor, Palestina, Síria, Alexandria, e outras partes da África, para não mencionar Sicília, Sul da Itália, Gáulia, Inglaterra, e Irlanda); c) exibem tantas características estranhas e empatias peculiares; d) tão claramente representam incontáveis famílias de MSS, os quais não sendo em nenhuma instância absolutamente idênticos em seus textos, e certamente não sendo cópias de nenhum outro Códice em existência — que a decisão unânime delas eu asseguro ser uma evidência absolutamente irrefutável da Verdade[^425].
 
@@ -1922,7 +1961,7 @@ Intimamente associado a variedade é o fator de continuidade.
 
 Uma leitura, para ser candidata séria a ser a original, deve ser atestada através das eras de transmissão, do princípio ao fim. Se a história da transmissão do texto foi de algum modo normal, esperaríamos que a redação original “deixasse rastros da sua existência e do seu uso através das eras.”[^428] Se uma leitura ou tradição morreu no quarto ou quinto século, temos o veredicto da História contra ela. Se uma leitura não tem nenhuma atestação antes do século XII, seguramente é uma invenção recente[^429].
 
-Onde há variedade, quase sempre há continuidade também, mas elas não são considerações idênticas. Continuidade também nos ajuda a avaliar a independência das testemunhas. Leituras que existem na forma de pequenos remansos à margem do fluxo do rio “Bizantino”, naqueles instantes condenam como dependentes as suas [testemunhas] sustentadoras. Leituras que gozam tanto de variedade como de continuidade de atestação, defendem a independência das suas [testemunhas] sustentadoras. A não ser que haja alguma demonstração objetiva em contrário (tal como Hort alegou para “genealogia”) não é justo rejeitar a independência de tais testemunhas. Elas têm direito a voto. A conclusão crítica é esta: A maioria dos MSS existentes emerge como testemunhas independentes, em suas gerações, e eles têm que ser *contados* até um tempo tal onde colações completas permitam um agrupamento empírico, como F. Wisse fez em Lucas 1.10, e 20[^430].
+Onde há variedade, quase sempre há continuidade também, mas elas não são considerações idênticas. Continuidade também nos ajuda a avaliar a independência das testemunhas. Leituras que existem na forma de pequenos remansos à margem do fluxo do rio “Bizantino”, naqueles instantes condenam como dependentes as suas [testemunhas] sustentadoras. Leituras que gozam tanto de variedade como de continuidade de atestação, defendem a independência das suas [testemunhas] sustentadoras. A não ser que haja alguma demonstração objetiva em contrário (tal como Hort alegou para “genealogia”) não é justo rejeitar a independência de tais testemunhas. Elas têm direito a voto. A conclusão crítica é esta: A maioria dos MSS existentes emerge como testemunhas independentes, em suas gerações, e eles têm que ser *contados* até um tempo tal onde colações completas permitam um agrupamento empírico, como F. Wisse fez em Lucas 1, 10, e 20[^430].
 
 Hort, seguido por Zuntz e outros[^431], rejeitou esta consideração [de continuidade] taxativamente. Mas o leitor tem agora alguma condição para julgar por si mesmo. Uma vez que não houve nenhuma revisão autoritativa do texto em 300 DC (ou em qualquer outra ocasião), e uma vez que a evidência indica uma história de transmissão razoavelmente normal, como pode a validade de “continuidade” como uma “marca da verdade” ser racionalmente negada? Ao meu ver, os fatores de número, variedade e continuidade formam a espinha dorsal de uma sã metodologia de crítica textual. Eles formam uma trança de três cordas, não facilmente rompível. Mas há várias outras considerações que são úteis, por vezes e da sua maneira.
 
@@ -1944,7 +1983,7 @@ O “contexto” aqui referido não é aquele que é usualmente entendido pela p
 
 Uma excelente ilustração da necessidade deste critério é fornecida pelo Códice D, nos três últimos capítulos de Lucas — a cena das famosas “não-interpolações Ocidentais” de Hort. Depois de discutir dezesseis casos de omissão (onde W-H omitiram material presente no TR) nestes capítulos, Burgon continua:
 
-> A única autoridade para exatamente metade [sendo explícito: Lucas 22.19–20; 24.3, 6, 9, 12, 36, 40, 52] dos locais acima enumerados é um único códice em grego — e este é o mais depravado de todos — a saber, o [códice] D, de Beza. Ademais, deve ser dito que os únicos aliados que se pode descobrir para D são umas poucas cópias da velha [versão em] Latim. ... Quando tiramos Códice D da prateleira, somos lembrados que dentro do espaço dos três capítulos do Evangelho de São Lucas que estão agora sob consideração há em total de não menos que 354 palavras omitidas: das quais 250 são omitidas somente por D. Alguém poderia explicar-nos por que, destas 354 palavras, somente 25 são escolhidas pelos Drs. Westcott e Hort para permanente erradicação do Texto Sagrado? Dentro dos mesmos 3 capítulos, não menos que 173 palavras têm sido adicionadas por D ao Texto geralmente Recebido — 146 palavras têm sido substituídas — 243 têm sido transpostas. Seria permissível perguntar porque destas [173+146+243=] 562 palavras, nem uma sequer foi promovida pelos Revisionistas para aparecer sequer na margem do seu texto[^435]?
+> A única autoridade para exatamente metade [sendo explícito: Lucas 22.19–20; 24.3, 6, 9, 12, 36, 40, 52] dos locais acima enumerados é um único códice em grego — e este é o mais depravado de todos — a saber, o [códice] D, de Beza. Ademais, deve ser dito que os únicos aliados que se pode descobrir para D são umas poucas cópias da velha [versão em] Latim. … Quando tiramos Códice D da prateleira, somos lembrados que dentro do espaço dos três capítulos do Evangelho de São Lucas que estão agora sob consideração há em total de não menos que 354 palavras omitidas: das quais 250 são omitidas somente por D. Alguém poderia explicar-nos por que, destas 354 palavras, somente 25 são escolhidas pelos Drs. Westcott e Hort para permanente erradicação do Texto Sagrado? Dentro dos mesmos 3 capítulos, não menos que 173 palavras têm sido adicionadas por D ao Texto geralmente Recebido — 146 palavras têm sido substituídas — 243 têm sido transpostas. Seria permissível perguntar porque destas [173+146+243=] 562 palavras, nem uma sequer foi promovida pelos Revisionistas para aparecer sequer na margem do seu texto[^435]?
 
 Estamos aqui enfocando Westcott e Hort. De acordo com o próprio julgamento deles, códice D tem omitido [354 − 25 =] 329 palavras do texto genuíno dos últimos três capítulos de Lucas, além de ter adicionado 173, substituído 146 e transposto 243 palavras. Pela própria admissão deles, o texto de D está aqui em um estado fantasticamente caótico; todavia, em oito locais eles omitiram material do texto baseados na autoridade de D, sozinho! Com o escriba numa orgia sem freio de omissões, para não dizer nada das suas outras iniquidades, como pode qualquer valor ser dado ao testemunho de D nestes capítulos, muito menos preferi-lo acima da voz unida de cada uma das outras testemunhas?!?!
 
@@ -1956,13 +1995,13 @@ Estamos aqui enfocando Westcott e Hort. De acordo com o próprio julgamento dele
 
 Esta “marca” não tem nada a ver com a “evidência interna” da qual tanto temos ouvido. Ela é aplicável apenas raramente por ter a ver com leituras que são gramatical, lógica, geográfica, ou cientificamente impossíveis. Burgon considerou que:
 
-- *pantwn*, a leitura de B, D em Lucas 19.37, é uma impossibilidade gramatical;
-- *kardiaij*, a leitura de ℵ, A, B, C, D, etc. em 2Co 3.3, é uma impossibilidade lógica;
-- *ekaton exhkonta*, a leitura de ℵ, K, N, Π, P em Lc 24.13, é uma impossibilidade geográfica;
-- *eklipontoj*, a leitura de P⁷⁵, ℵ, (B) C*, L em Lc 23.45[^438], é uma impossibilidade científica (a Páscoa sempre coincide com uma lua cheia, e uma lua cheia nunca pode eclipsar o sol);
-- *autou*, a leitura de ℵ, B, D, L em Mc 6.22, é uma impossibilidade histórica (ela contradiz ambos Mateus e Josephus)[^439].
+- *παντων*, a leitura de B, D em Lucas 19.37, é uma impossibilidade gramatical;
+- *καρδιαις*, a leitura de ℵ, A, B, C, D, etc. em 2Co 3.3, é uma impossibilidade lógica;
+- *εκατον εξηκοντα*, a leitura de ℵ, K, N, Θ, Π em Lc 24.13, é uma impossibilidade geográfica;
+- *εκλιποντος*, a leitura de P⁷⁵, ℵ, (B) C, L em Lc 23.45[^438], é uma impossibilidade científica (a Páscoa sempre coincide com uma lua cheia, e uma lua cheia nunca pode eclipsar o sol);
+- *αυτου*, a leitura de ℵ, B, D, L em Mc 6.22, é uma impossibilidade histórica (ela contradiz ambos Mateus e Josephus)[^439].
 
-Eu gostaria de oferecer *oj* [aquele], a leitura de Aleph e três cursivos em 1Tm 3.16, como um excelente exemplo de impossibilidade gramatical — ele é um pronome relativo nominativo sem nenhum antecedente no contexto; encaro a alegação de que veio de um hino primitivo como sendo sem nenhum fundamento, um esforço desesperado para salvar uma leitura obviamente má. Na seção seguinte haverão exemplos adicionais.
+Eu gostaria de oferecer *ος* [aquele], a leitura de Aleph e três cursivos em 1Tm 3.16, como um excelente exemplo de impossibilidade gramatical — ele é um pronome relativo nominativo sem nenhum antecedente no contexto; encaro a alegação de que veio de um hino primitivo como sendo sem nenhum fundamento, um esforço desesperado para salvar uma leitura obviamente má. Na seção seguinte haverão exemplos adicionais.
 
 Embora Burgon aparentemente limitasse o uso desta “marca” a leituras que ele considerava ser virtualmente impossíveis, eu a irei expandir na direção do que é normalmente entendido por “razoabilidade”, a saber as exigências do contexto, as quais considero ser uma importante consideração. Uma variante que esteja em discordância com o contexto é suspeita.
 
@@ -1972,7 +2011,7 @@ A primeira edição deste livro [em Inglês] foi criticada porque não continha 
 
 **1) Exemplo – Lucas 3.33**
 
-De acordo com o “International Greek New Testament Project”, quanto a Lucas, cerca de 60% dos MSS gregos inserem tou Iwram entre “Arão” e “Esrom”[^440]. Mas, de 27 unciais existentes, somente 9 incluem “Jorão”; [os outros] 18 não incluem e são sustentados pelas três Versões mais antigas. (“Jorão” foi provavelmente uma *adulteração* de “Arão” [pelo ancestral do MS 1542] que foi subsequentemente *conflado* com ele; a conflação sobrevive em um amplo segmento da tradição “Bizantina”, a qual, aqui, está seriamente dividida.)
+De acordo com o “International Greek New Testament Project”, quanto a Lucas, cerca de 60% dos MSS gregos inserem *του Ιωραμ* entre “Arão” e “Esrom”[^440]. Mas, de 27 unciais existentes, somente 9 incluem “Jorão”; [os outros] 18 não incluem e são sustentados pelas três Versões mais antigas. (“Jorão” foi provavelmente uma *adulteração* de “Arão” [pelo ancestral do MS 1542] que foi subsequentemente *conflado* com ele; a conflação sobrevive em um amplo segmento da tradição “Bizantina”, a qual, aqui, está seriamente dividida.)
 
 **1) Implicações**
 
@@ -1983,40 +2022,40 @@ De acordo com o “International Greek New Testament Project”, quanto a Lucas,
 O *Institut für neutestamentliche Textforschung*, em Münster, Alemanha, tem publicado uma colação quase que completa dos MSS disponíveis, para selecionados conjuntos de variantes em Atos. Isto permite uma relação de evidências diferente da que se vê usualmente — este e os seguintes exemplos de Atos são baseados naquela fonte[^441]. A evidência se apresenta desta forma:
 
 ```text
-1)  µελλοντες   --{TR}f18,lat,syr,sa     160MSS = 33.1%
-2)  µελλοντα    --{HF}                   130  "   = 26.9%
-3)  µελλοντων   --                       (3)82 "  = 17.6%
-4)  µελλων      --P74AB,bo                45  "   =  9.3%
-5)  µελλον      --{NU}ℵ                   36  "   =  7.5%
-6)  µελλοντας   --                       (1)25 "  =  5.4%
+1)  μελλοντες   --{TR}f¹⁸,lat,syr,sa     160MSS = 33.1%
+2)  μελλοντα    --{HF}                   130  "   = 26.9%
+3)  μελλοντων   --                       (3)82 "  = 17.6%
+4)  μελλων      --P⁷⁴AB,bo                45  "   =  9.3%
+5)  μελλον      --{NU}ℵ                   36  "   =  7.5%
+6)  μελλοντας   --                       (1)25 "  =  5.4%
     (um outro)  --                         1  "   =   .2%
-                                         479
+                                         483
 ```
 
-Um quadro angustiante — que fazer? Para começar, as variantes são todas formas de particípios do mesmo verbo [*mellō* = estar ao ponto de fazer]. A chave parece ser o que pudermos perceber como sendo o referenciado ou antecedente do particípio: é ele “os judeus”, “o Sinédrio”, ou “o tribuno”? A melhor resposta, do ponto de vista gramatical, é evidentemente “os judeus”, o que exigiria uma forma plural, nominativa, masculina — o único candidato é a variante 1. No entanto, houve aqueles que tomaram o referenciado como sendo “o Sinédrio” — os MSS Alexandrinos têm *sunedrion* próximo ao particípio, separados somente por *ws*. A gramática exige uma forma singular, acusativa, neutra — variante 5. Mas o Sinédrio era formado por homens, assim alguns talvez decidiram que seria mais apropriado optar por uma variante plural — variante 2; e talvez mesmo optar por uma forma masculina além de plural — variante 6. Variante 3, sendo um caso genitivo, é realmente estranha, a não ser que, de alguma forma, alguém pensou que o tribuno tenha intencionado inquirir o Sinédrio, visto como plural. Variante 4 presumivelmente toma “o tribuno” como o referenciado, mas põe a forma no nominativo mais ou menos *ad sensum*, já que *se* é acusativo. Mas variante 2 também pode dizer respeito ao tribuno, precisamente masculino, acusativo singular.
+Um quadro angustiante — que fazer? Para começar, as variantes são todas formas de particípios do mesmo verbo [*μελλω* = estar ao ponto de fazer]. A chave parece ser o que pudermos perceber como sendo o referenciado ou antecedente do particípio: é ele “os judeus”, “o Sinédrio”, ou “o tribuno”? A melhor resposta, do ponto de vista gramatical, é evidentemente “os judeus”, o que exigiria uma forma plural, nominativa, masculina — o único candidato é a variante 1. No entanto, houve aqueles que tomaram o referenciado como sendo “o Sinédrio” — os MSS Alexandrinos têm *συνεδριον* próximo ao particípio, separados somente por *ως*. A gramática exige uma forma singular, acusativa, neutra — variante 5. Mas o Sinédrio era formado por homens, assim alguns talvez decidiram que seria mais apropriado optar por uma variante plural — variante 2; e talvez mesmo optar por uma forma masculina além de plural — variante 6. Variante 3, sendo um caso genitivo, é realmente estranha, a não ser que, de alguma forma, alguém pensou que o tribuno tenha intencionado inquirir o Sinédrio, visto como plural. Variante 4 presumivelmente toma “o tribuno” como o referenciado, mas põe a forma no nominativo mais ou menos *ad sensum*, já que *σε* é acusativo. Mas variante 2 também pode dizer respeito ao tribuno, precisamente masculino, acusativo singular.
 
-Quais são as exigências do contexto? “O tribuno” como o referenciado não se adequa [ao contexto]: Não apenas não foi sua ideia [mandar trazer Paulo ao Conselho para inquiri-lo, no dia seguinte], como também ele enviou Paulo embora naquela mesma noite, para impedir a possibilidade. (Que os judeus devam ter tentado dizer ao tribuno o que estava na mente dele é difícil de acreditar.) “O Sinédrio” como referenciado também não se ajusta: *to sunedrion* aparece no texto como o objeto de uma preposição, não como um agente ativo iniciador. É “os judeus” que é o sujeito do verbo principal, e portanto dos dois infinitivos, e nosso particípio está trabalhando com o segundo infinitivo, “como uns tencionando inquirir.”
+Quais são as exigências do contexto? “O tribuno” como o referenciado não se adequa [ao contexto]: Não apenas não foi sua ideia [mandar trazer Paulo ao Conselho para inquiri-lo, no dia seguinte], como também ele enviou Paulo embora naquela mesma noite, para impedir a possibilidade. (Que os judeus devam ter tentado dizer ao tribuno o que estava na mente dele é difícil de acreditar.) “O Sinédrio” como referenciado também não se ajusta: *το συνεδριον* aparece no texto como o objeto de uma preposição, não como um agente ativo-iniciador. É “os judeus” que é o sujeito do verbo principal, e portanto dos dois infinitivos, e nosso particípio está trabalhando com o segundo infinitivo, “como uns tencionando inquirir.”
 
 Conclusão: a variante 1 é a única que realmente se adequa ao contexto; é também a melhor atestada. Embora somente ajunte 33.1% dos votos (incluindo $f^{18}$), é também atestada pelas três Versões antigas — sempre um testemunho de peso.
 
 **2) Implicações**
 
-Embora o Texto Majoritário seja usualmente atestado por mais de 95% dos MSS, vez por outra temos uma surpresa desagradável onde de modo algum há uma leitura majoritária. Este exemplo é tão seriamente dividido quanto qualquer outro que eu tenha visto. Mesmo assim, nossas “marcas da verdade” nos permitem alcançar uma conclusão convincente. “Número” nos falha, mas não “Antiguidade”, “Variedade”, nem “Continuidade”. Embora variantes 4 e 5 sejam antigas, variante 1 também é, e esta ganha em “Variedade” e “Continuidade”; ganha também em “Razoabilidade”. Assim estou tranquilamente satisfeito que *mellontes* é a leitura original.
+Embora o Texto Majoritário seja usualmente atestado por mais de 95% dos MSS, vez por outra temos uma surpresa desagradável onde de modo algum há uma leitura majoritária. Este exemplo é tão seriamente dividido quanto qualquer outro que eu tenha visto. Mesmo assim, nossas “marcas da verdade” nos permitem alcançar uma conclusão convincente. “Número” nos falha, mas não “Antiguidade”, “Variedade”, nem “Continuidade”. Embora variantes 4 e 5 sejam antigas, variante 1 também é, e esta ganha em “Variedade” e “Continuidade”; ganha também em “Razoabilidade”. Assim estou tranquilamente satisfeito que *μελλοντες* é a leitura original.
 
 **3) Exemplo – Atos 21.8**
 
 A evidência se apresenta desta forma:
 
 ```text
-1)  οι περι τον παυλον ηλθον    --{TR,HF}             (1)218MSS = 46.3%
-2)  - - -   - - -   - - -  ηλθοµεν --{NU}P74(B)Cf18,syr,cop (4)180  "   = 38.9%
-3)  οι περι τον παυλον ηλθοµεν  --                    (1)62   "   = 13.3%
-4)  οι αποστολοι απο τυρου ηλθον --                   [3](1)1 "   =  1.1%
-    (uma outra leitura)         --                         2  "   =   .4%
-                                                         471
+1)  οι περι τον παυλον ηλθον     --{TR,HF}                  (1)218MSS = 46.3%
+2)  −− −−   −−  −−     ηλθομεν   --{NU}P⁷⁴(B)Cf¹⁸,syr,cop   (4)180  "   = 38.9%
+3)  οι περι τον παυλον ηλθομεν   --                          (1)62  "   = 13.3%
+4)  οι αποστολοι απο τυρου ηλθον --                         [3](1)1 "   =  1.1%
+    (uma outra leitura)          --                              2  "   =   .4%
+                                                               473
 ```
 
-A variante 3 parece ser uma conflação não muito feliz. A variante 2 [“nós chegamos”] é a que melhor se adequa ao contexto — desde o começo do capítulo, e antes, os principais participantes têm sido apresentados na 1ª pessoa plural. O verbo finito mais próximo, em cada lado da variante em foco, é *emeinamen*, 1ª pessoa plural. A informação na variante 1 é desnecessária mas não objecionável: se a variante 1 fosse original não haveria necessidade de mudá-la. Naturalmente, se a variante 2 fosse original, também não haveria necessidade de mudá-la, a não ser que alguns sentiram que era tempo de relembrar o leitor a quem “nós” estava se referindo. Mais provavelmente a variante 1 existe por influência dos lecionários, uma vez que eles têm precisamente esta variante. Já que os MSS estão bem divididos, a concordância de todas as três versões mais antigas torna a variante 2 a melhor atestada. (Novamente, $f^{18}$ concorda com uma tradição antiga.)
+A variante 3 parece ser uma conflação não muito feliz. A variante 2 [“nós chegamos”] é a que melhor se adequa ao contexto — desde o começo do capítulo, e antes, os principais participantes têm sido apresentados na 1ª pessoa plural. O verbo finito mais próximo, em cada lado da variante em foco, é *εμειναμεν*, 1ª pessoa plural. A informação na variante 1 é desnecessária mas não objecionável: se a variante 1 fosse original não haveria necessidade de mudá-la. Naturalmente, se a variante 2 fosse original, também não haveria necessidade de mudá-la, a não ser que alguns sentiram que era tempo de relembrar o leitor a quem “nós” estava se referindo. Mais provavelmente a variante 1 existe por influência dos lecionários, uma vez que eles têm precisamente esta variante. Já que os MSS estão bem divididos, a concordância de todas as três versões mais antigas torna a variante 2 a melhor atestada. (Novamente, $f^{18}$ concorda com uma tradição antiga.)
 
 **3) Implicações**
 
@@ -2049,9 +2088,13 @@ Desta vez temos uma leitura majoritária, embora não tão forte quanto podería
 A evidência se apresenta desta forma:
 
 ```text
-1)  (sem a longa adição) --{HF,NU}P74ℵABf18,latpt,cop     280MSS = 58.1%
-2)-31): kai kata ton hmeteron nomon hqelhsamen krinai parelqwn de lusiaj o ciliarcoj meta pollhj biaj ek twn ceirwn hmwn aphgagen keleusaj touj kathgorouj autou ercesqai epi se. Os cinco principais [grupos de] variações se centram nas três palavras sublinhadas, e são:
-2)   κριναι  . . . επι σε     --latpt,syr         (6)42MSS = 10%   [7 variantes]
+1)  (sem a longa adição) --{HF,NU}P⁷⁴ℵABf¹⁸,latᵖᵗ,cop     280MSS = 58.1%
+```
+
+2)–31): *και κατα τον ημετερον νομον ηθελησαμεν <u>κριναι</u> παρελθων δε λυσιας ο χιλιαρχος μετα πολλης βιας εκ των χειρων ημων απηγαγεν κελευσας τους κατηγορους αυτου ερχεσθαι <u>επι</u> <u>σε</u>.* Os cinco principais [grupos de] variações se centram nas três palavras sublinhadas, e são:
+
+```text
+2)   κριναι  . . . επι σε     --latᵖᵗ,syr         (6)42MSS = 10%   [7 variantes]
 9)   κριναι  . . . επι σου    --                 (15)26  " =  8.5% [8 variantes]
 17)  κριναι  . . . προς σε    --                 (22)8   " =  6.2% [9 variantes]
 26)  κρινειν . . . επι σου    --                  (2)18  " =  4.1% [3 variantes]
@@ -2078,14 +2121,14 @@ A evidência se apresenta desta forma:
 
 ```text
 1)   - - -     --  --   - - -      - - -       - - -   --{HF,NU}P74ℵABf18,syp,bo   339MSS = 70.5%
-2)   εδοξεν δε τω Σιλα επιµειναι αυτου  --{TR}(itpt)syh?,sa        [2](12)83   "    = 20.2%
+2)   εδοξεν δε τω Σιλα επιμειναι αυτου  --{TR}(itpt)syh?,sa        [2](12)83   "    = 20.2%
 3)      “       “   “      “         “        αυτοθι --                    (3)33   "    =   7.5%
 4)      "      "   "      "         "        αυτους --C(D,latpt)            (4)2   "    =   1.2%
      (três outras leituras)      --                                            3   "    =     .6%
                                                                              481
 ```
 
-UBS e H-F concordam que a variante 1 é correta, e na verdade o verso 33 parece exigir que Silas tenha retornado a Jerusalém: “eles foram enviados de volta... aos apóstolos”, onde “eles” se refere a Judas e Silas. O “problema” é que, no verso 40, Paulo escolhe Silas para acompanhá-lo, então este tinha de estar em Antioquia, não em Jerusalém. Consequentemente, a leitura mais longa foi criada para resolver o “problema”. Os “alguns dias” do verso 36 podem bem ter sido um ou dois meses. De Antioquia para Jerusalém seria uma viagem de alguns 650 km. Silas teve tempo de ir a Jerusalém e voltar a Antioquia.
+UBS e H-F concordam que a variante 1 é correta, e na verdade o verso 33 parece exigir que Silas tenha retornado a Jerusalém: “eles foram enviados de volta… aos apóstolos”, onde “eles” se refere a Judas e Silas. O “problema” é que, no verso 40, Paulo escolhe Silas para acompanhá-lo, então este tinha de estar em Antioquia, não em Jerusalém. Consequentemente, a leitura mais longa foi criada para resolver o “problema”. Os “alguns dias” do verso 36 podem bem ter sido um ou dois meses. De Antioquia para Jerusalém seria uma viagem de alguns 650 km. Silas teve tempo de ir a Jerusalém e voltar a Antioquia.
 
 **6) Implicações**
 
@@ -2096,24 +2139,24 @@ UBS e H-F concordam que a variante 1 é correta, e na verdade o verso 33 parece 
 Este é o último exemplo tirado de Atos, e um que considero ser especialmente difícil (tendo o potencial de ser danoso). A evidência se apresenta desta forma (arbitrariamente negligenciei margens e corretores, exceto para os unciais mais antigos):
 
 ```text
-1)  εις Ιερουσαληµ                     --{HF,NU}ℵB(f18=30mss)          281MSS = 59.7%
-2)  απο Ιερουσαληµ                    --D(f18=6mss)lat(syh)             51    "    = 10.8%
-3)  εξ  Ιερουσαληµ                    --{TR}P74A     bo (syh)           16    "    =  3.4%
-4)  εξ  Ιερουσαληµ   εις Αντιοχειαν   --(f18=5mss)   sa (syp)           57    "    = 12.1%
-5)  απο Ιερουσαληµ  εις Αντιοχειαν   --(f18=10mss)  itpt (syp)         36    "    =  7.6%
-6)  εις Αντιοχειαν                    --(f18=21mss)                     24    "    =  5.1%
-7)  εις Ιερουσαληµ  εις Αντιοχειαν   --                                  3    "    =   .6%
+1)  εις Ιερουσαλημ                    --{HF,NU}ℵB(f¹⁸=30mss)          281MSS = 59.7%
+2)  απο Ιερουσαλημ                    --D(f¹⁸=6mss)lat(syʰ)             51    "    = 10.8%
+3)  εξ  Ιερουσαλημ                    --{TR}P⁷⁴A     bo (syʰ)           16    "    =  3.4%
+4)  εξ  Ιερουσαλημ   εις Αντιοχειαν   --(f¹⁸=5mss)   sa (syᵖ)           57    "    = 12.1%
+5)  απο Ιερουσαλημ   εις Αντιοχειαν   --(f¹⁸=10mss)  itᵖᵗ (syᵖ)         36    "    =  7.6%
+6)                   εις Αντιοχειαν   --(f¹⁸=21mss)                     24    "    =  5.1%
+7)  εις Ιερουσαλημ   εις Αντιοχειαν   --                                 3    "    =   .6%
     (três outras leituras)            --                                  3    "    =   .6%
                                                                        471
 ```
 
 Há na verdade uma leitura majoritária, embora fraca, mas dentro do contexto ela dificilmente pode estar correta[^442]. Considere:
 
-a) Atos 11.30, *ho kai epoiēsan aposteilantes* (“*o que eles também fizeram, tendo enviado, por B. e S.*”). Um particípio aoristo é anterior em tempo ao seu verbo principal, neste caso também aoristo — o propósito deles é declarado como realizado. O autor claramente implica que a oferta chegou, ou tinha chegado, na Judeia/Jerusalém[^443]. Note que o verso seguinte (12:1) nos coloca em Jerusalém.
+a) Atos 11.30, *ho kai epoiēsan aposteilantes* (“o que eles também fizeram, tendo enviado …, por B. e S.”). Um particípio aoristo é anterior em tempo ao seu verbo principal, neste caso também aoristo — o propósito deles é declarado como realizado. O autor claramente implica que a oferta chegou, ou tinha chegado, na Judeia/Jerusalém[^443]. Note que o verso seguinte (12.1) nos coloca em Jerusalém.
 
-b) Atos 12.25 (12:1–24 não é relacionado, exceto que vv. 1–19 tomam lugar em Jerusalém), *Barnabas kai Saulos* — a ação inclui ambos [Barnabé e Paulo].
+b) Atos 12.25 (12.1–24 não é relacionado, exceto que vv. 1–19 tomam lugar em Jerusalém), *Barnabas kai Saulos* — a ação inclui ambos [Barnabé e Paulo].
 
-c) Atos 12.25, *hypestrepsan ... plērōsantes tēn diakonian*, “eles retornaram, tendo cumprido a missão”. Novamente, tanto o particípio como o verbo principal são aoristos, e ambos estão no plural. “Tendo cumprido a missão” define o verbo principal. Desde que a missão foi para Judeia, o que necessariamente inclui Jerusalém como sua capital, o “retornaram” tem de ser ao local onde a missão teve sua origem.
+c) Atos 12.25, *hypestrepsan … plērōsantes tēn diakonian*, “eles retornaram … tendo cumprido a missão”. Novamente, tanto o particípio como o verbo principal são aoristos, e ambos estão no plural. “Tendo cumprido a missão” define o verbo principal. Desde que a missão foi para Judeia, o que necessariamente inclui Jerusalém como sua capital, o “retornaram” tem de ser ao local onde a missão teve sua origem.
 
 d) Atos 12.25, *symparalabontes kai Iōannēn*, “havendo tomado João também, juntamente com eles”. Novamente, tanto o particípio quanto o verbo principal são aoristos. Compare Atos 13.13, onde João retorna *eis Ierosolyma*.
 
@@ -2125,9 +2168,9 @@ Havemos de começar com pressuposições. Aqueles que pressupõem, que o texto o
 
 Eu estou entre aqueles que pressupõem que o texto original foi verdadeiramente inspirado e portanto inerrante; segue-se que eu estou predisposto contra variante 1, estando ela evidentemente em erro[^445]. Que fazer, então? Se 4 e 5 são conflações, então 2, 3 e 6 são anteriores. Variantes 2 e 3 pareceriam ser tentativas independentes de “consertar” a variante 1[^446]. Forçado a escolher entre 1 e 6, minhas pressuposições me guiam à variante 6; mas como poderia 6 ter dado origem a 1?
 
-Bem, um leitor superficial poderia ter focalizado em Barnabé e assumido que ele estava retornando a Jerusalém, tendo completado seu ministério em Antioquia. Sendo que 12:25 é a primeira menção de Barnabé (e Saulo) depois de 11:30, e como 11:30 não diz abertamente que eles “foram”, “retornaram”, ou qualquer outra coisa, um leitor superficial poderia facilmente decidir que ele tinha de ter Barnabé de volta a Jerusalém. Se o original de 12:25 lesse “a Antioquia” isto seria percebido como um problema, uma vez que, para o leitor superficial, eles ainda estariam lá, nunca havendo saído. Esta “correção” evidentemente aconteceu bastante cedo, e possivelmente mais que uma vez, independentemente — se um número de copistas separados entendessem mal o texto, na maneira sugerida, e se sentiram constrangidos a “consertá-lo”, presumivelmente a maioria deles meramente mudaria “Antioquia” para “Jerusalém.”
+Bem, um leitor superficial poderia ter focalizado em Barnabé e assumido que ele estava retornando a Jerusalém, tendo completado seu ministério em Antioquia. Sendo que 12.25 é a primeira menção de Barnabé (e Saulo) depois de 11.30, e como 11.30 não diz abertamente que eles “foram”, “retornaram”, ou qualquer outra coisa, um leitor superficial poderia facilmente decidir que ele tinha de ter Barnabé de volta a Jerusalém. Se o original de 12.25 lesse “a Antioquia” isto seria percebido como um problema, uma vez que, para o leitor superficial, eles ainda estariam lá, nunca havendo saído. Esta “correção” evidentemente aconteceu bastante cedo, e possivelmente mais que uma vez, independentemente — se um número de copistas separados entendessem mal o texto, na maneira sugerida, e se sentiram constrangidos a “consertá-lo”, presumivelmente a maioria deles meramente mudaria “Antioquia” para “Jerusalém.”
 
-Embora 25.4% dos MSS, mais syᵖ e sa, leiam *eis Antiocheian*, apenas 5.1% o fazem sem conflação. No entanto, a variante 3 tem somente 3.4% [de atestação] sozinha e 15.5% com a conflação. A variante 2, sozinha, tem 10.8%, e com a conflação tem 18.4%. Assim, a variante 6 bate 3 tanto sozinha como também com conflações; a variante 6 perde para a 2 sozinha, mas com conflações, ganha. Eu submeto [à apreciação dos leitores minha opinião] que a variante 6 melhor explica a origem de todas as outras e, dadas as complexidades deste caso, tem o melhor direito a ter nossa confiança. Eu concluo que o Autógrafo de Atos 12.25 leu *eis Antiocheian*, que presumivelmente é precisamente o que aconteceu (eles retornaram a Antioquia); isto também encaixa suavemente com 13:1 — comparando Atos 1.1 com Lc 1.3 podemos concluir razoavelmente que Atos também foi planejado para ser um relato ordenado.
+Embora 25.4% dos MSS, mais syᵖ e sa, leiam *eis Antiocheian*, apenas 5.1% o fazem sem conflação. No entanto, a variante 3 tem somente 3.4% [de atestação] sozinha e 15.5% com a conflação. A variante 2, sozinha, tem 10.8%, e com a conflação tem 18.4%. Assim, a variante 6 bate 3 tanto sozinha como também com conflações; a variante 6 perde para a 2 sozinha, mas com conflações, ganha. Eu submeto [à apreciação dos leitores minha opinião] que a variante 6 melhor explica a origem de todas as outras e, dadas as complexidades deste caso, tem o melhor direito a ter nossa confiança. Eu concluo que o Autógrafo de Atos 12.25 leu *eis Antiocheian*, que presumivelmente é precisamente o que aconteceu (eles retornaram a Antioquia); isto também encaixa suavemente com 13.1 — comparando Atos 1.1 com Lc 1.3 podemos concluir razoavelmente que Atos também foi planejado para ser um relato ordenado.
 
 Parece-me que só há, aqui, um modo de “salvar” a variante majoritária: colocar uma vírgula entre *hypestrepsan* e *eis*, assim fazendo “a Jerusalém” modificar “o ministério”. Mas tal construção é não natural ao ponto de ser inaceitável — tivesse aquele sido o propósito do autor, deveríamos esperar *tēn eis Ierousalēm diakonian* ou *tēn diakonian eis Ierousalēm*. Nas outras dezesseis vezes em que Lucas usa *hypostrephō eis*, encontramos o significado normal, esperado: “retornar a”. Como um linguista (PhD) eu diria que as normas da linguagem exigem que usemos o mesmo significado em Atos 12.25. O que, à minha mente, deixa *eis Antiocheian* como o único candidato viável para a leitura Original, neste local.
 
@@ -2159,7 +2202,7 @@ Que $M^{a,b,f}$ estão em concordância presumivelmente indica que o exemplar $M
 
 Por causa das três linhas independentes de transmissão (pelo menos), e por causa dos alinhamentos instáveis entre elas e seus sub-grupos, Apocalipse é o único livro onde encontramos muitos jogos de variantes sem nenhuma leitura majoritária — cerca de 150, e mais 250 onde a maioria é menos que 60%. Aqueles que argumentam que a teoria do Texto Majoritário faz sua melhor defesa em Apocalipse estão redondamente enganados; ocorre precisamente o contrário. As colações de Hoskier nos permitem agrupar os MSS empiricamente, de modo que, na avaliação de variantes, precisamos lidar com os grupos, não apenas contar MSS individuais. As “marcas” de Burgon são frequentemente difíceis de aplicar em casos tais como os 400 [= 150+250] mencionados; a maioria das marcas se dividem, não dando nenhum veredicto claro. Com base no seu desempenho através do livro, eu diria que $M^c$ tem a melhor “média de acertos”, mas se há basicamente três linhas independentes de transmissão, então duas contra uma deverão vencer. Aqui temos $M^c$ e $M^{a,b}$ (em favor da variante 2) contra $M^{d,e}$ (em favor da variante 1) — se os três “santos” fossem a leitura original, como jamais poderiam os nove “santos” chegar a capturar duas das [três] correntes independentes?
 
-### *Conclusão Metodológica*
+### *Conclusão*
 
 E agora? Como identificarmos a exata redação original? Primeiro devemos ajuntar as evidências disponíveis — isto incluirá os MSS gregos (incluindo os lecionários), os Pais e as Versões. Depois devemos avaliar as evidências para determinar qual forma de texto goza da mais antiga, mais plena, mais ampla, mais respeitável, mais variada atestação[^448]. Deve ser enfatizado que a força das “marcas da verdade” reside na sua cooperação. Elas têm que ser consideradas e tomadas todas juntas, porque o mesmo fato da existência de variantes em competição [umas com as outras] significa que pelo menos algumas das notas não podem ser plenamente satisfeitas. Mas ao aplicarmos todas elas, seremos capazes de formar um julgamento inteligente quanto à independência e credibilidade das diversas testemunhas.
 
@@ -2187,7 +2230,7 @@ Como o leitor pode agora ver, as palavras do prefácio da RSV, que citei no meu 
 
 Mas esta não é a história completa do nosso infortúnio. Tal tem sido o efeito soporífico da teoria de W-H, que a evidência disponível não tem sido avaliada, não tem sido assimilada. Nas palavras de Aland:
 
-> ... o principal problema da crítica textual do N. T. repousa no fato que pouco mais que a existência física é conhecida a respeito da maioria dos manuscritos até aqui identificados, e por isso constantemente temos problemas com muitas incógnitas para resolver. Procedemos como se os poucos manuscritos que têm sido completa ou quase completamente estudados contivessem todos os problemas em questão…[^456]
+> … o principal problema da crítica textual do N. T. repousa no fato que pouco mais que a existência física é conhecida a respeito da maioria dos manuscritos até aqui identificados, e por isso constantemente temos problemas com muitas incógnitas para resolver. Procedemos como se os poucos manuscritos que têm sido completa ou quase completamente estudados contivessem todos os problemas em questão…[^456]
 
 Ademais, muito do trabalho que tem sido feito é bastante imperfeito. Assim, no seu relatório sobre o andamento de *The International Greek New Testament Project*, prestado à *Society of Biblical Literature*, em 29 de dezembro de 1967, Colwell declarou:
 
@@ -2205,15 +2248,13 @@ Em conclusão, gostaria de tomar emprestadas as palavras encontradas ao final de
 
 > E assim aventuro-me a tomar a posição, agora que a questão foi levantada, que tanto os doutos quanto os bem informados virão gradualmente a ver que nenhum outro curso com respeito às Palavras do Novo Testamento é tão fortemente justificado pela evidência, nenhum é tão próprio à mente sã e aberta, nenhum é tão razoável em cada aspecto, nenhum é tão compatível à fé inteligente, nenhum é tão produtor de direção e conforto e esperança, quanto defender contra todos os assaltos de adulteração
 > 
-> **O TEXTO TRADICIONAL.**[^460]
-
-Apêndices - Apresentação
+> **O TEXTO TRADICIONAL**[^460].
 
 ## *Apêndices*
 
-### *Apêndice A — Inspiração e Preservação*
+## *Apêndice A — Inspiração e Preservação*
 
-#### *Apresentação*
+### *Apresentação*
 
 “Nas discussões precedentes, tenho deliberadamente evitado introduzir quaisquer argumentos baseados nestas doutrinas, na esperança que não serei interpretado distorcidamente pelos críticos, do modo como Burgon tem sido.”[^461] Escrevi isto na primeira edição deste livro (Nelson, 1977). Não adiantou muito. Seguramente, qualquer pessoa com integridade pelo menos mediana tem que concordar que no corpo deste livro tenho argumentado com base na evidência histórica e nas conclusões lógicas dela decorrentes. Mesmo assim, há aqueles que perversamente persistem em afirmar que minha argumentação fundamenta-se em pressuposições teológicas[^462]. O tratamento que Bart Ehrman dá ao assunto é típico:
 
@@ -2241,7 +2282,7 @@ Muito bem! Eu concordo; e Burgon também concordaria — ele declarou suas concl
 
 A terceira posição que Ehrman discute é aquela de Z. C. Hodges. Acho o tratamento de Ehrman a Hodges especialmente reprovável. Ele critica Hodges, e outros, por declararem suas pressuposições, e afirma: “Como resultado, as conclusões são inquestionavelmente pré-inclinadas.” O que é reprovável aqui é que Ehrman deixa de reconhecer que é impossível trabalhar sem pressuposições. Cada profissional estudioso de qualquer área de conhecimento inescapavelmente traz pressuposições para seu trabalho. Ehrman critica Hodges por declarar suas pressuposições enquanto deixa de enunciar as suas próprias. A natureza da sua crítica implica, desonestamente, que ele próprio não tem nenhuma pressuposição, mas obviamente Ehrman é exatamente tão pré-inclinado quanto Hodges. Ehrman é injusto e incorreto quando faz a acusação que as pressuposições de Hodges o fazem incapaz de realmente considerar argumentos sensatos daqueles que têm outras posições. Ora, uma vez que todo mundo têm pressuposições, mas mesmo assim as pessoas frequentemente mudam suas opiniões e até mesmo suas pressuposições, torna-se óbvio que a acusação de Ehrman é falsa[^473].
 
-Desde Burgon, que anunciou suas pressuposições honesta e abertamente (como todo verdadeiro erudito tem que fazer), tem havido um ataque constante e insistente contra aquelas pressuposições, e mesmo contra a sua enunciação. Uma psicose tem sido criada, ao ponto em que até mesmo alguns defensores modernos do texto majoritário têm se tornado paranóicos quanto ao assunto. No entanto, em Lucas 11.23, o Criador, Jeová o Filho encarnado, declara: “*Quem não é comigo é contra mim; e quem comigo não ajunta, espalha.”* Aqui está uma declaração clara e direta — há apenas dois times neste mundo; há apenas dois lados; não há nenhum território neutro; não há nenhum verdadeiro agnosticismo. Se você não está com Jesus, você está automaticamente contra Ele; se você não está ajuntando com Ele, você está automaticamente espalhando. Se você não aceita as afirmações de Jesus a respeito das Escrituras, você as tem rejeitado. Neutralidade não existe.
+Desde Burgon, que anunciou suas pressuposições honesta e abertamente (como todo verdadeiro erudito tem que fazer), tem havido um ataque constante e insistente contra aquelas pressuposições, e mesmo contra a sua enunciação. Uma psicose tem sido criada, ao ponto em que até mesmo alguns defensores modernos do texto majoritário têm se tornado paranóicos quanto ao assunto. No entanto, em Lucas 11.23, o Criador, Jeová o Filho encarnado, declara: “*Quem não é comigo é contra mim; e quem comigo não ajunta, espalha.*” Aqui está uma declaração clara e direta — há apenas dois times neste mundo; há apenas dois lados; não há nenhum território neutro; não há nenhum verdadeiro agnosticismo. Se você não está com Jesus, você está automaticamente contra Ele; se você não está ajuntando com Ele, você está automaticamente espalhando. Se você não aceita as afirmações de Jesus a respeito das Escrituras, você as tem rejeitado. Neutralidade não existe.
 
 Havemos de questionar a competência daqueles que fingem não ter nenhuma pressuposição, que recusam ou, de qualquer modo, deixam de declarar abertamente suas pressuposições. Se aquelas mesmas pessoas nos criticam por declarar as nossas, temos de questionar a honestidade básica delas. Uma tal tática, covarde e não de verdadeiros estudiosos, não deve mais ser tolerada. Eles nos acusam de usar argumentação “*ad hominem*”[^474], mas tal acusação não passa de um disfarce para o abominável procedimento “*ad hominem*” deles próprios. Eles nos desafiam a publicar, mas recusam nossos artigos. Basta!
 
@@ -2251,9 +2292,9 @@ Pois então, e a minha crença que Deus tem preservado o texto do N. T., como el
 
 Ainda nos resta a necessidade de cuidadosamente avaliar a evidência que nos tem chegado às mãos, para que possamos identificar com confiança a exata redação original. Mesmo quando aquilo for feito, será necessário admitirmos candidamente que não podemos *provar*, em qualquer sentido absoluto, que temos as palavras originais; não temos os Autógrafos. No final, minha afirmação de que Deus tem preservado a redação original do texto do Novo Testamento é uma assertiva de fé; uma fé inteligente, uma fé que concorda com a evidência disponível, mas, no final das contas, fé. Pode ser que o propósito de Deus ao criar a raça humana fez necessário não permitir que a verdade fosse inescapável; se a evidência fosse absoluta não haveria nenhum teste.
 
-“*Ora, sem fé é impossível agradar a Deus, porque é necessário que aquele que se aproxima de Deus creia que ele existe, e que é galardoador dos que o buscam diligentemente”* (Hb 11.6).
+“*Ora, sem fé é impossível agradar a Deus, porque é necessário que aquele que se aproxima de Deus creia que ele existe, e que é galardoador dos que o buscam diligentemente*” (Hb 11.6).
 
-### *Apêndice B — 7Q5*
+## *Apêndice B — 7Q5*
 
 A identificação do fragmento de papiro 5 da caverna 7 de Qumran com Marcos 6.52–53 pelo estudioso jesuíta José O’Callaghan, em princípios de 1972, produziu uma comoção de reações[^475]. As implicações de uma tal identificação são tais que suponho ter sido inevitável que a maioria das reações fosse partidária. Mas a falta de objetividade e comedimento da parte de alguns estudiosos só pode ser vista como falta de educação, na melhor das hipóteses.
 
@@ -2261,11 +2302,11 @@ O’Callaghan é um papirólogo experiente, um estudioso cuidadoso, e merece ser
 
 Ao meu ver, a falta de comedimento e objetividade na resposta de M. Baillet beira o repreensível[^476]. Infelizmente o artigo de Baillet tem sido citado amplamente e parece ter influenciado muitas pessoas, inclusive K. Aland[^477]. Tendo eu mesmo trabalhado um pouco com papiros do período Ptolomaico (terceiro século AC), gostaria de comentar sobre a resposta de Baillet à transcrição de 7Q5 por O’Callaghan. O fragmento contém cinco linhas de texto e vou discuti-las pela ordem.
 
-**Linha 1:** Tudo que resta é um vestígio da extremidade inferior de uma letra — que é mesmo a inferior pode ser visto medindo-se a distância média entre as outras linhas. O’Callaghan reconstroi um *épsilon* e põe um ponto sob ele, para mostrar que o que resta da tinta em si não é suficiente para permitir uma identificação segura da letra. Isto está rigorosamente de acordo com a norma universalmente seguida pelos papirólogos. Baillet chama isto de uma “hipótese gratuita” [isto é, sem fundamentos], embora ele próprio oferecesse *épsilon* como uma de quatro possibilidades, no *editio princeps*. De fato, o vestígio [de tinta] parece precisamente com a extremidade inferior ou de um *épsilon* ou de um *sigma*. É importante notar que a identificação do fragmento não é de modo algum baseada nesta letra; ela não desempenha um papel positivo. Ela poderia desempenhar um papel negativo se o vestígio não parecesse casar com a letra exigida pela reconstituição. Mas, longe de ser um embaraço à reconstrução de O'Callaghan, o vestígio de tinta concorda muito bem com ela. A crítica de Baillet é inteiramente improcedente.
+**Linha 1:** Tudo que resta é um vestígio da extremidade inferior de uma letra — que é mesmo a inferior pode ser visto medindo-se a distância média entre as outras linhas. O’Callaghan reconstroi um *épsilon* e põe um ponto sob ele, para mostrar que o que resta da tinta em si não é suficiente para permitir uma identificação segura da letra. Isto está rigorosamente de acordo com a norma universalmente seguida pelos papirólogos. Baillet chama isto de uma “hipótese gratuita” [isto é, sem fundamentos], embora ele próprio oferecesse *épsilon* como uma de quatro possibilidades, no *editio princeps*. De fato, o vestígio [de tinta] parece precisamente com a extremidade inferior ou de um *épsilon* ou de um *sigma*. É importante notar que a identificação do fragmento não é de modo algum baseada nesta letra; ela não desempenha um papel positivo. Ela poderia desempenhar um papel negativo se o vestígio não parecesse casar com a letra exigida pela reconstituição. Mas, longe de ser um embaraço à reconstrução de O’Callaghan, o vestígio de tinta concorda muito bem com ela. A crítica de Baillet é inteiramente improcedente.
 
 **Linha 2:** Uma vez que há alguma tinta no papiro, O’Callaghan tem perfeita liberdade de reconstruir um *épsilon*, desde que ponha um ponto sob ele, como fez. Baillet aceita que isto é possível. Novamente, a identificação do fragmento não está baseada nesta letra; é apenas necessário que os vestígios da tinta não sejam contra a identificação.
 
-Todos concordam que o *tau* e o *omega* são inequívocos. Depois do *omega* O'Callaghan reconstrói um *nu*. A esta iniciativa Baillet atribui os epítetos “absurda” e “impossível”, enquanto opina que um *iota* “parece seguro”. A retórica de Baillet é decepcionante e eu começo a duvidar da sua competência como um papirólogo. A letra mais claramente preservada em todo o fragmento é o *iota* na linha 3, e o traço vertical imediatamente seguindo o *omega* na linha 2 difere substancialmente do *iota*. Parece mais com o traço vertical esquerdo do *nu* ou do *eta,* [ambos] na linha 4. A extremidade horizontal do vestígio seguinte poderia facilmente ser a extremidade inferior do traço diagonal de um *nu* (mas não o traço horizontal de um *eta*). Em resumo, a reconstrução de um *nu* que O’Callaghan aqui fez, naturalmente que com um ponto sob ele, é perfeitamente razoável.
+Todos concordam que o *tau* e o *omega* são inequívocos. Depois do *omega* O’Callaghan reconstrói um *nu*. A esta iniciativa Baillet atribui os epítetos “absurda” e “impossível”, enquanto opina que um *iota* “parece seguro”. A retórica de Baillet é decepcionante e eu começo a duvidar da sua competência como um papirólogo. A letra mais claramente preservada em todo o fragmento é o *iota* na linha 3, e o traço vertical imediatamente seguindo o *omega* na linha 2 difere substancialmente do *iota*. Parece mais com o traço vertical esquerdo do *nu* ou do *eta*, [ambos] na linha 4. A extremidade horizontal do vestígio seguinte poderia facilmente ser a extremidade inferior do traço diagonal de um *nu* (mas não o traço horizontal de um *eta*). Em resumo, a reconstrução de um *nu* que O’Callaghan aqui fez, naturalmente que com um ponto sob ele, é perfeitamente razoável.
 
 Quanto ao *eta* que completa a linha 2 na reconstrução de O’Callaghan, embora Baillet prefira um *alfa*, ele concede que *eta* é possível, e o *editio princeps* (do qual Baillet foi co-editor) sugere *eta* como uma possibilidade. O’Callaghan observa que para ele esta é a peça mais difícil do quebra-cabeça — sua resposta à discussão da linha 2 por Baillet é um modelo de comedimento e competência[^478].
 
@@ -2275,9 +2316,9 @@ Uma consideração adicional deve ser mantida em mente. É uma regra empírica e
 
 **Linha 4:** Há concordância geral sobre esta linha. Ela começa com metade de uma letra que é quase certamente um *nu*, seguido por claros *nu* e *eta*, seguidos por um *sigma* duvidoso. Esta é uma linha muito importante, por causa da sequência inusitada de letras [*NNHC*].
 
-**Linha 5:** Há assentimento geral que a primeira letra é um *theta* dúbio e a segunda um *eta* inequívoco. O’Callaghan chama a terceira letra de um *sigma* claro*,* enquanto Baillet prefere chamá-la um *épsilon*. Só com o olho nu eu a chamaria um *sigma* óbvio, mas O’Callaghan afirma que, vista com um microscópio, aquilo que parece ser uma curta barra atravessada é na realidade dois pontos; não se sabe como eles chegaram lá ou o que podem significar, mas evidentemente não devem ser usados para interpretar a letra como um *épsilon*[^479].
+**Linha 5:** Há assentimento geral que a primeira letra é um *theta* dúbio e a segunda um *eta* inequívoco. O’Callaghan chama a terceira letra de um *sigma* claro, enquanto Baillet prefere chamá-la um *épsilon*. Só com o olho nu eu a chamaria um *sigma* óbvio, mas O’Callaghan afirma que, vista com um microscópio, aquilo que parece ser uma curta barra atravessada é na realidade dois pontos; não se sabe como eles chegaram lá ou o que podem significar, mas evidentemente não devem ser usados para interpretar a letra como um *épsilon*[^479].
 
-A última letra é dada por O’Callaghan como um possível *alfa*; Baillet ergue-se a novas alturas: “Mais jamais de la vie un *alpha,*”[^480] O papiro está demasiadamente dilacerado neste ponto para se dizer muito a partir de uma fotografia, mas após estudar o original com uma forte lupa, O’Callaghan afirma que a metade esquerda de um *alfa* é claramente visível, e convida Baillet para ver por si próprio[^481].
+A última letra é dada por O’Callaghan como um possível *alfa*; Baillet ergue-se a novas alturas: “Mais jamais de la vie un *alpha*, …”[^480] O papiro está demasiadamente dilacerado neste ponto para se dizer muito a partir de uma fotografia, mas após estudar o original com uma forte lupa, O’Callaghan afirma que a metade esquerda de um *alfa* é claramente visível, e convida Baillet para ver por si próprio[^481].
 
 Em suma, não vejo nenhuma razão de tomar as críticas de Baillet seriamente — ao contrário, onde quer que ele diga “impossível” devemos entender “muito provavelmente.” Parece-me que a reconstrução por O’Callaghan é eminentemente razoável, mas há vários problemas conectados com o identificar do fragmento com Marcos 6.52–53.
 
@@ -2291,13 +2332,11 @@ O ponto essencial da questão é que toda a nossa experiência com os papiros ma
 
 Apesar dos problemas, há evidência a favor da identificação. Em primeiro lugar, o efeito total da reconstrução é impressionante — casar 15 letras claras ou razoavelmente claras, espalhadas sobre quatro linhas, com uma métrica de 23, 20, 21, 21 para as respectivas linhas, é quase conclusivo. A maneira feliz em que a sequência singular de letras, *NNHC*, se ajusta à reconstrução é um argumento favorável. A sequência presumivelmente indicaria uma forma aparentada com a palavra grega “geração” ou com um nome próprio tal como “Gennesaret” [Genesaré].
 
-Ainda mais impressionante é o espaço óbvio (da largura de duas letras) que ocorre precisamente na fronteira entre os versos 52 e 53. (Lembrar que nos MSS mais antigos não há espaço entre as palavras.) Uma vez que o verso 53 começa um novo parágrafo, o espaço é apropriado, tanto assim que atribuir a ocorrência do espaço ao mero acaso parece um tanto incrível. A combinação do espaço na quebra do parágrafo com um feliz casamento para NNHC, eu creio ser coerciva. Não vejo nenhuma maneira razoável de rejeitar a identificação de O'Callaghan[^484]. Para mais considerações e uma discussão de algumas implicações, ver a série de artigos na edição de *Eternity* em Junho de 1972.
+Ainda mais impressionante é o espaço óbvio (da largura de duas letras) que ocorre precisamente na fronteira entre os versos 52 e 53. (Lembrar que nos MSS mais antigos não há espaço entre as palavras.) Uma vez que o verso 53 começa um novo parágrafo, o espaço é apropriado, tanto assim que atribuir a ocorrência do espaço ao mero acaso parece um tanto incrível. A combinação do espaço na quebra do parágrafo com um feliz casamento para NNHC, eu creio ser coerciva. Não vejo nenhuma maneira razoável de rejeitar a identificação de O’Callaghan[^484]. Para mais considerações e uma discussão de algumas implicações, ver a série de artigos na edição de *Eternity* em Junho de 1972.
 
-Uma vez que 7Q5 é firmemente identificado com Marcos 6.52–53, então a probabilidade de que 7Q4 deva ser identificado com 1Tm 3.16, 4.1,3 e 7Q8 com Tiago 1.23–24 torna-se muito forte. Os fragmentos restantes são tão pequenos que dogmatismo é indefensável-as identificações de O’Callaghan são possíveis, mas não se pode insistir. Parece-me que 7Q5, 4, e 8 podem ser vistos como relevantes à tese deste livro no seguinte sentido: Que alguém teria uma tal coleção de escritos do Novo Testamento em uma data tão antiga pode sugerir que bem cedo foram reconhecidos como Escritura e até mesmo que já havia uma noção de um cânon do Novo Testamento.
+Uma vez que 7Q5 é firmemente identificado com Marcos 6.52–53, então a probabilidade de que 7Q4 deva ser identificado com 1Tm 3.16, 4.1,3 e 7Q8 com Tiago 1.23–24 torna-se muito forte. Os fragmentos restantes são tão pequenos que dogmatismo é indefensável — as identificações de O’Callaghan são possíveis, mas não se pode insistir. Parece-me que 7Q5, 4, e 8 podem ser vistos como relevantes à tese deste livro no seguinte sentido: Que alguém teria uma tal coleção de escritos do Novo Testamento em uma data tão antiga pode sugerir que bem cedo foram reconhecidos como Escritura e até mesmo que já havia uma noção de um cânon do Novo Testamento.
 
-### *Apêndice C — As Implicações da Probabilidade Estatística para a História do Texto do Novo Testamento*
-
-**Texto**[^485]
+## *Apêndice C — As Implicações da Probabilidade Estatística para a História do Texto*[^485]
 
 Por Zane C. Hodges e David M. Hodges
 
@@ -2311,11 +2350,11 @@ Aqui jaz a questão crucial na qual toda a teoria textual está logicamente pend
 
 É característica peculiar da crítica textual do Novo Testamento que, juntamente com um conhecimento dos nossos recursos manuscritos, que cresce constantemente, tem havido uma correspondente diminuição na confiança com que a história desses recursos é descrita. O esquema cuidadosamente construído por Westcott e Hort é hoje considerado, por todos os estudiosos respeitáveis, como muito inadequado. A declaração confiante de Hort, “seria uma ilusão antecipar mudanças importantes no texto [crítico] a partir de qualquer aquisição de nova evidência,” é com justiça reputada hoje como extremamente ingênua[^491].
 
-A formação do Institut für neutestamentliche Textforschung é virtualmente um esforço para começar tudo de novo, fazendo aquilo que deveria ter sido feito desde o início-a saber, coletar a evidência! É neste contexto de reavaliação que é inteiramente possível que a questão da origem do Texto Majoritário venha a exigir mais atenção. Na verdade, pode ser confiantemente antecipado que, se a crítica moderna continuar sua tendência em direção a procedimentos mais genuinamente científicos, essa questão [da origem do Texto Majoritário] novamente se tornará uma consideração central. Porque ela permanece sendo a questão que, logicamente, é a mais determinativa em todo a disciplina [da crítica textual].
+A formação do Institut für neutestamentliche Textforschung é virtualmente um esforço para começar tudo de novo, fazendo aquilo que deveria ter sido feito desde o início — a saber, coletar a evidência! É neste contexto de reavaliação que é inteiramente possível que a questão da origem do Texto Majoritário venha a exigir mais atenção. Na verdade, pode ser confiantemente antecipado que, se a crítica moderna continuar sua tendência em direção a procedimentos mais genuinamente científicos, essa questão [da origem do Texto Majoritário] novamente se tornará uma consideração central. Porque ela permanece sendo a questão que, logicamente, é a mais determinativa em todo a disciplina [da crítica textual].
 
-Têm os proponentes do *Textus Receptus* uma explicação para o Texto Majoritário? A resposta é sim. Mais que isto, a posição que seus proponentes mantêm é tão descomplicada que ela chega a ser isenta de dificuldades encontradas por hipóteses mais complexas. Há muito tempo, no processo de atacar a autoridade dos números na crítica textual, Hort foi constrangido a confessar: “Uma pressuposição teórica verdadeiramente permanece, que uma maioria de documentos em existência é mais provável de representar uma maioria de documentos ancestrais em cada etapa da transmissão, do que[^492] *viceversa*.” Ao reconhecer isto, ele estava meramente afirmando um truísmo da transmissão de manuscritos, a saber: Sob circunstâncias normais, quanto mais velho um texto for em relação aos seus rivais, maiores são as suas chances de sobreviver em uma pluralidade ou em uma maioria dos textos em existência, em qualquer período subsequente. Mas o mais velho de todos os textos é o autógrafo. Portanto, deveria ser ponto pacífico que, fora algum deslocamento radical na história da transmissão, uma maioria de textos será muito mais provável de corretamente representar o caráter do original, do que uma pequena minoria de textos. Isto é especialmente verdadeiro quando a proporção é um esmagador 8:2. Sob quaisquer condições de transmissão razoavelmente normais, para todos os efeitos práticos seria completamente impossível que uma formade-texto posterior obtivesse, das testemunhas em existência, uma preponderância tão esmagadora. Mesmo se levarmos a origem do assim chamado texto Bizantino até uma data contemporânea a P⁷⁵ e P⁶⁶ (cerca de 200 DC) — uma época quando centenas de manuscritos certamente já existiam — proporções matemáticas tais como as reveladas pela tradição em existência não poderiam ser explicadas à parte de alguma sublevação prodigiosa na história textual.
+Têm os proponentes do *Textus Receptus* uma explicação para o Texto Majoritário? A resposta é sim. Mais que isto, a posição que seus proponentes mantêm é tão descomplicada que ela chega a ser isenta de dificuldades encontradas por hipóteses mais complexas. Há muito tempo, no processo de atacar a autoridade dos números na crítica textual, Hort foi constrangido a confessar: “Uma pressuposição teórica verdadeiramente permanece, que uma maioria de documentos em existência é mais provável de representar uma maioria de documentos ancestrais em cada etapa da transmissão, do que *vice-versa*.”[^492] Ao reconhecer isto, ele estava meramente afirmando um truísmo da transmissão de manuscritos, a saber: Sob circunstâncias normais, quanto mais velho um texto for em relação aos seus rivais, maiores são as suas chances de sobreviver em uma pluralidade ou em uma maioria dos textos em existência, em qualquer período subsequente. Mas o mais velho de todos os textos é o autógrafo. Portanto, deveria ser ponto pacífico que, fora algum deslocamento radical na história da transmissão, uma maioria de textos será muito mais provável de corretamente representar o caráter do original, do que uma pequena minoria de textos. Isto é especialmente verdadeiro quando a proporção é um esmagador 8:2. Sob quaisquer condições de transmissão razoavelmente normais, para todos os efeitos práticos seria completamente impossível que uma forma-de-texto posterior obtivesse, das testemunhas em existência, uma preponderância tão esmagadora. Mesmo se levarmos a origem do assim chamado texto Bizantino até uma data contemporânea a P⁷⁵ e P⁶⁶ (cerca de 200 DC) — uma época quando centenas de manuscritos certamente já existiam — proporções matemáticas tais como as reveladas pela tradição em existência não poderiam ser explicadas à parte de alguma sublevação prodigiosa na história textual.
 
-## Probabilidade Estatística
+### *Probabilidade Estatística*
 
 Este argumento não é simplesmente tirado do nada. O que está envolvido pode ser dito de variadas formas em termos de probabilidades matemáticas. Para isto, no entanto, eu tive de procurar ajuda do meu irmão, David M. Hodges, graduado como Bacharel em Ciências pelo Wheaton College[^493], em 1957, com sua principal área de especialização em Matemática. Sua experiência subsequente, no campo da Estatística, inclui: serviço na Intendência do Exército em Letterkenny (Pensilvânia) como um Oficial Estatístico para a Agência de Dados de Itens Principais do Exército dos USA, e como um Estatístico Supervisor de Levantamentos para o Escritório de Campo dos Manuais de Equipamentos do Comando de Materiais do Exército (1963–67); e, de 1967 a 1970, como um Estatístico no Quartel General do Comando de Materiais do Exército dos USA., em Washington, D. C. Em 1972 ele recebeu seu grau de Mestre em Ciências, em Pesquisa Operacional, da George Washington University.
 
@@ -2351,7 +2390,7 @@ No entanto, $G_{n-1} > B_{n-1}$, uma vez que o autógrafo era bom. Consequenteme
 
 Na situação discutida, equilíbrio se implanta quando um erro é introduzido. Isto é, uma vez que um erro tenha sido introduzido, a diferença numérica entre o número de cópias boas e más é mantida. Em outras palavras, más cópias são transformadas em boas na mesma proporção com que boas cópias são transformadas em más. O elemento crítico é quão cedo uma má cópia aparece. Por exemplo, suponhamos que duas cópias são feitas de cada manuscrito e que “q” é 1/4 = 25%. A partir do autógrafo, duas cópias são feitas. A probabilidade da cópia número 1 ser boa é 3/4, como também é o caso para a segunda cópia. A probabilidade de que ambas sejam boas é (3/4) x (3/4) = 9/16 = 56%. A probabilidade de que ambas sejam más é 1/4 x 1/4 = 1/16 = 6%. A probabilidade de que só uma [quer seja a primeira, quer a segunda] é má é (3/4 x 1/4) + (1/4 x 3/4) = 6/16 = 38%. O número esperado de boas cópias é $p \cdot k \cdot G_{n-1} + q \cdot k \cdot B_{n-1}$ que é (3/4 x 2 x 1) + (1/4 x 2 x 0) = 1,5. O número esperado de más cópias é 2 – 1,5 = 0,5. Agora, se um erro for introduzido na segunda geração, o número de cópias boas e más será igual, dali para frente. Mas a probabilidade disto acontecer é 44%. Se a probabilidade de uma cópia acurada for maior que 3/4, a probabilidade de um erro na segunda geração decrescerá. Isto permanece verdade não importando qual seja o número de cópias e o número de gerações, desde que o número de cópias feitas a partir de maus manuscritos seja igual ao número de cópias feitas a partir de bons manuscritos. Obviamente, se um tipo de manuscrito é copiado mais frequentemente que o outro, o tipo de manuscrito copiado mais frequentemente perpetuará sua leitura mais frequentemente.
 
-Uma outra observação é que, se a probabilidade de introduzir uma leitura incorreta diferir da probabilidade de reintroduzir uma leitura correta, a discussão não se aplica.
+> Uma outra observação é que, se a probabilidade de introduzir uma leitura incorreta diferir da probabilidade de reintroduzir uma leitura correta, a discussão não se aplica.
 
 Esta discussão, no entanto, não é de modo algum desequilibrada de modo a favorecer a tese que estamos apresentando. O reverso é o caso. Uma declaração adicional do meu irmão clarificará este ponto:
 
@@ -2369,11 +2408,11 @@ Portanto, abordando a questão a partir deste lado (i.é.: *começando* com os m
 
 Não bastará argumentar, em resposta a esta demonstração, que é óbvio que um erro pode facilmente ser copiado mais que a leitura original, em qualquer instância particular. Naturalmente isto é verdadeiro e é livremente reconhecido. Mas o problema é mais agudo que isto. Se, por exemplo, em um certo livro do Novo Testamento encontramos (digamos) 100 leituras [jogos de variantes] onde os manuscritos se dividem na proporção de 80% para 20%, deveríamos supor que em cada um destes casos, ou mesmo na maioria deles, esta reversão de probabilidades tem ocorrido? Todavia isto é o que, *em efeito*, a crítica textual contemporânea está dizendo. Pois o Texto Majoritário é repetidamente rejeitado a favor de leituras minoritárias. É evidente, portanto, que o que os críticos textuais modernos estão *realmente* afirmando — quer implícita ou explicitamente — constitui nada menos que uma rejeição [da ciência] das probabilidades “por atacado”, e em uma escala que a tudo abrange!
 
-Seguramente, portanto, fica claro que aqueles que repetida e consistentemente preferem leituras minoritárias a leituras majoritárias — especialmente quando as maiorias rejeitadas são muito grandes — estão confrontados com um problema. Como pode esta preferência ser justificada contra as probabilidades latentes em qualquer visão razoável da história da transmissão do Novo Testamento? Porque deveremos rejeitar estas probabilidades? Que tipo de fenômeno textual seria requerido para produzir um texto majoritário espalhado através de 80% da tradição, e que, apesar disto, seria mais frequentemente errado que os 20 porcento que se lhe opõe? E, mesmo se pudéssemos conceber um tal fenômeno textual, que prova há que ele jamais ocorreu? Pode alguém, racionalmente, seguir em fren-te na crítica textual sem fornecer uma convincente resposta a estas perguntas?
+Seguramente, portanto, fica claro que aqueles que repetida e consistentemente preferem leituras minoritárias a leituras majoritárias — especialmente quando as maiorias rejeitadas são muito grandes — estão confrontados com um problema. Como pode esta preferência ser justificada contra as probabilidades latentes em qualquer visão razoável da história da transmissão do Novo Testamento? Porque deveremos rejeitar estas probabilidades? Que tipo de fenômeno textual seria requerido para produzir um texto majoritário espalhado através de 80% da tradição, e que, apesar disto, seria mais frequentemente errado que os 20 porcento que se lhe opõe? E, mesmo se pudéssemos conceber um tal fenômeno textual, que prova há que ele jamais ocorreu? Pode alguém, racionalmente, seguir em frente na crítica textual sem fornecer uma convincente resposta a estas perguntas?
 
 Eu venho insistindo, por bastante tempo, que o ponto crucial do problema textual é como explicamos a esmagadora preponderância do Texto Majoritário na tradição em existência. Explicações atuais da sua origem são seriamente inadequadas (ver abaixo, a seção “Objeções”). Por outro lado, a proposição que o Texto Majoritário é o resultado natural de um processo normal de transmissão de manuscritos lhe dá uma explicação perfeitamente natural. Assim, as formas de texto minoritárias são explicadas, *mutatis mutandis,* como existindo nas suas formas minoritárias devido ao distanciamento comparativo do texto original. A teoria é simples mas, creio, completamente adequada em cada nível. Sua adequação pode ser demonstrada também pela simplicidade das respostas que oferece às objeções colocadas contra ela. Algumas destas objeções seguem.
 
-## Objeções
+### *Objeções*
 
 1. “Uma vez que todos manuscritos não são copiados um mesmo número de vezes, demonstrações matemáticas como as acima são inválidas.”
 
@@ -2407,15 +2446,13 @@ Esta tese do Texto Majoritário como resultando de um “processo” parece esta
 
 Ninguém ainda conseguiu explicar como um processo lento e longo, espalhando-se tanto por muitos séculos como também por uma ampla área geográfica, e envolvendo uma multidão de copistas que às vezes não sabiam nada do estado do texto fora dos seus próprios monastérios ou *scriptoria*, poderia alcançar esta uniformidade universalmente prevalecente, a partir da [suposta] diversidade apresentada pelas formas de texto anteriores. Mesmo uma edição oficial do Novo Testamento — promovida ao redor do mundo conhecido com sanção eclesiástica — teria tido grandes dificuldades para alcançar este resultado, como a história da Vulgata de Jerônimo amplamente demonstra[^497]. Mas um processo não dirigido alcançar relativa estabilidade e uniformidade nas tão diversificadas circunstâncias textuais, históricas e culturais nas quais o Novo Testamento foi copiado, impõe torções insuportáveis à nossa imaginação.
 
-Assim, vê-se que quanto mais clara e especificamente a tese de “processo” possa vir a ser articulada, mais vulnerável ela provavelmente será a todas as objeções em potencial que lhe fizemos agora. Ademais, quando articulação for dada a uma tal tese, esta terá que se localizar definidamente em algum local da história — com muitas inconveniências adicionais se acumulando contra seus defensores. Porque, seja lembrado, assim como a História é muda a respeito de qualquer “recensão síria” (tal como aquela que Hort imaginou), do mesmo modo também a História é muda sobre qualquer tipo de
-
-“processo” que esteve de algum modo influenciando ou guiando os escribas à medida que manuscritos eram transmitidos. Críticos modernos são os primeiros a descobrir um tal “processo”, mas antes de aceitá-lo teremos que ter mais que proclamações vagas e não documentadas sobre ele.
+Assim, vê-se que quanto mais clara e especificamente a tese de “processo” possa vir a ser articulada, mais vulnerável ela provavelmente será a todas as objeções em potencial que lhe fizemos agora. Ademais, quando articulação for dada a uma tal tese, esta terá que se localizar definidamente em algum local da história — com muitas inconveniências adicionais se acumulando contra seus defensores. Porque, seja lembrado, assim como a História é muda a respeito de qualquer “recensão síria” (tal como aquela que Hort imaginou), do mesmo modo também a História é muda sobre qualquer tipo de “processo” que esteve de algum modo influenciando ou guiando os escribas à medida que manuscritos eram transmitidos. Críticos modernos são os primeiros a descobrir um tal “processo”, mas antes de aceitá-lo teremos que ter mais que proclamações vagas e não documentadas sobre ele.
 
 Parece não ser injusto que se diga que a tentativa de explicar o Texto Majoritário por algum “processo” obscuro e nebuloso é uma confissão implícita de fraqueza da parte da crítica contemporânea. A erosão da tese de Westcott e Hort, que rastejou o Texto Majoritário até uma recensão oficial e definitiva do Novo Testamento, tem criado um vácuo verdadeiramente muito difícil de ser preenchido. Mais que nunca, vê-se que críticos não podem rejeitar o Texto Majoritário e ao mesmo tempo explicá-lo. *E este é o nosso ponto principal e essencial!* Rejeição do Texto Majoritário e explicação acreditável para o mesmo, são bastante incompatíveis um com outro. Mas a aceitação do Texto Majoritário imediatamente fornece uma explicação para ele e também para os textos rivais! *E é a essência do processo científico preferir hipóteses que explicam os fatos disponíveis e rejeitar hipóteses que não o façam!*
 
-### *Apêndice D — Conflação ou Confusão?*[^498]
+## *Apêndice D — Conflação ou Confusão?*[^498]
 
-#### *Introdução*
+### *Introdução*
 
 Conflação é a teoria que, quando um escriba ou editor teve diante de si dois ou mais manuscritos os quais, em um dado ponto, tinham leituras diferentes que podiam ser “apropriadamente” combinadas para produzir um texto mais “pleno”, ele poderia fazer esta combinação. O resultado seria chamado “conflação”, de acordo com Hort.
 
@@ -2424,9 +2461,12 @@ Quando se avalia um exemplo aparente de conflação, deve-se dar a devida consid
 A lista a seguir inclui exemplos de possíveis conflações colecionados de várias fontes. (Um olhar aguçado pode descobrir outros exemplos). Estes casos são apresentados ao leitor para sua própria avaliação e decisão. Eles vão desde casos de conflação óbvia e omissões óbvias, até casos de completa confusão onde é altamente duvidoso que o mecanismo de “conflação” tenha operado. Por isso, os exemplos são classificados em dois conjuntos de dois grupos cada:
 
 1. “Conflação” verdadeira, ou clara:
+
    - 1.a. Mera adição ou telescopeamento de leituras, ou omissão delas;
    - 1.b. Adição + conjunções simples, ou omissão.
+
 2. “Conflação” duvidosa, ou confusão:
+
    - 2.a. Complicada por substituição, transposição ou mudanças internas moderadas, ou omissão;
    - 2.b. Diferenças substanciais — “conflação” duvidosa.
 
@@ -2434,330 +2474,428 @@ A extensão completa da confusão existente não será aparente ao leitor uma ve
 
 Os símbolos no aparato crítico são essencialmente aqueles de uso geral. As abreviações *pc, al, pm* e *rell* têm o mesmo significado que nas edições de Nestle[^499]. Tenho representado $f^1$ e $f^{13}$ somente pelos seus números. Apenas um símbolo de tipo-de-texto é usado, Biz, que representa a tradição manuscrita “Bizantina”. Utilizo parênteses em duas maneiras — quando eles delimitam um papiro, significam que há dúvidas quanto a que leitura ele exibe; quando delimitam qualquer outro tipo de testemunha, significam que as suas leituras têm uma leve variação em relação às outras testemunhas. O leitor não pode deixar de notar que a abrangência do aparato varia consideravelmente de exemplo para exemplo — isto é um reflexo das fontes que me eram disponíveis.
 
-#### *1. “Conflação” Verdadeira, ou Clara*
+### *1. “Conflação” Verdadeira, ou Clara*
 
-##### *a) Mera adição ou telescopeamento de leituras, ou omissão delas*
+#### *a) Mera adição ou telescopeamento de leituras, ou omissão delas*
 
 1. **Mt 3.12**
+
    - αυτου εις την αποθηκην — Biz ℵ C K Δ 0233 1 *pm* lat cop
    - εις την αποθηκην αυτου — L 892 *al* b ff¹ g¹ syᵖ,ʰ
    - αυτου εις την αποθηκην αυτου — B W *pc*
+
    *(Isto pareceria ser uma conflação da parte de B e de W. Uma vez que Hort não seguiu B aqui, ele deve ter sido de uma opinião similar.)*
 
 2. **Mt 16.11**
+
    - προσεχειν — Biz Dᶜ W X *pm* syᶜ,ˢ,ʰ
    - προσεχετε — D Θ 13 124 *pc* lat syᵖ
    - προσεχετε δε — ℵ B C L 1 *pc* cop
    - προσεχειν προσεχετε δε — Cᶜ 33 237 *al* q
+
    *(Uma conflação evidente da parte de alguns MSS mais recentes, construída sobre as leituras “Bizantina” e “Alexandrina/Ocidental”.)*
 
 3. **Mt 17.25**
+
    - οτε εισηλθεν — Biz E F G K L W Y Π
    - ελθοντα — B 1
    - εισελθοντα — ℵ
    - εισελθοντων — Θ 13
    - εισελθοντι — D
+
    *(Não pode esta ser uma conflação da parte de ℵ, com embelezamentos “Cesareanos” e “Ocidentais”?)*
 
 4. **Mt 20.21**
-   - δεξιων σου ... ευωνυµων — D Θ 1 *pc* lat
-   - δεξιων ... ευωνυµων σου — ℵ B
-   - δεξιων σου ... ευωνυµων σου — Biz C L N W Z 085 13 *pm* syᵖ,ʰ
+
+   - δεξιων σου … ευωνυμων — D Θ 1 *pc* lat
+   - δεξιων … ευωνυμων σου — ℵ B
+   - δεξιων σου … ευωνυμων σου — Biz C L N W Z 085 13 *pm* syᵖ,ʰ
+
    *(É esta uma conflação “Bizantina” das leituras “Ocidental” e “Alexandrina”, ou são estas simplificações independentes daquela? Deve ser notado que ℵ e B estão sozinhos na omissão do primeiro σου.)*
 
 5. **Mt 23.25**
+
    - ακρασιας — ℵ B D L Δ Θ Π 1 13 33 *al* it syʰ
    - αδικιας — Biz C K Γ *pm* f syᵖ
    - ακρασιας αδικιας — W
+
    *(Parece evidente que códice W aqui confla as leituras “Alexandrina” e “Bizantina”.)*
 
 6. **Mt 24.38**
+
    - εκειναις προ — D 253 *pc* itᵖᵗ syʰ,ᵖᵃˡ
    - ταις προ — Biz ℵ L W Θ 067 0133 1 13 *pl* itᵖᵗ vg bo
    - εκειναις ταις προ — B
+
    *(Isto pareceria ser uma conflação da parte de B. Uma vez que Hort usou colchetes aqui, ele deve ter tendido a uma opinião similar.)*
 
 7. **Mt 26.22**
+
    - εις εκαστος — ℵ B C L Z 0281 33 *pc* sa
    - εκαστος αυτων — Biz P³⁷,⁶⁴ (P⁴⁵) A W Γ Δ Π Σ Ψ 074 1 13 *pl* syᵖ
    - εις εκαστος αυτων — (P⁴⁵) D M Θ 69 *pc* bo
+
    *(Isto pareceria ser uma conflação “Ocidental” de elementos “Bizantinos” e “Alexandrinos”. Uma reunião recente de papirólogos decidiu que P⁶⁴ data do 1º século [!], e confirmou que ele traz a leitura bizantina.)*
 
 8. **Mt 26.36**
+
    - ου — Biz B E F G 067 *pm*
    - αν — D K L W Δ Θ 074 1 69 *al*
    - ου αν — P⁵³ A *pc*
+
    *(Antes do advento de P⁵³, presumivelmente todos concordariam que A aqui conflou as leituras “Bizantina” e “Ocidental”. Embora o papiro [P⁵³] antedate quaisquer testemunhas conhecidas destes dois “tipos de texto”, eu sugiro que a conclusão correta é que a conflação ocorreu muito cedo.)*
 
 9. **Mt 26.70**
+
    - αυτων — K *al*
    - παντων — ℵ B D E G L Z Θ 090 13 33 *al* lat syᵖ,ʰ
    - αυτων παντων — Biz A C W Γ Δ 0133 1 *pm*
+
    *(Deveremos dizer que o texto “Bizantino” tem uma conflação baseada, por um lado, em um punhado de MSS recentes, e, por outro lado, nos tipos de texto “Alexandrino-Ocidental” combinados? Parece mais provável que K etc. tenham simplificado a leitura “Bizantina”, uma ocorrência fácil de homoioteleuton. Neste caso, a leitura “Alexandrina-Ocidental” é melhor explicada como uma outra simplificação da leitura original, um caso de parablepsis.)*
 
 10. **Mt 27.55**
-   - εκει — Biz B C *pl* lat
-   - και — D 56 aur d
-   - εκει και — F K L Π 33 syʰ,ᵖᵃˡ
-   - κακει — ℵ (syᵖ)
-   *(Aqui parece que temos variadas testemunhas conflando as leituras “Bizantina-Alexandrina” e “Ocidental”.)*
+
+    - εκει — Biz B C *pl* lat
+    - και — D 56 aur d
+    - εκει και — F K L Π 33 syʰ,ᵖᵃˡ
+    - κακει — ℵ (syᵖ)
+
+    *(Aqui parece que temos variadas testemunhas conflando as leituras “Bizantina-Alexandrina” e “Ocidental”.)*
 
 11. **Marcos 1.4**
-   - ο βαπτιζων εν τη ερηµω — B 33 *pc*
-   - βαπτιζων εν τη ερηµω και — Biz A K P W Π 1 13 *pl* f syʰ,ᵖᵃˡ
-   - ο βαπτιζων εν τη ερηµω και — ℵ L Δ *pc* bo
-   - (εν τη ερηµω βαπτιζων και) — D Θ *pc* lat syᵖ
-   *(Aqui temos testemunhas “Alexandrinas” conflando a leitura “Bizantina” e aquela do Códice B. Embora não tenha havido acréscimo de nova evidência, UBS³ parece esposar esta óbvia conflação enquanto UBS¹ não o fez.)*
+
+    - ο βαπτιζων εν τη ερημω — B 33 *pc*
+    - βαπτιζων εν τη ερημω και — Biz A K P W Π 1 13 *pl* f syʰ,ᵖᵃˡ
+    - ο βαπτιζων εν τη ερημω και — ℵ L Δ *pc* bo
+    - (εν τη ερημω βαπτιζων και) — D Θ *pc* lat syᵖ
+
+    *(Aqui temos testemunhas “Alexandrinas” conflando a leitura “Bizantina” e aquela do Códice B. Embora não tenha havido acréscimo de nova evidência, UBS³ parece esposar esta óbvia conflação enquanto UBS¹ não o fez.)*
 
 12. **Marcos 1.28**
-   - ευθυς — Biz A D E G H K M U V Y Γ Δ Π Σ Φ Ω 0104 *pm* lat sy
-   - πανταχου — W 579 *pc* b e q
-   - ευθυς πανταχου — ℵᶜ B C L 0133 13 *pc*
-   - (omite) — ℵ Θ 1 *al* c ff² r¹ syˢ
-   *(Não é esta uma óbvia conflação “Alexandrina”? Apesar disto, o texto da UBS a adota sem dar qualquer indicação de que há outras leituras.)*
+
+    - ευθυς — Biz A D E G H K M U V Y Γ Δ Π Σ Φ Ω 0104 *pm* lat syᵖ,ʰ
+    - πανταχου — W 579 *pc* b e q
+    - ευθυς πανταχου — ℵᶜ B C L 0133 13 *pc*
+    - (omite) — ℵ Θ 1 *al* c ff² r¹ syˢ
+
+    *(Não é esta uma óbvia conflação “Alexandrina”? Apesar disto, o texto da UBS a adota sem dar qualquer indicação de que há outras leituras.)*
 
 13. **Marcos 1.40**
-   - κυριε — C L W Θ *pc* e c ff syᵖᵃˡ
-   - οτι — Biz ℵ A *pl* syʰ
-   - κυριε οτι — B
-   *(Isto parece ser uma conflação clara da parte de B. Uma vez que Hort não seguiu B aqui, ele presumivelmente tendia à mesma opinião.)*
+
+    - κυριε — C L W Θ *pc* e c ff syᵖᵃˡ
+    - οτι — Biz ℵ A *pl* syʰ
+    - κυριε οτι — B
+
+    *(Isto parece ser uma conflação clara da parte de B. Uma vez que Hort não seguiu B aqui, ele presumivelmente tendia à mesma opinião.)*
 
 14. **Marcos 5.42**
-   - εξεστησαν — Biz P⁴⁵ A K W Θ Π 0133 1 13 *pl* e syᵖ,ʰ
-   - εξεστησαν ευθυς — ℵ B C L Δ 33 892 *pc* bo
-   - εξεστησαν παντες — D it sa
-   *(Se os “produtores” do texto “Sírio” seguiram uma política de conflação, por que eles negligenciaram esta excelente oportunidade? Notar que aquela que Hort chamou de leitura “Síria tardia” tem agora a atestação mais antiga.)*
+
+    - εξεστησαν — Biz P⁴⁵ A K W Θ Π 0133 1 13 *pl* e syᵖ,ʰ
+    - εξεστησαν ευθυς — ℵ B C L Δ 33 892 *pc* bo
+    - εξεστησαν παντες — D it sa
+
+    *(Se os “produtores” do texto “Sírio” seguiram uma política de conflação, por que eles negligenciaram esta excelente oportunidade? Notar que aquela que Hort chamou de leitura “Síria tardia” tem agora a atestação mais antiga.)*
 
 15. **João 4.29**
-   - παντα οσα — Biz P⁶⁶,⁷⁵ A D L W Γ Δ Θ Λ Π Ψ 086 1 13 *pl* lat syʰ
-   - παντα α — ℵ B C e a d q syᵖ cop
-   - παντα οσα α — 579
-   *(Esta é uma conflação óbvia num MS recente. Notar a forte atestação antiga para a leitura “Bizantina”.)*
+
+    - παντα οσα — Biz P⁶⁶,⁷⁵ A D L W Γ Δ Θ Λ Π Ψ 086 1 13 *pl* lat syʰ
+    - παντα α — ℵ B C e a d q syᵖ cop
+    - παντα οσα α — 579
+
+    *(Esta é uma conflação óbvia num MS recente. Notar a forte atestação antiga para a leitura “Bizantina”.)*
 
 16. **João 5.37**
-   - εκεινος µεµαρτυρηκεν — P⁷⁵ ℵ B L W 213 *pc* a ffᵃ j syᵖ,ʰ
-   - αυτος µεµαρτυρηκεν — Biz P⁶⁶ A Γ Δ Θ Λ Π Ψ 063 1 13 *pl* lat
-   - εκεινος αυτος µαρτυρει — D a b c l q
-   *(Isto parece ser um caso de conflação “Ocidental”. Notar que aquela que Hort chamou de leitura “Síria tardia” tem atestação muito antiga.)*
+
+    - εκεινος μεμαρτυρηκεν — P⁷⁵ ℵ B L W 213 *pc* a ffᵃ j syᵖ,ʰ
+    - αυτος μεμαρτυρηκεν — Biz P⁶⁶ A Γ Δ Θ Λ Π Ψ 063 1 13 *pl* lat
+    - εκεινος αυτος μαρτυρει — D a b c l q
+
+    *(Isto parece ser um caso de conflação “Ocidental”. Notar que aquela que Hort chamou de leitura “Síria tardia” tem atestação muito antiga.)*
 
 17. **João 7.39**
-   - πνευµα — P⁶⁶ᶜ,⁷⁵ ℵ K N T Θ Π Ψ *pc* bo
-   - πνευµα αγιον — Biz P⁶⁶ L W X Γ Δ Λ 0105 1 13 *pl*
-   - πνευµα δεδοµενον — lat syᶜ,ˢ,ᵖ Eusébio
-   - πνευµα αγιον δεδοµενον — B 053 *pc* e q syᵖᵃˡ,ʰ
-   - (το πνευµα το αγιον επ αυτοις) — D d f
-   *(Aqui parece que B confla elementos “Bizantinos” e “Ocidentais”. Uma vez que Hort não seguiu B, ele deve ter tendido à mesma opinião. Notar que aquela que Hort chamou de leitura “Síria tardia” tem agora atestação muito antiga.)*
+
+    - πνευμα — P⁶⁶ᶜ,⁷⁵ ℵ K N T Θ Π Ψ *pc* bo
+    - πνευμα αγιον — Biz P⁶⁶ L W X Γ Δ Λ 0105 1 13 *pl*
+    - πνευμα δεδομενον — lat syᶜ,ˢ,ᵖ Eusébio
+    - πνευμα αγιον δεδομενον — B 053 *pc* e q syᵖᵃˡ,ʰ
+    - (το πνευμα το αγιον επ αυτοις) — D d f
+
+    *(Aqui parece que B confla elementos “Bizantinos” e “Ocidentais”. Uma vez que Hort não seguiu B, ele deve ter tendido à mesma opinião. Notar que aquela que Hort chamou de leitura “Síria tardia” tem agora atestação muito antiga.)*
 
 18. **João 10.19**
-   - σχισµα ουν — D 1241 syˢ
-   - σχισµα παλιν — P(⁴⁵),⁷⁵ ℵ B L W X 33 *pc* lat syᵖ sa
-   - σχισµα ουν παλιν — Biz P⁶⁶ A Γ Δ Θ Λ Π Ψ 1 13 *pl* syʰ
-   *(Um século atrás, isto poderia ter sido interpretado como uma conflação “Síria”, mas agora, dificilmente podemos dizer que P⁶⁶ conflou P⁷⁵ e D. A possibilidade tem que ser pelo menos considerada de que aquela que Hort chamou de leitura “Síria tardia” é de fato a mais antiga, a original.)*
+
+    - σχισμα ουν — D 1241 syˢ
+    - σχισμα παλιν — P(⁴⁵),⁷⁵ ℵ B L W X 33 *pc* lat syᵖ sa
+    - σχισμα ουν παλιν — Biz P⁶⁶ A Γ Δ Θ Λ Π Ψ 1 13 *pl* syʰ
+
+    *(Um século atrás, isto poderia ter sido interpretado como uma conflação “Síria”, mas agora, dificilmente podemos dizer que P⁶⁶ conflou P⁷⁵ e D. A possibilidade tem que ser pelo menos considerada de que aquela que Hort chamou de leitura “Síria tardia” é de fato a mais antiga, a original.)*
 
 19. **João 10.31**
-   - εβαστασαν — P⁴⁵ Θ
-   - εβαστασαν ουν — D 28 1780 *pc* lat syˢ bo
-   - εβαστασαν παλιν — (P⁷⁵) ℵ B L W 33 *pc* syᵖ
-   - εβαστασαν ουν παλιν — Biz P⁶⁶ A X Π Ψ 1 13 565 *pl* f syʰ
-   *(Um século atrás, isto poderia ter sido interpretado como uma conflação “Síria”, mas agora, dificilmente podemos dizer que P⁶⁶ conflou B e D. Tem que ser reconhecida a possibilidade que aquela que Hort chamou de leitura “Síria tardia” é de fato a mais antiga. Todas as três palavras terminam em nu, portanto ambas [ou todas as três] leituras mais curtas podem ser o resultado de homoioteleuton.)*
+
+    - εβαστασαν — P⁴⁵ Θ
+    - εβαστασαν ουν — D 28 1780 *pc* lat syˢ bo
+    - εβαστασαν παλιν — (P⁷⁵) ℵ B L W 33 *pc* syᵖ
+    - εβαστασαν ουν παλιν — Biz P⁶⁶ A X Π Ψ 1 13 565 *pl* f syʰ
+
+    *(Um século atrás, isto poderia ter sido interpretado como uma conflação “Síria”, mas agora, dificilmente podemos dizer que P⁶⁶ conflou B e D. Tem que ser reconhecida a possibilidade que aquela que Hort chamou de leitura “Síria tardia” é de fato a mais antiga. Todas as três palavras terminam em nu, portanto ambas [ou todas as três] leituras mais curtas podem ser o resultado de homoioteleuton.)*
 
 20. **João 11.22**
-   - αλλα — 1780
-   - και — P⁷⁵ ℵ B C X 1 33 *pc* itᵖᵗ
-   - αλλα και — Biz P⁴⁵,⁶⁶ ℵ² A C³ D L W Θ Ψ Ω 0250 13 *pl* lat syᵖ,ʰ cop
-   *(Parece óbvio que a leitura “Bizantina” não pode ser uma conflação da “Alexandrina” e de um manuscrito recente. 1780 deixou de fora parte da leitura “Bizantina”. Sugiro a mesma explicação para a leitura “Alexandrina”. Observar que a leitura Bizantina tem agora atestação muito antiga.)*
 
-21. João 12.9
-   - οχλος πολυς — Biz P⁶⁶,⁷⁵ A B² I Q X Θ Ψ 065 1 33 *pl* (cop)
-   - ο οχλος πολυς — ℵ B L *pc* lat
-   - οχλος ο πολυς — W 1010
-   - ο οχλος ο πολυς — P⁶⁶ᶜ
-   *(Conflação ou confusão? Foi P⁶⁶ᶜ que conflou B e W? Ou devemos dizer que P⁶⁶ᶜ tem a leitura original, a qual todos os demais manuscritos [incluindo P⁶⁶*!] simplificaram? Notar que aquela que Hort chamou de leitura “Síria tardia” tem agora a mais antiga atestação, e como!)*
+    - αλλα — 1780
+    - και — P⁷⁵ ℵ B C X 1 33 *pc* itᵖᵗ
+    - αλλα και — Biz P⁴⁵,⁶⁶ ℵ² A C³ D L W Θ Ψ Ω 0250 13 *pl* lat syᵖ,ʰ cop
 
-22. João 14.14
-   - τουτο — P⁷⁵ A B L Ψ 060 33 *al* c vg cop
-   - εγω — Biz P⁶⁶ ℵ D E G Q X Γ ∆ Π *pm* it syᵖ,ʰ
-   - τουτο εγω — P⁶⁶ᶜ
-   *(Esta é uma conflação instrutiva da parte de P⁶⁶ᶜ. Notar a atestação antiga para a leitura “Bizantina”.)*
+    *(Parece óbvio que a leitura “Bizantina” não pode ser uma conflação da “Alexandrina” e de um manuscrito recente. 1780 deixou de fora parte da leitura “Bizantina”. Sugiro a mesma explicação para a leitura “Alexandrina”. Observar que a leitura Bizantina tem agora atestação muito antiga.)*
 
-23. João 16.4
-   - αυτων µνηµονευητε — ℵᶜ L 13 *al* lat
-   - µνηµονευητε αυτων — Biz K Γ ∆ Ψ 054 1 *pm* ff² syᵖᵃˡ
-   - αυτων µνηµονευητε αυτων — A B Θ Π 33 *al* syᵖ,ʰ
-   - µνηµονευητε — ℵ D a syˢ cop
-   *(Esta pareceria ser uma conflação não muito feliz da parte de B, etc.)*
+21. **João 12.9**
 
-24. João 17.23
-   - και γινωσκη — P⁶⁶ ℵ W 1 *pc* lat
-   - ινα γινωσκη — B C D L 33 *pc* a e syˢ
-   - και ινα γινωσκη — Biz A Θ Ψ 054 13 *pm* f q syᵖ,ʰ
-   *(Esta poderia ser uma conflação “Bizantina”, mas as duas primeiras leituras poderiam, com a mesma facilidade, ser apenas simplificações independentes da leitura mais longa.)*
+    - οχλος πολυς — Biz P⁶⁶,⁷⁵ A B² I Q X Θ Ψ 065 1 33 *pl* (cop)
+    - ο οχλος πολυς — ℵ B L *pc* lat
+    - οχλος ο πολυς — W 1010
+    - ο οχλος ο πολυς — P⁶⁶ᶜ
 
-25. João 18.40
-   - παλιν — P⁶⁰ ℵ B L W X 0109 *pc*
-   - παντες — G K N Ψ 1 13 33 *al* it syᵖ,ᵖᵃˡ cop
-   - παλιν παντες — Biz (P⁶⁶) A Γ ∆ Θ 054 0250 *pm* vg syʰ
-   - παντες παλιν — D
-   *(Esta poderia ser uma conflação “Bizantina”, mas poderia com a mesma facilidade ser o caso que as duas leituras mais curtas são simplificações independentes da leitura mais longa; talvez um caso de homoioarcton. Quanto à leitura “Ocidental”, é ela uma conflação ou simplesmente uma inversão na ordem das palavras?)*
+    *(Conflação ou confusão? Foi P⁶⁶ᶜ que conflou B e W? Ou devemos dizer que P⁶⁶ᶜ tem a leitura original, a qual todos os demais manuscritos [incluindo P⁶⁶\*!] simplificaram? Notar que aquela que Hort chamou de leitura “Síria tardia” tem agora a mais antiga atestação, e como!)*
 
-26. Atos 7.16
-   - του Συχεµ — Biz P⁷⁴ D Ψ 049 056 0142 *pm* lat
-   - εν Συχεµ — ℵ B C *al* cop
-   - του εν Συχεµ — ℵᶜ A E
-   *(A terceira leitura é, presumivelmente, uma conflação das leituras “Bizantina” e “Alexandrina”.)*
+22. **João 14.14**
 
-27. Atos 10.48
-   - του κυριου — Biz H L P 049 056 *pm*
-   - Ιησου Χριστου — P⁷⁴ ℵ A B E 33 *al* cop
-   - του κυριου Ιησου — Lec *al*
-   - του κυριου Ιησου Χριστου — D 81 d p
-   *(A quarta leitura pareceria ser uma conflação “Ocidental” das leituras “Bizantina” e “Alexandrina”.)*
+    - τουτο — P⁷⁵ A B L Ψ 060 33 *al* c vg cop
+    - εγω — Biz P⁶⁶ ℵ D E G Q X Γ Δ Π *pm* it syᵖ,ʰ
+    - τουτο εγω — P⁶⁶ᶜ
 
-28. Atos 14.15
-   - τον θεον ζωνta — D *pc*
-   - θεον τον ζωντα — ℵ
-   - τον θεον τον ζωντα — Biz P⁴⁵ H L P *pm*
-   - θεον ζωντα — P⁷⁴ B C E 33 *al*
-   *(Um século atrás, isto poderia ter sido interpretado como uma conflação “Síria”, mas agora, dificilmente podemos dizer que P⁴⁵ conflou Aleph e D. Por que não dizer que aquilo que Hort chamou de leitura “Síria tardia” não apenas é a mais antiga como também a melhor? Eu diria que a leitura “Alexandrina” é decididamente inferior em termos da estrutura de discurso do texto, o tipo de coisa que engodaria escribas sem domínio do grego koinê como língua materna[^500].)*
+    *(Esta é uma conflação instrutiva da parte de P⁶⁶ᶜ. Notar a atestação antiga para a leitura “Bizantina”.)*
 
-29. Atos 24.14
-   - τοις προφηταις — Biz ℵᶜ A *pm* syr bo
-   - εν τοις προφηταις — B C D *al*
-   - τοις εν τοις προφηταις — ℵ E
-   *(Esta parece ser uma conflação clara da parte de Aleph.)*
+23. **João 16.4**
 
-30. Atos 25.5
-   - τουτω — Biz *pm*
-   - ατοπον — ℵ A B C E 33 *al* lat
-   - τουτω ατοπον — Ψ 69 614 *al* syr bo
-   *(A terceira leitura pareceria ser uma conflação das leituras “Bizantina” e “Alexandrina”.)*
+    - αυτων μνημονευητε — ℵᶜ L 13 *al* lat
+    - μνημονευητε αυτων — Biz K Γ Δ Ψ 054 1 *pm* ff² syᵖᵃˡ
+    - αυτων μνημονευητε αυτων — A B Θ Π 33 *al* syᵖ,ʰ
+    - μνημονευητε — ℵ D a syˢ cop
 
-31. 1Co 7.34
-   - η αγαµος και η παρθενος — P¹⁵ B P *al* cop
-   - και η παρθενος η αγαµος — Biz D F G K L Ψ *pm* it syr
-   - η αγαµος και η παρθενος η αγαµος — P⁴⁶ ℵ A 33 *pc*
-   *(Embora inquestionavelmente antiga, esta realmente parece ser uma conflação da parte de P⁴⁶, etc.)*
+    *(Esta pareceria ser uma conflação não muito feliz da parte de B, etc.)*
 
-32. Filip. 1.18
-   - πλην — Biz D E K L *pm*
-   - οτι — B syᵖ
-   - πλην οτι — P⁴⁶ ℵ A F G P 048 33 *pc* sa
-   *(Editores modernos tendem a encarar a leitura longa como original, mas agora que sabemos que o texto “Bizantino” retroage até pelo menos o segundo século, devemos reconsiderar a possibilidade de que P⁴⁶, etc. têm uma conflação. No exemplo acima, eles já demonstraram esta capacidade.)*
+24. **João 17.23**
 
-33. Cl 2.2
-   - του Θεου και Πατρος και του Χριστου — Biz Dᶜ K *pm* Lect
-   - του Θεου και Πατρος του Χριστου — ℵᵇ Ψ *pc* syʰ
-   - του Θεου Πατρος και του Χριστου — 0208 1908 syᵖ
-   - του Θεου Πατρος του Χριστου — A C itᵖᵗ saᵖᵗ bo
-   - του Θεου Πατρος Χριστου — ℵ 048
-   - του Θεου Χριστου — P⁴⁶ B (só eles)
-   - του Θεου — Dᵇ H P 436 1881 saᵖᵗ
-   *(pelo menos sete variações adicionais)*
-   *(Os editores do texto da UBS fazem a leitura de B sua primeira escolha, e aquela do texto “Bizantino” sua última! Eles devem considerar a leitura “Bizantina” como sendo uma excelente ilustração de conflação, mas como foi que ela ocorreu? Será que “editores sírios” tomaram emprestado os dois και s de Ψ e de 0208 respectivamente, ou eles deixaram de lado partes da leitura mais longa? Foi Πατρος tomado emprestado de Aleph, A, C ou estes deixaram de lado mais outras partes do original? Presumivelmente os editores da UBS sentiram que H omitiu parte de B, mas B também poderia facilmente exibir o resultado de omissão, um caso não muito difícil de homoioteleuton [quatro palavras terminam em -ου]. Eu submeto [ao leitor minha convicção] que a leitura que melhor explica o surgimento de todas as outras é precisamente aquela do texto “Bizantino”.)*
+    - και γινωσκη — P⁶⁶ ℵ W 1 *pc* lat
+    - ινα γινωσκη — B C D L 33 *pc* a e syˢ
+    - και ινα γινωσκη — Biz A Θ Ψ 054 13 *pm* f q syᵖ,ʰ
 
-34. Cl 3.17
-   - Κυριου Ιησου — Biz P⁴⁶ B (Ψ) *pl*
-   - Ιησου Χριστου — A C D F G
-   - Κυριου Ιησου Χριστου — ℵ D² 365 1175 *pc*
-   *(Aleph confla, presumivelmente. Notar a atestação bem antiga para a leitura “Bizantina”.)*
+    *(Esta poderia ser uma conflação “Bizantina”, mas as duas primeiras leituras poderiam, com a mesma facilidade, ser apenas simplificações independentes da leitura mais longa.)*
 
-35. 1Ts 5.27
-   - τοις αγιοις — 103 1984 1985
-   -  τοις αδελφοις — ℵ B D E F G *pc* d e f g sa
-   -  τοις αγιοις αδελφοις — Biz (P⁴⁶) ℵᶜ A K L P Ψ 33 *pl* it syr bo
-   *(A leitura “Bizantina” dificilmente pode ser uma conflação baseada em 103, portanto 103 deve ter uma simplificação da leitura “Bizantina”. Sugiro a mesma explicação para a leitura “Alexandrina-Ocidental”. Ambas as formas curtas podem facilmente ser o resultado de homoioteleuton [3 x οις].)*
+25. **João 18.40**
 
-36. Hb 7.22
-   - και — 920
-   - κρειττονος — Biz P⁴⁶ ℵᶜ A Cᶜ D E K L P Ψ *pl* lat syr cop
-   - και κρειττονος — ℵ B C 33 *pc*
-   *(É claro que B não pode ter uma conflação baseada em 920, a não ser que este seja o único sobrevivente de uma tradição muito antiga, mas também não podemos dizer que P⁴⁶ está simplificando B. Notar que aqui é o texto “Alexandrino” que tem a leitura “mais completa e suave”.)*
+    - παλιν — P⁶⁰ ℵ B L W X 0109 *pc*
+    - παντες — G K N Ψ 1 13 33 *al* it syᵖ,ᵖᵃˡ cop
+    - παλιν παντες — Biz (P⁶⁶) A Γ Δ Θ 054 0250 *pm* vg syʰ
+    - παντες παλιν — D
 
-37. Ap 6.1/2
-   - και ιδε και ιδου — Mᵃ,ᵇ,ᵉᵖᵗ
-   - και ειδον και ιδου — Mᶜ,ᵈ,ᵉᵖᵗ (A C)
-   - και ιδε και ειδον και ιδου — ℵ (sozinho)
-   *(Aqui Aleph confla as leituras de dois grupos de MSS minúsculos. Segue-se que embora estes MSS sejam de data muito mais recente que Aleph, eles refletem uma forma mais antiga do texto. Em 6:3/4 Aleph repete esta leitura em um claro caso de assimilação. A relação de evidências nos exemplos 37, 38, 39 e 49 foi tirada de The Greek New Testament According to the Majority Text [Thomas Nelson, 1982].)*
+    *(Esta poderia ser uma conflação “Bizantina”, mas poderia com a mesma facilidade ser o caso que as duas leituras mais curtas são simplificações independentes da leitura mais longa; talvez um caso de homoioarcton. Quanto à leitura “Ocidental”, é ela uma conflação ou simplesmente uma inversão na ordem das palavras?)*
 
-38. Ap 6.5
-   - και ιδε και ιδου — Mᵃ,ᵇ
-   - και ειδον και ιδου — Mᶜ,ᵈ,ᵉᵖᵗ C (A)
-   - και ιδε και ειδον και ιδου — ℵ (sozinho)
-   *(Aleph repete a conflação.)*
+26. **Atos 7.16**
 
-39. Ap 6.7/8
-   - και ιδε και ιδου — Mᵃ,ᵇ,ᵉᵖᵗ
-   - και ειδον και ιδου — Mᶜ,ᵈ,ᵉᵖᵗ
-   - και ιδον και ιδου — A (C)
-   - και ιδε και ιδον και ιδου — ℵ (sozinho)
-   *(Aleph novamente repete a conflação.)*
+    - του Συχεμ — Biz P⁷⁴ D Ψ 049 056 0142 *pm* lat
+    - εν Συχεμ — ℵ B C *al* cop
+    - του εν Συχεμ — ℵᶜ A E
+
+    *(A terceira leitura é, presumivelmente, uma conflação das leituras “Bizantina” e “Alexandrina”.)*
+
+27. **Atos 10.48**
+
+    - του κυριου — Biz H L P 049 056 *pm*
+    - Ιησου Χριστου — P⁷⁴ ℵ A B E 33 *al* cop
+    - του κυριου Ιησου — Lec *al*
+    - του κυριου Ιησου Χριστου — D 81 d p
+
+    *(A quarta leitura pareceria ser uma conflação “Ocidental” das leituras “Bizantina” e “Alexandrina”.)*
+
+28. **Atos 14.15**
+
+    - τον θεον ζωντα — D *pc*
+    - θεον τον ζωντα — ℵ
+    - τον θεον τον ζωντα — Biz P⁴⁵ H L P *pm*
+    - θεον ζωντα — P⁷⁴ B C E 33 *al*
+
+    *(Um século atrás, isto poderia ter sido interpretado como uma conflação “Síria”, mas agora, dificilmente podemos dizer que P⁴⁵ conflou Aleph e D. Por que não dizer que aquilo que Hort chamou de leitura “Síria tardia” não apenas é a mais antiga como também a melhor? Eu diria que a leitura “Alexandrina” é decididamente inferior em termos da estrutura de discurso do texto, o tipo de coisa que engodaria escribas sem domínio do grego koinê como língua materna[^500].)*
+
+29. **Atos 24.14**
+
+    - τοις προφηταις — Biz ℵᶜ A *pm* syr bo
+    - εν τοις προφηταις — B C D *al*
+    - τοις εν τοις προφηταις — ℵ E
+
+    *(Esta parece ser uma conflação clara da parte de Aleph.)*
+
+30. **Atos 25.5**
+
+    - τουτω — Biz *pm*
+    - ατοπον — ℵ A B C E 33 *al* lat
+    - τουτω ατοπον — Ψ 69 614 *al* syr bo
+
+    *(A terceira leitura pareceria ser uma conflação das leituras “Bizantina” e “Alexandrina”.)*
+
+31. **1Co 7.34**
+
+    - η αγαμος και η παρθενος — P¹⁵ B P *al* cop
+    - και η παρθενος η αγαμος — Biz D F G K L Ψ *pm* it syr
+    - η αγαμος και η παρθενος η αγαμος — P⁴⁶ ℵ A 33 *pc*
+
+    *(Embora inquestionavelmente antiga, esta realmente parece ser uma conflação da parte de P⁴⁶, etc.)*
+
+32. **Fp 1.18**
+
+    - πλην — Biz D E K L *pm*
+    - οτι — B syᵖ
+    - πλην οτι — P⁴⁶ ℵ A F G P 048 33 *pc* sa
+
+    *(Editores modernos tendem a encarar a leitura longa como original, mas agora que sabemos que o texto “Bizantino” retroage até pelo menos o segundo século, devemos reconsiderar a possibilidade de que P⁴⁶, etc. têm uma conflação. No exemplo acima, eles já demonstraram esta capacidade.)*
+
+33. **Cl 2.2**
+
+    - του Θεου και Πατρος και του Χριστου — Biz Dᶜ K *pm* Lect
+    - του Θεου και Πατρος του Χριστου — ℵᵇ Ψ *pc* syʰ
+    - του Θεου Πατρος και του Χριστου — 0208 1908 syᵖ
+    - του Θεου Πατρος του Χριστου — A C itᵖᵗ saᵖᵗ bo
+    - του Θεου Πατρος Χριστου — ℵ 048
+    - του Θεου Χριστου — P⁴⁶ B (só eles)
+    - του Θεου — Dᵇ H P 436 1881 saᵖᵗ
+
+    *(pelo menos sete variações adicionais)*
+    *(Os editores do texto da UBS fazem a leitura de B sua primeira escolha, e aquela do texto “Bizantino” sua última! Eles devem considerar a leitura “Bizantina” como sendo uma excelente ilustração de conflação, mas como foi que ela ocorreu? Será que “editores sírios” tomaram emprestado os dois και s de Ψ e de 0208 respectivamente, ou eles deixaram de lado partes da leitura mais longa? Foi Πατρος tomado emprestado de Aleph, A, C ou estes deixaram de lado mais outras partes do original? Presumivelmente os editores da UBS sentiram que H omitiu parte de B, mas B também poderia facilmente exibir o resultado de omissão, um caso não muito difícil de homoioteleuton [quatro palavras terminam em -ου]. Eu submeto [ao leitor minha convicção] que a leitura que melhor explica o surgimento de todas as outras é precisamente aquela do texto “Bizantino”.)*
+
+34. **Cl 3.17**
+
+    - Κυριου Ιησου — Biz P⁴⁶ B (Ψ) *pl*
+    - Ιησου Χριστου — A C D F G
+    - Κυριου Ιησου Χριστου — ℵ D² 365 1175 *pc*
+
+    *(Aleph confla, presumivelmente. Notar a atestação bem antiga para a leitura “Bizantina”.)*
+
+35. **1Ts 5.27**
+
+    - τοις αγιοις — 103 1984 1985
+    - τοις αδελφοις — ℵ B D E F G *pc* d e f g sa
+    - τοις αγιοις αδελφοις — Biz (P⁴⁶) ℵᶜ A K L P Ψ 33 *pl* it syr bo
+
+    *(A leitura “Bizantina” dificilmente pode ser uma conflação baseada em 103, portanto 103 deve ter uma simplificação da leitura “Bizantina”. Sugiro a mesma explicação para a leitura “Alexandrina-Ocidental”. Ambas as formas curtas podem facilmente ser o resultado de homoioteleuton [3 x -οις].)*
+
+36. **Hb 7.22**
+
+    - και — 920
+    - κρειττονος — Biz P⁴⁶ ℵᶜ A Cᶜ D E K L P Ψ *pl* lat syr cop
+    - και κρειττονος — ℵ B C 33 *pc*
+
+    *(É claro que B não pode ter uma conflação baseada em 920, a não ser que este seja o único sobrevivente de uma tradição muito antiga, mas também não podemos dizer que P⁴⁶ está simplificando B. Notar que aqui é o texto “Alexandrino” que tem a leitura “mais completa e suave”.)*
+
+37. **Ap 6.1/2**
+
+    - και ιδε και ιδου — Mᵃ,ᵇ,ᵉᵖᵗ
+    - και ειδον και ιδου — Mᶜ,ᵈ,ᵉᵖᵗ (A C)
+    - και ιδε και ειδον και ιδου — ℵ (sozinho)
+
+    *(Aqui Aleph confla as leituras de dois grupos de MSS minúsculos. Segue-se que embora estes MSS sejam de data muito mais recente que Aleph, eles refletem uma forma mais antiga do texto. Em 6.3/4 Aleph repete esta leitura em um claro caso de assimilação. A relação de evidências nos exemplos 37, 38, 39 e 49 foi tirada de The Greek New Testament According to the Majority Text [Thomas Nelson, 1982].)*
+
+38. **Ap 6.5**
+
+    - και ιδε και ιδου — Mᵃ,ᵇ
+    - και ειδον και ιδου — Mᶜ,ᵈ,ᵉᵖᵗ C (A)
+    - και ιδε και ειδον και ιδου — ℵ (sozinho)
+
+    *(Aleph repete a conflação.)*
+
+39. **Ap 6.7/8**
+
+    - και ιδε και ιδου — Mᵃ,ᵇ,ᵉᵖᵗ
+    - και ειδον και ιδου — Mᶜ,ᵈ,ᵉᵖᵗ
+    - και ιδον και ιδου — A (C)
+    - και ιδε και ιδον και ιδου — ℵ (sozinho)
+
+    *(Aleph novamente repete a conflação.)*
 
 #### *b) Adição + conjunções simples, ou omissão*
 
-40. Mt 4.3
-   - αυτω ο πειραζων ειπεν — Biz C L P Θ 0233 *pm* k syʰ
-   - ο πειραζων ειπεν αυτω — ℵ B W 1 13 33 *al* vg syᵖ bo
-   - αυτω ο πειραζων και ειπεν αυτω — D it syᶜ,ˢ,ᵖᵃˡ
-   *(Aqui presumivelmente temos uma conflação “Ocidental” das leituras “Bizantina” e “Alexandrina”.)*
+40. **Mt 4.3**
 
-41. Mt 9.18
-   - εις ελθων/εισελθων — Biz ℵ² C D E K M N S V W X Θ 1 33 *pm* d f
-   - προσελθων — ℵ 69 157 *pc* q syᵖ
-   - εις προσελθων — ℵ¹ B lat *pc*
-   - τις προσελθων — L 13 *al* k
-   - τις ελθων — Γ *al*
-   *(O códice B parece ter uma conflação, uma opinião com a qual os editores dos textos da UBS evidentemente concordam.)*
+    - αυτω ο πειραζων ειπεν — Biz C L P Θ 0233 *pm* k syʰ
+    - ο πειραζων ειπεν αυτω — ℵ B W 1 13 33 *al* vg syᵖ bo
+    - αυτω ο πειραζων και ειπεν αυτω — D it syᶜ,ˢ,ᵖᵃˡ
 
-42. Mt 27.41
-   - και πρεσβυτερων — A B L Θ 1 13ᵖᵗ 33 *al* itᵖᵗ vg sa
-   - και Φαρισαιων — D W *pc* itᵖᵗ syˢ
-   - και πρεσβυτερων και Φαρισαιων — Biz ∆ Φ 13ᵖᵗ *pm* syᵖ,ʰ bo Diatessaron
-   *(Aqui, finalmente, parece que temos uma clara conflação “Bizantina”, embora datando do segundo século. A cláusula completa, no texto “Bizantino”, é esta: οι αρχιερεις εµπαιξοντες µετα των γραµµατεων και πρεσβυτερων και Φαρισαιων ελεγον. Ela realmente parece ser um pouquinho cheia demais; tanto que editores treinados em Alexandria bem que podem ter sido tentados a melhorar o estilo por encurtá-la. Não pode a leitura “Ocidental” ser o resultado de parablepsis? De fato, ambas as formas curtas podem facilmente ser o resultado de homoioteleuton [−ων και, −ων και, −ων].)*
+    *(Aqui presumivelmente temos uma conflação “Ocidental” das leituras “Bizantina” e “Alexandrina”.)*
 
-43. Lucas 24.53
-   - αινουντες — D itᵖᵗ
-   - ευλογουντες — P⁷⁵ ℵ B C L cop syˢ,ᵖᵃˡ
-   - αινουντες και ευλογουντες — Biz A C² K W X ∆ Θ Π Ψ 063 1 13 *pl* itᵖᵗ vg syᵖ,ʰ Diat.
-   *(Esta é uma das oito “conflações Sírias” de Hort. De acordo com o próprio julgamento de Hort, nos últimos 3 capítulos de Lucas o códice D omitiu 329 palavras do texto genuíno, além de ter adicionado 173, substituído 146, e transposto 243. Uma vez que o produtor de D estava numa orgia de omissões nestes capítulos, não é irrazoável sugerir que D simplesmente omitiu “e bendizendo” do texto original, um caso fácil de homoioteleuton. Também não é difícil imaginar que editores, treinados em Alexandria, poderiam reduzir a leitura mais longa para as proporções exibidas pelo texto “Alexandrino”. Notar, uma vez mais, que a leitura Bizantina tem atestação do segundo século.)*
+41. **Mt 9.18**
 
-44. Atos 20.28
-   - του κυριου — P⁷⁴ A C D E Ψ 33 *al* cop
-   - του θεου — ℵ B 056 0142 *al* syr
-   - του κυριου και θεου — Biz L P 049 *pm*
-   *(Aqui temos um excelente candidato para uma conflação “Bizantina”, mas somente caso a interpretação oposta possa ser rejeitada. A leitura de A pode facilmente ser um caso de homoioteleuton e aquela de B o resultado de parablepsis ou de revisão estilística — observar que três palavras terminam em -ου.)*
+    - εις ελθων/εισελθων — Biz ℵ² C D E K M N S V W X Θ 1 33 *pm* d f
+    - προσελθων — ℵ 69 157 *pc* q syᵖ
+    - εις προσελθων — ℵ¹ B lat *pc*
+    - τις προσελθων — L 13 *al* k
+    - τις ελθων — Γ *al*
 
-45. Atos 25.6
-   - πλειους η δεκα — Biz Ψ *pm*
-   - οκτω η δεκα — 2147 *pc* syr
-   - πλειους οκτω η δεκα — E *al*
-   - ου πλειους οκτω η δεκα — (P⁷⁴ ℵ) A B C 33 *pc* lat bo
-   *(Seria esta uma conflação “Alexandrina”?)*
+    *(O códice B parece ter uma conflação, uma opinião com a qual os editores dos textos da UBS evidentemente concordam.)*
 
-46. 2Co 11.3
-   - της απλοτητος — Biz ℵᶜ H K P Ψ 0121 0243 *pm* vg syr
-   - της αγνοτητος — cinco pais primitivos
-   - της απλοτητος και της αγνοτητος — P⁴⁶ ℵ B G 33 *pc* it cop
-   - της αγνοτητος και της απλοτητος — D
-   *(Parece que os textos “Alexandrino” e “Ocidental” têm conflações separadas. Pelo modo que os editores de ambas as edições Nestle e UBS puseram seus colchetes, podemos concluir que reconheciam esta possibilidade.)*
+42. **Mt 27.41**
 
-47. Ef 2.5
-   - τοις παραπτωµασιν — Biz ℵ A D² *pl* cop
-   - ταις αµαρτιας — D (G) lat
-   - τοις παραπτωµασιν και ταις αµαρτιας — Ψ
-   - εν τοις παραπτωµασιν και ταις επιθυµιαις — B
-   *(Aqui temos conflações separadas feitas em Ψ e em B. Uma vez que Hort não seguiu B neste ponto, ele deve ter tendido à mesma opinião. Evidentemente os editores das edições Nestle e UBS também concordam com esta opinião.)*
+    - και πρεσβυτερων — A B L Θ 1 13ᵖᵗ 33 *al* itᵖᵗ vg sa
+    - και Φαρισαιων — D W *pc* itᵖᵗ syˢ
+    - και πρεσβυτερων και Φαρισαιων — Biz Δ Φ 13ᵖᵗ *pm* syᵖ,ʰ bo Diatessaron
 
-48. Cl 1.12
-   - τω καλεσαντι — D G 33 *pc* it sa
-   - τω ικανωσαντι — Biz P⁴⁶,(⁶¹) ℵ A C Dᶜ E K L P Ψ *pl* syr bo
-   - τω καλεσαντι και ικανωσαντι — B
-   *(Esta óbvia conflação por parte do código B foi reconhecida por Hort [pág. 240], um julgamento com o qual os editores das edições Nestle e UBS estão em completa concordância.)*
+    *(Aqui, finalmente, parece que temos uma clara conflação “Bizantina”, embora datando do segundo século. A cláusula completa, no texto “Bizantino”, é esta: οι αρχιερεις εμπαιξοντες μετα των γραμματεων και πρεσβυτερων και Φαρισαιων ελεγον. Ela realmente parece ser um pouquinho cheia demais; tanto que editores treinados em Alexandria bem que podem ter sido tentados a melhorar o estilo por encurtá-la. Não pode a leitura “Ocidental” ser o resultado de parablepsis? De fato, ambas as formas curtas podem facilmente ser o resultado de homoioteleuton [−ων και, −ων και, −ων].)*
 
-49. Ap 17.4
-   - της πορνειας αυτης — Mᵇ,ᶜ,ᵈ,ᵉ A
-   - της πορνειας της γης — Mᵃ
-   - της πορνειας αυτης και της γης — ℵ (sozinho)
-   *(Esta pareceria ser uma clara conflação da parte de Aleph.)*
+43. **Lucas 24.53**
+
+    - αινουντες — D itᵖᵗ
+    - ευλογουντες — P⁷⁵ ℵ B C L cop syˢ,ᵖᵃˡ
+    - αινουντες και ευλογουντες — Biz A C² K W X Δ Θ Π Ψ 063 1 13 *pl* itᵖᵗ vg syᵖ,ʰ Diat.
+
+    *(Esta é uma das oito “conflações Sírias” de Hort. De acordo com o próprio julgamento de Hort, nos últimos 3 capítulos de Lucas o códice D omitiu 329 palavras do texto genuíno, além de ter adicionado 173, substituído 146, e transposto 243. Uma vez que o produtor de D estava numa orgia de omissões nestes capítulos, não é irrazoável sugerir que D simplesmente omitiu “e bendizendo” do texto original, um caso fácil de homoioteleuton. Também não é difícil imaginar que editores, treinados em Alexandria, poderiam reduzir a leitura mais longa para as proporções exibidas pelo texto “Alexandrino”. Notar, uma vez mais, que a leitura Bizantina tem atestação do segundo século.)*
+
+44. **Atos 20.28**
+
+    - του κυριου — P⁷⁴ A C D E Ψ 33 *al* cop
+    - του θεου — ℵ B 056 0142 *al* syr
+    - του κυριου και θεου — Biz L P 049 *pm*
+
+    *(Aqui temos um excelente candidato para uma conflação “Bizantina”, mas somente caso a interpretação oposta possa ser rejeitada. A leitura de A pode facilmente ser um caso de homoioteleuton e aquela de B o resultado de parablepsis ou de revisão estilística — observar que três palavras terminam em -ου.)*
+
+45. **Atos 25.6**
+
+    - πλειους η δεκα — Biz Ψ *pm*
+    - οκτω η δεκα — 2147 *pc* syr
+    - πλειους οκτω η δεκα — E *al*
+    - ου πλειους οκτω η δεκα — (P⁷⁴ ℵ) A B C 33 *pc* lat bo
+
+    *(Seria esta uma conflação “Alexandrina”?)*
+
+46. **2Co 11.3**
+
+    - της απλοτητος — Biz ℵᶜ H K P Ψ 0121 0243 *pm* vg syr
+    - της αγνοτητος — cinco pais primitivos
+    - της απλοτητος και της αγνοτητος — P⁴⁶ ℵ B G 33 *pc* it cop
+    - της αγνοτητος και της απλοτητος — D
+
+    *(Parece que os textos “Alexandrino” e “Ocidental” têm conflações separadas. Pelo modo que os editores de ambas as edições Nestle e UBS puseram seus colchetes, podemos concluir que reconheciam esta possibilidade.)*
+
+47. **Ef 2.5**
+
+    - τοις παραπτωμασιν — Biz ℵ A D² *pl* cop
+    - ταις αμαρτιας — D (G) lat
+    - τοις παραπτωμασιν και ταις αμαρτιας — Ψ
+    - εν τοις παραπτωμασιν και ταις επιθυμιαις — B
+
+    *(Aqui temos conflações separadas feitas em Ψ e em B. Uma vez que Hort não seguiu B neste ponto, ele deve ter tendido à mesma opinião. Evidentemente os editores das edições Nestle e UBS também concordam com esta opinião.)*
+
+48. **Cl 1.12**
+
+    - τω καλεσαντι — D G 33 *pc* it sa
+    - τω ικανωσαντι — Biz P⁴⁶,(⁶¹) ℵ A C Dᶜ E K L P Ψ *pl* syr bo
+    - τω καλεσαντι και ικανωσαντι — B
+
+    *(Esta óbvia conflação por parte do código B foi reconhecida por Hort [pág. 240], um julgamento com o qual os editores das edições Nestle e UBS estão em completa concordância.)*
+
+49. **Ap 17.4**
+
+    - της πορνειας αυτης — Mᵇ,ᶜ,ᵈ,ᵉ A
+    - της πορνειας της γης — Mᵃ
+    - της πορνειας αυτης και της γης — ℵ (sozinho)
+
+    *(Esta pareceria ser uma clara conflação da parte de Aleph.)*
 
 #### *Avaliação*
 
@@ -2784,395 +2922,509 @@ Seis das ocorrências “Bizantinas” (18, 19, 20, 25?, 28, 35?) agora têm ate
 
 #### *a) Complicada por substituição, transposição ou mudanças internas moderadas, ou omissão*
 
-50. Mt 7.10
-   - η και ιχθυν αιτησει — ℵ B C (1) 33 *pc*
-   - και εαν ιχθυν αιτηση — Biz (L W) Θ *al* syᵖ,ʰ
-   - η εαν ιχθυν αιτηση — lat syᶜ
-   - η και εαν ιχθυν αιτηση — Kᶜ 13 *al*
-   *(Isto poderia ser tanto uma conflação “Ocidental” como uma “Alexandrina”, mas presumivelmente não uma “Bizantina”.)*
+50. **Mt 7.10**
 
-51. Mt 7.18
-   - ποιειν . . . ενεγκειν — ℵ (único MS)
-   - ενεγκειν . . . ποιειν — B (único MS)
-   - ποιειν . . . . . ποιειν — Biz ℵᶜ C K L W X Z ∆ Θ Π 0250 1 13 33 *pl* lat syr cop
-   *(Os editores das edições UBS evidentemente concordam que a leitura “Bizantina” aqui é genuína.)*
+    - η και ιχθυν αιτησει — ℵ B C (1) 33 *pc*
+    - και εαν ιχθυν αιτηση — Biz (L W) Θ *al* syᵖ,ʰ
+    - η εαν ιχθυν αιτηση — lat syᶜ
+    - η και εαν ιχθυν αιτηση — Kᶜ 13 *al*
 
-52. Mt 8.1
-   - καταβαντι δε αυτω — Biz K L (∆) *pm* (lat syᵖ,ʰ)
-   - και καταβαντος αυτου — Z syᶜ,ᵖᵃˡ
-   - καταβαντος δε αυτου — B C W Θ 33 (lat syᵖ,ʰ) cop
-   - καταβαντι δε αυτου — ℵ
-   *(Se alguém conflou, pareceria ser os “Alexandrinos.” Aleph certamente tem uma conflação.)*
+    *(Isto poderia ser tanto uma conflação “Ocidental” como uma “Alexandrina”, mas presumivelmente não uma “Bizantina”.)*
 
-53. Mt 9.2
-   - σου αι αµαρτιαι — ℵ B C W ∆ 1 33 *pc*
-   - σοι αι αµαρτιαι — D ∆ᶜ *pc* k
-   - σοι αι αµαρτιαι σου — Biz L Θ 0233ᵛ 13 *pm* lat syr
-   - σου αι αµαρτιαι σου — M
-   *(O códice M evidentemente conflou, mas deveríamos dizer o mesmo do texto “Bizantino”? Não seriam as leituras “Alexandrina” e “Ocidental” simplificações independentes?)*
+51. **Mt 7.18**
 
-54. Mt 10.3
-   - Θαδδαιος — ℵ
-   - και Θαδδαιος — B *pc* vg cop
-   - και Λεββαιος — D 122 d k
-   - και Λεββαιος ο επικληθεις Θαδδαιος — Biz C² K L W X ∆ Θ Π 1 *pl* syr
-   *(A leitura “Bizantina” realmente não apresenta as características de uma conflação. A leitura de Aleph é obviamente errada. A leitura “Ocidental” pode facilmente ter resultado de homoioteleuton. Não é difícil imaginar que editores treinados em Alexandria possam preferir uma leitura mais curta.)*
+    - ποιειν … ενεγκειν — ℵ (único MS)
+    - ενεγκειν … ποιειν — B (único MS)
+    - ποιειν … ποιειν — Biz ℵᶜ C K L W X Z Δ Θ Π 0250 1 13 33 *pl* lat syr cop
 
-55. Mt 10.13
-   - ει δε µηγη — D syˢ
-   - εαν δε µη η αξια — Biz ℵ B *pl* lat syᵖ,ʰ
-   - ει δε µη αξια — L
-   *(Isto parece ser uma conflação da parte do códice L.)*
+    *(Os editores das edições UBS evidentemente concordam que a leitura “Bizantina” aqui é genuína.)*
 
-56. Mt 12.4
-   - εφαγεν ους — Biz (P⁷⁰) C K L ∆ Θ Π 0233 1 33 *pl* vg syʰ cop
-   - εφαγον ο — B 481
-   - εφαγεν ο — D W 13 it syᵖ,(ᶜ)
-   - εφαγον ους — ℵ
-   *(Aleph e o texto “Ocidental” parecem ter conflações independentes da leitura “Bizantina” e daquela de B. P⁷⁰ tem εφαγεν mas nenhum pronome [o papiro está quebrado] — portanto a forma “Bizantina” do verbo tem a atestação mais antiga.)*
+52. **Mt 8.1**
 
-57. Mt 12.46
-   - ετι αυτου λαλουντος — ℵ B 33 *pc* lat
-   - λαλουντος δε αυτου — D L Z 892 syᵖ
-   - ετι δε αυτου λαλουντος — Biz C W Θ 1 13 *pm* syʰ
-   *(É esta uma conflação “Bizantina”, ou são as outras duas leituras simplificações independentes?)*
+    - καταβαντι δε αυτω — Biz K L (Δ) *pm* (lat syᵖ,ʰ)
+    - και καταβαντος αυτου — Z syᶜ,ᵖᵃˡ
+    - καταβαντος δε αυτου — B C W Θ 33 (lat syᵖ,ʰ) cop
+    - καταβαντι δε αυτου — ℵ
 
-58. Mt 13.28
-   - οι δε αυτω λεγουσιν — B 157 *pc* cop
-   - οι δε δουλοι ειπον αυτω — Biz L W Θ 1 13 *pm* vg syʰ
-   - οι δε δουλοι αυτω λεγουσιν — C
-   - λεγουσιν ουτω οι δουλοι — D it (syᶜ,ˢ,ᵖ)
-   - οι δε δουλοι λεγουσιν αυτω — ℵ
-   *(Conflação ou confusão? Ambos C e Aleph parecem ter conflações, ambas baseadas na leitura “Bizantina”, combinada com B e D, respectivamente. Surpreendentemente, o texto da UBS segue Aleph, sem comentários, enquanto Nestle²⁴ segue C. A leitura de B pareceria ser um erro claro.)*
+    *(Se alguém conflou, pareceria ser os “Alexandrinos.” Aleph certamente tem uma conflação.)*
 
-59. Mt 14.6
-   - γενεσιων δε αγοµενων — Biz W 0119 0136 13 *pm* ff¹ syʰ ᵐᵍ
-   - γενεσιοις δε γενοµενοις — ℵ B D L Z *pc* (syr)
-   - γενεσιοις δε αγοµενοις — 1 *pc*
-   - γενεσιων δε γενοµενων — C K N Θ *al* (syr)
-   *(O códice C e f¹ parecem ter conflações independentes, combinando as leituras “Bizantina” e “Alexandrina”.)*
+53. **Mt 9.2**
 
-60. Mt 14.34
-   - επι την γην Γεννησαρετ — C N 13 *al* syᵖᵃˡ
-   - εις την γην Γεννησαρετ — Biz L 1 *pm* lat syᵖ,(ᶜ,ˢ)
-   - επι την γην εις Γεννησαρετ — ℵ B W ∆ 0119 33 *pc* syʰ
-   - επι την γην εις Γεννησαρ — D 700
-   *(Não poderia esta ser uma conflação “Alexandrina/Ocidental”?)*
+    - σου αι αμαρτιαι — ℵ B C W Δ 1 33 *pc*
+    - σοι αι αμαρτιαι — D Δᶜ *pc* k
+    - σοι αι αμαρτιαι σου — Biz L Θ 0233ᵛ 13 *pm* lat syr
+    - σου αι αμαρτιαι σου — M
 
-61. Mt 15.14
-   - οδηγοι εισιν τυφλοι τυφλων — Biz C W X ∆ Π 0106 *pm* q
-   - οδηγοι εισιν τυφλοι — ℵ cop syᶜ
-   - οδηγοι εισιν τυφλων — K *pc* syˢ
-   - τυφλοι εισιν οδηγοι — B D 0237
-   - τυφλοι εισιν οδηγοι τυφλων — ℵᶜ L Z Θ 1 13 33 *al* lat syᵖ,ʰ
-   *(A leitura “Alexandrina” parece ser uma conflação das “Bizantina” e “Ocidental.” Os códices Aleph e K parecem ter reduções independentes da leitura “Bizantina”, devido a homoioarcton.)*
+    *(O códice M evidentemente conflou, mas deveríamos dizer o mesmo do texto “Bizantino”? Não seriam as leituras “Alexandrina” e “Ocidental” simplificações independentes?)*
 
-62. Mt 17.7
-   - προσελθων . . . ηψατο αυτων και ειπεν — Biz C L W 1 *pm* syʰ
-   - προσηλθεν . . . και αψαµενος αυτων ειπεν — ℵ B *pc*
-   - προσελθων . . . και αψαµενος αυτων ειπεν — Θ 13 *pc*
-   - προσηλθεν . . . και ηψατο αυτων και ειπεν — D lat syᵖ,ᵖᵃˡ,(ᶜ)
-   *(As leituras “Ocidental” e “Cesareana” parecem ser conflações independentes das leituras “Bizantina” e “Alexandrina”.)*
+54. **Mt 10.3**
 
-63. Mt 19.9
-   - µη επι πορ. και γαµ. αλλην µοιχαται — Biz ℵ Cᶜ K L N (W) Z ∆ Θ Π 078 *pm* vg syˢ,ᵖ,ʰ
-   - παρ. λογου πορ. ποιει αυ. µοιχευθηναι — (P²⁵) B 1 bo
-   - παρ. λογου πορ. και γαµ. αλλην µοιχαται — D 13 33 *pc* it syᶜ,ᵖᵃˡ sa
-   - µη επι πορ. και γαµ. αλλην ποιει αυ. µοι. — C 1216 *pc*
-   *(A leitura “Ocidental” e o códice C têm conflações independentes das leituras “Bizantina” e “Alexandrina”.)*
+    - Θαδδαιος — ℵ
+    - και Θαδδαιος — B *pc* vg cop
+    - και Λεββαιος — D 122 d k
+    - και Λεββαιος ο επικληθεις Θαδδαιος — Biz C² K L W X Δ Θ Π 1 *pl* syr
 
-64. Mt 20.10
-   - ελθοντες δε — Biz ℵ L W Z 1 *pm* syʰ bo
-   - και ελθοντες — B C D Θ 085 13 33 *pc* e syᶜ,ˢ,ᵖ
-   - ελθοντες δε και — N 473 *pc* lat arm
-   *(Uma variedade de testemunhas confla as leituras “Bizantina” e “Alexandrina”.)*
+    *(A leitura “Bizantina” realmente não apresenta as características de uma conflação. A leitura de Aleph é obviamente errada. A leitura “Ocidental” pode facilmente ter resultado de homoioteleuton. Não é difícil imaginar que editores treinados em Alexandria possam preferir uma leitura mais curta.)*
 
-65. Mt 22.13
-   - αρατε αυτον ποδων κ. χειρων και β. α — D itᵖᵗ syᶜ,ˢ
-   - δησαντες αυτου ποδας κ. χειρας εκβ. α. — ℵ B L Θ 085 1 (13) *pc* itᵖᵗ vg syᵖ cop
-   - δησαντες αυτου ποδας κ. χειρας αρατε α. και εκβ. — Biz C W 0138 *pm* (M Φ *al*) syʰ
-   *(É esta realmente uma conflação “Bizantina?” A leitura mais longa é perfeitamente razoável como se encontra; talvez um pouquinho “completa” demais para editores treinados em Alexandria, mas perfeita para um judeu falando aramaico. Não pode a leitura “Ocidental” ser uma revisão latina?)*
+55. **Mt 10.13**
 
-66. Marcos 4.5
-   - και οτι — D W it syˢ
-   - οπου — Biz ℵ A *pl* vg syᵖ,ʰ
-   - και οπου — B
-   *(Uma conflação evidente por parte de B.)*
+    - ει δε μηγη — D syˢ
+    - εαν δε μη η αξια — Biz ℵ B *pl* lat syᵖ,ʰ
+    - ει δε μη αξια — L
 
-67. Marcos 7.35
-   - διηνοιχθησαν — Biz P⁴⁵ A N X Γ Π 0131 13 *pm* lat syr
-   - ηνοιχθησαν — L
-   - ηνοιγησαν — ℵ B D ∆ 0274 1 892
-   - διηνοιγησαν — W Θ *pc*
-   *(Tem P⁴⁵ conflado L e W, ou têm estes chegado a conflações independentes, a partir das leituras “Bizantina” e “Alexandrina”? Notar que o que Hort chamou de leitura “Síria tardia” tem agora a atestação mais antiga.)*
+    *(Isto parece ser uma conflação da parte do códice L.)*
 
-68. Marcos 9.49
-   - πας γαρ πυρι αλισθησεται — B L (ℵ W) ∆ 0274 1 13 *pc* syˢ sa Diatᵃᵖᵗ
-   - πασα γαρ θυσια αλι αλισθησεται — D it
-   - πας γαρ πυρι αλισθησεται και πασα θυσια αλι αλισθησεται — Biz A E K N Π Σ (C X Θ Ψ) *pm* f l q vg syᵖ,ʰ Diatᵃᵖᵗ,ᵖ
-   *(Esta é outra das “conflações Sírias” de Hort. Mas a leitura “Alexandrina” pode facilmente ser o resultado de homoioteleuton, e um outro caso de parablepsis pode ter dado origem à leitura “Ocidental”. A presença do artigo referindo-se a “sal”, no início do verso 50, não sugere que “sal” já tem sido introduzido no contexto anterior? Em todo caso, a leitura “Bizantina” tem atestação antiga e não pode ser descartada como “Síria tardia”.)*
+56. **Mt 12.4**
 
-69. Marcos 12.17
-   - και αποκριθεις — W 258 *al*
-   - ο δε Ιησους — ℵ B C L ∆ Ψ 33 *pc* sy(ᵖ) cop
-   - και αποκριθεις ο Ιησους — Biz P⁴⁵ A N X Γ Π Φ 1 13 *pm* sy(ˢ),ʰ
-   - αποκριθεις δε ο Ιησους — D 700 *pc* lat
-   - αποκριθεις δε — Θ 565
-   *(Quem está conflando quem? Parece mais provável que a leitura de Theta tem simplificado a “Ocidental” do que esta ter estendido aquela. Mas a leitura “Ocidental” pode bem ser uma conflação das “Bizantina” e “Alexandrina”. Parece claro que P⁴⁵ não pode ter conflado W e B, mas não podem estes manuscritos ter simplificações independentes da leitura “Bizantina”? Notar que a leitura que Hort chamou de “Síria tardia” tem agora a atestação mais antiga.)*
+    - εφαγεν ους — Biz (P⁷⁰) C K L Δ Θ Π 0233 1 33 *pl* vg syʰ cop
+    - εφαγον ο — B 481
+    - εφαγεν ο — D W 13 it syᵖ,(ᶜ)
+    - εφαγον ους — ℵ
 
-70. Lc 9.57
-   - και πορευοµενων — P⁴⁵,⁷⁵ ℵ B C L Θ Ξ 33 *pc* syᶜ,ˢ,ᵖ bo
-   - εγενετο δε πορευοµενων — Biz A W Ψ 1 *pm* lat syʰ
-   - και εγενετο πορευοµενων — D 13 a c e r¹
-   *(Isto pareceria ser uma conflação “Ocidental”.)*
+    *(Aleph e o texto “Ocidental” parecem ter conflações independentes da leitura “Bizantina” e daquela de B. P⁷⁰ tem εφαγεν mas nenhum pronome [o papiro está quebrado] — portanto a forma “Bizantina” do verbo tem a atestação mais antiga.)*
 
-71. Lc 10.42
-   - ενος δε εστιν χρεια — Biz P⁴⁵,⁷⁵ A C K P W Γ ∆ Θ Λ Π Ψ 13 *pl* lat syᶜ,ᵖ,ʰ sa
-   - ολιγων δε χρεια εστιν η ενος — B
-   - ολιγων δε εστιν χρεια η ενος — P³ L C² 1 33 *pc* syʰ ᵐᵍ bo
-   - ολιγων δε εστιν η ενος — ℵ
-   *(Os MSS usualmente associados com o tipo-de-texto “Alexandrino” estão aqui muito divididos. O códice L [e seus acompanhantes] talvez tenha conflado as leituras “Bizantina” e aquela de B. Notar que a leitura “Síria tardia” de Hort tem agora a atestação mais antiga, com vingança!)*
+57. **Mt 12.46**
 
-72. Lc 11.12
-   - η και — P⁷⁵ ℵ B L 1 13 33 cop
-   - εαν δε και — D
-   - η και εαν — Biz P⁴⁵ R W X Γ ∆ Θ Π Ψ *pl* syʰ
-   *(Devemos dizer que editores “Sírios” conflaram as leituras “Alexandrina” e “Ocidental”, ou não é a leitura “Síria tardia” de Hort realmente a original?)*
+    - ετι αυτου λαλουντος — ℵ B 33 *pc* lat
+    - λαλουντος δε αυτου — D L Z 892 syᵖ
+    - ετι δε αυτου λαλουντος — Biz C W Θ 1 13 *pm* syʰ
 
-73. Lc 12.30
-   - ζητει — D it
-   - επιζητουσιν — P⁷⁵ ℵ B L X 070 13 33 *pc*
-   - επιζητει — Biz P⁴⁵ A Q W Γ ∆ Θ Λ Π Ψ 1 *pl*
-   *(Conflação ou confusão? Notar que a leitura que Hort reputou como “Síria tardia” tem agora atestação muito antiga.)*
+    *(É esta uma conflação “Bizantina”, ou são as outras duas leituras simplificações independentes?)*
 
-74. Lc 13.2
-   - οτι ταυτα — ℵ B D L *pc* d e r¹
-   - τα τοιαυτα — 69 *pc*
-   - οτι τοιαυτα — Biz P⁷⁵ A W X Γ ∆ Θ Λ Π Ψ 070 1 *pm* lat syr
-   *(Será que P⁷⁵ conflou B e 69? Notar que a leitura que Hort chamou de “Síria tardia” tem agora a atestação mais antiga.)*
+58. **Mt 13.28**
 
-75. João 5.15
-   - ανηγγειλεν — Biz P⁶⁶,⁷⁵ A B Γ Θ Λ Π Ψ 063 1 *pm* sa (lat syʰ)
-   - ειπεν — ℵ C L *pc* e q syᶜ,ˢ,ᵖ bo
-   - ανηγγειλεν και ειπεν αυτοις — W
-   - απηγγειλεν — D K U ∆ 13 33 *al* (lat syʰ)
-   *(O códice W parece ter uma conflação envolvendo as leituras “Bizantina” e “Alexandrina”. Notar que a leitura “Bizantina”, que Hort tentativamente rejeitou apesar de B, tem agora forte atestação antiga. O desvio “Ocidental” é baseado na leitura “Bizantina”, que podemos presumir ser a original.)*
+    - οι δε αυτω λεγουσιν — B 157 *pc* cop
+    - οι δε δουλοι ειπον αυτω — Biz L W Θ 1 13 *pm* vg syʰ
+    - οι δε δουλοι αυτω λεγουσιν — C
+    - λεγουσιν ουτω οι δουλοι — D it (syᶜ,ˢ,ᵖ)
+    - οι δε δουλοι λεγουσιν αυτω — ℵ
 
-76. João 6.69
-   - ο αγιος του Θεου — P⁷⁵ ℵ B C D L W
-   - ο Χριστος ο υιος του Θεου — Biz K Π Ψ 0250 13 (∆ Θ 1 33) *pl* lat syr Diatessaron
-   - ο Χριστος ο αγιος του Θεου — P⁶⁶ cop
-   *(Uma conflação instrutiva da parte de P⁶⁶.)*
+    *(Conflação ou confusão? Ambos C e Aleph parecem ter conflações, ambas baseadas na leitura “Bizantina”, combinada com B e D, respectivamente. Surpreendentemente, o texto da UBS segue Aleph, sem comentários, enquanto Nestle²⁴ segue C. A leitura de B pareceria ser um erro claro.)*
 
-77. João 7.41
-   - αλλοι ελεγον — Biz P⁶⁶* ℵ D W Γ ∆ Π Ψ 0105 13 *pm* syr
-   - οι δε ελεγον — P⁶⁶ᶜ,⁷⁵ B L N T X Θ 33 *al* lat
-   - αλλοι δε ελεγον — 1 *pc* e bo
-   *(É esta uma conflação “Cesareana?” Notar que o corretor de P⁶⁶ tomou uma leitura “Bizantina” e a mudou para uma “Alexandrina” — uma vez que ele fez este tipo de coisa repetidamente, pareceria que haviam exemplares de cada tipo no scriptorium, ainda mais porque ele frequentemente também fez o oposto, i.e. mudou uma leitura “Alexandrina” para uma “Bizantina”. Isto em 200 DC!)*
+59. **Mt 14.6**
 
-78. João 9.6
-   - επεθηκεν — B *pc*
-   - εχρισεν — 661
-   - επεχρισεν — Biz P⁶⁶,⁷⁵ ℵ A C D K L W ∆ Θ Π Ψ 0124 0216 1 13 *pl* lat syr cop
-   *(Presumivelmente, mesmo antes do advento de P⁶⁶,⁷⁵, ninguém desejaria sugerir que a leitura “Bizantina” seja uma conflação de B e 661! Mesmo assim, Hort seguiu B...)*
+    - γενεσιων δε αγομενων — Biz W 0119 0136 13 *pm* ff¹ syʰ ᵐᵍ
+    - γενεσιοις δε γενομενοις — ℵ B D L Z *pc* (syr)
+    - γενεσιοις δε αγομενοις — 1 *pc*
+    - γενεσιων δε γενομενων — C K N Θ *al* (syr)
 
-79. João 9.8
-   - τυφλος ην — Biz C³ Γ ∆ *pm*
-   - προσαιτης ην — P⁶⁶,⁷⁵ ℵ B C D *al* lat cop syˢ,ᵖ,ʰ
-   - τυφλος ην και προσαιτης — 69 *pc* e syᵖᵃˡ
-   *(Uma conflação evidente da parte de uns poucos MSS.)*
+    *(O códice C e f¹ parecem ter conflações independentes, combinando as leituras “Bizantina” e “Alexandrina”.)*
 
-80. João 11.44
-   - αυτοις ο Ιησους — Biz P⁴⁵,⁶⁶ ℵ A C² D X Γ ∆ Θ Λ Π Ψ 0250 1 13 *pl* it
-   - αυτοις — 157
-   - ο Ιησους — 700 syˢ
-   - ο Ιησους αυτοις — L W
-   - Ιησους αυτοις — P⁷⁵ B C cop
-   *(157 e 700 têm simplificações independentes da leitura “Bizantina”. Sugiro a mesma explicação para a leitura “Alexandrina” — os editores do texto da UBS evidentemente concordam, mas Hort não.)*
+60. **Mt 14.34**
 
-81. João 13.24
-   - πυθεσθαι τις αν ειη π. ου λεγει — Biz P⁶⁶ A (D) K W Γ ∆ Λ Π 1 13 *pl* syr cop
-   - και λεγει αυτω ειπε τις εστιν π. ου λεγει — B C I L X 068 33 *pc*
-   - πυθεσθαι τις αν ειη π. ου ελεγεν και λεγει αυτω ειπε τις εστιν π. ου λεγει — ℵ
-   *(Esta pareceria ser uma conflação aberrante demais da parte de Aleph, baseada nas leituras “Bizantina” e “Alexandrina”.)*
+    - επι την γην Γεννησαρετ — C N 13 *al* syᵖᵃˡ
+    - εις την γην Γεννησαρετ — Biz L 1 *pm* lat syᵖ,(ᶜ,ˢ)
+    - επι την γην εις Γεννησαρετ — ℵ B W Δ 0119 33 *pc* syʰ
+    - επι την γην εις Γεννησαρ — D 700
 
-82. João 13.36
-   - απεκριθη — B C L *pc* lat cop
-   - λεγει αυτω — D
-   - απεκριθη αυτω — Biz P⁶⁶ ℵ A C³ K W X Γ ∆ Θ Λ Π Ψ 1 13 *pl*
-   *(Um século atrás este caso poderia ter sido interpretado como uma conflação “Síria” das leituras “Alexandrina” e “Ocidental”, mas agora a presença de P⁶⁶ mais apropriadamente encoraja a conclusão oposta.)*
+    *(Não poderia esta ser uma conflação “Alexandrina/Ocidental”?)*
 
-83. Atos 11.7
-   - ηκουσα δε — Biz L P *pm*
-   - και ηκουσα — D *pc* syˢ
-   - ηκουσα δε και — ℵ A B E *al* cop
-   *(Não pode esta ser uma conflação “Alexandrina”?)*
+61. **Mt 15.14**
 
-84. Atos 23.9
-   - τινες — P⁷⁴ A E 33 *pc* bo
-   - οι γραµµατεις — Biz *pm*
-   - τινες των γραµµατεων — ℵ B C *al* sa
-   *(Não pode esta ser uma conflação “Alexandrina”?)*
+    - οδηγοι εισιν τυφλοι τυφλων — Biz C W X Δ Π 0106 *pm* q
+    - οδηγοι εισιν τυφλοι — ℵ cop syᶜ
+    - οδηγοι εισιν τυφλων — K *pc* syˢ
+    - τυφλοι εισιν οδηγοι — B D 0237
+    - τυφλοι εισιν οδηγοι τυφλων — ℵᶜ L Z Θ 1 13 33 *al* lat syᵖ,ʰ
 
-85. Rm 6.12
-   - αυτη — P⁴⁶ D E F G d f g m
-   - ταις επιθυµιαις αυτου — ℵ A B C *al* lat cop
-   - αυτη εν ταις επιθυµιαις αυτου — Biz K L P Ψ *pm*
-   *(Aqui está outro excelente candidato para uma conflação “Bizantina”, a não ser que as outras duas leituras sejam simplificações independentes. Se a leitura “Ocidental” fosse original, como poderia a “Alexandrina” ter surgido, e vice-versa? Mas se a leitura “Bizantina” é a original, as outras duas são facilmente explicadas.)*
+    *(A leitura “Alexandrina” parece ser uma conflação das “Bizantina” e “Ocidental.” Os códices Aleph e K parecem ter reduções independentes da leitura “Bizantina”, devido a homoioarcton.)*
 
-86. 1Co 9.21
-   - κερδησω ανοµους — Biz ℵᶜ K L Ψ *pl*
-   - κερδανω τους ανοµους — ℵ A B C P 33 *pc*
-   - κερδησω τους ανοµους — P⁴⁶
-   - κερδανω ανοµους — F G
-   - τους ανοµους κερδησω — D E
-   *(Não pode este caso envolver uma conflação “Ocidental”, ou talvez duas delas? Notar que P⁴⁶ dá apoio à forma “Bizantina” do verbo — se a sua leitura for uma conflação, então os componentes “Bizantino” e “Alexandrino” já existiam em 200 DC.)*
+62. **Mt 17.7**
 
-87. 2Co 7.14
-   - επι τιτου αληθεια — ℵ B *pc*
-   - η προς τιτον αληθεια — D E F G P Ψ *pc* lat syr cop
-   - η επι τιτου αληθεια — Biz P⁴⁶ ℵᶜ C K L 0243 *pl*
-   *(Um século atrás este caso poderia ter sido interpretado como uma conflação “Síria”, mas P⁴⁶ agora faz a leitura “Bizantina” a mais antiga e fortalece sua reivindicação a ser a original — uma reivindicação com a qual os editores do texto da UBS evidentemente concordam.)*
+    - προσελθων … ηψατο αυτων και ειπεν — Biz C L W 1 *pm* syʰ
+    - προσηλθεν … και αψαμενος αυτων ειπεν — ℵ B *pc*
+    - προσελθων … και αψαμενος αυτων ειπεν — Θ 13 *pc*
+    - προσηλθεν … και ηψατο αυτων και ειπεν — D lat syᵖ,ᵖᵃˡ,(ᶜ)
 
-88. 1Ts 3.2
-   - και διακονον του Θεου και συνεργον ηµων — Biz K *pl* syr
-   - και διακονον του Θεου — ℵ A P Ψ *pc* lat cop
-   - και συνεργον — B 1962
-   - και συνεργον του Θεου — D 33 b d e mon
-   - διακονον και συνεργον του Θεου — G f g
-   *(Ambas as leituras “Alexandrinas” podem ser o resultado de homoioarcton [2 x και]; ou será que B simplificou a leitura “Ocidental”? O códice G evidentemente tem uma conflação e o códice D também pode ser dito ter uma. É a leitura “Bizantina” uma conflação, ou é ela a original, a qual todas as outras têm alterado, de uma maneira ou de outra?)*
+    *(As leituras “Ocidental” e “Cesareana” parecem ser conflações independentes das leituras “Bizantina” e “Alexandrina”.)*
 
-89. 2Ts 3.4
-   - και εποιησατε και ποιειτε — G
-   - και ποιειτε και ποιησετε — Biz ℵᶜ Dᶜ Ψ *pl*
-   - ποιειτε και ποιησετε — ℵ A *pc*
-   - ποιειτε και ποιησατε — D
-   - και εποιησατε και ποιειτε και ποιησετε — B sa
-   *(Este caso pareceria ser uma conflação [não muito elegante] por parte de B, que é abandonada tanto pelo texto Nestle como pelo UBS. O códice D parece ter uma conflação independente.)*
+63. **Mt 19.9**
 
-90. Hb 9.10
-   - και δικαιωµασιν — D² K L 056 075 0142 0150 0151 0209 0220 (532 MSS = 94%)[^501] a vg syʰ
-   - δικαιωµατα — P⁴⁶ ℵ A I P 0278 (24 MSS = 5%) b sa
-   - και δικαιωµατα — ℵ² B (8 MSS = 1%)
-   - δικαιωµα — D (sozinho)
-   *(Uma conflação evidente da parte de B, construída sobre as leituras “Bizantina” e “Alexandrina”. Notar que 0220 é do século III, dando à leitura “Bizantina” atestação antiga cabal.)*
+    - μη επι πορ. και γαμ. αλλην μοιχαται — Biz ℵ Cᶜ K L N (W) Z Δ Θ Π 078 *pm* vg syˢ,ᵖ,ʰ
+    - παρ. λογου πορ. ποιει αυ. μοιχευθηναι — (P²⁵) B 1 bo
+    - παρ. λογου πορ. και γαμ. αλλην μοιχαται — D 13 33 *pc* it syᶜ,ᵖᵃˡ sa
+    - μη επι πορ. και γαμ. αλλην ποιει αυ. μοι. — C 1216 *pc*
+
+    *(A leitura “Ocidental” e o códice C têm conflações independentes das leituras “Bizantina” e “Alexandrina”.)*
+
+64. **Mt 20.10**
+
+    - ελθοντες δε — Biz ℵ L W Z 1 *pm* syʰ bo
+    - και ελθοντες — B C D Θ 085 13 33 *pc* e syᶜ,ˢ,ᵖ
+    - ελθοντες δε και — N 473 *pc* lat arm
+
+    *(Uma variedade de testemunhas confla as leituras “Bizantina” e “Alexandrina”.)*
+
+65. **Mt 22.13**
+
+    - αρατε αυτον ποδων κ. χειρων και β. α — D itᵖᵗ syᶜ,ˢ
+    - δησαντες αυτου ποδας κ. χειρας εκβ. α. — ℵ B L Θ 085 1 (13) *pc* itᵖᵗ vg syᵖ cop
+    - δησαντες αυτου ποδας κ. χειρας αρατε α. και εκβ. — Biz C W 0138 *pm* (M Φ *al*) syʰ
+
+    *(É esta realmente uma conflação “Bizantina?” A leitura mais longa é perfeitamente razoável como se encontra; talvez um pouquinho “completa” demais para editores treinados em Alexandria, mas perfeita para um judeu falando aramaico. Não pode a leitura “Ocidental” ser uma revisão latina?)*
+
+66. **Marcos 4.5**
+
+    - και οτι — D W it syˢ
+    - οπου — Biz ℵ A *pl* vg syᵖ,ʰ
+    - και οπου — B
+
+    *(Uma conflação evidente por parte de B.)*
+
+67. **Marcos 7.35**
+
+    - διηνοιχθησαν — Biz P⁴⁵ A N X Γ Π 0131 13 *pm* lat syr
+    - ηνοιχθησαν — L
+    - ηνοιγησαν — ℵ B D Δ 0274 1 892
+    - διηνοιγησαν — W Θ *pc*
+
+    *(Tem P⁴⁵ conflado L e W, ou têm estes chegado a conflações independentes, a partir das leituras “Bizantina” e “Alexandrina”? Notar que o que Hort chamou de leitura “Síria tardia” tem agora a atestação mais antiga.)*
+
+68. **Marcos 9.49**
+
+    - πας γαρ πυρι αλισθησεται — B L (ℵ W) Δ 0274 1 13 *pc* syˢ sa Diatᵃᵖᵗ
+    - πασα γαρ θυσια αλι αλισθησεται — D it
+    - πας γαρ πυρι αλισθησεται και πασα θυσια αλι αλισθησεται — Biz A E K N Π Σ (C X Θ Ψ) *pm* f l q vg syᵖ,ʰ Diatᵃᵖᵗ,ᵖ
+
+    *(Esta é outra das “conflações Sírias” de Hort. Mas a leitura “Alexandrina” pode facilmente ser o resultado de homoioteleuton, e um outro caso de parablepsis pode ter dado origem à leitura “Ocidental”. A presença do artigo referindo-se a “sal”, no início do verso 50, não sugere que “sal” já tem sido introduzido no contexto anterior? Em todo caso, a leitura “Bizantina” tem atestação antiga e não pode ser descartada como “Síria tardia”.)*
+
+69. **Marcos 12.17**
+
+    - και αποκριθεις — W 258 *al*
+    - ο δε Ιησους — ℵ B C L Δ Ψ 33 *pc* sy(ᵖ) cop
+    - και αποκριθεις ο Ιησους — Biz P⁴⁵ A N X Γ Π Φ 1 13 *pm* sy(ˢ),ʰ
+    - αποκριθεις δε ο Ιησους — D 700 *pc* lat
+    - αποκριθεις δε — Θ 565
+
+    *(Quem está conflando quem? Parece mais provável que a leitura de Theta tem simplificado a “Ocidental” do que esta ter estendido aquela. Mas a leitura “Ocidental” pode bem ser uma conflação das “Bizantina” e “Alexandrina”. Parece claro que P⁴⁵ não pode ter conflado W e B, mas não podem estes manuscritos ter simplificações independentes da leitura “Bizantina”? Notar que a leitura que Hort chamou de “Síria tardia” tem agora a atestação mais antiga.)*
+
+70. **Lc 9.57**
+
+    - και πορευομενων — P⁴⁵,⁷⁵ ℵ B C L Θ Ξ 33 *pc* syᶜ,ˢ,ᵖ bo
+    - εγενετο δε πορευομενων — Biz A W Ψ 1 *pm* lat syʰ
+    - και εγενετο πορευομενων — D 13 a c e r¹
+
+    *(Isto pareceria ser uma conflação “Ocidental”.)*
+
+71. **Lc 10.42**
+
+    - ενος δε εστιν χρεια — Biz P⁴⁵,⁷⁵ A C K P W Γ Δ Θ Λ Π Ψ 13 *pl* lat syᶜ,ᵖ,ʰ sa
+    - ολιγων δε χρεια εστιν η ενος — B
+    - ολιγων δε εστιν χρεια η ενος — P³ L C² 1 33 *pc* syʰ ᵐᵍ bo
+    - ολιγων δε εστιν η ενος — ℵ
+
+    *(Os MSS usualmente associados com o tipo-de-texto “Alexandrino” estão aqui muito divididos. O códice L [e seus acompanhantes] talvez tenha conflado as leituras “Bizantina” e aquela de B. Notar que a leitura “Síria tardia” de Hort tem agora a atestação mais antiga, com vingança!)*
+
+72. **Lc 11.12**
+
+    - η και — P⁷⁵ ℵ B L 1 13 33 cop
+    - εαν δε και — D
+    - η και εαν — Biz P⁴⁵ R W X Γ Δ Θ Π Ψ *pl* syʰ
+
+    *(Devemos dizer que editores “Sírios” conflaram as leituras “Alexandrina” e “Ocidental”, ou não é a leitura “Síria tardia” de Hort realmente a original?)*
+
+73. **Lc 12.30**
+
+    - ζητει — D it
+    - επιζητουσιν — P⁷⁵ ℵ B L X 070 13 33 *pc*
+    - επιζητει — Biz P⁴⁵ A Q W Γ Δ Θ Λ Π Ψ 1 *pl*
+
+    *(Conflação ou confusão? Notar que a leitura que Hort reputou como “Síria tardia” tem agora atestação muito antiga.)*
+
+74. **Lc 13.2**
+
+    - οτι ταυτα — ℵ B D L *pc* d e r¹
+    - τα τοιαυτα — 69 *pc*
+    - οτι τοιαυτα — Biz P⁷⁵ A W X Γ Δ Θ Λ Π Ψ 070 1 *pm* lat syr
+
+    *(Será que P⁷⁵ conflou B e 69? Notar que a leitura que Hort chamou de “Síria tardia” tem agora a atestação mais antiga.)*
+
+75. **João 5.15**
+
+    - ανηγγειλεν — Biz P⁶⁶,⁷⁵ A B Γ Θ Λ Π Ψ 063 1 *pm* sa (lat syʰ)
+    - ειπεν — ℵ C L *pc* e q syᶜ,ˢ,ᵖ bo
+    - ανηγγειλεν και ειπεν αυτοις — W
+    - απηγγειλεν — D K U Δ 13 33 *al* (lat syʰ)
+
+    *(O códice W parece ter uma conflação envolvendo as leituras “Bizantina” e “Alexandrina”. Notar que a leitura “Bizantina”, que Hort tentativamente rejeitou apesar de B, tem agora forte atestação antiga. O desvio “Ocidental” é baseado na leitura “Bizantina”, que podemos presumir ser a original.)*
+
+76. **João 6.69**
+
+    - ο αγιος του Θεου — P⁷⁵ ℵ B C D L W
+    - ο Χριστος ο υιος του Θεου — Biz K Π Ψ 0250 13 (Δ Θ 1 33) *pl* lat syr Diatessaron
+    - ο Χριστος ο αγιος του Θεου — P⁶⁶ cop
+
+    *(Uma conflação instrutiva da parte de P⁶⁶.)*
+
+77. **João 7.41**
+
+    - αλλοι ελεγον — Biz P⁶⁶* ℵ D W Γ Δ Π Ψ 0105 13 *pm* syr
+    - οι δε ελεγον — P⁶⁶ᶜ,⁷⁵ B L N T X Θ 33 *al* lat
+    - αλλοι δε ελεγον — 1 *pc* e bo
+
+    *(É esta uma conflação “Cesareana?” Notar que o corretor de P⁶⁶ tomou uma leitura “Bizantina” e a mudou para uma “Alexandrina” — uma vez que ele fez este tipo de coisa repetidamente, pareceria que haviam exemplares de cada tipo no scriptorium, ainda mais porque ele frequentemente também fez o oposto, i.e. mudou uma leitura “Alexandrina” para uma “Bizantina”. Isto em 200 DC!)*
+
+78. **João 9.6**
+
+    - επεθηκεν — B *pc*
+    - εχρισεν — 661
+    - επεχρισεν — Biz P⁶⁶,⁷⁵ ℵ A C D K L W Δ Θ Π Ψ 0124 0216 1 13 *pl* lat syr cop
+
+    *(Presumivelmente, mesmo antes do advento de P⁶⁶,⁷⁵, ninguém desejaria sugerir que a leitura “Bizantina” seja uma conflação de B e 661! Mesmo assim, Hort seguiu B…)*
+
+79. **João 9.8**
+
+    - τυφλος ην — Biz C³ Γ Δ *pm*
+    - προσαιτης ην — P⁶⁶,⁷⁵ ℵ B C D *al* lat cop syˢ,ᵖ,ʰ
+    - τυφλος ην και προσαιτης — 69 *pc* e syᵖᵃˡ
+
+    *(Uma conflação evidente da parte de uns poucos MSS.)*
+
+80. **João 11.44**
+
+    - αυτοις ο Ιησους — Biz P⁴⁵,⁶⁶ ℵ A C² D X Γ Δ Θ Λ Π Ψ 0250 1 13 *pl* it
+    - αυτοις — 157
+    - ο Ιησους — 700 syˢ
+    - ο Ιησους αυτοις — L W
+    - Ιησους αυτοις — P⁷⁵ B C cop
+
+    *(157 e 700 têm simplificações independentes da leitura “Bizantina”. Sugiro a mesma explicação para a leitura “Alexandrina” — os editores do texto da UBS evidentemente concordam, mas Hort não.)*
+
+81. **João 13.24**
+
+    - πυθεσθαι τις αν ειη π. ου λεγει — Biz P⁶⁶ A (D) K W Γ Δ Λ Π 1 13 *pl* syr cop
+    - και λεγει αυτω ειπε τις εστιν π. ου λεγει — B C I L X 068 33 *pc*
+    - πυθεσθαι τις αν ειη π. ου ελεγεν και λεγει αυτω ειπε τις εστιν π. ου λεγει — ℵ
+
+    *(Esta pareceria ser uma conflação aberrante demais da parte de Aleph, baseada nas leituras “Bizantina” e “Alexandrina”.)*
+
+82. **João 13.36**
+
+    - απεκριθη — B C L *pc* lat cop
+    - λεγει αυτω — D
+    - απεκριθη αυτω — Biz P⁶⁶ ℵ A C³ K W X Γ Δ Θ Λ Π Ψ 1 13 *pl*
+
+    *(Um século atrás este caso poderia ter sido interpretado como uma conflação “Síria” das leituras “Alexandrina” e “Ocidental”, mas agora a presença de P⁶⁶ mais apropriadamente encoraja a conclusão oposta.)*
+
+83. **Atos 11.7**
+
+    - ηκουσα δε — Biz L P *pm*
+    - και ηκουσα — D *pc* syˢ
+    - ηκουσα δε και — ℵ A B E *al* cop
+
+    *(Não pode esta ser uma conflação “Alexandrina”?)*
+
+84. **Atos 23.9**
+
+    - τινες — P⁷⁴ A E 33 *pc* bo
+    - οι γραμματεις — Biz *pm*
+    - τινες των γραμματεων — ℵ B C *al* sa
+
+    *(Não pode esta ser uma conflação “Alexandrina”?)*
+
+85. **Rm 6.12**
+
+    - αυτη — P⁴⁶ D E F G d f g m
+    - ταις επιθυμιαις αυτου — ℵ A B C *al* lat cop
+    - αυτη εν ταις επιθυμιαις αυτου — Biz K L P Ψ *pm*
+
+    *(Aqui está outro excelente candidato para uma conflação “Bizantina”, a não ser que as outras duas leituras sejam simplificações independentes. Se a leitura “Ocidental” fosse original, como poderia a “Alexandrina” ter surgido, e vice-versa? Mas se a leitura “Bizantina” é a original, as outras duas são facilmente explicadas.)*
+
+86. **1Co 9.21**
+
+    - κερδησω ανομους — Biz ℵᶜ K L Ψ *pl*
+    - κερδανω τους ανομους — ℵ A B C P 33 *pc*
+    - κερδησω τους ανομους — P⁴⁶
+    - κερδανω ανομους — F G
+    - τους ανομους κερδησω — D E
+
+    *(Não pode este caso envolver uma conflação “Ocidental”, ou talvez duas delas? Notar que P⁴⁶ dá apoio à forma “Bizantina” do verbo — se a sua leitura for uma conflação, então os componentes “Bizantino” e “Alexandrino” já existiam em 200 DC.)*
+
+87. **2Co 7.14**
+
+    - επι τιτου αληθεια — ℵ B *pc*
+    - η προς τιτον αληθεια — D E F G P Ψ *pc* lat syr cop
+    - η επι τιτου αληθεια — Biz P⁴⁶ ℵᶜ C K L 0243 *pl*
+
+    *(Um século atrás este caso poderia ter sido interpretado como uma conflação “Síria”, mas P⁴⁶ agora faz a leitura “Bizantina” a mais antiga e fortalece sua reivindicação a ser a original — uma reivindicação com a qual os editores do texto da UBS evidentemente concordam.)*
+
+88. **1Ts 3.2**
+
+    - και διακονον του Θεου και συνεργον ημων — Biz K *pl* syr
+    - και διακονον του Θεου — ℵ A P Ψ *pc* lat cop
+    - και συνεργον — B 1962
+    - και συνεργον του Θεου — D 33 b d e mon
+    - διακονον και συνεργον του Θεου — G f g
+
+    *(Ambas as leituras “Alexandrinas” podem ser o resultado de homoioarcton [2 x και]; ou será que B simplificou a leitura “Ocidental”? O códice G evidentemente tem uma conflação e o códice D também pode ser dito ter uma. É a leitura “Bizantina” uma conflação, ou é ela a original, a qual todas as outras têm alterado, de uma maneira ou de outra?)*
+
+89. **2Ts 3.4**
+
+    - και εποιησατε και ποιειτε — G
+    - και ποιειτε και ποιησετε — Biz ℵᶜ Dᶜ Ψ *pl*
+    - ποιειτε και ποιησετε — ℵ A *pc*
+    - ποιειτε και ποιησατε — D
+    - και εποιησατε και ποιειτε και ποιησετε — B sa
+
+    *(Este caso pareceria ser uma conflação [não muito elegante] por parte de B, que é abandonada tanto pelo texto Nestle como pelo UBS. O códice D parece ter uma conflação independente.)*
+
+90. **Hb 9.10**
+
+    - και δικαιωμασιν — D² K L 056 075 0142 0150 0151 0209 0220 (532 MSS = 94%)[^501] a vg syʰ
+    - δικαιωματα — P⁴⁶ ℵ A I P 0278 (24 MSS = 5%) b sa
+    - και δικαιωματα — ℵ² B (8 MSS = 1%)
+    - δικαιωμα — D (sozinho)
+
+    *(Uma conflação evidente da parte de B, construída sobre as leituras “Bizantina” e “Alexandrina”. Notar que 0220 é do século III, dando à leitura “Bizantina” atestação antiga cabal.)*
 
 #### *b) Diferenças substanciais — “conflação” duvidosa*
 
-91. Mt 10.23
-   - φευγετε εις την αλλην — Biz C K X ∆ Π *pl*
-   - φευγετε εις την ετεραν — ℵ B W 33 *pc*
-   - φευγετε εις την αλλην κ. εκ τ. δ. υ. φευγετε εις την ετεραν — Θ (D L 1 13) *pc*
-   *(A leitura “Ocidental” aqui parece incluir uma conflação das “Bizantina” e “Alexandrina”.)*
+91. **Mt 10.23**
 
-92. Mt 27.23
-   - ο δε εφη — ℵ B Θ 0281 13 33 *pc* sa
-   - λεγει αυτοις ο ηγεµων — D L 1 *pc* lat syᵖ bo
-   - ο δε ηγεµων εφη — Biz A W 064 0250 *pm* syʰ
-   *(Conflação ou confusão?)*
+    - φευγετε εις την αλλην — Biz C K X Δ Π *pl*
+    - φευγετε εις την ετεραν — ℵ B W 33 *pc*
+    - φευγετε εις την αλλην κ. εκ τ. δ. υ. φευγετε εις την ετεραν — Θ (D L 1 13) *pc*
 
-93. Marcos 6.33
-   - ε. και προηλθον αυτους και συνηλθον προς αυτον — Biz P⁸⁴ᵛ E G K Π (A N Σ 13) *pm* f (q) syʰ
-   - ε. και προηλθον αυτους — ℵ B (0187ᵛ) *pc* aur l vg (cop)
-   - ε. και προσηλθον αυτους — L *pc*
-   - ε. και προσηλθον αυτοις — ∆ Θ
-   - ε. και συνηλθον αυτου — D (28 700) b
-   - ε. και ηλθον αυτου — 565 it Diatᵖ
-   - προς αυτους και συνηλθον προς αυτον — 33
-   *(Esta é outra das “conflações Sírias” de Hort. Mas, a não ser que alguém esteja preparado a argumentar que é baseada em 33, ela não satisfaz os requisitos para uma conflação e pode apropriadamente ser vista como a original, que todas as outras têm simplificado. A discussão deste caso, por Hort, tem sido vista por alguns como sendo especialmente impressionante, mas eu diria que ele simplesmente entendeu mal o significado básico do texto. No verso 34 Jesus saiu do barco, não de algum local isolado em terra. A turma do Egito pode ter tido a mesma dificuldade de Hort e produzido a leitura “Alexandrina”. A leitura “Ocidental” [e a “Alexandrina”] pode ser o resultado de um pouco de parablepsis [homoioarcton — 2 x και]. A leitura de 33 é evidentemente secundária, fosse como fosse que surgiu.)*
+    *(A leitura “Ocidental” aqui parece incluir uma conflação das “Bizantina” e “Alexandrina”.)*
 
-94. Marcos 8.26
-   - µηδε εις την κωµην εισελθης µηδε ειπης τινι εν τη κωµη — Biz A C E K N X ∆ Π Σ 33 *pl* syᵖ,ʰ Diat
-   - µηδε εις την κωµην εισελθης — ℵᶜ B L 1 *pc* cop syˢ
-   - µη εις την κωµην εισελθης — ℵ W
-   - υπαγε εις τον οικον σου και µηδενι ειπης εις την κωµην — D d q
-   - υπαγε εις τον οικον σου και εαν εις την κωµην εισελθης µηδενι ειπης µηδε εν τη κωµη — 13 (Θ *pc* lat)
-   *(Esta é outra das “conflações Sírias” de Hort, mas a leitura “Bizantina” não satisfaz as exigências para uma conflação e pode razoavelmente ser vista como a original — a turma do Egito pode ter sentido que ela era redundante, reduzindo-a à leitura “Alexandrina”, embora esta possa também ser o resultado de homoioarcton [2 x ΜΗ∆ΕΕΙ]. O texto “Ocidental” reescreve o material, como faz frequentemente. A leitura “Cesareana” evidentemente envolve uma conflação.)*
+92. **Mt 27.23**
 
-95. Marcos 9.38
-   - ος ουκ ακολουθει ηµιν και εκωλυσαµεν αυτον οτι ουκ ακολουθει ηµιν — Biz A E K N Π Σ *pm* syʰ
-   - ος ουκ ακολουθει ηµιν και εκωλυσαµεν αυτον — X (W 1) 13 *pc* lat
-   - ος ουκ ακολουθει µεθ ηµων και εκωλουµεν αυτον — D
-   - και εκωλυσαµεν αυτον οτι ουκ ακολουθει ηµιν — C *pc* aur f cop
-   - και εκωλουµεν αυτον οτι ουκ ηκολουθει ηµιν — ℵ B ∆ Θ 0274 (L Ψ) *pc* syˢ,ᵖ,ᵖᵃˡ Diat
-   *(Aqui está ainda outra das “conflações Sírias” de Hort. Se esta é uma conflação “Bizantina”, está edificada sobre as testemunhas “Ocidental” e “Alexandrina” inferiores, e nesse evento de onde D e B obtiveram suas leituras? Não é mais razoável encarar a leitura “Bizantina” como a original que as outras têm simplificado de variadas maneiras? Nestle²⁴ parece refletir essencialmente esta opinião. De fato, a leitura “Ocidental” pode facilmente ter resultado de homoioteleuton ou de uma eliminação estilística da terceira cláusula sob a alegação de ser redundante. Uma olhadela em Lucas 9.49 sugere que os Alexandrinos harmonizaram Marcos com Lucas.)*
+    - ο δε εφη — ℵ B Θ 0281 13 33 *pc* sa
+    - λεγει αυτοις ο ηγεμων — D L 1 *pc* lat syᵖ bo
+    - ο δε ηγεμων εφη — Biz A W 064 0250 *pm* syʰ
 
-96. Lc 9.10
-   - τοπον ερηµον πολεως καλουµενης Βηθσαιδαν — Biz A C W (1) 13 *pm* sy(ᵖ),ʰ
-   - τοπον ερηµον — ℵ *al* syᶜ
-   - πολιν καλουµενην Βηθσαιδα — ℵᶜ (P⁷⁵) B L Ξ 33 *pc* (syˢ) cop
-   - κωµην λεγουµενην Βηδσαιδα — D
-   - κωµην καλουµενην Βηθσαιδαν εις τοπον ερηµον — Θ
-   *(Esta é ainda outra das oito “conflações Sírias” de Hort. Mas a leitura “Bizantina” não satisfaz as condições para uma conflação e pode razoavelmente ser vista como a original. Aleph omitiu e B e D têm revisões independentes — a ideia de “um lugar deserto pertencendo a uma cidade” aparentemente lhes deu dificuldades. Theta parece ter conflado elementos de todas as quatro leituras outras!)*
+    *(Conflação ou confusão?)*
 
-97. Lc 9.34
-   - εκεινους εισελθειν — Biz P⁴⁵ A D P R W X Γ ∆ Θ Λ Π Ψ 1 13 *pl* sa
-   - εισελθειν — P⁷⁵ S
-   - εισελθειν αυτους — ℵ B L *pc* bo
-   - αυτους εισελθειν — C *pc*
-   - εισελθειν εκεινους — *pc*
-   *(Conflação ou confusão? O códice C pareceria ter uma conflação. Notar que a leitura “Bizantina” agora tem atestação muito antiga.)*
+93. **Marcos 6.33**
 
-98. Lc 11.54
-   - ενεδρευοντες α. ζητουντες θηρευσαι τι εκ του στοµατος αυτου ινα κατηγορησωσιν αυτου — Biz A C W (Ψ 1) 13 33 *pm* (lat syᵖ,ʰ)
-   - ενεδρευοντες α. θηρευσαι τι εκ του στοµατος αυτου — P⁴⁵ᵛ,⁷⁵ (ℵ) B L *pc* cop
-   - ζητουντες αφορµην τινα λαβειν αυτου ινα ευρωσιν κατηγορησαι αυτου — D (Θ syˢ,ᶜ)
-   *(Esta é outra das oito “conflações Sírias” de Hort, mas claramente ela não satisfaz as condições para uma conflação. A solução deste problema está ligada a escolhas textuais no verso 53, mas eu submeto [ao leitor minha convicção] que a leitura “Bizantina” aqui é uma candidata séria a ser a original. A perda da última cláusula nos MSS Alexandrinos pode ser uma fácil ocorrência de homoioteleuton, ou [os editores egípcios] podem ter sentido que ela era redundante, o que também pode ter sido a motivação para eliminar o segundo particípio. O códice D simplesmente reescreveu o material.)*
+    - ε. και προηλθον αυτους και συνηλθον προς αυτον — Biz P⁸⁴ᵛ E G K Π (A N Σ 13) *pm* f (q) syʰ
+    - ε. και προηλθον αυτους — ℵ B (0187ᵛ) *pc* aur l vg (cop)
+    - ε. και προσηλθον αυτους — L *pc*
+    - ε. και προσηλθον αυτοις — Δ Θ
+    - ε. και συνηλθον αυτου — D (28 700) b
+    - ε. και ηλθον αυτου — 565 it Diatᵖ
+    - προς αυτους και συνηλθον προς αυτον — 33
 
-99. Lc 12.18
-   - παντα τα γενηµατα µου και τα αγαθα µου — Biz A Q W Θ Ψ *pm* aur f vg syᵖ,ʰ
-   - παντα τα γενηµατα µου — ℵ D it (syˢ,ᶜ)
-   - παντα τον σιτον και τα αγαθα µου — P⁷⁵ᶜ B L 070 1 (13) *pc* cop
-   *(Esta é a última das oito “conflações Sírias” de Hort. A leitura “Ocidental” pode facilmente ter surgido através de homoioteleuton e a “Alexandrina” ser o resultado de um retoque estilístico.)*
+    *(Esta é outra das “conflações Sírias” de Hort. Mas, a não ser que alguém esteja preparado a argumentar que é baseada em 33, ela não satisfaz os requisitos para uma conflação e pode apropriadamente ser vista como a original, que todas as outras têm simplificado. A discussão deste caso, por Hort, tem sido vista por alguns como sendo especialmente impressionante, mas eu diria que ele simplesmente entendeu mal o significado básico do texto. No verso 34 Jesus saiu do barco, não de algum local isolado em terra. A turma do Egito pode ter tido a mesma dificuldade de Hort e produzido a leitura “Alexandrina”. A leitura “Ocidental” [e a “Alexandrina”] pode ser o resultado de um pouco de parablepsis [homoioarcton — 2 x και]. A leitura de 33 é evidentemente secundária, fosse como fosse que surgiu.)*
 
-100. Lc 24.47
-   - αρξαµενον — Biz P⁷⁵ A F H K M U V W Γ ∆ Λ Π 063 1 13 *pm* syr
-   - αρξαµενοι — ℵ B C L N X 33 *pc* cop
-   - αρξαµενος — S Θ Ψ *pc*
-   - αρξαµενων — D *pc* lat
-   *(Conflação ou confusão? Notar que a leitura que Hort chamou de “Síria tardia” tem agora a atestação mais antiga.)*
+94. **Marcos 8.26**
 
-101. João 2.15
-   - ανετρεψεν — P⁶⁶ B W X Θ 0162 *pc*
-   - κατεστρεψεν — P⁵⁹ ℵ 13 *pc*
-   - ανεστρεψεν — Biz P⁷⁵ A G K L P Γ ∆ Λ Π Ψ 1 *pl*
-   *(Conflação ou confusão? Notar que a leitura que Hort denominou de “Síria tardia” tem agora atestação muito antiga.)*
+    - μηδε εις την κωμην εισελθης μηδε ειπης τινι εν τη κωμη — Biz A C E K N X Δ Π Σ 33 *pl* syᵖ,ʰ Diat
+    - μηδε εις την κωμην εισελθης — ℵᶜ B L 1 *pc* cop syˢ
+    - μη εις την κωμην εισελθης — ℵ W
+    - υπαγε εις τον οικον σου και μηδενι ειπης εις την κωμην — D d q
+    - υπαγε εις τον οικον σου και εαν εις την κωμην εισελθης μηδενι ειπης μηδε εν τη κωμη — 13 (Θ *pc* lat)
 
-102. João 11.21
-   - ο αδελφος µου ουκ αν ετεθνηκει — Biz E G U Γ ∆ Θ Λ Π Ω 13 *pm*
-   - ο αδελφος µου ουκ αν απεθανεν — P⁴⁵,⁶⁶ K 0250
-   - ουκ αν απεθανεν ο αδελφος µου — P⁷⁵ ℵ B C L W *pc*
-   - ουκ αν απεθανεν µου ο αδελφος — (Ψ) 1 33 565 *pc*
-   - ουκ αν ο αδελφος µου απεθανεν — (A) D *pc*
-   *(Conflação ou confusão? Notar que a ordem das palavras na leitura que Hort chamou de “Síria tardia” tem agora atestação muito antiga. Não podem P⁴⁵,⁶⁶ ter uma conflação, embora bem antiga?)*
+    *(Esta é outra das “conflações Sírias” de Hort, mas a leitura “Bizantina” não satisfaz as exigências para uma conflação e pode razoavelmente ser vista como a original — a turma do Egito pode ter sentido que ela era redundante, reduzindo-a à leitura “Alexandrina”, embora esta possa também ser o resultado de homoioarcton [2 x ΜΗΔΕΕΙ]. O texto “Ocidental” reescreve o material, como faz frequentemente. A leitura “Cesareana” evidentemente envolve uma conflação.)*
 
-103. João 11.32
-   - απεθανεν µου ο αδελφος — Biz P⁴⁵ A E G K S X Γ Λ Π 1 *pl*
-   - µου απεθανεν ο αδελφος — P⁶⁶,⁷⁵ ℵ B C L W ∆ Θ 33 *pc*
-   - απεθανεν ο αδελφος µου — 66 lat
-   - µου ο αδελφος απεθανεν — D
-   *(Conflação ou confusão? Notar que a leitura que Hort chamou de “Síria tardia” tem agora atestação muito antiga.)*
+95. **Marcos 9.38**
 
-104. João 13.26
-   - και εµβαψας — Biz P⁶⁶ᶜ A K W Γ ∆ Θ Λ Π Ψ 1 13 *pl* lat syr cop
-   - βαψας ουν — ℵ B C L X 33 *pc*
-   - και βαψας — D *pc*
-   *(É esta uma conflação “Ocidental”? Notar que a leitura “Bizantina” agora tem a atestação mais antiga.)*
+    - ος ουκ ακολουθει ημιν και εκωλυσαμεν αυτον οτι ουκ ακολουθει ημιν — Biz A E K N Π Σ *pm* syʰ
+    - ος ουκ ακολουθει ημιν και εκωλυσαμεν αυτον — X (W 1) 13 *pc* lat
+    - ος ουκ ακολουθει μεθ ημων και εκωλουμεν αυτον — D
+    - και εκωλυσαμεν αυτον οτι ουκ ακολουθει ημιν — C *pc* aur f cop
+    - και εκωλουμεν αυτον οτι ουκ ηκολουθει ημιν — ℵ B Δ Θ 0274 (L Ψ) *pc* syˢ,ᵖ,ᵖᵃˡ Diat
 
-105. João 14.5
-   - δυναµεθα την οδον ειδεναι — Biz P⁶⁶ A L N Q W X Γ ∆ Θ Λ Π Ψ 1 13 *pl* lat syr cop
-   - την οδον ειδεναι δυναµεθα — ℵ K
-   - την οδον οιδαµεν — D
-   - οιδαµεν την οδον — B C a b e
-   *(Está B baseado em D, ou D conflou B e o resto? Notar que a leitura “Bizantina” agora tem a mais antiga das atestações. Os editores do texto da UBS evidentemente concordam que a leitura “Bizantina” é a original.)*
+    *(Aqui está ainda outra das “conflações Sírias” de Hort. Se esta é uma conflação “Bizantina”, está edificada sobre as testemunhas “Ocidental” e “Alexandrina” inferiores, e nesse evento de onde D e B obtiveram suas leituras? Não é mais razoável encarar a leitura “Bizantina” como a original que as outras têm simplificado de variadas maneiras? Nestle²⁴ parece refletir essencialmente esta opinião. De fato, a leitura “Ocidental” pode facilmente ter resultado de homoioteleuton ou de uma eliminação estilística da terceira cláusula sob a alegação de ser redundante. Uma olhadela em Lucas 9.49 sugere que os Alexandrinos harmonizaram Marcos com Lucas.)*
 
-106. 1Pe 5.8
-   - τινα καταπιη — Biz P⁷² A 056 (33) *pm* lat syr
-   - τινα καταπιν — ℵ
-   - τινα καταπιει — 0142 *pc*
-   - καταπιειν — B Ψ 0206 1175 *pc*
-   - τινα καταπιειν — ℵᶜ K L P 049 *al* bo
-   *(A 5ª linha pode ser uma conflação da 1ª e da 4ª. A 2ª linha é provavelmente um erro de grafia a partir da 1ª — H se tornou N — enquanto a 3ª é também um erro de grafia a partir da 1ª. Notar que a leitura “Bizantina” agora tem a atestação mais antiga.)*
+96. **Lc 9.10**
+
+    - τοπον ερημον πολεως καλουμενης Βηθσαιδαν — Biz A C W (1) 13 *pm* sy(ᵖ),ʰ
+    - τοπον ερημον — ℵ *al* syᶜ
+    - πολιν καλουμενην Βηθσαιδα — ℵᶜ (P⁷⁵) B L Ξ 33 *pc* (syˢ) cop
+    - κωμην λεγουμενην Βηδσαιδα — D
+    - κωμην καλουμενην Βηθσαιδαν εις τοπον ερημον — Θ
+
+    *(Esta é ainda outra das oito “conflações Sírias” de Hort. Mas a leitura “Bizantina” não satisfaz as condições para uma conflação e pode razoavelmente ser vista como a original. Aleph omitiu e B e D têm revisões independentes — a ideia de “um lugar deserto pertencendo a uma cidade” aparentemente lhes deu dificuldades. Theta parece ter conflado elementos de todas as quatro leituras outras!)*
+
+97. **Lc 9.34**
+
+    - εκεινους εισελθειν — Biz P⁴⁵ A D P R W X Γ Δ Θ Λ Π Ψ 1 13 *pl* sa
+    - εισελθειν — P⁷⁵ S
+    - εισελθειν αυτους — ℵ B L *pc* bo
+    - αυτους εισελθειν — C *pc*
+    - εισελθειν εκεινους — *pc*
+
+    *(Conflação ou confusão? O códice C pareceria ter uma conflação. Notar que a leitura “Bizantina” agora tem atestação muito antiga.)*
+
+98. **Lc 11.54**
+
+    - ενεδρευοντες α. ζητουντες θηρευσαι τι εκ του στοματος αυτου ινα κατηγορησωσιν αυτου — Biz A C W (Ψ 1) 13 33 *pm* (lat syᵖ,ʰ)
+    - ενεδρευοντες α. θηρευσαι τι εκ του στοματος αυτου — P⁴⁵ᵛ,⁷⁵ (ℵ) B L *pc* cop
+    - ζητουντες αφορμην τινα λαβειν αυτου ινα ευρωσιν κατηγορησαι αυτου — D (Θ syˢ,ᶜ)
+
+    *(Esta é outra das oito “conflações Sírias” de Hort, mas claramente ela não satisfaz as condições para uma conflação. A solução deste problema está ligada a escolhas textuais no verso 53, mas eu submeto [ao leitor minha convicção] que a leitura “Bizantina” aqui é uma candidata séria a ser a original. A perda da última cláusula nos MSS Alexandrinos pode ser uma fácil ocorrência de homoioteleuton, ou [os editores egípcios] podem ter sentido que ela era redundante, o que também pode ter sido a motivação para eliminar o segundo particípio. O códice D simplesmente reescreveu o material.)*
+
+99. **Lc 12.18**
+
+    - παντα τα γενηματα μου και τα αγαθα μου — Biz A Q W Θ Ψ *pm* aur f vg syᵖ,ʰ
+    - παντα τα γενηματα μου — ℵ D it (syˢ,ᶜ)
+    - παντα τον σιτον και τα αγαθα μου — P⁷⁵ᶜ B L 070 1 (13) *pc* cop
+
+    *(Esta é a última das oito “conflações Sírias” de Hort. A leitura “Ocidental” pode facilmente ter surgido através de homoioteleuton e a “Alexandrina” ser o resultado de um retoque estilístico.)*
+
+100. **Lc 24.47**
+
+     - αρξαμενον — Biz P⁷⁵ A F H K M U V W Γ Δ Λ Π 063 1 13 *pm* syr
+     - αρξαμενοι — ℵ B C L N X 33 *pc* cop
+     - αρξαμενος — S Θ Ψ *pc*
+     - αρξαμενων — D *pc* lat
+
+     *(Conflação ou confusão? Notar que a leitura que Hort chamou de “Síria tardia” tem agora a atestação mais antiga.)*
+
+101. **João 2.15**
+
+     - ανετρεψεν — P⁶⁶ B W X Θ 0162 *pc*
+     - κατεστρεψεν — P⁵⁹ ℵ 13 *pc*
+     - ανεστρεψεν — Biz P⁷⁵ A G K L P Γ Δ Λ Π Ψ 1 *pl*
+
+     *(Conflação ou confusão? Notar que a leitura que Hort denominou de “Síria tardia” tem agora atestação muito antiga.)*
+
+102. **João 11.21**
+
+     - ο αδελφος μου ουκ αν ετεθνηκει — Biz E G U Γ Δ Θ Λ Π Ω 13 *pm*
+     - ο αδελφος μου ουκ αν απεθανεν — P⁴⁵,⁶⁶ K 0250
+     - ουκ αν απεθανεν ο αδελφος μου — P⁷⁵ ℵ B C L W *pc*
+     - ουκ αν απεθανεν μου ο αδελφος — (Ψ) 1 33 565 *pc*
+     - ουκ αν ο αδελφος μου απεθανεν — (A) D *pc*
+
+     *(Conflação ou confusão? Notar que a ordem das palavras na leitura que Hort chamou de “Síria tardia” tem agora atestação muito antiga. Não podem P⁴⁵,⁶⁶ ter uma conflação, embora bem antiga?)*
+
+103. **João 11.32**
+
+     - απεθανεν μου ο αδελφος — Biz P⁴⁵ A E G K S X Γ Λ Π 1 *pl*
+     - μου απεθανεν ο αδελφος — P⁶⁶,⁷⁵ ℵ B C L W Δ Θ 33 *pc*
+     - απεθανεν ο αδελφος μου — 66 lat
+     - μου ο αδελφος απεθανεν — D
+
+     *(Conflação ou confusão? Notar que a leitura que Hort chamou de “Síria tardia” tem agora atestação muito antiga.)*
+
+104. **João 13.26**
+
+     - και εμβαψας — Biz P⁶⁶ᶜ A K W Γ Δ Θ Λ Π Ψ 1 13 *pl* lat syr cop
+     - βαψας ουν — ℵ B C L X 33 *pc*
+     - και βαψας — D *pc*
+
+     *(É esta uma conflação “Ocidental”? Notar que a leitura “Bizantina” agora tem a atestação mais antiga.)*
+
+105. **João 14.5**
+
+     - δυναμεθα την οδον ειδεναι — Biz P⁶⁶ A L N Q W X Γ Δ Θ Λ Π Ψ 1 13 *pl* lat syr cop
+     - την οδον ειδεναι δυναμεθα — ℵ K
+     - την οδον οιδαμεν — D
+     - οιδαμεν την οδον — B C a b e
+
+     *(Está B baseado em D, ou D conflou B e o resto? Notar que a leitura “Bizantina” agora tem a mais antiga das atestações. Os editores do texto da UBS evidentemente concordam que a leitura “Bizantina” é a original.)*
+
+106. **1Pe 5.8**
+
+     - τινα καταπιη — Biz P⁷² A 056 (33) *pm* lat syr
+     - τινα καταπιν — ℵ
+     - τινα καταπιει — 0142 *pc*
+     - καταπιειν — B Ψ 0206 1175 *pc*
+     - τινα καταπιειν — ℵᶜ K L P 049 *al* bo
+
+     *(A 5ª linha pode ser uma conflação da 1ª e da 4ª. A 2ª linha é provavelmente um erro de grafia a partir da 1ª — H se tornou N — enquanto a 3ª é também um erro de grafia a partir da 1ª. Notar que a leitura “Bizantina” agora tem a atestação mais antiga.)*
 
 #### *Avaliação*
 
@@ -3217,15 +3469,15 @@ Tem sido costume referir-se ao texto “Bizantino” como “o texto posterior e
 
 Espero que o leitor não me julgará irrazoável se eu expressar a esperança que todos os interessados neste assunto lealmente concederão que o fantasma de “conflação Síria” tem sido sepultado. Daqui em diante, ninguém pode razoável ou responsavelmente caracterizar o tipo-de-texto “Bizantino” como sendo “conflado”, nem utilizar essa alegação para argumentar que ele tem que ser tardio[^503].
 
-### *Apêndice E — Determinação de Texto na Passagem da “Colheita de Espigas no Sábado”*
+## *Apêndice E — Determinação de Texto na Passagem da “Colheita de Espigas no Sábado”*
 
 (Mt 12.1–8; Mc 2.23–28; Lc 6.1–5)
 
 Por Dr. Jakob van Bruggen (Holanda)[^504]
 
-#### *Introdução*
+### *Introdução*
 
-Entre a Versão Autorizada e as traduções modernas em inglês há várias diferenças que derivam de diferenças nos textos gregos adotados. Algumas vezes Nestle²⁵ (N²⁵) coloca o símbolo p) ao lado das leituras agora desprezadas, para indicar a opinião que estas leituras “provavelmente se infiltraram de um dos outros Evangelhos” (prefácio de N²⁵, pág. 80\*)[^505]. N²⁵ menciona um total de seis casos de leituras corrompidas por paralelismo no texto koinê (texto K) (ver *Tabela I*). Com isto, levanta-se suspeita sobre o texto K em geral e, em particular, contra as leituras das passagens aqui focalizadas. Assim Metzger, no seu *Textual Commentary*, escreve sobre Mateus 12.4: “Embora efagon seja apoiado apenas por ℵ B e 481, como leitura não paralela é mais provável de ter sido alterada para efagen do que vice-versa.”
+Entre a Versão Autorizada e as traduções modernas em inglês há várias diferenças que derivam de diferenças nos textos gregos adotados. Algumas vezes Nestle²⁵ (N²⁵) coloca o símbolo p) ao lado das leituras agora desprezadas, para indicar a opinião que estas leituras “provavelmente se infiltraram de um dos outros Evangelhos” (prefácio de N²⁵, pág. 80*)[^505]. N²⁵ menciona um total de seis casos de leituras corrompidas por paralelismo no texto koinê (texto K) (ver *Tabela I*). Com isto, levanta-se suspeita sobre o texto K em geral e, em particular, contra as leituras das passagens aqui focalizadas. Assim Metzger, no seu *Textual Commentary*, escreve sobre Mateus 12.4: “Embora *εφαγον* seja apoiado apenas por ℵ B e 481, como leitura não paralela é mais provável de ter sido alterada para *εφαγεν* do que vice-versa.”
 
 *Tabela I*
 
@@ -3235,9 +3487,9 @@ Lista das leituras que são qualificadas como p) em N²⁵ e pertencem ao texto 
 | :--- | :--- | :--- | :--- |
 | Mt 12.4 | B ℵ 481 ἔφαγον | *rell.* ἔφαγεν | Mc 2.26; Lc 6.4 ἔφαγεν |
 | Mt 12.4 | B D Φ *it* ὅ | ℵ C 𝔐 Q *pl* οὕς | Mc 2.26 οὕς |
-| Mc 2.26 | B D — — | ℵ C 𝔐 Q *pl* πῶς | Mt 12.4 πῶς |
-| Lc 6.2 | P⁷⁵ ᵛⁱᵈ B (D) *pc* *lat* — — | ℵ C 𝔐 Q *pl* ποιεῖν | Mt 12.2 ποιεῖν |
-| Lc 6.4 | B *al* — — | ℵ 𝔐 D Q *pm* καί | Mc 2.26 καί |
+| Mc 2.26 | B D — | ℵ C 𝔐 Q *pl* πῶς | Mt 12.4 πῶς |
+| Lc 6.2 | P⁷⁵ᵛⁱᵈ B (D) *pc* *lat* — | ℵ C 𝔐 Q *pl* ποιεῖν | Mt 12.2 ποιεῖν |
+| Lc 6.4 | B *al* — | ℵ 𝔐 D Q *pm* καί | Mc 2.26 καί |
 | Lc 6.5 | B ℵ τοῦ σαββάτου ὁ υἱὸς τοῦ ἀνθρώπου | 𝔐 (D) Q *pl* ὁ υἱὸς τοῦ ἀνθρώπου καὶ τοῦ σαββάτου | Mc 2.28 ὁ υἱὸς τοῦ ἀνθρώπου καὶ τοῦ σαββάτου |
 
 Uma comparação com o aparato crítico em *Synopsis Quattuor Evangeliorum*, de Aland (1964), mostra que a suspeita a respeito das leituras abandonadas nem sempre permanece. Duas vezes a sinopse permite a designação qualificadora p) ser abandonada e em um destes casos ela também abandona a hesitação sobre a genuidade do texto originalmente seguido (em Mc 2.26 os colchetes ao redor de πῶς desaparecem; em UBS³ eles não reaparecem). Por outro lado, uma variante não mencionada em N²⁵ é incluída como uma variante p), para descrédito do texto K (ver *Tabela II*).
@@ -3250,11 +3502,11 @@ Diferenças entre Aland (*Synopsis*) e N²⁵ concernentes às assim chamadas va
 - **Mc 2.26** — os colchetes em volta de πῶς desaparecem; a designação p) no aparato crítico é abandonada
 - **Mc 2.26** — a variante τοῖς ἱερεῦσιν (C 𝔐 A D W Q *pm* *lat*) é incluída como leitura p)
 
-#### *Número e Distribuição das Variantes p)*
+### *Número e Distribuição das Variantes p)*
 
 Um estudo das leituras que podem ser qualificadas como p) leva à conclusão que todos os tipos de texto incluem tais leituras.
 
-A lista das possíveis variantes p) (ver *Tabela III* [no final do apêndice]) inclui as duas leituras que foram qualificadas em N²⁵ (mas não na Synopsis) como leituras p). Também incluída foi a variante +deuteroprwtw de Lucas 6.1 (a omissão desta palavra é muito similar à omissão das palavras epi Abiaqar arciepewj em Marcos 2.26; este último caso foi classificado como p) por Aland, na Synopsis). Também, a inserção de twn em Lucas 6.1 foi considerada uma variante p). Assim, quatro outras variantes foram incluídas além das dezenove que Aland, na Synopsis, mencionou como variantes p), de acordo com o critério que evidentemente tinha usado nos outros dezenove casos. A inclusão destas quatro leituras (Números 2.11, 12 e 13) é mais detrimental do que vantajosa ao texto K; B tem apenas uma enquanto o texto K tem três das quatro variantes indicadas como p). A distribuição dessas possíveis variantes p) e quantas são, por manuscrito ou grupo, pode ser encontrada na metade esquerda da *Tabela III*.
+A lista das possíveis variantes p) (ver *Tabela III* [no final do apêndice]) inclui as duas leituras que foram qualificadas em N²⁵ (mas não na Synopsis) como leituras p). Também incluída foi a variante +*δευτεροπρωτω* de Lucas 6.1 (a omissão desta palavra é muito similar à omissão das palavras *επι Αβιαθαρ αρχιερεως* em Marcos 2.26; este último caso foi classificado como p) por Aland, na Synopsis). Também, a inserção de *των* em Lucas 6.1 foi considerada uma variante p). Assim, quatro outras variantes foram incluídas além das dezenove que Aland, na Synopsis, mencionou como variantes p), de acordo com o critério que evidentemente tinha usado nos outros dezenove casos. A inclusão destas quatro leituras (números 2, 11, 12 e 13) é mais detrimental do que vantajosa ao texto K; B tem apenas uma enquanto o texto K tem três das quatro variantes indicadas como p). A distribuição dessas possíveis variantes p) e quantas são, por manuscrito ou grupo, pode ser encontrada na metade esquerda da *Tabela III*.
 
 *Tabela III*[^506]
 
@@ -3262,48 +3514,48 @@ Panorama das possíveis variantes p)
 
 | Presente em (bruto)<br>ℵ B W D 𝔐 | # | Texto | Variante | Avaliação | Presente em (revisado)<br>ℵ B W D 𝔐 |
 | :---: | :---: | :--- | :--- | :--- | :---: |
-| — — — — x | 1 | Mt 12.1 | + ἐν [τοῖς σάββασιν] | // Mc | — — — x — |
+| — — x — — | 1 | Mt 12.1 | + ἐν [τοῖς σάββασιν] | // Mc | — — x — — |
 | — — x x x | 2 | Mt 12.4 | ἔφαγεν [pro ἔφαγον] | // Mc-Lc | — — x x x |
 | x — x — x | 3 | Mt 12.4 | οὕς [pro ὅ] | // Mc-Lc | x — x — x |
 | — x — x — | 4 | Mc 2.23 | διαπορεύεσθαι [pro παραπορεύεσθαι] | // Lc | — x — x — |
 | — — — x — | 5 | Mc 2.24 | + οἱ μαθηταί σου | // Mt | — — — x — |
-| — — — x — | 6 | Mc 2.24 | + ποιεῖν | // Mt-(Lc) | — — — — — |
-| — — — x — | 7 | Mc 2.25 | οὐδὲ τοῦτο [pro οὐδέποτε] | // Lc | — — — x — |
-| — — — x — | 8 | Mc 2.25 | om. χρείαν ἔσχεν καί | // Mt-Lc | — — — — — |
-| — x — x — | 9 | Mc 2.26 | om. ἐπὶ Ἀβιάθαρ ἀρχιερέως | // Mt-Lc | — x — x — |
+| — — — — — | 6 | Mc 2.24 | + ποιεῖν | // Mt-(Lc) | — — — — — |
+| — — x — — | 7 | Mc 2.25 | οὐδὲ τοῦτο [pro οὐδέποτε] | // Lc | — — x — — |
+| — — — — — | 8 | Mc 2.25 | om. χρείαν ἔσχεν καί | // Mt-Lc | — — — — — |
+| — — x x — | 9 | Mc 2.26 | om. ἐπὶ Ἀβιάθαρ ἀρχιερέως | // Mt-Lc | — — x x — |
 | — — x x x | 10 | Mc 2.26 | τοῖς ἱερεῦσιν [pro τοὺς ἱερεῖς] | // Mt; não // Lc | — — — — — |
-| x — x — x | 11 | Mc 2.26 | + πῶς (BD: omitem πῶς [Mc], ὡς [Lc]; alii: Mt: πῶς; Lc: ὡς) | BD: omitem | — — — — — |
+| x — x — x | 11 | Mc 2.26 | + πῶς | BD: omitem πῶς (Mc), ὡς (Lc); alii: Mateus: πῶς; Lucas: ὡς | — — — — — |
 | x x x — — | 12 | Lc 6.1 | om. δευτεροπρώτῳ | // Mt-Mc | x x x — — |
 | — — — x x | 13 | Lc 6.1 | + τῶν [σπορίμων] | // Mt-Mc | — — — x x |
 | — — — x — | 14 | Lc 6.1 | ἤρξαντο τίλλειν [pro ἔτιλλον] | em D // Mc | — — — ? — |
 | — — — x — | 15 | Lc 6.2 | + αὐτῷ | // Mt-Mc | — — — x — |
 | — — — x — | 16 | Lc 6.2 | ἴδε, τί ποιοῦσιν οἱ μαθηταί σου τοῖς σάββασιν ὃ οὐκ ἔξεστιν | em D // Mc | — — — ? — |
-| (x) — — (x) x | 17 | Lc 6.2 | + ποιεῖν [en ποιεῖν] | // Mt; não // Mc | — — — — — |
+| (x) — (x) — x | 17 | Lc 6.2 | + ποιεῖν ἐν / (ποιεῖν) | // Mt; não // Mc | — — — — — |
 | — — — x — | 18 | Lc 6.3 | οὐδέποτε [pro οὐδὲ τοῦτο] | // Mc | — — — x — |
 | x x x x — | 19 | Lc 6.3 | ὅτε [pro ὁπότε] | // Mt-Mc | x x x x — |
 | x x x x — | 20 | Lc 6.3 | om. ὄντες | // Mt-Mc | x x x x — |
-| x — — x x | 21 | Lc 6.4 | + καὶ [τοῖς μετ' αὐτοῦ] | uma parte // Mc | ? — — ? ? |
+| x — — x x | 21 | Lc 6.4 | + καὶ [τοῖς μετ’ αὐτοῦ] | uma parte // Mc | ? — — ? ? |
 | x — x x — | 22 | Lc 6.4 | om. λαβὼν / ἔλαβεν καί | // Mt-Mc | x — x x — |
-| — — — — x | 23 | Lc 6.5 | ὅτι [κύριός ἐστιν] ὁ υἱὸς τοῦ ἀνθρώπου καὶ τοῦ σαββάτου [pro τοῦ σαββάτου ὁ υἱὸς τοῦ ἀνθρώπου] | // Mc; não // Mt | — — — — — |
+| — — — — x | 23 | Lc 6.5 | ὅτι [κύριός ἐστιν] ὁ υἱὸς τοῦ ἀνθρώπου καὶ τοῦ σαββάτου (pro [κύριός ἐστιν] τοῦ σαββάτου ὁ υἱὸς τοῦ ἀνθρώπου) | // Mc; não // Mt | — — — — — |
 | **Total:** 7 (8) / 4 / 11 (12) / 14 / 8 | | | | **Total:** | 5 (6?) / 4 / 9 / 10 (13?) / 3 (4?) |
 
-A lista completa das variantes p) tem que ser agora cuidadosamente examinada. Se, de duas leituras, uma é similar ao evangelho-paralelo I e a outra ao evangelho-paralelo II, nenhuma das duas leituras pode ser qualificada como p) (ver Números 10.17, 23). No caso do número 11, há razões especiais para não usar a descrição p): se BD tem o texto original, será necessário admitir que em algum momento, simultaneamente, πῶς foi inserido em Marcos e ὡς em Lucas. Ademais, ainda há um número de casos que não são claros: nos Números 14.16 e 21, a assimilação possível em direção a um outro evangelho só está presente em um manuscrito, ou é acompanhada por desassimilação simultânea. Quando encaramos as variantes que restam como sendo candidatas sérias ao título p), parece que essas leituras harmonizadoras ocorrem *menos* no texto K [do que nos outros] (ver a metade direita da *Tabela III*).
+A lista completa das variantes p) tem que ser agora cuidadosamente examinada. Se, de duas leituras, uma é similar ao evangelho-paralelo I e a outra ao evangelho-paralelo II, nenhuma das duas leituras pode ser qualificada como p) (ver números 10, 17, 23). No caso do número 11, há razões especiais para não usar a descrição p): se BD tem o texto original, será necessário admitir que em algum momento, simultaneamente, πῶς foi inserido em Marcos e ὡς em Lucas. Ademais, ainda há um número de casos que não são claros: nos números 14, 16 e 21, a assimilação possível em direção a um outro evangelho só está presente em um manuscrito, ou é acompanhada por desassimilação simultânea. Quando encaramos as variantes que restam como sendo candidatas sérias ao título p), parece que essas leituras harmonizadoras ocorrem *menos* no texto K [do que nos outros] (ver a metade direita da *Tabela III*).
 
-#### *Crítica Interna e Externa*
+### *Crítica Interna e Externa*
 
-A omissão de todas as variantes p) levaria a um texto que algumas vezes segue B (Números 2.3 e 13) e algumas vezes segue o texto K (Números 4.12, 19 e 20). Os cinco pontos de diferença restantes entre B e o texto K (Números 10.11, 17, 21 e 22) podem ser resolvidos com base em considerações externas. Em quatro destes cinco casos a leitura koinê não é um *lectio* K específico, mas também ocorre em D (10, 21), W (10, 11, 17), ou ℵ (11, 17, 21). Nestes quatro casos a leitura K pode ser escolhida. Isto significa que B é seguido três vezes contra oito do texto K. Há razão de perguntar se o texto K não deve ser seguido no número 23 também, que não é uma leitura K específica.
+A omissão de todas as variantes p) levaria a um texto que algumas vezes segue B (números 2, 3 e 13) e algumas vezes segue o texto K (números 4, 12, 19 e 20). Os cinco pontos de diferença restantes entre B e o texto K (números 10, 11, 17, 21 e 22) podem ser resolvidos com base em considerações externas. Em quatro destes cinco casos a leitura koinê não é um *lectio* K específico, mas também ocorre em D (10, 21), W (10, 11, 17), ou ℵ (11, 17, 21). Nestes quatro casos a leitura K pode ser escolhida. Isto significa que B é seguido três vezes contra oito do texto K. Há razão de perguntar se o texto K não deve ser seguido no número 23 também, que não é uma leitura K específica.
 
 Na sinopse de Aland, B é seguido oito vezes (2, 3, 10, 12, 13, 17, 21, 23) e o texto K quatro vezes (4, 11, 19, 20) nas doze diferenças entre B e o texto K agora sendo discutidas. No texto da UBS³ o texto K foi abandonado no número 19 e foi colocado entre colchetes no número 20. Em consequência, B tem sido endossado nove ou dez vezes e o texto K três ou duas vezes. Isto significa que o número de leituras no texto da UBS³ qualificado como p) cresce por dois ou três (12, 19, e (20)). Este aumento na quantidade de leituras assimiladoras no texto da United Bible Societies é o resultado do abandono das leituras K sob a influência de P⁴ (em Lc 6.3, este papiro evidentemente virou a balança a favor de um ponto de vista alterado; também em Lc 6.4 a primeira palavra ὡς é colocada entre colchetes sob a influência de P⁴). Será que assimilação é objetável quando encontrada no texto K mas não quando ocorre em um papiro?
 
-Ou uma leitura não é mais chamada assimilação quando aparece em um papiro? Esta sugestão acha apoio no fato estranho que a designação p) para a leitura efagen em Mateus 12.4 é abandonada na Synopsis de Aland no momento que P⁷⁰ também é mencionado como uma testemunha desta leitura. Tal proceder suscita questionamentos concernentes à aplicabilidade da regra de crítica interna que estipula que uma leitura não paralela merece preferência.
+Ou uma leitura não é mais chamada assimilação quando aparece em um papiro? Esta sugestão acha apoio no fato estranho que a designação p) para a leitura *εφαγεν* em Mateus 12.4 é abandonada na Synopsis de Aland no momento que P⁷⁰ também é mencionado como uma testemunha desta leitura. Tal proceder suscita questionamentos concernentes à aplicabilidade da regra de crítica interna que estipula que uma leitura não paralela merece preferência.
 
-#### *Será que Variantes p) São Realmente Variantes p)?*
+### *Será que Variantes p) São Realmente Variantes p)?*
 
 A partir da pressuposição de que na transmissão do texto houve um processo de assimilação e harmonização, estudiosos começaram a distinguir entre assim chamadas leituras paralelas e leituras não paralelas. Surge a pergunta se um arcabouço não tem sido forçado sobre os dados (ver o último parágrafo).
 
 Exemplo (número 2):
 
-> A leitura *efagen* parece ser uma assimilação completa e formal a Marcos e Lucas. Contudo, como uma leitura assimilante, ela tem que ser de uma data mais tardia. Portanto, como pode ela aparecer em P⁷⁰? Aland (na Synopsis) agora abandona o sinal p) para esta leitura. Mas seguramente a natureza das leituras não muda quando elas ocorrem em papiros? A omissão por Aland da designação p) nos faz pedir um tipo de abordagem diferente para esta e outras leituras. Agora, a leitura não paralela aparente *efagon* pode ser descrita como assimilação interna (dentro de Mateus). A leitura oferece uma associação melhor com as palavras que a precedem diretamente (*epeinasen kai oi met' autou*) e com as que a seguem diretamente (*autō . . . oude tois met' autou*). No entanto, embora a leitura *efagen* corresponda formalmente a Marcos e Lucas, não o faz materialmente, pois por meio desta leitura a ênfase repousa mais na ação de *Daví* (“os que com ele estavam” agora fica na sombra). Parece ser característico e específico de Mateus que ele põe a ênfase desta passagem mais em (Daví e) Cristo pessoalmente (ver Mt 12.5–7, mas não em Marcos e Lucas). A noção “dando também aos que com Daví estavam” é ausente em Mateus. Isto sugere que a leitura *efagon* pode ser descrita como uma alteração do texto com o propósito de melhorá-lo filologicamente, mas com o efeito que ele se torna mais vago de conteúdo e mais assimilado a Marcos e Lucas, onde o ato de comer é explicitamente relativo a Jesus e seus discípulos, a Daví e as pessoas em sua companhia.
+> A leitura *εφαγεν* parece ser uma assimilação completa e formal a Marcos e Lucas. Contudo, como uma leitura assimilante, ela tem que ser de uma data mais tardia. Portanto, como pode ela aparecer em P⁷⁰? Aland (na Synopsis) agora abandona o sinal p) para esta leitura. Mas seguramente a natureza das leituras não muda quando elas ocorrem em papiros? A omissão por Aland da designação p) nos faz pedir um tipo de abordagem diferente para esta e outras leituras. Agora, a leitura não paralela aparente *εφαγον* pode ser descrita como assimilação interna (dentro de Mateus). A leitura oferece uma associação melhor com as palavras que a precedem diretamente (*επεινασεν και οι μετ’ αυτου*) e com as que a seguem diretamente (*αυτω … ουδε τοις μετ’ αυτου*). No entanto, embora a leitura *εφαγεν* corresponda formalmente a Marcos e Lucas, não o faz materialmente, pois por meio desta leitura a ênfase repousa mais na ação de *Daví* (“os que com ele estavam” agora fica na sombra). Parece ser característico e específico de Mateus que ele põe a ênfase desta passagem mais em (Daví e) Cristo pessoalmente (ver Mt 12.5–7, mas não em Marcos e Lucas). A noção “dando também aos que com Daví estavam” é ausente em Mateus. Isto sugere que a leitura *εφαγον* pode ser descrita como uma alteração do texto com o propósito de melhorá-lo filologicamente, mas com o efeito que ele se torna mais vago de conteúdo e mais assimilado a Marcos e Lucas, onde o ato de comer é explicitamente relativo a Jesus e seus discípulos, a Daví e as pessoas em sua companhia.
 
 Um novo exame das leituras que agora têm sido selecionadas como reais variantes p), leva à conclusão que estas variantes podem também ser explicadas sem o modelo p).
 
@@ -3312,14 +3564,15 @@ Um novo exame das leituras que agora têm sido selecionadas como reais variantes
 2. Em um caso a tese de influência mútua entre os Evangelhos parece aceitável porque esta influência é recíproca (números 7 e 18 vice-versa).
 
 3. Em um número razoavelmente grande de casos, variantes podem ser consideradas como resultado de melhoria filológica do texto:
+
    - **2** (ver discussão acima).
-   - **3** (Marcos e Lucas *hous ouk exestin*; Mateus *ho ouk exon ēn*).
-   - **4** (*diaporeuesthai* em conexão com *dia tōn sporimōn*).
+   - **3** (Marcos e Lucas *οὕς ουκ εξεστιν*; Mateus *ὁ ουκ εξον ἦν*).
+   - **4** (*διαπορευεσθαι* em conexão com *δια των σποριμων*).
    - **9** (omissão de um elemento difícil, aparentemente incorreto, e também dispensável).
    - **12** (como 9).
-   - **19** (*hote* neste caso é melhor grego que *hopote*).
-   - **20** (omissão de *ontes* como a remoção de redundância desnecessária).
-   - **22** (a sentença não soa bem; isto é resolvido através da omissão de *labōn* (ℵ D W), ou através da omissão de *hōs* (P⁴ B D), ver número 11).
+   - **19** (*ὅτε* neste caso é melhor grego que *ὁποτε*).
+   - **20** (omissão de *ὄντες* como a remoção de redundância desnecessária).
+   - **22** (a sentença não soa bem; isto é resolvido através da omissão de *λαβων* (ℵ D W), ou através da omissão de *ὡς* (P⁴ B D), ver número 11).
 
 Uma revisão da distribuição das leituras colocadas na coluna direita da *Tabela III* como variantes p) reais, de acordo com a avaliação agora oferecida em três grupos, leva à conclusão que as variantes f) (variantes de melhoria filológica) são totalmente ausentes no texto K (ver *Tabela IV*).
 
@@ -3335,7 +3588,7 @@ Distribuição das possíveis variantes p) de acordo com outro sistema de avalia
 
 A aplicação do critério p) levou à confusão; a aplicação do modelo f) leva à coincidência entre o critério interno e os dados externos. A ausência de variantes f) no texto K nos dá ocasião para concedermos nossa confiança a este texto.
 
-#### *Determinação de Texto*
+### *Determinação de Texto*
 
 Com o texto K como base é possível explicar as variantes divergentes (mais explícita, assimilante, melhoria filológica), mas, a partir do texto B ou do texto D, não é possível explicar como um texto K se originou (especialmente onde as leituras no texto K definidamente *não* são melhorias filológicas).
 
@@ -3347,13 +3600,13 @@ Exemplo:
 
 Um outro exemplo é a escolha da leitura *hote* por UBS³ em Lucas 6.3. Como se pode explicar que esta leitura poderia jamais ser substituída posteriormente pela leitura *hopote*, a qual se desvia de Mateus e Marcos e é um grego mais pobre?
 
-#### *Conclusão*
+### *Conclusão*
 
 No que diz respeito às passagens analisadas, o texto K é evidentemente o mais recomendável. Esta conclusão não deve ser automaticamente transferida a outras passagens. Todavia, ao aplicar o modelo presentemente em voga, para a seleção e avaliação de leituras em outros locais, ela [nossa conclusão] nos induz a testá-lo [esse modelo] criticamente contra a totalidade de uma unidade de texto literário, bem como contra as variações de leitura nela ocorrendo. Tratamento atomístico de variantes não é a mesma coisa que determinação de texto.
 
-### *Apêndice F — Marcos 16.9–20 e a Doutrina da Inspiração*
+## *Apêndice F — Marcos 16.9–20 e a Doutrina da Inspiração*
 
-#### *Introdução*
+### *Introdução*
 
 Por mais de cem anos, tem sido um clichê da crítica textual do Novo Testamento argumentar que Marcos 16.9–20 não foi e não poderia ter sido escrito por Marcos (ou por quem quer que escreveu o resto do livro), que a passagem foi adicionada posteriormente. No entanto, entre aqueles que querem crer ou afirmar que o Evangelho de Marcos foi inspirado pelo Espírito Santo, que é Palavra de Deus, não conheço ninguém que esteja preparado para crer que pode realmente ter sido a intenção de Deus terminar o livro com εφοβουντο γαρ (“porque temiam”), verso 8. A hipótese mais popular parece ser que o autógrafo foi produzido como um códice (não como um rolo) e que a folha (ou folhas) contendo o seu final original foi rasgada fora e perdida antes que qualquer cópia fosse feita[^508]. Quero examinar as implicações da alegação que os vv. 9–20 não fizeram parte do autógrafo e que o término original desapareceu por completo (qualquer que seja a explicação para tal circunstância).
 
@@ -3367,7 +3620,7 @@ Se Deus tentou mas foi impotente para impedir que Marcos fosse mutilado de tal m
 
 Que tal a outra opção — que Deus poderia ter protegido Marcos mas escolheu não fazê-lo? Que valor teria controle de qualidade se este se estendeu apenas à escrita do autógrafo? Se Deus permitiu que o final original de Marcos se perdesse antes que quaisquer cópias fossem feitas, então a biografia foi “publicada” em uma forma gravemente incompleta, e torna-se decididamente difícil falar de sua inspiração “verbal e plenária”. Se Deus permitisse uma mutilação de tal magnitude, então que segurança temos de que Ele não permitiria qualquer número de mutilações adicionais? Novamente, o problema se estende aos outros livros do Novo Testamento. Controle de qualidade teria desaparecido pela janela e teríamos sido deixados “assobiando no escuro”. Se Deus não vai proteger Seu texto, o propósito da inspiração vai se frustrar, não?
 
-#### *Mas, e Todas as Variantes, Como Ficam?*
+### *Mas, e Todas as Variantes, Como Ficam?*
 
 É um fato incontestado que os manuscritos conhecidos contêm um grande número de enganos involuntariamente cometidos no processo de copiar, e mesmo muitas alterações deliberadas. Uma vez que Deus permitiu que isso acontecesse (não há como negar), resta-nos perguntar por que o fez, e com que implicações. Primeiro, o porquê.
 
@@ -3387,7 +3640,7 @@ Quando uma legislatura está estabelecendo uma lei, grande cuidado é tomado com
 
 Pois então, por que Deus permitiu que erros se introduzissem no Texto, ou por que Ele permite interpretação imperfeita? Em primeiro lugar, toda a razão de ter uma raça humana aparentemente envolve dar-nos a capacidade e a liberdade de pecarmos e sofrermos as consequências (tanto individual como corporativamente — quanto maior for o grupo que participa de um pecado, mais sérias e de mais longo alcance são as consequências). Mas, em segundo lugar, o uso normal e diário não requer um grau de precisão superlativo — em todo caso, temos mais da Verdade de Deus do que somos capazes de apropriar. No entanto, é a disponibilidade de um padrão reconhecido que nos habilita a tolerar imperfeições secundárias, em uma dada área. Temos o tesouro em “*vasos de barro*”, mas o “*tesouro*” tem que existir!
 
-#### *Mas, os Autógrafos Não Estão Perdidos?*
+### *Mas, os Autógrafos Não Estão Perdidos?*
 
 Permanece a questão de um padrão perdido. Retornando à analogia dos instrumentos de medição, que aconteceria se alguém roubasse o metro padrão do Instituto Nacional de Pesos e Medidas? Bem, não haveria inconveniente enquanto não soubéssemos disso — continuaríamos felizes como sempre. Mas, se a perda se tornasse conhecida, então a confiança nos instrumentos individuais seria solapada e nossas transações comerciais se complicariam pelo surgimento de discussões sobre o padrão de medição (como tenho observado em certos locais). Creio que temos visto esta síndrome com referência à Bíblia. Até o século 19 quase não havia questionamento sobre o padrão, e a Bíblia era aceita como autoritativa apesar de que o texto que estavam usando não era idêntico ao Original. Mas, durante os últimos 200 anos, críticos têm convencido a maioria (na Europa e América do Norte) de que o padrão se foi, com a resultante confusão espiritual e moral que vemos por todo lado.
 
@@ -3403,17 +3656,17 @@ Em Mt 13.25 e 39 o Senhor Jesus ensinou que Satanás semeia joio entre o trigo �
 
 E agora, onde tudo isso nos deixa? Deixa-nos com milhares de cópias manuscritas (dos escritos do NT), a partir das quais podemos recuperar a exata redação dos autógrafos, desde que avaliemos as evidências com base naquilo que a Bíblia diz de si própria, de Deus e Seus propósitos, do homem, e de Satanás e suas táticas. Aos manuscritos devem ser adicionadas as declarações dos antigos Pais da Igreja e os fatos da História, conforme ambos tenham chegado até nós. Pela cuidadosa atenção a todas as considerações relevantes, podemos identificar e excluir os erros e as alterações, e afirmar com razoável certeza qual a redação dos autógrafos. (Eu diria que *The Greek New Testament According to the Majority Text* [Thomas Nelson Publishers, segunda edição, 1985] é pelo menos 99.8% puro, sem nenhuma adição de “veneno” — teremos que pagar um alto preço em detalhadas pesquisas para alcançarmos os 100%.)
 
-Uma vez que Deus o Filho, enquanto andou nesta terra, declarou enfaticamente que “*até que o céu e a terra passem, nem um jota ou um til se omitirá da Lei, sem que tudo seja cumprido*” (Mt 5.18), deduzo que Ele jamais permitiria que uma leitura genuína desaparecesse da tradição manuscrita. Sou bem ciente de que Jesus estava presumivelmente se referindo especificamente ao Pentateuco. Como então posso aplicar esta declaração ao NT? Primeiro, jotas e tis se referem a letras, não a conceitos ou ideias; de fato, o jota era a menor das letras e o til uma parte de algumas letras. As palavras do nosso Senhor constituem uma declaração um tanto radical sobre a preservação da exata forma do Texto Sagrado através dos tempos. O terceiro capítulo de 2 Coríntios deixa claro que o “*novo testamento*” (v. 6) é de “*maior glória*” (v. 8) que o antigo, incluindo o próprio Decálogo (“*gravado com letras em pedras*”, v. 7). Os capítulos 7 até 9 de Hebreus demonstram a superioridade geral do Novo Testamento sobre o Velho e o próprio Jesus tanto garante (7:22) como é o mediador (8:6) deste “melhor” testamento. Chego à conclusão que o interesse protetor que Deus tem no Novo Testamento tem de ser pelo menos tão grande quanto Seu interesse protetor no Velho. 1 Crônicas 16.15 declara que este interesse se estende por mil gerações; em outras palavras, até o fim do mundo (ainda não chegamos a 300 gerações, desde Adão).
+Uma vez que Deus o Filho, enquanto andou nesta terra, declarou enfaticamente que “*até que o céu e a terra passem, nem um jota ou um til se omitirá da Lei, sem que tudo seja cumprido*” (Mt 5.18), deduzo que Ele jamais permitiria que uma leitura genuína desaparecesse da tradição manuscrita. Sou bem ciente de que Jesus estava presumivelmente se referindo especificamente ao Pentateuco. Como então posso aplicar esta declaração ao NT? Primeiro, jotas e tis se referem a letras, não a conceitos ou ideias; de fato, o jota era a menor das letras e o til uma parte de algumas letras. As palavras do nosso Senhor constituem uma declaração um tanto radical sobre a preservação da exata forma do Texto Sagrado através dos tempos. O terceiro capítulo de 2 Coríntios deixa claro que o “*novo testamento*” (v. 6) é de “*maior glória*” (v. 8) que o antigo, incluindo o próprio Decálogo (“*gravado com letras em pedras*”, v. 7). Os capítulos 7 até 9 de Hebreus demonstram a superioridade geral do Novo Testamento sobre o Velho e o próprio Jesus tanto garante (7.22) como é o mediador (8.6) deste “melhor” testamento. Chego à conclusão que o interesse protetor que Deus tem no Novo Testamento tem de ser pelo menos tão grande quanto Seu interesse protetor no Velho. 1 Crônicas 16.15 declara que este interesse se estende por mil gerações; em outras palavras, até o fim do mundo (ainda não chegamos a 300 gerações, desde Adão).
 
 Deparar-se com a tarefa de reconhecer qual, entre duas ou mais variantes, é a redação original, é uma coisa; afirmar que algo tão crucial quanto o final de um Evangelho tem desaparecido sem deixar vestígios é outra coisa totalmente diferente. Se Mc 16.9–20 não for genuíno, então a declaração de Cristo em Mt 5.18 parece estar errada.
 
-#### *A Questão da Canonicidade*
+### *A Questão da Canonicidade*
 
 Há uma pergunta adicional — em primeiro lugar, por que afirmamos que Marcos é “Evangelho”? De onde ele obteve sua canonicidade? Ou, em outras palavras, se Deus vai inspirar um texto para ser usado pelas gerações subsequentes, Ele tem que garantir que as pessoas o reconhecerão como inspirado. Se a natureza de tal texto não é percebida e ele é relegado ao esquecimento, ou tratado sem nenhum respeito a mais que qualquer outra peça de literatura, então o propósito de Deus será frustrado. Então, por que dizemos que o Evangelho de Marcos é “Bíblia”? Porque a Igreja, em sua capacidade corporativa, assim o tem declarado, e tal ela tem feito através dos séculos, a partir do segundo (pelo menos). (Não temos evidência concreta do primeiro século, mas a temos do segundo e de todos os séculos subsequentes.) Foi necessário que Deus operasse através da Igreja para assegurar tanto a canonicidade (o reconhecimento público de sua qualidade) como a preservação [de cada livro da Bíblia]. (Eu diria que a qualidade superior dos escritos inspirados é intrínseca e pode ser percebida por uma pessoa espiritual em qualquer era, mas se a Igreja primitiva não os tivesse reconhecido eles não teriam sido copiados através dos séculos e assim não nos teriam chegado às mãos.)
 
 O que tem a Igreja dito sobre Mc 16.9–20, através dos séculos? Com voz unida, quase unânime, ela tem declarado a canonicidade da passagem. Se ela se enganou neste ponto, como sabemos que não se enganou a respeito do restante do livro? Mas desde que sua voz não foi unânime, o próximo passo a tomar é rever a evidência.
 
-#### *A Evidência Externa*
+### *A Evidência Externa*
 
 A passagem em questão está contida em cada manuscrito grego conhecido (cerca de 1800) exceto três: os códices B (Vaticanus) e ℵ (Sinaiticus), e o minúsculo 304, do século XII. Também está contida em todo lecionário conhecido (lecionários são coleções das lições [e leituras] da Escritura, ligadas ao calendário eclesiástico). A importância desta evidência lecionária tem sido explicada por J. W. Burgon: “Que lições do Novo Testamento eram publicamente lidas nas congregações dos fiéis, seguindo um esquema definido, e em um sistema estabelecido pelo menos tão cedo quanto no quarto século — tem sido mostrado ser um fato histórico indisputado.”[^512] E, novamente:
 
@@ -3425,7 +3678,7 @@ Antes que a Igreja começasse a produzir lecionários como tais, manuscritos nor
 
 Considere o que Bruce Metzger escreve concernente ao MS 2386:
 
-> Este último, no entanto, é apenas uma testemunha aparente da omissão, pois embora a última página de Marcos termine com εφοβουντο γαρ [“porque temiam”], a próxima folha do manuscrito está faltando, e logo após 16:8 está o sinal indicando o encerramento de uma leitura-lição eclesiástica ... , uma clara implicação de que o manuscrito originalmente continuava com material adicional de Marcos[^515].
+> Este último, no entanto, é apenas uma testemunha aparente da omissão, pois embora a última página de Marcos termine com εφοβουντο γαρ [“porque temiam”], a próxima folha do manuscrito está faltando, e logo após 16.8 está o sinal indicando o encerramento de uma leitura-lição eclesiástica … , uma clara implicação de que o manuscrito originalmente continuava com material adicional de Marcos[^515].
 
 Notar sua “clara implicação.” Não é óbvio? Não se pode ler além do fim de um livro, assim não faz sentido se colocar ali um sinal de divisão entre leituras-lições. Isto nos faz indagar quais as intenções dos editores de UBS³. No aparato deles, como evidência para a omissão dos vv. 9–20, incluem “(Lect? A leitura-lição termina no verso 8)” — isto presumivelmente se refere a sinais de leituras-lições nas margens, uma vez que não pode significar que os lecionários não têm vv. 9–20. Mas sinais de leituras-lições na margem são evidências a favor, não contra! Notar que, ao discutir a evidência para conjuntos de variantes dentro dos vv. 9–20, UBS³ invariavelmente cita *Byz Lect*, o que significa que seus editores reconhecem que os lecionários contêm a passagem. De fato, da circunstância que eles também listam *l*185m, parece que o lecionário 185 é o único que não tem os versos no Synaxarion (eles aparecem apenas no Menologion).
 
@@ -3437,7 +3690,7 @@ O Diatessaron (de acordo com as tradições árabe, italiana e antiga holandesa)
 
 Clemente de Alexandria e Orígenes são usualmente citados como sendo contra a passagem, mas este é um argumento pelo silêncio[^518]. Emerge que as obras sobreviventes de Clemente não se referem ao último capítulo de Marcos, mas também não se referem ao último capítulo de Mateus. E daí?
 
-A principal fonte patrística usada contra Mc 16.9–20 é Eusébio. Parece que ele escreveu uma defesa contra quatro discrepâncias alegadas entre os relatos da ressurreição nos evangelhos, propostas por um certo “Marinus” (nosso conhecimento baseia-se em um sumário, feito no décimo século, do que ele presumivelmente escreveu, um sumário ao qual falta consistência interna). A primeira discrepância alegada é entre Mt 28.1 e Mc 16.9. Fica claro que “Marinus” está aceitando que v. 9 é “Evangelho” genuíno ou não haveria nenhum problema; então podemos concluir que ele entendeu que esta era a posição da Igreja. Que Eusébio gasta tempo para responder aponta na mesma direção. Ademais, respondendo à segunda discrepância alegada, Eusébio simplesmente assume a genuinidade do relato de Marcos e argumenta que a mudança de fraseologia em Mateus tem sido mal entendida. No entanto, ao responder à primeira alegação (de acordo com o sumário) ele oferece duas opções: “Alguém poderia dizer que a passagem não é contida em todas as cópias do evangelho de Marcos ...; um outro diz que ambos os relatos (Mateus e Marcos) são genuínos e têm que ser propriamente entendidos.” Com a primeira opção ele emprega o modo optativo [no verbo “poderia dizer”, no grego], apropriado ao gênero de retórica hipotética (o que significa que nada dito pelo orador hipotético está sendo endossado por Eusébio), enquanto na segunda opção ele muda para o modo indicativo, o que leva a presumir que é esta uma indicação de que ele próprio considerava ser esta segunda posição a correta — tanto que quando passa à segunda discrepância, ele não oferece a opção de rejeitar a passagem.
+A principal fonte patrística usada contra Mc 16.9–20 é Eusébio. Parece que ele escreveu uma defesa contra quatro discrepâncias alegadas entre os relatos da ressurreição nos evangelhos, propostas por um certo “Marinus” (nosso conhecimento baseia-se em um sumário, feito no décimo século, do que ele presumivelmente escreveu, um sumário ao qual falta consistência interna). A primeira discrepância alegada é entre Mt 28.1 e Mc 16.9. Fica claro que “Marinus” está aceitando que v. 9 é “Evangelho” genuíno ou não haveria nenhum problema; então podemos concluir que ele entendeu que esta era a posição da Igreja. Que Eusébio gasta tempo para responder aponta na mesma direção. Ademais, respondendo à segunda discrepância alegada, Eusébio simplesmente assume a genuinidade do relato de Marcos e argumenta que a mudança de fraseologia em Mateus tem sido mal entendida. No entanto, ao responder à primeira alegação (de acordo com o sumário) ele oferece duas opções: “Alguém poderia dizer que a passagem não é contida em todas as cópias do evangelho de Marcos …; um outro diz que ambos os relatos (Mateus e Marcos) são genuínos e têm que ser propriamente entendidos.” Com a primeira opção ele emprega o modo optativo [no verbo “poderia dizer”, no grego], apropriado ao gênero de retórica hipotética (o que significa que nada dito pelo orador hipotético está sendo endossado por Eusébio), enquanto na segunda opção ele muda para o modo indicativo, o que leva a presumir que é esta uma indicação de que ele próprio considerava ser esta segunda posição a correta — tanto que quando passa à segunda discrepância, ele não oferece a opção de rejeitar a passagem.
 
 No entanto, os “cânones” ou “seções” de Eusébio (mas não as assim chamadas “seções de Amônius”) podem não ter incluído vv. 9–20. Em alguns MSS gregos o número de seção 233 é colocado na margem ao lado de v. 8 e é o último tal número (em Marcos) — o que significa que a seção 233 começava no v. 8, mas desde que muitas “seções” continham mais que um verso, não sabemos a extensão desta. Mas há mais coisas na estória. Burgon checou 151 MSS gregos que têm as “seções eusebianas” marcadas na margem e ofereceu a seguinte tabulação dos resultados:
 
@@ -3456,7 +3709,7 @@ Adicionado a isto, a seguinte informação pode ser de interesse:
 
 - o MS mais antigo que termina com 232 é A do século V,
 - o MS mais antigo que termina com 233 é L do século VIII,
-- o MS mais antigo que termina com 234 é ∆ do século IX,
+- o MS mais antigo que termina com 234 é Δ do século IX,
 - o MS mais antigo que termina com 237 é Λ do século IX,
 - o MS mais antigo que termina com 239 é G do século IX,
 - o MS mais antigo que termina com 240 é H do século IX,
@@ -3484,17 +3737,17 @@ Quanto ao códice ℵ, a folha dobrada contendo o final de Marcos e o início de
 
 Em suma: cada MS grego conhecido (cerca de 1,800) exceto dois (B e 304 — ℵ não é “conhecido” porque é forjado neste ponto) contém os vv. 9–20. Cada lecionário grego conhecido (cerca de 2000?) os contém (um deles, 185, os contém somente no Menologion). Cada MS siríaco conhecido (cerca de 1000?) exceto um (Sinaítico) os contém. Cada MS latino conhecido (8000?) exceto um (k) os contém. Cada MS cóptico conhecido exceto um os contém. A favor da “inclusão”, temos evidência concreta a partir do 2º século (Irineu, Diatessaron?). A favor da “exclusão”, não temos nenhuma evidência sólida semelhante.
 
-Pareceria que, em algum momento durante o 3º século, MSS omitindo a passagem começaram a ser produzidos no Egito, provavelmente em Alexandria, dos quais dois (ou um) do quarto século têm sobrevivido até os nossos dias. Embora a posição omitidora tenha ganho alguma circulação no Egito, ela não se firmou nem mesmo lá, uma vez que a maioria das testemunhas alexandrinas, incluindo a versão cóptica, contém os versos. Os tradutores da versão armeniana tinham estudado em Alexandria, e a versão georgiana foi baseada na armeniana, o que explica como a posição omitidora escapou do Egito. O resto do mundo cristão parece não ter tomado conhecimento desta aberração. Como declarado na abertura deste apêndice, com voz unida através dos séculos, em todas as partes do mundo (incluindo o Egito), a Igreja universal tem afirmado e insistido que o evangelho de Marcos vai desde 1:1 até 16:20. Face a tudo isto, como pode alguém que nega a autenticidade de Mc 16.9–20 ainda afirmar a inspiração divina de Mc 1.1–16.8? Não está ele sendo incoerente?
+Pareceria que, em algum momento durante o 3º século, MSS omitindo a passagem começaram a ser produzidos no Egito, provavelmente em Alexandria, dos quais dois (ou um) do quarto século têm sobrevivido até os nossos dias. Embora a posição omitidora tenha ganho alguma circulação no Egito, ela não se firmou nem mesmo lá, uma vez que a maioria das testemunhas alexandrinas, incluindo a versão cóptica, contém os versos. Os tradutores da versão armeniana tinham estudado em Alexandria, e a versão georgiana foi baseada na armeniana, o que explica como a posição omitidora escapou do Egito. O resto do mundo cristão parece não ter tomado conhecimento desta aberração. Como declarado na abertura deste apêndice, com voz unida através dos séculos, em todas as partes do mundo (incluindo o Egito), a Igreja universal tem afirmado e insistido que o evangelho de Marcos vai desde 1.1 até 16.20. Face a tudo isto, como pode alguém que nega a autenticidade de Mc 16.9–20 ainda afirmar a inspiração divina de Mc 1.1–16.8? Não está ele sendo incoerente?
 
-#### *A “Evidência?” Interna*
+### *A “Evidência?” Interna*
 
-Não deveria ser necessário prolongar este exercício, mas provavelmente algo deve ser dito a respeito da “evidência interna” que alguns críticos sentem ser fatal à passagem. Dizem-nos que Marcos “nunca” usa certas palavras ou frases que, no entanto, ocorrem no trecho em disputa; que outras palavras ou frases que ele “sempre” usa estão faltando; que o estilo é “estranho” a Marcos; que há problemas insuperáveis com a estrutura de discurso e com o próprio conteúdo; em uma palavra, que é “impossível” que a mesma pessoa possa ter escrito 1:1–16:8 e 16:9–20. E agora, que fazer?
+Não deveria ser necessário prolongar este exercício, mas provavelmente algo deve ser dito a respeito da “evidência interna” que alguns críticos sentem ser fatal à passagem. Dizem-nos que Marcos “nunca” usa certas palavras ou frases que, no entanto, ocorrem no trecho em disputa; que outras palavras ou frases que ele “sempre” usa estão faltando; que o estilo é “estranho” a Marcos; que há problemas insuperáveis com a estrutura de discurso e com o próprio conteúdo; em uma palavra, que é “impossível” que a mesma pessoa possa ter escrito 1.1–16.8 e 16.9–20. E agora, que fazer?
 
 A maioria dos “argumentos” deste tipo que têm sido proposta revela um decepcionante grau de superficialidade ao pesquisar e ignorância da linguagem. Tais supostos argumentos foram completamente refutados há mais de 100 anos, por J. A. Broadus (*The Baptist Quarterly*, July, 1869, pags. 355–62) e por Burgon (pags. 136–90). Um tratamento moderno (1975) é oferecido por Farmer (pags. 79–103). Eu responderei a um argumento que pode parecer impressivo a um leitor sem muita experiência.
 
-Tem sido alegada como uma circunstância sinistra que Jesus não é mencionado por nome no v. 9 (e nem nos versos seguintes). As regras de estrutura de discurso têm sido violadas, assim dizem eles. Realmente? Consideremos a prática de Marcos em outros locais. Entre Mc 9.27 e 9.39 Jesus não é mencionado por nome, embora lá hajam duas quebras de parágrafo e uma quebra de seção, mais duas mudanças de local. O próximo ponto onde Jesus é mencionado é 10:5, cinco versos depois de uma quebra de seção e uma outra mudança de local. Entre Mc 3.7 e 5.6 (75 versos) Jesus não é nomeado embora hajam numerosos participantes e diversas mudanças radicais de local, cena e conteúdo. Em cada caso é apenas quando um outro homem é introduzido na narrativa (criando um potencial de ambiguidade) que Jesus é novamente nomeado, uma vez que um mero pronome seria ambíguo quanto a quem se refere. Em Marcos 16 só há uma pessoa morta sendo focalizada, precisamente o participante que tem dominado todo o livro, de sorte que v. 9 só pode se referir a Ele — não há ambiguidade e assim um nome próprio não é necessário. Ao longo dos vv. 9–20 nenhum outro participante singular masculino é introduzido e assim não há necessidade de identificar Jesus por nome. Em contraste, Maria Madalena teve de ser completamente identificada, porque não apenas há mais que uma mulher na narrativa, mas há mais que uma Maria! (A informação sobre os antecedentes, “da qual tinha expulsado sete demônios” (v. 9), é perfeitamente apropriada aqui, e só aqui, porque esta é a primeira vez que ela é enfocada. Nas referências anteriores ela somente fazia parte do grupo.)
+Tem sido alegada como uma circunstância sinistra que Jesus não é mencionado por nome no v. 9 (e nem nos versos seguintes). As regras de estrutura de discurso têm sido violadas, assim dizem eles. Realmente? Consideremos a prática de Marcos em outros locais. Entre Mc 9.27 e 9.39 Jesus não é mencionado por nome, embora lá hajam duas quebras de parágrafo e uma quebra de seção, mais duas mudanças de local. O próximo ponto onde Jesus é mencionado é 10.5, cinco versos depois de uma quebra de seção e uma outra mudança de local. Entre Mc 3.7 e 5.6 (75 versos) Jesus não é nomeado embora hajam numerosos participantes e diversas mudanças radicais de local, cena e conteúdo. Em cada caso é apenas quando um outro homem é introduzido na narrativa (criando um potencial de ambiguidade) que Jesus é novamente nomeado, uma vez que um mero pronome seria ambíguo quanto a quem se refere. Em Marcos 16 só há uma pessoa morta sendo focalizada, precisamente o participante que tem dominado todo o livro, de sorte que v. 9 só pode se referir a Ele — não há ambiguidade e assim um nome próprio não é necessário. Ao longo dos vv. 9–20 nenhum outro participante singular masculino é introduzido e assim não há necessidade de identificar Jesus por nome. Em contraste, Maria Madalena teve de ser completamente identificada, porque não apenas há mais que uma mulher na narrativa, mas há mais que uma Maria! (A informação sobre os antecedentes, “da qual tinha expulsado sete demônios” (v. 9), é perfeitamente apropriada aqui, e só aqui, porque esta é a primeira vez que ela é enfocada. Nas referências anteriores ela somente fazia parte do grupo.)
 
-Há um aspecto desta situação que não tem recebido atenção suficiente, até onde sei. Quanto mais estridente e cáustico um crítico se torna em proclamar a “impossibilidade” de aceitar Mc 16.9–20 como genuíno (por causa de estilo, vocabulário e fatores de discurso), mais ele insulta os antigos e solapa a sua própria posição. Afinal de contas, Irineu falava grego koinê como nativo (presumivelmente) — por que não notou ele a “impossibilidade”? Como é que os que falavam grego koinê como língua nativa, que viverem na Grécia e Ásia Menor, e que copiaram Marcos através dos anos, não reconheceram a “óbvia estupidez”, a “odiosa mentira”? Como? Como é que críticos modernos (que lidam com grego koinê como uma língua morta e a uma distância de 1800 anos) podem ser mais competentes para julgar algo como isto do que os que tinham grego koinê como língua nativa e que estavam na cena? Irineu conheceu Policarpo pessoalmente, o qual conheceu o apóstolo João pessoalmente, o qual conheceu Marcos pessoalmente. Irineu declara que Marcos escreveu 16:19. Quem entre nós está qualificado para dizer que Irineu estava iludido?
+Há um aspecto desta situação que não tem recebido atenção suficiente, até onde sei. Quanto mais estridente e cáustico um crítico se torna em proclamar a “impossibilidade” de aceitar Mc 16.9–20 como genuíno (por causa de estilo, vocabulário e fatores de discurso), mais ele insulta os antigos e solapa a sua própria posição. Afinal de contas, Irineu falava grego koinê como nativo (presumivelmente) — por que não notou ele a “impossibilidade”? Como é que os que falavam grego koinê como língua nativa, que viverem na Grécia e Ásia Menor, e que copiaram Marcos através dos anos, não reconheceram a “óbvia estupidez”, a “odiosa mentira”? Como? Como é que críticos modernos (que lidam com grego koinê como uma língua morta e a uma distância de 1800 anos) podem ser mais competentes para julgar algo como isto do que os que tinham grego koinê como língua nativa e que estavam na cena? Irineu conheceu Policarpo pessoalmente, o qual conheceu o apóstolo João pessoalmente, o qual conheceu Marcos pessoalmente. Irineu declara que Marcos escreveu 16.19. Quem entre nós está qualificado para dizer que Irineu estava iludido?
 
 Pareceria ser óbvio que quanto mais absurda se afirma ser a passagem, mais difícil se torna explicar como ela se impôs à Igreja universal, a partir (pelo menos) do segundo século. De fato, se a passagem contém dificuldades, isto poderia facilmente explicar sua omissão em certas regiões. As dificuldades percebidas seriam um estímulo mais que suficiente para ativar editores e copistas treinados na escola alexandrina de crítica textual. Na verdade, em nossos próprios dias há não poucos que acham o conteúdo de Mc 16.9–20 impalatável e que saúdam com alívio a alegação que a passagem é espúria.
 
@@ -3514,11 +3767,11 @@ O que me chama a atenção aqui é a falta de precisão semântica no uso da pal
 
 Fico imaginando, às vezes, se as pessoas realmente creem no que o Jesus glorificado disse em Apocalipse 22.19.
 
-### *Apêndice G — Um Estema Diferente para João 7.53–8.11*
+## *Apêndice G — Um Estema Diferente para João 7.53–8.11*
 
-#### *Análise*
+### *Análise*
 
-As críticas ao “*The Greek New Testament according to the Majority Text”* que já vi quase sempre se prendem (entre outras coisas) à reconstrução genealógica[^525] de João 7.53–8.11. Elas notam que, de um total de 27 vezes (onde o aparato mostra que os MSS estão significantemente divididos), 16 vezes a leitura preferida é minoritária, sendo que 11 vezes a minoria é menor que 30%! Os críticos descobrem que a discussão das leituras variantes tem um cheiro de Hort — leituras minoritárias são preferidas ao invés de majoritárias, com base na evidência interna. Tal procedimento deixa de lado o argumento da probabilidade estatística (que é usualmente associado com a Teoria do Texto Majoritário). Eles apontam a discrepância entre teoria e prática, e especulam sobre o que falhou. Será que, quando confrontada com colações razoavelmente completas dos MSS conhecidos, a teoria simplesmente não funciona? De qualquer modo, por que dizer que o texto está “de acordo com a maioria”, quando não está?
+As críticas ao “*The Greek New Testament according to the Majority Text*” que já vi quase sempre se prendem (entre outras coisas) à reconstrução genealógica[^525] de João 7.53–8.11. Elas notam que, de um total de 27 vezes (onde o aparato mostra que os MSS estão significantemente divididos), 16 vezes a leitura preferida é minoritária, sendo que 11 vezes a minoria é menor que 30%! Os críticos descobrem que a discussão das leituras variantes tem um cheiro de Hort — leituras minoritárias são preferidas ao invés de majoritárias, com base na evidência interna. Tal procedimento deixa de lado o argumento da probabilidade estatística (que é usualmente associado com a Teoria do Texto Majoritário). Eles apontam a discrepância entre teoria e prática, e especulam sobre o que falhou. Será que, quando confrontada com colações razoavelmente completas dos MSS conhecidos, a teoria simplesmente não funciona? De qualquer modo, por que dizer que o texto está “de acordo com a maioria”, quando não está?
 
 Em Apocalipse deparamo-nos com uma situação onde uma maioria absoluta frequentemente não é disponível. Onde uma leitura majoritária não existe somos obrigados a usar uma leitura minoritária e defender nossa escolha o melhor que pudermos[^526]. João 7.53–8.11 é bastante diferente — de um total de 33 conjuntos de variantes significativos, somente a 1 deles falta uma leitura majoritária clara. Se o estema oferecido na página xxv da “Introduction” (do *Majority Text*, de H-F) fosse incontroversível, então suponho que deveríamos todos aceitar lealmente as consequências, mas eu acho que tanto o estema quanto a discussão dos 21 conjuntos de variantes são menos que convincentes. Uma vez que o autor da “Introdução” reconhece que a reconstrução estemática (de João 7.53–8.11) precisa ser “avaliada com afinco”, e que isto “pede a cooperação de muitas mentes” (pag. xxxii), aventuro-me a oferecer a seguinte reconstrução alternativa como meu quinhão de “cooperação”.
 
@@ -3527,99 +3780,97 @@ Este artigo baseia-se em uma cuidadosa checagem de von Soden, feita por W.G. Pie
 - **7** = cerca de 260 MSS, que equivalem a 29% do total
 - **6** = 246 MSS (216 “relativamente puros” + 30 outros), que equivalem a 27%
 - **5** = cerca de 280 MSS, que equivalem a 31%
-- **4** = 29 } que somam 45 MSS
-- **3** = 16 } } que somam 118 MSS, que equivalem a 13%
-- **2** = 50 } } que somam 73 MSS
-- **1** = 23
+- **4** = 29 MSS e **3** = 16 MSS (somam 45 MSS)
+- **2** = 50 MSS e **1** = 23 MSS (somam 73 MSS; os grupos 4, 3, 2 e 1 somam 118 MSS, que equivalem a 13%)
 
 Com esse pano de fundo, agora apresento os 33 conjuntos de variantes sobre os quais este estudo se baseia. O total é às vezes 99% ou 101% porque arredondei frações para números inteiros. Os grupos M4,3,2,1 são frequentemente divididos internamente, e os MSS que os constituem muitas vezes se dispersam entre uma variedade de variantes adicionais que não estão registradas na tabulação que segue, razão pela qual os grupos nem sempre somam 100%. Uso [ ] para 1–20%, ( ) para 21–95%, e somente o número inteiro para 95+%.
 
 | # | Verso | Variantes | M7 | M6 | M5 | M4 | M3 | M2 | M1 | % |
 |---|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 01 | 7:53 | απηλθεν | 7 | 6 | - | (48%) | [6%] | [4%] | [9%] | 57 |
+| 01 | 7.53 | απηλθεν | 7 | 6 | - | (48%) | [6%] | [4%] | [9%] | 57 |
 | | | απηλθον | - | - | - | (48%) | [12%] | [4%] | (22%) | 2 |
 | | | **VS** | | | | | | | | |
 | | | επορευθη | - | - | 5 | - | (76%) | (24%) | [4%] | 34 |
 | | | επορευθησαν | - | - | - | [3%] | [6%] | (66%) | (65%) | 5 |
-| 02 | 8:1 | Ιησους δε | 7 | - | 5 | - | (76%) | (68%) | (65%) | 67 |
+| 02 | 8.1 | Ιησους δε | 7 | - | 5 | - | (76%) | (68%) | (65%) | 67 |
 | | | **VS** | | | | | | | | |
 | | | και ο Ιησους | - | 6 | - | [3%] | [6%] | (26%) | (22%) | 29 |
 | | | και Ιησους | - | - | - | 4 | [18%] | - | - | 3 |
-| 03 | 8:2 | − − − | 7 | - | 5 | (86%) | 3 | (90%) | 1 | 73 |
+| 03 | 8.2 | − − − | 7 | - | 5 | (86%) | 3 | (90%) | 1 | 73 |
 | | | **VS** | | | | | | | | |
 | | | βαθεως | - | 6 | - | [14%] | - | [10%] | - | 28 |
-| 04 | 8:2 | παρεγενετο | 7 | - | 5 | [7%] | 3 | (90%) | (70%) | 67 |
+| 04 | 8.2 | παρεγενετο | 7 | - | 5 | [7%] | 3 | (90%) | (70%) | 67 |
 | | | παραγινεται | - | - | - | - | - | - | (22%) | 1 |
 | | | **VS** | | | | | | | | |
 | | | ηλθεν ο Ιησους | - | 6 | - | - | - | [10%] | - | 28 |
 | | | ηλθεν | - | - | - | (93%) | - | - | - | 3 |
-| 05 | 8:2 | προς αυτον | 7 | 6 | - | (45%) | 3 | 2 | (83%) | 66 |
+| 05 | 8.2 | προς αυτον | 7 | 6 | - | (45%) | 3 | 2 | (83%) | 66 |
 | | | **VS** | | | | | | | | |
 | | | − − − | - | - | 5 | - | - | - | [17%] | 32 |
-| | | *(omitem 8:2bc)* | - | - | - | (55%) | - | - | - | 2 |
-| 06 | 8:3 | προς αυτον | 7 | (53%) | 5 | [14%] | (69%) | [16%] | (61%) | 78 |
+| | | *(omitem 8.2bc)* | - | - | - | (55%) | - | - | - | 2 |
+| 06 | 8.3 | προς αυτον | 7 | (53%) | 5 | [14%] | (69%) | [16%] | (61%) | 78 |
 | | | **VS** | | | | | | | | |
 | | | − − − | - | (47%) | - | (86%) | (31%) | (84%) | (39%) | 22 |
-| 07 | 8:3 | επι | 7 | 6 | - | 4 | 3 | 2 | (74%) | 68 |
+| 07 | 8.3 | επι | 7 | 6 | - | 4 | 3 | 2 | (74%) | 68 |
 | | | **VS** | | | | | | | | |
 | | | εν | - | - | 5 | - | - | - | (26%) | 32 |
-| 08 | 8:3 | κατειληµµενην | 7 | 6 | - | 4 | 3 | 2 | (61%) | 68 |
+| 08 | 8.3 | κατειλημμενην | 7 | 6 | - | 4 | 3 | 2 | (61%) | 68 |
 | | | **VS** | | | | | | | | |
 | | | καταληφθεισαν | - | - | 5 | - | - | - | (30%) | 32 |
-| 09 | 8:3 | εν | 7 | - | 5 | [7%] | - | (78%) | 1 | 67 |
+| 09 | 8.3 | εν | 7 | - | 5 | [7%] | - | (78%) | 1 | 67 |
 | | | **VS** | | | | | | | | |
 | | | εν τω | - | 6 | - | (93%) | 3 | (22%) | - | 33 |
-| 10 | 8:4 | λεγουσιν | 7 | - | 5 | - | - | (78%) | (91%) | 67 |
+| 10 | 8.4 | λεγουσιν | 7 | - | 5 | - | - | (78%) | (91%) | 67 |
 | | | **VS** | | | | | | | | |
 | | | ειπον | - | 6 | - | 4 | 3 | (22%) | [9%] | 33 |
-| 11 | 8:4 | − − − | 7 | 6 | - | (93%) | 3 | 2 | (35%) | 67 |
+| 11 | 8.4 | − − − | 7 | 6 | - | (93%) | 3 | 2 | (35%) | 67 |
 | | | **VS** | | | | | | | | |
 | | | πειραζοντες | - | - | 5 | [7%] | - | - | (57%) | 33 |
-| 12 | 8:4 | αυτην | 7 | 6 | - | - | - | - | - | 56 |
+| 12 | 8.4 | αυτην | 7 | 6 | - | - | - | - | - | 56 |
 | | | **VS** | | | | | | | | |
 | | | αυτη η γυνη | - | - | 5 | 4 | 3 | 2 | 1 | 44 |
-| 13 | 8:4 | ευροµεν | 7 | 6 | - | - | - | - | [13%] | 56 |
+| 13 | 8.4 | ευρομεν | 7 | 6 | - | - | - | - | [13%] | 56 |
 | | | **VS** | | | | | | | | |
 | | | κατεληφθη | - | - | 5 | [17%] | - | [8%] | - | 31 |
 | | | ειληπται | - | - | - | (76%) | 3 | (80%) | [13%] | 9 |
 | | | κατειληπται | - | - | - | [7%] | - | [12%] | (74%) | 3 |
-| 14 | 8:4 | µοιχευοµενην | 7 | 6 | - | - | - | - | - | 56 |
+| 14 | 8.4 | μοιχευομενην | 7 | 6 | - | - | - | - | - | 56 |
 | | | **VS** | | | | | | | | |
-| | | µοιχευοµενη | - | - | 5 | 4 | 3 | 2 | 1 | 44 |
-| 15 | 8:5 | ηµων Μωσης | 7 | 6 | - | - | (50%) | 2 | - | 62 |
-| | | ηµιν Μωσης | - | - | - | 4 | (50%) | - | (20%) | 5 |
+| | | μοιχευομενη | - | - | 5 | 4 | 3 | 2 | 1 | 44 |
+| 15 | 8.5 | ημων Μωσης | 7 | 6 | - | - | (50%) | 2 | - | 62 |
+| | | ημιν Μωσης | - | - | - | 4 | (50%) | - | (20%) | 5 |
 | | | Μωσης | - | - | - | - | - | - | (23%) | |
 | | | **VS** | | | | | | | | |
-| | | Μωσης ηµιν | - | - | 5 | - | - | - | (57%) | 32 |
-| 16 | 8:5 | λιθοβολεισθαι | 7 | - | 5 | - | - | - | (48%) | 61 |
+| | | Μωσης ημιν | - | - | 5 | - | - | - | (57%) | 32 |
+| 16 | 8.5 | λιθοβολεισθαι | 7 | - | 5 | - | - | - | (48%) | 61 |
 | | | **VS** | | | | | | | | |
 | | | λιθαζειν | - | 6 | - | 4 | 3 | (88%) | (52%) | 38 |
 | | | λιθαζεσθαι | - | - | - | - | - | [12%] | - | 1 |
-| 17 | 8:5 | − − − | 7 | (39%) | 5 | - | - | (24%) | (48%) | 73 |
+| 17 | 8.5 | − − − | 7 | (39%) | 5 | - | - | (24%) | (48%) | 73 |
 | | | **VS** | | | | | | | | |
 | | | περι αυτης | - | (61%) | - | 4 | 3 | (76%) | (52%) | 27 |
-| 18 | 8:6 | εχωσι | 7 | 6 | 5 | - | (31%) | (26%) | [13%] | 90 |
+| 18 | 8.6 | εχωσι | 7 | 6 | 5 | - | (31%) | (26%) | [13%] | 90 |
 | | | **VS** | | | | | | | | |
 | | | σχωσι | - | - | - | - | (69%) | (74%) | [13%] | 5 |
 | | | εχουσι | - | - | - | 4 | - | - | - | 3 |
 | | | ευρωσι | - | - | - | - | - | - | (73%) | 2 |
-| 19 | 8:6 | κατηγοριαν κατ | 7 | 6 | - | 4 | 3 | 2 | (35%) | 67 |
+| 19 | 8.6 | κατηγοριαν κατ | 7 | 6 | - | 4 | 3 | 2 | (35%) | 67 |
 | | | **VS** | | | | | | | | |
 | | | κατηγορειν | - | - | 5 | - | - | - | (65%) | 33 |
-| 20 | 8:6 | µη προσποιουµενος | 7 | (45%) | 5 | - | - | - | (48%) | 73 |
+| 20 | 8.6 | μη προσποιουμενος | 7 | (45%) | 5 | - | - | - | (48%) | 73 |
 | | | **VS** | | | | | | | | |
 | | | − − − | - | (55%) | - | 4 | 3 | 2 | (52%) | 27 |
-| 21 | 8:7 | ερωτωντες | 7 | - | 5 | 4 | 3 | (62%) | 1 | 71 |
+| 21 | 8.7 | ερωτωντες | 7 | - | 5 | 4 | 3 | (62%) | 1 | 71 |
 | | | **VS** | | | | | | | | |
 | | | επερωτωντες | - | 6 | - | - | - | (38%) | - | 29 |
-| 22 | 8:7 | ανακυψας | 7 | - | 5 | [10%] | [12%] | (30%) | (61%) | 65 |
+| 22 | 8.7 | ανακυψας | 7 | - | 5 | [10%] | [12%] | (30%) | (61%) | 65 |
 | | | ανεκυψε και | - | - | - | (90%) | (70%) | (66%) | [17%] | 8 |
 | | | **VS** | | | | | | | | |
 | | | αναβλεψας | - | 6 | - | - | [18%] | [4%] | (22%) | 27 |
-| 23 | 8:7 | προς αυτους | 7 | [4%] | 5 | - | - | - | (39%) | 61 |
+| 23 | 8.7 | προς αυτους | 7 | [4%] | 5 | - | - | - | (39%) | 61 |
 | | | **VS** | | | | | | | | |
 | | | αυτοις | - | 6 | - | 4 | 3 | 2 | (61%) | 38 |
-| 24 | 8:7 | **OD \| OI \| V**[^527] | | | | | | | | |
+| 24 | 8.7 | **OD \| OI \| V**[^527] | | | | | | | | |
 | | | τ. λ. \| ε. −η \| β. | 7 | - | - | - | - | - | - | 29 |
 | | | **VS** (**OD \| V \| OI**) | | | | | | | | |
 | | | λ. \| β. \| ε. −ην | - | 6 | - | - | [19%] | - | [9%] | 27 |
@@ -3640,42 +3891,42 @@ Com esse pano de fundo, agora apresento os 33 conjuntos de variantes sobre os qu
 
 | # | Verso | Variantes | M7 | M6 | M5 | M4 | M3 | M2 | M1 | % |
 |---|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 25 | 8:9 | και υπο της σ. ε. | 7 | (46%) | 5 | (21%) | - | (24%) | - | 74 |
+| 25 | 8.9 | και υπο της σ. ε. | 7 | (46%) | 5 | (21%) | - | (24%) | - | 74 |
 | | | και | - | - | - | (79%) | - | - | - | 2 |
 | | | **VS** | | | | | | | | |
 | | | − − − | - | (54%) | - | - | 3 | (76%) | 1 | 24 |
-| 26 | 8:9 | εως των εσχατων | 7 | 6 | - | 4 | 3 | (88%) | - | 62 |
+| 26 | 8.9 | εως των εσχατων | 7 | 6 | - | 4 | 3 | (88%) | - | 62 |
 | | | **VS** | | | | | | | | |
 | | | − − − | - | - | 5 | - | - | [12%] | 1 | 38 |
-| 27 | 8:9 | µονος ο Ιησους | 7 | (38%) | 5 | - | - | (48%) | (78%) | 74 |
-| | | µονος | - | - | - | - | - | [10%] | (22%) | 2 |
+| 27 | 8.9 | μονος ο Ιησους | 7 | (38%) | 5 | - | - | (48%) | (78%) | 74 |
+| | | μονος | - | - | - | - | - | [10%] | (22%) | 2 |
 | | | **VS** | | | | | | | | |
-| | | ο Ιησους µονος | - | (62%) | - | (24%) | - | (28%) | - | 19 |
+| | | ο Ιησους μονος | - | (62%) | - | (24%) | - | (28%) | - | 19 |
 | | | ο Ιησους | - | - | - | (72%) | 3 | [14%] | - | 5 |
-| 28 | 8:10 | και µ. θ. π. της γ. | 7 | [4%] | 5 | - | (31%) | [14%] | - | 63 |
+| 28 | 8.10 | και μ. θ. π. της γ. | 7 | [4%] | 5 | - | (31%) | [14%] | - | 63 |
 | | | **VS** | | | | | | | | |
 | | | ειδεν αυτην και | - | 6 | - | 4 | (69%) | [10%] | - | 32 |
 | | | **VS** | | | | | | | | |
 | | | − − − | - | - | - | - | - | (76%) | 1 | 6 |
-| 29 | 8:10 | αυτη | 7 | [3%] | 5 | - | - | - | (65%) | 62 |
+| 29 | 8.10 | αυτη | 7 | [3%] | 5 | - | - | - | (65%) | 62 |
 | | | **VS** | | | | | | | | |
 | | | γυναι | - | 6 | - | - | (35%) | [16%] | - | 28 |
 | | | **VS** | | | | | | | | |
 | | | αυτη γυναι | - | - | - | 4 | (65%) | (84%) | - | 9 |
 | | | τη γυναικι | - | - | - | - | - | - | (26%) | 1 |
-| 30 | 8:10 | εκεινοι οι κ. σου | 7 | (35%) | 5 | - | - | [4%] | - | 69 |
+| 30 | 8.10 | εκεινοι οι κ. σου | 7 | (35%) | 5 | - | - | [4%] | - | 69 |
 | | | **VS** | | | | | | | | |
-| | | ο κ. σου | - | (65%) | - | (66%) | 3 | (48%) | (74%) | 27 |
+| | | οι κ. σου | - | (65%) | - | (66%) | 3 | (48%) | (74%) | 27 |
 | | | − − − | - | - | - | (31%) | - | (48%) | (26%) | 4 |
-| 31 | 8:11 | ειπεν δε αυτη ο Ιησους | 7 | 6 | - | - | - | (27%) | (48%) | 59 |
+| 31 | 8.11 | ειπεν δε αυτη ο Ιησους | 7 | 6 | - | - | - | (27%) | (48%) | 59 |
 | | | ειπεν δε −−−− ο Ιησους | - | - | 5 | - | - | (63%) | (26%) | 35 |
 | | | **VS** | | | | | | | | |
 | | | ο δε Ιησους ειπεν αυτη | - | - | - | (62%) | 3 | [10%] | [13%] | 5 |
 | | | ο −− Ιησους ειπεν αυτη | - | - | - | (35%) | - | - | - | 1 |
-| 32 | 8:11 | κατακρινω | 7 | 6 | - | 4 | 3 | 2 | 1 | 69 |
+| 32 | 8.11 | κατακρινω | 7 | 6 | - | 4 | 3 | 2 | 1 | 69 |
 | | | **VS** | | | | | | | | |
 | | | − − − | - | - | 5 | - | - | - | - | 31 |
-| 33 | 8:11 | και απο του νυν | 7 | 6 | - | [10%] | (82%) | 2 | (57%) | 64 |
+| 33 | 8.11 | και απο του νυν | 7 | 6 | - | [10%] | (82%) | 2 | (57%) | 64 |
 | | | **VS** | | | | | | | | |
 | | | και | - | - | 5 | (66%) | [18%] | - | (39%) | 34 |
 | | | − − − | - | - | - | (24%) | - | - | [4%] | 1 |
@@ -3688,7 +3939,7 @@ b) **7** e **5** são os únicos grupos que nunca se dividem em subgrupos (de ac
 
 c) **5** e **6**, cada um deles ergue-se sozinho contra o resto do estema — uma circunstância condenatória. **6** o faz três vezes (#3, #21, #22), mais duas vezes adicionais onde influencia o grupo **4** (#2, #4). **5** o faz quatro vezes (#5, #7, #8, #32), mais quatro vezes adicionais onde influencia o grupo **1** (#11, #15, #19, #26).
 
-d) **5** e **6** (completo) nunca concordam (onde um dos três grupos principais diverge) — eles são os extremos[^528]. (o que torna improvável que qualquer deles seja o mais próximo do autógrafo).
+d) **5** e **6** (completo) nunca concordam (onde um dos três grupos principais diverge) — eles são os extremos (o que torna improvável que qualquer deles seja o mais próximo do autógrafo)[^528].
 
 e) **3, 4** e **1, 2** evidentemente formam grupos no próximo nível acima, os quais são eles próprios proximamente aparentados.
 
@@ -3716,7 +3967,7 @@ No entanto, parece claro que esses quatro grupos realmente existem e é geralmen
 
 É evidente que 2,1 formam um grupo e 4,3 formam um grupo; que eles juntos formam um grupo maior é claramente demonstrado pela tabulação que segue. A proximidade aparente de 3,2 deve-se a que eles são os membros mais constantes dos seus subgrupos, 4 e 1 sendo mais erráticos (4 tem cinco leituras singulares, além de assimilar-se a 6 três vezes; 1 tem duas leituras singulares além de assimilar-se a 5 cinco vezes; enquanto 3 e 2 não têm nenhuma leitura singular). Onde 3,2 concordam eles preservam a leitura do avô. Eu chamo de j o pai de 2,1, chamo de k o pai de 4,3, e chamo de h o pai de j e k.
 
-A tabulação que segue torna mais fácil vermos o padrão. A leitura de 7 é sempre “x”; se a de 6 difere ela é sempre “y”; se a de 5 difere ela é sempre “z”. “w” é usada para qualquer variante distinta das três primeiras. Colchetes [ ] são usados quando uma variante é claramente derivada de outra. Chaves { } são usadas para uma segunda variante derivada. Parênteses ( ) são usados para indicar agrupamentos separados. Barras inclinadas para trás \ \ são usadas quando um agrupamento é anômalo. Um ponto de interrogação ? significa que não sei o que está ocorrendo. A coluna “=” dá a leitura seguida por h e demonstra que h tem um texto misto.
+A tabulação que segue torna mais fácil vermos o padrão. A leitura de 7 é sempre “x”; se a de 6 difere ela é sempre “y”; se a de 5 difere ela é sempre “z”. “w” é usada para qualquer variante distinta das três primeiras. Colchetes [ ] são usados quando uma variante é claramente derivada de outra. Chaves { } são usadas para uma segunda variante derivada. Parênteses ( ) são usados para indicar agrupamentos separados. Barras inclinadas para trás `\ \` são usadas quando um agrupamento é anômalo. Um ponto de interrogação ? significa que não sei o que está ocorrendo. A coluna “=” dá a leitura seguida por h e demonstra que h tem um texto misto.
 
 | # | 7 | 6 | 5 | 4 | 3 | 2 | 1 | h | = |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -3725,7 +3976,7 @@ A tabulação que segue torna mais fácil vermos o padrão. A leitura de 7 é se
 | #03) | x | y | x | x | x | x | x | 4,3,2,1 | x |
 | #04) | x | y | x | [y] | x | x | x | 3,2,1 | x |
 | #05) | x | x | z | x/w | x | x | x | /,3,2,1 | x |
-| #06) | x | x/y | x | y | x | y | x | \4,2\\\3,1\ | ? |
+| #06) | x | x/y | x | y | x | y | x | `\4,2\\3,1\` | ? |
 | #07) | x | x | z | x | x | x | x | 4,3,2,1 | x |
 | #08) | x | x | z | x | x | x | x | 4,3,2,1 | x |
 | #09) | x | y | x | y | y | x | x | (4,3)(2,1) | y/x |
@@ -3769,23 +4020,25 @@ Concluo que 7 é independente e está no mesmo nível dos exemplares de 5 e 6. I
 
 Um desenho ajudará a visualizar as opções. Considere:
 
-![Figura 7: Estemas hipotéticos para os subgrupos de João 7:53–8:11](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-7.webp)
+![Estemas hipotéticos para 7, 6 e 5 (João 7.53–8.11)](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-7.webp)
 
 Se 7 é visto como uma mistura de 5 e 6, a seleção uniforme é estranha, além de uma total ausência de conflações. As seis leituras divididas em 6, mais o fato que 6 tem sete leituras singulares e 5 tem cinco leituras singulares, enquanto 7 tem somente uma leitura singular (precisamente onde todos os três discordam), apontam para a) como a melhor interpretação.
+
+![Estemas hipotéticos para 6, 5 e h (João 7.53–8.11)](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-7b.webp)
 
 Uma vez que h tem óbvias leituras secundárias, incluindo duas conflações, mais um tanto de mistura, b) parece ser a interpretação exigida. Evidentemente h dependeu mais pesadamente do ancestral de 6 do que daquele de 5.
 
 Agora, ofereço um estema que creio casar com e explicar a evidência estatística que acabei de descrever. O autógrafo é representado por “A”. As letras f, g, h, j, k designam arquétipos reconstruídos. Os números dentro dos nodos são aqueles dos grupos de MSS de Soden. Os números ao lado dos nodos referem-se aos conjuntos de variantes nos quais os nodos introduzem um erro (tais erros vindicam chegarmos à suposição de um nodo, especialmente aqueles reconstruídos): assim f introduz 5 erros, 7 não introduz nenhum, g introduz treze, etc. As linhas sólidas indicam descendência linear, as linhas interrompidas indicam influência ocasional (quanto menores os tracinhos, menor a influência). A simetria é arbitrária, como também a cronologia. Não estou interessado em defender a cronologia, mas acontece que penso que ela está perto da realidade — é uma aproximação possível e até mesmo razoável.
 
-![Figura 8: Estema geral da transmissão de João 7:53–8:11](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-8.webp)
+![Estema geral da transmissão de João 7.53–8.11](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-8.webp)
 
 Antes de retornar aos conjuntos de variantes para discutir probabilidades transcricionais, quero comentar o estema. 7, f e g são independentes um do outro, todavia, em qualquer ponto, somente um abandona o original (exceto por #24 onde dois deles [ou todos os três] o fazem, em direções separadas). Isto é exatamente o que esperaríamos de uma transmissão normal, onde os arquétipos em um dado nível são independentes (um do outro). Com exceção de #24 há sempre uma maioria absoluta, da qual 7 sempre faz parte. Considero que 7 tem fielmente preservado o autógrafo[^529], inclusive em #24 (ver a discussão de probabilidades transcricionais, abaixo). f é tolerável, mas g é um desgarrado, como também é 5. h tem um texto misto. (A colocação de “Latim” e “Egito” é deliberada: parece-me que 6 e 4 refletem influência “egípcia”, ao passo que 5 e 1 refletem influência “latina”.)
 
-Agora, às probabilidades. Os conjuntos de variantes são tomados em sequência linear, começando em 7:53:
+Agora, às probabilidades. Os conjuntos de variantes são tomados em sequência linear, começando em 7.53:
 
 #1) **7** e **g** preservam o original; **6** influencia **4**. **f** cria uma variante e influencia **h**; **j** muda **h**. Presumivelmente as formas plurais foram assimilações impensadas ao sujeito do verso 52. A leitura de **3, 5** é possivelmente uma harmonização com o mesmo verbo na linha seguinte.
 
-#2) **7**, **f** e **g** preservam o original. **6** cria uma variante e influencia **4**. Uma vez que o principal participante ou foco muda de 7:53 para 8:1, o δε é exigido (uma norma da estrutura de discurso em grego koinê). **6** tem uma mudança estilística inepta. **4** segue **6** mas abandona o artigo.
+#2) **7**, **f** e **g** preservam o original. **6** cria uma variante e influencia **4**. Uma vez que o principal participante ou foco muda de 7.53 para 8.1, o δε é exigido (uma norma da estrutura de discurso em grego koinê). **6** tem uma mudança estilística inepta. **4** segue **6** mas abandona o artigo.
 
 #3) **7**, **f** e **g** preservam o original. **6** cria uma variante. Talvez nunca saberemos o que deu em **6** aqui e no próximo exemplo. Em Lc 24.1 realmente era “muito cedo” (ainda escuro) mas aqui já haviam pessoas no Templo. O fato de “muito” separar o advérbio “novamente” do seu verbo é contramão. De qualquer modo, é dificilmente acreditável que **6** possa estar correto contra todo o estema.
 
@@ -3799,7 +4052,7 @@ Agora, às probabilidades. Os conjuntos de variantes são tomados em sequência 
 
 #8) **7**, **f** e **g** preservam o original. **5** cria uma variante e influencia (**1**). Esta variante evidentemente segue a precedente. Não vejo nada suficiente para derrubar a evidência externa.
 
-#9) **7** e **f** preservam o original; **g** cria uma variante e é seguido por **6** e **h**; **5** influencia **j**. Pode ter sido pensado que o artigo era estilisticamente melhor. Quando µεσος é parte de uma frase preposicional e é modificado por uma construção genitiva, nenhum artigo ocorre; sem o modificador um artigo frequentemente ocorre, mas nem sempre — como no v. 9 abaixo. Evidência externa tem que decidir a questão.
+#9) **7** e **f** preservam o original; **g** cria uma variante e é seguido por **6** e **h**; **5** influencia **j**. Pode ter sido pensado que o artigo era estilisticamente melhor. Quando μεσος é parte de uma frase preposicional e é modificado por uma construção genitiva, nenhum artigo ocorre; sem o modificador um artigo frequentemente ocorre, mas nem sempre — como no v. 9 abaixo. Evidência externa tem que decidir a questão.
 
 #10) **7** e **f** preservam o original; **g** cria uma variante e é seguido por **6** e **h**; **5** influencia **j**. Este verbo é paralelo a aquele que começa o v. 3, assim o tempo presente lhe é apropriado. O tempo aoristo é presumivelmente uma assimilação superficial ao particípio umas poucas palavras atrás.
 
@@ -3865,7 +4118,7 @@ Presumindo que 7 está correto todas as outras vezes, ele tem de longe o melhor 
 
 O racha entre (1),(2),3 pró o artigo e (1),(2),4 contra ele, é estematicamente anômalo — sinto-me obrigado a concluir que houve muito “fazer sua própria escolha” neste caso.
 
-O mesmo racha entre o dativo versus o acusativo também é anômalo, embora, uma vez que *epi* leva ambos os casos, esta mudança específica pode ter acontecido independentemente mais que uma vez. Não é meu costume preferir leituras “mais difíceis” ou mais embaraçosas, mas talvez este seja um local apropriado para converter aquele cheque em dinheiro. Se 7 é estilisticamente mais contramão que algumas das outras variantes, então ele pode ter dado origem a elas.
+O mesmo racha entre o dativo versus o acusativo também é anômalo, embora, uma vez que *επι* leva ambos os casos, esta mudança específica pode ter acontecido independentemente mais que uma vez. Não é meu costume preferir leituras “mais difíceis” ou mais embaraçosas, mas talvez este seja um local apropriado para converter aquele cheque em dinheiro. Se 7 é estilisticamente mais contramão que algumas das outras variantes, então ele pode ter dado origem a elas.
 
 #25) **7** e **f** preservam o original; **g** cria uma variante, seguido por **6** e **h**; **7** influencia (**6**); **4** cria uma variante. Seguramente seria mais fácil omitir uma cláusula deste tipo e tamanho do que inventá-la, especialmente se ela ocupou somente uma linha. **4** é doido; especulação nem adianta.
 
@@ -3878,8 +4131,8 @@ O mesmo racha entre o dativo versus o acusativo também é anômalo, embora, uma
 É muito mais provável que ele supriria algo tal como a leitura mais curta e deixaria “mulher” intata. Mas de cara a leitura mais longa não é do tipo que um copista formularia a partir do nada. Se começamos com a leitura mais longa é fácil de ver onde alguém pode ter se perturbado com a contradição aparente — ela diz que Jesus “não viu ninguém” exceto a mulher quando na realidade havia uma multidão observando os procedimentos. Daí ele “soluciona” o problema por substituí-la pela inócua leitura mais curta; mas agora ele tem dois pronomes muito juntos um do outro, portanto ele muda o segundo para “mulher”. Pode ser instrutivo combinar os conjuntos #28) e #29):
 
 ```text
-και µηδενα θεασαµενος πλην της γυναικος ειπεν αυτη          7,5
-και µηδενα θεασαµενος πλην της γυναικος ειπεν γυναι         (3)
+και μηδενα θεασαμενος πλην της γυναικος ειπεν αυτη          7,5
+και μηδενα θεασαμενος πλην της γυναικος ειπεν γυναι         (3)
 ειδεν αυτην και ειπεν γυναι                                 6
 ειδεν αυτην και ειπεν αυτη γυναι                            4(3)
 ειπεν αυτη γυναι                                            2
@@ -3906,9 +4159,9 @@ De tudo isso, que temos aprendido quanto a nossos interesses maiores? Ao meu ver
 
 Para concluir, se o efeito essencial da minha discussão é convincente a meus pares, recomendo encarecidamente que, em qualquer reimpressão futura do *Majority Text* de H-F, o texto de João 7.53–8.11 seja corrigido de modo a refletir a atestação majoritária. (O mesmo se estende ao *Byzantine/Majority Textform* de R-P.)[^530] Também seria necessário revisar a discussão correspondente, na “Introdução”. À medida que nossa teoria é vista como uma ameaça ao Sistema, certamente será atacada, sabemos, mas não vejo virtude em oferecer munição gratuita.
 
-### *Apêndice H — Que Diferença Faz?*
+## *Apêndice H — Que Diferença Faz?*
 
-#### *Introdução*
+### *Introdução*
 
 Por pelo menos 200 anos tem sido comumente argumentado que, não importa qual o texto grego que se use, nenhuma doutrina será afetada[^531]. Na minha própria experiência, por mais de 30 anos, quando tenho levantado a questão de qual é o texto grego correto do Novo Testamento, a resposta mais comum, seja qual for o auditório, tem sido: “Que diferença faz?” O propósito deste artigo é responder essa pergunta, pelo menos em parte.
 
@@ -3920,26 +4173,26 @@ As consequências de tudo isto para o futuro da Igreja são sérias e de longo a
 
 Nos exemplos que seguem, a redação do Texto Majoritário vem sempre primeiro e a do texto da UBS³ logo depois, seguida por quaisquer outras. Imediatamente abaixo de cada variante está um equivalente literal em português. A cada variante está anexada uma relação do apoio, por manuscritos e por versões, do tipo que se pode encontrar no aparato crítico de UBS³, por exemplo. (Muitos leigos não saberão como interpretar estas relações de apoio; neste caso deverão pular para o “Problema” — vale notar, todavia, que “Biz” normalmente representa acima de 90% dos MSS gregos sobreviventes [conhecidos]). O conjunto de variantes, com suas respectivas atestações, é seguido por uma discussão das implicações. Primeiro apresentarei erros de fato e contradições, depois anomalias sérias e aberrações.
 
-#### *Erros de Fato e Contradições*
+### *Erros de Fato e Contradições*
 
-##### Lucas 4.44
+#### Lucas 4.44
 
 ```text
-Γαλιλαιας −− A, D, E, G, K, M, U, X, Y, Γ, ∆, Θ, Π, Ψ, 047, 0211, +6unc, f¹³, 33, Biz, lat, sirᵖ
+Γαλιλαιας −− A, D, E, G, K, M, U, X, Y, Γ, Δ, Θ, Π, Ψ, 047, 0211, +6unc, f¹³, 33, Biz, lat, sirᵖ
 [nas sinagogas] da Galileia
 
-Ιουδαιας −− P⁷⁵vid, ℵ, B, C, L, Q, R (W) f¹, Lec, sirˢ, ʰ, cop
+Ιουδαιας −− P⁷⁵ᵛⁱᵈ, ℵ, B, C, L, Q, R (W) f¹, Lec, sirˢ,ʰ, cop
 [nas sinagogas] da Judeia
 ```
 
 **Problema:** Jesus estava na Galileia (e continuou lá), não na Judeia, como o contexto deixa claro.
 
-**Discussão:** Na passagem paralela (Marcos 1.35–39), todos os textos concordam que Jesus estava na Galileia. Assim, a UBS³ contradiz a si própria ao trazer Judeia em Lucas 4.44. Bruce Metzger deixa evidente que os editores da UBS fizeram isto propositadamente, quando ele explica que a redação deles “é obviamente a mais difícil, e copistas a corrigiram... de acordo com as [passagens] paralelas de Mt 4.23 e Mc 1.39.”[^535] Assim, os editores da UBS introduziram no texto deles uma contradição que é também um erro de fato. Este erro no Texto Eclético é reproduzido pelas LB, NIV, NASB, NEB, RSV, etc. A NRSV acrescenta insulto à injúria: “Assim ele continuou proclamando a mensagem nas sinagogas da Judeia.”
+**Discussão:** Na passagem paralela (Marcos 1.35–39), todos os textos concordam que Jesus estava na Galileia. Assim, a UBS³ contradiz a si própria ao trazer Judeia em Lucas 4.44. Bruce Metzger deixa evidente que os editores da UBS fizeram isto propositadamente, quando ele explica que a redação deles “é obviamente a mais difícil, e copistas a corrigiram… de acordo com as [passagens] paralelas de Mt 4.23 e Mc 1.39.”[^535] Assim, os editores da UBS introduziram no texto deles uma contradição que é também um erro de fato. Este erro no Texto Eclético é reproduzido pelas LB, NIV, NASB, NEB, RSV, etc. A NRSV acrescenta insulto à injúria: “Assim ele continuou proclamando a mensagem nas sinagogas da Judeia.”
 
-##### Lucas 23.45[^536]
+#### Lucas 23.45[^536]
 
 ```text
-εσκοτισθη −− A, Cᶜ, D, E, G, K, M, Q, R, U, V, W, X, Y, Γ, ∆, Θ, Π, Ψ, 0117, 0135, +5unc, f¹,¹³, Biz, Lec, lat, sir, Diat
+εσκοτισθη −− A, Cᶜ, D, E, G, K, M, Q, R, U, V, W, X, Y, Γ, Δ, Θ, Π, Ψ, 0117, 0135, +5unc, f¹,¹³, Biz, Lec, lat, sir, Diat
 [o sol] escureceu-se
 
 εκλιποντος −− P⁷⁵, ℵ (B, Cᵛⁱᵈ) L, 0124 (cop)
@@ -3950,13 +4203,13 @@ Nos exemplos que seguem, a redação do Texto Majoritário vem sempre primeiro e
 
 **Discussão:** O verbo grego εκλειπω é bastante comum e tem o significado básico de “falhar” ou “terminar”, mas quando usado em respeito ao sol ou à lua, refere-se a um eclipse (a nossa palavra “eclipse” vem daquela raiz grega). Tanto é assim que versões tais como a de Moffatt, a “Twentieth Century”, a “Authentic”, a de Phillips, a NEB, a “New Berkeley”, a NAB e a “Jerusalem”, abertamente declaram que o sol entrou em eclipse. Enquanto versões tais como as NASB, TEV e NIV evitam a palavra “eclipse”, o significado normal do Texto Eclético que elas seguem é precisamente “o sol entrando em eclipse.”[^537]
 
-##### Marcos 6.22
+#### Marcos 6.22
 
 ```text
-αυτης της Ηρωδιαδος −− A, C, E, G, H, K, M, N, S, U, V (W, Θ) Y, Γ, Π, Σ, Φ, Ω, f¹(¹³), 33, Biz, Lec, lat (sir, cop, Diat)
-[a filha] ela própria de Herodias
+αυτης της Ηρωδιαδος −− A, C, E, G, H, K, M, N, S, U, V (W, Θ) Y, Γ, Π, Σ, Φ, Ω, f⁽¹⁾¹³, 33, Biz, Lec, lat
+[a filha] ela própria de Herodias (sir, cop, Diat)
 
-αυτου Ηρωδιαδος −− ℵ, B, D, L, ∆
+αυτου − Ηρωδιαδος −− ℵ, B, D, L, Δ
 dele [filha] Herodias
 ```
 
@@ -3964,69 +4217,69 @@ dele [filha] Herodias
 
 **Discussão:** Mateus 14.6 declara que a moça era a filha de Herodias (esta tinha sido esposa de Filipe, mas agora estava vivendo com o irmão dele, Herodes). Aqui a UBS faz aquela moça ser a própria filha de Herodes, e chama a ela de “Herodias.” Metzger defende a escolha da comissão da UBS com estas palavras: “É muito difícil decidir qual redação é a menos insatisfatória” (pag. 89)! (Os editores da UBS consideram que a redação original está perdida? Se não, ela também tem que [lhes] ser “insatisfatória”! Mas são aqueles editores realmente competentes para fazer um tal julgamento? E, exatamente o que será que torna ‘insatisfatória’ a redação de 99+% dos manuscritos? Deve ser porque não cria problema.) As versões modernas que normalmente se identificam com o texto da UBS aqui o abandonam, exceto a NRSV, que lê “Herodias, a filha dele.”
 
-##### 1 Coríntios 5.1
+#### 1 Coríntios 5.1
 
 ```text
-ονοµαζεται −− P⁴⁶ᶜ, ℵᶜ, Ψ, Biz (96,8% dos MSS), sir
+ονομαζεται −− P⁶⁸, ℵᶜ, Ψ, Biz (96,8% dos MSS), sir
 se nomeia
 
---- --- −− P⁴⁶*, ℵ*, A, B, C, D, F, G, 33, lat, cop
+- - - −− P⁴⁶, ℵ*, A, B, C, D, F, G, 33, lat, cop
 ```
 
 **Problema:** É relatado que um homem possuía a esposa do seu pai, um tipo de fornicação tal que nem mesmo os gentios falavam dele. No entanto, o texto da UBS afirma que este tipo de incesto nem mesmo existe entre os gentios, uma mentira óbvia. Cada tipo concebível de perversão sexual humana tem existido através de toda a História.
 
 **Discussão:** Estranhamente, versões evangélicas tais como NIV, NASB, Berkeley e LB propagam este erro. Acho interessante que versões tais como TEV, NEB e “Jerusalem”, embora seguindo o mesmo texto, evitam uma declaração categórica[^538].
 
-##### Lucas 3.33
+#### Lucas 3.33
 
 ```text
-του Αµιναδαβ, του Αραµ −− A, E, G, K, N, ∆, Π, Ψ, 047, 0211 (D, Θ) +7unc (f¹) 33, Biz, Lec, lat, sirᵖ, ʰ
-de Aminadabe de Arão
+του Αμιναδαβ,   του Αραμ −− A, E, G, K, N, Δ, Π, Ψ, 047, 0211 (D, Θ) +7unc (f¹) 33, Biz, Lec, lat, sirᵖ,ʰ
+de Aminadabe    de Arão
 
-του Αµιναδαβ, του Αδµιν, του Αρνι −− nenhum manuscrito!!
-de Aminadabe de Admin, de Arni
+του Αμιναδαβ,   του Αδμιν,    του Αρνι −− nenhum manuscrito!!
+de Aminadabe    de Admin,     de Arni
 
-του Αδµειν, του Αρνει −− B
-του Αδαµ, του Αρνι −− sirˢ(?)
-του Αδαµ, του Αδµιν, του Αρνει −− ℵ*
-του Αδαµ, του Αδµειν, του Αρνει −− copˢᵃ
-του Αδµειν, του Αδµιν, του Αρνι −− copᵇᵒ
-του Αµιναδαβ, του Αδµιν, του Αρνει −− ℵᶜ
-του Αµιναδαβ, του Αδµιν, του Αρηι −− f¹³
-του Αµιναδαβ, του Αδµη, του Αρνι −− X
-του Αµιναδαβ, του Αδµειν, του Αρνι −− L
-του Αµιναδαβ, του Αδµειν, του Αραµ −− 0102 (P⁴?)
+του Αδμειν,     του Αρνει −− B
+του Αδαμ,       του Αρνι? −− sirˢ
+του Αδαμ, του Αδμιν, του Αρνει −− ℵ*
+του Αδαμ, του Αδμειν, του Αρνει −− copˢᵃ
+του Αδμειν, του Αδμιν, του Αρνι −− copᵇᵒ
+του Αμιναδαβ, του Αδμιν, του Αρνει −− ℵᶜ
+του Αμιναδαβ, του Αδμιν, του Αρηι −− f¹³
+του Αμιναδαβ, του Αδμη, του Αρνι −− X
+του Αμιναδαβ, του Αδμειν, του Αρνι −− L
+του Αμιναδαβ, του Αδμειν, του Αραμ −− 0102 (P⁴?)
 ```
 
 **Problema:** Os fictícios Admin e Arni são introduzidos na genealogia de Cristo.
 
 **Discussão:** O texto da UBS tem distorcido a evidência no seu aparato crítico, de modo a esconder o fato que nenhum MS grego tem o texto exato que imprimiram, uma verdadeira “colcha de retalhos.” Ao apresentar o raciocínio da Comissão da UBS neste caso, Metzger escreve: “A Comissão adotou o que parecia ser a forma menos insatisfatória do texto” (pag. 136). Mas que arrogância sem medida!! Os editores da UBS inventam sua própria redação e a proclamam ser “a menos insatisfatória”! E o que exatamente pode ser “insatisfatório” na redação de 99+% dos MSS, exceto que não introduz quaisquer dificuldades?
 
-Há completa confusão no arraial Egípcio. Essa confusão deve ter começado no segundo século, resultando de alguns erros fáceis de ocorrer ao transcrever, simples enganos ao copiar. É muito fácil mudar *ARAM* para *ARNI* (nos primeiros séculos, somente letras maiúsculas eram usadas): com uma pena de escrever que começa a arranhar, os traços cruzantes no *A* e no *M* poderiam ficar fracos, e um copista subsequente poderia confundir a perna esquerda do *M* como acompanhando o Λ, de modo a fazer um *N*, e a perna direita do *M* se tornaria um *I.* Muito cedo “Aminadabe” foi soletrado errado, como “Aminadam”, o que sobreviveu em cerca de 25% dos manuscritos existentes. O Α∆ΑΜ de Aleph, sirˢ e copˢᵃ surgiu de uma fácil instância de *homoioarcton* (o olho do copista foi do primeiro A em “Aminadabe” para o segundo, omitindo “Amin” e deixando “Adam”). *A* e ∆ são facilmente confundíveis, especialmente quando escritos à mão — “Admin” presumivelmente veio de “AMINadab/m”, embora o processo fosse mais complicado. O “i” de “Admin” e “Arni” é adulterado para “ei” em Códice B (uma ocorrência frequente nesse MS — talvez devido à influência Cóptica). Códice Aleph fez a conflação do ancestral que produziu “Adam” com aquele que produziu “Admin”, etc. A confusão total no Egito não nos surpreende, mas como explicaremos o texto e aparato da UBS neste exemplo? E o que poderia ter se apoderado dos editores da NASB, NRSV, TEV, LB, Berkeley, etc. para abraçarem um erro tão grosseiro[^539]?
+Há completa confusão no arraial Egípcio. Essa confusão deve ter começado no segundo século, resultando de alguns erros fáceis de ocorrer ao transcrever, simples enganos ao copiar. É muito fácil mudar *ARAM* para *ARNI* (nos primeiros séculos, somente letras maiúsculas eram usadas): com uma pena de escrever que começa a arranhar, os traços cruzantes no *A* e no *M* poderiam ficar fracos, e um copista subsequente poderia confundir a perna esquerda do *M* como acompanhando o Λ, de modo a fazer um *N*, e a perna direita do *M* se tornaria um *I.* Muito cedo “Aminadabe” foi soletrado errado, como “Aminadam”, o que sobreviveu em cerca de 25% dos manuscritos existentes. O ΑΔΑΜ de Aleph, sirˢ e copˢᵃ surgiu de uma fácil instância de *homoioarcton* (o olho do copista foi do primeiro A em “Aminadabe” para o segundo, omitindo “Amin” e deixando “Adam”). *A* e Δ são facilmente confundíveis, especialmente quando escritos à mão — “Admin” presumivelmente veio de “AMINadab/m”, embora o processo fosse mais complicado. O “i” de “Admin” e “Arni” é adulterado para “ei” em Códice B (uma ocorrência frequente nesse MS — talvez devido à influência Cóptica). Códice Aleph fez a conflação do ancestral que produziu “Adam” com aquele que produziu “Admin”, etc. A confusão total no Egito não nos surpreende, mas como explicaremos o texto e aparato da UBS neste exemplo? E o que poderia ter se apoderado dos editores da NASB, NRSV, TEV, LB, Berkeley, etc. para abraçarem um erro tão grosseiro[^539]?
 
-##### Mateus 19.17
+#### Mateus 19.17
 
 ```text
-Τι µε λεγεις αγαθον; ουδεις αγαθος ει µη εις, ο θεος −− C, E, F, G, H, K, M, S, U, V, W, Y, ∆, Σ, Φ, Ω, f¹³, 33, Biz, Lec, sirᵖ, ʰ, copˢᵃ, Diat
+Τι με λεγεις αγαθον; ουδεις αγαθος ει μη εις, ο θεος −− C, E, F, G, H, K, M, S, U, V, W, Y, Δ, Σ, Φ, Ω, f¹³, 33, Biz, Lec, sirᵖ, ʰ, copˢᵃ, Diat
 Por que me chamas bom? Não há bom senão um só, que é Deus!
 
-Τι µε ερωτας περι του αγαθου; εις εστιν ο αγαθος −− ℵ, L, Θ (B, D, f¹, sirˢ)
+Τι με ερωτας περι του αγαθου; εις εστιν ο αγαθος −− ℵ, L, Θ (B, D, f¹, sirˢ)
 Por que me perguntas a respeito do que é bom? Um é bom.
 
-Τι µε ερωτας περι του αγαθου; εις εστιν ο αγαθος, ο θεος −− lat, sirᶜ, copᵇᵒ
+Τι με ερωτας περι του αγαθου; εις εστιν ο αγαθος, ο θεος −− lat, sirᶜ, copᵇᵒ
 ```
 
 **Problema:** A UBS em Mateus 19.17 contradiz a UBS em Marcos 10.18 e Lucas 18.19 (em Marcos e Lucas todos textos concordam com a redação do texto bizantino em Mateus 19.17).
 
 **Discussão:** Pode-se presumir que Jesus falou em aramaico, mas não há nenhuma maneira pela qual o que Ele disse pudesse legitimamente resultar nas duas traduções para o grego acima dadas[^540]. Que as versões em latim oferecem uma conflação sugere que as outras duas variantes tinham que existir no segundo século — na verdade, o Diatessaron abertamente põe a redação bizantina na primeira metade daquele século. A Igreja no Egito, naquele século, era dominada pelo Gnosticismo. Que uma tal variante tão deliciosamente gnóstica surgiu não é surpresa, mas porque os editores modernos a adotam? Porque é “a mais obscura” (Metzger, pag. 49). Esta “obscuridade” foi tão atraente à Comissão da UBS que eles imprimiram outra “colcha de retalhos” — ajuntando a pergunta do jovem e esta primeira parte da resposta do Senhor, o exato texto da UBS³ é encontrado somente no corretor do Códice B; ademais, com referência aos principais MSS gregos (ℵ, B, D, L, Θ, f¹) dados como aqui apoiando o Texto Eclético, o fato é que nenhum deles [aqui] concorda precisamente com nenhum dos outros! (Devem eles ser considerados como testemunhas confiáveis? Em que base?) A maioria das versões modernas se junta ao texto da UBS neste erro, também.
 
-##### Atos 19.16
+#### Atos 19.16
 
 ```text
 αυτων −− H, L, P, S (Ψ), Biz, sirˢ
 deles
 
-αµφοτερων −− P⁷⁴, ℵ, A, B, D, 33, sirᵖ, cop
+αμφοτερων −− P⁷⁴, ℵ, A, B, D, 33, sirᵖ, cop
 de ambos
 ```
 
@@ -4034,10 +4287,10 @@ de ambos
 
 **Discussão:** Argumentar que “ambos” pode significar “todos”, com base nesta passagem, é fugir da pergunta por assumir o fato como provado. Um apelo para Atos 23.8 é similarmente não convincente. “Porque os Saduceus dizem que não há ressurreição, nem anjo ou espírito; mas os fariseus reconhecem ambas as coisas.” “Anjo” e “espírito”, se não foi intencionado que fossem tomados como sinônimos, pelo menos pertencem a uma única classe, a dos seres espirituais. Os fariseus criam em “ambas as coisas” — ressurreição e seres espirituais. Não há aqui nenhuma base para alegar que “ambos” pode legitimamente se referir a sete, em Atos 19.16[^541]. Mesmo assim, a maioria das versões modernas traduz “ambos” por “todos”. Na verdade, a NASB traduz como “eles ambos,” tornando a contradição patente!
 
-##### Mateus 1.7–8, 10
+#### Mateus 1.7–8
 
 ```text
-Ασα −− E, K, L, M, S, U, V, W, Γ, ∆, Π, Σ, Ω, 33, Biz, Lec, latᵖᵗ, sir
+Ασα −− E, K, L, M, S, U, V, W, Γ, Δ, Π, Σ, Ω, 33, Biz, Lec, latᵖᵗ, sir
 Asa
 
 Ασαφ −− ℵ, B, C, f¹,¹³, latᵖᵗ, cop
@@ -4050,13 +4303,13 @@ Asafe
 
 Em resposta a Lagrange, que atribuía “Asafe” a um antigo erro de escriba, Metzger escreve: “Uma vez, no entanto, que o evangelista pode ter derivado material para a genealogia, não do Velho Testamento diretamente, mas de listas genealógicas subsequentes, nas quais a grafia errônea ocorreu, a Comissão não viu nenhuma razão para adotar o que parece ser uma emenda escribal” (pag. 1). Metzger declara, sem rodeios, que a grafia por eles adotada é “errônea”. Os editores da UBS deliberadamente importaram um erro para o seu texto, e o erro é fielmente reproduzido pela NAB (“New American Bible”) e NRSV. RSV e NASB oferecem uma nota de rodapé dizendo que o grego lê “Asafe” — seria menos enganador se eles tivessem dito que uma fração minúscula dos MSS gregos assim lê. O caso de Amon vs. Amós, no verso 10, é análogo a este. Metzger diz que “Amos” é “um erro [na grafia] de ‘Amon’” (pag. 2), e daí os editores da UBS naturalmente inseriram o erro no seu texto.
 
-##### Mateus 10.10
+#### Mateus 10.10
 
 ```text
-µηδε ραβδους −− C, E, F, G, K, L, M, N, P, S, U, V, W, Y, Γ, ∆ᵖᵗ, Π, Σ, Φ, Ω, f¹³, Biz, it, sirʰ, copᵇᵒ
+μηδε ραβδους −− C, E, F, G, K, L, M, N, P, S, U, V, W, Y, Γ, Δ, Π, Σ, Φ, Ω, f¹³, Biz, itᵖᵗ, sirʰ, copᵇᵒ
 nem bordões
 
-µηδε ραβδον −− ℵ, B, D, Θ, f¹, 33, lat, sirᵖ, copˢᵃ
+μηδε ραβδον −− ℵ, B, D, Θ, f¹, 33, lat, sirᵖ, copˢᵃ
 nem [um] bordão
 ```
 
@@ -4064,13 +4317,13 @@ nem [um] bordão
 
 **Discussão:** Em Lucas e Mateus, o texto bizantino lê “nem bordões”, que não contradiz Marcos — o caso dos bordões é análogo ao das túnicas: cada apóstolo devia levar somente um, não vários. Um leitor superficial provavelmente esperaria o singular; que algum escriba no Egito teria problemas com “bordões” e fizesse a simplificação para “[um] bordão”, não traz nenhuma surpresa; mas por que os editores da UBS importaram este erro para seu texto? Quase todas as versões modernas seguem a UBS tanto aqui como em Lucas 9.3.
 
-##### Marcos 1.2
+#### Marcos 1.2
 
 ```text
 εν τοις προφηταις −− A, E, F, H, K, M, P, S, U, V, W, Y, Γ, Π, Σ, Φ, Ω, f¹³, Biz, Lec, sirʰ
 [como está escrito] nos profetas
 
-εν τω Ησαια τω προφητη −− ℵ, B, L, ∆, 33 (D, Θ, f¹) lat, sirᵖ, ᵖᵃˡ, cop
+εν τω Ησαια τω προφητη −− ℵ, B, L, Δ, 33 (D, Θ, f¹) lat, sirᵖ, ᵖᵃˡ, cop
 [como está escrito] em Isaías, o profeta.
 ```
 
@@ -4078,31 +4331,31 @@ nem [um] bordão
 
 **Discussão:** O resto do verso 2 é uma citação de Malaquias 3.1, enquanto o verso 3 é de Isaías 40.3. Mais uma vez Metzger usa, essencialmente, o argumento da “leitura mais difícil” (p. 73), mas a escolha eclética é, muito provavelmente, o resultado de atividade harmonizadora primitiva[^542]. Quase todas as versões modernas seguem o texto da UBS aqui.
 
-##### Lucas 9.10
+#### Lucas 9.10
 
 ```text
-εις τοπον ερηµον πολεως καλουµενης Βηθσαιδα(ν) −− (A) C, E, G, K, M, U, Y, W, Γ, ∆, Π, 047, 0211, f¹(¹³), Biz, sir(ᵖ)ʰ
+εις τοπον ερημον πολεως καλουμενης Βηθσαιδα(ν) −− (A) C, E, G, K, M, U, Y, W, Γ, Δ, Π, 047, 0211, f⁽¹⁾¹³, Biz, sir⁽ᵖ⁾ʰ
 para um lugar deserto pertencente a uma aldeia chamada Betsáida,
 
-εις πολιν καλουµενην Βηθσαιδα −− P⁷⁵, B, L, X, Ξ, 33, (sirˢ) cop
+εις πολιν καλουμενην Βηθσαιδα −− (P⁷⁵) B, L, X, Ξ, 33, (sirˢ) cop
 para uma aldeia chamada Betsáida
 
-εις τοπον ερηµον −− ℵ, mssᶜᵒᵖ, sirᵇᵒ
+εις τοπον ερημον −− ℵ, sirᶜ, boᵐˢˢ
 para um lugar deserto
 ```
 
 **Problema:** O texto da UBS tem Jesus e Seu grupo adentrando Betsáida, mas no v. 12 os discípulos dizem que estão numa área deserta; assim uma contradição é introduzida. A UBS também está em desacordo com a UBS nas passagens paralelas.
 
-**Discussão:** Em Mateus 14.13 todos os textos têm Jesus retirando-se para um lugar deserto, e no v. 15 os discípulos dizem “o lugar é deserto... despede a multidão, para que vão pelas aldeias.” Em Marcos 6.31–32, todos os textos têm Jesus indo para um local deserto, e no v. 35 os discípulos dizem que “o lugar é deserto,” etc. Assim, a UBS não apenas faz Lucas se contradizer a si próprio, mas o coloca contra Mateus e Marcos. As versões modernas não nos surpreendem.
+**Discussão:** Em Mateus 14.13 todos os textos têm Jesus retirando-se para um lugar deserto, e no v. 15 os discípulos dizem “o lugar é deserto… despede a multidão, para que vão pelas aldeias.” Em Marcos 6.31–32, todos os textos têm Jesus indo para um local deserto, e no v. 35 os discípulos dizem que “o lugar é deserto,” etc. Assim, a UBS não apenas faz Lucas se contradizer a si próprio, mas o coloca contra Mateus e Marcos. As versões modernas não nos surpreendem.
 
 Detenho-me para registrar um caso onde as principais testemunhas “alexandrinas” introduzem uma contradição que os textos “críticos” não têm adotado, o que apreciamos, embora Westcott e Hort a incluíssem no seu texto, entre colchetes duplos. Isto dá uma ilustração adicional da tendência daqueles MSS.
 
-##### Mateus 27.49
+#### Mateus 27.49
 
 ```text
---- --- --- --- --- --- --- --- --- --- --- --- −− A, D, K, W, ∆, Θ, Π, 090, f¹,¹³, 33, Biz, Lec, lat, sir, cop, Diat
+--- --- --- --- --- --- --- --- --- --- --- --- −− A, D, K, W, Δ, Θ, Π, 090, f¹,¹³, 33, Biz, Lec, lat, sir, cop, Diat
 
-αλλος δε λαβων λογχην ενυξεν αυτου την πλευραν, και εξηλθεν υδωρ και αιµα −− ℵ, B, C, L, Γ
+αλλος δε λαβων λογχην ενυξεν αυτου την πλευραν, και εξηλθεν υδωρ και αιμα −− ℵ, B, C, L, Γ
 mas um outro, tomando uma lança, perfurou o Seu lado, e saíram água e sangue.
 ```
 
@@ -4110,12 +4363,12 @@ mas um outro, tomando uma lança, perfurou o Seu lado, e saíram água e sangue.
 
 Estou bem ciente de que os exemplos acima podem não impressionar o leitor como sendo uniformemente convincentes. Contudo, afirmo que têm um efeito cumulativo. À custa de imaginação engenhosa e de ginástica mental, pode ser possível parecer contornar um ou outro destes exemplos (inclusive aqueles que seguem), mas com cada exemplo [de manobra evasiva] adicional aumenta o desafio à nossa credulidade. Um ou dois arrodeios podem ser aceitos como possíveis, mas cinco ou seis se tornam altamente improváveis; dez ou doze são extremamente difíceis de tolerar.
 
-#### *Anomalias Sérias / Aberrações*
+### *Anomalias Sérias / Aberrações*
 
-##### João 7.8
+#### João 7.8
 
 ```text
-ουπω −− P⁶⁶,⁷⁵, B, E, F, G, H, L, N, T, W, X, ∆, Θ, Ψ, 070, 0105, 0141, 0250, f¹,¹³, Biz, Lec, sirᵖ, ʰ, ᵖᵃˡ, copˢᵃ
+ουπω −− P⁶⁶,⁷⁵, B, E, F, G, H, L, N, T, W, X, Δ, Θ, Ψ, 070, 0105, 0141, 0250, f¹,¹³, Biz, Lec, sirᵖ, ʰ, ᵖᵃˡ, copˢᵃ
 ainda não
 
 ουκ −− ℵ, D, K, Π, lat, sirˢ, ᶜ, copᵇᵒ
@@ -4126,13 +4379,13 @@ não
 
 **Discussão:** Uma vez que os editores da UBS usualmente atribuem o mais alto dos valores a P⁷⁵ e B, não é estranho que os rejeitaram neste caso? Aqui está a explicação de Metzger: “A variante [“ainda não”] foi introduzida em uma data bem antiga (o que é atestado por P⁶⁶,⁷⁵), para minorar a inconsistência entre verso 8 e verso 10” (pag. 216). Assim, os editores rejeitaram P⁶⁶,⁷⁵ e B (junto com 99+% dos MSS) porque preferiram a “inconsistência”. NASB, RSV, NEB e TEV se alinham com o Texto Eclético aqui.
 
-##### João 6.47
+#### João 6.47
 
 ```text
-εις εµε −− A, Cᶜ, D, E, G, H, K, N, ∆, Π, Ψ, 0141, 0233, f¹,¹³, Biz, lat, sirᵖ, ʰ(ᶜ, ˢ), cop, Diat
+εις εμε −− A, Cᶜ, D, E, G, H, K, N, Δ, Π, Ψ, 0141, 0233, f¹,¹³, Biz, lat, sirᵖ, ʰ(ᶜ, ˢ), cop, Diat
 [crê] em Mim
 
---- --- −− P⁶⁶,⁷⁵vid, ℵ, B, C*, L, T, W, Θ
+--- --- −− P⁶⁶,⁷⁵ᵛⁱᵈ, ℵ, B, C*, L, T, W, Θ
 [crê]
 ```
 
@@ -4140,13 +4393,13 @@ não
 
 **Discussão:** Uma vez que é impossível viver sem crer em algo, todos creem — o objeto da crença é que é o essencial. O verbo “crer” ocorre em outros locais desacompanhado de um objeto explícito (que é suprido pelo contexto), mas não em uma declaração formal como esta. A redação mais curta é provavelmente o resultado de um exemplo de *homoioarcton* muito fácil de ocorrer — três palavras curtas em sequência começam com “E”. Todavia, Metzger diz das palavras “em Mim”: “nenhuma boa razão pode ser sugerida para explicar a sua omissão” (pag. 214). Os editores dão à omissão a nota {A} [“virtualmente inquestionável”]! Isto contra 99% dos MSS além de atestação do II século. TEV, NASB, NIV, NRSV e “Jerusalem” reproduzem, precisamente, o texto da UBS.
 
-##### Atos 28.13
+#### Atos 28.13
 
 ```text
 περιελθοντες −− P⁷⁴, ℵᶜ, A, L, P, 048, 056, 066, 0142, Biz, Lec, lat, sirᵖ, ʰ
 fazendo uma volta [alcançamos Régio]
 
-περιελοντες −− ℵ*, B, Ψ, cop(ˢᵃ)
+περιελοντες −− ℵ*, B, Ψ, cop⁽ˢᵃ⁾
 tirando fora (alguma coisa) [alcançamos Régio]
 ```
 
@@ -4154,29 +4407,29 @@ tirando fora (alguma coisa) [alcançamos Régio]
 
 **Discussão:** A explicação manca de Metzger é que a maioria dos membros da Comissão da UBS considerou a palavra como sendo “um termo técnico náutico de significado incerto” (pag. 501)! Por que eles escolheram desfigurar o texto com base em evidências tão pobres, quando há uma explicação transcricional fácil? As letras gregas O e Θ são muito similares e, estando lado a lado em uma palavra, seria fácil deixar uma de fora, neste caso o *theta*. A maioria das versões modernas é na realidade baseada no texto Nestle “antigo”, que aqui concorda com a redação Majoritária. NRSV, entretanto, segue a UBS³, oferecendo a tradução “então levantamos âncora.”
 
-##### Marcos 16.9–20
+#### Marcos 16.9–20
 
 ```text
 (presente em) — cada MS grego existente (cerca de 1800) exceto três, Lec, lat, sirᵖ, ʰ, cop, Diat
 (omitido em)  — ℵᵛⁱᵈ, B, 304, sirˢ
 ```
 
-**Problema:** Uma aberração séria é introduzida — é afirmado que o Evangelho segundo Marcos termina em 16:8.
+**Problema:** Uma aberração séria é introduzida — é afirmado que o Evangelho segundo Marcos termina em 16.8.
 
-**Discussão:** A UBS³ coloca estes versos entre colchetes duplos `[[ ]]`, que significam que os versos são “considerados como adições ao texto, posteriormente feitas,” e dão à sua decisão uma nota {A}, “virtualmente inquestionável”. Assim, os editores da UBS nos asseguram que o genuíno texto de Marcos termina em 16:8. Mas por que os críticos insistem em rejeitar esta passagem? Ela está contida em cada MS grego sobrevivente (cerca de 1800), exceto três (na verdade somente dois, B e 304 — Aleph não é propriamente “sobrevivente” porque, neste local, é forjado)[^543]. Cada Lecionário grego sobrevivente (cerca de 2000?) contém a passagem (um deles, 185, somente no Menologion). Cada MS sírio sobrevivente (cerca de 1000?), exceto um (o Sinaítico), a contém. Cada MS em latim (8000?), exceto um (k), a contém. Cada MS cóptico sobrevivente, exceto um, a contém. Temos evidência concreta (Irineu e o Diatessaron) da “inclusão” da passagem já no século II, presumivelmente na sua primeira metade. Quanto à “exclusão”, não temos nenhuma evidência sólida semelhante.
+**Discussão:** A UBS³ coloca estes versos entre colchetes duplos `[[ ]]`, que significam que os versos são “considerados como adições ao texto, posteriormente feitas,” e dão à sua decisão uma nota {A}, “virtualmente inquestionável”. Assim, os editores da UBS nos asseguram que o genuíno texto de Marcos termina em 16.8. Mas por que os críticos insistem em rejeitar esta passagem? Ela está contida em cada MS grego sobrevivente (cerca de 1800), exceto três (na verdade somente dois, B e 304 — Aleph não é propriamente “sobrevivente” porque, neste local, é forjado)[^543]. Cada Lecionário grego sobrevivente (cerca de 2000?) contém a passagem (um deles, 185, somente no Menologion). Cada MS sírio sobrevivente (cerca de 1000?), exceto um (o Sinaítico), a contém. Cada MS em latim (8000?), exceto um (k), a contém. Cada MS cóptico sobrevivente, exceto um, a contém. Temos evidência concreta (Irineu e o Diatessaron) da “inclusão” da passagem já no século II, presumivelmente na sua primeira metade. Quanto à “exclusão”, não temos nenhuma evidência sólida semelhante.
 
 Face tal evidência massiva, por que os críticos insistem em rejeitar esta passagem? Lamentavelmente, a maioria das versões modernas também, de uma ou de outra maneira, lança dúvidas sobre a autenticidade destes versos (a NRSV é, aqui, especialmente objecionável). Como sou um dos que creem que a Bíblia é a Palavra de Deus, acho inconcebível que uma biografia oficial de Jesus Cristo, comissionada por Deus e escrita sob o Seu controle de qualidade, omitiria provas da ressurreição de Cristo, excluiria todas as suas aparições subsequentes, e terminaria com a cláusula “porque temiam”! Se a avaliação dos críticos fosse correta, pareceríamos estar apertados entre uma rocha e um lugar duro. O evangelho de Marcos seria um evangelho mutilado (se interrompido no v. 8) sendo que o final original teria desaparecido sem deixar vestígios. Mas nesse evento, que seria do propósito de Deus em ordenar esta biografia?
 
-##### João 1.18
+#### João 1.18
 
 ```text
-ο µονογενης υιος −− A, Cᶜ, E, F, G, H, K, M, S, U, V, Wˢ, X, ∆, Θ, Π, Ψ, 063, f¹,¹³, Biz, Lec, lat, sirᶜ, ʰ, ᵖ
+ο μονογενης υιος −− A, Cᶜ, E, F, G, H, K, M, S, U, V, Wˢ, X, Δ, Θ, Π, Ψ, 063, f¹,¹³, Biz, Lec, lat, sirᶜ, ʰ, ᵖ
 o unigênito Filho
 
--- µονογενης θεος −− P⁶⁶, ℵ*, B, C*, L, sirᵖ
+-- μονογενης θεος −− P⁶⁶, ℵ*, B, C*, L, sirᵖ
 um unigênito deus
 
-ο µονογενης θεος −− P⁷⁵, ℵᶜ, 33, copᵇᵒ
+ο μονογενης θεος −− P⁷⁵, ℵᶜ, 33, copᵇᵒ
 o unigênito Deus
 ```
 
@@ -4184,47 +4437,47 @@ o unigênito Deus
 
 **Discussão:** A natureza e o corpo humanos de Jesus Cristo foram, na verdade, literalmente gerados em Maria, virgem, pelo Espírito Santo; Deus o Filho tem existido eternamente. “Um deus unigênito” é tão deliciosamente gnóstico que a origem egípcia aparente desta leitura a faz duplamente suspeita. Também seria possível traduzir a segunda leitura como “unigênito deus!”, enfatizando a qualidade [de ser Divino], e isto tem atraído muitos que aí veem uma forte afirmação da divindade de Cristo. No entanto, se Cristo recebeu Sua “Divindade” através do processo de geração, então não pode ser a eternamente preexistente Segunda Pessoa da Trindade. Também “unigênito” não é análogo a “primogênito”, que se refere à prioridade de posição — isto poria o Filho acima do Pai. Não importa como a encaremos, a redação da UBS introduz uma anomalia séria.
 
-Presumivelmente µονογενης deve significar algo mais que apenas µονος, “único”. Em Lucas 7.12, embora por razões de estilo um tradutor possa por “o filho único de sua mãe”, havemos de entender que ele foi gerado por ela — não poderia ser um filho adotivo. O mesmo acontece em Lucas 8.42 e 9.38. Em Hebreus 11.17, com referência à promessa e a Sara, Isaque foi na verdade o “filho unigênito” de Abraão, embora ele realmente tivesse outros filhos com outras mulheres. Notar em Gênesis 22.12 e 16 que o próprio Deus chama Isaque de “único” filho de Abraão. João usa µονογενης cinco vezes, sempre se referindo ao Filho de Deus (João 1.14, 18; 3.16, 18; 1 João 4.9). Não vejo nada nos usos do NT que justifique a tradução “único” [em oposição a “unigênito” (único gerado)].
+Presumivelmente μονογενης deve significar algo mais que apenas μονος, “único”. Em Lucas 7.12, embora por razões de estilo um tradutor possa por “o filho único de sua mãe”, havemos de entender que ele foi gerado por ela — não poderia ser um filho adotivo. O mesmo acontece em Lucas 8.42 e 9.38. Em Hebreus 11.17, com referência à promessa e a Sara, Isaque foi na verdade o “filho unigênito” de Abraão, embora ele realmente tivesse outros filhos com outras mulheres. Notar em Gênesis 22.12 e 16 que o próprio Deus chama Isaque de “único” filho de Abraão. João usa μονογενης cinco vezes, sempre se referindo ao Filho de Deus (João 1.14, 18; 3.16, 18; 1 João 4.9). Não vejo nada nos usos do NT que justifique a tradução “único” [em oposição a “unigênito” (único gerado)].
 
 Que P⁷⁵ tenha uma conflação das duas primeiras redações é curioso, mas demonstra que a discrepância surgiu no segundo século. (Artigos modificam substantivos, não adjetivos, quando numa frase nominal tal qual a que aqui temos. Assim, o artigo é parte da mesma unidade de variação). A maioria das versões modernas evita uma tradução direta da redação da UBS. NIV nos oferece “mas Deus o único [Filho]” — uma má tradução para um texto mau. (Uma revisão subsequente tem “Deus o Um e Único” — uma “fraude piedosa”, uma vez que nenhuma das variantes tem este sentido.) TEV tem “O Único, que é o mesmo que Deus” — pouco melhor. NASB realmente traduz “o unigênito Deus”! (a redação de P⁷⁵). Não querendo ficar para trás, a “Amplified” confecciona uma conflação, “o único Filho suigêneris, o Deus unigênito.” Ai ai ai!
 
-##### João 7.53–8.11
+#### João 7.53–8.11
 
 ```text
-(presente em) — D (F) G, H, K, M, S, U, Γ ((E, Λ, Π)) Biz, lat, sirᵖᵃˡ, ᵖ(ᵖᵗ)
-(omitido em)  — P⁶⁶,⁷⁵, ℵ, Aᵛⁱᵈ, B, Cᵛⁱᵈ, L, N, T, W, X, Y, ∆, Θ, Ψ, 0141, 0211, 33, f¹,¹³, Lec(?), sirᶜ, ˢ, ᵖ(ᵖᵗ), cop, Diat
+(presente em) — D (F) G, H, K, M, S, U, Γ ((E, Λ, Π)) Biz, lat, sirᵖᵃˡ,ᵖ⁽ᵖᵗ⁾
+(omitido em)  — P⁶⁶,⁷⁵, ℵ, Aᵛⁱᵈ, B, Cᵛⁱᵈ, L, N, T, W, X, Y, Δ, Θ, Ψ, 0141, 0211, 33, f¹,¹³, Lec(?), sirᶜ,ˢ,ᵖ⁽ᵖᵗ⁾, cop, Diat
 ```
 
 **Problema:** A UBS³ coloca estes versos entre colchetes duplos `[[ ]]`, que significa que os versos são “considerados como adições ao texto, posteriormente feitas,” e dão à sua decisão uma nota {A}, “virtualmente inquestionável”. A omissão introduz uma aberração.
 
-**Discussão:** A evidência contra o Texto Majoritário é, aqui, mais forte do que em qualquer dos exemplos prévios. Mas, assumindo (somente para efeito de raciocínio) que a passagem é espúria, como poderia jamais ter sido introduzida aqui, e de tal modo que é atestada por uns 85% dos MSS? Tentemos ler a passagem maior sem estes versos — temos que ir diretamente de 7:52 para 8:12. Revendo o contexto, os principais sacerdotes e fariseus tinham enviado guardas para prenderem Jesus, sem proveito; uma “discussão” resulta; Nicodemus faz uma colocação, ao que os fariseus respondem:
+**Discussão:** A evidência contra o Texto Majoritário é, aqui, mais forte do que em qualquer dos exemplos prévios. Mas, assumindo (somente para efeito de raciocínio) que a passagem é espúria, como poderia jamais ter sido introduzida aqui, e de tal modo que é atestada por uns 85% dos MSS? Tentemos ler a passagem maior sem estes versos — temos que ir diretamente de 7.52 para 8.12. Revendo o contexto, os principais sacerdotes e fariseus tinham enviado guardas para prenderem Jesus, sem proveito; uma “discussão” resulta; Nicodemus faz uma colocação, ao que os fariseus respondem:
 
-(7:52) “És tu também da Galileia? Examina, e verás que da Galileia nenhum profeta surgiu.”
+(7.52) “És tu também da Galileia? Examina, e verás que da Galileia nenhum profeta surgiu.”
 
-(8:12) “Falou-lhes, pois, Jesus outra vez, dizendo: ‘Eu sou a luz do mundo.’ ...”
+(8.12) “Falou-lhes, pois, Jesus outra vez, dizendo: ‘Eu sou a luz do mundo.’ …”
 
-Qual é o antecedente de “lhes”, e qual é o significado de “outra vez”? Pelas regras normais da gramática, se 7:53–8:11 estão faltando, então “lhes” tem que referir aos “fariseus” e “outra vez” significa que, [nesta conversação], Jesus já lhes dirigira a palavra ao menos uma vez. Mas 7:45 deixa claro que Jesus não estava lá com os fariseus. Assim, a UBS introduz uma aberração. Mesmo assim, Metzger alega que a passagem (7:53–8:11) “interrompe a sucessão de 7.52 e 8.12ss” (pag. 220)! Procurar pelos antecedentes de 8:12 em 7:37–39 não somente afronta a sintaxe mas também colide contra 8:13 – “os fariseus” respondem à reivindicação que Jesus fez no verso 12, mas “os fariseus” estão em outro lugar, 7:45–52 (se 7:53–8:11 está ausente).
+Qual é o antecedente de “lhes”, e qual é o significado de “outra vez”? Pelas regras normais da gramática, se 7.53–8.11 estão faltando, então “lhes” tem que referir aos “fariseus” e “outra vez” significa que, [nesta conversação], Jesus já lhes dirigira a palavra ao menos uma vez. Mas 7.45 deixa claro que Jesus não estava lá com os fariseus. Assim, a UBS introduz uma aberração. Mesmo assim, Metzger alega que a passagem (7.53–8.11) “interrompe a sucessão de 7.52 e 8.12ss” (pag. 220)! Procurar pelos antecedentes de 8.12 em 7.37–39 não somente afronta a sintaxe mas também colide contra 8.13 — “os fariseus” respondem à reivindicação que Jesus fez no verso 12, mas “os fariseus” estão em outro lugar, 7.45–52 (se 7.53–8.11 está ausente).
 
 Metzger também alega que “o estilo e vocabulário da passagem em foco diferem notavelmente daqueles do restante do quarto evangelho.” Mas os falantes nativos de grego naquela época não estariam em melhor posição que os críticos modernos para notarem algo assim? Então como poderiam eles permitir uma passagem tão “estranha” ser forçada para dentro do texto? Sugiro que a resposta evidente é que eles não o fizeram: a passagem estava lá desde o início. Também protesto contra o uso dos colchetes aqui. Uma vez que os editores claramente encaram a passagem como espúria eles deveriam ser consistentes e a eliminarem, como a NEB e a Bíblia de Williams o fazem. Desta maneira, toda a extensão do seu erro ficaria exposta para todos verem. As Bíblias NIV, NASB, NRSV, Berkeley e TEV também usam colchetes para questionar a validade desta passagem.
 
-##### 1 Timóteo 3.16[^544]
+#### 1 Timóteo 3.16[^544]
 
 ```text
-θεος −− Aᵛⁱᵈ, Cᵛⁱᵈ, F/G, K, L, P, Ψ, Biz, Lec
+θεος −− A, Cᵛⁱᵈ, F/Gᵛⁱᵈ, K, L, P, Ψ, Biz, Lec
 Deus [se manifestou em carne]
 
 ος −− ℵ, 33, sirᵖᵃˡ
 quem [se manifestou em carne]
 
-ο −− D, lat, sirᵖ, ʰ(?), cop(?)
+ο −− D, lat, sirᵖ,ʰ?, cop?
 que [se manifestou em carne]
 ```
 
 **Problema:** Uma anomalia gramatical é introduzida. “Grande é o mistério da piedade, quem se manifestou em carne” é pior em grego do que o é em português. “Mistério” é do gênero neutro enquanto “piedade” é feminino, mas “quem” é masculino!
 
-**Discussão:** Em um esforço para explicar o “quem”, é comumente argumentado que a segunda metade do verso 16 foi uma citação direta de um hino, mas onde está a evidência para esta alegação? Sem evidência, a alegação [descaradamente] foge da pergunta por assumir o fato como provado[^545]. Que a passagem tem algumas qualidades poéticas não diz mais do que que ela tem qualidades poéticas. “Quem” é sem sentido [gramatical], de modo que a maioria das versões modernas que seguem o texto da UBS toma aqui ações evasivas. A redação em latim, “o mistério que,” pelo menos faz sentido. A verdadeira redação, como atestado por 99% dos MSS gregos, é “Deus.” Nos MSS mais antigos “Deus” foi escrito ΘC, “quem” foi escrito OC, e “que” foi escrito O. A diferença entre “Deus” e “quem” é somente de dois traços cruzados, e com uma pena estragada eles poderiam facilmente ser fracos, (ou um copista poderia momentaneamente se distrair e esquecer de adicionar os traços). Assim, a variante “quem” pode ser explicada por um fácil erro transcricional. A variante “que” seria uma solução óbvia para um copista deparado com o “quem” sem sentido. Qualquer que seja a intenção dos editores da UBS, o texto deles mutila esta forte declaração da divindade de Jesus Cristo.
+**Discussão:** Em um esforço para explicar o “quem”, é comumente argumentado que a segunda metade do verso 16 foi uma citação direta de um hino, mas onde está a evidência para esta alegação? Sem evidência, a alegação [descaradamente] foge da pergunta por assumir o fato como provado[^545]. Que a passagem tem algumas qualidades poéticas não diz mais do que que ela tem qualidades poéticas. “Quem” é sem sentido [gramatical], de modo que a maioria das versões modernas que seguem o texto da UBS toma aqui ações evasivas. A redação em latim, “o mistério … que,” pelo menos faz sentido. A verdadeira redação, como atestado por 99% dos MSS gregos, é “Deus.” Nos MSS mais antigos “Deus” foi escrito ΘC, “quem” foi escrito OC, e “que” foi escrito O. A diferença entre “Deus” e “quem” é somente de dois traços cruzados, e com uma pena estragada eles poderiam facilmente ser fracos, (ou um copista poderia momentaneamente se distrair e esquecer de adicionar os traços). Assim, a variante “quem” pode ser explicada por um fácil erro transcricional. A variante “que” seria uma solução óbvia para um copista deparado com o “quem” sem sentido. Qualquer que seja a intenção dos editores da UBS, o texto deles mutila esta forte declaração da divindade de Jesus Cristo.
 
-##### 2 Pedro 3.10
+#### 2 Pedro 3.10
 
 ```text
 κατακαησεται −− A, 048, 049, 056, 0142, 33, Biz, Lec (94% dos MSS), lat, sirʰ, copᵇᵒ
@@ -4238,7 +4491,7 @@ que [se manifestou em carne]
 
 **Discussão:** Metzger de fato declara que o texto dos editores da UBS “parece ser destituído de significado, no contexto” (pag. 706)! Então, por que eles o escolheram? Metzger explica que há “uma ampla variedade de redações, nenhuma das quais parece ser original” — presumivelmente, mesmo que “será queimada” fosse a única leitura, com atestação unânime, ele ainda a rejeitaria, mas ele dificilmente pode argumentar que é sem sentido. Os editores da UBS deliberadamente escolheram uma variante que acreditaram ser “destituída de significado, no contexto”. A NASB aqui abandona a UBS e oferece a redação bizantina; as NEB e NIV oferecem “será desnudada”; a TEV oferece “desaparecerá”.
 
-##### 1 Pedro 2.2
+#### 1 Pedro 2.2
 
 ```text
 αυξηθητε --- --- −− L, Biz, itᵖᵗ
@@ -4248,11 +4501,11 @@ que [se manifestou em carne]
 [desejai . . . a palavra para que] possais crescer [por ela] para a salvação
 ```
 
-**Problema:** Uma anomalia doutrinária é introduzida. Pedro está escrevendo aos “eleitos” (1:2), aos “redimidos” (1:18), aos “nascidos de novo” (1:23), a “um sacerdócio santo” (2:5), a “crentes” (2:7), a “servos de Deus” (2:16) — eles realmente precisam crescer, mas não “para a salvação”.
+**Problema:** Uma anomalia doutrinária é introduzida. Pedro está escrevendo aos “eleitos” (1.2), aos “redimidos” (1.18), aos “nascidos de novo” (1.23), a “um sacerdócio santo” (2.5), a “crentes” (2.7), a “servos de Deus” (2.16) — eles realmente precisam crescer, mas não “para a salvação”.
 
-**Discussão:** Metzger explica: “O TR ... omite [“para a salvação”] quer através de um descuido no copiar, ... ou porque a ideia de “crescer para a salvação” era teologicamente inaceitável” (pag. 689). Notar que os editores da UBS entendem que seu texto significa “crescer para a salvação.” A TEV, NRSV e “Jerusalem” traduzem a UBS literalmente, pondo a salvação no futuro. A NIV traduz “crescer na vossa salvação,” algo que o texto não diz, enquanto a LB tem uma paráfrase mais frouxa daquele tema (a NEB é ainda mais frouxa).
+**Discussão:** Metzger explica: “O TR … omite [“para a salvação”] quer através de um descuido no copiar, … ou porque a ideia de “crescer para a salvação” era teologicamente inaceitável” (pag. 689). Notar que os editores da UBS entendem que seu texto significa “crescer para a salvação.” A TEV, NRSV e “Jerusalem” traduzem a UBS literalmente, pondo a salvação no futuro. A NIV traduz “crescer na vossa salvação,” algo que o texto não diz, enquanto a LB tem uma paráfrase mais frouxa daquele tema (a NEB é ainda mais frouxa).
 
-##### Judas 15
+#### Judas 15
 
 ```text
 παντας τους ασεβεις −− A, B, C, K, L, Ψ, 049, f¹, Biz (99.5% dos MSS), lat, sir
@@ -4268,25 +4521,15 @@ que [se manifestou em carne]
 
 Há dúzias de exemplos adicionais, alguns dos quais, tomados isoladamente, podem não parecer tão alarmantes. Mas eles têm um efeito cumulativo, e dúzias deles deveriam fazer o leitor responsável pausar. Existe um padrão? Se sim, por que? Mas, por enquanto o que já foi apresentado é suficiente; podemos agora atentar para as implicações [do que vimos].
 
-#### *Implicações*
+### *Implicações*
 
 Como explicar tudo isso? Creio que a resposta repousa na área das pressuposições. Tem havido uma curiosa relutância da parte dos estudiosos conservadores em enfrentar este assunto. Imaginar que as escolhas editoriais de um estudioso naturalista não serão influenciadas pela sua tendência teológica é extremamente ingênuo.
 
-Naturalmente, tanto tais estudiosos como os defensores conservadores do Texto Eclético irão sem dúvidas objetar: “De modo algum!” diriam eles, “Nossas escolhas editoriais derivam da aplicação imparcial dos cânones geralmente aceitos [“geralmente aceitos” por quem, e com que base; isto é, quais são as pressuposições por detrás desses cânones] da crítica textual do NT.” E quais são esses cânones? Os quatro principais parecem ser:
-
-1) a leitura que melhor explique o surgimento das demais seja a preferida;
-
-2) a leitura mais difícil seja a preferida;
-
-3) a leitura mais curta seja a preferida;
-
-4) a leitura que melhor se adeque ao estilo e propósito do autor seja a preferida.
-
-Podemos dizer que o primeiro cânon como que destila a essência de todos eles, e portanto deveria ser o cânon dominante. Mas na prática é provavelmente o segundo que é mais rigorosamente aplicado. Da apresentação que B. M. Metzger faz do arrazoado da Comissão da UBS nos exemplos acima, parece que mais da metade das vezes ela baseou suas decisões no cânon da leitura mais difícil (para quatro dos exemplos Metzger não faz nenhum comentário porque o aparato da UBS não menciona que há variação; para dois deles Metzger diz que todas as variantes são insatisfatórias!) Mas, como iremos nós decidir qual variante é a mais “difícil”? Não entrarão aí nossas tendências teológicas?
+Naturalmente, tanto tais estudiosos como os defensores conservadores do Texto Eclético irão sem dúvidas objetar: “De modo algum!” diriam eles, “Nossas escolhas editoriais derivam da aplicação imparcial dos cânones geralmente aceitos [“geralmente aceitos” por quem, e com que base; isto é, quais são as pressuposições por detrás desses cânones] da crítica textual do NT.” E quais são esses cânones? Os quatro principais parecem ser: 1) a leitura que melhor explique o surgimento das demais seja a preferida; 2) a leitura mais difícil seja a preferida; 3) a leitura mais curta seja a preferida; 4) a leitura que melhor se adeque ao estilo e propósito do autor seja a preferida. Podemos dizer que o primeiro cânon como que destila a essência de todos eles, e portanto deveria ser o cânon dominante. Mas na prática é provavelmente o segundo que é mais rigorosamente aplicado. Da apresentação que B. M. Metzger faz do arrazoado da Comissão da UBS nos exemplos acima, parece que mais da metade das vezes ela baseou suas decisões no cânon da leitura mais difícil (para quatro dos exemplos Metzger não faz nenhum comentário porque o aparato da UBS não menciona que há variação; para dois deles Metzger diz que todas as variantes são insatisfatórias!) Mas, como iremos nós decidir qual variante é a mais “difícil”? Não entrarão aí nossas tendências teológicas?
 
 Consideremos um exemplo: em Lucas 24.52, as edições 1–25 de Nestle (e em consequência as Bíblias NASB, RSV e NEB) omitem “eles O adoraram.” A UBS³ retém as palavras, mas atribui-lhes a nota {D}, que significa um “grau muito alto de dúvida.” Somente um único manuscrito grego omite as palavras, o Códice D, apoiado por parte das testemunhas em latim. A despeito desta muito insignificante evidência externa pró omissão, é argumentado que ela é a leitura “mais difícil” — se a cláusula fosse original, que crente ortodoxo sequer pensaria em removê-la? Por outro lado, se a cláusula não constasse do original, poderia constituir uma piedosa adição que imediatamente se tornaria popular. No entanto, não apenas os gnósticos dominaram a Igreja cristã do Egito no segundo século: ao redor também haviam outros que não criam que Jesus era Deus — iriam eles resistir ao impulso de retirar tal declaração? Como escolheremos entre estas duas hipóteses? Não será com base nas nossas pressuposições? Na verdade, ao discutir este conjunto de variantes, juntamente com as outras “não-interpolações ocidentais” de Hort, Metzger explica (pag. 193) que uma minoria da Comissão da UBS argumentou que “há discernível nestas passagens uma motivação teológica Cristocêntrica que explica como elas foram adicionadas, enquanto não há nenhuma razão clara que explique porque elas teriam sido omitidas.” (Teriam os editores nunca ouvido falar dos gnósticos?)
 
-##### Por que Usar Cânones Subjetivos?
+#### Por que Usar Cânones Subjetivos?
 
 É claro que os quatro cânones acima mencionados dependem pesadamente do julgamento subjetivo do crítico. Mas por que usar tais cânones? Por que não seguir a evidência dos manuscritos? É comumente argumentado que os manuscritos sobreviventes não são representativos da situação textual nos primeiros séculos da Igreja. A destruição oficial de MSS por Diocleciano (300 DC), e outros caprichos da História, teriam dizimado o suprimento de MSS ao ponto da transmissão ter sido totalmente distorcida — daí, não podemos estar certos de nada. (Tal argumento não apenas “justifica” o procedimento eclético, ele é usado para reivindicar sua “necessidade”.) Mas a eficiência da campanha Diocleciana não foi a mesma em regiões diferentes. Ainda mais relevante à questão são as implicações do movimento Donatista que surgiu logo depois da campanha Diocleciana passar. Em parte, se baseou na punição merecida por aqueles que entregaram seus MSS para serem destruídos. Evidentemente alguns não entregaram seus MSS, ou não teria havido ninguém para julgar os outros. Ademais, aqueles cuja dedicação a Cristo e a Sua Palavra foram tais que não se intimidaram com a tortura, seriam exatamente o tipo que seria o mais cheio de cuidados a respeito da pureza e genealogia dos seus MSS. Assim, no principal, foram provavelmente os exemplares mais puros que sobreviveram, e deles deriva a principal corrente da transmissão do N. T.
 
@@ -4296,9 +4539,9 @@ Uma vez que a forma do texto bizantino (Majoritário) domina acima de 90% dos MS
 
 “A leitura mais difícil seja a preferida.” Por que? A suposição é que uma dificuldade percebida motivaria um copista mais audacioso a tentar “remediá-la”. Notar que qualquer alteração tal tem que ser deliberada; assim, se uma redação “mais difícil” poderia ter advindo de omissão acidental (por exemplo) então este cânon não deve ser usado. Mas no caso de uma presumida alteração deliberada, como podemos realmente atribuir graus de “dificuldade”? Não sabemos quem a fez, nem por que. A devida margem tem que ser dada para possível ignorância, excesso de zelo audacioso, preconceito e maldade. De fato, este cânon é desarrazoado “na cara” — quanto mais estúpida uma redação for, quer por acidente ou por ação deliberada, mais forte será sua reivindicação de ser “original”, uma vez que será certamente a “mais difícil”. Não é necessário um profeta para ver que esta regra canônica é escancaradamente aberta à manipulação satânica, tanto na antiga criação das variantes como na avaliação contemporânea delas. Mas em todo caso, desde que é demonstrável que a maioria dos copistas não fez mudanças deliberadas, onde há concordância massiva entre os MSS sobreviventes este cânon não deve sequer ser considerado. Na verdade, onde há concordância massiva entre os MSS nenhum dos cânones subjetivos deve ser usado — eles são desnecessários e inapropriados. Das 6000+ diferenças entre o texto da UBS³ e o Texto Majoritário, a enorme maioria das redações preferidas pelos editores da UBS tem atestação insignificante por MSS.
 
-##### O Mito da Neutralidade
+#### O Mito da Neutralidade
 
-Precisamos sepultar o mito da neutralidade e objetividade dos estudiosos. Quem quer que tenha estado dentro da comunidade acadêmica sabe que ela é liberalmente semeada com preconceitos, linhas partidárias, ambição pessoal e maldade — sem falarmos de um ódio à Verdade[^546]. Nunca devemos acreditar cegamente na neutralidade e objetividade do outro, e principalmente quando se lida com a Verdade de Deus — porque nesta área nem Deus nem Satanás permitirá neutralidade. Em Mateus 12.30 o Senhor Jesus disse: “Quem não é comigo é contra mim; e quem comigo não ajunta, espalha.” Deus declara que neutralidade é impossível; ou você é por Ele ou você é contra Ele. Jesus afirma ser Deus. Ante tal reivindicação temos somente duas opções, aceitá-Lo ou rejeitá-Lo como Deus. (“Agnosticismo” é realmente uma rejeição passiva.) A Bíblia afirma ser a Palavra de Deus. Novamente, nossas opções não são senão duas. Segue-se que, quando lidamos com o texto da Escritura, neutralidade é impossível. A Bíblia é clara a respeito de interferência satânica nas mentes dos seres humanos, e mais especialmente quando eles estão considerando a Verdade de Deus. 2 Coríntios 4.4 declara claramente que o deus deste século/mundo cega as mentes dos incrédulos quando eles são confrontados com o Evangelho. O Senhor Jesus disse a mesma coisa quando explicou a parábola do semeador: “mas, tendo-a eles ouvido, vem logo Satanás e tira a palavra que foi semeada nos seus corações.” (Marcos 4.15; Lucas 8.12).
+Precisamos sepultar o mito da neutralidade e objetividade dos estudiosos. Quem quer que tenha estado dentro da comunidade acadêmica sabe que ela é liberalmente semeada com preconceitos, linhas partidárias, ambição pessoal e maldade — sem falarmos de um ódio à Verdade[^546]. Nunca devemos acreditar cegamente na neutralidade e objetividade do outro, e principalmente quando se lida com a Verdade de Deus — porque nesta área nem Deus nem Satanás permitirá neutralidade. Em Mateus 12.30 o Senhor Jesus disse: “Quem não é comigo é contra mim; e quem comigo não ajunta, espalha.” Deus declara que neutralidade é impossível; ou você é por Ele ou você é contra Ele. Jesus afirma ser Deus. Ante tal reivindicação temos somente duas opções, aceitá-Lo ou rejeitá-Lo como Deus. (“Agnosticismo” é realmente uma rejeição passiva.) A Bíblia afirma ser a Palavra de Deus. Novamente, nossas opções não são senão duas. Segue-se que, quando lidamos com o texto da Escritura, neutralidade é impossível. A Bíblia é clara a respeito de interferência satânica nas mentes dos seres humanos, e mais especialmente quando eles estão considerando a Verdade de Deus. 2 Coríntios 4.4 declara claramente que o deus deste século/mundo cega as mentes dos incrédulos quando eles são confrontados com o Evangelho. O Senhor Jesus disse a mesma coisa quando explicou a parábola do semeador. “… mas, tendo-a eles ouvido, vem logo Satanás e tira a palavra que foi semeada nos seus corações.” (Marcos 4.15; Lucas 8.12).
 
 Ademais, há uma influência satânica generalizada sobre toda a cultura humana. 1 João 5.19 declara que “todo o mundo jaz no maligno.” O quadro é claramente um de forte influência, se não de controle — as Bíblias NASB, RSV, NEB e “Jerusalem” traduzem como “no poder do,” TEV como “sob o domínio do,” NIV como “sob o controle do,” NKJV como “sob a influência do.” Toda a cultura humana está sob influência satânica generalizada, inclusive a cultura da comunidade acadêmica. Efésios 2.2 é ainda mais preciso: “Em que noutro tempo andastes segundo o curso deste mundo, segundo o príncipe da potestade do ar, do espírito que agora opera nos filhos da desobediência.” Satanás opera ativamente na mente de quem quer que rejeite a autoridade de Deus sobre si. Materialismo tem se infiltrado na Igreja na Europa e na América do Norte, a tal ponto que o que a Bíblia diz neste assunto [ingerência satânica] tem sido amplamente ignorado. Mas eu coloco que se alguém, que afirma crer na Palavra de Deus, aceitar uma edição da Bíblia preparada com base em premissas racionalistas, estará realmente esquecendo o ensino dessa Palavra.
 
@@ -4306,7 +4549,7 @@ Interpretação é preeminentemente uma questão de sabedoria. Um crítico textu
 
 Nos dias de Jesus havia aqueles que “amavam mais a glória dos homens do que a glória de Deus.” (João 12.43), e eles ainda estão conosco. Mas a “glória dos homens” custa um alto preço — você tem que aceitar o sistema de valores deles, um sistema de valores que sofre influência satânica direta. Aceitar o sistema de valores do mundo é basicamente um ato de traição contra o Rei Jesus, é um tipo de idolatria. Aqueles estudiosos conservadores que põem um alto valor em “reconhecimento acadêmico,” em serem reconhecidos pela “comunidade acadêmica,” etc., necessitam se perguntar a si próprios quais são as pressuposições que jazem sob tal reconhecimento. Por favor observar que eu não estou desacreditando a educação e o saber legítimos — eu mesmo já colei três graus de pós-graduação — mas sim estou desafiando os conservadores a se assegurarem que sua definição de erudição vem do Espírito Santo, não do mundo, que sua busca por reconhecimento é piedosa, não egoísta. Alimento uma ligeira desconfiança que, se isto fosse feito, então ocorreria uma mudança dramática no mundo cristão conservador com referência à prática da crítica textual do NT e à identificação do verdadeiro texto do NT.
 
-#### *Conclusão*
+### *Conclusão*
 
 Para resumir, retorno à pergunta inicial: “Que diferença faz?” Não apenas temos a confusão causada por duas formas competidoras do texto grego, bastante diferentes, mas:
 
@@ -4326,6 +4569,10 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^ne2]: **Sobre o Autor**: Wilbur Norman Pickering nasceu em São Paulo, capital, de pais missionários norte-americanos; criado na Bolívia até os 11 anos; casado com Ida Lou Ammerman, americana, e tem duas filhas casadas. Formação norte-americana a partir do segundo grau incluso, mestrado em Teologia pelo Seminário Teológico de Dallas (EUA), mestrado e doutorado em linguística pela Universidade de Toronto (Canadá). Autor de dois livros em inglês: *The Identity of the New Testament Text* e *A Framework for Discourse Analysis*. Colaborou no preparo de *The Greek New Testament According to the Majority Text*. Autor do livro *Guerra Espiritual* (CPAD). Foi assessor-chefe para tradução da Sociedade Internacional de Linguística no Brasil (1967–1971), Secretário Executivo da Associação Wycliffe para Tradução da Bíblia no Brasil (1978–1984), membro da diretoria da ALEM (1982–1986, e desde 1997), professor no Seminário Teológico do Betel Brasileiro em João Pessoa (1991–1994) e diretor da Escola Superior de Guerra Missionária.
 
+### Notas do Tradutor
+
+[^nt1]: **Nota dos Tradutores:** Colacionar (do latim *collationare*, combinar, e do inglês *collate*) = tomar 2 cópias em grego, de um mesmo trecho, e compará-las, confrontá-las, conferi-las, cotejá-las, para verificar a correspondência entre os respectivos textos, que se expressa num estema (árvore genealógica), e assim analisar a maior ou menor autoridade dos documentos, para, finalmente, escolher a leitura exata. Colação (do latim *collatione*, comparação, e do inglês *collation*) = ato ou efeito de colacionar 2 ou mais documentos. Ver ambos verbetes no Dicionário Língua Portuguesa, de Aurélio Buarque de Holanda Ferreira.
+
 ### Notas do Autor e da Edição
 
 [^1]: Uma grande parte da pesquisa subjacente a este livro foi realizada em conexão com a tese de mestrado que submeti ao Seminário Teológico de Dallas, em 1968, com o título “An Evaluation of the Contribution of John William Burgon to New Testament Textual Criticism.” Minha tese foi subsequentemente publicada em forma editada [e não totalmente integral] em True or False?, [livro] editado por D. Otis Fuller, (Grand Rapids: Grand Rapids International Publishers, 1972) — o texto completo da tese aparece na 2ª edição [desse livro de Fuller], em 1975. Nesta presente obra tenho reutilizado algum material da minha tese, com permissão de ambas as entidades.
@@ -4340,9 +4587,9 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^6]: N.trads.: Todas as vezes que o autor referir-se aos inúmeros e gravíssimos defeitos dessas Bíblias modernas (em inglês), poderíamos também dizer o mesmo daquelas Bíblias modernas, em português, que se basearam essencialmente na mesma família de textos críticos, em grego. Isto é, as Bíblias conhecidas como Almeida Edição Contemporânea (AECont), Almeida Revista e Atualizada (ARAtlzd), Almeida Revista e Melhorada (ARMelh), Nova Versão Internacional (NVI), Biblia Viva (BViva), Bíblia na Linguagem de Hoje (BLHoje), e todas as Bíblias ecumênicas, dos romanistas, dos Testemunhas de Jeová e de outras seitas.
 
-[^7]: F. H. A. Scrivener, ed., *The New Testament in the Original Greek, together with the variations adopted in the Revised Version* (Cambridge: Cambridge University Press,1880). A despeito das diferenças entre as edições impressas do texto em grego geralmente usadas [tanto do T. Receptus como do T. Crítico}, todas elas concordam sobre a identidade [isto é, quais são as exatas palavras originais] de cerca de 90 porcento do texto.
+[^7]: F. H. A. Scrivener, ed., *The New Testament in the Original Greek, together with the variations adopted in the Revised Version* (Cambridge: Cambridge University Press,1880). A despeito das diferenças entre as edições impressas do texto em grego geralmente usadas [tanto do T. Receptus como do T. Crítico], todas elas concordam sobre a identidade [isto é, quais são as exatas palavras originais] de cerca de 90 porcento do texto.
 
-[^8]: Por exemplo, Tasker diz dos tradutores da NEB: *“* Cada membro do Painel estava consciente de que algumas das decisões deste [Painel] não eram em nenhum sentido finais nem [bastante] confiáveis, mas, no máximo, conclusões inseguras” *The Greek New* *Testament* [este é o texto traduzido pela New English Bible] ed. R. V. G. Tasker (Oxford: Oxford University Press, 1964), pag. viii. Ver também B. M. Metzger, *Historical and Literary Studies,* NTTS, VIII (Grand Rapids: Wm. B. Eerdmans, 1968), pag. 160–61.
+[^8]: Por exemplo, Tasker diz dos tradutores da NEB: “Cada membro do Painel estava consciente de que algumas das decisões deste [Painel] não eram em nenhum sentido finais nem [bastante] confiáveis, mas, no máximo, conclusões inseguras…” *The Greek New Testament* [este é o texto traduzido pela New English Bible] ed. R. V. G. Tasker (Oxford: Oxford University Press, 1964), pag. viii. Ver também B. M. Metzger, *Historical and Literary Studies,* NTTS, VIII (Grand Rapids: Wm. B. Eerdmans, 1968), pag. 160–61.
 
 [^9]: Bruce M. Metzger é um dos estudiosos do Novo Testamento considerado do mais alto nível, na América do Norte; tem sido professor titular-catedrático na Universidade de Princeton, por muitos anos; e é o autor de muitas obras eruditas, inclusive do livro-texto padrão, *The Text of the New Testament.*
 
@@ -4354,19 +4601,19 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^13]: R. M. Grant, *A Historical Introduction to the New Testament* (New York: Harper and Row, 1963), pag. 51.
 
-[^14]: K. W. Clark, “The Theological Relevance of Textual Variation in Current Criticism of the Greek New Testament,” *Journal of Biblical* *Literature,* LXXXV (1966), pag. 15.
+[^14]: K. W. Clark, “The Theological Relevance of Textual Variation in Current Criticism of the Greek New Testament,” *Journal of Biblical Literature,* LXXXV (1966), pag. 15.
 
-[^15]: Grant, “The Bible of Theophilus of Antioch,” *Journal of Biblical Literature,* LXVI (1947), pag. 173 *.* Para uma declaração a mais pessimista, ver E. C. Colwell, “Biblical Criticism: Lower and Higher,” *Journal of Biblical Literature,* LXVII (1948), pag. 10–11. Ver também G. Zuntz, *The Text of the Epistles*, 1953, pag. 9; K. and S. Lake, *Family 13 (The Ferrar Group),* 1941, pag.vii; F. C. Conybeare, *History of* *New Testament Criticism,* 1910, pag. 129.
+[^15]: Grant, “The Bible of Theophilus of Antioch,” *Journal of Biblical Literature,* LXVI (1947), pag. 173. Para uma declaração a mais pessimista, ver E. C. Colwell, “Biblical Criticism: Lower and Higher,” *Journal of Biblical Literature,* LXVII (1948), pag. 10–11. Ver também G. Zuntz, *The Text of the Epistles*, 1953, pag. 9; K. and S. Lake, *Family 13 (The Ferrar Group),* 1941, pag.vii; F. C. Conybeare, *History of New Testament Criticism,* 1910, pag. 129.
 
-[^16]: No uso normal, o termo **“** ecletismo **”** refere-se à prática de selecionar de várias fontes. Na crítica textual há a implicação adicional de que as fontes são marcadamente distintas em qualidade ou caráter. O que isto significa, na prática, é elucidado na seção “O que é?”, no capítulo 2.
+[^16]: No uso normal, o termo “ecletismo” refere-se à prática de selecionar de várias fontes. Na crítica textual há a implicação adicional de que as fontes são marcadamente distintas em qualidade ou caráter. O que isto significa, na prática, é elucidado na seção “O que é?”, no capítulo 2.
 
 [^17]: E. J. Epp, “The Twentieth Century Interlude in New Testament Textual Criticism,” *Journal of Biblical Literature*, XCIII (1974), pag. 403.
 
-[^18]: E. C. Colwell, “Hort Redivivus: A Plea and a Program,” *Studies in Methodology in Textual Criticism of the New Testament,* E. C. Colwell (Leiden: E. J. Brill, 1969), pag. 152–53. Tasker registra os princípios seguidos pelos tradutores da NEB: “O Texto a ser traduzido terá, necessariamente, que ser eclético,*.”* (pag. vii).
+[^18]: E. C. Colwell, “Hort Redivivus: A Plea and a Program,” *Studies in Methodology in Textual Criticism of the New Testament,* E. C. Colwell (Leiden: E. J. Brill, 1969), pag. 152–53. Tasker registra os princípios seguidos pelos tradutores da NEB: “O Texto a ser traduzido terá, necessariamente, que ser eclético, …” (pag. vii).
 
 [^19]: Metzger, *The Text,* pag. 175–76.
 
-[^20]: O falecido Ernest Cadman Colwell bem poderia ter sido descrito como o deão da crítica do Novo Testamento, na América do Norte, durante as décadas 1950 e 1960. Ele foi associado com a Universidade de Chicago por muitos anos como professor titularcatedrático e como reitor. Alguns dos seus artigos importantes têm sido coletados e reimpressos em *Studies in Methodology in Tex-* *tual Criticism of the New Testament.*
+[^20]: O falecido Ernest Cadman Colwell bem poderia ter sido descrito como o deão da crítica do Novo Testamento, na América do Norte, durante as décadas 1950 e 1960. Ele foi associado com a Universidade de Chicago por muitos anos como professor titular-catedrático e como reitor. Alguns dos seus artigos importantes têm sido coletados e reimpressos em *Studies in Methodology in Textual Criticism of the New Testament.*
 
 [^21]: Colwell, *“Biblical Criticism,”* pag. 4–5. Para palavras do mesmo efeito, ver também K. Lake, *The Text of the New Testament,* 6ª edição, revisada por Silva New (London: Rivingtons, 1959), pag. 10. Ver também Metzger, *The Text,* pag. 216–17.
 
@@ -4386,7 +4633,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^29]: F. G. Kenyon, *Handbook to the Textual Criticism of the New Testament,* 2nd ed., 1926, pag. 3.
 
-[^30]: Epp, pag. 403–4. Compare K. W. Clark, “The Effect of Recent Textual Criticism upon New Testament Studies,” *The Background of* *the New Testament and its Eschatology*, ed. W. D. Davies and D. Daube (Cambridge: The Cambridge University Press, 1956), pag. 37. Em um artigo apresentado no 46º encontro anual da “Evangelical Theological Society” (Nov. 1964), Maurice A. Robinson enfatiza a deficiência séria [consistente no fato] que “*nem o ecletismo ‘racionalizado’ nem o ‘rigoroso’ oferecem uma história coerente da transmissão textual.*” (pag. 30). A seriedade desta deficiência pode ser vista nos resultados [do ecletismo]. UBS 3, um texto confessadamente eclético, repetidamente nos oferece uma colcha de retalhos. Por exemplo, em Mateus há pelo menos 34 locais onde a exata redação não se encontra em nenhum MS grego disponível, tomado isoladamente (compare R. J. Swanson, *The Horizontal Line* *Synopsis of the Gospels, Greek Edition, Volume I. The Gospel of Matthew* [Dillsboro, NC: Western North Carolina Press, 1982]).
+[^30]: Epp, pag. 403–4. Compare K. W. Clark, “The Effect of Recent Textual Criticism upon New Testament Studies,” *The Background of the New Testament and its Eschatology*, ed. W. D. Davies and D. Daube (Cambridge: The Cambridge University Press, 1956), pag. 37. Em um artigo apresentado no 46º encontro anual da “Evangelical Theological Society” (Nov. 1964), Maurice A. Robinson enfatiza a deficiência séria [consistente no fato] que “*nem o ecletismo ‘racionalizado’ nem o ‘rigoroso’ oferecem uma história coerente da transmissão textual. …” (pag. 30). A seriedade desta deficiência pode ser vista nos resultados [do ecletismo]. UBS³, um texto confessadamente eclético, repetidamente nos oferece uma colcha de retalhos. Por exemplo, em Mateus há pelo menos 34 locais onde a exata redação não se encontra em nenhum MS grego disponível, tomado isoladamente (compare R. J. Swanson, *The Horizontal Line Synopsis of the Gospels, Greek Edition, Volume I. The Gospel of Matthew* [Dillsboro, NC: Western North Carolina Press, 1982]).
 
 [^31]: A. F. J. Klijn é um bem conhecido estudioso textual que tem se especializado no estudo do “tipo-texto Ocidental.”
 
@@ -4398,7 +4645,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^35]: *Ibid.,* pag. 398–99.
 
-[^36]: correntes de transmissão que precisam ser consideradas!
+[^36]: Metzger afirma que “o [método de] crítica de Westcott e Hort é subjetivo,” *The Text*, pag. 138. Ver também Colwell, *Studies in Methodology in Textual Criticism of the New Testament* (Leiden: E.J. Brill, 1969), pag. 1–2.
 
 [^37]: Elliott, pag. 5–6.
 
@@ -4410,7 +4657,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^41]: Colwell, “Hort Redivivus,” pag. 149.
 
-[^42]: Ver K. W. Clark, “Today’s Problems with the Critical Text of the New Testament,” *Transitions in Biblical Scholarship,* ed. J. C. R. Rylaarsdam (Chicago: The University of Chicago Press, 1968), pag. 159–60, para fatos e números. Ver também Epp, pag. 388–90. G. D. Fee tem levantado a acusação de que meu tratamento de ecletismo é “desesperançadamente confuso” (“A Critique of W. N. Pickering’s *The Identity of the New Testament Text*: A Review Article,” *The Westminster Theological Journal*, XLI [Spring, 1979], pag. 400). Ele acha que eu não distingui adequadamente entre ecletismo “rigoroso” (por mim chamado “puro”) e “racionalizado”; e que tenho, portanto, dado uma visão distorcida do último. Bem, ele próprio diz do ecletismo racionalizado que esposa: “Tal ecletismo reconhece que a visão das coisas de W-H, foi essencialmente correta” (*Ibid*., pag. 402). Minha declaração é “Mas a maioria dos estudiosos não pratica ecletismo **puro** — a eles ainda trabalham essencialmente dentro do arcabouço de W-H.” (pag. 28, na edição em inglês). São as duas declarações realmente tão diferentes? A imparcialidade desta avaliação pode ser ilustrada a partir dos trabalhos de ambos Fee e Metzger (a quem Fee considera ser um praticante do ecletismo racionalizado). Em sua “Rigorous or Reasoned Eclecticism — Which?” (*Studies in New Testament Lan-* *guage and Text,* ed. J. K. Elliott [Leiden; Brill, 1976]), Fee diz: “Ecletismo racionalizado concorda, em princípio, que nenhum MS ou grupo de MSS tem uma prioridade prima facie [isto é, prioridade auto-evidente, desde a primeira visão] como [reproduzindo] o texto original” (pag. 179). Mas, na página seguinte, ele diz de Hort: “se sua avaliação de B como ‘Neutro’ foi uma deferência demasiadamente elevada àquele MS, isto não altera seu julgamento que, comparado a todos os outros MSS, B **é** uma testemunha superior.” Metzger diz, por um lado: “a única metodologia apropriada é examinar a evidência de cada variante imparcialmente, sem nenhuma predileção a favor ou contra qualquer um dos tipos de texto” (*Chapters*, pag. 39), mas, por outro lado, [diz]: “leituras que são atestadas somente por testemunhas Koiné [o grego comum], isto é, testemunhas Bizantinas (o grupo Sírio, de Hort) podem ser postas de lado [isto é, descartadas] como sendo secundárias, com certeza quase que total” (*The Text,* pag. 212). Mas Fee tem mais a dizer: “Um erro ainda maior [do que minha ‘distorção’ acima tratada] é ele [Pickering] argumentar que o método de Elliott está sob ‘a pressão psicológica de W-H.’” (pag. 29; “A Critique”, pag. 401). Ele [Fee] segue em frente, para explicar que Elliott e W-H estão em extremos opostos do espectro de evidências internas/externas, porque “é bem conhecido que W-H dão um peso extraordinário à evidência externa, exatamente como o fazem Pickering e Hodges” (*Ibid*.). No entanto, em outra ocasião, o próprio Fee escreveu: “tem que ser relembrado que Hort não usou genealogia para descobrir o texto original do NT. Quer justificadamente ou não, Hort usou genealogia somente para descartar o texto Sírio (Bizantino). Uma vez que ele tem eliminado os Bizantinos de serem seriamente considerados, sua preferência pelos MSS neutros (egípcios) foi fundada estritamente sobre probabilidades intrínseca e transcricional” [ênfases de Fee] (*“Rigorous”*, pag. 177). E novamente: “De fato, as próprias considerações internas que Kilpatrick e Elliott defendem como a base para a recuperação do texto original, Hort as usou primeiro [ênfase de Fee] para a avaliação das testemunhas existentes.” (*Ibid*., pag. 179). Parece-me que estas últimas declarações de Fee são claramente corretas. Uma vez que a preferência de Hort por B e pelo tipotexto “Neutro” foi baseada “estritamente” sobre considerações internas, seu uso subsequente daquele tipo-texto não pode ser racionalmente chamado de um apelo a evidências externas. Em resumo, não vejo nenhuma diferença essencial entre ecletismo “rigoroso” e ecletismo “racionalizado”, porque a preferência dada a certos MSS e tipos pelos ecletistas “racionalizados” é ela própria derivada de evidência interna, as mesmas considerações empregadas pelos ecletistas “rigorosos”. Eu nego a validade do “método eclético”, sob qualquer disfarce, como um meio de determinar a identidade do texto [original] do NT. (No entanto, eu decididamente concordo com Z. C. Hodges que qualquer e todas as leituras do Texto Tradicional podem ser defendidas em termos de considerações internas, se alguém desejar fazê-lo).
+[^42]: Ver K. W. Clark, “Today’s Problems with the Critical Text of the New Testament,” *Transitions in Biblical Scholarship,* ed. J. C. R. Rylaarsdam (Chicago: The University of Chicago Press, 1968), pag. 159–60, para fatos e números. Ver também Epp, pag. 388–90. G. D. Fee tem levantado a acusação de que meu tratamento de ecletismo é “desesperançadamente confuso” (“A Critique of W. N. Pickering’s *The Identity of the New Testament Text*: A Review Article,” *The Westminster Theological Journal*, XLI [Spring, 1979], pag. 400). Ele acha que eu não distingui adequadamente entre ecletismo “rigoroso” (por mim chamado “puro”) e “racionalizado”; e que tenho, portanto, dado uma visão distorcida do último. Bem, ele próprio diz do ecletismo racionalizado que esposa: “Tal ecletismo reconhece que a visão das coisas de W-H, foi essencialmente correta, … (*Ibid*., pag. 402).” Minha declaração é “Mas a maioria dos estudiosos não pratica ecletismo **puro** — a eles ainda trabalham essencialmente dentro do arcabouço de W-H.” (pag. 28, na edição em inglês). São as duas declarações realmente tão diferentes? A imparcialidade desta avaliação pode ser ilustrada a partir dos trabalhos de ambos Fee e Metzger (a quem Fee considera ser um praticante do ecletismo racionalizado). Em sua “Rigorous or Reasoned Eclecticism — Which?” (*Studies in New Testament Language and Text,* ed. J. K. Elliott [Leiden; Brill, 1976]), Fee diz: “Ecletismo racionalizado concorda, em princípio, que nenhum MS ou grupo de MSS tem uma prioridade prima facie [isto é, prioridade auto-evidente, desde a primeira visão] como [reproduzindo] o texto original” (pag. 179). Mas, na página seguinte, ele diz de Hort: “se sua avaliação de B como ‘Neutro’ foi uma deferência demasiadamente elevada àquele MS, isto não altera seu julgamento que, comparado a todos os outros MSS, B **é** uma testemunha superior.” Metzger diz, por um lado: “a única metodologia apropriada é examinar a evidência de cada variante imparcialmente, sem nenhuma predileção a favor ou contra qualquer um dos tipos de texto” (*Chapters*, pag. 39), mas, por outro lado, [diz]: “leituras que são atestadas somente por testemunhas Koiné [o grego comum], isto é, testemunhas Bizantinas (o grupo Sírio, de Hort) podem ser postas de lado [isto é, descartadas] como sendo secundárias, com certeza quase que total” (*The Text,* pag. 212). Mas Fee tem mais a dizer: “Um erro ainda maior [do que minha ‘distorção’ acima tratada] é ele [Pickering] argumentar que o método de Elliott está sob ‘a pressão psicológica de W-H.’” (pag. 29; “A Critique”, pag. 401). Ele [Fee] segue em frente, para explicar que Elliott e W-H estão em extremos opostos do espectro de evidências internas/externas, porque “é bem conhecido que W-H dão um peso extraordinário à evidência externa, exatamente como o fazem Pickering e Hodges” (*Ibid*.). No entanto, em outra ocasião, o próprio Fee escreveu: “tem que ser relembrado que Hort não usou genealogia para descobrir o texto original do NT. Quer justificadamente ou não, Hort usou genealogia somente para descartar o texto Sírio (Bizantino). Uma vez que ele tem eliminado os Bizantinos de serem seriamente considerados, sua preferência pelos MSS neutros (egípcios) foi fundada estritamente sobre probabilidades intrínseca e transcricional” [ênfases de Fee] (*“Rigorous”*, pag. 177). E novamente: “De fato, as próprias considerações internas que Kilpatrick e Elliott defendem como a base para a recuperação do texto original, Hort as usou primeiro [ênfase de Fee] para a avaliação das testemunhas existentes.” (*Ibid*., pag. 179). Parece-me que estas últimas declarações de Fee são claramente corretas. Uma vez que a preferência de Hort por B e pelo tipotexto “Neutro” foi baseada “estritamente” sobre considerações internas, seu uso subsequente daquele tipo-texto não pode ser racionalmente chamado de um apelo a evidências externas. Em resumo, não vejo nenhuma diferença essencial entre ecletismo “rigoroso” e ecletismo “racionalizado”, porque a preferência dada a certos MSS e tipos pelos ecletistas “racionalizados” é ela própria derivada de evidência interna, as mesmas considerações empregadas pelos ecletistas “rigorosos”. Eu nego a validade do “método eclético”, sob qualquer disfarce, como um meio de determinar a identidade do texto [original] do NT. (No entanto, eu decididamente concordo com Z. C. Hodges que qualquer e todas as leituras do Texto Tradicional podem ser defendidas em termos de considerações internas, se alguém desejar fazê-lo).
 
 [^43]: Epp. Pag. 390–91. Compare G. Zuntz, pag. 8. Epp reforça uma declaração anterior de Aland: “É claro que a situação com a qual o método dos nossos presentes dias, para estabelecer o texto do Novo Testamento, nos confronta, é decididamente insatisfatória. Não é de forma alguma o caso, como alguns parecem pensar, que tudo já tem sido feito neste campo e nós podemos, para propósitos práticos, descansar satisfeitos com o texto em uso. Ao contrário, a tarefa decisiva ainda está à frente.” “The Present Position of New Testament Textual Criticism.” *Studia Evangelica,* ed. F. L. Cross e outros (Berlin: Akademie — Verlag, 1959), pag. 731.
 
@@ -4420,11 +4667,11 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^46]: *Ibid.,* pag. 158–60. Compare M. M. Parvis, “Text, NT.,” *The Interpreter’s Dictionary of the Bible* (4 Vols.; New York: Abingdon Press, 1962), IV, pag. 602, e D. W. Riddle, “Fifty Years of New Testament Scholarship,” *The Journal of Bible and Religion,* X (1942), pag. 139.
 
-[^47]: Compare Clark, “Today’s Problems” *,* pag. 166; e especialmente Colwell, “Scribal Habits” pag. 170–71.
+[^47]: Compare Clark, “Today’s Problems”, pag. 166; e especialmente Colwell, “Scribal Habits” pag. 170–71.
 
 [^48]: Os resultados de Elliott são interessantes de uma maneira adicional. Ele faz sua reconstrução “sem amarras” de considerações sobre a sustentação por manuscritos, e então investiga o desempenho dos principais manuscritos. Sumariando sua enunciação dos resultados, e considerando apenas aqueles locais onde houve variação, Códice Aleph esteve certo 38% das vezes, Códice A esteve certo 38% das vezes Códice C certo 41%, Códice D certo 35%, F e G certos 31% [cada um deles], e a massa dos minúsculos (Bizantinos) esteve certo 35% das vezes (pag. 241–43). Ele afirma que fazendo uma reconstrução [do texto] à sua maneira habilita uma pessoa a investigar o comportamento dos MSS individuais e então mostrar suas “flutuações contra a lógica”. Tal investigação é baseada sobre sua própria avaliação subjetiva das leituras, mas as flutuações contra a lógica podem ser vistas empiricamente ao se comparar as colações de uma variedade de MSS. Nota dos Tradutores: **Colacionar** (do latim *collationare,* combinar, e do inglês *collate*) = tomar 2 cópias em grego, de um mesmo trecho, e compará-las, confrontá-las, conferi-las, cotejá-las, para verificar a correspondência entre os respectivos textos, que se expressa num estema (árvore genealógica), e assim analisar a maior ou menor autoridade dos documentos, para, finalmente, escolher a leitura exata. **Colação** (do latim *collatione*, comparação, e do inglês *collation*) = ato ou efeito de colacionar 2 ou mais documentos. Ver ambos verbetes no Dicionário Língua Portuguesa, de Aurélio Buarque de Holanda Ferreira.
 
-[^49]: Ver, por exemplo, K. Aland, “The Significance of the Papyri,” pag. 325; Colwell, “Scribal Habits,” pag. 370; Metzger, *The Text,* pag. 137; V. Taylor, *The Text of the New Testament* (New York: St. Martin’s Press Inc., 1961), pag. 49; K. Lake, pag. 67; F. G. Kenyon, *Handbook to the Textual Criticism of the New Testament* (2 nd ed.; Grand Rapids: Wm B. Eerdmans Publishing Co., 1951), pag. 294; Epp, “Interlude,” pag. 386, e Riddle, Parvis and Clark, acima referidos (Nota de Rodapé 30).
+[^49]: Ver, por exemplo, K. Aland, “The Significance of the Papyri,” pag. 325; Colwell, “Scribal Habits,” pag. 370; Metzger, *The Text,* pag. 137; V. Taylor, *The Text of the New Testament* (New York: St. Martin’s Press Inc., 1961), pag. 49; K. Lake, pag. 67; F. G. Kenyon, *Handbook to the Textual Criticism of the New Testament* (2nd ed.; Grand Rapids: Wm B. Eerdmans Publishing Co., 1951), pag. 294; Epp, “Interlude,” pag. 386, e Riddle, Parvis and Clark, acima referidos (Nota de Rodapé 30).
 
 [^50]: J. H. Greenlee, *Introduction to New Testament Textual Criticism* (Grand Rapids: Wm. B. Eerdmans Publishing Co., 1964), pag. 78.
 
@@ -4438,9 +4685,9 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^55]: *Ibid*., pag. 264.
 
-[^56]: A expressão *“Textus Receptus* ” se refere, propriamente, a uma das edições impressas do texto grego do N. T. associadas em caráter com o texto preparado por Erasmo, no século XVI. (De mais de 30 tais edições, poucas são idênticas). Este TR não é idêntico ao texto refletido na AV (embora seja bastante próximo), nem ainda ao assim chamado texto “Sírio” ou “Bizantino” (estes termos serão introduzidos abaixo, neste capítulo). A edição crítica do texto “Bizantino”, preparada por Zane C. Hodges, ex-professor titularcatedrático de Literatura e Exegese do Novo Testamento no Seminário Teológico de Dallas, por Arthur L. Farstad, e por outros, e publicado por Thomas Nelson em 1982, difere do *Textus Receptus* em mais ou menos 1500 locais [a maioria faz pouca diferença no sentido].
+[^56]: A expressão “*Textus Receptus*” se refere, propriamente, a uma das edições impressas do texto grego do N. T. associadas em caráter com o texto preparado por Erasmo, no século XVI. (De mais de 30 tais edições, poucas são idênticas). Este TR não é idêntico ao texto refletido na AV (embora seja bastante próximo), nem ainda ao assim chamado texto “Sírio” ou “Bizantino” (estes termos serão introduzidos abaixo, neste capítulo). A edição crítica do texto “Bizantino”, preparada por Zane C. Hodges, ex-professor titular-catedrático de Literatura e Exegese do Novo Testamento no Seminário Teológico de Dallas, por Arthur L. Farstad, e por outros, e publicado por Thomas Nelson em 1982, difere do *Textus Receptus* em mais ou menos 1500 locais [a maioria faz pouca diferença no sentido].
 
-[^57]: Colwell, *“Hort Redivivus,* ” pag. 158.
+[^57]: Colwell, “Hort Redivivus,” pag. 158.
 
 [^58]: Colwell, “Genealogical Method: Its Achievements and its Limitations,” *Journal of Biblical Literature,* LXVI (1947), pag. 111.
 
@@ -4452,17 +4699,17 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^62]: *Ibid.*, pag. 57.
 
-[^63]: Colwell, *“Genealogical Method,” pag.* 111.
+[^63]: Colwell, “Genealogical Method,” pag. 111.
 
-[^64]: Westcott e Hort, pag. 178–179. Observar que Hort fez uso de somente uma pequena fração dos manuscritos existentes na sua época. Compare K. Aland *“The Significance of the Papyri,”* pag. 327–28. Uma checagem de *“Notes on Select Readings* ”, de W-H, no volume 2 da obra deles, *The New Testament in the Original Greek*, sugere que Aland é, provavelmente, generoso.
+[^64]: Westcott e Hort, pag. 178–179. Observar que Hort fez uso de somente uma pequena fração dos manuscritos existentes na sua época. Compare K. Aland *“The Significance of the Papyri,”* pag. 327–28. Uma checagem de “*Notes on Select Readings*”, de W-H, no volume 2 da obra deles, *The New Testament in the Original Greek*, sugere que Aland é, provavelmente, generoso.
 
 [^65]: Westcott e Hort, pag. 49.
 
-[^66]: Ibid., pag. 106. Isto parece bastante óbvio, uma vez que os materiais usados para manufaturar alguma coisa têm necessariamente que existir antes do produto resultante. Um possível exemplo claro ocorre em Lucas 24.53. O texto “Ocidental” traz “louvando a Deus”, o “Neutro” traz “bendizendo a Deus” e o “Sírio” traz “louvando e bendizendo a Deus.” De acordo com a hipótese de Hort, a redação mais longa foi construída a partir das duas mais curtas. Observar que o uso da palavra “conflação” traz embutida a rejeição da possibilidade que a redação mais longa seja a original e que as mais curtas sejam simplificações independentes da mesma.
+[^66]: *Ibid*., pag. 106. Isto parece bastante óbvio, uma vez que os materiais usados para manufaturar alguma coisa têm necessariamente que existir antes do produto resultante. Um possível exemplo claro ocorre em Lucas 24.53. O texto “Ocidental” traz “louvando a Deus”, o “Neutro” traz “bendizendo a Deus” e o “Sírio” traz “louvando e bendizendo a Deus.” De acordo com a hipótese de Hort, a redação mais longa foi construída a partir das duas mais curtas. Observar que o uso da palavra “conflação” traz embutida a rejeição da possibilidade que a redação mais longa seja a original e que as mais curtas sejam simplificações independentes da mesma.
 
 [^67]: Marcos 6.33, 8.26, 9.38, 9.49, Lucas 9.10, 11.54, 12.18, 24.53.
 
-[^68]: Westcott e Hort, pag. 106. Por “grupo α ” Hort quer dizer seu texto “Neutro”, por “grupo β ” seu texto “Ocidental”, e por “grupo δ ” seu texto “Sírio”.
+[^68]: Westcott e Hort, pag. 106. Por “grupo α” Hort quer dizer seu texto “Neutro”, por “grupo β” seu texto “Ocidental”, e por “grupo δ” seu texto “Sírio”.
 
 [^69]: Cf. Kenyon, pag. 302; E. F. Harrison, *Introduction to the New Testament* (Grand Rapids: Wm. B. Eerdmans Publishing Co., 1964), pag. 73; e Metzger, *The Text*, pag. 135–36.
 
@@ -4482,7 +4729,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^77]: *Ibid*., pag. 115–16.
 
-[^78]: Ver, por exemplo, Kenyon, R *ecent Developments*, pag. 66, Metzger, *The Text*, pag. 131, e Greenlee, pag. 91.
+[^78]: Ver, por exemplo, Kenyon, *Recent Developments*, pag. 66, Metzger, *The Text*, pag. 131, e Greenlee, pag. 91.
 
 [^79]: Westcott e Hort, pag. 133.
 
@@ -4514,9 +4761,9 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^93]: Colwell, “The Origin of Textypes of New Testament Manuscripts,” *Early Christian Origins*, ed. Allen Wikgren (Chicago: Quadrangle Books, 1961), pag. 130.
 
-[^94]: J. W. Burgon, *The Causes of the Corruption of the Traditional Text of the Holy Gospels*, arranjado, completado e editado por Edward Miller (London: George Bell and Sons, 1896), pags. 211–12. Cf. Martin Rist, “Pseudepigraphy and the Early Christians,” *Studies in* *New Testament and Early Christian Literature*, ed. D. E. Aune (Leiden: E. J. Brill, 1972), pags. 78–79.
+[^94]: J. W. Burgon, *The Causes of the Corruption of the Traditional Text of the Holy Gospels*, arranjado, completado e editado por Edward Miller (London: George Bell and Sons, 1896), pags. 211–12. Cf. Martin Rist, “Pseudepigraphy and the Early Christians,” *Studies in New Testament and Early Christian Literature*, ed. D. E. Aune (Leiden: E. J. Brill, 1972), pags. 78–79.
 
-[^95]: Colwell, *What is the Best New Testament?* (Chicago: The University of Chicago Press, 1952), pag. 53. Observe que Colwell contradiz Hort frontalmente. Hort disse que não haviam variantes motivadas teologicamente; Colwell disse que elas são a maioria. Mas, na próxima citação, Colwell usa o termo “deliberadamente”, sem se referir a teologia (ambas as citações vêm do mesmo trabalho, a cinco páginas uma da outra). Que é que Colwell quer realmente dizer? Não mais podemos perguntar-lhe pessoalmente, mas a seguir arriscarei dar uma interpretação por minha conta. Os MSS contém várias centenas de milhares de leituras variantes. A enorme maioria delas é de erros de ortografia ou outros erros óbvios devidos a falta de cuidado ou a ignorância por parte dos copistas. Como puro ‘chute’ eu diria que há entre dez e quinze mil variantes que não podem ser tão facilmente descartadas — i.e., um máximo de cinco porcento das variantes são “significantes”. É a este cinco porcento que Colwell (e Kilpatrick, Scrivener, Zuntz, etc.) se refere quando fala da “criação” de leituras variantes. Um bom número destas provavelmente também resulta de acidente, mas Colwell afirma, e eu concordo, que a maior parte delas foi criada deliberadamente. Mas por que alguém tomaria o peso de fazer alterações deliberadas no texto? Colwell responde, “porque eles eram o tesouro religioso da igreja.” Algumas alterações seriam “bem intencionadas” — muitas harmonizações presumivelmente vieram a ocorrer por que um copista zeloso sentiu que uma suposta discrepância era um embaraço à sua elevada visão da Escritura. A mesma coisa provavelmente é verdadeira quanto a muitas mudanças filológicas. Por exemplo, o estilo simples Koinê dos escritos do Novo Testamento foi ridicularizado pelo pagão Celso, entre outros. Embora Origines defendesse a simplicidade do estilo do Novo Testamento, o espaço que deu à questão indica que ela era objeto de alguma preocupação (*Against Celsus*, Livro VI, capítulos 1 e 2), tanto assim que houve provavelmente aqueles que alteraram o texto para “melhorar” seu estilo. Novamente o motivo deles seria embaraço, derivando de uma elevada visão da Escritura. Seguramente Colwell está correto ao dizer que a motivação para tais variantes foi teológica embora nenhum propósito doutrinário óbvio esteja sendo servido. A julgar pelas declarações enfáticas dos antigos Pais, haviam muitas outras alterações que não foram “bem intencionadas”. Parece claro que numerosas variantes existiram no segundo século que não sobreviveram em nenhum manuscrito hoje existente. Metzger refere-se ao detalhado estudo de Gwilliam dos capítulos 1–14 de Mateus na Peshitta Siríaca, como reportado em “The Place of the Peshitta Version in the Apparatus Criticus of the Greek N. T.,” *Studia Biblica et Ecclesiastica V*, 1903, 187–237. Do fato que em trinta e uma instâncias a Peshitta está sozinha (naqueles capítulos), Gwilliam concluiu que seu desconhecido autor “revisou um antigo trabalho a partir de MSS gregos que agora não têm representante sobrevivente (pag.237).” (*The Early Versions of the New Testament*, Oxford, 1977, pag. 61.) Em uma comunicação pessoal, Peter J. Johnston, um membro do painel editorial da IGNT trabalhando especificamente com as versões e os pais siríacos, diz da Versão Harkleana: “Leituras referenciadas confiantemente na margem harkleana como [estando] em 'bem-aprovados MSS em Alexandria', algumas vezes não chegaram até nós de modo algum, ou se chegaram, são encontradas apenas em MSS minúsculos medievais.” Comentando sobre as discrepâncias entre as declarações de Jerônimo sobre a evidência dos MSS e aquela hoje existente, Metzger conclui por dizer, “a possibilidade inquietante permanece que a evidência que nos é hoje disponível pode, em certos casos, ser totalmente não representativa da distribuição de leituras na igreja primitiva” (“St. Jerome's explicit references to variant readings in manuscripts of the New Testament,” *Text and Interpretation: Studies in the* *New Testament presented to Matthew Black*, editado por Best e McL. Wilson, Cambridge: University Press, 1979, pag. 188). Alguns dos meus críticos parecem achar que a evidência que nos chegou às mãos dos primeiros séculos é representativa (cf. Fee, “A Critique,” pag. 405). No entanto, há boa razão para crer que não o é, e neste caso os MSS sobreviventes podem preservar alguns sobreviventes aleatórios de conjuntos de alterações intencionadas para servir a um ou outro propósito doutrinário. A motivação para uma tal leitura isolada não nos seria aparente hoje, necessariamente. Eu iria além de Colwell e diria que a disposição para alterar o texto, mesmo com “boas intenções”, ela própria denuncia uma mentalidade que tem implicações teológicas. (Aqueles que estão decididos a levar o Texto Sagrado a sério fariam bem em ponderar as implicações de Ef 2.2, “o espírito [Satanás] que agora opera nos filhos da desobediência,” não apenas durante os primeiros 200 anos da Igreja mas também durante os últimos 200.)
+[^95]: Colwell, *What is the Best New Testament?* (Chicago: The University of Chicago Press, 1952), pag. 53. Observe que Colwell contradiz Hort frontalmente. Hort disse que não haviam variantes motivadas teologicamente; Colwell disse que elas são a maioria. Mas, na próxima citação, Colwell usa o termo “deliberadamente”, sem se referir a teologia (ambas as citações vêm do mesmo trabalho, a cinco páginas uma da outra). Que é que Colwell quer realmente dizer? Não mais podemos perguntar-lhe pessoalmente, mas a seguir arriscarei dar uma interpretação por minha conta. Os MSS contém várias centenas de milhares de leituras variantes. A enorme maioria delas é de erros de ortografia ou outros erros óbvios devidos a falta de cuidado ou a ignorância por parte dos copistas. Como puro ‘chute’ eu diria que há entre dez e quinze mil variantes que não podem ser tão facilmente descartadas — i.e., um máximo de cinco porcento das variantes são “significantes”. É a este cinco porcento que Colwell (e Kilpatrick, Scrivener, Zuntz, etc.) se refere quando fala da “criação” de leituras variantes. Um bom número destas provavelmente também resulta de acidente, mas Colwell afirma, e eu concordo, que a maior parte delas foi criada deliberadamente. Mas por que alguém tomaria o peso de fazer alterações deliberadas no texto? Colwell responde, “porque eles eram o tesouro religioso da igreja.” Algumas alterações seriam “bem intencionadas” — muitas harmonizações presumivelmente vieram a ocorrer por que um copista zeloso sentiu que uma suposta discrepância era um embaraço à sua elevada visão da Escritura. A mesma coisa provavelmente é verdadeira quanto a muitas mudanças filológicas. Por exemplo, o estilo simples Koinê dos escritos do Novo Testamento foi ridicularizado pelo pagão Celso, entre outros. Embora Origines defendesse a simplicidade do estilo do Novo Testamento, o espaço que deu à questão indica que ela era objeto de alguma preocupação (*Against Celsus*, Livro VI, capítulos 1 e 2), tanto assim que houve provavelmente aqueles que alteraram o texto para “melhorar” seu estilo. Novamente o motivo deles seria embaraço, derivando de uma elevada visão da Escritura. Seguramente Colwell está correto ao dizer que a motivação para tais variantes foi teológica embora nenhum propósito doutrinário óbvio esteja sendo servido. A julgar pelas declarações enfáticas dos antigos Pais, haviam muitas outras alterações que não foram “bem intencionadas”. Parece claro que numerosas variantes existiram no segundo século que não sobreviveram em nenhum manuscrito hoje existente. Metzger refere-se ao detalhado estudo de Gwilliam dos capítulos 1–14 de Mateus na Peshitta Siríaca, como reportado em “The Place of the Peshitta Version in the Apparatus Criticus of the Greek N. T.,” *Studia Biblica et Ecclesiastica V*, 1903, 187–237. Do fato que em trinta e uma instâncias a Peshitta está sozinha (naqueles capítulos), Gwilliam concluiu que seu desconhecido autor “revisou um antigo trabalho a partir de MSS gregos que agora não têm representante sobrevivente (pag.237).” (*The Early Versions of the New Testament*, Oxford, 1977, pag. 61.) Em uma comunicação pessoal, Peter J. Johnston, um membro do painel editorial da IGNT trabalhando especificamente com as versões e os pais siríacos, diz da Versão Harkleana: “Leituras referenciadas confiantemente na margem harkleana como [estando] em ‘bem-aprovados MSS em Alexandria’, algumas vezes não chegaram até nós de modo algum, ou se chegaram, são encontradas apenas em MSS minúsculos medievais.” Comentando sobre as discrepâncias entre as declarações de Jerônimo sobre a evidência dos MSS e aquela hoje existente, Metzger conclui por dizer, “a possibilidade inquietante permanece que a evidência que nos é hoje disponível pode, em certos casos, ser totalmente não representativa da distribuição de leituras na igreja primitiva” (“St. Jerome’s explicit references to variant readings in manuscripts of the New Testament,” *Text and Interpretation: Studies in the New Testament presented to Matthew Black*, editado por Best e McL. Wilson, Cambridge: University Press, 1979, pag. 188). Alguns dos meus críticos parecem achar que a evidência que nos chegou às mãos dos primeiros séculos é representativa (cf. Fee, “A Critique,” pag. 405). No entanto, há boa razão para crer que não o é, e neste caso os MSS sobreviventes podem preservar alguns sobreviventes aleatórios de conjuntos de alterações intencionadas para servir a um ou outro propósito doutrinário. A motivação para uma tal leitura isolada não nos seria aparente hoje, necessariamente. Eu iria além de Colwell e diria que a disposição para alterar o texto, mesmo com “boas intenções”, ela própria denuncia uma mentalidade que tem implicações teológicas. (Aqueles que estão decididos a levar o Texto Sagrado a sério fariam bem em ponderar as implicações de Ef 2.2, “… o espírito [Satanás] que agora opera nos filhos da desobediência,” não apenas durante os primeiros 200 anos da Igreja mas também durante os últimos 200.)
 
 [^96]: Colwell, *What is the Best New Testament?*, pag. 58.
 
@@ -4524,7 +4771,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^98]: H. H. Oliver, “Present Trends in the Textual Criticism of the New Testament,” *The Journal of Bible and Religion*, XXX (1962), 311–12. Cf. C. S. C. Williams, *Alterations to the Text of the Synoptic Gospels and Acts* (Oxford: Basil Blackwell, 1951), pags. 14–17.
 
-[^99]: A “inconveniência” referida é virtualmente fatal à teoria de W-H, pelo menos como formulada em sua “Introduction.” A teoria de W-H é muito semelhante a um prédio de muitos andares — cada um apoia-se sobre e depende daquele sob si. Assim, a noção simplista de Hort sobre “genealogia” é absolutamente dependente da alegação de que não houve alteração *deliberada* do texto, e sua noção de “tipos de texto” é absolutamente dependente da “genealogia”, e seus argumentos com respeito à “conflação” e “leituras sírias” antes de Crisóstomo dependem absolutamente daqueles “tipos de texto”. O alicerce de todo o edifício é a posição de Hort que o Novo Testamento foi um livro comum que gozou de uma transmissão comum. Com seu fundamento removido, o edifício rui. Fee parece errar de alvo quando diz, “se o 'fundamento' for seguro, então a estrutura sobre ele erigida pode somente necessitar algum reforço, não demolição” (“A Critique,” pag. 404). A remoção de qualquer dos andares intermediários também irá 'destruir o edifício,' isto é, invalidar as conclusões de Hort. Parece-me que pelo menos os três primeiros andares do edifício de Hort são irrecuperáveis. Fee afirma que eu confundo mudanças “deliberadas” com “dogmáticas” [portanto doutrinárias] e, consequentemente, minha crítica do alicerce de Hort é reprovada. (“A Critique,” pags. 404–8). Em suas próprias palavras, “A vasta maioria das adulterações textuais, embora deliberadas, **não são** maliciosas, e também não são motivadas teologicamente. E **uma vez que** elas não o são, a visão de Pickering de transmissão “normal” (a qual é a questão essencial em sua teoria) simplesmente se desintegra” (pag. 408). Fee se prende ao meu uso do termo “malicioso”, que usei apenas ao discutir a transmissão **a** normal. Em local algum eu disse que uma maioria de variantes é maliciosa. O claro testemunho dos antigos pais indica que algumas têm que sê-lo, e eu continuo a insistir que a teoria de Hort não pode manejar tais variantes. (Fee distorce seriamente minha posição ao ignorar minha discussão da transmissão **a** normal. Pareceria que a distorção foi deliberada, uma vez que ele cita minhas páginas 104–110 para a transmissão “normal”, quando, ao contrário, as páginas 107–110 contêm meu tratamento da transmissão anormal.) Mas quais são as implicações da admissão de Fee que a vasta maioria das adulterações textuais é “deliberada”? Deixando de lado a questão da motivação teológica, podem os cânones da evidência interna realmente manejar variantes “deliberadas”? No Apêndice E van Bruggen mostra que supostas harmonizações podem razoavelmente ter outras explicações. O próprio Fee reconhece esta possibilidade (“Modern Text Criticism and the Synoptic Problem,” *J. J. Griesbach: Synoptic and Text-Critical Studies 1776-* *1976*, ed. B. Orchard e T. R. W. Longstaff, Cambridge: University Press, 1976, pag. 162). Na página seguinte, Fee reconhece um outro problema. Deve ser honestamente admitido que nossas predileções para com uma dada solução do problema sinóptico algumas vezes afetarão decisões textuais. Integridade também deve nos fazer admitir, às vezes, uma certa medida de inevitável raciocínio circular. Um exemplo clássico deste ponto é a bem conhecida “pequena concordância” entre Mt 26.67–8 e Lc 22.64 (Mc 14.65) da 'adição' τις εστιν ο παισας σε. B. H. Streeter, G. D. Kilpatrick, e W. R. Farmer cada um resolve o problema textual de Marcos de uma maneira diferente. Em cada caso, uma dada solução do problema sinóptico tem afetado a decisão textual. A este ponto poder-se-ia oferecer copiosas ilustrações. O debate de Fee (“Rigorous”) com Kilpatrick (“Atticism”) demonstra que possíveis mudanças filológicas são capazes de interpretações contraditórias por parte de estudiosos que usam, ambos, evidência interna. Em suma, reitero que os cânones da evidência interna **não podem** nos dar interpretações confiáveis com referência a variantes deliberadas. Aqueles que usam tais cânones estão alagados num mar de especulações.
+[^99]: A “inconveniência” referida é virtualmente fatal à teoria de W-H, pelo menos como formulada em sua “Introduction.” A teoria de W-H é muito semelhante a um prédio de muitos andares — cada um apoia-se sobre e depende daquele sob si. Assim, a noção simplista de Hort sobre “genealogia” é absolutamente dependente da alegação de que não houve alteração *deliberada* do texto, e sua noção de “tipos de texto” é absolutamente dependente da “genealogia”, e seus argumentos com respeito à “conflação” e “leituras sírias” antes de Crisóstomo dependem absolutamente daqueles “tipos de texto”. O alicerce de todo o edifício é a posição de Hort que o Novo Testamento foi um livro comum que gozou de uma transmissão comum. Com seu fundamento removido, o edifício rui. Fee parece errar de alvo quando diz, “se o ‘fundamento’ for seguro, então a estrutura sobre ele erigida pode somente necessitar algum reforço, não demolição” (“A Critique,” pag. 404). A remoção de qualquer dos andares intermediários também irá ‘destruir o edifício,’ isto é, invalidar as conclusões de Hort. Parece-me que pelo menos os três primeiros andares do edifício de Hort são irrecuperáveis. Fee afirma que eu confundo mudanças “deliberadas” com “dogmáticas” [portanto doutrinárias] e, consequentemente, minha crítica do alicerce de Hort é reprovada. (“A Critique,” pags. 404–8). Em suas próprias palavras, “A vasta maioria das adulterações textuais, embora deliberadas, **não são** maliciosas, e também não são motivadas teologicamente. E **uma vez que** elas não o são, a visão de Pickering de transmissão “normal” (a qual é a questão essencial em sua teoria) simplesmente se desintegra” (pag. 408). Fee se prende ao meu uso do termo “malicioso”, que usei apenas ao discutir a transmissão **a**normal. Em local algum eu disse que uma maioria de variantes é maliciosa. O claro testemunho dos antigos pais indica que algumas têm que sê-lo, e eu continuo a insistir que a teoria de Hort não pode manejar tais variantes. (Fee distorce seriamente minha posição ao ignorar minha discussão da transmissão **a**normal. Pareceria que a distorção foi deliberada, uma vez que ele cita minhas páginas 104–110 para a transmissão “normal”, quando, ao contrário, as páginas 107–110 contêm meu tratamento da transmissão anormal.) Mas quais são as implicações da admissão de Fee que a vasta maioria das adulterações textuais é “deliberada”? Deixando de lado a questão da motivação teológica, podem os cânones da evidência interna realmente manejar variantes “deliberadas”? No Apêndice E van Bruggen mostra que supostas harmonizações podem razoavelmente ter outras explicações. O próprio Fee reconhece esta possibilidade (“Modern Text Criticism and the Synoptic Problem,” *J. J. Griesbach: Synoptic and Text-Critical Studies 1776–1976*, ed. B. Orchard e T. R. W. Longstaff, Cambridge: University Press, 1976, pag. 162). Na página seguinte, Fee reconhece um outro problema. Deve ser honestamente admitido que nossas predileções para com uma dada solução do problema sinóptico algumas vezes afetarão decisões textuais. Integridade também deve nos fazer admitir, às vezes, uma certa medida de inevitável raciocínio circular. Um exemplo clássico deste ponto é a bem conhecida “pequena concordância” entre Mt 26.67–8 e Lc 22.64 (//Mc 14.65) da ‘adição’ τις εστιν ο παισας σε. B. H. Streeter, G. D. Kilpatrick, e W. R. Farmer cada um resolve o problema textual de Marcos de uma maneira diferente. Em cada caso, uma dada solução do problema sinóptico tem afetado a decisão textual. A este ponto poder-se-ia oferecer copiosas ilustrações. O debate de Fee (“Rigorous”) com Kilpatrick (“Atticism”) demonstra que possíveis mudanças filológicas são capazes de interpretações contraditórias por parte de estudiosos que usam, ambos, evidência interna. Em suma, reitero que os cânones da evidência interna **não podem** nos dar interpretações confiáveis com referência a variantes deliberadas. Aqueles que usam tais cânones estão alagados num mar de especulações.
 
 [^100]: Ademais, se uma reconstrução genealógica termina com somente dois descendentes imediatos do original, como na reconstrução do próprio Hort, então o método genealógico deixa de ser aplicável, como o próprio Hort o reconheceu. Westcott e Hort, pag. 42.
 
@@ -4566,7 +4813,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^119]: M. M. Parvis, “The Nature and Task of New Testament Textual Criticism,” *The Journal of Religion*, XXXII (1952), 173.
 
-[^120]: A. Wikgren, “Chicago Studies in the Greek Lectionary of the New Testament,” *Biblical and Patristic Studies in Memory of Robert* *Pierce Casey*, ed. J. N. Birdsall and R. W. Thomson (New York: Herder, 1963), pags. 96–121.
+[^120]: A. Wikgren, “Chicago Studies in the Greek Lectionary of the New Testament,” *Biblical and Patristic Studies in Memory of Robert Pierce Casey*, ed. J. N. Birdsall and R. W. Thomson (New York: Herder, 1963), pags. 96–121.
 
 [^121]: Colwell, “The Origin of Texttypes,” pag. 135.
 
@@ -4580,13 +4827,13 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^126]: Klijn parece ser desta opinião (pags. 33–34). Não D. A. Carson. Ele se refere à minha posição aqui como “um falha básica no argumento mais abrangente de Pickering” (*The King James Version Debate*, Grand Rapids: Baker Book House, 1979, pag. 108). Depois de uma discussão confusa onde distorce minha posição (uma de pelo menos dez distorções), Carson conclui dizendo: “De cara, já que um manuscrito foi copiado de outro ou de vários outros, relacionamentos genealógicos **têm** que existir. A única questão é se temos ou não identificado tais relações, ou podemos identificá-las” (pag. 109). Exatamente. É claro que relações genealógicas têm que existir, ou têm que ter existido, mas **a questão toda** é “se as temos ou não identificado.” Eu entendo que Aland, Colwell, Klijn, Parvis, Vaganay, Wikgren, Zuntz, etc. estão dizendo que tais relacionamentos **não** têm sido identificados de fato. Este é meu ponto! E eu insisto em que até que tais relacionamentos sejam empiricamente demonstrados, eles não podem ser legitimamente usados na prática da crítica textual do NT. (Alguns dos estudiosos supracitados vão além e afirmam que **não podemos** identificar tais relacionamentos, pelo menos por genealogia direta — quase todos os elos estão faltando). Os conceitos de “tipo de texto” e “recensão”, **como usados por Hort** e seus seguidores, são demonstravelmente errôneos. Segue-se que as conclusões sobre eles baseadas são inválidas. Mas permanece verdadeiro que leituras em comum implicam uma origem em comum, e concordância em erro condena os participantes como dependentes. Carson deseja reter o termo “tipo-de-texto” para referenciar os “tipos de texto tais como indexados por vários extremos notáveis” (pag. 109). Quanto a mim isto está bem, desde que fique claro a todos que o termo não está sendo usado no sentido Hortiano. Para declarações de evidência, contudo, creio que os editores das edições da UBS têm estabelecido o exemplo correto -- não são usados símbolos coletivos para “tipos-de-texto” exceto por *“Byz”*, que se refere à tradição bizantina de manuscritos.
 
-[^127]: Cf. Burgon, The Revision Revised, pag. 380.
+[^127]: Cf. Burgon, *The Revision Revised*, pag. 380.
 
 [^128]: H. C. Hoskier, *A Full Account and Collation of the Greek Cursive Codex Evangelium 604* (London: David Nutt, 1890), Introduction, pags. cxv-cxvi.
 
 [^129]: Kenyon, *Handbook*, pag. 356. Onde Hort usou “grupo δ” para referir-se ao seu texto “Sírio”, Kenyon usa “texto δ” para referenciar o texto “Ocidental”.
 
-[^130]: Colwell, “The Greek New Testament with a Limited Critical Apparatus: its Nature and Uses,” *Studies in New Testament and Early* *Christian Literature*, ed. D. E. Aune (Leiden: E. J. Brill, 1972), pag. 33.
+[^130]: Colwell, “The Greek New Testament with a Limited Critical Apparatus: its Nature and Uses,” *Studies in New Testament and Early Christian Literature*, ed. D. E. Aune (Leiden: E. J. Brill, 1972), pag. 33.
 
 [^131]: Metzger, *The Text*, pag. 141.
 
@@ -4602,7 +4849,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^137]: Clark, “The Manuscripts of the Greek New Testament,” *New Testament Manuscript Studies*, ed. M. M. Parvis e A. P. Wikgren (Chicago: The University of Chicago Press, 1950), pag. 12.
 
-[^138]: K. Lake, R. P. Blake e Silva New, “The Caesarean Text of the Gospel of Mark,” *Harvard Theological Review*, XXI (1928), 348–49. O trabalho mais recente de Frederick Wisse fornece uma forte demonstração objetiva da diversidade dentro da forma textual “Bizantina”. *The Profile Method for Classifying and Evaluating Manuscript Evidence* (Grand Rapids: Eerdmans, 1982), é uma aplicação do “Claremont Profile Method” a **1.386** MSS em Lucas 1.10 e 20. Ele isolou 15 agrupamentos maiores de MSS (que se subdividem em pelo menos 70 subgrupos) mais 22 grupos menores, mais 89 “desgarrados solitários” (MSS tão misturados que nem se enquadram em nenhum dos grupos acima nem formam grupos entre si). Um dos 15 grupos “maiores” é o “Egípcio” (“Alexandrino”) — ele é composto de precisamente 04 unciais e 04 cursivos, mais 04 MSS (02 unciais e 02 cursivos) que eram “Egípcios” em um dos três capítulos. Se o entendo corretamente, Wisse considera que virtualmente todos os [1.386 - 89 - 4 - 4 -4 =] 1285 MSS restantes recaem no largo rio “Bizantino”. Em outras palavras, quando falamos de examinar o texto “Bizantino” há, dentro do rio, pelo menos [15 -1 + 22 =]
+[^138]: K. Lake, R. P. Blake e Silva New, “The Caesarean Text of the Gospel of Mark,” *Harvard Theological Review*, XXI (1928), 348–49. O trabalho mais recente de Frederick Wisse fornece uma forte demonstração objetiva da diversidade dentro da forma textual “Bizantina”. *The Profile Method for Classifying and Evaluating Manuscript Evidence* (Grand Rapids: Eerdmans, 1982), é uma aplicação do “Claremont Profile Method” a **1.386** MSS em Lucas 1, 10 e 20. Ele isolou 15 agrupamentos maiores de MSS (que se subdividem em pelo menos 70 subgrupos) mais 22 grupos menores, mais 89 “desgarrados solitários” (MSS tão misturados que nem se enquadram em nenhum dos grupos acima nem formam grupos entre si). Um dos 15 grupos “maiores” é o “Egípcio” (“Alexandrino”) — ele é composto de precisamente 04 unciais e 04 cursivos, mais 04 MSS (02 unciais e 02 cursivos) que eram “Egípcios” em um dos três capítulos. Se o entendo corretamente, Wisse considera que virtualmente todos os [1.386 - 89 - 4 - 4 -4 =] 1285 MSS restantes recaem no largo rio “Bizantino”. Em outras palavras, quando falamos de examinar o texto “Bizantino” há, dentro do rio, pelo menos [15 -1 + 22 =] 36 correntes de transmissão que precisam ser consideradas!
 
 [^139]: John William Burgon foi Deão de Chichester de 1876 até sua morte em 1888. Seu biógrafo lhe reputou ser “o maior professor religioso do seu tempo” na Inglaterra (E. M. Goulburn, *Life of Dean Burgon*, 2 Vols.; London: John Murray, 1892, I, vii). Clark alista Burgon juntamente com Tregelles e Scrivener, como “grandes contemporâneos” de Tischendorf, a quem chama de “o colosso entre os críticos textuais” (“The Manuscripts of the Greek New Testament,” pag. 9). Como um contemporâneo de Westcott e Hort, Burgon vigorosamente se opôs ao texto e à teoria deles, e é geralmente reconhecido como tendo sido a mais importante voz na “oposição” (cf. A. F. Hort, II, 239).
 
@@ -4624,11 +4871,11 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^148]: *Ibid*.
 
-[^149]: Cf. Metzger, A Textual Commentary on the Greek New Testament (London: United Bible Societies, 1971), pag. xviii.
+[^149]: Cf. Metzger, *A Textual Commentary on the Greek New Testament* (London: United Bible Societies, 1971), pag. xviii.
 
-[^150]: Klijn, pags. 45–48. (Observar que 19 + 24 = 43, 14 + 29 = 43, mas 9 + 33 = 42 [P 75 deve ser ilegível num dos locais]. As concordâncias de dois ou três juntos estão dentro do número dado para cada papiro individualmente.)
+[^150]: Klijn, pags. 45–48. (Observar que 19 + 24 = 43, 14 + 29 = 43, mas 9 + 33 = 42 [P⁷⁵ deve ser ilegível num dos locais]. As concordâncias de dois ou três juntos estão dentro do número dado para cada papiro individualmente.)
 
-[^151]: *Ibid*. Tenho usado o estudo de Klijn com referência à existência dos tipos de texto, mas seu material também fornece evidência da antiguidade do texto “Bizantino.” Sumariando a evidência das 51 instâncias que Klijn discute, P45 concorda com Aleph 21 vezes, com B 25 vezes, com TR 33 vezes, P66 concorda com Aleph 16 vezes, com B 32 vezes, com TR 38 vezes, P75 concorda com Aleph 11 vezes, com B 36 vezes, com TR 33 vezes; Ou, colocando de outra maneira, todos os três papiros concordam com Aleph 4 vezes, com B 18 vezes, com TR 20 vezes, quaisquer dois deles concordam com Aleph 8 vezes, com B 13 vezes, com TR 15 vezes, somente um deles concorda com Aleph 36 vezes, com B 62 vezes, com TR 69 vezes, para um total de 48 vezes, 93 vezes, 104 vezes. Em outras palavras, na área coberta pelo estudo de Klijn, o TR tem mais atestação antiga que B e duas vezes mais que Aleph — evidentemente o TR reflete um texto mais antigo que ambos B ou Aleph!
+[^151]: *Ibid*. Tenho usado o estudo de Klijn com referência à existência dos tipos de texto, mas seu material também fornece evidência da antiguidade do texto “Bizantino.” Sumariando a evidência das 51 instâncias que Klijn discute, P⁴⁵ concorda com Aleph 21 vezes, com B 25 vezes, com TR 33 vezes; P⁶⁶ concorda com Aleph 16 vezes, com B 32 vezes, com TR 38 vezes; P⁷⁵ concorda com Aleph 11 vezes, com B 36 vezes, com TR 33 vezes. Ou, colocando de outra maneira: todos os três papiros concordam com Aleph 4 vezes, com B 18 vezes, com TR 20 vezes; quaisquer dois deles concordam com Aleph 8 vezes, com B 13 vezes, com TR 15 vezes; somente um deles concorda com Aleph 36 vezes, com B 62 vezes, com TR 69 vezes — para um total de 48 vezes, 93 vezes, 104 vezes. Em outras palavras, na área coberta pelo estudo de Klijn, o TR tem mais atestação antiga que B e duas vezes mais que Aleph — evidentemente o TR reflete um texto mais antigo que ambos B ou Aleph!
 
 [^152]: G. D. Fee, *Papyrus Bodmer II (P66): Its Textual Relationships and Scribal Characteristics* (Salt Lake City: University of Utah Press, 1968), pag. 56.
 
@@ -4640,7 +4887,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^156]: Metzger, *The Text*, pag. 247; Epp, “Interlude,” pag. 397.
 
-[^157]: Hoskier, *Codex* *B*, pag. xi.
+[^157]: Hoskier, *Codex B*, pag. xi.
 
 [^158]: Fee, *Bodmer II,* pags. 12–13.
 
@@ -4650,7 +4897,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^161]: Ver seção com este título, no Capítulo 6.
 
-[^162]: Colwell, “Genealogical Method,” pag. 118. A despeito desta declaração demonstravelmente correta de Colwell, Bart Ehrman, na sua tese de M. Div. em Princeton, 1981, virtualmente repete as palavras de Hort: dois pontos têm que ser constantemente conservados em mente. Primeiro, se uma leitura fosse provada ser uma conflação, então os documentos que a contêm preservariam — em maior ou menor escala — um texto que é misto (por definição). Isto é verdadeiro, quero dizer, mesmo se somente uma instância provada de conflação for encontrada nestes documentos. E desde que a maioria das misturas teria resultado em leituras não confladas, isto é na escolha arbitrária ou intencional por um transcritor da leitura de um manuscrito sobre a de outro, então o caso solitário e provado de mistura indicaria que um número maior de instâncias existem que não podem ser tão prontamente demonstradas. Segundo, o caráter textual de grupos de documentos pode ser razoavelmente avaliado por se determinar o grau com que contêm conflações. Se, por exemplo, há dois grupos de documentos que nunca contêm leituras confladas, e um que as vezes contém, então claramente o último grupo tem que representar um texto misto. Se (ou não) os outros grupos também o fazem é indeterminável por este critério. Mas o ponto é que mesmo instâncias isoladas de mistura mostram que um texto é misto, e assim é tanto tardio quanto secundário em seu testemunho ao texto verdadeiro. A contenção de Hort foi que o texto Sírio, e somente ele, continha conflações. Se continha oito ou oitocentos seria imaterial para este efeito. A simples presença de conflações de qualquer número prova que o texto é misto (“New Testament Textual Criticism: Quest for Methodology,” pags. 55–56). Tem sido repetidamente demonstrado que a qualidade textual de um MS pode variar significativamente de capítulo para capítulo, quanto mais de livro para livro. Uma conflação provada na verdade condena seu MS de mistura naquele ponto, mas somente naquele ponto. A declaração de Ehrman sobre “oito ou oitocentos” é simplesmente estúpida. Mesmo os oito exemplos que Hort citou têm sido todos eles contestados, e por estudiosos com pressuposições diferentes.
+[^162]: Colwell, “Genealogical Method,” pag. 118. A despeito desta declaração demonstravelmente correta de Colwell, Bart Ehrman, na sua tese de M. Div. em Princeton, 1981, virtualmente repete as palavras de Hort: … dois pontos têm que ser constantemente conservados em mente. Primeiro, se uma leitura fosse provada ser uma conflação, então os documentos que a contêm preservariam — em maior ou menor escala — um texto que é misto (por definição). Isto é verdadeiro, quero dizer, mesmo se somente uma instância provada de conflação for encontrada nestes documentos. E desde que a maioria das misturas teria resultado em leituras não confladas, isto é na escolha arbitrária ou intencional por um transcritor da leitura de um manuscrito sobre a de outro, então o caso solitário e provado de mistura indicaria que um número maior de instâncias existem que não podem ser tão prontamente demonstradas. Segundo, o caráter textual de grupos de documentos pode ser razoavelmente avaliado por se determinar o grau com que contêm conflações. Se, por exemplo, há dois grupos de documentos que nunca contêm leituras confladas, e um que as vezes contém, então claramente o último grupo tem que representar um texto misto. Se (ou não) os outros grupos também o fazem é indeterminável por este critério. Mas o ponto é que mesmo instâncias isoladas de mistura mostram que um texto é misto, e assim é tanto tardio quanto secundário em seu testemunho ao texto verdadeiro. A contenção de Hort foi que o texto Sírio, e somente ele, continha conflações. Se continha oito ou oitocentos seria imaterial para este efeito. A simples presença de conflações de qualquer número prova que o texto é misto (“New Testament Textual Criticism: Quest for Methodology,” pags. 55–56). Tem sido repetidamente demonstrado que a qualidade textual de um MS pode variar significativamente de capítulo para capítulo, quanto mais de livro para livro. Uma conflação provada na verdade condena seu MS de mistura naquele ponto, mas somente naquele ponto. A declaração de Ehrman sobre “oito ou oitocentos” é simplesmente estúpida. Mesmo os oito exemplos que Hort citou têm sido todos eles contestados, e por estudiosos com pressuposições diferentes.
 
 [^163]: Harrison, pag. 73.
 
@@ -4658,7 +4905,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^165]: Burgon, *The Traditional Text*, pag. 229.
 
-[^166]: Westcott e Hort, pag. 94 e pags. 240–41. (Uma vez que Hort considerou D e B como adequados para representar os textos “Ocidental” e “Neutro” em outros locais, ele não deve objetar aqui.) Mas Ehrman nos favorece com o seguinte: O que é mais digno de nota é que a significância de tais 'inversões' é raramente explicada pelos advogados do texto Majoritário. Pickering, por exemplo, se contenta em alistar as conflações invertidas, aparentemente assumindo que isto sozinho nega o argumento de Hort. Mas há duas considerações que impedem qualquer apelo a estas inversões com o propósito de criticar a posição básica de Hort sobre a natureza tardia e secundária do texto Sírio. Em primeiro lugar, a maioria das instâncias que têm sido consideradas como inversões genuínas ocorrem em membros isolados de um tipo-de-texto, mas não em todo o grupo maior. [Ele tinha concluído sua tese antes de ver meu Apêndice D, que não estava na primeira edição.] Em outras palavras, os três casos de conflação no Códice B não indicam que o tipo-de-texto alexandrino é misto, mas apenas que B o é. E o fato que B foi transcrito no século IV sugeriria que em alguns casos pode se esperar que ele contenha evidência de mistura de textos anteriores. [Uma admissão interessante.] Isto dificilmente pode estragar a prova de Hort, uma vez que ele próprio reconheceu a presença de conflações em ambos D e B, e no caso deste, especialmente nas cartas Paulinas. [!] Em segundo lugar, ao colocarem este tipo de argumento contra Westcott e Hort, os advogados do Texto Majoritário têm se colocados a si mesmos sobre os chifres de um dilema. Por um lado, se eles escolherem negar a validade da asserção de Hort — que um texto contendo conflações é secundário, e que quanto mais conflações ele contenha menos ele é uma testemunha confiável do texto original — então um apelo a conflações invertidas de modo algum constitui um argumento. Se conflações não mostram que um texto é secundário, então por que apontá-las? Em um tal caso, exemplos contrários somente mostrariam o erro de Hort em assumir que somente textos Sírios contêm conflações, mas não indicaria absolutamente nada a respeito do caráter dos respectivos tipos-de-texto. Assim, claramente, o argumento é viável somente se a premissa de Hort for aceita. Mas, por outro lado, aceitando esta premissa, os advogados do Texto Majoritário se defrontam com um sério problema. Se os tipos-de-texto Alexandrino e Ocidental contêm conflações, então todos os três textos são tardios e secundários. (*Ibid*., pags. 60–61). Ou Ehrman não entende o argumento ou está sendo desonesto. Naturalmente nós advogados do Texto Majoritário reconhecemos que uma conflação é uma leitura secundária, necessariamente. Se todos três tipos de texto contêm conflações, “então todos os três textos são tardios e secundários.” Exatamente! E isto invalida o uso que Hort fez de “conflação” para desqualificar o texto “Sírio”. Uma vez que os textos “Alexandrino” e “Ocidental” ambos contêm conflações evidentes, ambos são secundários. Se Hort apenas tivesse admitido isto desde o início, uma grande abundância de debate desnecessário teria sido poupado. No entanto, eu ainda estou por ver qualquer suposta conflação “Bizantina” que me impressione como realmente o sendo — Apêndice D dá numerosos exemplos com atestação dos séculos II e III; se qualquer deles é uma conflação, é bem primitivo. (Naturalmente, uma conflação genuína é, por definição, secundária, mesmo se criada em 100 DC!)
+[^166]: Westcott e Hort, pag. 94 e pags. 240–41. (Uma vez que Hort considerou D e B como adequados para representar os textos “Ocidental” e “Neutro” em outros locais, ele não deve objetar aqui.) Mas Ehrman nos favorece com o seguinte: O que é mais digno de nota é que a significância de tais ‘inversões’ é raramente explicada pelos advogados do texto Majoritário. Pickering, por exemplo, se contenta em alistar as conflações invertidas, aparentemente assumindo que isto sozinho nega o argumento de Hort. Mas há duas considerações que impedem qualquer apelo a estas inversões com o propósito de criticar a posição básica de Hort sobre a natureza tardia e secundária do texto Sírio. Em primeiro lugar, a maioria das instâncias que têm sido consideradas como inversões genuínas ocorrem em membros isolados de um tipo-de-texto, mas não em todo o grupo maior. [Ele tinha concluído sua tese antes de ver meu Apêndice D, que não estava na primeira edição.] Em outras palavras, os três casos de conflação no Códice B não indicam que o tipo-de-texto alexandrino é misto, mas apenas que B o é. E o fato que B foi transcrito no século IV sugeriria que em alguns casos pode se esperar que ele contenha evidência de mistura de textos anteriores. [Uma admissão interessante.] Isto dificilmente pode estragar a prova de Hort, uma vez que ele próprio reconheceu a presença de conflações em ambos D e B, e no caso deste, especialmente nas cartas Paulinas. [!] Em segundo lugar, ao colocarem este tipo de argumento contra Westcott e Hort, os advogados do Texto Majoritário têm se colocados a si mesmos sobre os chifres de um dilema. Por um lado, se eles escolherem negar a validade da asserção de Hort — que um texto contendo conflações é secundário, e que quanto mais conflações ele contenha menos ele é uma testemunha confiável do texto original — então um apelo a conflações invertidas de modo algum constitui um argumento. Se conflações não mostram que um texto é secundário, então por que apontá-las? Em um tal caso, exemplos contrários somente mostrariam o erro de Hort em assumir que somente textos Sírios contêm conflações, mas não indicaria absolutamente nada a respeito do caráter dos respectivos tipos-de-texto. Assim, claramente, o argumento é viável somente se a premissa de Hort for aceita. Mas, por outro lado, aceitando esta premissa, os advogados do Texto Majoritário se defrontam com um sério problema. Se os tipos-de-texto Alexandrino e Ocidental contêm conflações, então todos os três textos são tardios e secundários. (*Ibid*., pags. 60–61). Ou Ehrman não entende o argumento ou está sendo desonesto. Naturalmente nós advogados do Texto Majoritário reconhecemos que uma conflação é uma leitura secundária, necessariamente. Se todos três tipos de texto contêm conflações, “então todos os três textos são tardios e secundários.” Exatamente! E isto invalida o uso que Hort fez de “conflação” para desqualificar o texto “Sírio”. Uma vez que os textos “Alexandrino” e “Ocidental” ambos contêm conflações evidentes, ambos são secundários. Se Hort apenas tivesse admitido isto desde o início, uma grande abundância de debate desnecessário teria sido poupado. No entanto, eu ainda estou por ver qualquer suposta conflação “Bizantina” que me impressione como realmente o sendo — Apêndice D dá numerosos exemplos com atestação dos séculos II e III; se qualquer deles é uma conflação, é bem primitivo. (Naturalmente, uma conflação genuína é, por definição, secundária, mesmo se criada em 100 DC!)
 
 [^167]: Colwell, “The Origin of Texttypes,” pags. 130–31.
 
@@ -4670,15 +4917,15 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^171]: *Ibid*., pag. 104.
 
-[^172]: Burgon, The Revision Revised, pag. 264.
+[^172]: Burgon, *The Revision Revised*, pag. 264.
 
-[^173]: G. D. Kilpatrick, “The Greek New Testament Text of Today and the *Textus Receptus*,” *The New Testament in Historical and Con-* *temporary Perspective*, H. Anderson e W. Barclay, eds. (Oxford: Basil Blackwell, 1965), pags. 190–92. Cf. Bousset, *TU*, vol. 11 (1894), pags. 97–101, que concordou com Hort em apenas uma das oito [supostas conflações].
+[^173]: G. D. Kilpatrick, “The Greek New Testament Text of Today and the *Textus Receptus*,” *The New Testament in Historical and Contemporary Perspective*, H. Anderson e W. Barclay, eds. (Oxford: Basil Blackwell, 1965), pags. 190–92. Cf. Bousset, *TU*, vol. 11 (1894), pags. 97–101, que concordou com Hort em apenas uma das oito [supostas conflações].
 
 [^174]: Lake, pag. 68.
 
 [^175]: Victor de Antioquia para Mc 8.26, 9.38 e 9.49; Basílio para Mc 9.38 e Lc 12.18; Cirílo de Alexandria para Lc 12.18; Augustinho para Mc 9.38.
 
-[^176]: Zuntz, *The Text*, pag. 12. Sturz (pags. 70–76) tem um capítulo intitulado “Byzantine-Western Alignments Go Back Into The Second Century Independently And Originate In The East--Not In The West.” Ele faz uso intenso do trabalho de Zuntz e conclui que seus achados desferem um golpe devastador na teoria básica de W-H sobre a história do texto, isto é, destroem a suposta dependência do texto-K sobre fontes Ocidentais. Se esta dependência nos alinhamentos K-Ocidentais têm que ser revertida como Zuntz demonstra, então metade da sustentação para a teoria básica de conflação, de Hort, desmorona imediatamente! Mas a teoria de W-H não apenas rui neste ponto, ela é mudada no oposto! Isto é mais de que o 'consenso geral da erudição' pode conceder. É um pensamento intolerável e por demais revolucionário o reconhecer que o texto Antioquino possa ter sido a fonte ao invés do recipiente do material em comum em tais alinhamentos Bizantino-Ocidental (pag. 76). Eu não tenho conscientemente distorcido Zuntz, Colwell, Metzger, Aland, etc., ao citar seus escritos. Entendo que Colwell rejeita a noção de genealogia de Hort; que Aland rejeita a noção de recensões de Hort; que Zuntz rejeita a noção de conflação “Síria” de Hort; e assim por diante. No entanto, não quero implicar e não deve ser assumido que quaisquer destes estudiosos concordaria inteiramente com minha avaliação da situação em qualquer ponto, e eles certamente não concordam (até onde eu saiba) com minha posição total.
+[^176]: Zuntz, *The Text*, pag. 12. Sturz (pags. 70–76) tem um capítulo intitulado “Byzantine-Western Alignments Go Back Into The Second Century Independently And Originate In The East--Not In The West.” Ele faz uso intenso do trabalho de Zuntz e conclui que … seus achados desferem um golpe devastador na teoria básica de W-H sobre a história do texto, isto é, destroem a suposta dependência do texto-K sobre fontes Ocidentais. Se esta dependência nos alinhamentos K-Ocidentais têm que ser revertida como Zuntz demonstra, então metade da sustentação para a teoria básica de conflação, de Hort, desmorona imediatamente! Mas a teoria de W-H não apenas rui neste ponto, ela é mudada no oposto! Isto é mais de que o ‘consenso geral da erudição’ pode conceder. É um pensamento intolerável e por demais revolucionário o reconhecer que o texto Antioquino possa ter sido a fonte ao invés do recipiente do material em comum em tais alinhamentos Bizantino-Ocidental (pag. 76). Eu não tenho conscientemente distorcido Zuntz, Colwell, Metzger, Aland, etc., ao citar seus escritos. Entendo que Colwell rejeita a noção de genealogia de Hort; que Aland rejeita a noção de recensões de Hort; que Zuntz rejeita a noção de conflação “Síria” de Hort; e assim por diante. No entanto, não quero implicar e não deve ser assumido que quaisquer destes estudiosos concordaria inteiramente com minha avaliação da situação em qualquer ponto, e eles certamente não concordam (até onde eu saiba) com minha posição total.
 
 [^177]: Westcott e Hort, pag. 91.
 
@@ -4686,7 +4933,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^179]: Metzger, *Chapters*, pag. 21.
 
-[^180]: J. Geerlings e S. New, “Chrysostom's Text of The Gospel of Mark,” *Harvard Theological Review*, XXIV (1931), 135.
+[^180]: J. Geerlings e S. New, “Chrysostom’s Text of The Gospel of Mark,” *Harvard Theological Review*, XXIV (1931), 135.
 
 [^181]: *Ibid*., pag. 141.
 
@@ -4694,7 +4941,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^183]: Zuntz, *The Text*, pag. 152.
 
-[^184]: Metzger, “Explicit References in the Works of Origen to Variant Readings in N. T. MSS.,” *Biblical and Patristic Studies in Memory of* *Robert Pierce Casey*, ed. J. N. Birdsall e R. W. Thomson (New York: Herder, 1963), pag. 94.
+[^184]: Metzger, “Explicit References in the Works of Origen to Variant Readings in N. T. MSS.,” *Biblical and Patristic Studies in Memory of Robert Pierce Casey*, ed. J. N. Birdsall e R. W. Thomson (New York: Herder, 1963), pag. 94.
 
 [^185]: Burgon, *The Traditional Text*, pags. 100, 121.
 
@@ -4708,7 +4955,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^190]: Hoskier, *Codex B*, I, 426–27.
 
-[^191]: Burgon, *The Traditional Text*, pags. 99–101. Fee chama meu uso dos números de Miller de “absurdo” e os rejeita em termos taxativos (“A Critique,” pags. 419 e 422). No entanto, Peter J. Johnston (comunicação pessoal) dá o seguinte relatório sobre uma checagem independente que fez dos antigos Pais, nos Evangelhos, usando edições críticas. Checando seis do 3 º século (Irineu, Clemente de Alexandria, Tertuliano, Hipólito, Orígenes, Cipriano), cinco do 4 º século (Afraates, Efraem Arminiano, Efraem Sírio, Gregório Naz., Gregório de Nyssa) e sete do 5 º século (Crisóstomo, Pelágio, Niceta, Teodoro de Mopsuestia, Augustinho, Cirílo de Alexandria, Fausto), ele os achou alinhando-se com o Texto Majoritário “aproximadamente 60%” das vezes, onde há variação. Isto está muito próximo dos resultados declarados por Miller!
+[^191]: Burgon, *The Traditional Text*, pags. 99–101. Fee chama meu uso dos números de Miller de “absurdo” e os rejeita em termos taxativos (“A Critique,” pags. 419 e 422). No entanto, Peter J. Johnston (comunicação pessoal) dá o seguinte relatório sobre uma checagem independente que fez dos antigos Pais, nos Evangelhos, usando edições críticas. Checando seis do 3º século (Irineu, Clemente de Alexandria, Tertuliano, Hipólito, Orígenes, Cipriano), cinco do 4º século (Afraates, Efraem Arminiano, Efraem Sírio, Gregório Naz., Gregório de Nyssa) e sete do 5º século (Crisóstomo, Pelágio, Niceta, Teodoro de Mopsuestia, Augustinho, Cirílo de Alexandria, Fausto), ele os achou alinhando-se com o Texto Majoritário “aproximadamente 60%” das vezes, onde há variação. Isto está muito próximo dos resultados declarados por Miller!
 
 [^192]: Burgon, *The Causes of the Corruption*, pags. 2–3.
 
@@ -4716,9 +4963,9 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^194]: Burgon, *The Traditional Text*, pags. ix-x. O exercício levado a cabo por Miller colocou o Texto Recebido contra o texto grego costurado pelo corpo de revisores que produziram a “English Revised Version” de 1881, o qual Miller apropriadamente designa de “Neologiano.” Ele usou o *Cambridge Greek Testament,* 1887, de Scrivener, que dá o exato texto grego representado pela E. R. V. mas imprime em negrito os locais que diferem do Texto Recebido. Miller limitou a investigação aos Evangelhos. Disse que descartou citações duvidosas e meras questões de grafia, que em casos duvidosos decidiu contra o *Textus Receptus*, e que na tabulação final omitiu muitas instâncias menores, favoráveis ao *Textus Receptus* (*Ibid*., pags. 94–122).
 
-[^195]: Kenyon, *Handbook*, pags. 321–22. Tanto Hort como Kenyon claramente declararam que nenhuma leitura estritamente “Síria” existiu antes do fim do 4 º século. É encorajador ver que ambos Carson (pag. 111) e Fee (“A Critique,” pag. 416) têm retrocedido à afirmação mais fraca que são todas estas leituras juntas, ou o completo “tipo-de-texto”, que não teve tal existência.
+[^195]: Kenyon, *Handbook*, pags. 321–22. Tanto Hort como Kenyon claramente declararam que nenhuma leitura estritamente “Síria” existiu antes do fim do 4º século. É encorajador ver que ambos Carson (pag. 111) e Fee (“A Critique,” pag. 416) têm retrocedido à afirmação mais fraca que são todas estas leituras juntas, ou o completo “tipo-de-texto”, que não teve tal existência.
 
-[^196]: Burgon, The Traditional Text, pag. 116.
+[^196]: Burgon, *The Traditional Text*, pag. 116.
 
 [^197]: Kenyon, *Handbook*, pags. 322–23.
 
@@ -4726,7 +4973,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^199]: *Ibid*.
 
-[^200]: Sustentado por Barnabé (5), Justino M. (*Apol*. i.15), Irineu (III. v. 2), Orígenes (Comentário sobre João xxviii. 16), Eusébio (Comentário sobre Salmo cxlvi), Hilário (Comentário sobre Mateus *ad loc*.), Basílio (*De Poenitent*. 3; Homília sobre Salmo xlviii. 1; *Epist.* *Class*. I. xlvi. 6). A evidência citada nas notas de rodapé 110–117 foi tomada de Burgon, *The Traditional Text*. Entre as numerosas afirmações dúbias com que Fee nos favorece, nenhuma é mais surpreendente do que sua acusação que “os dados de Burgon e Miller são simplesmente repletos com evidência sustentadora inútil,” (“A Critique,” pag. 417). Quem quer que estude seus trabalhos com cuidado (com fiz) sairá convencido que são excepcionalmente exaustivos, cuidadosos e escrupulosos em seus tratamentos da evidência patrística. Fee não o é. Diz ele, da leitura “vinagre” em Mt 27.34, “Tomei o incômodo de conferir novamente três quartos dos dezessete Pais sustentadores [citados] por Burgon e **nenhum deles** [ênfase de Fee] pode ser provado estar citando Mateus!” (pags. 417–18). Uma vez que afirma que ele próprio conferiu os Pais, a construção mais caridosa que pode ser colocada sobre as palavras de Fee é que a checagem foi apressada e sem cuidado. (Favor ir para a nota de rodapé 3 no capítulo 7, para uma refutação da declaração de Fee. Com referência à evidência patrística para “ao arrependimento” em Mt 9.13 e Mc 2.17, o leitor interessado deverá conferir as fontes por si mesmo.)
+[^200]: Sustentado por Barnabé (5), Justino M. (*Apol*. i.15), Irineu (III. v. 2), Orígenes (Comentário sobre João xxviii. 16), Eusébio (Comentário sobre Salmo cxlvi), Hilário (Comentário sobre Mateus *ad loc*.), Basílio (*De Poenitent*. 3; Homília sobre Salmo xlviii. 1; *Epist. Class*. I. xlvi. 6). A evidência citada nas notas de rodapé 110–117 foi tomada de Burgon, *The Traditional Text*. Entre as numerosas afirmações dúbias com que Fee nos favorece, nenhuma é mais surpreendente do que sua acusação que “os dados de Burgon e Miller são simplesmente repletos com evidência sustentadora inútil,” (“A Critique,” pag. 417). Quem quer que estude seus trabalhos com cuidado (com fiz) sairá convencido que são excepcionalmente exaustivos, cuidadosos e escrupulosos em seus tratamentos da evidência patrística. Fee não o é. Diz ele, da leitura “vinagre” em Mt 27.34, “Tomei o incômodo de conferir novamente três quartos dos dezessete Pais sustentadores [citados] por Burgon e **nenhum deles** [ênfase de Fee] pode ser provado estar citando Mateus!” (pags. 417–18). Uma vez que afirma que ele próprio conferiu os Pais, a construção mais caridosa que pode ser colocada sobre as palavras de Fee é que a checagem foi apressada e sem cuidado. (Favor ir para a nota de rodapé 3 no capítulo 7, para uma refutação da declaração de Fee. Com referência à evidência patrística para “ao arrependimento” em Mt 9.13 e Mc 2.17, o leitor interessado deverá conferir as fontes por si mesmo.)
 
 [^201]: Sustentado pelo Evangelho de Pedro (5), *Acta Philippi* (26), Barnabé (7), Irineu (pags. 526, 681), Tertuliano, Celso, Orígenes, Eusébio de Emesa, pseudo-Taciano, Teodoro de Heraclea, Efraem, Atanásio, *Acta Pilati*.
 
@@ -4734,7 +4981,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^203]: Sustentado por Irineu (III. xvi. 3), Orígenes, Porfírio, Eusébio, Tito de Bostra.
 
-[^204]: Sustentado por Irineu (III. x. 4), Orígenes (*c. Celsum* i. 60; *Seleções* sobre Sl xlv.; Comentário sobre Mt xvii; Comentário sobre João i. 13), Gregório Taumaturgo (*De Fid*. Cap. 12), Metódio (Sermões de Simeão e Ana), Constituições Apostólicas (vii. 47; viii. 12), *Dia-* *tessaron*, Eusébio (*Dem. Ev*. pags. 163, 342), Afraates (i. 180, 385), Jacob-Nisibis, Tito de Bostra, Cirílo de Jerusalém (pag. 180), Atanásio, Efraem (Gr. iii. 434).
+[^204]: Sustentado por Irineu (III. x. 4), Orígenes (*c. Celsum* i. 60; *Seleções* sobre Sl xlv.; Comentário sobre Mt xvii; Comentário sobre João i. 13), Gregório Taumaturgo (*De Fid*. Cap. 12), Metódio (Sermões de Simeão e Ana), Constituições Apostólicas (vii. 47; viii. 12), *Diatessaron*, Eusébio (*Dem. Ev*. pags. 163, 342), Afraates (i. 180, 385), Jacob-Nisibis, Tito de Bostra, Cirílo de Jerusalém (pag. 180), Atanásio, Efraem (Gr. iii. 434).
 
 [^205]: Sustentado por Hegésipo (*Eus. H. E*. ii. 23), Marcion, Justino, Irineu (*c. Haer*. III. xviii. 5), Arquelau (xliv), Hipólito (*c. Noet*. 18), Orígenes (ii. 188), Constituições Apostólicas (ii. 16; v. 14), Homílias de Clementino (*Recogn*. vi. 5; Hom. xi. 20), pseudo-Taciano (E. C. 275), Eusébio (cânon x), Hilário (*De Trin*. 1.32), *Acta Pilati* (x. 5), Teodoro de Heraclea, Atanásio (i. 1120), Tito de Bostra, Efraem (ii. 321).
 
@@ -4750,13 +4997,13 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^211]: J. W. Burgon, *The Last Twelve Verses of the Gospel According to Saint Mark* (Ann Arbor, Mich.: The Sovereign Grace Book Club, 1959), pag. 55. Esta reimpressão da obra de Burgon, 1871, contém uma Introdução por E. F. Hills, ocupando as páginas 17–72.
 
-[^212]: Taylor, pag. 39. Fee continua a propor vigorosamente este expediente. “Minha experiência é que em cada instância uma edição crítica do Pai move o texto de seu Novo Testamento em algum grau **distanciando-se da** tradição Bizantina” (“Modern Text Criticism,” pag. 160). Ele recentemente observou que “todos os dados de Burgon são suspeitos devido ao seu uso de edições não críticas” (“A Critique,” pag. 417). Mas há razão para questionar se podemos confiar em editores com uma tendência anti-Bizantina para relatar a evidência de modo imparcial. Certamente uma edição crítica de Irineu preparada por Fee não seria de confiar. Ao discutir a evidência para “nos profetas” contra “em Isaías o profeta” em Mc 1.2 (“A Critique,” pags. 410–11), Fee não menciona Irineu sob a leitura do Texto Majoritário, aonde ele se enquadra, mas sob a outra leitura diz, “exceto por uma citação de Irineu”. Fee então oferece o seguinte comentário em uma nota de rodapé: “Uma vez que esta citação ergue-se solitária em toda a evidência antiga grega e latina, e uma vez que o próprio Irineu claramente conhece o outro texto, esta 'citação' é especialmente suspeita de adulteração posterior.” Ele vai em frente para concluir sua discussão desta passagem afirmando que a leitura mais longa é “a única leitura conhecida por todo Pai da igreja que cita o texto.” Ao fim de sua discussão Fee tem completamente suprimido o indesejado testemunho de Irineu. Mas é o testemunho de Irineu, aqui, realmente suspeito? Em Adv. Haer. III.10.5 lemos: “Marcos assim começa sua narrativa do Evangelho: 'O princípio do Evangelho de Jesus Cristo, o Filho de Deus, como está escrito nos profetas: Eis [as citações continuam].' Claramente o começo do Evangelho cita as palavras dos santos profetas, e apontam para Ele a quem confessaram como Deus e Senhor.” Note que Irineu não apenas cita Mc 1.2 mas comenta sobre ele, e em ambos citação e comentário sustenta a leitura “Bizantina”. Mas o comentário é um pouco distante da citação e é inteiramente improvável que um copista teria molestado o comentário mesmo se tivesse se sentido chamado a mudar a citação. Jogo limpo exige que esta citação seja lealmente registrada como apoio do 2 º século para a leitura “Bizantina”. Uma outra citação, quase tão inambígua, ocorre em *Adv. Haer*. III.16.3, onde lemos: “Razão pela qual Marcos também diz: 'O princípio do Evangelho de Jesus Cristo, o Filho de Deus, como está escrito nos profetas.' Conhecendo um e o mesmo Filho de Deus, Jesus Cristo, quem foi anunciado pelos profetas.” Veja que novamente Irineu não apenas cita Mc 1.2 mas também o comenta, e em ambos citação e comentário ele sustenta a leitura “Bizantina”. Há também uma clara alusão a Mc 1.2 em *Adv. Haer*. III.11.4, onde lemos: “Por qual Deus, então, foi João, o arauto-precursor enviado? Verdadeiramente foi por Ele quem também tinha prometido pelos profetas que enviaria Seu mensageiro diante da face do Seu Filho, quem [o mensageiro] prepararia Seu [do Filho] caminho” Não podemos nós razoavelmente reivindicar esta como uma **terceira** citação em apoio da leitura “Bizantina”? Em qualquer caso, fica claro que a manipulação das evidências de Irineu por Fee na melhor das hipóteses é decepcionante, se não repreensível. Enquanto estamos no assunto da confiabilidade de Fee, ofereço a avaliação feita por W. F. Wisselink [cf. nota de rodapé 168, abaixo] depois de uma exaustiva investigação da sua obra: Enquanto eu estava estudando o relato de Fee ['P75, P66, and Origen: ‘The Myth of Early Textual Recension in Alexandria,' *New* *Dimensions in New Testament Study*, ed. R. N. Longenecker e M. C. Tenney (Grand Rapids: Zondervan, 1974), pags. 42–44] tornou-se-me aparente que ele é incompleto e indistinto, e que contém erros. Fee descreve a sua investigação em pouco mais que uma página. Introduz seu relato como segue: 'A plena justificativa desta conclusão requererá um volume de considerável tamanho cheio com listas de dados. Aqui podemos oferecer somente uma ilustração-amostra, com a nota adicional que os dados completos variarão pouco da amostragem' (Fee, 1974, 42). Daí, solicitei de Fee os dados completos. Recebi seis páginas parcialmente preenchidas contendo os dados (em forma de rascunho) sobre as assimilações em Lucas 10 e 11. “Depois de estuda-los, cheguei à conclusão que também são incompletos e indistintos, e contém erros. Assim, pontos de interrogação podem ser colocados na confiabilidade da investigação à qual aqueles dados rudes e aquele relatório fazem referência.” [Wisselink, pag. 69.] Wisselink então prossegue para documentar suas acusações nas três páginas seguintes. Repito que não poderíamos confiar numa edição crítica de Irineu preparada por Fee, e começo a duvidar que qualquer edição preparada por alguém com um preconceito anti-Bizantino seria de confiar. Isto sem falar da falácia do ponto de partida deles, a saber que o texto “Bizantino” é recente. As três citações de Irineu são tomadas de A. Roberts e J. Donaldson, eds. *The Ante-Nicene Fathers*, 1973, Vol. I, pags. 425–26 e 441, e foram conferidas, quanto à acurácia, contra a edição crítica de W. W. Harvey (*Sancti Irenaei: Episcopi Lugdunensis: Libros* *Quinque Adversus Haereses*, Cambridge: University Press, 1857). Devo este material sobre Irineu a Maurice A. Robinson.
+[^212]: Taylor, pag. 39. Fee continua a propor vigorosamente este expediente. “Minha experiência é que em cada instância uma edição crítica do Pai move o texto de seu Novo Testamento em algum grau **distanciando-se da** tradição Bizantina” (“Modern Text Criticism,” pag. 160). Ele recentemente observou que “todos os dados de Burgon … são suspeitos devido ao seu uso de edições não críticas” (“A Critique,” pag. 417). Mas há razão para questionar se podemos confiar em editores com uma tendência anti-Bizantina para relatar a evidência de modo imparcial. Certamente uma edição crítica de Irineu preparada por Fee não seria de confiar. Ao discutir a evidência para “nos profetas” contra “em Isaías o profeta” em Mc 1.2 (“A Critique,” pags. 410–11), Fee não menciona Irineu sob a leitura do Texto Majoritário, aonde ele se enquadra, mas sob a outra leitura diz, “exceto por uma citação de Irineu”. Fee então oferece o seguinte comentário em uma nota de rodapé: “Uma vez que esta citação ergue-se solitária em toda a evidência antiga grega e latina, e uma vez que o próprio Irineu claramente conhece o outro texto, esta ‘citação’ é especialmente suspeita de adulteração posterior.” Ele vai em frente para concluir sua discussão desta passagem afirmando que a leitura mais longa é “a única leitura conhecida por todo Pai da igreja que cita o texto.” Ao fim de sua discussão Fee tem completamente suprimido o indesejado testemunho de Irineu. Mas é o testemunho de Irineu, aqui, realmente suspeito? Em *Adv. Haer*. III.10.5 lemos: “Marcos … assim começa sua narrativa do Evangelho: ‘O princípio do Evangelho de Jesus Cristo, o Filho de Deus, como está escrito nos profetas: Eis … [as citações continuam].’ Claramente o começo do Evangelho cita as palavras dos santos profetas, e apontam para Ele … a quem confessaram como Deus e Senhor.” Note que Irineu não apenas cita Mc 1.2 mas comenta sobre ele, e em ambos citação e comentário sustenta a leitura “Bizantina”. Mas o comentário é um pouco distante da citação e é inteiramente improvável que um copista teria molestado o comentário mesmo se tivesse se sentido chamado a mudar a citação. Jogo limpo exige que esta citação seja lealmente registrada como apoio do 2º século para a leitura “Bizantina”. Uma outra citação, quase tão inambígua, ocorre em *Adv. Haer*. III.16.3, onde lemos: “Razão pela qual Marcos também diz: ‘O princípio do Evangelho de Jesus Cristo, o Filho de Deus, como está escrito nos profetas.’ Conhecendo um e o mesmo Filho de Deus, Jesus Cristo, quem foi anunciado pelos profetas. …” Veja que novamente Irineu não apenas cita Mc 1.2 mas também o comenta, e em ambos citação e comentário ele sustenta a leitura “Bizantina”. Há também uma clara alusão a Mc 1.2 em *Adv. Haer*. III.11.4, onde lemos: “Por qual Deus, então, foi João, o arauto-precursor … enviado? Verdadeiramente foi por Ele … quem também tinha prometido pelos profetas que enviaria Seu mensageiro diante da face do Seu Filho, quem [o mensageiro] prepararia Seu [do Filho] caminho…” Não podemos nós razoavelmente reivindicar esta como uma **terceira** citação em apoio da leitura “Bizantina”? Em qualquer caso, fica claro que a manipulação das evidências de Irineu por Fee na melhor das hipóteses é decepcionante, se não repreensível. Enquanto estamos no assunto da confiabilidade de Fee, ofereço a avaliação feita por W. F. Wisselink [cf. nota de rodapé 168, abaixo] depois de uma exaustiva investigação da sua obra: Enquanto eu estava estudando o relato de Fee [‘P⁷⁵, P⁶⁶, and Origen: “The Myth of Early Textual Recension in Alexandria,”’ *New Dimensions in New Testament Study*, ed. R. N. Longenecker e M. C. Tenney (Grand Rapids: Zondervan, 1974), pags. 42–44] tornou-se-me aparente que ele é incompleto e indistinto, e que contém erros. Fee descreve a sua investigação em pouco mais que uma página. Introduz seu relato como segue: ‘A plena justificativa desta conclusão requererá um volume de considerável tamanho cheio com listas de dados. Aqui podemos oferecer somente uma ilustração-amostra, com a nota adicional que os dados completos variarão pouco da amostragem’ (Fee, 1974, 42). Daí, solicitei de Fee os dados completos. Recebi seis páginas parcialmente preenchidas contendo os dados (em forma de rascunho) sobre as assimilações em Lucas 10 e 11. “Depois de estuda-los, cheguei à conclusão que também são incompletos e indistintos, e contém erros. Assim, pontos de interrogação podem ser colocados na confiabilidade da investigação à qual aqueles dados rudes e aquele relatório fazem referência.” [Wisselink, pag. 69.] Wisselink então prossegue para documentar suas acusações nas três páginas seguintes. Repito que não poderíamos confiar numa edição crítica de Irineu preparada por Fee, e começo a duvidar que qualquer edição preparada por alguém com um preconceito anti-Bizantino seria de confiar. Isto sem falar da falácia do ponto de partida deles, a saber que o texto “Bizantino” é recente. As três citações de Irineu são tomadas de A. Roberts e J. Donaldson, eds. *The Ante-Nicene Fathers*, 1973, Vol. I, pags. 425–26 e 441, e foram conferidas, quanto à acurácia, contra a edição crítica de W. W. Harvey (*Sancti Irenaei: Episcopi Lugdunensis: Libros Quinque Adversus Haereses*, Cambridge: University Press, 1857). Devo este material sobre Irineu a Maurice A. Robinson.
 
-[^213]: Naturalmente este princípio também é aplicado aos MSS gregos, com consequências sérias. Uma declaração por Metzger dá um exemplo claro. Deve ser observado que, de acordo com a teoria que membros de f1 e f13 foram sujeitos à progressiva acomodação ao texto Bizantino posterior, estudiosos têm estabelecido o texto destas famílias por adotarem leituras de testemunhas (dentro da família) que diferem do *Textus Receptus*. Por consequência, a citação da sigla f1 e f13 pode, em qualquer dado exemplo, significar uma minoria de manuscritos Um tal procedimento engana o usuário do aparato, que tem todo o direito de esperar que a sigla somente será usada quando todos (ou quase todos) os membros concordam. Uma visão distorcida é criada-a divergência de f1 e f13 para com o texto “Bizantino” é feita parecer maior do que realmente é, e a extensão da variação entre os membros [em cada família] é obscurecida. O estudo sobre Cirílo de Jerusalém por Greenlee (pag. 30, ver próxima nota de rodapé) provê um outro exemplo. Ente outras coisas, ele apela para o “bem conhecido fato que todas as testemunhas Cesareanas são mais ou menos corrigidas em direção ao padrão Bizantino, mas em diferentes locais, de modo que os grupos têm que ser considerados como um todo, não pelos membros individuais dele, para se ter a verdadeira visão [da situação].” O comportamento dos MSS individuais não fariam mais sentido se vistos como fugindo do padrão Bizantino?
+[^213]: Naturalmente este princípio também é aplicado aos MSS gregos, com consequências sérias. Uma declaração por Metzger dá um exemplo claro. Deve ser observado que, de acordo com a teoria que membros de f1 e f13 foram sujeitos à progressiva acomodação ao texto Bizantino posterior, estudiosos têm estabelecido o texto destas famílias por adotarem leituras de testemunhas (dentro da família) que diferem do *Textus Receptus*. Por consequência, a citação da sigla f1 e f13 pode, em qualquer dado exemplo, significar uma minoria de manuscritos (ou mesmo somente um) que pertence à família. (*A Textual Commentary on the Greek New Testament* [companheiro de UBS³], pag. xii.) Um tal procedimento engana o usuário do aparato, que tem todo o direito de esperar que a sigla somente será usada quando todos (ou quase todos) os membros concordam. Uma visão distorcida é criada — a divergência de f1 e f13 para com o texto “Bizantino” é feita parecer maior do que realmente é, e a extensão da variação entre os membros [em cada família] é obscurecida. O estudo sobre Cirílo de Jerusalém por Greenlee (pag. 30, ver próxima nota de rodapé) provê um outro exemplo. Ente outras coisas, ele apela para o “bem conhecido fato que todas as testemunhas Cesareanas são mais ou menos corrigidas em direção ao padrão Bizantino, mas em diferentes locais, de modo que os grupos têm que ser considerados como um todo, não pelos membros individuais dele, para se ter a verdadeira visão [da situação].” O comportamento dos MSS individuais não fariam mais sentido se vistos como fugindo do padrão Bizantino?
 
 [^214]: Eu acredito que o estudo sobre Cirílo de Jerusalém por J. H. Greenlee é um exemplo. *The Gospel Text of Cyril of Jerusalem* (Copenhagen: Ejnar Munksgaard, 1955).
 
-[^215]: Burgon, *The Traditional Text*, pags. 97–98. Acredito que Suggs tende a concordar com Miller que a inclinação assimiladora dos copistas medievais pode facilmente ser superestimada (“The Use of Patristic Evidence,” pag. 140). Os Lecionários dão testemunho eloquente contra a suposta inclinação assimiladora. Depois de discutir em alguma extensão a falta de consistência textual deles, Colwell observa: “Figurativamente falando, o Lecionário é um conservante no qual, de tempos em tempos, porções do texto vivo foram colocadas. Uma vez submersas no Lecionário, cada porção foi solidificada ou determinada.” (Colwell and Riddle, *Prolegomena* *to the Study of the Lectionary Text of the Gospels*, pag. 17). Similarmente, Riddle cita favoravelmente a estimativa de Gregório: “Ele viu que, como um produto do sistema litúrgico, eles eram guardados por uma força fortemente conservadora, e ele foi correto na sua inferência que o conservadorismo da liturgia tenderia frequentemente a fazê-los o meio para a preservação de um texto antigo. Foi boa a sua analogia com o Saltério da Igreja Anglicana” (*Ibid*., pags. 40–41). Muitas das lições no Livro de Orações Anglicano são muito mais velhas que a AV mas nunca têm sido adaptadas à AV. Em suma, temos boas razão para duvidar que copistas medievais foram tão pesadamente inclinados a assimilar (adaptar) o texto como estudiosos tais como Taylor desejam nos fazer crer.
+[^215]: Burgon, *The Traditional Text*, pags. 97–98. Acredito que Suggs tende a concordar com Miller que a inclinação assimiladora dos copistas medievais pode facilmente ser superestimada (“The Use of Patristic Evidence,” pag. 140). Os Lecionários dão testemunho eloquente contra a suposta inclinação assimiladora. Depois de discutir em alguma extensão a falta de consistência textual deles, Colwell observa: “Figurativamente falando, o Lecionário é um conservante no qual, de tempos em tempos, porções do texto vivo foram colocadas. Uma vez submersas no Lecionário, cada porção foi solidificada ou determinada.” (Colwell and Riddle, *Prolegomena to the Study of the Lectionary Text of the Gospels*, pag. 17). Similarmente, Riddle cita favoravelmente a estimativa de Gregório: “Ele viu que, como um produto do sistema litúrgico, eles eram guardados por uma força fortemente conservadora, e ele foi correto na sua inferência que o conservadorismo da liturgia tenderia frequentemente a fazê-los o meio para a preservação de um texto antigo. Foi boa a sua analogia com o Saltério da Igreja Anglicana” (*Ibid*., pags. 40–41). Muitas das lições no Livro de Orações Anglicano são muito mais velhas que a AV mas nunca têm sido adaptadas à AV. Em suma, temos boas razão para duvidar que copistas medievais foram tão pesadamente inclinados a assimilar (adaptar) o texto como estudiosos tais como Taylor desejam nos fazer crer.
 
 [^216]: Burgon, *The Last Twelve Verses*, pag. 58. Sturz lista um número de leituras “Bizantinas” adicionais que têm tido sustentação patrística antiga (Clemente, Tertuliano, Marcion, Metódio) e que agora têm também sustentação antiga pelos papiros (pags. 55–56). Aqui, novamente, não mais funcionará a alegação que os MSS dos Pais têm sido alterados para se conformarem ao texto “Bizantino”.
 
@@ -4772,7 +5019,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^222]: H. A. Sturz, *The Byzantine Text-Type and New Testament Textual Criticism*.
 
-[^223]: Pags. 188–208. Sturz observa que leituras em um bom número (15 desta lista) realmente devem ser consideradas como “distintamente Bizantinas,” mas uma ou outra testemunha alegadamente “Ocidental” ou “Alexandrina” também as contém, e daí Sturz formula as seguintes conclusões a partir das evidências que apresenta: 1) Leituras “Distintamente Bizantinas” são encontradas em papiros antigos (pag. 55). 2) Consequentemente, tais leituras são antigas (pag. 62). 3) Tais leituras não podem ser o resultado de um editar no 4º século (pag. 62). 4) Os unciais antigos não têm preservado um quadro completo da situação textual no 2º. século (pag. 62). 5) O tipo-de-texto “Bizantino” tem preservado alguma parte da tradição do 2º século **não** encontrada nos outros (pag. 64). 6) A posterioridade de outras leituras “Bizantinas”, para as quais atestação por papiros antigos ainda não tem vindo à tona, é agora questionável (pag. 64). 7) Alinhamentos “Bizantino-Ocidentais” retrocedem até dentro do 2º século; eles **têm** que ser antigos (pag. 70). (Fee fala de minhas “distorções da evidência dos papiros” e diz, com referência a ela, que eu tenho “grosseiramente mal-interpretado os dados” (“A Critique,” pag. 422). Eu convido o leitor a conferir as evidências apresentadas por Sturz e então decidir por si próprio se tem ou não havido distorção e má interpretação.)
+[^223]: Pags. 188–208. Sturz observa que leituras em um bom número (15 desta lista) realmente devem ser consideradas como “distintamente Bizantinas,” mas uma ou outra testemunha alegadamente “Ocidental” ou “Alexandrina” também as contém, e daí …. Sturz formula as seguintes conclusões a partir das evidências que apresenta: 1) Leituras “Distintamente Bizantinas” são encontradas em papiros antigos (pag. 55). 2) Consequentemente, tais leituras são antigas (pag. 62). 3) Tais leituras não podem ser o resultado de um editar no 4º século (pag. 62). 4) Os unciais antigos não têm preservado um quadro completo da situação textual no 2º. século (pag. 62). 5) O tipo-de-texto “Bizantino” tem preservado alguma parte da tradição do 2º século **não** encontrada nos outros (pag. 64). 6) A posterioridade de outras leituras “Bizantinas”, para as quais atestação por papiros antigos ainda não tem vindo à tona, é agora questionável (pag. 64). 7) Alinhamentos “Bizantino-Ocidentais” retrocedem até dentro do 2º século; eles **têm** que ser antigos (pag. 70). (Fee fala de minhas “distorções da evidência dos papiros” e diz, com referência a ela, que eu tenho “grosseiramente mal-interpretado os dados” (“A Critique,” pag. 422). Eu convido o leitor a conferir as evidências apresentadas por Sturz e então decidir por si próprio se tem ou não havido distorção e má interpretação.)
 
 [^224]: Pag. 189. Isto significa que os papiros antigos atestam as leituras “Bizantinas” em 660 (ou 885) locais onde há variação significante. Poder-se-ia desejar que Sturz também nos tivesse dado os números para leituras “distintamente Ocidentais” e “distintamente Alexandrinas”, mas como definir tais expressões? Onde há uma definição objetiva para “leitura Ocidental”, por exemplo?
 
@@ -4780,7 +5027,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^226]: *Ibid*., pag. 25. Fee me critica severamente por meu “agnosticismo” (“A Critique,” pag. 409), mas minha declaração dificilmente é mais forte que a de Hort.
 
-[^227]: Ibid., pag. 286.
+[^227]: *Ibid*., pag. 286.
 
 [^228]: Fee, “Modern Text Criticism and the Synoptic Problem,” *J. J. Griesbach: Synoptic and Text-Critical Studies 1776–1976*, ed. B. Orchard e T. R. W. Longstaff (Cambridge: University Press, 1978), pag. 156.
 
@@ -4818,7 +5065,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^245]: *Ibid*., pag. 383.
 
-[^246]: Ibid., pag. 387.
+[^246]: *Ibid*., pag. 387.
 
 [^247]: N. Trads.: *Haplografia* é um erro de cópia que consiste: (a) na omissão de uma ou mais sílabas vizinhas (usualmente iguais ou similares) de um vocábulo (“semimiserável” vira “semiserável”); ou (b) na omissão de uma ou mais palavras vizinhas (usualmente homônimas ou parônimas), de uma sentença (“antes queria morrer do que que me acusassem de ladrão” perde um “que”).
 
@@ -4828,9 +5075,9 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^250]: Metzger, *The Text*, pag. 195.
 
-[^251]: Ibid., pag. 196.
+[^251]: *Ibid*., pag. 196.
 
-[^252]: Para qualquer um que sentir que somos obrigados a explicar a origem de toda ou cada leitura variante peculiar, mesmo se encontrada em apenas uma ou duas cópias — especialmente se as cópias acontecem de ser B, Aleph ou um dos papiros — Burgon chama a atenção para uma obrigação correlata muito maior. “Frequentemente ocorre que a única desculpa restante, de muitos críticos, por adotarem leituras de um certo tipo, é a natureza inexplicável dos fenômenos que estas leituras exibem. 'Como você poderia explicar uma leitura tal como a presente,' (dizem eles) 'se ela não for autêntica?' Eles perdem de vista a dificuldade correlata: — Como é que o restante das cópias têm leitura diferente?” (*The Causes of the Corruption*, pag. 17.)
+[^252]: Para qualquer um que sentir que somos obrigados a explicar a origem de toda ou cada leitura variante peculiar, mesmo se encontrada em apenas uma ou duas cópias — especialmente se as cópias acontecem de ser B, Aleph ou um dos papiros — Burgon chama a atenção para uma obrigação correlata muito maior. “Frequentemente ocorre que a única desculpa restante, de muitos críticos, por adotarem leituras de um certo tipo, é a natureza inexplicável dos fenômenos que estas leituras exibem. ‘Como você poderia explicar uma leitura tal como a presente,’ (dizem eles) ‘se ela não for autêntica?’ … Eles perdem de vista a dificuldade correlata: — Como é que o restante das cópias têm leitura diferente?” (*The Causes of the Corruption*, pag. 17.)
 
 [^253]: Zuntz, *The Text*, pag. 36.
 
@@ -4844,7 +5091,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^258]: Metzger, *A Textual Commentary*, pag. xx.
 
-[^259]: Jakob Van Bruggen, *The Ancient Text of the New Testament* (Winnipeg: Premier, 1976), pag. 30. Cf. W. F. Wisselink, *Assimilation* *as a Criterion for the Establishment of the Text*, 4 vols. (Kampen: Uitgeversmaatschappij J. H. Kok, 1989). Wisselink conclui: “Assimilações ocorrem em todos manuscritos. Mesmo no manuscrito B há uma questão de assimilação em 31 porcento das 1489 variantes que foram investigadas. Em P75 o número de assimilações é: 39 porcento das 165 variações que foram investigadas” (pag. 87). Maurice A. Robinson contribui com as seguintes questões relevantes: Por que a forma de texto bizantina não se desenvolveu como deveria ter se desenvolvido [pela hipótese de Hort], e se mover mais consistentemente na direção de harmonização de todas passagens? Por que, ao contrário, encontramos tantas ou mais harmonizações possíveis entre os tipos de texto minoritários do que aquilo que é alegado ter ocorrido com respeito à forma do texto bizantino? Em adição, por que os conservadores e guardiões da tradição bizantina corretamente rejeitaram a vasta massa de tais harmonizações? A maioria delas nunca ganhou mais que um insignificante ponto de apoio que não poderia sobreviver e não o fez. Por que, também-se harmonização foi tão comum, além de ser uma tendência popular dentro de um processo crescente e contínuo-as “antigas harmonizações” (diretas e claras) entre os representantes dos tipos de texto Alexandrino e Ocidental **não** sobreviveram à medida que o texto progrediu para dentro da era bizantina? Por que, especialmente, harmonizações preexistentes, como as encontradas nas tradições Ocidental e Alexandrina, foram *desa* rmonizadas pelos copistas da era bizantina, uma vez que isto foi precisamente o oposto do que deveria ter ocorrido? Robinson, “Two Passages in Mark: A Critical Test for the Byzantine-Priority Hypothesis,” apresentado ao 46 ° encontro anual da E. T. S. [Evangelical Theological Society], Nov., 1994, pag. 25. O leitor interessado faria bem em ler as pags. 24–34 deste artigo — Robinson desfecha várias colocações penetrantes.
+[^259]: Jakob Van Bruggen, *The Ancient Text of the New Testament* (Winnipeg: Premier, 1976), pag. 30. Cf. W. F. Wisselink, *Assimilation as a Criterion for the Establishment of the Text*, 4 vols. (Kampen: Uitgeversmaatschappij J. H. Kok, 1989). Wisselink conclui: “Assimilações ocorrem em todos manuscritos. Mesmo no manuscrito B há uma questão de assimilação em 31 porcento das 1489 variantes que foram investigadas. Em P75 o número de assimilações é: 39 porcento das 165 variações que foram investigadas” (pag. 87). Maurice A. Robinson contribui com as seguintes questões relevantes: Por que a forma de texto bizantina não se desenvolveu como deveria ter se desenvolvido [pela hipótese de Hort], e se mover mais consistentemente na direção de harmonização de todas passagens? Por que, ao contrário, encontramos tantas ou mais harmonizações possíveis entre os tipos de texto minoritários do que aquilo que é alegado ter ocorrido com respeito à forma do texto bizantino? Em adição, por que os conservadores e guardiões da tradição bizantina corretamente rejeitaram a vasta massa de tais harmonizações? A maioria delas nunca ganhou mais que um insignificante ponto de apoio que não poderia sobreviver e não o fez. Por que, também — se harmonização foi tão comum, além de ser uma tendência popular dentro de um processo crescente e contínuo — as “antigas harmonizações” (diretas e claras) entre os representantes dos tipos de texto Alexandrino e Ocidental **não** sobreviveram à medida que o texto progrediu para dentro da era bizantina? Por que, especialmente, harmonizações preexistentes, como as encontradas nas tradições Ocidental e Alexandrina, foram desarmonizadas pelos copistas da era bizantina, uma vez que isto foi precisamente o oposto do que deveria ter ocorrido? Robinson, “Two Passages in Mark: A Critical Test for the Byzantine-Priority Hypothesis,” apresentado ao 46° encontro anual da E. T. S. [Evangelical Theological Society], Nov., 1994, pag. 25. O leitor interessado faria bem em ler as pags. 24–34 deste artigo — Robinson desfecha várias colocações penetrantes.
 
 [^260]: *Ibid*. Cf. E. F. Hills, “Harmonizations in the Caesarean Text of Mark,” *Journal of Biblical Literature*, 66 (1947), 135–152.
 
@@ -4862,7 +5109,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^267]: Burgon, *The Traditional Text*, pag. 67.
 
-[^268]: Fee, “A Critique of W. N. Pickering's *The Identity of the New Testament Text*: A Review Article,” *The Westminster Theological Jour-* *nal*, XLI (Spring, 1979), pag. 411.
+[^268]: Fee, “A Critique of W. N. Pickering’s *The Identity of the New Testament Text*: A Review Article,” *The Westminster Theological Journal*, XLI (Spring, 1979), pag. 411.
 
 [^269]: Devo a Maurice A. Robinson o material da discussão acima.
 
@@ -4876,7 +5123,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^274]: Devo a Robinson o material usado na discussão acima.
 
-[^275]: A caracterização de Hort é similar a descrições contemporâneas do grego Koinê nos tempos do Novo Testamento. “Fontes não bíblicas atestam que houve um tal estilo simples e comum de escrita e fala do grego, originando nos tempos mais primitivos do Novo Testamento. Fontes tais como os papiros não bíblicos e como os Discursos de Epíteto, o filósofo estóico, atestam este estilo. Adicionalmente, há uma delineação formal do que o estilo direto deve ser, o qual tem sido datado como aproximadamente do mesmo tempo em que o Novo Testamento estava sendo escrito. *Demétrio, Sobre Estilo* cita “o estilo comum” como um dos quatro que ele descreve e discute. Partes do seu tratamento deste assunto tendem a relembrar-nos das descrições do Koinê do período helenístico e do tipo de grego que se supõe caracterizar o Novo Testamento.” “A despeito da conhecida existência de um tal estilo comum como foi apresentado por Demétrio e encontrado em Epíteto, haviam aqueles, no período primitivo da Igreja e seus escritos, que escarneciam do estilo comum e falavam dele desdenhosamente, como se encontra nas Escrituras. Um desses foi o pagão Celso, que procurou refutar a fé cristã através de um ataque literário escrito em algum tempo entre 161–180 DC. Orígenes indica que Celso ridicularizou as Escrituras por levá-las a uma comparação desfavorável com os escritos dos filósofos, em trechos onde parecia haver algum paralelo” (Sturz, pags. 112–13).
+[^275]: A caracterização de Hort é similar a descrições contemporâneas do grego Koinê nos tempos do Novo Testamento. “Fontes não bíblicas atestam que houve um tal estilo simples e comum de escrita e fala do grego, originando nos tempos mais primitivos do Novo Testamento. Fontes tais como os papiros não bíblicos e como os Discursos de Epíteto, o filósofo estóico, atestam este estilo. Adicionalmente, há uma delineação formal do que o estilo direto deve ser, o qual tem sido datado como aproximadamente do mesmo tempo em que o Novo Testamento estava sendo escrito. *Demétrio, Sobre Estilo* cita “o estilo comum” … como um dos quatro que ele descreve e discute. … Partes do seu tratamento deste assunto tendem a relembrar-nos das descrições do Koinê do período helenístico e do tipo de grego que se supõe caracterizar o Novo Testamento. … “A despeito da conhecida existência de um tal estilo comum como foi apresentado por Demétrio e encontrado em Epíteto, haviam aqueles, no período primitivo da Igreja e seus escritos, que escarneciam do estilo comum e falavam dele desdenhosamente, como se encontra nas Escrituras. Um desses foi o pagão Celso, que procurou refutar a fé cristã através de um ataque literário escrito em algum tempo entre 161–180 DC. Orígenes indica que Celso ridicularizou as Escrituras por levá-las a uma comparação desfavorável com os escritos dos filósofos, em trechos onde parecia haver algum paralelo” (Sturz, pags. 112–13).
 
 [^276]: H. F. von Soden, *Die Schriften des Neuen Testaments* (2 Vols.; Gottingen: Vandenhoeck und Ruprecht, 1911), Vol. 1, part. ii, pags. 1456–1459 (cf. 1361–1400), 1784–1878.
 
@@ -4888,7 +5135,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^280]: Kilpatrick, pag. 205.
 
-[^281]: Burgon, The Revision Revised, pag. 293.
+[^281]: Burgon, *The Revision Revised*, pag. 293.
 
 [^282]: Kenyon, *Handbook*, pags. 324–25.
 
@@ -4902,7 +5149,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^287]: Hodges, “A Defense of the Majority Text,” pag. 42. Para uma discussão adicional dos problemas confrontando a tese de “processo”, ver a seção “**Objeções**” no Apêndice C.
 
-[^288]: Metzger, *The Text*, (2nd. ed., 1968), pag. 212. Em 1972 ele escreveu, “Se realmente foi Luciano,” portanto ele pode agora estar recuando daquela posição. “Patristic Evidence and the Textual Criticism of the New Testament,” *New Testament Studies*, XVIII (1972), pag. 385.
+[^288]: Metzger, *The Text*, (2nd. ed., 1968), pag. 212. Em 1972 ele escreveu, “Se realmente foi Luciano …,” portanto ele pode agora estar recuando daquela posição. “Patristic Evidence and the Textual Criticism of the New Testament,” *New Testament Studies*, XVIII (1972), pag. 385.
 
 [^289]: Burgon, *The Revision Revised*, pags. 276–77.
 
@@ -4912,7 +5159,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^292]: Burgon, *The Last Twelve Verses*, pag. 56. Metzger reconhece a força desta circunstância (*Loc. Cit.*).
 
-[^293]: Clark, “Today's Problems,” pag. 162.
+[^293]: Clark, “Today’s Problems,” pag. 162.
 
 [^294]: Epp, pag. 403.
 
@@ -4926,7 +5173,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^299]: Epp, “Interlude,” pags. 391–92.
 
-[^300]: Clark, “Today's Problems,” pag. 161.
+[^300]: Clark, “Today’s Problems,” pag. 161.
 
 [^301]: Z. C. Hodges, “A Defense of the Majority Text” (notas de curso não publicadas, Dallas Theological Seminary, 1975), pag. 4.
 
@@ -4936,9 +5183,9 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^304]: Para uma declaração de minhas pressuposições, ver Apêndice A.
 
-[^305]: Estou ciente que poderia ser Pv 3.12 (LXX) em vez de Hb 12.6. Clemente repetidamente cita ambos os livros por toda a carta e assim, neste ponto, ambos seriam candidatos iguais. Mas Clemente concorda exatamente com Hebreus enquanto Provérbios (LXX) difere em uma palavra importante. Além disso, o ponto principal do capítulo 56 de Clemente é que a correção deve ser aceita graciosamente como sendo do Senhor, o que também é o assunto de Hb 12.3–11. Uma vez que, evidentemente, Clemente tinha ambos os livros na sua frente (no próximo capítulo ele cita nove versículos consecutivos, Pv 1.23–31), então a concordância exata com Hebreus é significativa. Se ele escolheu deliberadamente a redação de Hebreus em lugar da de Provérbios, o que poderia isso implicar quanto à autoridade relativa dada a ambos os livros? 306Tenho utilizado a tradução feita por Francis Glimm em *The Apostolic Fathers* (New York: Cima Publishing Co., Inc., 1947), pertencente à coleção *The Fathers of the Church*, ed. Ludwig Schopp.
+[^305]: Estou ciente que poderia ser Pv 3.12 (LXX) em vez de Hb 12.6. Clemente repetidamente cita ambos os livros por toda a carta e assim, neste ponto, ambos seriam candidatos iguais. Mas Clemente concorda exatamente com Hebreus enquanto Provérbios (LXX) difere em uma palavra importante. Além disso, o ponto principal do capítulo 56 de Clemente é que a correção deve ser aceita graciosamente como sendo do Senhor, o que também é o assunto de Hb 12.3–11. Uma vez que, evidentemente, Clemente tinha ambos os livros na sua frente (no próximo capítulo ele cita nove versículos consecutivos, Pv 1.23–31), então a concordância exata com Hebreus é significativa. Se ele escolheu deliberadamente a redação de Hebreus em lugar da de Provérbios, o que poderia isso implicar quanto à autoridade relativa dada a ambos os livros?
 
-[^306]: Tenho utilizado a tradução feita por Francis Glimm em The Apostolic Fathers (New York: Cima Publishing Co., Inc., 1947), pertencente à coleção The Fathers of the Church, ed. Ludwig Schopp.
+[^306]: Tenho utilizado a tradução feita por Francis Glimm em *The Apostolic Fathers* (New York: Cima Publishing Co., Inc., 1947), pertencente à coleção *The Fathers of the Church*, ed. Ludwig Schopp.
 
 [^307]: J. V. Bartlett diz sobre as fórmulas de citação utilizadas em Barnabé para apresentar citações das Escrituras: “o resultado geral é uma doutrina de inspiração absoluta,” mas ele não se dispõe a admitir que 2 Pedro está sendo usada. Oxford Society of Historical Research, *The New Testament in the Apostolic Fathers* (Oxford: Clarendon Press, 1905), pags. 2, 15.
 
@@ -4952,13 +5199,13 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^312]: Ver nota de rodapé 10.
 
-[^313]: Ver nota de rodapé 11. Seu cuidadoso estudo dos papiros literários cristãos antigos tem levado C. H. Roberts a concluir: “Isto indica o uso cuidadoso e normal das Escrituras pelas comunidades locais” (*Manuscript, Society and Belief in Early Christian Egypt* [London: Oxford Univ. Press, 1979], pag. 25). Ele também infere de P. Oxy. iii. pag. 405 que uma cópia de *Adversus Haereses*, escrita por Irineu em Lions, foi trazida a Oxyrhynchus dentro de bem poucos anos depois de ter sido escrita (*Ibid*., pags. 23, 53), eloquente testemunho da extensão de tráfego entre as antigas igrejas,.
+[^313]: Ver nota de rodapé 11. Seu cuidadoso estudo dos papiros literários cristãos antigos tem levado C. H. Roberts a concluir: “Isto indica o uso cuidadoso e normal das Escrituras pelas comunidades locais” (*Manuscript, Society and Belief in Early Christian Egypt* [London: Oxford Univ. Press, 1979], pag. 25). Ele também infere de P. Oxy. iii. pag. 405 que uma cópia de *Adversus Haereses*, escrita por Irineu em Lions, foi trazida a Oxyrhynchus dentro de bem poucos anos depois de ter sido escrita (*Ibid*., pags. 23, 53), eloquente testemunho da extensão de tráfego entre as antigas igrejas.
 
 [^314]: Ver nota de rodapé 11, exceto que Richardson é o tradutor, aqui.
 
 [^315]: Tirado de G. D. Barry, *The Inspiration and Authority of Holy Scripture* (New York: The McMillan Company, 1919), pag. 52.
 
-[^316]: Ibid., pag. 53.
+[^316]: *Ibid*., pag. 53.
 
 [^317]: *Prescription against Heretics*, 37. Utilizei a tradução feita por Peter Holmes no Vol. III de *The Ante-Nicene Fathers*.
 
@@ -4984,7 +5231,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^328]: Metzger, *Early Versions*, pag. 101.
 
-[^329]: W. R. Farmer, *The Last Twelve Verses of Mark* (Cambridge: University Press, 1974), pags. 14–15. Ele cita B. H. Streeter, *The Four* *Gospels*, 1924, pags. 111, 122–23.
+[^329]: W. R. Farmer, *The Last Twelve Verses of Mark* (Cambridge: University Press, 1974), pags. 14–15. Ele cita B. H. Streeter, *The Four Gospels*, 1924, pags. 111, 122–23.
 
 [^330]: Tenho evitado introduzir qualquer argumento baseado na providência de Deus porque nem todos aceitam tal raciocínio e porque a superioridade do Texto Tradicional pode ser demonstrada sem se recorrer a tais raciocínios. Assim, creio que a argumentação a partir das probabilidades estatísticas, acima oferecida, é válida como ela se encontra. No entanto, embora eu não tenha argumentado com base na Providência, gostaria que o leitor entendesse que, pessoalmente, não creio que a preservação do verdadeiro texto foi tão mecanística quanto a discussão acima pode sugerir. Da evidência previamente apresentada, parece claro que uma grande maioria das leituras variantes (talvez a maioria das leituras maliciosas) que existiram no segundo século simplesmente não sobreviveram — não temos nenhuma testemunha sobrevivente a favor deles. Podemos razoavelmente concluir que os antigos cristãos foram “cães de guarda” conscientes e capazes do texto verdadeiro. Gostaria de crer que eles foram ajudados e assistidos pelo Espírito Santo. Nesta hipótese, a segurança do texto é consideravelmente maior que aquela sugerida somente pela probabilidade, incluindo a proposição que nenhuma das palavras originais foi perdida.
 
@@ -4998,11 +5245,11 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^335]: G. D. Kilpatrick, “The Transmission of the New Testament and its Reliability,” *The Bible Translator*, IX (July, 1958), 128–29.
 
-[^336]: Zuntz, The Text, pag. 11.
+[^336]: Zuntz, *The Text*, pag. 11.
 
 [^337]: Kilpatrick, “Atticism and the Text of the Greek New Testament,” *Neutestamentliche Aufsatze* (Regensburg: Verlag Friedrich Pustet, 1963), pags. 129–30.
 
-[^338]: Cf. Burgon, The Revision Revised, pag. 323.
+[^338]: Cf. Burgon, *The Revision Revised*, pag. 323.
 
 [^339]: Poderíamos falar de um remanso P45, W ou um remanso P75, B, por exemplo.
 
@@ -5012,13 +5259,13 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^342]: Sturz, *Op. Cit.* Um texto produzido por seguir dois dos “tipos-de-texto” contra o terceiro (em qualquer combinação), moveria o texto da UBS 80% da distância em direção ao Texto Majoritário.
 
-[^343]: As leituras, com os MSS que as atestam, são as seguintes: *o* - D*; ω - 061; *oj Qeoj* - um cursivo (e um Lecionário); *oj* - ℵ, 33, 442, 2127 (três Lecionários); *Qeoj* - A, Cvid, F/Gvid, K, L, P, Ψ, uns 600 cursivos (além dos Lecionários) (inclusive quatro cursivos que têm *o Qeoj* e um Lecionário que tem *Qeou*). Será observado que minha declaração difere daquela do texto UBS, por exemplo. Ofereço a seguinte explicação. Young, Huish, Pearson, Fell, e Mill no século XVII; Creyk, Bentley, Wotton, Wetstein, Bengel, Berriman, e Woide no século XVIII; e Scrivener tão tardiamente quanto em 1881; todos eles afirmaram, baseados em cuidadosa inspeção, que o Códice A traz “Deus”. Para uma discussão completa, favor ver Burgon, que diz de Woide “O erudito e consciente editor do Códice declara que tão recente quanto em 1765 ele tinha visto traços do Θ que, vinte anos depois (a saber, em 1785), não mais lhe eram visíveis.” (*The Revision Revised*, pag. 434. Cf. pags. 431–36). Foi somente após 1765 que os estudiosos começaram a questionar a leitura de A (através de desvanecimento e desgaste, a linha do meio do *theta* não mais é discernível). Hoskier devota o Apêndice J de *A Full Account* (o apêndice sendo uma reimpressão de parte de um artigo que apareceu em *Clergyman’s Magazine*, Fevereiro 1887) a uma cuidadosa discussão da leitura de Códice C. Ele gastou três horas examinando a passagem em questão, neste MS (o próprio MS), e oferece evidência que mostra claramente, estou convencido, que a leitura original de C é “Deus”. Ele examinou o contexto ao redor e observa, “A **barra-de-contração** tem frequentemente se desvanecido completamente (de um exame superficial, creio que a barra desapareceu mais vezes que não), mas outras vezes está evidente e imposta da mesma maneira que em 1 Tm. iii.16” (Apêndice J, pag. 2). Ver também Burgon, *Ibid*., pags. 437–38. Os Códices F/G têm *OC* onde a barra-de-contração é um traço inclinado. Tem sido argumentado que o traço representa a aspiração de ος, mas Burgon demonstra que o traço em questão nunca representa aspiração mas é invariavelmente o sinal de contração, e afirma que “ος não é **em nenhum outro local** escrito *OC* em nenhum dos dois códices” (*Ibid*., pag. 442. Cf. pags. 438–42). Presumivelmente a linha cruzada no pai comum [aos dois MSS] tinha se tornado muito fraca para ser vista. Quanto ao cursivo 365, Burgon o procurou exaustivamente e não apenas não conseguiu encontrá-lo, mas não pôde encontrar nenhuma evidência que ele jamais tenha existido (*Ibid*., pags. 444–45). (Tratei do caso de 1Tm 3.16, na primeira edição deste livro, unicamente para ilustrar o argumento da probabilidade, não como exemplo de “como fazer crítica textual” [cf. Fee, “*A Critique*”, pag. 423]. Já que a questão tem sido levantada, adicionarei umas poucas palavras sobre o assunto). As três variantes significativas envolvidas são representadas nos MSS unciais antigos como se segue: *O*, *OC*, e Θ*C*, significando, respectivamente, “que”, “quem” e “Deus”. Ao escrever “Deus”, se um copista omitisse (por pressa ou distração momentânea) as duas linhas [a que cruza o *theta* e a barra em cima] resultaria em “quem”. Os Códices A, C, F, e G têm numerosas ocorrências onde uma das duas (a linha cruzante ou a barra contractante) não é mais discernível (a linha original pode ter desvanecido ao ponto de ficar invisível, ou o copista pode ter falhado em escrevê-la). A hipótese de ambas as linhas se desvanecerem, como aqui no Códice A, é presumivelmente um evento infrequente. A hipótese de um copista inadvertidamente omitir ambas as linhas também seria um evento infrequente, presumivelmente, mas deve ter acontecido pelo menos uma vez, provavelmente bem cedo no segundo século e em circunstâncias que produziram um efeito que se propagou amplamente. A colocação “o mistério ... quem” é ainda mais patológica em grego do que o é em português. Foi assim inevitável, uma vez que tal leitura surgiu e se tornou conhecida, que ação remediadora fosse tentada. Consequentemente, a primeira leitura acima, “o mistério ... que,” é geralmente considerada como uma tentativa de fazer a leitura difícil inteligível. Mas tem que ter sido um desdobramento antigo, por que domina completamente a tradição latina, tanto de versões como dos Pais, como também é a leitura provável das versões Syrp e Cóptica. Encontra-se somente em um MS grego, Códice D, e em nenhum Pai grego antes do quinto século. A maioria dos estudiosos modernos considera “Deus” como uma outra resposta terapêutica, para a leitura difícil. Embora domine os MSS gregos (acima de 98%), é certamente atestada por somente duas versões, a Geórgica e a Slavônica (ambas posteriores). Mas também domina os Pais Gregos. Ao redor de 100 DC há possíveis alusões em Barnabé “Ιησους... ο υιος του Θεου τυπω και εν σαρκι φανερωθeis” (Cap. xii), e em Inácio, “Θεου ανθρωπινως φανερουµενου” (*Ad Ephes*. c. 19) e “εν σαρκι γενοµενος Θεος” (*Ibid*., c. 7). No século III parece haver claras referências em Hipólito: “Θeos εν σωµατι εφανερωθη” (*Contra Haeresim Noeti*, c. xvii), Dionísio, “Θεος γαρ εφανερωθη εν σαρκι” (*Concilia*, i. 853a) e Gregório Taumaturgo, “και εστιν Θεος αληθινος ο ασαρκος εν σαρκι φανερωθεις” (citado por Fócio). No 4º século há citações ou referências claras em Gregório de Nissa (22 vezes), Gregório de Nazianzo, Dídimo de Alexandria, Diodoro, as Constituições Apostólicas, e Crisóstomo, seguido por Cirílo de Alexandria, Teodoreto, e Eutálio no quinto século, e assim por diante (Burgon, *Ibid*., pags. 456–76, 486–90). Quanto à leitura gramaticalmente aberrante, “quem”, além dos MSS já citados, a mais antiga versão que a atesta é a gótica (quarto século). Para se ter uma clara testemunha patrística grega para esta leitura se exige a sequência µυστηριον ος εφανερωθη, uma vez que depois de qualquer referência a Cristo, Salvador, Filho de Deus, etc. no contexto anterior, o uso de uma cláusula predicativa é previsível. Burgon afirmou que não tinha conhecimento de nenhum tal testemunho (e seu conhecimento do assunto provavelmente nunca foi igualado) (*Ibid*., pag. 483). Assim, parece que as leituras “Ocidental” e “Bizantina” têm atestação mais antiga que a “Alexandrina”. Todavia, se a leitura “que” surgiu para remediar a leitura “quem”, então a segunda tem que ser mais velha. A leitura “quem” é admitidamente a mais difícil, tanto assim que aplicar o cânon “escolha a leitura mais difícil”, face a uma tão fácil explanação transcricional [a omissão sem querer dos dois traços] para a leitura difícil, parece ser irrazoável. Como Burgon tão bem o disse: “Confio que pelo menos estamos de acordo que a máxima ‘proclivi lectioni praestat ardua,’ não enuncia uma tão tola proposição quanto que, ao escolher entre duas ou mais leituras conflitantes, devemos preferir aquela que tem a atestação externa mais frágil, -- contanto que, em si própria, seja [também] quase ininteligível?” (*Ibid*., pag. 497).
+[^343]: As leituras, com os MSS que as atestam, são as seguintes: *ο* - D; ω - 061; *ος Θεος* - um cursivo (e um Lecionário); *ος* - ℵ, 33, 442, 2127 (três Lecionários); *Θεος* - A, Cᵛⁱᵈ, F/Gᵛⁱᵈ, K, L, P, Ψ, uns 600 cursivos (além dos Lecionários) (inclusive quatro cursivos que têm *ο Θεος* e um Lecionário que tem *Θεου*). Será observado que minha declaração difere daquela do texto UBS, por exemplo. Ofereço a seguinte explicação. Young, Huish, Pearson, Fell, e Mill no século XVII; Creyk, Bentley, Wotton, Wetstein, Bengel, Berriman, e Woide no século XVIII; e Scrivener tão tardiamente quanto em 1881; todos eles afirmaram, baseados em cuidadosa inspeção, que o Códice A traz “Deus”. Para uma discussão completa, favor ver Burgon, que diz de Woide “O erudito e consciente editor do Códice declara que tão recente quanto em 1765 ele tinha visto traços do Θ que, vinte anos depois (a saber, em 1785), não mais lhe eram visíveis.” (*The Revision Revised*, pag. 434. Cf. pags. 431–36). Foi somente após 1765 que os estudiosos começaram a questionar a leitura de A (através de desvanecimento e desgaste, a linha do meio do *theta* não mais é discernível). Hoskier devota o Apêndice J de *A Full Account* (o apêndice sendo uma reimpressão de parte de um artigo que apareceu em *Clergyman’s Magazine*, Fevereiro 1887) a uma cuidadosa discussão da leitura de Códice C. Ele gastou três horas examinando a passagem em questão, neste MS (o próprio MS), e oferece evidência que mostra claramente, estou convencido, que a leitura original de C é “Deus”. Ele examinou o contexto ao redor e observa, “A **barra-de-contração** tem frequentemente se desvanecido completamente (de um exame superficial, creio que a barra desapareceu mais vezes que não), mas outras vezes está evidente e imposta da mesma maneira que em 1 Tm. iii.16” (Apêndice J, pag. 2). Ver também Burgon, *Ibid*., pags. 437–38. Os Códices F/G têm *OC* onde a barra-de-contração é um traço inclinado. Tem sido argumentado que o traço representa a aspiração de ος, mas Burgon demonstra que o traço em questão nunca representa aspiração mas é invariavelmente o sinal de contração, e afirma que “ος não é **em nenhum outro local** escrito *OC* em nenhum dos dois códices” (*Ibid*., pag. 442. Cf. pags. 438–42). Presumivelmente a linha cruzada no pai comum [aos dois MSS] tinha se tornado muito fraca para ser vista. Quanto ao cursivo 365, Burgon o procurou exaustivamente e não apenas não conseguiu encontrá-lo, mas não pôde encontrar nenhuma evidência que ele jamais tenha existido (*Ibid*., pags. 444–45). (Tratei do caso de 1Tm 3.16, na primeira edição deste livro, unicamente para ilustrar o argumento da probabilidade, não como exemplo de “como fazer crítica textual” [cf. Fee, “*A Critique*”, pag. 423]. Já que a questão tem sido levantada, adicionarei umas poucas palavras sobre o assunto). As três variantes significativas envolvidas são representadas nos MSS unciais antigos como se segue: *O*, *OC*, e *ΘC*, significando, respectivamente, “que”, “quem” e “Deus”. Ao escrever “Deus”, se um copista omitisse (por pressa ou distração momentânea) as duas linhas [a que cruza o *theta* e a barra em cima] resultaria em “quem”. Os Códices A, C, F, e G têm numerosas ocorrências onde uma das duas (a linha cruzante ou a barra contractante) não é mais discernível (a linha original pode ter desvanecido ao ponto de ficar invisível, ou o copista pode ter falhado em escrevê-la). A hipótese de ambas as linhas se desvanecerem, como aqui no Códice A, é presumivelmente um evento infrequente. A hipótese de um copista inadvertidamente omitir ambas as linhas também seria um evento infrequente, presumivelmente, mas deve ter acontecido pelo menos uma vez, provavelmente bem cedo no segundo século e em circunstâncias que produziram um efeito que se propagou amplamente. A colocação “o mistério … quem” é ainda mais patológica em grego do que o é em português. Foi assim inevitável, uma vez que tal leitura surgiu e se tornou conhecida, que ação remediadora fosse tentada. Consequentemente, a primeira leitura acima, “o mistério … que,” é geralmente considerada como uma tentativa de fazer a leitura difícil inteligível. Mas tem que ter sido um desdobramento antigo, por que domina completamente a tradição latina, tanto de versões como dos Pais, como também é a leitura provável das versões Syrp e Cóptica. Encontra-se somente em um MS grego, Códice D, e em nenhum Pai grego antes do quinto século. A maioria dos estudiosos modernos considera “Deus” como uma outra resposta terapêutica, para a leitura difícil. Embora domine os MSS gregos (acima de 98%), é certamente atestada por somente duas versões, a Geórgica e a Slavônica (ambas posteriores). Mas também domina os Pais Gregos. Ao redor de 100 DC há possíveis alusões em Barnabé “Ιησους… ο υιος του Θεου τυπω και εν σαρκι φανερωθεις” (Cap. xii), e em Inácio, “Θεου ανθρωπινως φανερουμενου” (*Ad Ephes*. c. 19) e “εν σαρκι γενομενος Θεος” (*Ibid*., c. 7). No século III parece haver claras referências em Hipólito: “Θεος εν σωματι εφανερωθη” (*Contra Haeresim Noeti*, c. xvii), Dionísio, “Θεος γαρ εφανερωθη εν σαρκι” (*Concilia*, i. 853a) e Gregório Taumaturgo, “και εστιν Θεος αληθινος ο ασαρκος εν σαρκι φανερωθεις” (citado por Fócio). No 4º século há citações ou referências claras em Gregório de Nissa (22 vezes), Gregório de Nazianzo, Dídimo de Alexandria, Diodoro, as Constituições Apostólicas, e Crisóstomo, seguido por Cirílo de Alexandria, Teodoreto, e Eutálio no quinto século, e assim por diante (Burgon, *Ibid*., pags. 456–76, 486–90). Quanto à leitura gramaticalmente aberrante, “quem”, além dos MSS já citados, a mais antiga versão que a atesta é a gótica (quarto século). Para se ter uma clara testemunha patrística grega para esta leitura se exige a sequência μυστηριον ος εφανερωθη, uma vez que depois de qualquer referência a Cristo, Salvador, Filho de Deus, etc. no contexto anterior, o uso de uma cláusula predicativa é previsível. Burgon afirmou que não tinha conhecimento de nenhum tal testemunho (e seu conhecimento do assunto provavelmente nunca foi igualado) (*Ibid*., pag. 483). Assim, parece que as leituras “Ocidental” e “Bizantina” têm atestação mais antiga que a “Alexandrina”. Todavia, se a leitura “que” surgiu para remediar a leitura “quem”, então a segunda tem que ser mais velha. A leitura “quem” é admitidamente a mais difícil, tanto assim que aplicar o cânon “escolha a leitura mais difícil”, face a uma tão fácil explanação transcricional [a omissão sem querer dos dois traços] para a leitura difícil, parece ser irrazoável. Como Burgon tão bem o disse: “Confio que pelo menos estamos de acordo que a máxima ‘proclivi lectioni praestat ardua,’ não enuncia uma tão tola proposição quanto que, ao escolher entre duas ou mais leituras conflitantes, devemos preferir aquela que tem a atestação externa mais frágil, -- contanto que, em si própria, seja [também] quase ininteligível?” (*Ibid*., pag. 497).
 
 [^344]: Para uma discussão adicional, ver as páginas finais do Apêndice C.
 
 [^345]: K. e B. Aland (Grand Rapids: Eerdmans, 1987), pags. 106–125.
 
-[^346]: “The Significance of Grouping of New Testament Manuscripts,” New Testament Studies, IV (1957–1958), 86–87.
+[^346]: “The Significance of Grouping of New Testament Manuscripts,” *New Testament Studies*, IV (1957–1958), 86–87.
 
 [^347]: Em fevereiro de 1990 eu debati com Daniel Wallace no Seminário Teológico de Dallas, onde ele ensinava. Ele usou um gráfico tentando demonstrar a distribuição dos MSS gregos desde o século III até o IX, conforme os três principais “tipos de texto” (um gráfico que ele usava na sala de aula). Desde então ele usou o mesmo gráfico num artigo apresentado à Evangelical Theological Society. O gráfico é gravemente enganador. Eu desafio Wallace a identificar os MSS que o gráfico alega representar, e demonstrar que cada um pertence ao “tipo de texto” que ele alegou. Foi dito que os MSS existentes não mostram o texto Bizantino na posição majoritária até o século IX, mas conforme as estatísticas de Aland o texto Bizantino assumiu a liderança nos Evangelhos no século V, e a manteve. Mas vamos considerar os MSS do século IX. Dos 27 MSS ou segmentos de conteúdo (Evangelhos, Corpo Paulino, etc.) Bizantinos, oito são acima de 95% ‘puros’, dez são acima de 90% ‘puros’, e mais seis são acima de 80% ‘puros’. De onde esses [8 + 10 + 6 =] 24 MSS ou segmentos obtiveram o seu conteúdo Bizantino? Uma vez que todos são distintos em conteúdo, presumivelmente foram copiados de igual número de exemplares individuais, exemplares necessariamente de data anterior e também Bizantinos. E de que foram copiados esses exemplares? Evidentemente de exemplares ainda mais antigos, etc. É de esperar que Wallace não tentará argumentar que todos aqueles MSS do século IX não foram copiados de nada, mas foram independentemente criados do nada por cada copista! Segue-se que uma massiva maioria no século IX pressupõe uma massiva maioria no século VIII, e assim por diante. É por isso que estudiosos desde Hort até Aland têm reconhecido que o texto Bizantino dominou a transmissão desde o século IV. Eruditos textuais de todas as posições, através dos anos, têm reconhecido que as testemunhas dos primeiros séculos que ainda existem não são necessariamente representativos do real estado de coisas dos seus dias. Insistir que as testemunhas sobreviventes constituem toda a história é irrazoável e foge de enfrentar a questão.
 
@@ -5032,7 +5279,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^352]: Zuntz, *The Text*, pags. 6–7.
 
-[^353]: Oliver, “Present Trends” *,* pags. 312–13.
+[^353]: Oliver, “Present Trends”, pags. 312–13.
 
 [^354]: Colwell, “Hort Redivivus,” pag. 157.
 
@@ -5048,7 +5295,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^360]: *Ibid*., pags. 374–76.
 
-[^361]: Estou provavelmente sendo injusto com o copista que produziu P 75 — alguns ou muitos daqueles erros talvez estavam no exemplar do qual copiou. O fato permanece que, qualquer que seja a origem deles, P75 contém acima de 400 erros óbvios, e pelo exercício sugerido estou tentando ajudar o leitor a visualizar quão inferiores estas cópias antigas realmente são. Carson adota um ponto de vista diferente. “Se P75, um papiro do segundo [?] século, não é recensional, então tem que ser extremamente próximo do original ou ser extremamente adulterado. Esta última possibilidade parece ser eliminada pelo testemunho de B” (pag. 117). Como assim? Se P75 é “extremamente adulterado” e B foi copiado dele, ou algo similar, então B também tem de ser extremamente adulterado. (Hoskier fornece evidência objetiva para este efeito, em *Codex B and its Allies*.)
+[^361]: Estou provavelmente sendo injusto com o copista que produziu P⁷⁵ — alguns ou muitos daqueles erros talvez estavam no exemplar do qual copiou. O fato permanece que, qualquer que seja a origem deles, P75 contém acima de 400 erros óbvios, e pelo exercício sugerido estou tentando ajudar o leitor a visualizar quão inferiores estas cópias antigas realmente são. Carson adota um ponto de vista diferente. “Se P75, um papiro do segundo [?] século, não é recensional, então tem que ser extremamente próximo do original ou ser extremamente adulterado. Esta última possibilidade parece ser eliminada pelo testemunho de B” (pag. 117). Como assim? Se P75 é “extremamente adulterado” e B foi copiado dele, ou algo similar, então B também tem de ser extremamente adulterado. (Hoskier fornece evidência objetiva para este efeito, em *Codex B and its Allies*.)
 
 [^362]: Colwell, “Scribal Habits,” pags. 374–76.
 
@@ -5060,7 +5307,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^366]: *Ibid*., pag. 212.
 
-[^367]: Ibid., pag. 252.
+[^367]: *Ibid*., pag. 252.
 
 [^368]: H. C. Hoskier, “A Study of the Chester-Beatty Codex of the Pauline Epistles,” *The Journal of Theological Studies*, XXXVIII (1937), pag. 162.
 
@@ -5070,7 +5317,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^371]: N. Trads.: como no Texto grego a oração é composta de 60 palavras, 45 representa ¾ delas.
 
-[^372]: Burgon, The Traditional Text, pag. 84.
+[^372]: Burgon, *The Traditional Text*, pag. 84.
 
 [^373]: Burgon, *The Revision Revised*, pags. 30–31.
 
@@ -5086,11 +5333,11 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^379]: Westcott e Hort, pag. 149.
 
-[^380]: Burgon, The Traditional Text, pags. 185–90.
+[^380]: Burgon, *The Traditional Text*, pags. 185–90.
 
 [^381]: F. Wisse, *The Profile Method for Classifying and Evaluating Manuscript Evidence* (Grand Rapids: Eerdmans, 1982).
 
-[^382]: Zuntz, The Text, pag. 252.
+[^382]: Zuntz, *The Text*, pag. 252.
 
 [^383]: N. Trads.: “*Exemplar*” é o manuscrito a partir do qual o escriba produz sua “*cópia*”.
 
@@ -5100,7 +5347,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^386]: *Ibid*., pag. 25.
 
-[^387]: Burgon, The Traditional Text, pag. 47.
+[^387]: Burgon, *The Traditional Text*, pag. 47.
 
 [^388]: N. Trads.: *“Raciocinar em círculos”* é falsamente “provar” uma tese usando argumentos que, por sua vez, a assumem como verdadeira.
 
@@ -5114,7 +5361,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^393]: Roberts, pag. 8.
 
-[^394]: Houve aqui uma excelente oportunidade para os textos “Alexandrino” e “Ocidental” progredirem e ganhar “espaço” às custas do “Bizantino”, mas tal não ocorreu. A Igreja rejeitou aqueles tipos de texto. Como podem os críticos modernos possivelmente estar em uma melhor posição para identificar o verdadeiro texto do que esteve a Igreja universal no início do 4 º século?
+[^394]: Houve aqui uma excelente oportunidade para os textos “Alexandrino” e “Ocidental” progredirem e ganhar “espaço” às custas do “Bizantino”, mas tal não ocorreu. A Igreja rejeitou aqueles tipos de texto. Como podem os críticos modernos possivelmente estar em uma melhor posição para identificar o verdadeiro texto do que esteve a Igreja universal no início do 4º século?
 
 [^395]: T. H. Horne, *An Introduction to the Critical Study and Knowledge of the Holy Scriptures*, 4th American edition (4 vols.; Philadelphia: E. Little, 1831), vol. II, pag. 217. Foi Maurice Robinson que chamou minha atenção para este material.
 
@@ -5144,17 +5391,17 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^408]: Colwell, “External Evidence,” pag. 3.
 
-[^409]: Ibid., pag. 4.
+[^409]: *Ibid*., pag. 4.
 
 [^410]: O fato de que o copiador de P75 o copiou letra por letra e o de P66 sílaba por sílaba (Colwell, “Scribal Habits,” pag. 380) fortemente sugere que nenhum dos dois sabia grego. Quando copiar em uma língua que você sabe, o faz frase por frase ou, no mínimo, palavra por palavra. P66 tem tantas leituras sem o menor sentido que o copiador não pode ter conhecido o significado do texto. Quem quer que tenha jamais tentado copiar à mão (não digitar) um texto de qualquer comprimento, em uma linguagem que não entenda, saberá que esta é uma tarefa exigente e tediosa. Pureza de transmissão não é de se esperar sob tais circunstâncias.
 
 [^411]: N. Trads.: entenda-se “imparcialidade” como “aleatoridade”, não tendendo preponderantemente para lado algum.
 
-[^412]: Burgon, The Revision Revised, pags. 16–18.
+[^412]: Burgon, *The Revision Revised*, pags. 16–18.
 
 [^413]: Cf. Zuntz, *The Text*, pag. 157.
 
-[^414]: O quadro que Carson aqui pinta da minha posição exige algum comentário. Ele diz que eu argumento que “temos que ver a maioria dos manuscritos como autoridades independentes que devem ser contadas, não pesadas” (pag. 108). “Não devem os manuscritos ser pesados, ao invés de contados? Pickering pensa que contar deve ser preferido porque ele já tem descartado o princípio genealógico *—* pelo menos para sua própria satisfação” (pag. 107). “A única alternativa [para ecletismo] é apelar para um método de contar manuscritos” (pag. 105). Não tem o leitor da crítica de Carson o direito de assumir que este leu meu livro com razoável cuidado? Se Carson assim leu meu livro, ele tem deliberadamente distorcido minha posição, como o leitor pode facilmente constatar.
+[^414]: O quadro que Carson aqui pinta da minha posição exige algum comentário. Ele diz que eu argumento que “temos que ver a maioria dos manuscritos como autoridades independentes que devem ser contadas, não pesadas” (pag. 108). “Não devem os manuscritos ser pesados, ao invés de contados? Pickering pensa que contar deve ser preferido porque ele já tem descartado o princípio genealógico — pelo menos para sua própria satisfação” (pag. 107). “A única alternativa [para ecletismo] é apelar para um método de contar manuscritos” (pag. 105). Não tem o leitor da crítica de Carson o direito de assumir que este leu meu livro com razoável cuidado? Se Carson assim leu meu livro, ele tem deliberadamente distorcido minha posição, como o leitor pode facilmente constatar.
 
 [^415]: Burgon, *The Traditional Text*, pag. 29. Reconheço prontamente minha considerável dívida ao Deão Burgon, especialmente por me estimular a atentar para a **evidência**, mas meu tratamento das várias “marcas” não é idêntico ao seu. Fee diz dessas marcas; “todas elas são simplesmente sete maneiras diferentes de dizer que a maioria sempre está certa” (“A Critique”, pag. 423). Deve ser evidente ao leitor, mesmo de relance, que a declaração de Fee é irresponsável. Esta é uma clara ilustração da falta de cuidado e da superficialidade que caracterizam a maior parte da sua crítica.
 
@@ -5164,7 +5411,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^418]: Sturz, pag. 67–70.
 
-[^419]: Burgon, *The Traditional Text,* pag. 107, 255–56. Com respeito a esta contabilidade de evidências, Fee diz o seguinte: “Eu me dei ao trabalho de conferir acima de três quartos dos dezessete Pais da Igreja usados por Burgon em suporte [de “vinagre”], e não é demonstrável que **qualquer um deles** [ênfase de Fee] esteja citando Mateus” (*Ibid*., pag. 418–19). (O termo oxoj, “vinagre”, também ocorre nas passagens quase-paralelas — Mc 15.36; Lc 23.36 e João 19.29.) Antes de conferir os Pais individualmente, podemos registrar surpresa ante a veemência de Fee, em vista da sua própria afirmação que é “incontroversível” que “o Evangelho de Mateus foi o mais citado e usado dos Evangelhos Sinópticos”, e que “estes dados simplesmente não podem ser ignorados ao se fazer decisões textuais” (*Ibid.,* pag. 412). Somos agradecidos a Fee por esta informação, mas não podemos senão notar que ele próprio parece estar “ignorando”. Poderíamos supor, justificadamente, que pelo menos 9 das 17 citações de Burgon são de Mateus, mas não estamos reduzidos a um procedimento tão fraco. Muito embora um Pai possa não dizer, “ *Aqui eu estou citando Mateus* ”, pela atenta observação do contexto poderemos estar virtualmente tão certos quanto se ele o tivesse dito. Então, embora todos os quatro evangelhos usem a palavra “vinagre”, apenas Mateus usa a palavra “fel”, cole, em associação com o vinagre (e Atos 8.23 é o único outro local no N. T. onde “fel” aparece). Segue-se que qualquer referência patrística a vinagre e fel, juntos, só pode ser uma citação baseada em Mateus (ou Sl 69.21). Quando Barnabé diz, potizein colen meta oxoj (7:5), pode haver qualquer dúvida quanto à fonte [da sua citação]? Quando o Evangelho de Pedro diz, Potisate auton colen meta oxouj (5:16), a fonte não tem de ser Mateus? Quando Gregório de Nissa diz, cole te kai oxei diabrocoj (Orat. x:989:6), pode sobrar qualquer dúvida [quanto ele estar citando Mateus]? Podemos notar de passagem que o N. T. grego de Alford, no próprio versículo, diz claramente que Orígenes e Tertuliano ambos dão suporte à leitura “Bizantina” sob discus são. (A pesquisa refletida na discussão acima foi realizada por Maurice A. Robinson e gentilmente posta à minha disposição). Notar também que Ireneu escreveu, “*Ele deveria ter vinagre e fel dados a Si, para beber*” (*Against Heresies*, XXXIII:12), em uma série de profecias do V. T. que ele disse que Cristo cumpriu. Presumivelmente, Ireneu tinha Sl 69.21 em mente — “ *Deram-me fel* *por mantimento, e na minha sede me deram a beber vinagre”* — mas ele parece ter assimilado a Mt 27.34 (a leitura “Bizantina”). O Evangelho de Nicodemus tem *“e também Lhe deu a beber fel com vinagre”* (Parte II, 4). A Revelação de Esdras tem “*Vinagre e fel* *eles me deram a beber.*” As “Constituições Apostólicas” têm “*deram-Lhe vinagre a beber, misturado com fel* ” (V:3:14). Tertuliano tem “ *e fel é misturado com vinagre”* (Apêndice, réplica a Marcion, V:232). Em uma lista dos sofrimentos de Cristo a partir da qual os leitores são exortados a seguir Seu exemplo, Gregório Nazianzus tem: “*Provai fel pelo propósito de provar; bebei vinagre*” (Oratio XXXVIII:18). Qualquer que seja a interpretação que o leitor possa desejar dar à declaração de Fee, notada no início [desta nota de rodapé], é claro que a leitura “vinagre” em Mt 27.34 tem atestação do segundo século (ou talvez mesmo do primeiro, no caso de Barnabé!). A leitura em foco passa o teste de “antiguidade” triunfantemente.
+[^419]: Burgon, *The Traditional Text,* pag. 107, 255–56. Com respeito a esta contabilidade de evidências, Fee diz o seguinte: “Eu me dei ao trabalho de conferir acima de três quartos dos dezessete Pais da Igreja usados por Burgon em suporte [de “vinagre”], e não é demonstrável que **qualquer um deles** [ênfase de Fee] esteja citando Mateus” (*Ibid*., pag. 418–19). (O termo *οξος*, “vinagre”, também ocorre nas passagens quase-paralelas — Mc 15.36; Lc 23.36 e João 19.29.) Antes de conferir os Pais individualmente, podemos registrar surpresa ante a veemência de Fee, em vista da sua própria afirmação que é “incontroversível” que “o Evangelho de Mateus foi o mais citado e usado dos Evangelhos Sinópticos”, e que “estes dados simplesmente não podem ser ignorados ao se fazer decisões textuais” (*Ibid.*, pag. 412). Somos agradecidos a Fee por esta informação, mas não podemos senão notar que ele próprio parece estar “ignorando”. Poderíamos supor, justificadamente, que pelo menos 9 das 17 citações de Burgon são de Mateus, mas não estamos reduzidos a um procedimento tão fraco. Muito embora um Pai possa não dizer, “*Aqui eu estou citando Mateus*”, pela atenta observação do contexto poderemos estar virtualmente tão certos quanto se ele o tivesse dito. Então, embora todos os quatro evangelhos usem a palavra “vinagre”, apenas Mateus usa a palavra “fel”, *χολη*, em associação com o vinagre (e Atos 8.23 é o único outro local no N. T. onde “fel” aparece). Segue-se que qualquer referência patrística a vinagre e fel, juntos, só pode ser uma citação baseada em Mateus (ou Sl 69.21). Quando Barnabé diz, *ποτιζειν χολην μετα οξος* (7:5), pode haver qualquer dúvida quanto à fonte [da sua citação]? Quando o Evangelho de Pedro diz, *Ποτισατε αυτον χολην μετα οξους* (5:16), a fonte não tem de ser Mateus? Quando Gregório de Nissa diz, *χολη τε και οξει διαβροχος* (Orat. x:989:6), pode sobrar qualquer dúvida [quanto ele estar citando Mateus]? Podemos notar de passagem que o N. T. grego de Alford, no próprio versículo, diz claramente que Orígenes e Tertuliano ambos dão suporte à leitura “Bizantina” sob discussão. (A pesquisa refletida na discussão acima foi realizada por Maurice A. Robinson e gentilmente posta à minha disposição). Notar também que Ireneu escreveu, “*Ele deveria ter vinagre e fel dados a Si, para beber*” (*Against Heresies*, XXXIII:12), em uma série de profecias do V. T. que ele disse que Cristo cumpriu. Presumivelmente, Ireneu tinha Sl 69.21 em mente — “*Deram-me fel por mantimento, e na minha sede me deram a beber vinagre*” — mas ele parece ter assimilado a Mt 27.34 (a leitura “Bizantina”). O Evangelho de Nicodemus tem “*e também Lhe deu a beber fel com vinagre*” (Parte II, 4). A Revelação de Esdras tem “*Vinagre e fel eles me deram a beber.*” As “Constituições Apostólicas” têm “*deram-Lhe vinagre a beber, misturado com fel*” (V:3:14). Tertuliano tem “*e fel é misturado com vinagre*” (Apêndice, réplica a Marcion, V:232). Em uma lista dos sofrimentos de Cristo a partir da qual os leitores são exortados a seguir Seu exemplo, Gregório Nazianzus tem: “*Provai fel pelo propósito de provar; bebei vinagre*” (Oratio XXXVIII:18). Qualquer que seja a interpretação que o leitor possa desejar dar à declaração de Fee, notada no início [desta nota de rodapé], é claro que a leitura “vinagre” em Mt 27.34 tem atestação do segundo século (ou talvez mesmo do primeiro, no caso de Barnabé!). A leitura em foco passa o teste de “antiguidade” triunfantemente.
 
 [^420]: Quem quer que ofereça uma emenda conjectural em face de tais atestações está alegando que sua autoridade é maior que a de todas as testemunhas combinadas — mas, uma vez que tal pessoa não é, de modo algum, uma testemunha (não sabe nem pode saber o que foi escrito, tendo rejeitado atestação de 100%), sua autoridade é nula.
 
@@ -5174,7 +5421,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^423]: Burgon, *The Traditional Text, pag. 46–47.*
 
-[^424]: Compare Epp, “The Claremont Profile Method for Grouping New Testament Minuscule Manuscripts,” *Studies in the History and Text* *of the New Testament in Honor of Kenneth Willis Clark,* *PhD*. (*Studies and Documents,* 29) ed. B. L. Daniels e M. J. Suggs (Salt Lake City: University of Utah Press, 1967), pag. 27–38.
+[^424]: Compare Epp, “The Claremont Profile Method for Grouping New Testament Minuscule Manuscripts,” *Studies in the History and Text of the New Testament in Honor of Kenneth Willis Clark, PhD*. (*Studies and Documents,* 29) ed. B. L. Daniels e M. J. Suggs (Salt Lake City: University of Utah Press, 1967), pag. 27–38.
 
 [^425]: Burgon, *The Traditional Text,* pag. 50–51. Quem quer que tenha sido ensinado que Burgon seguiu “meros números” perceberá que há mais na história do que lhe foi contado.
 
@@ -5190,7 +5437,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^431]: Westcott e Hort, pag. 275; Zuntz, *The Text*, pag. 84.
 
-[^432]: Burgon;, *The Traditional Text,* pag. 58.
+[^432]: Burgon, *The Traditional Text,* pag. 58.
 
 [^433]: “Quão mal cabelos brancos assentam na cabeça de um tolo e gaiato!” (Shakespeare’s *King Henry IV,* part 2, Act V, Scene V, em torno da linha 50).
 
@@ -5212,13 +5459,13 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^442]: Notar que estudiosos com pressuposições tão diversas quanto um Alford, um Burgon, um Hort ou um Metzger têm chegado à mesma conclusão.
 
-[^443]: Em Atos o autor parece quase usar “Jerusalém” e “Judeia” equivalentemente, talvez para evitar repetição. E.g. 11:1 Judeia, 11:2 Jerusalém (os apóstolos não estavam em Jerusalém ou seus arredores imediatos?); 11:27 Jerusalém, 11:29 Judeia, 11:30 os anciãos (os principais presbíteros não estariam em Jerusalém?); 12:1–19 tomou lugar em Jerusalém, mas v. 19 diz que Herodes desceu da Judeia para Cesareia; 15:1 Judeia, 15:2 Jerusalém; 28:21 cartas da “Judeia” provavelmente significa Jerusalém.
+[^443]: Em Atos o autor parece quase usar “Jerusalém” e “Judeia” equivalentemente, talvez para evitar repetição. E.g. 11.1 Judeia, 11.2 Jerusalém (os apóstolos não estavam em Jerusalém ou seus arredores imediatos?); 11.27 Jerusalém, 11.29 Judeia, 11.30 os anciãos (os principais presbíteros não estariam em Jerusalém?); 12.1–19 tomou lugar em Jerusalém, mas v. 19 diz que Herodes desceu da Judeia para Cesareia; 15.1 Judeia, 15.2 Jerusalém; 28.21 cartas da “Judeia” provavelmente significa Jerusalém.
 
 [^444]: Favor notar que eu não estou dizendo que eles são os únicos que poderiam fazer uma tal escolha, nem mesmo que eles necessariamente o farão.
 
 [^445]: Favor notar, novamente, que estou falando somente de mim mesmo. Estou estabelecendo o ponto essencial que pressuposições sempre têm que ser levadas em conta, uma vez que influenciam pesadamente a interpretação dos dados. Isto é verdadeiro para todos os praticantes, em qualquer disciplina.
 
-[^446]: *Upostrefw ek não tem precedentes (no N. T.), upostrefw apo ocorre 4 vezes, upostrefw eij ocorre 17 vezes. A leitura do TR é altamente improvável, falando-se estatisticamente. Se tivéssemos de escolher entre apo e ek (apo ganharia em todas as contas.
+[^446]: *Υποστρεφω εκ* não tem precedentes (no N.T.), *υποστρεφω απο* ocorre 4 vezes, *υποστρεφω εις* ocorre 17 vezes. A leitura do TR é altamente improvável, falando-se estatisticamente. Se tivéssemos de escolher entre *απο* e *εκ*, *απο* ganharia em todas as contas.
 
 [^447]: Hoskier, *Concerning the Text of the Apocalypse*; Hodges e Farstad, *The Greek New Testament according to the Majority Text.*
 
@@ -5232,11 +5479,11 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^452]: Favor notar que não estou me referindo a qualquer tentativa de reconstruir uma genealogia de MSS — concordo com aqueles estudiosos que têm declarado tal tarefa ser virtualmente impossível (existem demasiados elos faltando). Estou me referindo, de fato, à reconstrução de uma genealogia de **leituras**, e portanto da história da transmissão do Texto.
 
-[^453]: A NKJV é uma melhoria sobre a AV, mas o é principalmente em termos de modernizar a linguagem-a NKJV se baseia sobre o mesmíssimo texto grego da AV. *The Greek New Testament according to the Majority Text* é certamente uma melhoria sobre o TR, na minha visão — eu diria que ele representa pelo menos 99.8% da redação original, enquanto o TR representa cerca de 98% (comparado com 92% para UBS4/N-A27). No entanto, ainda não está disponível nenhuma tradução do Texto Majoritário para o inglês (e nem o português). Uma está sendo preparada e o Evangelho de João está agora em uso (*Living Water, the Gospel of John--Logos 21* *Version*; editada por Arthur L. Farstad e publicada por *Absolutely Free Incorporated*, Glide, OR).
+[^453]: A NKJV é uma melhoria sobre a AV, mas o é principalmente em termos de modernizar a linguagem — a NKJV se baseia sobre o mesmíssimo texto grego da AV. *The Greek New Testament according to the Majority Text* é certamente uma melhoria sobre o TR, na minha visão — eu diria que ele representa pelo menos 99.8% da redação original, enquanto o TR representa cerca de 98% (comparado com 92% para UBS4/N-A27). No entanto, ainda não está disponível nenhuma tradução do Texto Majoritário para o inglês (e nem o português). Uma está sendo preparada e o Evangelho de João está agora em uso (*Living Water, the Gospel of John--Logos 21 Version*; editada por Arthur L. Farstad e publicada por *Absolutely Free Incorporated*, Glide, OR).
 
 [^454]: Quando toda a evidência for computada, creio que será constatado que o Textus Receptus difere do Original em algo mais que 1500 locais, a maioria das diferenças sendo muito insignificantes, enquanto que os textos críticos (UBS/N-A) diferirão em mais que 6500 locais, muitas das diferenças sendo graves.
 
-[^455]: Eu tenho uma resposta, mas ela terá que aparecer em outro lugar. Para entender o que tem acontecido tem-se que reconhecer o mundo espiritual-na minha observação, a grande maioria dos estudiosos do NT não levam em consideração este âmbito da realidade.
+[^455]: Eu tenho uma resposta, mas ela terá que aparecer em outro lugar. Para entender o que tem acontecido tem-se que reconhecer o mundo espiritual — na minha observação, a grande maioria dos estudiosos do NT não levam em consideração este âmbito da realidade.
 
 [^456]: Aland, “The Significance of the Papyri,” pag. 330–31.
 
@@ -5250,9 +5497,9 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^461]: *The Identity of the New Testament Text* (Nashville: Thomas Nelson, 1977), pag. 143. Metzger é típico: “O argumento de Burgon foi basicamente teológico e especulativo.” (*The Text*, pag. 135.) Ver também Greenlee, pag. 81; Harrison, pag. 73; Vaganay, pag. 172; Sturz, pag. 24; Paul McReynolds, *Journal of Biblical Literature*, XCIII (1974), 481; etc.
 
-[^462]: Por exemplo, Fee e Wallace. Gordon D. Fee, “A Critique of W. N. Pickering’s *The Identity of the New Testament Text:* a Review Article,” *Westminster Theological Journal* 41 (1979), pag. 397–98. [Uma versão condensada deste artigo apareceu na edição de *The* *Bible Translator*, January, 1980 (Vol. 31, No. 1). Eu submeti uma resposta à TBT, mas eles recusaram publicá-la. Tenho cópia de uma carta de Fee para Paul Ellingworth, o editor, sugerindo-lhe que não publicasse minha resposta.] Daniel B. Wallace, “The Majority Text and the Original Text: Are They Identical?” *Bibliotheca Sacra*, April-June 1991, pag. 152–155. [Eu preparei uma resposta e a levei pessoalmente a Roy Zuck, o editor. Mostrei-lhe que Wallace tinha deliberadamente apresentado minha posição distorcidamente — ele concordou, mas recusou-se a publicar minha resposta.]
+[^462]: Por exemplo, Fee e Wallace. Gordon D. Fee, “A Critique of W. N. Pickering’s *The Identity of the New Testament Text:* a Review Article,” *Westminster Theological Journal* 41 (1979), pag. 397–98. [Uma versão condensada deste artigo apareceu na edição de *The Bible Translator*, January, 1980 (Vol. 31, No. 1). Eu submeti uma resposta à TBT, mas eles recusaram publicá-la. Tenho cópia de uma carta de Fee para Paul Ellingworth, o editor, sugerindo-lhe que não publicasse minha resposta.] Daniel B. Wallace, “The Majority Text and the Original Text: Are They Identical?” *Bibliotheca Sacra*, April-June 1991, pag. 152–155. [Eu preparei uma resposta e a levei pessoalmente a Roy Zuck, o editor. Mostrei-lhe que Wallace tinha deliberadamente apresentado minha posição distorcidamente — ele concordou, mas recusou-se a publicar minha resposta.]
 
-[^463]: Estou citando de uma cópia que me foi enviada pessoalmente pelo autor, Bart D. Ehrman: *“New Testament Textual Criticism: Sear-* *ch for Method,”* tese de M. Div, Princeton Theological Seminary, 1981, pag. 40.
+[^463]: Estou citando de uma cópia que me foi enviada pessoalmente pelo autor, Bart D. Ehrman: *“New Testament Textual Criticism: Search for Method,”* tese de M. Div, Princeton Theological Seminary, 1981, pag. 40.
 
 [^464]: *Ibid*., pag. 40–44.
 
@@ -5276,29 +5523,29 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^474]: N. Trads: Uma argumentação é “ad hominum” quando é voltada contra a pessoa ou visa ferir as emoções do oponente, ao invés de efetivamente responder às suas contenções.
 
-[^475]: J. O'Callaghan, “Papiros neotestamentarios en la cueva 7 de Qumran?” *Biblica*, LIII (1972), pag. 91–100.7Q5 é datado ao redor do ano 50 DC.
+[^475]: J. O’Callaghan, “Papiros neotestamentarios en la cueva 7 de Qumran?” *Biblica*, LIII (1972), pag. 91–100. 7Q5 é datado ao redor do ano 50 DC.
 
 [^476]: M. Baillet, “Les manuscrits de la Grotte 7 de Qumran et le N. T.” *Biblica*, LIII (1972) pag. 508–516. Baillet foi um dos dois editores do *editio princeps,* o qual apresentou os fragmentos 7Q ao mundo erudito, em 1962.
 
-[^477]: -- ″ = 23.3% .2% Creio que este conjunto de variantes deve ser considerado juntamente com a presença de ta eqnh depois de parekaloun, mas o grupo de Aland não incluiu o segundo conjunto. No entanto, de UBS3 parece que o mesmo rol de testemunhas [da variante 2 do exemplo antecedente], incluindo as três versões antigas (!), traz a variante 2 e omite “os gentios”. Onde está, então, o sujeito do verbo principal parekaloun? Presumivelmente, segundo aquelas testemunhas, seriam os judeus e prosélitos que tinham acabado de ouvir Paulo e queriam ouvir tudo de novo no próximo sábado. Então, por que são eles (judeus e prosélitos) abertamente mencionados novamente, no verso 43? E em que base iria “toda a cidade” aparecer na próxima semana (v. 44)? Mas, voltando ao verso 42, a troca de quê iriam os primeiros ouvintes desejar ouvir a mesma coisa (ta rhmata tauta) novamente? Os realmente interessados se aderiram a Paulo e Barnabé para aprender mais (v. 43), exatamente como esperaríamos. As testemunhas das variantes 1 e 3 juntam-se em suporte de “os gentios”, nos dando uma maioria forte (acima de 80%). Assim, o sujeito de parekaloun é ta eqnh — eles desejam uma chance de também ouvir o evangelho, e toda a cidade se ajunta. Isto se adequa perfeitamente ao contexto. Deste modo, a variante 3 parece ser uma conflação e a leitura básica é a variante 1. [Se a variante 3 fosse vista como original, a variante 2 poderia ser o resultado de homoioteleuton, mas não a variante 1.] As testemunhas da variante 3, porque têm “os gentios”, estão realmente do lado da variante 1, não 2, daí, presumivelmente, 1 pode ser vista como tendo 80% de atestação. Quanto às testemunhas da variante 1, o antecedente ou referente de exiontwn tem que ser o grupo de Paulo, uma vez que os gentios com toda probabilidade dirigiriam seu pedido ao mestre. Na variante 2 autwn presumivelmente serve como sujeito de ambos o particípio e o verbo principal, mas naquele caso o verbo principal deveria tomar precedência e o pronome deveria ser nominativo, não genitivo. Explique como alguém queira explicar a motivação para uma tal mudança — de 1 para 2 e eliminando “os gentios” — a variante 2 é evidentemente errada, mesmo sendo atestada pelas três versões primitivas (o que me perturba). Talvez alguém, defrontado pela variante 1, tomou “dos judeus” como sendo o referenciado pelo particípio ao invés de modificar “sinagoga” (como na NKJV), e pensou que também deveria ser o sujeito do verbo principal — então, naturalmente, “os gentios” não cabia mais e foi eliminado. Então 1 poder ter sido abreviada para 2, por “clareza”. 4) Implicações Desta vez temos uma leitura majoritária, embora não tão forte quanto poderíamos desejar. “Antiguidade” e “Variedade” estão com a variante 2, embora f18 também confira “Antiguidade” à variante 1 também e portanto 1 ganha em “Continuidade”. Mas “Contexto” (o desempenho dos MSS no contexto próximo) entra em cena desta vez — ele claramente favorece variante 1, como o faz “Razoabilidade” — ela nos habilita a dizer que a atestação de 3 realmente vai para 1 e não 2, assim 1 termina com mais de 80% de atestação. Em suma: a variante 1 tem “Número”, “Continuidade”, “Contexto”, “Razoabilidade” e “Antiguidade”; a variante 2 tem “Antiguidade” e “Variedade”. Concluo que o texto original tinha: exiontwn de ek thj sunagwghj twn ioudaiwn parekaloun ta eqnh, etc. 5) Exemplo – Atos 24.6b–8a A evidência se apresenta desta forma: 1) (sem a longa adição) --{HF,NU}P74ℵABf18,latpt, cop 280MSS = 58.1% 2)-31): kai kata ton hmeteron nomon hqelhsamen krinai parelqwn de lusiaj o ciliarcoj meta pollhj biaj ek twn ceirwn hmwn aphgagen keleusaj touj kathgorouj autou ercesqai epi se. Os cinco principais [grupos de] variações se centram nas três palavras sublinhadas, e são: 2) κριναι . . . επι σε --latpt,syr (6)42MSS = 10% [7 variantes]
+[^477]: K. Aland, “Neue Neutestamentliche Papyri III,” *New Testament Studies*, XX (July, 1974), pag. 358–76.
 
-[^478]: O'Callaghan, “Notas sobre 7Q tomadas en el 'Rochefeller Museum' de Jerusalén” *Biblica*, LIII (1972), pag. 519–21.
+[^478]: O’Callaghan, “Notas sobre 7Q tomadas en el ‘Rochefeller Museum’ de Jerusalén” *Biblica*, LIII (1972), pag. 519–21.
 
 [^479]: *Ibid*., pag. 523.
 
 [^480]: Baillet, pag. 511.
 
-[^481]: O'Callaghan, “Notas”, pag. 524.
+[^481]: O’Callaghan, “Notas”, pag. 524.
 
-[^482]: O'Callaghan, “El cambio δ *>* τ en los papiros biblicos,” *Biblica*, LIV (1973), pag. 415–16.
+[^482]: O’Callaghan, “El cambio δ > τ en los papiros biblicos,” *Biblica*, LIV (1973), pag. 415–16.
 
-[^483]: Minha discussão de P9 está baseada em O'Callaghan, “Notas”, pag. 528–30.
+[^483]: Minha discussão de P9 está baseada em O’Callaghan, “Notas”, pag. 528–30.
 
 [^484]: Um encontro internacional de papirólogos chegou à mesma conclusão. *Christen und Christliches in Qumran?* Bernhard Mayer, ed., Eichstatter Studien n. F. XXXII, Verlag Friedrich Pustet, Regensburg, 1992.
 
-[^485]: Este apêndice é um sumário editado a partir de “ *Uma Defesa do Texto Majoritário* ”, de Zane C. Hodges e David M. Hodges (notas de aula, não publicadas, Seminário Teológico de Dallas, 1975), usado com permissão dos autores.
+[^485]: Este apêndice é um sumário editado a partir de “*Uma Defesa do Texto Majoritário*”, de Zane C. Hodges e David M. Hodges (notas de aula, não publicadas, Seminário Teológico de Dallas, 1975), usado com permissão dos autores.
 
-[^486]: Sua afirmação é: “ *A Vulgata Grega-o tipo-de-texto Bizantino ou Alfa — não teve sua origem em nenhum foco único tal como a* *Latina teve em Jerônimo* ” (itálicas no original) E. C. Colwell, “The Origin of Textypes of New Testament Manuscripts,” *Early Christian* *Origins*, pag. 137.
+[^486]: Sua afirmação é: “*A Vulgata Grega — o tipo-de-texto Bizantino ou Alfa — não teve sua origem em nenhum foco único tal como a Latina teve em Jerônimo*” (itálicas no original) E. C. Colwell, “The Origin of Textypes of New Testament Manuscripts,” *Early Christian Origins*, pag. 137.
 
 [^487]: *Ibid.,* pag. 136. Ver nossa discussão desta tese na seção “Objeções”.
 
@@ -5306,7 +5553,7 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^489]: Kurt Aland, “The Significance of the Papyri for Progress in New Testament Research,” *The Bible in Modern Scholarship*, pag. 342. “Texto Majoritário” é o nome mais cientificamente não objecionável já dado a esta forma de texto.
 
-[^490]: Ibid., pag. 344.
+[^490]: *Ibid*., pag. 344.
 
 [^491]: *Ibid.*, pag. 330 e seguintes.
 
@@ -5314,29 +5561,29 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^493]: N. Trads.: Lembrar que “college” é uma faculdade, uma instituição de ensino superior, uma universidade com menor número de cursos em áreas diversificadas.
 
-[^494]: **Atenção**, a 5 a geração abrange três fileiras, ou linhas; quer dizer, cada exemplar da 4 a geração tem três “filhos” ou cópias, exatamente como nas outras gerações.
+[^494]: **Atenção**, a 5ª geração abrange três fileiras, ou linhas; quer dizer, cada exemplar da 4ª geração tem três “filhos” ou cópias, exatamente como nas outras gerações.
 
 [^495]: Por “erro (b)” queremos dizer, naturalmente, um erro feito em outro local no texto sendo transmitido a partir do autógrafo. *Não* queremos dizer que “erro (b)” substituiu “erro (a).” Assim, enquanto as cópias 5-6-7 contêm “erro (a),” elas também contêm a redação original que rivaliza com “erro (b).”
 
-[^496]: As palavras chave, aqui, são “relativamente” e “comparativamente.” Naturalmente, membros individuais [da família de manuscritos] do Texto Majoritário mostram variados índices de conformidade com ele. No entanto, a proximidade dos seus representantes para com o padrão geral não é difícil de demonstrar, na maioria dos casos. Por exemplo, em um estudo de cem locais de variação em João 11, os representantes do Texto Majoritário usados no estudo mostraram uma faixa de concordância entre 70 e 93 porcento. Ver Ernest C. Colwell e Ernest W. Tune, pag. 28, 31. Os 93% de concordância do códice uncial Ômega com o *Textus Receptus* comparase bem com os 92 porcento de concordância entre P 75 e B. A afinidade de Ômega com o TR é mais aproximadamente típica do padrão que se encontraria na grande massa dos textos minúsculos. Altos níveis de concordância deste tipo são (como no caso de P 75 e B) o resultado de uma base ancestral compartilhada. São as divergências que são o resultado de um “processo” e não o contrário. Uma declaração sumária mais geral, sobre a matéria, é feita por Epp, *“* os manuscritos Bizantinos formam juntamente, afinal, um grupo bastante entrelaçado, e as variações a discutir dentro deste grande grupo inteiro são relativamente secundárias em caráter.” (Eldon Jay Epp, “The Claremont Profile Method for Grouping New Testament Minuscule Manuscripts,” pag. 33.)
+[^496]: As palavras chave, aqui, são “relativamente” e “comparativamente.” Naturalmente, membros individuais [da família de manuscritos] do Texto Majoritário mostram variados índices de conformidade com ele. No entanto, a proximidade dos seus representantes para com o padrão geral não é difícil de demonstrar, na maioria dos casos. Por exemplo, em um estudo de cem locais de variação em João 11, os representantes do Texto Majoritário usados no estudo mostraram uma faixa de concordância entre 70 e 93 porcento. Ver Ernest C. Colwell e Ernest W. Tune, pag. 28, 31. Os 93% de concordância do códice uncial Ômega com o *Textus Receptus* compara-se bem com os 92 porcento de concordância entre P⁷⁵ e B. A afinidade de Ômega com o TR é mais aproximadamente típica do padrão que se encontraria na grande massa dos textos minúsculos. Altos níveis de concordância deste tipo são (como no caso de P⁷⁵ e B) o resultado de uma base ancestral compartilhada. São as divergências que são o resultado de um “processo” e não o contrário. Uma declaração sumária mais geral, sobre a matéria, é feita por Epp, “… os manuscritos Bizantinos formam juntamente, afinal, um grupo bastante entrelaçado, e as variações a discutir dentro deste grande grupo inteiro são relativamente secundárias em caráter.” (Eldon Jay Epp, “The Claremont Profile Method for Grouping New Testament Minuscule Manuscripts,” pag. 33.)
 
-[^497]: Depois de discutir as vicissitudes que afligiram a transmissão da Vulgata, Metzger conclui: *“* Como resultado, os mais de 8000 manuscritos da Vulgata que hoje existem exibem a maior quantidade de contaminação cruzada de tipos textuais.” (*Text of the New* *Testament*, pag. 76.) Uniformidade de texto é sempre maior na fonte e diminui — ao invés de aumentar — à medida que a tradição se expande e multiplica. Este farol de advertência é ignorado pela tese do Texto Majoritário como resultado de um “processo”.
+[^497]: Depois de discutir as vicissitudes que afligiram a transmissão da Vulgata, Metzger conclui: “Como resultado, os mais de 8000 manuscritos da Vulgata que hoje existem exibem a maior quantidade de contaminação cruzada de tipos textuais.” (*Text of the New Testament*, pag. 76.) Uniformidade de texto é sempre maior na fonte e diminui — ao invés de aumentar — à medida que a tradição se expande e multiplica. Este farol de advertência é ignorado pela tese do Texto Majoritário como resultado de um “processo”.
 
 [^498]: O título e formato básico deste apêndice eu devo a William G. Pierpont, e os uso com sua permissão. No entanto, tenho quase triplicado o número de exemplos, e os comentários editoriais são meus. As principais fontes para os exemplos adicionados são H. A. Sturz (*The Byzantine Text-Type*) e Maurice A. Robinson (artigo não publicado). Peter J. Johnston contribuiu de forma importante para o balanço contábil das evidências.
 
-[^499]: Nota explicativa: *pc* = poucos [MSS], *al* = vários, *pm* = muitos, maioria simples, *pl* = grande maioria, *rell* = todos os demais, pt = em parte (daí porque muitas vezes ocorre duas vezes). p, h (45)75 p
+[^499]: Nota explicativa: *pc* = poucos [MSS], *al* = vários, *pm* = muitos, maioria simples, *pl* = grande maioria, *rell* = todos os demais, pt = em parte (daí porque muitas vezes ocorre duas vezes).
 
-[^500]: Para uma descrição completa daquilo que quero dizer por “estrutura de discurso”, ver meu livro, *A Framework for Discourse Analy-* *sis* (Dallas: Summer Institute of Linguistics and University of Texas at Arlington, 1980). p
+[^500]: Para uma descrição completa daquilo que quero dizer por “estrutura de discurso”, ver meu livro, *A Framework for Discourse Analysis* (Dallas: Summer Institute of Linguistics and University of Texas at Arlington, 1980).
 
-[^501]: Esta contabilidade de evidências é baseada na série *Text und Textwert,* ed *.* K. Aland. Ela representa uma colação quase completa dos MSS ainda hoje conhecidos.
+[^501]: Esta contabilidade de evidências é baseada na série *Text und Textwert*, ed. K. Aland. Ela representa uma colação quase completa dos MSS ainda hoje conhecidos.
 
 [^502]: Metzger, *The Text*, p. 136. Para surpresa minha, D. A. Carson parece ainda ser desta opinião tão recentemente como em 1979. Em sua crítica (*The King James Version Debate*, Grand Rapids: Baker, “Appendix”) à primeira edição deste meu livro, ele declarou que “estudiosos textuais mantêm que uma característica primária do tipo-de-texto bizantino é sua tendência de conflar leituras” (pag. 110) e fala da “tradição bizantina em sua forma conflada, matura” (pag 112). O leitor está agora em alguma posição para formar sua própria opinião sobre este assunto.
 
 [^503]: Estou ciente de que o mecanismo operando, principalmente nos Evangelhos, em muitos ou na maioria dos casos foi provavelmente de harmonização, ao invés de conflação. Uma vez que ambos os mecanismos produzem leituras secundárias, o efeito básico deste apêndice não fica alterado por uma escolha entre eles. Também estou ciente de que não posso **provar** conflação ou harmonização em caso algum. Mas então, asseguradamente, também Hort não o pôde, e mais ninguém poderá.
 
-[^504]: Jakob van Bruggen é professor catedrático de exegese do Novo Textamento na Faculdade de Teologia Reformada em Kampen, Holanda. O material neste apêndice vem de uma palestra (não publicada) proferida em holandês. Com exeção de umas poucas alterações estilísticas, a tradução para o inglês que o Dr. van Bruggen me enviou é reproduzida à risca, com a devida autorização. Críticos da 1 a edição deste livro observaram, corretamente, que a minha discussão de “harmonização” era fraca. Incluo este apêndice a título de resposta parcial a tais críticas. Creio que justifica duas conclusões: 1) muitas harmonizações aparentes podem razoavelmente ser interpretadas de outras maneiras, e 2) os textos “Alexandrino” e “Ocidental” podem ser descritos como sendo igualmente culpados de harmonizar com o texto “Bizantino”.
+[^504]: Jakob van Bruggen é professor catedrático de exegese do Novo Testamento na Faculdade de Teologia Reformada em Kampen, Holanda. O material neste apêndice vem de uma palestra (não publicada) proferida em holandês. Com exceção de umas poucas alterações estilísticas, a tradução para o inglês que o Dr. van Bruggen me enviou é reproduzida à risca, com a devida autorização. Críticos da 1ª edição deste livro observaram, corretamente, que a minha discussão de “harmonização” era fraca. Incluo este apêndice a título de resposta parcial a tais críticas. Creio que justifica duas conclusões: 1) muitas harmonizações aparentes podem razoavelmente ser interpretadas de outras maneiras, e 2) os textos “Alexandrino” e “Ocidental” podem ser descritos como sendo igualmente culpados de harmonizar com o texto “Bizantino”.
 
-[^505]: N. Trads.: o símbolo p) deriva da palavra *paralelismo*; indica a opinião dos críticos que o texto foi adulterado naquele ponto para ficar paralelo ao conteúdo de outro local. Panorama das possíveis variantes p) __SALOPDOC_TABLE_14__
+[^505]: N. Trads.: o símbolo p) deriva da palavra *paralelismo*; indica a opinião dos críticos que o texto foi adulterado naquele ponto para ficar paralelo ao conteúdo de outro local.
 
 [^506]: N. Trads.: Na Tabela III a seguir, leia “//” como “paralelo a”; leia “não //” como “não paralelo a”.
 
@@ -5382,19 +5629,19 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^527]: OD significa objeto direto, OI significa objeto indireto, V significa verbo.
 
-[^528]: Robinson-Pierpont alegam que ambos **5** e **6** leem “os pecados de cada um deles” ao final de 8:8, porque Soden parece indicar isto em dois locais (II:427 e I:514). No entanto, em dois ou três outros locais onde Soden deveria mencioná-lo, não o faz. Ambos UBS3 e N-A26 pareceriam discordar de R-P (embora o **texto** de ambas edições seja virtualmente idêntico, sendo o trabalho dos mesmos cinco editores, entendo que os aparatos foram preparados separadamente). UBS3 usa *Byz* pt para referir-se a percentagens de MSS variando de 74% a 24% (em João 7.53–8.11), **M** 5 e **M** 6 cada um recebendo esta classificação, quando sozinho ou com companhia escassa. Em 8:8 o acréscimo em questão não se classifica sequer como um *Byz* pt, já a ausência dele se classifica como *Byz*. Desde que **M** 5 + **M** 6 representariam 58% dos MSS, o acréscimo teria que se classificar como *Byz* pt — segue-se que UBS3 não concorda com R-P. Embora o uso de *pm* e *al* em N-A26 não seja consistente, o fato que o acréscimo se classifica somente como um *al* pareceria indicar que N-A26 também discorda de R-P. (Tanto o códice **U** como Π têm o acréscimo, o que é uma circunstância curiosa, pois **U** usualmente segue **M** 6 e Π usualmente segue **M** 5. Talvez um dos assistentes de Soden tenha tomado os dois códices como representativos dos dois grupos sem realmente checar a massa dos MSS.) Em 1997 e 1998 Robinson pessoalmente colacionou 1635 MSS a respeito de João 7.53–8.11 e constatou que Soden se equivocou — uma minoria inexpressiva dos MSS que compõem os grupos **5** e **6** traz o acréscimo. Então fica confirmado que **5** e **6** (completo) nunca concordam entre si onde um dos três grupos principais diverge.
+[^528]: Robinson-Pierpont alegam que ambos **5** e **6** leem “os pecados de cada um deles” ao final de 8.8, porque Soden parece indicar isto em dois locais (II:427 e I:514). No entanto, em dois ou três outros locais onde Soden deveria mencioná-lo, não o faz. Ambos UBS³ e N-A²⁶ pareceriam discordar de R-P (embora o **texto** de ambas edições seja virtualmente idêntico, sendo o trabalho dos mesmos cinco editores, entendo que os aparatos foram preparados separadamente). UBS³ usa *Byz*ᵖᵗ para referir-se a percentagens de MSS variando de 74% a 24% (em João 7.53–8.11), **M**⁵ e **M**⁶ cada um recebendo esta classificação, quando sozinho ou com companhia escassa. Em 8.8 o acréscimo em questão não se classifica sequer como um *Byz*ᵖᵗ, já a ausência dele se classifica como *Byz*. Desde que **M**⁵ + **M**⁶ representariam 58% dos MSS, o acréscimo teria que se classificar como *Byz*ᵖᵗ — segue-se que UBS³ não concorda com R-P. Embora o uso de *pm* e *al* em N-A²⁶ não seja consistente, o fato que o acréscimo se classifica somente como um *al* pareceria indicar que N-A²⁶ também discorda de R-P. (Tanto o códice **U** como Π têm o acréscimo, o que é uma circunstância curiosa, pois **U** usualmente segue **M**⁶ e Π usualmente segue **M**⁵. Talvez um dos assistentes de Soden tenha tomado os dois códices como representativos dos dois grupos sem realmente checar a massa dos MSS.) Em 1997 e 1998 Robinson pessoalmente colacionou 1635 MSS a respeito de João 7.53–8.11 e constatou que Soden se equivocou — uma minoria inexpressiva dos MSS que compõem os grupos **5** e **6** traz o acréscimo. Então fica confirmado que **5** e **6** (completo) nunca concordam entre si onde um dos três grupos principais diverge.
 
-[^529]: Ambos H-F e R-P parecem aceitar que Soden iguale **M** 7 com seu grupo **K** r, que é definido como o texto Bizantino mais recente, em diferenciação da tradição principal (**K** x). Estou inclinado a suspeitar que o julgamento de Soden se deriva mais das suas pressuposições do que da evidência. Creio que uma revisão da evidência feita independentemente mostrará que **M** 7 é realmente antigo. Aliás, as colações feitas por Robinson [ver nota de rodapé 4] o levam a declarar que todos os grupos são antigos e independentes — quer dizer, ele fez a “revisão independente da evidência” e chegou exatamente à conclusão que previ; **M** 7 é bem antigo (III se não II século). Uma análise das colações em Atos (publicada em *Text und Textwert*) e das em Lucas 1.10 e 20 (feitas por F. Wisse), mostra que **f** 18 (alias **K** r) é tanto independente como antigo. **f** 18 se engaja em uma considerável variedade de “mudança de partido”, muito diferentemente de **K** x, e frequentemente compartilha leituras com MSS, versões e pais antigos (contra **K** x); mas os compartilhamentos e “mudanças de partido” não são sistemáticos, não são previsíveis — portanto **f** 18 tem que ser tanto independente como antigo.
+[^529]: Ambos H-F e R-P parecem aceitar que Soden iguale **M**⁷ com seu grupo **K**ʳ, que é definido como o texto Bizantino mais recente, em diferenciação da tradição principal (**K**ˣ). Estou inclinado a suspeitar que o julgamento de Soden se deriva mais das suas pressuposições do que da evidência. Creio que uma revisão da evidência feita independentemente mostrará que **M**⁷ é realmente antigo. Aliás, as colações feitas por Robinson [ver nota de rodapé 4] o levam a declarar que todos os grupos são antigos e independentes — quer dizer, ele fez a “revisão independente da evidência” e chegou exatamente à conclusão que previ; **M**⁷ é bem antigo (III se não II século). Uma análise das colações em Atos (publicada em *Text und Textwert*) e das em Lucas 1, 10 e 20 (feitas por F. Wisse), mostra que **f**¹⁸ (alias **K**ʳ) é tanto independente como antigo. **f**¹⁸ se engaja em uma considerável variedade de “mudança de partido”, muito diferentemente de **K**ˣ, e frequentemente compartilha leituras com MSS, versões e pais antigos (contra **K**ˣ); mas os compartilhamentos e “mudanças de partido” não são sistemáticos, não são previsíveis — portanto **f**¹⁸ tem que ser tanto independente como antigo.
 
-[^530]: *The New Testament in the Original Greek according to the Byzantine/Majority Textform* contém um apêndice sobre a *Passagem da* *Adúltera*, pags. 494–505. R-P imprime várias formas da passagem, inclusive aquela de **M** 7 (minha escolha), a do *Majority Text* (de H-F) e a do *Byzantine/Majority Textform* (dos próprios R-P). Declaram que geralmente preferem **M** 5, consideram **M** 7 como inferior a ambos **M** 5 e **M** 6, mas todavia **M** 5 + **M** 7 sempre sobrepujam **M** 6 (pags. 496–97). No entanto, quando inspecionamos a reconstrução de R-P, descobrimos o seguinte: rejeitam a leitura de **M** 5 nove vezes e a põem em dúvida mais cinco outras vezes; põem **M** 5,7 em dúvida duas vezes (contra o princípio declarado deles); seguem **M** 5 (sozinho) sem questionamento apenas uma vez — de fato, a reconstrução deles é mais próxima de **M** 7 do que de **M** 5. Tudo isto me deixa um pouco perplexo: por que dizem, então, que **M** 5 é o melhor e **M** 7 o pior entre os três grupos principais?
+[^530]: *The New Testament in the Original Greek according to the Byzantine/Majority Textform* contém um apêndice sobre a *Passagem da Adúltera*, pags. 494–505. R-P imprime várias formas da passagem, inclusive aquela de **M**⁷ (minha escolha), a do *Majority Text* (de H-F) e a do *Byzantine/Majority Textform* (dos próprios R-P). Declaram que geralmente preferem **M**⁵, consideram **M**⁷ como inferior a ambos **M**⁵ e **M**⁶, mas todavia **M**⁵ + **M**⁷ sempre sobrepujam **M**⁶ (pags. 496–97). No entanto, quando inspecionamos a reconstrução de R-P, descobrimos o seguinte: rejeitam a leitura de **M**⁵ nove vezes e a põem em dúvida mais cinco outras vezes; põem **M**⁵,⁷ em dúvida duas vezes (contra o princípio declarado deles); seguem **M**⁵ (sozinho) sem questionamento apenas uma vez — de fato, a reconstrução deles é mais próxima de **M**⁷ do que de **M**⁵. Tudo isto me deixa um pouco perplexo: por que dizem, então, que **M**⁵ é o melhor e **M**⁷ o pior entre os três grupos principais?
 
 [^531]: John Bengel, um crítico textual que morreu em 1752, tem sido considerado como sendo o primeiro que propôs este argumento.
 
-[^532]: *The Greek New Testament*, New York: United Bible Societies, 3rd ed., 1975. *Novum Testamentum Graece*, Stuttgart: Deutsche Bibelstiftung, 26th ed., 1979. Os textos dessas duas edições são virtualmente idênticos, tendo sido elaborados pelos mesmos cinco editores: Kurt Aland, Matthew Black, Carlo Martini, Bruce Metzger e Allen Wikgren. A maioria das versões modernas realmente se baseia no texto Nestle “antigo”, o qual difere da 26 ª edição em mais de 700 locais. UBS 4 e N-A 27 não oferecem mudanças no texto, mas sim no aparato crítico. Segue-se que o texto foi estabelecido pelos cinco editores anteriores, não os atuais (Matthew Black e Allen Wikgren foram substituídos por Bárbara Aland [esposa de Kurt, mas agora viúva] e Johannes Karavidopoulos).
+[^532]: *The Greek New Testament*, New York: United Bible Societies, 3rd ed., 1975. *Novum Testamentum Graece*, Stuttgart: Deutsche Bibelstiftung, 26th ed., 1979. Os textos dessas duas edições são virtualmente idênticos, tendo sido elaborados pelos mesmos cinco editores: Kurt Aland, Matthew Black, Carlo Martini, Bruce Metzger e Allen Wikgren. A maioria das versões modernas realmente se baseia no texto Nestle “antigo”, o qual difere da 26ª edição em mais de 700 locais. UBS⁴ e N-A²⁷ não oferecem mudanças no texto, mas sim no aparato crítico. Segue-se que o texto foi estabelecido pelos cinco editores anteriores, não os atuais (Matthew Black e Allen Wikgren foram substituídos por Bárbara Aland [esposa de Kurt, mas agora viúva] e Johannes Karavidopoulos).
 
 [^533]: *The Greek New Testament According to the Majority Text*, Nashville: Thomas Nelson Publishers, 2nd ed., 1985. Este texto foi editado por Zane C. Hodges e Arthur L. Farstad. Difere algo do *Textus Receptus* sobre o qual a KJV e a NKJV são baseadas.
 
-[^534]: Provavelmente nenhum par de manuscritos gregos conhecidos está em perfeita concordância. Em consequência, reivindicações de inerrância são normalmente limitadas aos Autógrafos (os próprios documentos originais realmente escritos pelos seus autores humanos), ou à exata redação neles contida. Uma vez que nenhum Autógrafo do NT existe hoje (eles provavelmente se gastaram totalmente dentro de uns poucos anos, pelo uso intenso), temos que apelar para as cópias em existência, em qualquer esforço para identificar a redação original. A teoria de crítica textual, sobre a qual UBS3/N-A26 se baseiam, pressupõe que a redação original foi “perdida” durante os primeiros séculos e que certeza objetiva quanto a essa redação é agora uma impossibilidade. Uma parte central do debate atual é o argumento que o texto em uso **hoje** não é inerrante–este é um tema recorrente em *The Proceedings of the Conference on Biblical Inerrancy* *1987* (Nashville: Broadman Press, 1987), por exemplo. Estou preparado para oferecer evidência objetiva em apoio à afirmação que a redação original **não** foi “perdida” durante os primeiros séculos. Ademais, defendo a tese de que é realmente possível, com razoável certeza e com base em critérios objetivos, identificarmos a redação original ainda **hoje**.
+[^534]: Provavelmente nenhum par de manuscritos gregos conhecidos está em perfeita concordância. Em consequência, reivindicações de inerrância são normalmente limitadas aos Autógrafos (os próprios documentos originais realmente escritos pelos seus autores humanos), ou à exata redação neles contida. Uma vez que nenhum Autógrafo do NT existe hoje (eles provavelmente se gastaram totalmente dentro de uns poucos anos, pelo uso intenso), temos que apelar para as cópias em existência, em qualquer esforço para identificar a redação original. A teoria de crítica textual, sobre a qual UBS³/N-A²⁶ se baseiam, pressupõe que a redação original foi “perdida” durante os primeiros séculos e que certeza objetiva quanto a essa redação é agora uma impossibilidade. Uma parte central do debate atual é o argumento que o texto em uso **hoje** não é inerrante–este é um tema recorrente em *The Proceedings of the Conference on Biblical Inerrancy 1987* (Nashville: Broadman Press, 1987), por exemplo. Estou preparado para oferecer evidência objetiva em apoio à afirmação que a redação original **não** foi “perdida” durante os primeiros séculos. Ademais, defendo a tese de que é realmente possível, com razoável certeza e com base em critérios objetivos, identificarmos a redação original ainda **hoje**.
 
 [^535]: *A Textual Commentary on the Greek New Testament*, New York: United Bible Societies, 1971, pags. 137–38.
 
@@ -5408,9 +5655,9 @@ Pois então, que faremos: levantar nossas mãos em desespero e desistir? De modo
 
 [^540]: No Seu ensino sobre temas genéricos, o Senhor presumivelmente se repetiu muitas vezes, usando uma variedade de expressões e variações sobre os temas, e os escritores dos Evangelhos preservam algo dessa variedade. Nesta passagem estamos lidando com uma conversação específica, a qual pode-se presumir que não foi repetida.
 
-[^541]: A nota de Arndt e Gingrich (pag. 47) parece planejada para proteger a redação do Texto Eclético em Atos 19.16. A discussão de Metzger é interessante. “A dificuldade em reconciliar [“sete”] com [“ambos”], no entanto, não é grande ao ponto de tornar o texto que inclui “ambos” um texto impossível. Por outro lado, no entanto, a dificuldade é tão trabalhosa que é difícil explicar como [“sete”] entrou e foi perpetuada no Texto, se não era original ” (pag. 471–72). Notar que Metzger assume a genuinidade de “ambos” e discute a dificuldade que isto cria, como se fosse um fato. Eu diria que sua suposição é sem fundamentos, e que a dificuldade que ela cria é um artefato das pressuposições dele.
+[^541]: A nota de Arndt e Gingrich (pag. 47) parece planejada para proteger a redação do Texto Eclético em Atos 19.16. A discussão de Metzger é interessante. “A dificuldade em reconciliar [“sete”] com [“ambos”], no entanto, não é grande ao ponto de tornar o texto que inclui “ambos” um texto impossível. Por outro lado, no entanto, a dificuldade é tão trabalhosa que é difícil explicar como [“sete”] entrou e foi perpetuada no Texto, se não era original …” (pag. 471–72). Notar que Metzger assume a genuinidade de “ambos” e discute a dificuldade que isto cria, como se fosse um fato. Eu diria que sua suposição é sem fundamentos, e que a dificuldade que ela cria é um artefato das pressuposições dele.
 
-[^542]: Os únicos outros locais onde Isaías 40.3 é citado no Novo Testamento são Mateus 3.3, Lucas 3.4 e João 1.23. Os dois primeiros são em passagens paralelas a Marcos 1.2 e casam com este ao citarem a LXX exatamente. A citação em João difere da LXX em uma palavra e é também usada em conexão com João Batista. A consideração crucial, para nossos presentes propósitos, é que Mateus, Lucas e João todos eles (sem variação de MS) identificam a citação como sendo de Isaías. Parece claro que a redação “Alexandrina-Ocidental” em Marcos 1.2 é simplesmente uma assimilação aos outros três evangelhos. Deve também ser notado que o material de Malaquias parece mais uma alusão que uma citação direta. Ademais, embora Malaquias seja citado (ou aludido) várias vezes no Novo Testamento, ele nunca é nomeado. Os próprios hábitos de Marcos podem também ser muito relevantes a esta discussão. Marcos citou Isaías em 4:12, 11:17 e 12:32, e aludiu a ele em cerca de dez outros locais, sempre sem nomear sua fonte. A única vez que ele usa o nome de Isaías é quando cita Jesus, em 7:6. Ante tal clara evidência o cânon da “redação mais difícil” não pode justificar que um erro seja forçado para dentro de Marcos 1.2.
+[^542]: Os únicos outros locais onde Isaías 40.3 é citado no Novo Testamento são Mateus 3.3, Lucas 3.4 e João 1.23. Os dois primeiros são em passagens paralelas a Marcos 1.2 e casam com este ao citarem a LXX exatamente. A citação em João difere da LXX em uma palavra e é também usada em conexão com João Batista. A consideração crucial, para nossos presentes propósitos, é que Mateus, Lucas e João todos eles (sem variação de MS) identificam a citação como sendo de Isaías. Parece claro que a redação “Alexandrina-Ocidental” em Marcos 1.2 é simplesmente uma assimilação aos outros três evangelhos. Deve também ser notado que o material de Malaquias parece mais uma alusão que uma citação direta. Ademais, embora Malaquias seja citado (ou aludido) várias vezes no Novo Testamento, ele nunca é nomeado. Os próprios hábitos de Marcos podem também ser muito relevantes a esta discussão. Marcos citou Isaías em 4.12, 11.17 e 12.32, e aludiu a ele em cerca de dez outros locais, sempre sem nomear sua fonte. A única vez que ele usa o nome de Isaías é quando cita Jesus, em 7.6. Ante tal clara evidência o cânon da “redação mais difícil” não pode justificar que um erro seja forçado para dentro de Marcos 1.2.
 
 [^543]: Tischendorf, que descobriu o Códice Aleph, advertiu que a folha dobrada contendo o término de Marcos e o início de Lucas parecia ser escrita por uma mão diferente e com tinta diferente do resto do manuscrito. Seja como for, um exame cuidadoso revela o seguinte: o final de Marcos e o começo de Lucas ocorrem na página 3 (de um total de 4 [da folha dobrada]); as páginas 1 e 4 contêm uma média de 17 linhas (de texto grego impresso) por coluna (há quatro colunas por página), exatamente como o resto do códice; a página 2 contém uma média de 15.5 linhas de texto impresso por coluna (quatro colunas); a primeira coluna da página 3 contém somente **doze** linhas (de texto impresso) e, desta maneira, o verso 8 ocupa o topo da segunda coluna, o resto da qual está em branco (exceto por alguns desenhos); Lucas começa no topo da coluna 3, a qual contém 16 linhas de texto impresso, enquanto a coluna 4 volta a ter 17 linhas. Na página 2 o forjador começou a distanciar as letras, deslocando seis linhas de texto impresso; na primeira coluna da página 3 ele se desesperou e deslocou cinco linhas de texto impresso, somente em uma coluna! Desta maneira, o forjador conseguiu que duas linhas do verso 8 sobrassem para iniciar a segunda coluna, evitando a denunciadora coluna vazia (que ocorre no Códice B). Essa segunda coluna acomodaria mais 15 linhas de texto impresso, as quais, com as outras onze linhas [6 linhas na página 2, mais 5 linhas na página 3], totalizam 26. Versos 9–20 ocupam 23,5 de tais linhas; assim existe bastante espaço para a passagem. Parece que realmente houve jogo sujo, e não teria havido nenhuma necessidade dele a não ser que a primeira mão de fato exibisse os versos disputados. Em qualquer evento, Aleph, como está, é uma fraude neste local, e assim não pode ser legitimamente alegado como evidência contra Marcos 16.9–20.
 

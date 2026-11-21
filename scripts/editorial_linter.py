@@ -82,8 +82,11 @@ _ABBREV_BEFORE_DOT_RE = re.compile(
 _FOOTNOTE_DEF_RE = re.compile(r"^\[\^([a-zA-Z0-9_-]+)\]:")
 _FOOTNOTE_ANY_RE = re.compile(r"\[\^([a-zA-Z0-9_-]+)\]")
 _NUMERIC_RANGE_HYPHEN_RE = re.compile(r"(?<![A-Za-zÀ-ÿ0-9_/-])(\d+)-(\d+)(?![A-Za-zÀ-ÿ0-9_/-])")
+_ASCII_ELLIPSIS_RE = re.compile(r"\.{3,}|\.\s+\.\s+\.")
 _OCR_ZERO_IN_WORD_RE = re.compile(r"\b[a-zà-ÿA-ZÀ-Ÿ]*[a-zà-ÿ]0[a-zà-ÿ][a-zà-ÿA-ZÀ-Ÿ]*\b")
 _DUPLICATE_WORD_RE = re.compile(r"\b([a-zà-ÿ]{3,})\s+\1\b", re.IGNORECASE)
+_BQ_PREFIX_RE = re.compile(r"^((?:\s*>\s*)*)(.*)$")
+_LIST_ITEM_RE = re.compile(r"^(\s*)(?:([-*+])|(\d+)\.)\s+\S")
 
 
 @dataclass(frozen=True)
@@ -508,6 +511,17 @@ def _check_typography_and_ocr(masked_lines: list[str], masked_body: str) -> list
                     )
                 )
 
+        for m_ellipsis in _ASCII_ELLIPSIS_RE.finditer(line):
+            issues.append(
+                EditorialIssue(
+                    code="ED016",
+                    severity="error",
+                    line=line_no,
+                    message="Reticências em pontos ASCII ('...') proibidas no corpo; use o caractere tipográfico '…' (U+2026).",
+                    excerpt=line[max(0, m_ellipsis.start() - 15) : m_ellipsis.end() + 15].strip(),
+                )
+            )
+
         m_zero = _OCR_ZERO_IN_WORD_RE.search(line)
         if m_zero:
             issues.append(
@@ -707,6 +721,90 @@ def compare_with_source(
     )
 
 
+def _check_list_spacing(raw_lines: list[str]) -> list[EditorialIssue]:
+    """Garante linha em branco acima de qualquer lista ou sublista (compatibilidade Leia-me)."""
+    issues: list[EditorialIssue] = []
+    body_start = 0
+    if raw_lines and raw_lines[0].strip() == "---":
+        for i in range(1, len(raw_lines)):
+            if raw_lines[i].strip() == "---":
+                body_start = i + 1
+                break
+
+    in_code = False
+    for idx in range(body_start, len(raw_lines)):
+        line = raw_lines[idx]
+        stripped_left = line.lstrip()
+        if stripped_left.startswith("```") or stripped_left.startswith("~~~"):
+            in_code = not in_code
+            continue
+        if in_code or idx <= body_start:
+            continue
+
+        bq_match = _BQ_PREFIX_RE.match(line)
+        cur_bq_prefix, cur_rest = bq_match.groups() if bq_match is not None else ("", line)
+        m_cur = _LIST_ITEM_RE.match(cur_rest)
+        if not m_cur:
+            continue
+
+        prev_raw = raw_lines[idx - 1]
+        if prev_raw.strip() == "":
+            continue
+
+        prev_bq_match = _BQ_PREFIX_RE.match(prev_raw)
+        prev_bq_prefix, prev_rest = prev_bq_match.groups() if prev_bq_match is not None else ("", prev_raw)
+        cur_bq_depth = cur_bq_prefix.count(">")
+        prev_bq_depth = prev_bq_prefix.count(">")
+        if prev_bq_depth == cur_bq_depth and prev_rest.strip() == "":
+            continue
+
+        line_no = idx + 1
+        if prev_bq_depth != cur_bq_depth:
+            issues.append(
+                EditorialIssue(
+                    code="ED017",
+                    severity="error",
+                    line=line_no,
+                    message="Lista sem linha em branco imediatamente acima (quebra a renderização no leitor Leia-me).",
+                    excerpt=line.strip()[:80],
+                )
+            )
+            continue
+
+        m_prev = _LIST_ITEM_RE.match(prev_rest)
+        if m_prev is None:
+            issues.append(
+                EditorialIssue(
+                    code="ED017",
+                    severity="error",
+                    line=line_no,
+                    message="Lista sem linha em branco imediatamente acima (quebra a renderização no leitor Leia-me).",
+                    excerpt=line.strip()[:80],
+                )
+            )
+            continue
+
+        cur_indent = len(m_cur.group(1))
+        cur_kind = "ul" if m_cur.group(2) else "ol"
+        prev_indent = len(m_prev.group(1))
+        prev_kind = "ul" if m_prev.group(2) else "ol"
+        if cur_indent != prev_indent or cur_kind != prev_kind:
+            issues.append(
+                EditorialIssue(
+                    code="ED017",
+                    severity="error",
+                    line=line_no,
+                    message=(
+                        "Sublista ou mudança de nível/tipo de lista sem linha em branco imediatamente acima "
+                        "(quebra a renderização no leitor Leia-me)."
+                    ),
+                    excerpt=line.strip()[:80],
+                )
+            )
+
+    return issues
+
+
 def lint_markdown_text(
     raw_text: str,
     file_path: str | Path = Path("<memory>"),
@@ -722,6 +820,7 @@ def lint_markdown_text(
     issues.extend(_check_headings(masked_prose_lines))
     issues.extend(_check_footnotes(masked_with_fn_lines))
     issues.extend(_check_typography_and_ocr(masked_prose_lines, masked_prose))
+    issues.extend(_check_list_spacing(raw_text.splitlines()))
 
     issues.sort(key=lambda item: (item.line if item.line is not None else 999_999, item.code))
     return LintReport(file_path=Path(file_path), issues=issues)
