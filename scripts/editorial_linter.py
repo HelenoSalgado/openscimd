@@ -87,6 +87,12 @@ _OCR_ZERO_IN_WORD_RE = re.compile(r"\b[a-zà-ÿA-ZÀ-Ÿ]*[a-zà-ÿ]0[a-zà-ÿ][a
 _DUPLICATE_WORD_RE = re.compile(r"\b([a-zà-ÿ]{3,})\s+\1\b", re.IGNORECASE)
 _BQ_PREFIX_RE = re.compile(r"^((?:\s*>\s*)*)(.*)$")
 _LIST_ITEM_RE = re.compile(r"^(\s*)(?:([-*+])|(\d+)\.)\s+\S")
+_NOTES_APPARATUS_HEADING_RE = re.compile(r"^Notas(?:\s+(?:do|da|dos|das|Editoriais)\b|\s*$)", re.IGNORECASE)
+_BIBLIOGRAPHY_HEADING_RE = re.compile(
+    r"^(?:Bibliografia|Referências(?:\s+Bibliográficas)?|Conspectus\s+Librorum|Obras\s+Citadas|Fontes\s+Bibliográficas)\b",
+    re.IGNORECASE,
+)
+_IGNORE_DIRECTIVE_RE = re.compile(r"<!--\s*openscimd-ignore\s*:\s*([A-Za-z0-9_,\s-]+?)\s*-->", re.IGNORECASE)
 
 
 @dataclass(frozen=True)
@@ -201,10 +207,43 @@ def _is_roman_numeral(token: str) -> bool:
     return bool(token) and bool(_ROMAN_NUMERAL_RE.fullmatch(token))
 
 
-def _check_headings(masked_lines: list[str]) -> list[EditorialIssue]:
+def _strip_heading_markup(raw_heading: str) -> str:
+    """Remove âncoras e marcações inline de um cabeçalho antes da análise lexical."""
+    cleaned = re.sub(r"\[\^[^\]]+\]", "", raw_heading)
+    return re.sub(r"[*_`]", "", cleaned).strip()
+
+
+def _find_notes_start_line(masked_with_fn_lines: list[str]) -> int | None:
+    """Identifica a linha 1-based onde inicia o aparato pós-texto de notas."""
+    first_def_idx: int | None = None
+    for idx, line in enumerate(masked_with_fn_lines):
+        if _FOOTNOTE_DEF_RE.match(line):
+            first_def_idx = idx
+            break
+    if first_def_idx is None:
+        return None
+
+    for back in range(first_def_idx - 1, -1, -1):
+        stripped = masked_with_fn_lines[back].strip()
+        if not stripped:
+            continue
+        m = re.match(r"^(#{1,6})\s+(.*)$", stripped)
+        if m and _NOTES_APPARATUS_HEADING_RE.match(_strip_heading_markup(m.group(2))):
+            return back + 1
+        break
+
+    return first_def_idx + 1
+
+
+def _check_headings(
+    masked_lines: list[str],
+    notes_start_line: int | None = None,
+) -> list[EditorialIssue]:
     issues: list[EditorialIssue] = []
-    prev_level = 1
-    first_heading_seen = False
+    body_prev_level = 1
+    body_first_heading_seen = False
+    in_post_text = False
+    post_prev_level: int | None = None
 
     for line_no, line in enumerate(masked_lines, start=1):
         m = re.match(r"^(#{1,6})\s+(.*)$", line)
@@ -213,6 +252,13 @@ def _check_headings(masked_lines: list[str]) -> list[EditorialIssue]:
 
         hashes, raw_heading = m.group(1), m.group(2).strip()
         level = len(hashes)
+        clean_heading = _strip_heading_markup(raw_heading)
+
+        if not in_post_text and (
+            (notes_start_line is not None and line_no >= notes_start_line)
+            or bool(_BIBLIOGRAPHY_HEADING_RE.match(clean_heading))
+        ):
+            in_post_text = True
 
         if level == 1:
             issues.append(
@@ -224,8 +270,11 @@ def _check_headings(masked_lines: list[str]) -> list[EditorialIssue]:
                     excerpt=line.strip()[:80],
                 )
             )
-            prev_level = 1
-            first_heading_seen = True
+            if in_post_text:
+                post_prev_level = 1
+            else:
+                body_prev_level = 1
+                body_first_heading_seen = True
             continue
 
         if re.search(r"\*\*[^*]+\*\*|__[^_]+__", raw_heading):
@@ -239,8 +288,6 @@ def _check_headings(masked_lines: list[str]) -> list[EditorialIssue]:
                 )
             )
 
-        clean_heading = re.sub(r"\[\^[^\]]+\]", "", raw_heading)
-        clean_heading = re.sub(r"[*_`]", "", clean_heading)
         alpha_tokens = re.findall(r"[A-Za-zÀ-ÿ]+", clean_heading)
         has_long_allcaps = any(
             len(tok) >= 4
@@ -265,39 +312,95 @@ def _check_headings(masked_lines: list[str]) -> list[EditorialIssue]:
                 )
             )
 
-        if not first_heading_seen and level > 2:
-            issues.append(
-                EditorialIssue(
-                    code="ED004",
-                    severity="warning",
-                    line=line_no,
-                    message=f"Primeiro cabeçalho do corpo usa nível {hashes} em vez de '##'.",
-                    excerpt=line.strip()[:80],
+        if not in_post_text:
+            if not body_first_heading_seen and level > 2:
+                issues.append(
+                    EditorialIssue(
+                        code="ED004",
+                        severity="warning",
+                        line=line_no,
+                        message=f"Primeiro cabeçalho do corpo usa nível {hashes} em vez de '##'.",
+                        excerpt=line.strip()[:80],
+                    )
                 )
-            )
-        elif first_heading_seen and level > prev_level + 1:
-            issues.append(
-                EditorialIssue(
-                    code="ED004",
-                    severity="warning",
-                    line=line_no,
-                    message=f"Salto hierárquico de cabeçalho ({'#' * prev_level} -> {hashes}).",
-                    excerpt=line.strip()[:80],
+            elif body_first_heading_seen and level > body_prev_level + 1:
+                issues.append(
+                    EditorialIssue(
+                        code="ED004",
+                        severity="warning",
+                        line=line_no,
+                        message=f"Salto hierárquico de cabeçalho ({'#' * body_prev_level} -> {hashes}).",
+                        excerpt=line.strip()[:80],
+                    )
                 )
-            )
-        elif level >= 5:
-            issues.append(
-                EditorialIssue(
-                    code="ED004",
-                    severity="warning",
-                    line=line_no,
-                    message=f"Nível de cabeçalho excessivo ({hashes}); evite saltos artificiais.",
-                    excerpt=line.strip()[:80],
+            elif level >= 6:
+                issues.append(
+                    EditorialIssue(
+                        code="ED004",
+                        severity="warning",
+                        line=line_no,
+                        message=f"Nível de cabeçalho excessivo ({hashes}); limite máximo recomendado é '#####'.",
+                        excerpt=line.strip()[:80],
+                    )
                 )
-            )
 
-        prev_level = level
-        first_heading_seen = True
+            body_prev_level = level
+            body_first_heading_seen = True
+        else:
+            if _NOTES_APPARATUS_HEADING_RE.match(clean_heading):
+                if level >= 4:
+                    issues.append(
+                        EditorialIssue(
+                            code="ED004",
+                            severity="warning",
+                            line=line_no,
+                            message=f"Cabeçalho de notas usa nível {hashes}; use '###'.",
+                            excerpt=line.strip()[:80],
+                        )
+                    )
+            elif _BIBLIOGRAPHY_HEADING_RE.match(clean_heading):
+                if level >= 4:
+                    issues.append(
+                        EditorialIssue(
+                            code="ED004",
+                            severity="warning",
+                            line=line_no,
+                            message=f"Cabeçalho de bibliografia/referências usa nível {hashes}; use '##' ou '###'.",
+                            excerpt=line.strip()[:80],
+                        )
+                    )
+            elif post_prev_level is None and level > 3:
+                issues.append(
+                    EditorialIssue(
+                        code="ED004",
+                        severity="warning",
+                        line=line_no,
+                        message=f"Cabeçalho de seção pós-texto usa nível {hashes}; use '##' ou '###'.",
+                        excerpt=line.strip()[:80],
+                    )
+                )
+            elif post_prev_level is not None and level > post_prev_level + 1:
+                issues.append(
+                    EditorialIssue(
+                        code="ED004",
+                        severity="warning",
+                        line=line_no,
+                        message=f"Salto hierárquico de cabeçalho ({'#' * post_prev_level} -> {hashes}).",
+                        excerpt=line.strip()[:80],
+                    )
+                )
+            elif level >= 6:
+                issues.append(
+                    EditorialIssue(
+                        code="ED004",
+                        severity="warning",
+                        line=line_no,
+                        message=f"Nível de cabeçalho excessivo ({hashes}); limite máximo recomendado é '#####'.",
+                        excerpt=line.strip()[:80],
+                    )
+                )
+
+            post_prev_level = level
 
     return issues
 
@@ -468,6 +571,19 @@ def _mask_structured_tokens_for_ranges(line: str) -> str:
     return masked
 
 
+def _is_valid_portuguese_duplicate(line: str, match: re.Match[str]) -> bool:
+    """Identifica construções gramaticais ou filosóficas legítimas com palavras repetidas."""
+    word = match.group(1).lower()
+    prefix = line[: match.start()]
+    if word == "que":
+        return bool(re.search(r"\bdo\s+$", prefix, re.IGNORECASE))
+    if word == "nada":
+        return bool(re.search(r"\b(?:do|de)\s+$", prefix, re.IGNORECASE))
+    if word == "todo":
+        return True
+    return False
+
+
 def _check_typography_and_ocr(masked_lines: list[str], masked_body: str) -> list[EditorialIssue]:
     issues: list[EditorialIssue] = []
 
@@ -534,8 +650,9 @@ def _check_typography_and_ocr(masked_lines: list[str], masked_body: str) -> list
                 )
             )
 
-        m_dup = _DUPLICATE_WORD_RE.search(line)
-        if m_dup:
+        for m_dup in _DUPLICATE_WORD_RE.finditer(line):
+            if _is_valid_portuguese_duplicate(line, m_dup):
+                continue
             issues.append(
                 EditorialIssue(
                     code="ED015c",
@@ -805,22 +922,93 @@ def _check_list_spacing(raw_lines: list[str]) -> list[EditorialIssue]:
     return issues
 
 
+def _extract_ignored_rules_by_line(raw_lines: list[str]) -> dict[int, set[str]]:
+    """Extrai diretivas <!-- openscimd-ignore: CODIGO --> fora do frontmatter e de código."""
+    ignored: dict[int, set[str]] = {}
+    body_start = 0
+    if raw_lines and raw_lines[0].strip() == "---":
+        for i in range(1, len(raw_lines)):
+            if raw_lines[i].strip() == "---":
+                body_start = i + 1
+                break
+
+    fence_marker: str | None = None
+    for idx in range(body_start, len(raw_lines)):
+        line = raw_lines[idx]
+        stripped_left = line.lstrip()
+        if stripped_left.startswith("```") or stripped_left.startswith("~~~"):
+            marker = stripped_left[:3]
+            if fence_marker is None:
+                fence_marker = marker
+            elif fence_marker == marker:
+                fence_marker = None
+            continue
+        if fence_marker is not None:
+            continue
+
+        scan_line = re.sub(r"`+[^`\n]+`+", " ", line)
+        matches = list(_IGNORE_DIRECTIVE_RE.finditer(scan_line))
+        if not matches:
+            continue
+
+        codes: set[str] = set()
+        for m in matches:
+            for tok in re.split(r"[\s,]+", m.group(1).strip()):
+                if tok:
+                    codes.add(tok.lower())
+        if not codes:
+            continue
+
+        remainder = _IGNORE_DIRECTIVE_RE.sub("", line).strip()
+        if remainder:
+            ignored.setdefault(idx + 1, set()).update(codes)
+            continue
+
+        target_idx = idx + 1
+        while target_idx < len(raw_lines):
+            cand = raw_lines[target_idx]
+            cand_stripped = cand.strip()
+            if not cand_stripped:
+                target_idx += 1
+                continue
+            if cand_stripped.startswith("```") or cand_stripped.startswith("~~~"):
+                break
+            cand_scan = re.sub(r"`+[^`\n]+`+", " ", cand)
+            if _IGNORE_DIRECTIVE_RE.search(cand_scan) and not _IGNORE_DIRECTIVE_RE.sub("", cand).strip():
+                target_idx += 1
+                continue
+            ignored.setdefault(target_idx + 1, set()).update(codes)
+            break
+
+    return ignored
+
+
 def lint_markdown_text(
     raw_text: str,
     file_path: str | Path = Path("<memory>"),
 ) -> LintReport:
     """Executa todas as regras do linter editorial sobre uma string Markdown."""
+    raw_lines = raw_text.splitlines()
     masked_with_fn = _mask_non_prose(raw_text, keep_footnotes=True)
     masked_prose = _mask_non_prose(raw_text, keep_footnotes=False)
 
     masked_with_fn_lines = masked_with_fn.splitlines()
     masked_prose_lines = masked_prose.splitlines()
+    notes_start_line = _find_notes_start_line(masked_with_fn_lines)
+    ignored_by_line = _extract_ignored_rules_by_line(raw_lines)
 
     issues: list[EditorialIssue] = []
-    issues.extend(_check_headings(masked_prose_lines))
+    issues.extend(_check_headings(masked_prose_lines, notes_start_line=notes_start_line))
     issues.extend(_check_footnotes(masked_with_fn_lines))
     issues.extend(_check_typography_and_ocr(masked_prose_lines, masked_prose))
-    issues.extend(_check_list_spacing(raw_text.splitlines()))
+    issues.extend(_check_list_spacing(raw_lines))
+
+    if ignored_by_line:
+        issues = [
+            issue
+            for issue in issues
+            if issue.line is None or issue.code.lower() not in ignored_by_line.get(issue.line, set())
+        ]
 
     issues.sort(key=lambda item: (item.line if item.line is not None else 999_999, item.code))
     return LintReport(file_path=Path(file_path), issues=issues)

@@ -285,3 +285,148 @@ def test_lint_ed017_requires_blank_line_before_lists_and_sublists() -> None:
     )
     good_report = lint_markdown_text(good_doc)
     assert [issue for issue in good_report.errors if issue.code == "ED017"] == []
+
+
+def test_lint_post_text_notes_and_bibliography_without_body_headings() -> None:
+    doc_notes_only = _valid_doc(
+        "Resenha corrida em prosa sem subdivisões no corpo[^ne1].\n\n"
+        "---\n\n"
+        "### Notas Editoriais\n\n"
+        "[^ne1]: Nota editorial."
+    )
+    report_notes = lint_markdown_text(doc_notes_only)
+    assert report_notes.errors == []
+    assert report_notes.warnings == []
+
+    for bib_heading in ("### Bibliografia", "## Bibliografia", "### *Conspectus Librorum*"):
+        doc_with_bib = _valid_doc(
+            "Artigo corrido sem subtítulos no corpo[^1].\n\n"
+            "---\n\n"
+            "### Notas do Autor\n\n"
+            "[^1]: Nota original.\n\n"
+            "---\n\n"
+            f"{bib_heading}\n\n"
+            "- **Autor**, 2020, *Obra*."
+        )
+        report_bib = lint_markdown_text(doc_with_bib)
+        assert report_bib.errors == []
+        assert report_bib.warnings == []
+
+    for bib_only_heading in ("### Bibliografia", "## Bibliografia"):
+        doc_bib_only = _valid_doc(
+            "Artigo corrido sem notas e sem subtítulos no corpo.\n\n"
+            "---\n\n"
+            f"{bib_only_heading}\n\n"
+            "- **Autor**, 2020, *Obra*."
+        )
+        report_bib_only = lint_markdown_text(doc_bib_only)
+        assert report_bib_only.errors == []
+        assert report_bib_only.warnings == []
+
+
+def test_lint_body_and_post_text_heading_boundaries() -> None:
+    bad_body_doc = _valid_doc(
+        "### Seção Indevida no Corpo\n\n"
+        "Texto com nota[^1].\n\n"
+        "---\n\n"
+        "### Notas do Autor\n\n"
+        "[^1]: Nota."
+    )
+    report_bad_body = lint_markdown_text(bad_body_doc)
+    ed004_bad = [issue for issue in report_bad_body.warnings if issue.code == "ED004"]
+    assert len(ed004_bad) == 1
+    assert "Seção Indevida no Corpo" in ed004_bad[0].excerpt
+
+    bad_post_doc = _valid_doc(
+        "Texto corrido[^1].\n\n"
+        "---\n\n"
+        "#### Notas do Autor\n\n"
+        "[^1]: Nota.\n\n"
+        "#### Bibliografia\n\n"
+        "- Item."
+    )
+    report_bad_post = lint_markdown_text(bad_post_doc)
+    ed004_post = [issue for issue in report_bad_post.warnings if issue.code == "ED004"]
+    assert len(ed004_post) == 2
+
+    post_caps_doc = _valid_doc(
+        "Texto corrido[^1].\n\n"
+        "---\n\n"
+        "### **NOTAS DO AUTOR**\n\n"
+        "[^1]: Nota."
+    )
+    report_post_caps = lint_markdown_text(post_caps_doc)
+    post_codes = {issue.code for issue in report_post_caps.errors}
+    assert {"ED002", "ED003"}.issubset(post_codes)
+
+
+def test_lint_heading_depth_allows_h5_without_jump_and_warns_on_jumps_or_h6() -> None:
+    valid_h5_doc = _valid_doc(
+        "## Comentador\n\n"
+        "### Questão I\n\n"
+        "#### Artigo I\n\n"
+        "##### Resolução das Objeções\n\n"
+        "##### Nova Subseção\n\n"
+        "Texto normal."
+    )
+    report_valid = lint_markdown_text(valid_h5_doc)
+    assert report_valid.errors == []
+    assert report_valid.warnings == []
+
+    jump_h2_h4 = lint_markdown_text(_valid_doc("## Seção\n\n#### Salto"))
+    assert [i.code for i in jump_h2_h4.warnings] == ["ED004"]
+    assert "Salto hierárquico" in jump_h2_h4.warnings[0].message
+
+    jump_h3_h5 = lint_markdown_text(_valid_doc("## Seção\n\n### Sub\n\n##### Salto"))
+    assert [i.code for i in jump_h3_h5.warnings] == ["ED004"]
+    assert "Salto hierárquico" in jump_h3_h5.warnings[0].message
+
+    too_deep_h6 = lint_markdown_text(
+        _valid_doc("## Seção\n\n### Sub\n\n#### Artigo\n\n##### Subartigo\n\n###### Profundo Demais")
+    )
+    assert [i.code for i in too_deep_h6.warnings] == ["ED004"]
+    assert "excessivo" in too_deep_h6.warnings[0].message
+    assert "salto" not in too_deep_h6.warnings[0].message.lower()
+
+
+def test_lint_ed015c_portuguese_exceptions_and_finditer() -> None:
+    valid_dups = _valid_doc(
+        "## Seção\n\n"
+        "A regra afirma que do nada nada se faz, não diz mais do que que há ordem, "
+        "de nada nada nasce e todo todo é maior do que a sua parte."
+    )
+    report_valid = lint_markdown_text(valid_dups)
+    assert [i for i in report_valid.warnings if i.code == "ED015c"] == []
+
+    mixed_dups = _valid_doc(
+        "## Seção\n\n"
+        "Não diz mais do que que há ordem, mas ele disse que que havia erros erros.\n\n"
+        "Ele fez nada nada e toda toda a casa mudou."
+    )
+    report_mixed = lint_markdown_text(mixed_dups)
+    ed015c = [i for i in report_mixed.warnings if i.code == "ED015c"]
+    excerpts = [i.excerpt.lower() for i in ed015c]
+    assert len(ed015c) == 4
+    assert excerpts == ["que que", "erros erros", "nada nada", "toda toda"]
+
+
+def test_lint_ignore_directive_inline_above_and_code_fence() -> None:
+    doc = _valid_doc(
+        "## Seção\n\n"
+        "Frase verificada com erros erros ignorados. <!-- openscimd-ignore: ED015c -->\n\n"
+        "<!-- openscimd-ignore: ED015c -->\n\n"
+        "Outra frase verificada com caso caso ignorado na linha seguinte.\n\n"
+        "<!-- openscimd-ignore: ED015c -->\n"
+        'Frase com "aspas retas" e caso caso (só ED015c suprimido).\n\n'
+        "```markdown\n"
+        "<!-- openscimd-ignore: ED005 -->\n"
+        "```\n"
+        'Aspas retas "aqui" ainda geram erro.\n\n'
+        "Exemplo `<!-- openscimd-ignore: ED015c -->` com texto texto real."
+    )
+    report = lint_markdown_text(doc)
+    ed005 = [i for i in report.errors if i.code == "ED005"]
+    ed015c = [i for i in report.warnings if i.code == "ED015c"]
+    assert len(ed005) == 2
+    assert len(ed015c) == 1
+    assert ed015c[0].excerpt == "texto texto"
