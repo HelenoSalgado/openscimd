@@ -15,9 +15,9 @@
       "canonical_author": "Hiroko Konishi",
       "doi": null,
       "first_body_sha256": "d6ab85a3ed5da261e3b5afdc7f480845c963c4f22a4af52cea027ce096372c80",
-      "last_body_sha256": "d6ab85a3ed5da261e3b5afdc7f480845c963c4f22a4af52cea027ce096372c80",
+      "last_body_sha256": "148fab06d06a043c741484ce54e1d3e023006e423ae29ee2b17ad7143c462210",
       "created_at": 1763596800000,
-      "updated_at": 1794554532680,
+      "updated_at": 1795275989666,
       "retired_at": null
     },
     "art_002": {
@@ -30,9 +30,9 @@
       "canonical_author": "Murilo Dumps",
       "doi": "10.5281/zenodo.21762396",
       "first_body_sha256": "863f09b516902b8c4118031c179d5bc065e508ed472dbf992d2e6ec774b97344",
-      "last_body_sha256": "4a94a85492e2c8c24273c6a92f8cb2d95da135a3de52a21ede85ad29b1e36cd4",
+      "last_body_sha256": "b57937e0714f1b7037254781d7af89eff0edf473b3d696958451f37053d776fc",
       "created_at": 1785974400000,
-      "updated_at": 1795204190075,
+      "updated_at": 1795275989666,
       "retired_at": null
     },
     "art_003": {
@@ -47,9 +47,9 @@
       "canonical_author": "Francisco Hemerson Brito da Silva",
       "doi": "10.30938/bocehm.v7i20.3297",
       "first_body_sha256": "b9ed43de9cc5d6fe7461d1247c0eb9c7fba3e51e6ee6ee25607f888e1369f1ca",
-      "last_body_sha256": "3545d21df699ccacadb4b074eebeff5e048bbc3e2b74401e8ba5775d6c46019c",
+      "last_body_sha256": "0d7869649305572f4986849c8eb10dc1dcfdb8875a925c1751664439e64aac9e",
       "created_at": 1586217600000,
-      "updated_at": 1795202052220,
+      "updated_at": 1795275989666,
       "retired_at": null
     },
     "art_004": {
@@ -62,9 +62,9 @@
       "canonical_author": "Paulo R. B. Anglada",
       "doi": null,
       "first_body_sha256": "6f54f40dc1584da7c315fcacbf23acfe447eedfdafbf7e0b453cca498f967075",
-      "last_body_sha256": "6de16ca705d7367bd29cda4ed2c0fbd7d5781a92526e598f9b70a158a5b56cd6",
+      "last_body_sha256": "25ff33a0a053b368bcdaa15564bf823b904253ed59155ae78d27611642af3f42",
       "created_at": 836179200000,
-      "updated_at": 1795202052220,
+      "updated_at": 1795275989666,
       "retired_at": null
     },
     "art_005": {
@@ -77,9 +77,9 @@
       "canonical_author": "Rafael Ramis Barceló",
       "doi": "10.3989/hs.2018.005",
       "first_body_sha256": "ba8b31ba95623b3464f2d8c05d097c08746a7ce29574e33c07c87713ebd69a38",
-      "last_body_sha256": "57504c6dc035514c3bd1e0be0183b551497967d893ec907d39e06c545e509a61",
+      "last_body_sha256": "125ac4346876b2ad3224f2d635ebcb6ff35201358a48453d7fb3c9d329d097ba",
       "created_at": 1530316800000,
-      "updated_at": 1795202052220,
+      "updated_at": 1795275989666,
       "retired_at": null
     },
     "art_006": {
@@ -92,9 +92,9 @@
       "canonical_author": "Djamila Abdullazade",
       "doi": "10.33864/2790-0037.2025.v6.i5.101-112",
       "first_body_sha256": "ad529553992ba910680308c9e3fd8cf774109d8c16de2f61cfd5cb288760d71e",
-      "last_body_sha256": "a8d429fc0505eb18b1643dfcf645647b326fd6a2c896548a6dd3f76fd7b6e13a",
+      "last_body_sha256": "ed46381c2ae4e64c5619867ea29a7f700c95c9926be00b6472f720ffa8c74d96",
       "created_at": 1765756800000,
-      "updated_at": 1795202052220,
+      "updated_at": 1795275989666,
       "retired_at": null
     },
     "art_007": {
@@ -107,9 +107,9 @@
       "canonical_author": "Cole Franklin",
       "doi": null,
       "first_body_sha256": "968eb4885392f0374a99b76b7c568ed4b1817c18551f2e63198b866f575a20a5",
-      "last_body_sha256": "968eb4885392f0374a99b76b7c568ed4b1817c18551f2e63198b866f575a20a5",
+      "last_body_sha256": "656e6fb6bcf1882725a13a5ee37fc2c5e56d71575b22c41f65ab34ecd1c70259",
       "created_at": 1784246400000,
-      "updated_at": 1794554532680,
+      "updated_at": 1795275989666,
       "retired_at": null
     },
     "art_008": {
@@ -122,9 +122,9 @@
       "canonical_author": "Kostas E. Beys",
       "doi": "10.14746/pea.2010.1.3",
       "first_body_sha256": "3155938a7b52200b4e5d21f4b89f02592cf1e75c66316a40f3ff73ec08291cba",
-      "last_body_sha256": "88bc2dd3783f438c27ee5531374da2d8b9ddc23c50dadb9feca41fbc08d5c3b0",
+      "last_body_sha256": "e9f41d407b4d4ec9217527b48172af2b8242400117636954348c3fe01cfaf984",
       "created_at": 1262304000000,
-      "updated_at": 1795202052220,
+      "updated_at": 1795275989666,
       "retired_at": null
     },
     "art_009": {
@@ -182,9 +182,9 @@
       "canonical_author": "Julius Domański",
       "doi": "10.14746/pea.2010.1.5",
       "first_body_sha256": "4ce52692bb71a850dcacc97b7ffb5e08abe5adc8328a9451090586108061ad5e",
-      "last_body_sha256": "f9e386bb75433f8b3368f0e7fa8a326e692698f4477aedaddf3d1bf3a440af4a",
+      "last_body_sha256": "0a6f0cb9d77353c04990af0c0eae0e2c7754cd6e2ce92b01d3cf99eb93ca92be",
       "created_at": 1262304000000,
-      "updated_at": 1795202052220,
+      "updated_at": 1795275989666,
       "retired_at": null
     },
     "art_013": {
@@ -227,9 +227,9 @@
       "canonical_author": "Jorge Ramos do Ó",
       "doi": "10.1590/2236-3459/83768",
       "first_body_sha256": "59da53daf10e1e374fc4d1c35795c0d3ed612755c731efba88b4c322ef8573da",
-      "last_body_sha256": "ec27e29a02df16e5a2987eec865c310aeb07745520016222bc7d3dfc00172daf",
+      "last_body_sha256": "e1ffb1a2a8ab58233f3d104b06c8f7f39390d2fa974b92bd5f89e1459f0e281b",
       "created_at": 1547164800000,
-      "updated_at": 1795202052220,
+      "updated_at": 1795275989666,
       "retired_at": null
     },
     "art_016": {
@@ -242,9 +242,9 @@
       "canonical_author": "Iracema Campos Cusati",
       "doi": "10.21723/riaee.v16i1.13354",
       "first_body_sha256": "fe7a8673838121e742ff4d191a91d2d9e7cb49055fd15b34f62109b800ad8b73",
-      "last_body_sha256": "39fabe18e4918c517a2b46385887f3b220f8209bee36d1d6b7f13e3b35eed943",
+      "last_body_sha256": "1db44a956bf447e69ed7c540b690ab41190e59359ac81b114da51211d3262476",
       "created_at": 1609545600000,
-      "updated_at": 1795202052220,
+      "updated_at": 1795275989666,
       "retired_at": null
     },
     "art_017": {
@@ -257,9 +257,9 @@
       "canonical_author": "Plínio Sousa",
       "doi": "10.5281/zenodo.21684711",
       "first_body_sha256": "bb4d3e0eaeb9a57ec5a69588e81e0924eef7308e377ce11d767169165be16ee8",
-      "last_body_sha256": "c1c44f09f07efed5499ceacb5ecb2fa079e19cf99687249f367dd3876a4829a5",
+      "last_body_sha256": "e126e34e85eb3a349989463812f5d01ee1a4f14905cfb9748cc306f6d0976fa9",
       "created_at": 1785283200000,
-      "updated_at": 1795204190075,
+      "updated_at": 1795275989666,
       "retired_at": null
     },
     "art_018": {
@@ -287,9 +287,9 @@
       "canonical_author": "Dorota Tymura",
       "doi": "10.14746/pea.2011.1.12",
       "first_body_sha256": "f1e4cab3fe9e00737712be392e1fd50d6d3bd29e327ef375feddd8084fab4b41",
-      "last_body_sha256": "f1e4cab3fe9e00737712be392e1fd50d6d3bd29e327ef375feddd8084fab4b41",
+      "last_body_sha256": "06c5371dee4278f3b9dc190be28f2205324be7c7fa3bcb24ee64c426a5121020",
       "created_at": 1293840000000,
-      "updated_at": 1795180517606,
+      "updated_at": 1795275989666,
       "retired_at": null
     },
     "art_020": {
@@ -302,9 +302,9 @@
       "canonical_author": "Tomasz Mróz",
       "doi": "10.14746/pea.2011.1.13",
       "first_body_sha256": "72e66031af67eeb072562950a2782f8fd2ed4da3b81c9055474b833926af0d76",
-      "last_body_sha256": "be752c3090349c075f1ee84619adb1472a703149b3d905600a052417667e0d94",
+      "last_body_sha256": "692e80a51541adf2b1aecce25d45de9e146ff3d46b601446d40708fff5af585d",
       "created_at": 1293840000000,
-      "updated_at": 1795202052220,
+      "updated_at": 1795275989666,
       "retired_at": null
     },
     "art_021": {
@@ -332,9 +332,9 @@
       "canonical_author": "Mikołaj Domaradzki",
       "doi": "10.14746/pea.2011.1.7",
       "first_body_sha256": "1770d35c54a7f0469e0a1c932a0e47833300161e90e5890149a32ef1ddc324c3",
-      "last_body_sha256": "1770d35c54a7f0469e0a1c932a0e47833300161e90e5890149a32ef1ddc324c3",
+      "last_body_sha256": "daa6ff55a5e732cf9e9491fe3cf395731d2a60bfc175568984bb2c4a227f4b5c",
       "created_at": 1293840000000,
-      "updated_at": 1795180517606,
+      "updated_at": 1795275989666,
       "retired_at": null
     },
     "art_023": {
@@ -347,9 +347,9 @@
       "canonical_author": "Riccardo Dottori",
       "doi": "10.14746/pea.2011.1.4",
       "first_body_sha256": "40be892ee08be6272cb095da524cd95485e061cc8774f36e3b30c017ace940f1",
-      "last_body_sha256": "40be892ee08be6272cb095da524cd95485e061cc8774f36e3b30c017ace940f1",
+      "last_body_sha256": "b1b35a3216db9b0129073e4752d34f7b3d76c634404e8b85024410ee07cb2981",
       "created_at": 1293840000000,
-      "updated_at": 1795180517606,
+      "updated_at": 1795275989666,
       "retired_at": null
     },
     "art_024": {
@@ -377,9 +377,9 @@
       "canonical_author": "Marian Wesoły",
       "doi": "10.14746/pea.2011.1.6",
       "first_body_sha256": "422df2c81d53555cef25a68b908fe49fbd30045d5fa7aaf260ed4fd9b883237e",
-      "last_body_sha256": "4f19dee47d31d297cacb016303ddb8afa679619ae3ef2e0accb3cc9231be5a80",
+      "last_body_sha256": "848917eca8f4750e9be0116c5ed8af2dfb053ff4ca9692b6c94112dc91835002",
       "created_at": 1293840000000,
-      "updated_at": 1795202052220,
+      "updated_at": 1795275989666,
       "retired_at": null
     },
     "art_026": {
@@ -407,9 +407,9 @@
       "canonical_author": "Anna Kelessidou",
       "doi": "10.14746/pea.2011.1.10",
       "first_body_sha256": "d54e8746be8aecfb4609240ba7d94273f2b1709aba6eef8f304316cc2b60b549",
-      "last_body_sha256": "d2e97442855d659e36c8d9863a795c6b72e72d7ff590afda4f2125aae5b89f7e",
+      "last_body_sha256": "4c560df6f78f604d164940408d9f9dc8313f755095d6d7fd6e777f255c447fbe",
       "created_at": 1293840000000,
-      "updated_at": 1795202052220,
+      "updated_at": 1795275989666,
       "retired_at": null
     },
     "art_028": {
@@ -437,9 +437,9 @@
       "canonical_author": "Joanna Komorowska",
       "doi": "10.14746/pea.2011.1.11",
       "first_body_sha256": "049fe23e549d0370c62a0977667c50553f6802fcaa9af42512a1e82eb7e929b9",
-      "last_body_sha256": "049fe23e549d0370c62a0977667c50553f6802fcaa9af42512a1e82eb7e929b9",
+      "last_body_sha256": "cadbf0a0c9ba259b67bca7ba1741f336ed3e4698f40795e6805dca1d2ba3625e",
       "created_at": 1293840000000,
-      "updated_at": 1795180517606,
+      "updated_at": 1795275989666,
       "retired_at": null
     },
     "art_030": {
@@ -557,9 +557,9 @@
       "canonical_author": "Alberto Caeiro",
       "doi": null,
       "first_body_sha256": "1b8551e78a7653f6f6dd848fadddf0e2007090c85fb4c30560d73271f193e27a",
-      "last_body_sha256": "1b8551e78a7653f6f6dd848fadddf0e2007090c85fb4c30560d73271f193e27a",
+      "last_body_sha256": "413d447c5633cab0b1e1ea01b3e10c594bc8f2b9ce4881d858192434240846b1",
       "created_at": 1794153689615,
-      "updated_at": 1794554533108,
+      "updated_at": 1795275989999,
       "retired_at": null
     },
     "book_003": {
@@ -572,9 +572,9 @@
       "canonical_author": "Aristóteles",
       "doi": null,
       "first_body_sha256": "51bfc1422da05a86f89b40081c69a4857fbea6fd41b31fa581c04b04676a2189",
-      "last_body_sha256": "cd060d60b3655215e9c71d72acc0fe6bf87516264b50464c673de169c78a1582",
+      "last_body_sha256": "2c14c3713c3b3f08b3e94107a748705bb28a68e9101a55557ce8ed60fcebb6d4",
       "created_at": 1794153689615,
-      "updated_at": 1795202052620,
+      "updated_at": 1795275989999,
       "retired_at": null
     },
     "book_004": {
@@ -587,9 +587,9 @@
       "canonical_author": "Severino Boécio",
       "doi": null,
       "first_body_sha256": "e4a53847b1f8db0deb44c00da31bfeba624b5e3ffdcb04337da1949afa65636d",
-      "last_body_sha256": "17a11378ae3fce0d3b916372e79f0542af2121db7c3aa6d6c7c1256305902f9c",
+      "last_body_sha256": "ee423c2f28c717fe53a26460b3d5204fddd271bbd7e55d4f3c9d31c46c62ec78",
       "created_at": 1794153689619,
-      "updated_at": 1795202052620,
+      "updated_at": 1795275989999,
       "retired_at": null
     },
     "book_005": {
@@ -692,9 +692,9 @@
       "canonical_author": "Platão",
       "doi": null,
       "first_body_sha256": "424bb2736a38ad006ef97729f696ebde761cc8b50f579373bfd29feb1ceb457f",
-      "last_body_sha256": "5cf4ef0f72a6f4a6a25500fa7074a81500921c2d71101fd6ff7de16a372e90c6",
+      "last_body_sha256": "1f1c8007051cf9ef890e70a27d484a57603f1afa7cde93da182fa16fb6ac8fb9",
       "created_at": 1794153689621,
-      "updated_at": 1795202052620,
+      "updated_at": 1795275989999,
       "retired_at": null
     },
     "book_012": {
@@ -707,9 +707,9 @@
       "canonical_author": "Platão",
       "doi": null,
       "first_body_sha256": "9b51c0f341fabbb39f2341385733680b444ca9b5b4038a8ac6656efd31ee3e54",
-      "last_body_sha256": "ded7c4d174bb4b0b9505dcc7aacabf5ff3db647b3a27227a6fae87a819746b0d",
+      "last_body_sha256": "b15e96ce6517e4a994215f242dc3be0e64e9885ec1a07d578bba087d58a74d8a",
       "created_at": 1794153689622,
-      "updated_at": 1795202052620,
+      "updated_at": 1795275989999,
       "retired_at": null
     },
     "book_013": {
@@ -722,9 +722,9 @@
       "canonical_author": "Platão",
       "doi": null,
       "first_body_sha256": "d8f32f09eb427b47675bcfe721b3fb49669bc0ccfc3acc682213ce6b27e092a6",
-      "last_body_sha256": "d8f32f09eb427b47675bcfe721b3fb49669bc0ccfc3acc682213ce6b27e092a6",
+      "last_body_sha256": "489d636f760c0162bf0bd71ad2c8ef909c8bf9a9e4f53bcbd5c49656a173407b",
       "created_at": 1794153689622,
-      "updated_at": 1794554533108,
+      "updated_at": 1795275989999,
       "retired_at": null
     },
     "book_014": {
@@ -782,9 +782,9 @@
       "canonical_author": "Moisés",
       "doi": null,
       "first_body_sha256": "b4a9b53190861d6b92bba2990533dbedae1915135ce39d23486750188a0e59f4",
-      "last_body_sha256": "b4a9b53190861d6b92bba2990533dbedae1915135ce39d23486750188a0e59f4",
+      "last_body_sha256": "55e900f67cbb90c42edaadc3b30bb01177dd398dbbef094d4b49c2469656eeb2",
       "created_at": 1794153689625,
-      "updated_at": 1794554533108,
+      "updated_at": 1795275989999,
       "retired_at": null
     },
     "book_018": {
@@ -827,9 +827,9 @@
       "canonical_author": "Alberto Caeiro",
       "doi": null,
       "first_body_sha256": "d97226520fa82ff4eeb2b6ffb6a6758800af52495cdd8d96f41cc756c1adbb72",
-      "last_body_sha256": "728eb08df5ad49c2ea7b1c333c3aa0d2ae7ec3a1ab0c75837ade49cdc72a6327",
+      "last_body_sha256": "bcc6b4595366b09b73045fd909b9d33a83dda974080bc43925502ad6fbc6cfe3",
       "created_at": 1794209294123,
-      "updated_at": 1795202052620,
+      "updated_at": 1795275989999,
       "retired_at": null
     },
     "book_021": {
@@ -842,9 +842,9 @@
       "canonical_author": "Fernando Pessoa",
       "doi": null,
       "first_body_sha256": "d509e71076c993f4e50ff95c84fda284dde48c19b07f63418e7a52d44e4bcb5e",
-      "last_body_sha256": "d509e71076c993f4e50ff95c84fda284dde48c19b07f63418e7a52d44e4bcb5e",
+      "last_body_sha256": "506be5e85e1c1b8b7decb4b6ac49b7aa3dca2fa2872bb73bf30a024d4496f6a7",
       "created_at": 1794209294124,
-      "updated_at": 1794554533108,
+      "updated_at": 1795275989999,
       "retired_at": null
     },
     "book_022": {
