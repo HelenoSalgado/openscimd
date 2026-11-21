@@ -60,7 +60,7 @@ Deste modo, será apresentado no decorrer do artigo, um breve percurso cronológ
 
 O estudo se baseou na metodologia qualitativa quanto à forma de abordagem do problema e bibliográfica em relação ao ponto de vista de seus objetivos. A pesquisa qualitativa se justifica pelo fato de os objetos de investigação serem estudados indutivamente, utilizando-se da interpretação de alguns fenômenos, juntamente com a atribuição de significados, direcionando a um caráter descritivo para a exposição dos dados coletados (PRODANOV; FREITAS, 2013).
 
-A abordagem bibliográfica é “elaborada a partir de material já publicado, constituído principalmente de: livros, revistas, publicações em periódicos e artigos científicos, [...] com o objetivo de colocar o pesquisador em contato direto com todo material já escrito sobre o assunto da pesquisa”, conforme a definição de Prodanov e Freitas (2013, p. 54).
+A abordagem bibliográfica é “elaborada a partir de material já publicado, constituído principalmente de: livros, revistas, publicações em periódicos e artigos científicos, […] com o objetivo de colocar o pesquisador em contato direto com todo material já escrito sobre o assunto da pesquisa”, conforme a definição de Prodanov e Freitas (2013, p. 54).
 
 Deste modo, foram consultados artigos, livros e sites que versam sobre o contexto político, social e econômico do século XVI, a biografia de Petrus Ramus (1515 – 1572) e um estudo descritivo do tratado Via regia ad geometriam, escrito e publicado originalmente na Suíça em 1596.
 

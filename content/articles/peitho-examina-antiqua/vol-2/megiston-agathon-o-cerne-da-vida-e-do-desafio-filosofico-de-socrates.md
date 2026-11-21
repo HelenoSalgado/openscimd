@@ -70,7 +70,7 @@ Sócrates rejeita expedientes de fraude e comoção dramática (*apatē*), adota
 
 Sócrates precisou desmantelar preconceitos arraigados desde a encenação das *Nuvens* de Aristófanes (423 a.C.), comédia que o retratara como um sofista inescrupuloso e investigador das coisas celestes e subterrâneas, hábil em transformar o argumento mais fraco no mais forte (*τὸν ἥττω λόγον κρείττω ποιεῖν*). Sócrates declara nunca ter cultivado a física cosmológica nem cobrado honorários pelo ensino[^9]. Reitera não possuir a arte educativa alardeada por mestres como Górgias, Pródico ou Hípias (*Ap.* 19 d – 20 c).
 
-## 3. Em Vez de “Sabedoria”, um Desafiador “Não Saber”...
+## 3. Em Vez de “Sabedoria”, um Desafiador “Não Saber”…
 
 Qual é então a origem das calúnias que o vitimaram? Sócrates explica que o ódio público derivou de uma certa sabedoria (*sophia*) que lhe era própria. Mas de que sabedoria se trata? Trata-se de uma sabedoria puramente humana (*ἀνθρωπίνη σοφία*), em contraste com a sabedoria sobre-humana arrogada pelos sofistas (*Ap.* 20 d–e).
 
@@ -78,15 +78,15 @@ Como prova, evoca o testemunho de Querefonte perante o oráculo de Delfos. Inter
 
 O resultado do inquérito foi desalentador: os governantes presumiam saber o que ignoravam; os poetas compunham por entusiasmo inspirado, sendo incapazes de explicar racionalmente suas próprias obras; e os artífices, dominando sua técnica manual restrita, julgavam-se autorizados a legislar sobre os destinos supremos da existência. Sócrates compreendeu o veredito oracular: a sabedoria divina proclamara que a sabedoria humana vale pouco ou nada, e que o mais sábio é aquele que, como Sócrates, reconhece a sua radical ignorância (*Ap.* 23 a–b).
 
-## 4. Cumpre Viver Filosofando...
+## 4. Cumpre Viver Filosofando…
 
 Desse discernimento nasceu a sua missão religiosa irrevogável: colocado por Deus na cidade para despertar seus concidadãos, ele não recuará de seu posto nem sob a ameaça do cadafalso (*Ap.* 28 d – 29 d). O filósofo não teme a morte, pois temer a morte equivale a presumir saber o que não se sabe:
 
-> “Se me dissésseis: ‘Ó Sócrates, nós te absolvemos, mas com a condição de que não mais percas tempo nessa investigação nem filosofes; se fores apanhado novamente a fazê-lo, morrerás’ — se me libertásseis sob tal condição, eu vos diria: Homens de Atenas, tenho-vos apreço e estima, mas obedecerei antes a Deus do que a vós; e enquanto respirar e tiver forças, não cessarei de filosofar, de admoestar-vos e de exortar qualquer de vós que encontre pelo caminho...” (*Ap.* 29 c–d).
+> “Se me dissésseis: ‘Ó Sócrates, nós te absolvemos, mas com a condição de que não mais percas tempo nessa investigação nem filosofes; se fores apanhado novamente a fazê-lo, morrerás’ — se me libertásseis sob tal condição, eu vos diria: Homens de Atenas, tenho-vos apreço e estima, mas obedecerei antes a Deus do que a vós; e enquanto respirar e tiver forças, não cessarei de filosofar, de admoestar-vos e de exortar qualquer de vós que encontre pelo caminho…” (*Ap.* 29 c–d).
 
 A filosofia revela-se como exigência existencial absoluta: cumpre viver examinando a alma e cuidando da virtude, pois a riqueza não gera a virtude, mas da virtude dimanam os bens públicos e privados (*Ap.* 30 b). Sócrates define-se como um aguilhão divino concedido à pátria: “pois não é fácil encontrar outro cidadão semelhante” (*Ap.* 30 e – 31 a).
 
-## 5. Nenhum Justo Subsistirá na Política...
+## 5. Nenhum Justo Subsistirá na Política…
 
 Sócrates justifica em seguida por que jamais ingressou na carreira política partidária: a voz íntima de seu sinal divino (*daimonion*) sempre o dissuadiu de candidatar-se a cargos públicos (*Ap.* 31 d).
 
@@ -100,7 +100,7 @@ Ele relembra duas ocasiões em que desafiou o arbítrio estatal com perigo da pr
 
 Declarado culpado por pequena margem de votos, cabia a Sócrates propor uma contrapena alternativa à pena de morte solicitada por Meleto. É nesse instante de altíssima solenidade trágica que o filósofo recusa-se a humilhar-se. Reivindica que o Estado lhe assegure o sustento vitalício no Pritaneu, honraria superior à concedida aos vencedores das corridas olímpicas de quadrigas:
 
-> “Que punição, então, convém a um homem pobre e benfeitor, a quem cumpre dispor de tempo livre para vos exortar ao bem? Nada há mais apropriado, atenienses, do que conceder-lhe o sustento público no Pritaneu...” (*Ap.* 36 d).
+> “Que punição, então, convém a um homem pobre e benfeitor, a quem cumpre dispor de tempo livre para vos exortar ao bem? Nada há mais apropriado, atenienses, do que conceder-lhe o sustento público no Pritaneu…” (*Ap.* 36 d).
 
 Diante da perplexidade dos juízes, que encararam a exigência como afronta imperdoável, Sócrates formula o cerne de sua existência na passagem culminante do texto:
 

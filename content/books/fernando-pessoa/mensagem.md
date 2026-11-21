@@ -787,7 +787,7 @@ Que jaz no abismo sob o mar que se ergue?
 Nós, Portugal, o poder ser.  
 Que inquietação do fundo nos soergue?  
 O desejar poder querer.  
-Isto, e o mistério de que a noite é o fausto...  
+Isto, e o mistério de que a noite é o fausto…  
 Mas súbito, onde o vento ruge,  
 O relâmpago, farol de Deus, um hausto  
 Brilha e o mar 'scuro 'struge.  
@@ -851,7 +851,7 @@ Nem o que é mal nem o que é bem.
 (Que ânsia distante perto chora?)  
 Tudo é incerto e derradeiro.  
 Tudo é disperso, nada é inteiro.  
-Ó Portugal, hoje és nevoeiro...  
+Ó Portugal, hoje és nevoeiro…  
 
 É a Hora!  
 

@@ -160,7 +160,7 @@ O ramismo, assim pois, tomado a partir de uma perspectiva teológica e moral, fo
 
 Tudo isso pode ser visto na dura crítica do ministro puritano inglês Robert Parker aos seus correligionários calvinistas, embora a sua obra tenha sido logo reivindicada tanto por presbiterianos como por congregacionalistas. O seu livro póstumo *De politeia ecclesiastica*[^54] tem profundas consequências eclesiológicas e políticas, e nele aparece Ramus (e o ramismo) como uma sorte de calvinismo dissidente de todas as demais correntes:
 
-> *Consitoria seniorium inquit, ex cerebro Calvini, Geneva nata sunt anno Domini 1541. Tam ex Laicis, quam ex ministris coagmentata monstrum, absurdum, infame, ingens, seditionem Gallicarum flabellum et fomentum, non solutum a Catholica Ecclesia ut prophana novitas, rejectum, damnatum, anathamizatum, sed etiam ab aliis Novatoribus et sectariis egregiè exagitatum, a Zanchio contra Calvinum, ab Erasto contra Bezam, a Petro Ramo contra utrumque...*[^55]
+> *Consitoria seniorium inquit, ex cerebro Calvini, Geneva nata sunt anno Domini 1541. Tam ex Laicis, quam ex ministris coagmentata monstrum, absurdum, infame, ingens, seditionem Gallicarum flabellum et fomentum, non solutum a Catholica Ecclesia ut prophana novitas, rejectum, damnatum, anathamizatum, sed etiam ab aliis Novatoribus et sectariis egregiè exagitatum, a Zanchio contra Calvinum, ab Erasto contra Bezam, a Petro Ramo contra utrumque…*[^55]
 
 O ramismo religioso (e político) teve, assim pois, a sua maior projeção entre os puritanos britânicos e dos Países Baixos que emigraram para a América, e que, segundo alguns autores, contribuíram para criar a mentalidade americana[^56]. Daí que haja uma linha de prolongamento do ramismo que ficou ligada, desde então, aos padrões de certo puritanismo americano, e que tenha contribuído a fixar alguns traços que alguns autores contemporâneos[^57] querem rastrear até hoje.
 
@@ -238,7 +238,7 @@ Logo o ramismo foi visto como algo do passado, pois os esquemas hobbesianos e ra
 
 ## O ramismo na historiografia política
 
-Voltemos ao início deste trabalho. Dizíamos ali que boa parte da historiografia contemporânea conectava a obra de Calvino e a dos calvinistas com alguns elementos centrais da teoria política contemporânea: assemblearismo, republicanismo, ideal monarcômaco, direito à resistência, liberdade de consciência...
+Voltemos ao início deste trabalho. Dizíamos ali que boa parte da historiografia contemporânea conectava a obra de Calvino e a dos calvinistas com alguns elementos centrais da teoria política contemporânea: assemblearismo, republicanismo, ideal monarcômaco, direito à resistência, liberdade de consciência…
 
 Dizíamos também que Ramus e o ramismo resultavam incômodos na construção deste relato político, porque não encaixavam nos esquemas prefixados da teoria política do que vem sendo chamado «A Reforma». Até mesmo um livro como *Law and Revolution*, no qual Berman estuda o impacto da Reforma no pensamento jurídico-político moderno — muito ponderado em seus juízos sobre Weber e o calvinismo puritano — mostra um desdém absoluto e explícito em relação a Ramus, atribuindo todas as suas descobertas a Melanchthon[^93]. É certo que se trata de uma obra cujo conteúdo essencial é a história das ideias jurídicas, embora pudessem extrair-se sem maiores problemas algumas conclusões paralelas sobre o impacto de Ramus na história do pensamento político.
 
@@ -484,7 +484,7 @@ Enfim, o ramismo ficou, historiograficamente, nas margens tanto da Reforma, como
 
 [^96]: Kingdon 1990: 41–55. Veja-se especialmente a página 54.
 
-[^97]: Turchetti 2014: 107–149. A citação está na página 148: «*...siamo di fronte a due correnti di pensiero che si richiamano al calvinismo e che si battono per il proprio riconoscimento, nel regno di Francia in particolare: uno per la resistenza, sulla scia di Bèze-Buchanan-Jurieu, l’altro, per la tolleranza, sulla scia di Castellione-Grozio-Bayle. E Calvino? Da qual lato si sarebbe posto?*».
+[^97]: Turchetti 2014: 107–149. A citação está na página 148: «*…siamo di fronte a due correnti di pensiero che si richiamano al calvinismo e che si battono per il proprio riconoscimento, nel regno di Francia in particolare: uno per la resistenza, sulla scia di Bèze-Buchanan-Jurieu, l’altro, per la tolleranza, sulla scia di Castellione-Grozio-Bayle. E Calvino? Da qual lato si sarebbe posto?*».
 
 [^98]: Rivera García 1999.
 
@@ -618,7 +618,7 @@ Ramus, P. 1566. *Dialecticae libri duo*. Parisiis: apud Andream Wechelum.
 
 Ramus, P. 1569b. *Scholarum mathematicarum, libri unus et triginta*. Basileae: Eusebius Episcopius et Nicolai Fratris haeredes.
 
-Ramus, P. 1601. *Aristotelis Politica, à Petro Ramo... latina facta, et dialecticis rerum summis breuiter exposita et illustrata*. Francofurti: Typis Wechelianis apud C. Marnium et heredes I. Aubrij.
+Ramus, P. 1601. *Aristotelis Politica, à Petro Ramo… latina facta, et dialecticis rerum summis breuiter exposita et illustrata*. Francofurti: Typis Wechelianis apud C. Marnium et heredes I. Aubrij.
 
 Rivera García, A. 1999. *Republicanismo calvinista*. Murcia: Res Publica.
 

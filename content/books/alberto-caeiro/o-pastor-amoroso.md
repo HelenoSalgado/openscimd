@@ -18,7 +18,7 @@ categories:
 ## *I — Quando eu não te tinha*
 
 Quando eu não te tinha  
-Amava a Natureza como um monge calmo a Cristo...  
+Amava a Natureza como um monge calmo a Cristo…  
 Agora amo a Natureza  
 Como um monge calmo à Virgem Maria,  
 Religiosamente, a meu modo, como dantes,  
@@ -27,10 +27,10 @@ Mas de outra maneira mais comovida e próxima.
 Vejo melhor os rios quando vou contigo  
 Pelos campos até à beira dos rios;  
 Sentado a teu lado reparando nas nuvens  
-Reparo nelas melhor...  
+Reparo nelas melhor…  
 
-Tu não me tiraste a Natureza...  
-Tu não me mudaste a Natureza...  
+Tu não me tiraste a Natureza…  
+Tu não me mudaste a Natureza…  
 Trouxeste-me a Natureza para ao pé de mim.  
 
 Por tu existires vejo-a melhor, mas a mesma,  
@@ -169,7 +169,7 @@ O pastor amoroso perdeu o cajado,
 E as ovelhas tresmalharam-se pela encosta,  
 E, de tanto pensar, nem tocou a flauta que trouxe para tocar.  
 
-Ninguém lhe apareceu ou desapareceu... Nunca mais encontrou o cajado.  
+Ninguém lhe apareceu ou desapareceu… Nunca mais encontrou o cajado.  
 Outros, praguejando contra ele, recolheram-lhe as ovelhas.  
 Ninguém o tinha amado, afinal.  
 

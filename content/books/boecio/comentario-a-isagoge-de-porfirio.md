@@ -3021,7 +3021,7 @@ Explica três comunidades entre o gênero e o próprio, e cinco diferenças.
 
 *Igualmente também.* A segunda comunidade é que ambos são atribuídos igualmente aos seus sujeitos, isto é, o gênero às espécies e o próprio aos indivíduos. Primeiramente, estabelece esta comunidade. Em segundo lugar, quando diz *com efeito, o homem*, ilustra-a com um exemplo.
 
-*Também é comum.* A terceira comunidade, segundo Porfírio, é que ambos são atribuídos sinonimicamente. Que o gênero é atribuído sinonimicamente já foi dito acima, no cap. 8, parte 8. Quanto ao próprio, porém, alguém poderia legitimamente duvidar se a afirmação de Porfírio é verdadeira, pois a definição do próprio não convém ao sujeito. Por exemplo, o nariz adunco não se define como nariz curvo, mas como curvatura das narinas, segundo Aristóteles, *Refutações Sofísticas*, cap. 31, parte final. O nariz, porém, não pode ser dito «curvatura das narinas». Finalmente, o próprio não se diz do sujeito sinonimicamente, mas paronimicamente, como *δονὴ τὰ γαλακτικὴ γαλακτικός*, «risível» a partir de «risibilidade». Temo que Porfírio tenha sido induzido ao erro pelo que Aristóteles ensina no livro 5 dos *Tópicos*, cap. 4, parte...
+*Também é comum.* A terceira comunidade, segundo Porfírio, é que ambos são atribuídos sinonimicamente. Que o gênero é atribuído sinonimicamente já foi dito acima, no cap. 8, parte 8. Quanto ao próprio, porém, alguém poderia legitimamente duvidar se a afirmação de Porfírio é verdadeira, pois a definição do próprio não convém ao sujeito. Por exemplo, o nariz adunco não se define como nariz curvo, mas como curvatura das narinas, segundo Aristóteles, *Refutações Sofísticas*, cap. 31, parte final. O nariz, porém, não pode ser dito «curvatura das narinas». Finalmente, o próprio não se diz do sujeito sinonimicamente, mas paronimicamente, como *δονὴ τὰ γαλακτικὴ γαλακτικός*, «risível» a partir de «risibilidade». Temo que Porfírio tenha sido induzido ao erro pelo que Aristóteles ensina no livro 5 dos *Tópicos*, cap. 4, parte…
 
 *Diferem, porém.* Expostas as comunidades, acrescenta as diferenças. A primeira diferença é que o gênero é anterior ao próprio.
 
@@ -3129,7 +3129,7 @@ Primeiramente, Porfírio declara a propriedade da diferença, que contém, mas n
 
 *Além disso, a espécie.* A terceira diferença é que a espécie sempre significa ato; o próprio, porém, frequentemente significa aptidão, como também foi dito acima. Primeiramente, estabelece esta diferença. Em segundo lugar, quando diz *com efeito, Sócrates*, acrescenta um exemplo.
 
-*Além disso, aquelas coisas cujas...* A quarta diferença é tomada das definições, pois uma é a definição da espécie e outra, a do próprio.
+*Além disso, aquelas coisas cujas…* A quarta diferença é tomada das definições, pois uma é a definição da espécie e outra, a do próprio.
 
 ### Ao Capítulo XVI
 
@@ -3141,7 +3141,7 @@ Apresenta uma comunidade e distingue a espécie do acidente por meio de quatro d
 
 *Os próprios, porém.* A primeira diferença é que a espécie é atribuída em resposta à pergunta «o que é?», ao passo que o acidente, como foi dito frequentemente, é atribuído em resposta à pergunta «que qualidade é?» ou «em que estado se encontra a coisa?». Diz *naqueles em que há espécie*, isto é, nos indivíduos.
 
-*E cada um...* A segunda diferença é que, em uma substância individual, como Cálias, há uma espécie, como homem, mas há muitos acidentes, tanto separáveis, como movimento e sono, quanto inseparáveis, como o pescoço, a cor azulada dos olhos etc.
+*E cada um…* A segunda diferença é que, em uma substância individual, como Cálias, há uma espécie, como homem, mas há muitos acidentes, tanto separáveis, como movimento e sono, quanto inseparáveis, como o pescoço, a cor azulada dos olhos etc.
 
 *E a espécie.* A terceira diferença é que a espécie é, por natureza, anterior aos acidentes, porque é o sujeito deles; e o sujeito é anterior àquilo que lhe acontece.
 

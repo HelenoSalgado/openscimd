@@ -38,7 +38,7 @@ license: "CC BY 4.0"
 
 Numa manhã de janeiro do ano de 399 a.C., Sócrates, então com setenta anos de idade, dirigia-se à presença do Arconte-Rei (*Archon Basileus*)[^1] a fim de responder à notificação oficial referente à acusação formulada contra ele por Meleto perante as autoridades atenienses. Ao chegar às imediações do Pórtico Real (*Stoa Basileios*), encontrou o adivinho e sacerdote Eutífron, que ali comparecia com o intuito de intentar uma ação judicial de homicídio contra o próprio pai. Ao tomar conhecimento de que Sócrates se encontrava ali na condição de réu, Eutífron expressou de imediato sua perplexidade:
 
-> Tu, ó Sócrates? Mas que acusação é essa? Pois decerto não creio que tenhas acusado outrem perante o Rei! [...] Mas quem te acusa? — Nem eu próprio o conheço bem, Eutífron; parece-me ser um jovem ainda desconhecido; chama-se, contudo, creio eu, Meleto e pertence ao demo de Pitos[^2].
+> Tu, ó Sócrates? Mas que acusação é essa? Pois decerto não creio que tenhas acusado outrem perante o Rei! […] Mas quem te acusa? — Nem eu próprio o conheço bem, Eutífron; parece-me ser um jovem ainda desconhecido; chama-se, contudo, creio eu, Meleto e pertence ao demo de Pitos[^2].
 
 Diante do espanto de Eutífron ao ver que um ancião tão venerável quanto Sócrates estava sendo formalmente processado, o filósofo reagiu com sua habitual serenidade e ironia: “Ele afirma que eu corrompo os jovens. E isso, meu caro amigo, é de fato uma acusação nobre!”
 
@@ -173,6 +173,7 @@ a. **O caso de Leão de Salamina**: A junta dos Trinta convocou Sócrates e mais
 b. **O episódio de Terâmenes no Tholos**: Quando Terâmenes caiu em desgraça perante a facção de Crítias e saltou sobre o altar de Héstia no Tholos clamando pela proteção sagrada contra os sicários, Sócrates e dois de seus companheiros lançaram-se imediatamente sobre o altar para protegê-lo fisicamente. O filósofo cessou a resistência corporal apenas quando o próprio Terâmenes lhe suplicou que recuasse, por considerar inútil o sacrifício (Diodoro Sículo, *Biblioteca Histórica*, XIV, 5, 1–3).
 
 c. **A proibição de ensinar imposta por Crítias e Cáricles**: Crítias e Cáricles, antigos discípulos de Sócrates e líderes da tirania, intimaram o filósofo a calar-se definitivamente em Atenas. Em resposta a essa proibição tirânica, Sócrates indagou-lhes com ironia:
+
 - com cidadãos de qual faixa etária lhe era proibido conversar;
 - se a proibição incidia sobre aquilo que ele falasse erradamente ou corretamente;
 - se lhe seria lícito responder caso alguém o abordasse na rua perguntando onde ficava a residência de Cáricles ou se havia visto por ali o próprio Crítias (Xenofonte, *Memoráveis*, I, 2, 31–38).

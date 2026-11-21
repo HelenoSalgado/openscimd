@@ -108,7 +108,7 @@ ONG, Walter Jackson. **Ramus, method and the decay of dialogue.** Cambridge: Har
 
 RAMUS, Petrus. **Advertissements sur la reforme de l’Université de Paris.** Paris: S. Ed., 1652.
 
-RAMUS, Petrus; FREIG, Johannes Thomas. **P. Rami Professio Regia Hoc Est Septem Artes Liberales in Regia Cathedra Per Ipsum Parisijs Apodictico Docendigenere Propositæ & Per Ioan Thomam Freigium in Tabulas Perpetuas...** Basileia: Sebastianum Henricpetri, 1576.
+RAMUS, Petrus; FREIG, Johannes Thomas. **P. Rami Professio Regia Hoc Est Septem Artes Liberales in Regia Cathedra Per Ipsum Parisijs Apodictico Docendigenere Propositæ & Per Ioan Thomam Freigium in Tabulas Perpetuas…** Basileia: Sebastianum Henricpetri, 1576.
 
 SELLBERG, Erland. Petrus Ramus. In: **Stanford Encyclopedia of Philosophy.** Stanford, EUA: Center for the Study of Language and Information (CSLI), Stanford University, 2016. Disponível em: http://plato.stanford.edu/entries/ramus/. Acesso em: 20 abr. 2018.
 

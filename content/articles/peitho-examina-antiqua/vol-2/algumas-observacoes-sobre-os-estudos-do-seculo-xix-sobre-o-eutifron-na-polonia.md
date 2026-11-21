@@ -40,7 +40,7 @@ Examinemos o teor do texto. Logo na introdução depara-se uma proclamação da 
 
 Concluídas as considerações preliminares, Adamski preconizou um remédio salutar contra semelhante prostração: o regresso aos postulados da reta razão fundados na tradição grega. Argumentava que tais premissas haviam sido insuficientemente apreciadas por seus contemporâneos, desatentos às raízes do racionalismo europeu: «A moderna filosofia jamais poderá voltar as costas a Aristóteles e a Platão, os dois luminares mais fulgurantes que resplandecem da remota Antiguidade» (Adamski 1883/1884: 4585). Atribuía-lhes a elaboração de dois métodos cardeais: a dedução e a indução. Se Aristóteles soubera conjugar ambos com proficiência, a indução deitava raízes no platonismo. E era exatamente o método indutivo que Adamski (1883/1884: 4585) entronizava como o mais excelente: «ele é capaz de introduzir-nos no invisível mundo espiritual, perscrutando a essência a partir dos fenômenos sensíveis; pode desvelar os arcanos da própria Divindade, conduzindo ao reconhecimento de Sua essência através das criaturas que são obra de Suas mãos».
 
-Ademais, assinalava que o instinto, o sentimento interior e a intuição da verdade acham-se intrinsecamente enlaçados à via indutiva: «Este dom da intuição é um *logos* interior, a nascente mais profunda da panlógica; é a palavra de Deus, semeada desde a eternidade [...] e, como Santo Agostinho exprime com palavras profundas, o Cristo interior e o nosso perpétuo mestre» (Adamski 1883/1884: 4586). Por meio desse *logos* inato à condição humana, a racionalidade identifica-se com a sua vocação cristã. Reconhecendo, pois, na indução e na intuição vias eficazes para aceder às verdades mais elevadas, Adamski justificava a eleição do *Eutífron* como modelo exemplar da aplicação daquele método indutivo.
+Ademais, assinalava que o instinto, o sentimento interior e a intuição da verdade acham-se intrinsecamente enlaçados à via indutiva: «Este dom da intuição é um *logos* interior, a nascente mais profunda da panlógica; é a palavra de Deus, semeada desde a eternidade […] e, como Santo Agostinho exprime com palavras profundas, o Cristo interior e o nosso perpétuo mestre» (Adamski 1883/1884: 4586). Por meio desse *logos* inato à condição humana, a racionalidade identifica-se com a sua vocação cristã. Reconhecendo, pois, na indução e na intuição vias eficazes para aceder às verdades mais elevadas, Adamski justificava a eleição do *Eutífron* como modelo exemplar da aplicação daquele método indutivo.
 
 Nas seções imediatas, Adamski procede ao resumo minucioso do diálogo. Em vez de conservar as teonímias helênicas (8 b), opta pelas formas latinas de Júpiter e Saturno. Ao reconstruir a trama e as aporias da discussão, intercala censuras contundentes ao politeísmo e ao panteísmo. Quando Sócrates refuta a tese de Eutífron — segundo a qual o piedoso seria aquilo que apraz a todos os deuses —, evidenciando que as divindades nutrem dissenções recíprocas, Adamski anota: «Ponderemos as consequências alógicas do politeísmo e, por via de consequência, do panteísmo. Se tudo é divino, o universo compõe-se de realidades inconciliáveis; suprimida a clivagem ontológica, o mundo transfigura-se num emaranhado de contradições. É a própria lógica que nos compele a ascender ao Deus único e pessoal» (Adamski 1883/1884: 4594).
 
@@ -92,13 +92,14 @@ Em remate: os dilemas suscitados pelo *Eutífron* na Polônia oitocentista ilust
 
 [^3]: O Padre Stefan Pawlicki (1839–1915) nasceu em Gdańsk (Danzig) e obteve o doutorado na Universidade de Wrocław (Breslau) com tese consagrada à filosofia de Schopenhauer. Após a ordenação sacerdotal e período docente em Roma, fixou-se em Cracóvia, onde lecionou filosofia e teologia na Universidade Jaguelônica até o fim da vida.
 
+
 ### Notas Editoriais
 
 [^ne1]: O estudo original do autor foi subsidiado por recursos de fomento à pesquisa acadêmica polonesa no triênio 2008–2010 (Projeto nº NN 101 116435), com agradecimento consignado a Una Maclean-Hanćkowiak pela revisão do original inglês. Tradução e adaptação para o português pela equipe editorial.
 
 ---
 
-## Bibliografia
+### Bibliografia
 
 * ADAMSKI, J. Euthyfron, pierwszy dialog Platona, rozebrany i oceniony w zastosowaniu do nowego ruchu myśli. *Warta*, v. 11, fasc. 483–486, 488, p. 4577–4578, 4585–4587, 4593–4594, 4604–4606, 4617–4619, 1883/1884.
 * JEZIERSKI, A. S. *«Eutyfron» czyli o pobożności*. Tarnopol: Nakładem Funduszu Naukowego, 1890.

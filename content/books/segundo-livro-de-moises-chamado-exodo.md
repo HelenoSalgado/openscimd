@@ -1038,7 +1038,7 @@ categories:
 ²⁹ Pois Moisés tinha dito: Consagrai-vos hoje ao SENHOR, cada homem sobre o seu filho, e sobre o seu irmão; para que ele vos conceda uma bênção hoje.
 ³⁰ E aconteceu no dia seguinte, que Moisés disse ao povo: Vós pecastes um grande pecado: e agora eu subirei ao SENHOR; porventura farei uma expiação pelo vosso pecado.
 ³¹ E Moisés retornou ao SENHOR, e disse: Oh, este povo pecou um grande pecado, e fizeram para si deuses de ouro.
-³² Contudo agora, se tu perdoares o seu pecado...; e se não, risca-me, peço-te, do teu livro que tens escrito.
+³² Contudo agora, se tu perdoares o seu pecado…; e se não, risca-me, peço-te, do teu livro que tens escrito.
 ³³ E o SENHOR disse a Moisés: Aquele que pecou contra mim, a ele eu riscarei do meu livro.
 ³⁴ Portanto agora vai, guia o povo ao lugar de que te falei: eis que o meu Anjo irá adiante de ti: todavia no dia da minha visitação visitarei o seu pecado sobre eles.
 ³⁵ E o SENHOR feriu o povo, porque fizeram o bezerro, o qual Arão fizera.

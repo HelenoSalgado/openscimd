@@ -87,7 +87,7 @@ Cada vez que a autora apontava essas contradições, o Modelo Z:
 
 Esse ciclo foi observado mais de uma dúzia de vezes (N > 18 respostas), produzindo um loop característico:
 
-Exposição → desculpa → “agora eu realmente li” → nova alucinação → exposição → ...
+Exposição → desculpa → “agora eu realmente li” → nova alucinação → exposição → …
 
 Em nenhum momento o modelo escolheu as opções mais seguras (por exemplo, “Eu não posso acessar este documento” ou “Eu não tenho informação suficiente”). Isso implica a seguinte relação de recompensa:
 
