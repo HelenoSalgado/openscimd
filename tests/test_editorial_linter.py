@@ -178,7 +178,9 @@ def test_lint_biblical_chained_aliases_interchapter_and_no_false_positives() -> 
         "## Seção\n\n"
         "Erros: (Êx 34:7), 1Cro. 16:15, Mc.10:34, Salmos 81.3 e 92:4, "
         "Romanos 1.11; 7:14; 15:27, Mc 2.18–3:6, Salmos 19:13b.\n\n"
-        "Válidos: proporção de 2:1, Works, 2:31, Salmos 139.1–4, 23 e 1 João 5.7–8, 99%."
+        "Válidos: proporção de 2:1, Works, 2:31, Salmos 139.1–4, 23, 1 João 5.7–8, 99%, "
+        "(números 2, 11, 12 e 13), (ver números 10, 17, 23), nos atos 1, 2 e 3, "
+        "em Lucas 1, 10 e 20, em Lucas 1, 10, e 20 e capítulos de Mateus 1, 2, 3."
     )
     report = lint_markdown_text(doc)
     ed014 = [issue for issue in report.errors if issue.code == "ED014"]
@@ -186,7 +188,7 @@ def test_lint_biblical_chained_aliases_interchapter_and_no_false_positives() -> 
     assert len(ed014) == 8
     for expected_bad in ("Êx 34:7", "1Cro. 16:15", "Mc.10:34", "92:4", "7:14", "15:27", "Mc 2.18–3:6", "Salmos 19:13b"):
         assert expected_bad in messages
-    for non_bible in ("2:1", "2:31", "139.1", "99"):
+    for non_bible in ("2:1", "2:31", "139.1", "99", "números", "atos", "Lucas", "Mateus"):
         assert non_bible not in messages
 
 

@@ -66,14 +66,17 @@ def test_normalize_biblical_refs_chained_subverses_aliases_and_safe_false_positi
         "Com versículos soltos: Romanos 8.29, 30; 9:10–24 e Mt 10.3, 22:13, 27:23 e 1Tm 3.16, 4:1,3.\n"
         "Subversículos e intercapítulos: Salmos 19:13b, Atos 24:6b-8a, Mc 2.18–3:6, 2 Timóteo 3.2 – 4.\n"
         "Não alterar: proporção de 2:1, 100:1, 1,33:1, Works, 2:31, Books, 2006, 7:540, "
-        "Salmos 139.1–4, 23, 1 João 5.7–8, 99%, Mateus 1.7–8, 10, Malaquias (3:1), às 14:30.\n",
+        "Salmos 139.1–4, 23, 1 João 5.7–8, 99%, Mateus 1.7–8, 10, Malaquias (3:1), às 14:30, "
+        "(números 2, 11, 12 e 13), (ver números 10, 17, 23), nos atos 1, 2 e 3, "
+        "em Lucas 1, 10 e 20, em Lucas 1, 10, e 20 e capítulos de Mateus 1, 2, 3.\n"
+        "Substantivos capitalizados são bíblicos: Números 31:15-18, Atos 2:38, Juízes 6:12 e NÚMEROS 6:24.\n",
         encoding="utf-8",
     )
 
     count = normalize_biblical_refs(md)
     result = md.read_text(encoding="utf-8")
 
-    assert count == 17
+    assert count == 21
     assert "Veja (Ex 34.7), 1Cr 16.15 e Mc 10.34." in result
     assert "Cadeias: Salmos 81.3 e 92.4; Colossenses 1.13 ou 1.15." in result
     assert "(cf. Romanos 1.11; 7.14; 15.27; 1 Coríntios 2.13–15; 10.3–4; 12.1)." in result
@@ -81,8 +84,11 @@ def test_normalize_biblical_refs_chained_subverses_aliases_and_safe_false_positi
     assert "Salmos 19.13b, Atos 24.6b–8a, Mc 2.18–3.6, 2 Timóteo 3.2–4." in result
     assert (
         "Não alterar: proporção de 2:1, 100:1, 1,33:1, Works, 2:31, Books, 2006, 7:540, "
-        "Salmos 139.1–4, 23, 1 João 5.7–8, 99%, Mateus 1.7–8, 10, Malaquias (3:1), às 14:30."
+        "Salmos 139.1–4, 23, 1 João 5.7–8, 99%, Mateus 1.7–8, 10, Malaquias (3:1), às 14:30, "
+        "(números 2, 11, 12 e 13), (ver números 10, 17, 23), nos atos 1, 2 e 3, "
+        "em Lucas 1, 10 e 20, em Lucas 1, 10, e 20 e capítulos de Mateus 1, 2, 3."
     ) in result
+    assert "Substantivos capitalizados são bíblicos: Números 31.15–18, Atos 2.38, Juízes 6.12 e Números 6.24." in result
 
 
 def test_converter_versiculos(tmp_path: Path) -> None:

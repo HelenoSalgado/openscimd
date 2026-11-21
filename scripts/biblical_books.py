@@ -216,6 +216,22 @@ _VALID_CANONICAL_TOKENS: set[str] = set()
 _CASE_INSENSITIVE_PATTERNS: list[str] = []
 _CASE_SENSITIVE_PATTERNS: list[str] = []
 
+# Nomes por extenso que coincidem com substantivos comuns em português exigem maiúscula inicial
+_CASE_SENSITIVE_FULL_KEYS: set[str] = {
+    "números",
+    "numeros",
+    "atos",
+    "juízes",
+    "juizes",
+    "provérbios",
+    "proverbios",
+    "lamentações",
+    "lamentacoes",
+    "cânticos",
+    "canticos",
+    "cantares",
+}
+
 for _canon_abbr, _canon_full_default, _valid_fulls, _full_aliases, _abbrev_aliases in _BOOK_SPECS:
     _VALID_CANONICAL_TOKENS.add(_canon_abbr)
     for _vf in _valid_fulls:
@@ -236,10 +252,11 @@ for _canon_abbr, _canon_full_default, _valid_fulls, _full_aliases, _abbrev_alias
         else:
             _FULL_CANONICAL_MAP[_key] = _canon_full_default
 
-        # "Jó" curto (2 letras) requer J maiúsculo para evitar falsos positivos em prosa
-        if len(re.sub(r"\s+", "", _fa)) <= 2:
-            _CASE_SENSITIVE_PATTERNS.append(re.escape(_fa))
-            _CASE_SENSITIVE_PATTERNS.append(re.escape(_fa.upper()))
+        # "Jó" (2 letras) e substantivos comuns ("Números", "Atos", ...) exigem inicial maiúscula
+        if len(re.sub(r"\s+", "", _fa)) <= 2 or _key in _CASE_SENSITIVE_FULL_KEYS:
+            _CASE_SENSITIVE_PATTERNS.append(_alias_to_regex(_fa))
+            if _fa.upper() != _fa:
+                _CASE_SENSITIVE_PATTERNS.append(_alias_to_regex(_fa.upper()))
         else:
             _CASE_INSENSITIVE_PATTERNS.append(_alias_to_regex(_fa))
 
@@ -282,6 +299,19 @@ _CHAIN_CONTINUATION_RE = re.compile(
     rf"(?:[ \t]*(?P<dash>[-–])[ \t]*(?:(?P<chap_end>\d+)[ \t]*(?P<sep_end>[:.])[ \t]*)?(?P<verse_end>{_VERSE_PART}))?"
     rf")\b"
 )
+
+_CHAPTER_ENUM_FOLLOW_RE = re.compile(
+    r"(?:[ \t]*,[ \t]*e|[ \t]+e|[ \t]*,)[ \t]*\d+(?![ \t]*[:.][ \t]*\d)\b"
+)
+
+
+def _is_comma_chapter_enumeration(masked_text: str, match: re.Match[str]) -> bool:
+    """Evita corromper listas de capítulos como 'Lucas 1, 10 e 20' em 'Lucas 1.10 e 20'."""
+    return (
+        match.group("sep") == ","
+        and match.group("dash") is None
+        and _CHAPTER_ENUM_FOLLOW_RE.match(masked_text, match.end()) is not None
+    )
 
 
 @dataclass(frozen=True)
@@ -359,6 +389,8 @@ def iter_biblical_reference_matches(
 
     narrative_re = build_narrative_biblical_regex()
     for m in narrative_re.finditer(masked_text):
+        if _is_comma_chapter_enumeration(masked_text, m):
+            continue
         span = (m.start(), m.end())
         anchor_spans.append(span)
         anchors.append(m)
@@ -376,6 +408,8 @@ def iter_biblical_reference_matches(
 
     explicit_re = build_biblical_reference_regex()
     for m in explicit_re.finditer(masked_text):
+        if _is_comma_chapter_enumeration(masked_text, m):
+            continue
         if _overlaps_any(m.start(), m.end(), anchor_spans):
             continue
         span = (m.start(), m.end())
