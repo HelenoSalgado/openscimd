@@ -247,28 +247,32 @@ class TestInjectCoverText:
         genérico e target_slug é passado explicitamente para inject_cover_text.
         """
         base_dir = tmp_path
-        originals = base_dir / "assets" / "covers" / "originals"
-        originals.mkdir(parents=True)
+        covers_dir = base_dir / "assets" / "covers"
+        covers_dir.mkdir(parents=True)
         content_books = base_dir / "content" / "books"
         content_books.mkdir(parents=True)
 
-        # Imagem sintética gerada por subagente com nome genérico
-        slug = "opusculos-espirituais"
+        # Imagem sintética gerada por subagente com nome genérico e arquivo local de manipulação ao lado
+        slug = "obra-espiritual"
         raw_img = tmp_path / "arte_subagente.png"
         Image.new("RGB", (800, 1200), color=(10, 10, 20)).save(raw_img)
+        local_work_png = covers_dir / f"{slug}.png"
+        local_work_png.write_bytes(b"manipulacao-local")
 
         md = content_books / f"{slug}.md"
         md.write_text(
-            "---\ntitle: \"Opúsculos Espirituais\"\nauthor: Hugo de São Vítor\ndate: \"c. 1130 d.C.\"\n---\n",
+            "---\ntitle: \"Obra Espiritual\"\nauthor: Hugo de São Vítor\ndate: \"c. 1130 d.C.\"\n---\n",
             encoding="utf-8",
         )
 
         dest = inject_cover_text(str(base_dir), str(raw_img), target_slug=slug)
 
-        output = originals / f"{slug}.png"
+        output = covers_dir / f"{slug}.webp"
         assert dest == output
-        assert output.exists(), "A capa final deve ser gerada em originals/"
+        assert output.exists(), "A capa final deve ser gerada diretamente em assets/covers/<slug>.webp"
+        assert local_work_png.exists(), "Extensões locais auxiliares em assets/covers/ não podem ser removidas"
         with Image.open(output) as img:
+            assert img.format == "WEBP"
             assert img.size == (1696, 2528), "Deve ter a resolução canônica"
             assert img.mode == "RGB"
             # Verifica renderização da data histórica na base inferior (zona y ~ 2300–2440)
@@ -280,8 +284,8 @@ class TestInjectCoverText:
     def test_composicao_artigo(self, tmp_path):
         """Verifica que artigos são compostos sem erro e com data no rodapé."""
         base_dir = tmp_path
-        originals = base_dir / "assets" / "covers" / "originals"
-        originals.mkdir(parents=True)
+        covers_dir = base_dir / "assets" / "covers"
+        covers_dir.mkdir(parents=True)
         content_articles = base_dir / "content" / "articles"
         content_articles.mkdir(parents=True)
 
@@ -297,18 +301,20 @@ class TestInjectCoverText:
 
         dest = inject_cover_text(str(base_dir), str(raw_img), target_slug=slug)
 
-        output = originals / f"{slug}.png"
+        output = covers_dir / f"{slug}.webp"
         assert dest == output
         assert output.exists()
         with Image.open(output) as img:
+            assert img.format == "WEBP"
             assert img.size == (1696, 2528)
 
-    def test_composicao_custom_text(self, tmp_path):
-        """Testa modo de texto customizado sem Markdown."""
+    def test_composicao_custom_text_preserva_arquivo_manipulacao_local(self, tmp_path):
+        """Testa modo de texto customizado sem Markdown e preservação de extensão auxiliar em assets/covers/."""
         base_dir = tmp_path
-        (base_dir / "assets" / "covers" / "originals").mkdir(parents=True)
+        covers_dir = base_dir / "assets" / "covers"
+        covers_dir.mkdir(parents=True)
 
-        raw_img = tmp_path / "raw_test.png"
+        raw_img = covers_dir / "raw_test.png"
         Image.new("RGB", (800, 1200), color=(20, 20, 30)).save(raw_img)
 
         dest = inject_cover_text(
@@ -318,9 +324,10 @@ class TestInjectCoverText:
             target_slug="raw_test",
         )
 
-        output = base_dir / "assets" / "covers" / "originals" / "raw_test.png"
+        output = covers_dir / "raw_test.webp"
         assert dest == output
         assert output.exists()
+        assert raw_img.exists()
 
     def test_imagem_nao_encontrada_nao_lanca_excecao(self, tmp_path):
         """Deve apenas logar o erro e retornar None, nunca lançar exceção não tratada."""

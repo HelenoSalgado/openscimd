@@ -217,9 +217,11 @@ def test_validate_single_file_checks_markdown_figures_and_blocks_legacy_paths(tm
     figures_dir = tmp_path / "assets" / "images" / "figures"
     figures_dir.mkdir(parents=True)
     (figures_dir / "fig-1.png").write_bytes(b"fake-png")
-    covers_dir = tmp_path / "assets" / "covers" / "mobile"
+    covers_dir = tmp_path / "assets" / "covers"
     covers_dir.mkdir(parents=True)
     (covers_dir / "obra-com-figuras.webp").write_bytes(b"fake-webp")
+    # Extensões locais de manipulação (ex: .png) ao lado do .webp devem ser aceitas sem alertas
+    (covers_dir / "obra-com-figuras.png").write_bytes(b"fake-local-png")
 
     md_path = book_dir / "obra-com-figuras.md"
     frontmatter = (
@@ -264,4 +266,11 @@ def test_validate_single_file_checks_markdown_figures_and_blocks_legacy_paths(tm
     res_legacy = validate_single_file(md_path, base_dir=tmp_path, check_editorial=False, check_assets=True)
     assert not res_legacy.is_valid()
     assert len(res_legacy.errors) == 2
+
+    # 4. Se existir apenas PNG local sem o .webp canônico, deve emitir alerta de capa ausente
+    (covers_dir / "obra-com-figuras.webp").unlink()
+    md_path.write_text(frontmatter + "![Figura válida](/assets/images/figures/fig-1.png)\n", encoding="utf-8")
+    res_missing_webp = validate_single_file(md_path, base_dir=tmp_path, check_editorial=False, check_assets=True)
+    assert res_missing_webp.is_valid()
+    assert any("assets/covers/obra-com-figuras.webp" in warn for warn in res_missing_webp.warnings)
     assert all("/assets/images/figures/" in err for err in res_legacy.errors)

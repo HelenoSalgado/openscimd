@@ -130,15 +130,12 @@ def find_cover_image(book_path: Path, base_dir: Optional[Path] = None) -> Option
         base_dir = book_path.resolve().parents[2] if len(book_path.resolve().parents) >= 3 else Path.cwd()
 
     stem = book_path.stem
+    covers_dir = base_dir / "assets" / "covers"
     candidates = [
-        base_dir / "assets" / "covers" / "originals" / f"{stem}.png",
-        base_dir / "assets" / "covers" / "originals" / f"{stem}.jpg",
-        base_dir / "assets" / "covers" / "originals" / f"{stem}.jpeg",
-        base_dir / "assets" / "covers" / "desktop" / f"{stem}.png",
-        base_dir / "assets" / "covers" / "desktop" / f"{stem}.jpg",
-        base_dir / "assets" / "covers" / "desktop" / f"{stem}.jpeg",
-        base_dir / "assets" / "covers" / "originals" / f"{stem}.webp",
-        base_dir / "assets" / "covers" / "desktop" / f"{stem}.webp",
+        covers_dir / f"{stem}.webp",
+        covers_dir / f"{stem}.png",
+        covers_dir / f"{stem}.jpg",
+        covers_dir / f"{stem}.jpeg",
     ]
 
     for candidate in candidates:
@@ -178,7 +175,7 @@ def _ensure_epub_compatible_image(
         fallback_dirs = [
             project_root / "assets" / "images" / "figures",
             project_root / "assets" / "images",
-            project_root / "assets" / "covers" / "originals",
+            project_root / "assets" / "covers",
         ]
         for folder in fallback_dirs:
             for ext in (".png", ".jpg", ".jpeg"):

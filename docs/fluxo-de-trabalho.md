@@ -128,14 +128,13 @@ uv run openscimd lint "data/review/.../slug.md" --source "data/raw/original.pdf"
 ## 🚀 Passo 5 — Capas, Fontes, Promoção e Indexação
 
 1. **Fonte Original (`assets/sources/`)**: salve o arquivo original como `assets/sources/<slug>.pdf` (ou `<slug>.html` para hubs de múltiplas fontes, conforme [`docs/readers/leiame.md`](readers/leiame.md)).
-2. **Imagem de Capa (`assets/covers/`)**: gere a arte de fundo 2:3 sem texto via subagente multimodal (`image-generator`) seguindo os Design Systems, componha a tipografia editorial canônica e compile as saídas WebP:
+2. **Imagem de Capa (`assets/covers/`)**: gere a arte de fundo 2:3 sem texto via subagente multimodal (`image-generator`) seguindo os Design Systems e componha a tipografia editorial canônica diretamente em `assets/covers/<slug>.webp` (WebP q100):
    - Artigos: [`.agents/editorial/design-system-capas-artigos.md`](../.agents/editorial/design-system-capas-artigos.md)
    - Livros: [`.agents/editorial/design-system-capas-livros.md`](../.agents/editorial/design-system-capas-livros.md)
    ```bash
-   uv run openscimd compose-cover <caminho-da-arte> --slug <slug> --build
-   # Ou separadamente:
+   uv run openscimd compose-cover <caminho-da-arte> --slug <slug>
+   # Ou pelo alias equivalente:
    uv run openscimd inject-text <caminho-da-arte> --slug <slug>
-   uv run openscimd build-covers --target <slug>.png --force
    ```
 3. **Promover e Indexar**:
    ```bash

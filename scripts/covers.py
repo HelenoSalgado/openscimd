@@ -8,11 +8,12 @@ Estilo visual:
   - Data (quando aplicável) centralizada na base da capa.
 
 Resolução canônica:
-  1696 × 2528 px (proporção ~ 2:3).
-Saídas responsivas (WebP):
+  1696 × 2528 px (proporção ~ 2:3), salva diretamente em assets/covers/<slug>.webp (WebP qualidade 100).
+Variantes responsivas (geradas em tempo de build pela leia-me/api):
+  - thumb:   360 px de largura
+  - mobile:  640 px de largura
+  - tablet:  1080 px de largura
   - desktop: 1696 px de largura
-  - tablet:  1200 px de largura
-  - mobile:  1080 px de largura
 """
 
 import os
@@ -36,13 +37,6 @@ COLOR_SHADOW   = (0, 0, 0, 220)        # Sombra suave
 # ── Tamanhos de fonte de referência ───────────────────────────────────────────
 TITLE_FONT_MAX = 175
 TITLE_FONT_MIN = 72
-
-# ── Tamanhos de saída por tela ─────────────────────────────────────────────────
-SCREEN_SIZES = {
-    "mobile" : 1080,
-    "tablet" : 1200,
-    "desktop": 1696,
-}
 
 # ── Caminhos de fonte (Cormorant Garamond, com fallbacks do sistema) ──────────
 FONT_DIR = Path("/usr/share/fonts/TTF")
@@ -457,100 +451,21 @@ def inject_cover_text(
     final_img = Image.alpha_composite(bg_img, shadow_blurred)
     final_img = Image.alpha_composite(final_img, overlay).convert("RGB")
 
-    # Salva na pasta originals/
-    originals_dir = Path(base_dir) / "assets" / "covers" / "originals"
-    originals_dir.mkdir(parents=True, exist_ok=True)
-    dest_path = originals_dir / f"{base_name}.png"
-    final_img.save(dest_path, format="PNG", quality=95)
+    # Salva diretamente como capa canônica em WebP (qualidade 100)
+    covers_dir = Path(base_dir) / "assets" / "covers"
+    covers_dir.mkdir(parents=True, exist_ok=True)
+    dest_path = covers_dir / f"{base_name}.webp"
+    final_img.save(dest_path, format="WEBP", quality=100, method=6)
     print(f"✅ Capa gerada: {dest_path}")
 
-    # Remove imagem temporária se aplicável
+    # Remove apenas artefatos temporários internos (.tmp_raw_*), preservando extensões de manipulação local
     if (
         img_path != dest_path
         and img_path.exists()
-        and img_path.parent == Path(base_dir) / "assets" / "covers"
+        and img_path.parent == covers_dir
+        and img_path.name.startswith(".tmp_raw_")
     ):
         img_path.unlink()
         print(f"🧹 Temporário removido: {img_path.name}")
 
     return dest_path
-
-
-# ══════════════════════════════════════════════════════════════════════════════
-# Conversão e Redimensionamento Responsivo
-# ══════════════════════════════════════════════════════════════════════════════
-
-def _should_convert(original_path: Path, covers_dir: Path, force: bool = False) -> bool:
-    if force:
-        return True
-    output_name = f"{original_path.stem}.webp"
-    orig_mtime = original_path.stat().st_mtime
-    for size_name in SCREEN_SIZES:
-        dest = covers_dir / size_name / output_name
-        if not dest.exists() or dest.stat().st_mtime < orig_mtime:
-            return True
-    return False
-
-
-def convert_covers(base_dir: str, target_file: str = None, force: bool = False) -> None:
-    covers_dir    = Path(base_dir) / "assets" / "covers"
-    originals_dir = covers_dir / "originals"
-    originals_dir.mkdir(parents=True, exist_ok=True)
-
-    for size_name in SCREEN_SIZES:
-        (covers_dir / size_name).mkdir(parents=True, exist_ok=True)
-
-    print(f"🖼️  Iniciando conversão de capas em: {covers_dir}\n")
-
-    files: list[Path] = []
-    if target_file:
-        target_path = Path(target_file)
-        name = target_path.name
-        if (originals_dir / name).exists():
-            files = [originals_dir / name]
-        elif target_path.exists() and target_path.is_file():
-            files = [target_path]
-        else:
-            stem = target_path.stem
-            for ext in (".png", ".jpg", ".jpeg", ".webp"):
-                candidate = originals_dir / f"{stem}{ext}"
-                if candidate.exists():
-                    files = [candidate]
-                    break
-            if not files:
-                print(f"❌ Arquivo não encontrado: {target_file}")
-                return
-    else:
-        valid_exts = {".png", ".jpg", ".jpeg", ".webp"}
-        files = [f for f in originals_dir.iterdir() if f.is_file() and f.suffix.lower() in valid_exts]
-
-    processed = 0
-    skipped   = 0
-
-    for f in sorted(files):
-        output_name = f"{f.stem}.webp"
-
-        if not _should_convert(f, covers_dir, force=force):
-            skipped += 1
-            continue
-
-        print(f"⏳ Processando: {f.name}")
-        try:
-            with Image.open(f) as img:
-                img_rgb = img.convert("RGB")
-                orig_w, orig_h = img_rgb.size
-                aspect = orig_h / orig_w
-
-                for size_name, target_w in SCREEN_SIZES.items():
-                    target_h   = round(target_w * aspect)
-                    dest_file  = covers_dir / size_name / output_name
-                    resized    = img_rgb.resize((target_w, target_h), Image.Resampling.LANCZOS)
-                    resized.info["dpi"] = TARGET_DPI
-                    resized.save(dest_file, format="WEBP", quality=85)
-                    print(f"   ✅ {size_name} ({target_w}×{target_h}px) → covers/{size_name}/{output_name}")
-
-            processed += 1
-        except Exception as exc:
-            print(f"   ❌ Erro ao processar {f.name}: {exc}")
-
-    print(f"\n🎉 Concluído: {processed} processadas, {skipped} ignoradas.")

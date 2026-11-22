@@ -87,10 +87,23 @@ Nos documentos Markdown em `content/`, as figuras internas apontam diretamente p
 
 Ao renderizar a imagem para o usuário, o leitor multiplataforma e o cliente Web anexam o parâmetro `?size=<variante>` de acordo com a largura disponível:
 
-| Breakpoint (`dp` / `px`) | Parâmetro enviado à API | Largura gerada na API (`sharp` WebP q85) |
+| Breakpoint (`dp` / `px`) | Parâmetro enviado à API | Largura gerada na API (`sharp` WebP q100) |
 | :--- | :--- | :--- |
 | `< 600` | `?size=mobile` | `480px` |
 | `600..959` | `?size=tablet` | `768px` |
 | `>= 960` | `?size=desktop` | `1200px` |
 
-Capas (`/assets/covers/`), avatares (`/assets/authors/`) e fontes primárias (`/assets/sources/`) permanecem preservados sem acréscimo de `?size=`.
+---
+
+## 5. Resolução Responsiva de Capas (`assets/covers/`)
+
+O catálogo (`index-books.json` e `index-articles.json`) expõe a URL canônica `/assets/covers/<slug>.webp`. Ao renderizar capas, os clientes anexam `?size=<variante>` conforme o contexto visual (quando omitido, a API serve `mobile`):
+
+| Contexto visual | Parâmetro enviado à API | Largura gerada na API (`sharp` WebP q100) |
+| :--- | :--- | :--- |
+| Miniaturas de listagem / cards | `?size=thumb` | `360px` |
+| Tela de detalhes, download offline e OG | `?size=mobile` *(padrão)* | `640px` |
+| Splash de leitura e Lightbox estreito (`< 960px`) | `?size=tablet` | `1080px` |
+| Lightbox Desktop em tela cheia | `?size=desktop` | `1696px` |
+
+Avatares (`/assets/authors/`) e fontes primárias (`/assets/sources/`) permanecem preservados sem acréscimo de `?size=`.

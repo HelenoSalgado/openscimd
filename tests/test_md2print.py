@@ -79,17 +79,17 @@ Desenvolvimento do pensamento e da justiça.
     )
 
     # Capa
-    cover_dir = project_root / "assets" / "covers" / "originals"
+    cover_dir = project_root / "assets" / "covers"
     cover_dir.mkdir(parents=True)
-    cover_img = cover_dir / "obra.png"
-    # Copiar uma imagem PNG válida
-    real_cover = Path("assets/covers/originals/apologia-de-socrates.png")
+    cover_img = cover_dir / "obra.webp"
+    # Copiar uma imagem WebP válida
+    real_cover = Path("assets/covers/apologia-de-socrates.webp")
     if real_cover.exists():
         cover_img.write_bytes(real_cover.read_bytes())
     else:
         from PIL import Image
         im = Image.new("RGB", (400, 600), color="blue")
-        im.save(str(cover_img), format="PNG")
+        im.save(str(cover_img), format="WEBP")
 
     # Compilar Miolo
     out_interior = project_root / "dist" / "obra-interior.pdf"

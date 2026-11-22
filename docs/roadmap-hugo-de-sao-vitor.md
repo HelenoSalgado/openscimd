@@ -87,6 +87,6 @@ Conforme deliberação editorial, os opúsculos e o estudo introdutório foram o
 
 1. **Extração & Conversão**: `data/raw/cristianismo.org.br/` -> `data/draft/hugo-de-sao-vitor/<slug>.md`
 2. **Mesa de Revisão & Curadoria**: `data/review/hugo-de-sao-vitor/<slug>.md` (Normalização, Frontmatter, Aparato de Notas).
-3. **Publicação & Capas**: `content/books/hugo-de-sao-vitor/<slug>.md` + `assets/covers/originals/<slug>.png`
+3. **Publicação & Capas**: `content/books/hugo-de-sao-vitor/<slug>.md` + `assets/covers/<slug>.webp`
 4. **Fonte Original Redirecionada**: `assets/data/raw/<slug>.html`
 5. **Catálogo Global**: Atualização de `index-books.json` e validação com `uv run openscimd validate`.

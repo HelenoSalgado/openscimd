@@ -161,17 +161,18 @@ def test_cli_compose_cover_with_slug_and_build(tmp_path: Path, monkeypatch: pyte
     raw_img = tmp_path / "arte_subagente_123.png"
     Image.new("RGB", (848, 1264), color=(15, 22, 36)).save(raw_img)
 
-    res = runner.invoke(app, ["compose-cover", str(raw_img), "--slug", slug, "--build"])
+    res = runner.invoke(app, ["compose-cover", str(raw_img), "--slug", slug])
     assert res.exit_code == 0
     assert raw_img.exists()
 
-    orig_png = tmp_path / "assets" / "covers" / "originals" / f"{slug}.png"
-    assert orig_png.is_file()
-    with Image.open(orig_png) as img:
+    canonical_webp = tmp_path / "assets" / "covers" / f"{slug}.webp"
+    assert canonical_webp.is_file()
+    with Image.open(canonical_webp) as img:
+        assert img.format == "WEBP"
         assert img.size == (1696, 2528)
-
-    for variant in ("desktop", "tablet", "mobile"):
-        assert (tmp_path / "assets" / "covers" / variant / f"{slug}.webp").is_file()
 
     res_missing = runner.invoke(app, ["compose-cover", str(tmp_path / "nao-existe.png"), "--slug", slug])
     assert res_missing.exit_code != 0
+
+    res_removed_build_covers = runner.invoke(app, ["build-covers"])
+    assert res_removed_build_covers.exit_code != 0

@@ -7,7 +7,6 @@
     "cSpell.autocorrect": true,
     "cSpell.useGitignore": false,
     "files.exclude": {
-        "assets/covers/originals": false,
         "artfacts-saloppdf": true,
         ".venv": true,
         "legacy_scripts": true,

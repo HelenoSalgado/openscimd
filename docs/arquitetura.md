@@ -26,7 +26,7 @@ openscimd/
 │   ├── catalog-registry.json        # Ledger append-only de IDs imutáveis (`art_XXX`/`book_XXX`)
 │   └── openscimd_rag.sqlite         # Banco vetorial/textual SQLite FTS5 (BM25)
 ├── assets/
-│   ├── covers/{originals,desktop,tablet,mobile}/  # Capas 2:3 em PNG e WebP responsivo
+│   ├── covers/                      # Capas canônicas 2:3 em WebP q100 (variantes thumb/mobile/tablet/desktop via API)
 │   ├── images/figures/              # Figuras internas originais (redimensionamento WebP via pipeline da API)
 │   └── sources/                     # Fontes primárias públicas (PDF ou Hub HTML)
 ├── scripts/                         # Módulos Python da CLI e regras de negócio
@@ -75,7 +75,7 @@ Para garantir que IDs (`art_001`, `book_001`) consumidos pelo leitor **LeiaME** 
 - [`validator.py`](../scripts/validator.py) unifica a verificação de metadados YAML com o linter no comando `uv run openscimd validate --file ...` e bloqueia promoções inválidas em `promote`.
 
 ### 3. Exportação, Capas, Figuras e RAG
-- **Capas**: arte de fundo 2:3 gerada por subagente multimodal; `compose-cover` (`inject-text`) e `build-covers` aplicam a tipografia canônica e produzem variantes WebP responsivas (`1696×2528`, `1200×1789`, `1080×1610`).
+- **Capas**: arte de fundo 2:3 gerada por subagente multimodal; `compose-cover` (`inject-text`) aplica a tipografia canônica e salva a matriz única em `assets/covers/<slug>.webp` (`1696×2528 px`, WebP qualidade 100). Durante o build da `leia-me/api`, o pipeline com `sharp` gera as variantes WebP q100 (`thumb` 360px, `mobile` 640px, `tablet` 1080px, `desktop` 1696px) servidas via `?size=`. Extensões auxiliares de manipulação local (`.png`, `.jpg`) podem coexistir em `assets/covers/` e são ignoradas pelo `.gitignore`.
 - **Figuras internas**: o repositório mantém apenas os arquivos originais em `assets/images/figures/<arquivo>.<ext>`, referenciados diretamente nos arquivos Markdown. Durante o build da `leia-me/api`, o pipeline com `sharp` gera as variantes WebP responsivas (`mobile` 480px, `tablet` 768px, `desktop` 1200px) servidas via `?size=mobile|tablet|desktop`.
 - **EPUB & Impresso**: `build-epub` + `validate-kindle` geram e auditam EPUB 3 para KDP; `build-print` compila miolo e capa aberta via Typst (`scripts/templates/book_print.typ`).
 - **RAG Local**: `build-rag` e `search-rag` indexam seções semânticas em `data/openscimd_rag.sqlite` com `unicode61 remove_diacritics 2` e ranqueamento BM25.

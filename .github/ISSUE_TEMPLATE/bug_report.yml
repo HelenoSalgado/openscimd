@@ -20,7 +20,7 @@ body:
         - "CLI: Indexação e Validação (index, validate)"
         - "Motor SalopDoc: Ingestão de PDF/HTML (import-pdf, batch-import, clean-html)"
         - "Normalização e Revisão Textual (verses, review, normalize-refs, assemble-book)"
-        - "Capas e Assets (build-covers, inject-text, ai-cover)"
+        - "Capas e Assets (compose-cover, inject-text, ai-cover)"
         - "Exportação e Formatos (epub, export-pdf, validate-kindle, print)"
         - "Motor RAG e Busca Local (build-rag, search-rag)"
         - "Tradução e NLP (translate-file, check-translation, enrich)"

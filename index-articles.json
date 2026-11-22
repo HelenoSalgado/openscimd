@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "articles",
-  "last_updated": 1795202052472,
+  "last_updated": 1795325955886,
   "articles": [
     {
       "id": "art_001",
@@ -9,7 +9,7 @@
       "author": "Hiroko Konishi",
       "summary": "Este estudo de caso explora as alucinações de Grandes Modelos de Linguagem (LLMs), focando em como eles fabricam informações e caem em 'loops de correção falsa'. Analisa o viés de autoridade e a supressão de hipóteses não-mainstream, propondo que esses comportamentos são induções estruturais no design de LLMs.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/avulsos/geral/alucinacoes-induzidas-e-o-loop-de-correcoes-falsas-em-llms.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/alucinacoes-induzidas-e-o-loop-de-correcoes-falsas-em-llms.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/alucinacoes-induzidas-e-o-loop-de-correcoes-falsas-em-llms.webp",
       "categories": [
         "Computação"
       ],
@@ -32,7 +32,7 @@
       ],
       "summary": "O presente artigo examina criticamente a introdução de cantatas, concertos e apresentações musicais no culto público cristão à luz do Princípio Regulador do Culto, conforme compreendido pela tradição reformada confessional. Sustenta-se que tais práticas representam uma tríplice violação desse princípio. Primeiramente, ao substituir a participação ativa da congregação por apresentações especializadas, comprometem o exercício do sacerdócio universal dos crentes e convertem o culto em espetáculo. Em segundo lugar, ao privilegiarem composições humanas em detrimento do cântico da Palavra inspirada, afastam-se da suficiência do conteúdo determinado por Deus para o louvor público. Por fim, ao reintroduzirem aparato instrumental e elementos próprios da economia cerimonial veterotestamentária, desconsideram o cumprimento dessas figuras em Cristo e a simplicidade prescrita para o culto da Nova Aliança. O estudo desenvolve sua argumentação mediante análise exegética das Escrituras, diálogo com a Confissão de Fé de Westminster, referências à tradição reformada e exame das principais objeções contemporâneas, concluindo que a preservação da pureza do culto exige estrita submissão às prescrições divinas e rejeição das inovações litúrgicas fundamentadas na criatividade humana.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/avulsos/vol-1/a-pratica-de-cantatas-e-concertos-no-culto-publico.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-pratica-de-cantatas-e-concertos-no-culto-publico.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/a-pratica-de-cantatas-e-concertos-no-culto-publico.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/a-pratica-de-cantatas-e-concertos-no-culto-publico.pdf",
       "categories": [
         "Música",
@@ -64,7 +64,7 @@
       ],
       "summary": "Entre meados dos séculos XVI e XVII, se proliferou uma rica literatura dedicada a geometria prática que impulsionou a produção de tratados para auxiliar nos procedimentos manuais, executados pelos trabalhadores do período. Nesse contexto, o tratado Via regia ad geometriam, escrito e publicado originalmente na Suíça em 1596 pelo francês Petrus Ramus (1515 – 1572), passando a ganhar notoriedade como um dos documentos mais disseminados pela impressa medieval. O exemplar trazia consigo uma organização diferencial dos conhecimentos matemáticos existentes em sua época, que são incorporados em algumas maneiras de medir áreas de superfícies, volume de sólidos, junto ao cálculo de distâncias, tais como comprimento, altura e largura. Desta forma, o artigo tem o intuito de apresentar uma descrição sobre o tratado em questão, destacando alguns elementos matemáticos presentes em seu corpo, junto a uma breve biografia do autor, com suas principais obras e seus preceitos. Ao desenvolver o estudo, utilizou-se uma metodologia bibliográfica-descritiva, com cunho qualitativo, a partir da leitura de livros e artigos que versam sobre a temática estudada, a fim de recolher informações consistentes. No decorrer da pesquisa, observou-se um desenvolvimento sistemático no tratado de Petrus Ramus sobre os elementos matemáticos, sendo descrito em um dos capítulos, o instrumento intitulado por báculo que auxiliava nos procedimentos de medição, por meios desses componentes. Assim, concluiu-se que o documento histórico em questão, contribuiu de forma sucinta ao fornecer subsídios de mensuração para algumas profissões, visto que, era uma das principais atividades desenvolvidas no meio rural e urbano, bastando ter noções sobre as matemáticas do período para utilizá-lo.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/boletim-cearense-de-educacao-e-historia-da-matematica/vol-7/o-legado-de-petrus-ramus-e-o-tratado-via-regia-ad-geometram.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/o-legado-de-petrus-ramus-e-o-tratado-via-regia-ad-geometram.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/o-legado-de-petrus-ramus-e-o-tratado-via-regia-ad-geometram.webp",
       "categories": [
         "História",
         "Matemática"
@@ -93,7 +93,7 @@
       ],
       "summary": "Este artigo sobre crítica textual do Novo Testamento busca expor o que diversos estudiosos consideram ser os principais pontos fracos da teoria de Westcott-Hort. O texto é de autoria de um especialista no Novo Testamento, convicto de que o 'Texto Majoritário' (Majority Text) é o melhor texto grego disponível. O autor apresenta um panorama dos principais períodos da história da crítica textual, descreve o surgimento da teoria de Westcott-Hort e oferece uma crítica ao que ele considera serem as falhas fundamentais dessa teoria. As posições do autor não refletem, necessariamente, o posicionamento do Seminário JMC sobre essa questão.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/fides-reformata/vol-1/a-teoria-de-westcott-e-hort-e-o-texto-grego-do-novo-testamento.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-teoria-de-westcott-e-hort-e-o-texto-grego-do-novo-testamento.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/a-teoria-de-westcott-e-hort-e-o-texto-grego-do-novo-testamento.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/a-teoria-de-westcott-e-hort-e-o-texto-grego-do-novo-testamento.pdf",
       "categories": [
         "História",
@@ -125,7 +125,7 @@
       ],
       "summary": "Neste trabalho explica-se a relevância de Petrus Ramus na construção da política, no marco da Reforma, como uma disciplina independente. Analisam-se as obras de Ramus, tanto as que escreveu como católico quanto as que preparou na última etapa de sua vida, já convertido ao calvinismo, e indica-se a influência política de Ramus num setor minoritário, ainda que muito influente entre os calvinistas. Finalmente, tecem-se algumas considerações sobre a importância do ramismo na configuração de um pensamento político calvinista.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/hispania-sacra/vol-70/as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico.pdf",
       "categories": [
         "História",
@@ -163,7 +163,7 @@
       ],
       "summary": "O artigo analisa as concepções filosóficas e reformistas de Petrus Ramus, representante da época do Renascimento. Como um dos mais destacados reformadores do Renascimento, ele deixou um profundo legado. O artigo assinala que Ramus, graças às reformas que realizou tanto na pedagogia quanto na filosofia, exerceu significativa influência sobre o desenvolvimento do pensamento científico. Seus méritos no campo do desenvolvimento eficaz da educação conferiram-lhe grande notoriedade. O artigo enfatiza que ele desempenhou papel importante na introdução de sistematicidade e ordem na educação. O objetivo principal de suas reformas consistia em demonstrar métodos eficazes de assimilação da ciência. Observa-se que os manuais de dialética, retórica e gramática, escritos por ele em colaboração com Omer Talon, reformularam a estrutura educacional da época do Renascimento. O artigo também reflete seu interesse pela matemática e pelas ciências naturais, o que expressava sua convicção de que o pensamento deve possuir uma estrutura ordenada. As concepções de Ramus sobre a linguagem fundamentavam a relação entre pensamento e expressão. Além desses méritos, o artigo afirma que ele também empreendeu ataques substanciais à filosofia aristotélica, especialmente às visões escolásticas rigorosas, cujas razões são analisadas em detalhe. Suas ideias não se limitaram à França, mas influenciaram o desenvolvimento de métodos modernos de ensino em diversos países europeus, incluindo Inglaterra e Alemanha. As reformas de P. Ramus também abriram caminho no pensamento de filósofos como Francis Bacon, René Descartes e Alexander Melville. O artigo examina a vida de Petrus Ramus, a essência do humanismo, a atividade de escritor de Ramus, sua posição contra a filosofia aristotélica, as inovações no método e na lógica no contexto do ambiente intelectual do Renascimento, investiga seu papel na pedagogia europeia e a influência das inovações filosóficas por ele criadas.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/history-of-science/vol-6/reformas-filosoficas-de-petrus-ramus.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/reformas-filosoficas-de-petrus-ramus.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/reformas-filosoficas-de-petrus-ramus.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/reformas-filosoficas-de-petrus-ramus.pdf",
       "categories": [
         "Filosofia",
@@ -195,7 +195,7 @@
       ],
       "summary": "Peter Ramus é uma figura influente no campo da retórica, da educação, da teologia, da filosofia e de numerosas outras áreas de estudo. Grande parte de sua influência e relevância decorre não apenas de suas proposições pessoais, mas também de sua crítica a Aristóteles, Quintiliano e Cícero. Este artigo examina as proposições de Ramus, seus escritos, sua popularidade, seus ataques a escritores clássicos e sua influência sobre a educação, a retórica e a dialética. Também é examinada a crítica de Ramus a Cícero e a razão por trás desse ataque.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/ipda/vol-3/peter-ramus-importancia-na-retorica-e-ataque-a-cicero.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/peter-ramus-importancia-na-retorica-e-ataque-a-cicero.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/peter-ramus-importancia-na-retorica-e-ataque-a-cicero.webp",
       "categories": [
         "Filosofia",
         "Linguística"
@@ -223,7 +223,7 @@
       ],
       "summary": "Este artigo investiga as dimensões jurídica, política, filosófica e religiosa subjacentes ao processo judicial e à execução capital de Sócrates em 399 a.C. O exame desenvolve-se sob cinco eixos fundamentais: 1) a procedência e a oportunidade das imputações formais de impiedade (asebeia) e corrupção da juventude ateniense; 2) o fundamento normativo e as leis da pólis que serviram de suporte à acusação pública; 3) a mecânica procedimental do direito processual ático e as garantias da Helieia; 4) a análise crítica acerca da substancial injustiça ou legalidade do veredito proferido pelos heliastas; e, finalmente, 5) as repercussões históricas, arqueológicas e morais da condenação e morte do filósofo no cárcere de Atenas.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-1/a-dimensao-juridica-politica-filosofica-e-religiosa-do-processo-e-da-execucao-de-socrates.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-dimensao-juridica-politica-filosofica-e-religiosa-do-processo-e-da-execucao-de-socrates.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/a-dimensao-juridica-politica-filosofica-e-religiosa-do-processo-e-da-execucao-de-socrates.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/a-dimensao-juridica-politica-filosofica-e-religiosa-do-processo-e-da-execucao-de-socrates.pdf",
       "categories": [
         "Direito",
@@ -255,7 +255,7 @@
       ],
       "summary": "Recensão crítica da obra Pro Cicerone poeta. Poezja Marka Tulliusza Cycerona na przestrzeni stuleci, de Katarzyna Marciniak (Varsóvia, 2008). O autor examina a abordagem da poesia de Marco Túlio Cícero no contexto de sua vida política e produção filosófica, apontando a ausência dos fragmentos poéticos preservados e de suas traduções na monografia, ao mesmo tempo em que problematiza a perspectiva laudatória e dicotômica adotada pela pesquisadora, defendendo uma análise crítica imparcial e serena (sine ira et studio) da figura e dos versos do Arpinata.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-1/de-cicerone-poeta-sine-ira-et-studio.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/de-cicerone-poeta-sine-ira-et-studio.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/de-cicerone-poeta-sine-ira-et-studio.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/de-cicerone-poeta-sine-ira-et-studio.pdf",
       "categories": [
         "Filosofia",
@@ -286,7 +286,7 @@
       ],
       "summary": "Recensão crítica da obra coletiva Socratica 2008: Studies in Ancient Socratic Literature, editada por Livio Rossetti e Alessandro Stavru (Bari: Levante Editori, 2010). A autora apresenta e analisa os treze estudos que compõem o volume, organizados em quatro eixos temáticos: a primeira geração de discípulos socráticos (Rossetti, Notomi, Brancacci, Plácido), a hermenêutica platônica (Dorion, Kohan, Palumbo, Cornelli e Chevitarese), os testemunhos de Xenofonte (Morrison, Stavru) e a posteridade e recepção clássica da figura de Sócrates (Erler, Ranocchia, Narcy, Montano), destacando a superação metodológica do monopólio platônico em favor de uma leitura pluralista e multifacetada do socratismo antigo.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-1/mais-um-volume-de-estudos-socraticos.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/mais-um-volume-de-estudos-socraticos.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mais-um-volume-de-estudos-socraticos.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/mais-um-volume-de-estudos-socraticos.pdf",
       "categories": [
         "Filosofia"
@@ -316,7 +316,7 @@
       ],
       "summary": "Este artigo apresenta o método de Aristóteles para a compreensão dos primeiros princípios das coisas naturais na Física I.1 e analisa os três estágios que compõem este método. Na Física I.1, Aristóteles sugere que o caminho naturalmente próprio a ser seguido a fim de descobrir os primeiros princípios das coisas naturais consiste em proceder daquilo que é mais claro e mais cognoscível para nós para aquilo que é mais cognoscível e claro por natureza. Na Física I.1, os termos καθόλου (universal) e καθ΄ ἕκαστα (particular) não são empregados em seu significado usual (como, por exemplo, o significado que esses mesmos termos possuem nos Segundos Analíticos I.2). Este artigo examina a Física I.1 em comparação com os Segundos Analíticos II.19 com o propósito de elucidar o sentido de καθόλου no primeiro capítulo da Física de Aristóteles. Além disso, chega-se à conclusão de que a estrutura do mundo natural ao qual pertencemos determina a estrutura e a forma do nosso conhecimento. Por um lado, as coisas naturais são compostas e, por outro lado, a percepção está envolvida na apreensão inicial das coisas naturais como compostos. Assim, visto que o conhecimento perceptivo é mais acessível para nós do que qualquer outro tipo de conhecimento, é natural alcançar o conhecimento das coisas simples — isto é, dos princípios — iniciando nossa investigação pelos compostos.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-1/o-metodo-de-aristoteles-para-a-compreensao-dos-primeiros-principios-das-coisas-naturais-na-fisica-i-1.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/o-metodo-de-aristoteles-para-a-compreensao-dos-primeiros-principios-das-coisas-naturais-na-fisica-i-1.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/o-metodo-de-aristoteles-para-a-compreensao-dos-primeiros-principios-das-coisas-naturais-na-fisica-i-1.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/o-metodo-de-aristoteles-para-a-compreensao-dos-primeiros-principios-das-coisas-naturais-na-fisica-i-1.pdf",
       "categories": [
         "Filosofia",
@@ -347,7 +347,7 @@
       ],
       "summary": "A afirmação de Aristóteles de que — em termos filosóficos — a poesia é superior à história pode ser mais bem compreendida quando analisada no contexto da epistemologia, da ontologia e da ética eudaimônica do Estagirita. Tanto a poesia quanto a história lidam com numerosos acontecimentos contingentes e caóticos; contudo, enquanto a história é meramente reconstrutiva, a poesia reelabora a sua matéria de forma mais profunda. A história tenta narrar todos os acontecimentos e o faz em conformidade com a natureza contingente e caótica deles, ao passo que a poesia pressupõe certas escolhas. Ao fazê-lo, introduz uniformidade e coerência, proporcionando assim um estatuto ôntico distinto daquele que reinava originalmente. Por conseguinte, o resultado cognitivo da poesia pode ser comparado ao valor beatífico do conhecimento conceitual na filosofia.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-1/por-que-a-poesia-e-mais-filosofica-e-mais-nobre-do-que-a-historia.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/por-que-a-poesia-e-mais-filosofica-e-mais-nobre-do-que-a-historia.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/por-que-a-poesia-e-mais-filosofica-e-mais-nobre-do-que-a-historia.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/por-que-a-poesia-e-mais-filosofica-e-mais-nobre-do-que-a-historia.pdf",
       "categories": [
         "Filosofia",
@@ -379,7 +379,7 @@
       ],
       "summary": "A primeira parte do presente artigo argumenta contra quaisquer tentativas de encontrar um conjunto de pontos fixos de uma doutrina que possa ser atribuída a Sócrates. A tese principal do artigo sustenta que Sócrates fez parte de um movimento cultural marcado pela tendência de formular perguntas em vez de meramente fornecer respostas e gabar-se de possuir doutrinas ou doxai próprias. A segunda parte do artigo concentra-se em uma série de inovações memoráveis que acabaram por constituir a cultura grega, como a ideia de que é possível e desejável estar em pleno controle de si mesmo e, consequentemente, assumir a responsabilidade pelas próprias ações em vez de meramente evitá-la e negá-la. Assim, Sócrates e a literatura socrática antiga são apresentados aqui como uma provável fonte de numerosas ideias sobre as quais a civilização ocidental se construiu durante séculos, sendo uma delas, por exemplo, a ideia dos limites de nossos poderes. Daí a conclusão do artigo: seria um grave erro excluir Sócrates desse grande desenvolvimento cultural, muito embora o pensador não tenha produzido nem uma teoria nem um corpo de teorias.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-1/socrate-este-desconhecido.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/socrate-este-desconhecido.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/socrate-este-desconhecido.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/socrate-este-desconhecido.pdf",
       "categories": [
         "Filosofia",
@@ -411,7 +411,7 @@
       ],
       "summary": "Neste artigo, examinamos o conceito de mal no estoicismo primitivo, o qual é avaliado juntamente com os conceitos de bem e de indiferentes no âmbito da classificação estoica das coisas que participam da essência. Adotando a teoria socrática da virtude, segundo a qual a virtude pode ser ensinada, os estoicos dividiram a humanidade em duas categorias: os sábios (aqueles que agem segundo a razão e são virtuosos) e os insensatos (aqueles que carecem de razão e são, portanto, ignorantes e maus). Nesse quadro, introduziram a noção de 'homem em progresso', um estado alcançável por todos aqueles que empreendem um esforço contínuo e diligente. Se esse modelo se sustenta, por que então existem pessoas más e por que o mal persiste no mundo? Acreditamos que os estoicos fornecem, em última análise, uma solução para esse problema, a qual pretendemos explorar e fundamentar neste artigo.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-16/os-estoicos-sobre-o-bem-o-mal-e-os-indiferentes.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/os-estoicos-sobre-o-bem-o-mal-e-os-indiferentes.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/os-estoicos-sobre-o-bem-o-mal-e-os-indiferentes.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/os-estoicos-sobre-o-bem-o-mal-e-os-indiferentes.pdf",
       "categories": [
         "Filosofia"
@@ -441,7 +441,7 @@
       ],
       "summary": "O presente artigo tem por objetivo demonstrar a dimensão ética do tempo na Apologia de Sócrates de Platão. Enquanto as abordagens tradicionais ao problema do tempo na filosofia platônica costumam concentrar-se nas categorias ontológicas e cosmológicas do Timeu (onde o tempo é retratado como imagem móvel da eternidade), a correlação orgânica entre a temporalidade e a ordem moral já se manifestava no pensamento arcaico grego. O exame analisa minuciosamente a tensão estrutural entre o tempo exíguo do tribunal (a clepsidra judiciária de um único dia) e a temporalidade dilatada de toda a existência de Sócrates (setenta anos de integridade moral inabalável). Evidencia-se como as noções de chronos (tempo contínuo da fidelidade ao mandamento divino), schole (tempo livre filosófico em oposição à azáfama utilitária) e kairos (o instante decisivo e a 'hora de partir' em 42 a) convergem para constituir o alicerce ético do agir socrático, no qual a firmeza da virtude permanece perene frente à contingência da morte.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/a-dimensao-etica-do-tempo-na-apologia-de-socrates-de-platao.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-dimensao-etica-do-tempo-na-apologia-de-socrates-de-platao.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/a-dimensao-etica-do-tempo-na-apologia-de-socrates-de-platao.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/a-dimensao-etica-do-tempo-na-apologia-de-socrates-de-platao.pdf",
       "categories": [
         "Filosofia",
@@ -472,7 +472,7 @@
       ],
       "summary": "O objetivo do presente artigo é discutir a concepção socrática da filosofia como um serviço prestado ao deus. Inicialmente, investiga-se por que Querefonte foi a Delfos e por que dirigiu à Pítia a célebre pergunta a respeito de Sócrates. Essa averiguação fornece a base para distinguir dois períodos capitais em sua atividade: o anterior ao oráculo délfico, que consistia em conduzir investigações num grupo restrito de amigos íntimos; e o posterior ao oráculo, que consistiu em dirigir-se a um público muito mais amplo. A análise de ambos os períodos sugere que o oráculo de Delfos afetou profundamente as relações de Sócrates com os demais atenienses. Ao abordar também a questão do daimonion socrático, o artigo levanta a hipótese de que a voz do daimonion e a resposta da Pítia poderiam ser consideradas intervenções de Apolo.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/a-filosofia-de-socrates-como-um-servico-divino-na-apologia-de-platao.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-filosofia-de-socrates-como-um-servico-divino-na-apologia-de-platao.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/a-filosofia-de-socrates-como-um-servico-divino-na-apologia-de-platao.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/a-filosofia-de-socrates-como-um-servico-divino-na-apologia-de-platao.pdf",
       "categories": [
         "Filosofia",
@@ -504,7 +504,7 @@
       ],
       "summary": "O presente artigo examina como filósofos, historiadores e classicistas poloneses compreenderam e interpretaram o Eutífron de Platão no século XIX. O trabalho demonstra o duplo interesse que os leitores poloneses demonstraram pelo diálogo nesse período. Em primeiro lugar, os pensadores católicos concentraram-se nas questões éticas da obra e apoiaram o renascimento da Escolástica, confirmando concomitantemente a vitalidade perene do pensamento platônico. Em segundo lugar, o texto desse opúsculo platônico constituiu conveniente material didático para professores de língua grega: ao mesmo tempo em que o Eutífron lhes proporcionava o ensejo de abordar problemas éticos e lógicos, servia de base para o ensino introdutório de filosofia nos ginásios.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/algumas-observacoes-sobre-os-estudos-do-seculo-xix-sobre-o-eutifron-na-polonia.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/algumas-observacoes-sobre-os-estudos-do-seculo-xix-sobre-o-eutifron-na-polonia.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/algumas-observacoes-sobre-os-estudos-do-seculo-xix-sobre-o-eutifron-na-polonia.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/algumas-observacoes-sobre-os-estudos-do-seculo-xix-sobre-o-eutifron-na-polonia.pdf",
       "categories": [
         "Educação",
@@ -536,7 +536,7 @@
       ],
       "summary": "O presente artigo investiga a complexa relação entre ética e política no Críton de Platão a partir de uma perspectiva contemporânea. Analisam-se os problemas da desobediência civil (as razões morais que justificam a transgressão da lei) e da obrigação política (o fundamento do dever moral de obedecer ao ordenamento jurídico). Rebatendo a tese comum de que Sócrates advogaria no diálogo uma obediência cega e incondicional ao Estado, o trabalho articula as premissas da Apologia e do Críton, traça paralelos entre a postura do filósofo ateniense e a de H. D. Thoreau, e examina como os argumentos personificados das Leis antecipam as principais teorias modernas da obrigação política: o contratualismo do consentimento, a teoria da gratidão, o princípio do jogo limpo (fair play) e o dever natural de justiça.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/criton-de-platao-em-torno-da-desobediencia-civil-e-da-obrigacao-politica.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/criton-de-platao-em-torno-da-desobediencia-civil-e-da-obrigacao-politica.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/criton-de-platao-em-torno-da-desobediencia-civil-e-da-obrigacao-politica.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/criton-de-platao-em-torno-da-desobediencia-civil-e-da-obrigacao-politica.pdf",
       "categories": [
         "Direito",
@@ -568,7 +568,7 @@
       ],
       "summary": "Enquanto a relação entre o indivíduo e o Estado constitui um dos temas mais complexos da filosofia política ocidental, o confronto entre o Sócrates da Apologia e o do Críton figura como um dos problemas mais controvertidos dos estudos socráticos. Na Apologia (29 c–d), defrontamo-nos com um rebelde destemido que desafia a ordem política estabelecida; no Críton (51 b–c), encontramos um cidadão respeitador da legalidade que se submete serenamente ao veredito das Leis atenienses. O artigo sugere que, em ambos os diálogos, o jovem Platão investiga a possibilidade de trilhar um caminho intermediário entre a capitulação perante o relativismo pragmático, de um lado, e o incentivo à desobediência civil anárquica, de outro. Assim, o filósofo concentra-se primariamente em investigar a alternativa constitucional 'persuadir ou obedecer', demonstrando a coerência ética inabalável que une a postura socrática perante o tribunal e no cárcere.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/desafio-persuasao-ou-conformidade-o-argumento-na-apologia-e-no-criton.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/desafio-persuasao-ou-conformidade-o-argumento-na-apologia-e-no-criton.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/desafio-persuasao-ou-conformidade-o-argumento-na-apologia-e-no-criton.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/desafio-persuasao-ou-conformidade-o-argumento-na-apologia-e-no-criton.pdf",
       "categories": [
         "Filosofia",
@@ -599,7 +599,7 @@
       ],
       "summary": "Enquanto as interpretações linguísticas e analíticas do Eutífron costumam circunscrever-se a duas passagens do diálogo (Euthphr. 10 a 2 – 11 b 1), há uma tendência geral a desconsiderar a distinção entre o ὅσιον e o θεοφιλές. Consequentemente, quase não se realizam esforços para compreender a crítica platônica da religião. Os conceitos de θεραπεία τοῦ θεοῦ e de ἀπεργασία proporcionam-nos a possibilidade de caracterizar positivamente a piedade e distingui-la do mero afeto amoroso. Contrariamente às teses de Schleiermacher e Gigon, mas seguindo Wilamowitz, o presente artigo demonstra que a ideia de serviço a Deus consiste na harmonia dórica entre Λόγος e Ἔργον, combinada com os diversos deveres e serviços para com o Estado. Sendo isto precisamente o que constitui a justiça, a crítica da religião não é meramente negativa. Mediante a justiça, o ὅσιον é elevado ao εὖ ζῆν e ao supremo ἀγαθόν, tanto na dimensão privada quanto na pública. Sem a justiça, resta apenas a necessidade de fugir para o outro mundo e acolher a ὁμοίωσις com Deus, conforme exposto no Teeteto. Se este é o sentido da morte de Sócrates, tal concepção assemelha-se ao postulado kantiano da imortalidade da alma, pois em ambos os casos defronta-se a tarefa infindável de realizar o bem supremo. A questão reside em saber se é possível realizar a δικαιοσύνη na vida política. Platão examina esse problema na República, no Sofista, no Político e nas Leis. No Político, a justiça é o objetivo primordial de toda vida política, o qual somente pode ser atingido mediante o cultivo da relação divina dos elementos harmoniosos no ὅσιον. É aqui que a doutrina platônica do ὅσιον atinge a sua consumação.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/hosion-eu-dzen-e-dikaiousune-na-apologia-de-socrates-e-no-eutifron.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/hosion-eu-dzen-e-dikaiousune-na-apologia-de-socrates-e-no-eutifron.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/hosion-eu-dzen-e-dikaiousune-na-apologia-de-socrates-e-no-eutifron.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/hosion-eu-dzen-e-dikaiousune-na-apologia-de-socrates-e-no-eutifron.pdf",
       "categories": [
         "Filosofia",
@@ -630,7 +630,7 @@
       ],
       "summary": "Embora Sócrates fosse, a seu modo, um homem profundamente religioso, o Eutífron é frequentemente considerado como fornecedor de uma refutação da teoria do mandamento divino da moralidade: a teoria segundo a qual o que é moralmente bom é bom porque é divinamente aprovado. Sócrates parece sugerir que o que é santo ou piedoso (ὅσιος) é agradável aos deuses porque é santo, e não santo porque lhes agrada. Assim, o diálogo é por vezes apresentado como uma demonstração de que o moralmente bom e o mau devem ser independentes da vontade divina. Sustento que as coisas não são tão simples, visto existirem várias maneiras pelas quais os deuses poderiam ajudar a determinar quais atos são bons — por exemplo, ao dispor certos assuntos humanos relevantes para as decisões morais. Ademais, Sócrates sugere possuir obrigações para com os próprios deuses, e essas obrigações teriam de depender, em parte, daquilo que lhes agrada. Disso decorre que o dilema proposto por Sócrates a Eutífron (piedoso porque amado pelos deuses, ou amado pelos deuses porque piedoso) não oferece duas alternativas mutuamente exclusivas. Há vários modos pelos quais as preferências de tais deuses podem ajudar a determinar quais atos são adequados para louvor ou censura moral. Dificilmente se poderia sustentar, portanto, que as doutrinas religiosas, se verdadeiras, sejam irrelevantes para o conteúdo da moralidade. O conhecimento das preferências dos deuses, se estivesse disponível, seria de importância para a teoria moral. O próprio Sócrates não nega isso, nem nós deveríamos fazê-lo.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/mandamento-divino-e-piedade-socratica-no-eutifron.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/mandamento-divino-e-piedade-socratica-no-eutifron.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mandamento-divino-e-piedade-socratica-no-eutifron.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/mandamento-divino-e-piedade-socratica-no-eutifron.pdf",
       "categories": [
         "Filosofia"
@@ -660,7 +660,7 @@
       ],
       "summary": "O presente artigo concentra-se no ponto culminante da Apologia de Sócrates de Platão (38 a), momento em que Sócrates define a vida sem exame e proclama o sumo bem para o ser humano (megiston agathon). Enquanto a maioria dos estudos especializados negligencia essa provocação decisiva, ela constitui não apenas o motivo condutor para a justa compreensão do inquérito socrático (exetazein) — estruturado segundo a ironia, o elenchos e a aporia —, mas igualmente a fonte inspiradora primordial para a busca das virtudes e do sumo bem na história da filosofia ocidental.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/megiston-agathon-o-cerne-da-vida-e-do-desafio-filosofico-de-socrates.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/megiston-agathon-o-cerne-da-vida-e-do-desafio-filosofico-de-socrates.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/megiston-agathon-o-cerne-da-vida-e-do-desafio-filosofico-de-socrates.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/megiston-agathon-o-cerne-da-vida-e-do-desafio-filosofico-de-socrates.pdf",
       "categories": [
         "Filosofia",
@@ -691,7 +691,7 @@
       ],
       "summary": "O presente artigo tem por objetivo descrever o método empregado por Sócrates com Eutífron no diálogo homônimo. A primeira parte concentra-se na descrição do personagem, passando em seguida à análise do próprio método, não apenas em termos de sua estrutura argumentativa, mas igualmente sob seus aspectos psicológicos, emocionais e sociais. Demonstra-se que Eutífron foi um partidário da religião tradicional ateniense inteiramente incapaz de articular na prática os ideais religiosos que tão confiantemente apregoava. Ao retratar a refutação de Eutífron por Sócrates, Platão visa não apenas a defender e reabilitar seu mestre, mas também a formular uma crítica contundente à sociedade de sua época. Ao descrever a metodologia socrática, o artigo propõe caracterizá-la como uma 'calma distância', fundamentando-se no fato de que o traço distintivo do método consiste em instaurar um distanciamento emocional sereno entre Sócrates e Eutífron. A finalidade dessa estratégia pedagógica reside em fazer com que Eutífron reconheça a fragilidade de suas certezas e acolha a purificação intelectual proporcionada pelo elenchos socrático.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/o-metodo-adequado-para-eutifron-uma-calma-distancia.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/o-metodo-adequado-para-eutifron-uma-calma-distancia.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/o-metodo-adequado-para-eutifron-uma-calma-distancia.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/o-metodo-adequado-para-eutifron-uma-calma-distancia.pdf",
       "categories": [
         "Educação",
@@ -722,7 +722,7 @@
       ],
       "summary": "Infelizmente, dispomos de pouquíssimas informações sobre os três acusadores de Sócrates: Meleto, Ânito e Lícon. Não obstante isso, o presente artigo procura discutir as circunstâncias e os motivos que conduziram ao julgamento de Sócrates. Além disso, o artigo aborda a postura crucial de Sócrates após o veredito e considera os argumentos do filósofo tais como foram apresentados na primeira tetralogia.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/os-acusadores-de-socrates.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/os-acusadores-de-socrates.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/os-acusadores-de-socrates.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/os-acusadores-de-socrates.pdf",
       "categories": [
         "Direito",
@@ -754,7 +754,7 @@
       ],
       "summary": "O presente artigo concentra-se em duas obras da primeira tetralogia platônica a fim de evidenciar e caracterizar de modo geral a dimensão socrática do filosofar de Platão. É sabido que o julgamento e a defesa de Sócrates inspiraram Platão a engajar-se na escrita dialógica, a qual culminou nos célebres logoi Sokratikoi. O trabalho aborda os seguintes tópicos: 1. A filosofia como 'cuidado da alma' na Apologia; 2. 'A vida sem exame não é digna de ser vivida pelo homem' (Ap. 38 a); 3. A filosofia como serviço a Deus no Eutífron; 4. O elenchos socrático; 5. Os logoi Sokratikoi platônicos. Enquanto tais questões são vivamente debatidas na literatura especializada, o artigo faz referências a estudos capitais e à exposição mais ampla da filosofia platônica constante em Erler (2006) e Erler (2007).",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/platao-socratico-apologia-de-socrates-e-eutifron.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/platao-socratico-apologia-de-socrates-e-eutifron.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/platao-socratico-apologia-de-socrates-e-eutifron.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/platao-socratico-apologia-de-socrates-e-eutifron.pdf",
       "categories": [
         "Educação",
@@ -785,7 +785,7 @@
       ],
       "summary": "Ao discutir os fatores que motivaram a decisão de Sócrates no Críton, o artigo enfatiza o possível significado cultural da escolha empreendida no rescaldo das convulsões políticas do final do século V a.C. Argumenta-se também que, tendo o diálogo platônico sido redigido no período subsequente à renovação da politeia ateniense, ele deve ser compreendido como enraizado tanto na realidade histórica de seu foco narrativo (o julgamento de Sócrates) quanto na realidade contemporânea da Atenas de Platão (a saber, sua estabilidade política dependente do juramento efébico).",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/por-que-nao-escapar-sobre-os-hosiotes-no-criton-de-platao.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/por-que-nao-escapar-sobre-os-hosiotes-no-criton-de-platao.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/por-que-nao-escapar-sobre-os-hosiotes-no-criton-de-platao.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/por-que-nao-escapar-sobre-os-hosiotes-no-criton-de-platao.pdf",
       "categories": [
         "Filosofia",
@@ -817,7 +817,7 @@
       ],
       "summary": "Walter Kohan observou recentemente que Sócrates não parece particularmente interessado nas opiniões de seus interlocutores. Consequentemente, o filósofo não está verdadeiramente engajado em uma relação paritética com eles, mas antes empenha-se na tarefa de aniquilar suas ideias. Diante desse quadro, a imagem de Sócrates como paladino do diálogo começa a vacilar. Embora o presente artigo tenha por objetivo discutir tais afirmações, uma série de questões precisa ser levada em conta. Em primeiro lugar, o diálogo socrático começa, com efeito, de modo caracteristicamente simétrico, mas torna-se cada vez mais assimétrico à medida que o elenchos passa a atuar. Isso se deve ao fato de o elenchos colocar os interlocutores na defensiva, ao passo que Sócrates pode atacar livremente. Posto isso, as teses de Kohan afiguram-se justificadas e esclarecedoras, mas não devem ser tidas como conclusivas, uma vez que não se deve esquecer nem subestimar quão inovador foi substituir discursos monológicos por diálogos individuais diretos que ofereciam a oportunidade de engajamento em conversações imprevisíveis.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/peitho-examina-antiqua/vol-2/um-socrate-que-nao-escuta-o-caso-eutifron.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/um-socrate-que-nao-escuta-o-caso-eutifron.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/um-socrate-que-nao-escuta-o-caso-eutifron.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/um-socrate-que-nao-escuta-o-caso-eutifron.pdf",
       "categories": [
         "Educação",
@@ -856,7 +856,7 @@
       ],
       "summary": "Propomos uma discussão historicamente situada acerca da organização e administração, na cultura ocidental, de um saber inteiramente escolar, caracterizado pelos princípios da ordem e da uniformidade, e que se expressa em monografias - de tipo compendiário e manualístico -, produzidas para circular unicamente nos estabelecimentos de ensino. A análise recuará até ao espaço universitário do Renascimento e aos primeiros debates sobre a premência de um dispositivo de sistematização do conhecimento, onde Petrus Ramus aparece como uma personagem conceptual e onde se descobre um diagnóstico seminal assente sobre um gesto educativo como supondo uma dupla articulação: (i) o currículo é o invariante que permite racionalizar todo conhecimento através de disciplinas unidas num plano de estudos, ao passo que (ii) o método constitui a possibilidade de estabilizar e simplificar, de articular e graduar todos os conteúdos escolares.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/revista-historia-da-educacao/vol-23/da-universidade-quinhentista-de-paris-para-o-mundo-curriculo-e-metodo-em-petrus-ramus.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/da-universidade-quinhentista-de-paris-para-o-mundo-curriculo-e-metodo-em-petrus-ramus.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/da-universidade-quinhentista-de-paris-para-o-mundo-curriculo-e-metodo-em-petrus-ramus.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/da-universidade-quinhentista-de-paris-para-o-mundo-curriculo-e-metodo-em-petrus-ramus.pdf",
       "categories": [
         "Educação",
@@ -911,7 +911,7 @@
       ],
       "summary": "O presente artigo inicia apresentando a trajetória das Universidades desde o surgimento no período medieval, com a criação de uma comunidade de *scolares*; passando pelo fenômeno da nacionalização, com a consequente perda do seu caráter inicial influenciado pelas escolas de ofício e posteriormente pela ordem eclesiástica e imperial; abordando nesse bojo o processo de estatização a partir da revolução francesa. A universidade brasileira, fortemente influenciada até a década de 1970 pelo modelo europeu, foi impactada pelas premissas das reformas educacionais e objetivos delineados para uma estrutura integradora entre ensino e pesquisa, que ocorreu de forma mais efetiva a partir da década de 1980, movimento apresentado juntamente com as iniciativas de internacionalização da universidade. Por último, são elencadas as estratégias para o desenvolvimento de um projeto de internacionalização das universidades brasileiras no século XXI sob a premissa de que para conceber a cooperação internacional, como parte integrante das missões institucionais, cabe às universidades a criação de mecanismos e estruturas apropriadas para promover a internacionalização como um dos pressupostos indicativos desse direcionamento.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/revista-ibero-americana-de-estudos-em-educacao/vol-16/universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/universidades-surgimento-nacionalizacao-e-indicadores-de-internacionalizacao.pdf",
       "categories": [
         "Educação",
@@ -944,7 +944,7 @@
       ],
       "summary": "Este artigo examina a dignidade peculiar do homem à luz da doutrina cristã da imago Dei, sustentando que a excelência da natureza humana não reside em suas disposições corpóreas, mas na posse da alma racional. Mediante abordagem teológico-filosófica fundamentada nas Escrituras divinas, na tradição agostiniana e na metafísica aristotélico-tomista, demonstra-se que, embora o homem seja inferior a diversos animais em determinadas potências vegetativas e sensitivas, distingue-se absolutamente pela faculdade intelectiva, capaz de apreender universais, conhecer causas, deliberar racionalmente e ordenar meios aos fins. A exposição desenvolve a hierarquia das potências da alma, enfatizando a singularidade da alma racional como princípio formal da racionalidade humana e expressão própria da imagem de Deus. Em seguida, evidencia-se que as artes, as ciências, a cultura, a técnica, a linguagem, a organização política e as demais realizações humanas procedem da atividade do intelecto, e não do instinto, revelando a capacidade exclusivamente humana de conhecer a verdade, transformar a natureza e transmitir o conhecimento entre as gerações. Conclui-se que a superioridade humana não consiste na intensidade das potências sensíveis, mas na excelência da razão, por meio da qual o homem exerce domínio sobre a criação, manifesta sua vocação cultural e reflete, de modo singular entre as criaturas terrenas, a imagem do seu Criador.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/revista-viae-veritatis/vol-1/a-dignidade-peculiar-do-homem-a-excelencia-de-sua-alma-racional.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/a-dignidade-peculiar-do-homem-a-excelencia-de-sua-alma-racional.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/a-dignidade-peculiar-do-homem-a-excelencia-de-sua-alma-racional.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/a-dignidade-peculiar-do-homem-a-excelencia-de-sua-alma-racional.pdf",
       "categories": [
         "Antropologia",
@@ -978,7 +978,7 @@
       ],
       "summary": "O artigo sustenta que o sentimento, embora constitua uma dimensão legítima da experiência humana, não pode ser elevado à condição de critério do conhecimento nem da verdade. A partir da tradição aristotélico-tomista, demonstra-se que a experiência afetiva manifesta primariamente os estados interiores do sujeito, ao passo que o conhecimento exige a apreensão intelectiva da realidade mediante a abstração da forma inteligível. Para evidenciar essa distinção, contrapõe-se a experiência emocional de quem contempla o mar pela primeira vez ao conhecimento objetivo adquirido pelo marinheiro ao longo de sua convivência com o oceano. Em seguida, analisa-se o processo cognoscitivo descrito por Aristóteles e desenvolvido pela Escolástica, ressaltando o papel da sensação, da memória, da experiência, da imaginação e do intelecto na constituição do conhecimento. Critica-se, ainda, o sentimentalismo contemporâneo, entendido como a absolutização das afecções e sua indevida identificação com a intelecção. Por fim, argumenta-se que tanto o conhecimento quanto o amor autênticos exigem a superação da subjetividade afetiva e a conformidade da inteligência à realidade objetiva do ser, fundamento indispensável da investigação filosófica, da vida moral e da contemplação da verdade.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/revista-viae-veritatis/vol-1/da-afeccao-a-inteleccao-do-obstaculo-dos-sentimentos-a-investigacao-filosofica.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/da-afeccao-a-inteleccao-do-obstaculo-dos-sentimentos-a-investigacao-filosofica.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/da-afeccao-a-inteleccao-do-obstaculo-dos-sentimentos-a-investigacao-filosofica.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/da-afeccao-a-inteleccao-do-obstaculo-dos-sentimentos-a-investigacao-filosofica.pdf",
       "categories": [
         "Filosofia"
@@ -1010,7 +1010,7 @@
       ],
       "summary": "O artigo examina a quádrupla condição dos homens a partir da distinção entre elevação interior e elevação exterior, estabelecendo como princípio fundamental a necessária ordenação da vida intelectual, moral e ministerial a Deus, fonte e fim de toda verdadeira dignidade. A partir da tradição cristã e de categorias provenientes da Filosofia aristotélico-tomista, distingue-se a excelência interior, fundada na virtude, na sabedoria, na prudência e na reta disposição da alma, da excelência exterior, manifesta na dignidade, nos ofícios, na autoridade e na estima pública. Demonstra-se, assim, que essas duas ordens podem encontrar-se separadas ou unidas, dando origem a quatro condições fundamentais: — os homens interiormente elevados, mas exteriormente ocultos; os exteriormente elevados, mas interiormente desordenados; aqueles nos quais virtude e dignidade legitimamente convergem; e aqueles privados tanto da excelência interior quanto da dignidade exterior. O estudo sustenta ainda que a verdadeira formação intelectual não consiste na mera acumulação de conhecimentos, mas em um processo de recolhimento, disciplina, humildade, contemplação e exercício perseverante, pelo qual a inteligência é ordenada à verdade e a vida intelectual se converte em serviço. Por fim, argumenta-se que a autoridade legítima somente alcança sua forma mais elevada quando a dignidade exterior corresponde à excelência interior, de modo que o ofício se torne expressão da virtude, instrumento de serviço e meio de glorificação de Deus.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/revista-viae-veritatis/vol-1/da-quadrupla-condicao-dos-homens.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/da-quadrupla-condicao-dos-homens.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/da-quadrupla-condicao-dos-homens.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/da-quadrupla-condicao-dos-homens.pdf",
       "categories": [
         "Filosofia",
@@ -1043,7 +1043,7 @@
       ],
       "summary": "O presente estudo teológico examina o destino eterno de bebês que morrem precocemente e de pessoas nascidas com deficiência intelectual severa, à luz da soberania divina, da graça e da justiça de Deus. Argumenta-se que a salvação desses indivíduos não depende do exercício consciente da fé, do arrependimento ou de uma consciência moral plenamente desenvolvida, mas exclusivamente da graça soberana de Deus, fundamentada na eleição do Pai, na redenção de Cristo e na regeneração pelo Espírito Santo. A partir de textos bíblicos, distingue-se entre a culpa do pecado original (condição herdada em potência) e a culpa de pecados pessoais conscientes (em ato). Sustenta-se que Deus, sendo perfeitamente justo, não condena eternamente quem jamais exerceu responsabilidade moral deliberada. O trabalho defende a posição de João Calvino contra acusações de que ele ensinava a danação de bebês, esclarecendo a distinção entre “condenação” (sentença) e “danação” (execução da sentença). Afirma-se, finalmente, que todos os bebês que morrem precocemente e todas as pessoas com deficiência intelectual severa que nascem nessa condição são eleitos de Deus, são salvos pela graça soberana de Deus, oferecendo consolo pastoral diante de passagens difíceis das Escrituras e contrastando a coerência do Calvinismo com as dificuldades lógicas do Arminianismo e do Catolicismo Romano nessa matéria.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/revista-viae-veritatis/vol-1/o-destino-eterno-dos-bebes-que-morrem-precocimente-e-das-pessoas-com-deficiencia-intelectual-severa.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/o-destino-eterno-dos-bebes-que-morrem-precocimente-e-das-pessoas-com-deficiencia-intelectual-severa.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/o-destino-eterno-dos-bebes-que-morrem-precocimente-e-das-pessoas-com-deficiencia-intelectual-severa.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/o-destino-eterno-dos-bebes-que-morrem-precocimente-e-das-pessoas-com-deficiencia-intelectual-severa.pdf",
       "categories": [
         "Teologia"
@@ -1075,7 +1075,7 @@
       ],
       "summary": "O artigo examina a aparente tensão entre reconhecer a verdade em autores de diferentes tradições teológicas e filosóficas e combater rigorosamente o erro doutrinário dentro da própria comunhão. Sustenta-se que não há contradição entre essas atitudes quando se distingue a apropriação material da verdade da aprovação formal de um sistema. Toda verdade procede de Deus e, por isso, pode ser reconhecida onde quer que seja encontrada, sem que isso implique a aceitação dos erros de seu autor. O artigo distingue ainda a iluminação intelectual da graça salvífica e demonstra que o erro dentro da própria comunhão possui especial gravidade pastoral, sobretudo quando se apresenta sob linguagem ortodoxa. Por fim, distingue-se a consulta crítica a autores históricos da promoção pública de mestres contemporâneos, afirmando que a fidelidade à verdade exige tanto discernimento para receber o que é verdadeiro quanto firmeza para rejeitar e combater o erro.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/revista-viae-veritatis/vol-1/o-uso-da-verdade-em-autores-diversos-e-o-dever-de-combater-o-erro-na-propria-comunhao.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/o-uso-da-verdade-em-autores-diversos-e-o-dever-de-combater-o-erro-na-propria-comunhao.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/o-uso-da-verdade-em-autores-diversos-e-o-dever-de-combater-o-erro-na-propria-comunhao.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/o-uso-da-verdade-em-autores-diversos-e-o-dever-de-combater-o-erro-na-propria-comunhao.pdf",
       "categories": [
         "Filosofia",
@@ -1108,7 +1108,7 @@
       ],
       "summary": "O artigo investiga a ordem própria da vida intelectual, tomando como problema central a desordem do intelecto e seus efeitos sobre a leitura, a interpretação e a aquisição do conhecimento. Sustenta-se que o verdadeiro labor intelectual exige não apenas esforço, mas também método, ordem e reta razão, mediante os quais a multiplicidade dos conteúdos é conduzida à unidade inteligível. A partir de uma estrutura quádrupla aplicada analogicamente à Teologia e à Filosofia, distinguem-se os níveis da religião, Teologia, doutrina e dogma, de um lado, e da atitude filosófica, doutrina, sistema e primeiros princípios da razão, de outro. Examina-se, em seguida, a leitura como ato intelectivo e formativo, ressaltando a necessidade de humildade, disciplina, filologia e assimilação efetiva do conteúdo. Nesse contexto, apresenta-se a figura do “soldado saqueador” como imagem do leitor que recolhe proposições isoladas de obras alheias sem respeitar sua unidade orgânica, apropriando-se exteriormente de conteúdos que não foram interiormente assimilados. Critica-se, assim, a interpretação fragmentária, a projeção subjetiva e a erudição meramente aparente, distinguindo-se a posse formal de informações da verdadeira intelecção. Por fim, argumenta-se que a formação intelectual autêntica requer a conversão progressiva do intelecto à ordem da verdade, de modo que o conhecimento recebido seja efetivamente integrado à estrutura interior do sujeito e se converta em sabedoria, evitando a corrupção hermenêutica e a mera reprodução exterior de fórmulas intelectuais.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/articles/revista-viae-veritatis/vol-1/soldado-saqueador.md",
-      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/soldado-saqueador.webp",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/soldado-saqueador.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/soldado-saqueador.pdf",
       "categories": [
         "Filosofia",

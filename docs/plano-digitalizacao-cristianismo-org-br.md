@@ -84,7 +84,7 @@ graph TD
     C --> D["Mesa de Revisão (data/review/cristianismo.org.br/)"]
     D --> E["Aplicação de Frontmatter YAML + Padrão de Notas [^1], [^nt1], [^ne1]"]
     E --> G["Publicação em content/books/ e content/articles/"]
-    F --> H["Geração de Capas Concept Art (openscimd build-covers)"]
+    F --> H["Geração de Capas Concept Art (openscimd compose-cover)"]
     G --> I["Atualização Geral dos Índices (openscimd index)"]
 ```
 

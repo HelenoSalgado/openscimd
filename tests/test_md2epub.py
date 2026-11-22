@@ -244,7 +244,7 @@ def test_find_cover_image_not_found(tmp_path):
 
 
 def test_find_cover_image_found_and_webp_fallback(tmp_path):
-    covers_dir = tmp_path / "assets" / "covers" / "originals"
+    covers_dir = tmp_path / "assets" / "covers"
     covers_dir.mkdir(parents=True)
     cover_file = covers_dir / "obra-antiga.png"
     cover_file.write_bytes(b"dummy image data")
@@ -267,7 +267,7 @@ def test_convert_md_to_epub_with_webp_assets_and_authors_list(tmp_path):
     (tmp_path / "pyproject.toml").write_text("[project]\nname='test'\n", encoding="utf-8")
 
     # Criar capa WebP e figura WebP referenciada como /assets/images/figures/fig1.webp
-    cover_dir = tmp_path / "assets" / "covers" / "originals"
+    cover_dir = tmp_path / "assets" / "covers"
     cover_dir.mkdir(parents=True)
     Image.new("RGB", (300, 450), color=(30, 40, 70)).save(cover_dir / "livro-teste.webp", format="WEBP")
 

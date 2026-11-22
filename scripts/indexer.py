@@ -126,7 +126,7 @@ def update_articles_index(base_dir, registry=None):
 
         summary = _resolve_summary(metadata, body, existing)
         remote_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/content/articles/{rel_path}"
-        cover_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/assets/covers/mobile/{base_name}.webp"
+        cover_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/assets/covers/{base_name}.webp"
         pdf_url = _resolve_source_pdf_url(base_dir, base_name)
 
         categories = metadata.get('categories') or metadata.get('category') or (existing.get('categories') if existing else [])
@@ -271,7 +271,7 @@ def update_books_index(base_dir, registry=None):
 
         summary = _resolve_summary(metadata, body, existing)
         remote_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/content/books/{rel_path}"
-        cover_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/assets/covers/mobile/{base_name}.webp"
+        cover_url = f"https://raw.githubusercontent.com/{GITHUB_USERNAME}/{REPO_NAME}/main/assets/covers/{base_name}.webp"
         pdf_url = _resolve_source_pdf_url(base_dir, base_name)
 
         categories = metadata.get('categories') or metadata.get('category') or (existing.get('categories') if existing else [])

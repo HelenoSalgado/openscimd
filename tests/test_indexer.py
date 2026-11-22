@@ -69,6 +69,7 @@ def test_update_articles_and_journals_index_nested():
             
         assert len(art_data['articles']) == 2
         assert 'test-journal/vol-1/article-one.md' in art_data['articles'][0]['remote_url']
+        assert art_data['articles'][0]['cover_url'].endswith('/assets/covers/article-one.webp')
         assert art_data['articles'][0]['journal_id'] == 'journal_revista-teste'
         assert art_data['articles'][0]['volume_id'] == 'vol_revista-teste_1'
         

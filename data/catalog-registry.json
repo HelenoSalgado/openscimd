@@ -15,9 +15,9 @@
       "canonical_author": "Hiroko Konishi",
       "doi": null,
       "first_body_sha256": "d6ab85a3ed5da261e3b5afdc7f480845c963c4f22a4af52cea027ce096372c80",
-      "last_body_sha256": "148fab06d06a043c741484ce54e1d3e023006e423ae29ee2b17ad7143c462210",
+      "last_body_sha256": "57583599963a7175606b9e511d8790674b703ba56cad9532a13204ba5d8990a3",
       "created_at": 1763596800000,
-      "updated_at": 1795275989666,
+      "updated_at": 1795325954662,
       "retired_at": null
     },
     "art_002": {
@@ -47,9 +47,9 @@
       "canonical_author": "Francisco Hemerson Brito da Silva",
       "doi": "10.30938/bocehm.v7i20.3297",
       "first_body_sha256": "b9ed43de9cc5d6fe7461d1247c0eb9c7fba3e51e6ee6ee25607f888e1369f1ca",
-      "last_body_sha256": "0d7869649305572f4986849c8eb10dc1dcfdb8875a925c1751664439e64aac9e",
+      "last_body_sha256": "ecf3b42a77beef231e6083aa22b91c1155667769f239cd52e4dc66be849395fd",
       "created_at": 1586217600000,
-      "updated_at": 1795275989666,
+      "updated_at": 1795325954662,
       "retired_at": null
     },
     "art_004": {
@@ -677,9 +677,9 @@
       "canonical_author": "Frank Pierrepont Graves",
       "doi": null,
       "first_body_sha256": "354a36cc74ce5e27ab0da8d5768451def5f40f71dbba581a3a71a19cc875cb90",
-      "last_body_sha256": "bce0d617f248e89ddfab06aaf02287c451029f4814775e1b959fd42e6802a0a0",
+      "last_body_sha256": "815cac27ee94240bbeb7d533e89155b4f50b6d4a1a18a188bae7b68d6a1ab903",
       "created_at": 1794153689621,
-      "updated_at": 1795202052620,
+      "updated_at": 1795325956013,
       "retired_at": null
     },
     "book_011": {
@@ -812,9 +812,9 @@
       "canonical_author": "Wilbur Norman Pickering",
       "doi": null,
       "first_body_sha256": "9b52794a8fd90588b11ec41067b447d57f203df81833460909a88d7e8792ca7a",
-      "last_body_sha256": "24e30cb953629b302618d2cf6cd21c9b3a9a595f11f20b066b267eae21615c50",
+      "last_body_sha256": "6c6ba83c0022703fde42868b16bbf100be9cc9f273658cc2e3688a2dc981b93f",
       "created_at": 1091750400000,
-      "updated_at": 1795269916842,
+      "updated_at": 1795325956013,
       "retired_at": null
     },
     "book_020": {
@@ -932,9 +932,9 @@
       "canonical_author": "Albert Einstein",
       "doi": null,
       "first_body_sha256": "d775cce1b01d61d0de67193de7ff76e80049ed304cc2cc2fe7c1cfa67ddc983d",
-      "last_body_sha256": "d775cce1b01d61d0de67193de7ff76e80049ed304cc2cc2fe7c1cfa67ddc983d",
+      "last_body_sha256": "68ce477cc7b739bc2d3cb0c724999825c731b8467c72e6596880f36603c2caca",
       "created_at": 1795311692227,
-      "updated_at": 1795312172170,
+      "updated_at": 1795325956013,
       "retired_at": null
     }
   }

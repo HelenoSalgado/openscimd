@@ -617,29 +617,13 @@ def inject_text(
     custom_text: str | None = typer.Option(
         None, "--custom-text", "-t", help="Texto manual no formato 'Título|Autor|Data'."
     ),
-    build: bool = typer.Option(
-        False, "--build", "-b", help="Gera também as variantes WebP responsivas (desktop, tablet, mobile)."
-    ),
 ) -> None:
-    """Compõe a tipografia editorial canônica sobre a arte de fundo e salva em assets/covers/originals/."""
-    from scripts.covers import convert_covers, inject_cover_text
+    """Compõe a tipografia editorial canônica sobre a arte de fundo e salva em assets/covers/<slug>.webp (WebP q100)."""
+    from scripts.covers import inject_cover_text
 
     dest_path = inject_cover_text(str(BASE_DIR), image_path, custom_text=custom_text, target_slug=slug)
     if dest_path is None:
         raise typer.Exit(code=1)
-    if build:
-        convert_covers(str(BASE_DIR), target_file=dest_path.name, force=True)
-
-
-@app.command(rich_help_panel=_PANEL_COVERS)
-def build_covers(
-    target_file: str | None = typer.Option(None, "--target", "-t", help="Arquivo específico de capa para converter."),
-    force: bool = typer.Option(False, "--force", "-f", help="Sobrescreve arquivos já atualizados."),
-) -> None:
-    """Converte e redimensiona capas de livros e artigos."""
-    from scripts.covers import convert_covers
-
-    convert_covers(str(BASE_DIR), target_file=target_file, force=force)
 
 
 # ── 6. Exportação & RAG ────────────────────────────────────────────────────────

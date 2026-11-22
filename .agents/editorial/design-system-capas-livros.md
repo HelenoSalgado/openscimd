@@ -7,7 +7,7 @@ Este documento orienta os agentes de IA na concepção, geração e validação 
 ## 1. Princípios Fundamentais de Design e Composição
 
 - **Padrão Consolidado das Capas Aprovadas**:
-  - Referências visuais oficiais já homologadas em `assets/covers/desktop/`: [`apologia-de-socrates.webp`](../../assets/covers/desktop/apologia-de-socrates.webp), [`fedon.webp`](../../assets/covers/desktop/fedon.webp) e [`a-imitacao-de-cristo-livro-1.webp`](../../assets/covers/desktop/a-imitacao-de-cristo-livro-1.webp).
+  - Referências visuais oficiais já homologadas em `assets/covers/`: [`apologia-de-socrates.webp`](../../assets/covers/apologia-de-socrates.webp), [`fedon.webp`](../../assets/covers/fedon.webp) e [`a-imitacao-de-cristo-livro-1.webp`](../../assets/covers/a-imitacao-de-cristo-livro-1.webp).
   - O layout legado com tarjas escuras horizontais e selo `LIVRO` está **aposentado**. Toda capa de livro utiliza arte 2D *full-bleed* integrada do topo à base.
 
 - **Formato e Renderização 2D Plano**:
@@ -128,15 +128,12 @@ Historical period human figures are permitted when appropriate. Strictly NO 3D b
 
 ## 5. Pipeline de Processamento de Arquivos
 
-O subagente multimodal (`image-generator`) gera **apenas** a arte de fundo 2:3 *full-bleed* sem texto, letras, bordas ou mockups 3D. A tipografia canônica e as versões WebP são aplicadas deterministicamente pela CLI local:
+O subagente multimodal (`image-generator`) gera **apenas** a arte de fundo 2:3 *full-bleed* sem texto, letras, bordas ou mockups 3D. A tipografia canônica e a capa oficial em WebP (qualidade 100) são aplicadas deterministicamente pela CLI local:
 
-1. Compor a tipografia editorial em `assets/covers/originals/<slug>.png` e gerar as versões WebP responsivas em um só comando:
+1. Compor a tipografia editorial diretamente em `assets/covers/<slug>.webp` (`1696 × 2528 px`, WebP qualidade 100):
    ```bash
-   uv run openscimd compose-cover <caminho-da-arte> --slug <slug> --build
+   uv run openscimd compose-cover <caminho-da-arte> --slug <slug>
    ```
-   *(Equivalente a `uv run openscimd inject-text <caminho-da-arte> --slug <slug>` seguido de `uv run openscimd build-covers --target <slug>.png --force`.)*
-2. Versões WebP responsivas geradas automaticamente:
-   - `desktop/`: 1696 × 2528 px
-   - `tablet/`: 1200 × 1789 px
-   - `mobile/`: 1080 × 1610 px
-3. Inspecione visualmente `assets/covers/desktop/<slug>.webp` para validar legibilidade e ausência de artefatos, e atualize o status na tabela do [ROADMAP_COVERS.md](ROADMAP_COVERS.md).
+   *(Equivalente a `uv run openscimd inject-text <caminho-da-arte> --slug <slug>`.)*
+2. As variantes responsivas (`thumb` 360px, `mobile` 640px, `tablet` 1080px, `desktop` 1696px) são geradas automaticamente em tempo de build pela `leia-me/api` via `sharp`. Arquivos locais auxiliares de manipulação (`.png`, `.jpg`) ao lado do `.webp` são ignorados pelo `.gitignore`.
+3. Inspecione visualmente `assets/covers/<slug>.webp` para validar legibilidade e ausência de artefatos, e atualize o status na tabela do [ROADMAP_COVERS.md](ROADMAP_COVERS.md).

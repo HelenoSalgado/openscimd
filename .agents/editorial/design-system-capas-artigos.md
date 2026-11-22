@@ -54,10 +54,8 @@ Cada revista acadêmica do acervo possui uma assinatura cromática fixa para as 
 
 ---
 
-## 4. Pipeline de Composição e Saídas Responsivas (WebP)
+## 4. Pipeline de Composição e Saída Canônica (WebP q100)
 
-O subagente multimodal (`image-generator`) gera **apenas** a arte geométrica 2:3 de fundo sem texto. A tipografia editorial e as saídas WebP são geradas pela CLI local via `uv run openscimd compose-cover <caminho-da-arte> --slug <slug> --build` (alias de `inject-text`), produzindo `assets/covers/originals/<slug>.png` e:
-1. **Desktop**: `assets/covers/desktop/<slug>.webp` (`1696 × 2528 px`)
-2. **Tablet**: `assets/covers/tablet/<slug>.webp` (`1200 × 1789 px`)
-3. **Mobile**: `assets/covers/mobile/<slug>.webp` (`1080 × 1610 px`)
-4. Inspecione visualmente `assets/covers/desktop/<slug>.webp` antes da aprovação final.
+O subagente multimodal (`image-generator`) gera **apenas** a arte geométrica 2:3 de fundo sem texto. A tipografia editorial e o arquivo canônico em WebP (qualidade 100) são gerados pela CLI local via `uv run openscimd compose-cover <caminho-da-arte> --slug <slug>` (alias de `inject-text`), produzindo diretamente `assets/covers/<slug>.webp` (`1696 × 2528 px`).
+
+Inspecione visualmente `assets/covers/<slug>.webp` antes da aprovação final. As variantes responsivas (`thumb` 360px, `mobile` 640px, `tablet` 1080px, `desktop` 1696px) são geradas automaticamente pelo pipeline de build da `leia-me/api`. Extensões locais auxiliares de manipulação (`.png`, `.jpg`) ao lado do `.webp` são ignoradas pelo `.gitignore`.

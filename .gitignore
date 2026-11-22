@@ -1,5 +1,6 @@
 .env
-assets/covers/originals
+assets/covers/*
+!assets/covers/*.webp
 artfacts-saloppdf
 data/raw/
 data/draft/

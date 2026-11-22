@@ -246,9 +246,9 @@ def validate_single_file(
 
             if check_assets:
                 base_name = target.stem
-                if not (root / "assets" / "covers" / "mobile" / f"{base_name}.webp").exists():
+                if not (root / "assets" / "covers" / f"{base_name}.webp").exists():
                     warnings.append(
-                        f"Imagem de capa mobile correspondente não localizada em assets/covers/mobile/{base_name}.webp."
+                        f"Imagem de capa canônica não localizada em assets/covers/{base_name}.webp."
                     )
                 sources_dir = root / "assets" / "sources"
                 if not (sources_dir / f"{base_name}.pdf").exists() and not any(sources_dir.glob(f"{base_name}.*")):
@@ -265,9 +265,9 @@ def validate_single_file(
 
             if check_assets:
                 base_name = target.stem
-                if not (root / "assets" / "covers" / "mobile" / f"{base_name}.webp").exists():
+                if not (root / "assets" / "covers" / f"{base_name}.webp").exists():
                     warnings.append(
-                        f"Imagem de capa mobile correspondente não localizada em assets/covers/mobile/{base_name}.webp."
+                        f"Imagem de capa canônica não localizada em assets/covers/{base_name}.webp."
                     )
 
         if check_assets:
