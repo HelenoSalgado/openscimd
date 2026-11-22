@@ -103,6 +103,29 @@ def test_lint_abnt_allows_abbreviation_dot_before_anchor() -> None:
     assert not any(issue.code == "ED010" for issue in report.all_issues)
 
 
+def test_lint_footnote_after_inline_math_and_code() -> None:
+    valid_doc = _valid_doc(
+        "## Introdução\n\n"
+        "Se o universo for euclidiano, tem-se $F = 4\\pi r^2$[^1]; e para o termo `código`[^2].\n\n"
+        "---\n\n"
+        "### Notas do Autor\n\n"
+        "[^1]: Nota sobre fórmula inline.\n\n"
+        "[^2]: Nota sobre código inline."
+    )
+    valid_report = lint_markdown_text(valid_doc)
+    assert not any(issue.code in {"ED009", "ED010"} for issue in valid_report.all_issues)
+
+    spaced_doc = _valid_doc(
+        "## Introdução\n\n"
+        "Se o universo for euclidiano, tem-se $F = 4\\pi r^2$ [^1];\n\n"
+        "---\n\n"
+        "### Notas do Autor\n\n"
+        "[^1]: Nota com espaço antes da âncora."
+    )
+    spaced_report = lint_markdown_text(spaced_doc)
+    assert any(issue.code == "ED009" for issue in spaced_report.errors)
+
+
 def test_lint_ed012_allows_hr_before_bibliography_but_rejects_between_note_sections() -> None:
     doc_with_bib = _valid_doc(
         "## Introdução\n\n"

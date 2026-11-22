@@ -1,7 +1,7 @@
 {
   "repo_name": "OpenSciMD",
   "type": "books",
-  "last_updated": 1795269917133,
+  "last_updated": 1795312172493,
   "books": [
     {
       "id": "book_001",
@@ -21,6 +21,26 @@
       "license": "Domínio Público",
       "language": "pt-BR",
       "originalLanguage": "la",
+      "translator": "OpenSciMD"
+    },
+    {
+      "id": "book_027",
+      "title": "Sobre a Teoria da Relatividade Especial e Geral",
+      "author": "Albert Einstein",
+      "summary": "Exposição popular e rigorosa dos fundamentos da relatividade especial e geral escrita por Albert Einstein em 1916 para leitores com formação geral.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/content/books/albert-einstein/sobre-a-teoria-da-relatividade-especial-e-geral.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/covers/mobile/sobre-a-teoria-da-relatividade-especial-e-geral.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/assets/sources/sobre-a-teoria-da-relatividade-especial-e-geral.pdf",
+      "categories": [
+        "Filosofia",
+        "Física"
+      ],
+      "udc": "1:53",
+      "published_at": 1795311692227,
+      "estimated_reading_time_min": 131,
+      "license": "Domínio Público",
+      "language": "pt-BR",
+      "originalLanguage": "de",
       "translator": "OpenSciMD"
     },
     {

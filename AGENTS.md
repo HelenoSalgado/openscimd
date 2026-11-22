@@ -30,7 +30,7 @@ Este arquivo é o ponto de entrada obrigatório para qualquer agente de IA traba
 | Etapa | Quando usar | Comando exato | Destino / Saída |
 | :--- | :--- | :--- | :--- |
 | **1a. Ingestão PDF (padrão)** | PDF digital com texto selecionável | `uv run openscimd import-pdf data/raw/<x>.pdf -o data/draft/<x>.md` | `data/draft/<x>.md` |
-| **1b. Ingestão PDF (pesado)** | PDF escaneado, OCR complexo, colunas/tabelas | `MINERU_VIRTUAL_VRAM_SIZE=16 MINERU_MIN_BATCH_INFERENCE_SIZE=512 saloppdf data/raw/<x>.pdf artfacts-saloppdf` | Ver `docs/saloppdf.md` |
+| **1b. Ingestão PDF (remoto/GPU Colab)** | PDF escaneado, fórmulas ou OCR complexo | `uv run openscimd remote-extract data/raw/<x>.pdf -o data/draft/ [--gpu T4]` | `data/draft/<x>.md` (Ver `docs/colab-integration.md`) |
 | **1c. Ingestão HTML legado** | HTML antigo baseado em tabelas/Windows-1252 | `uv run openscimd clean-html data/raw/<x>.htm data/draft/<x>.md [-a "<Autor>"]` | `data/draft/<x>.md` |
 | **1d. Ingestão HTML moderno** | HTML estruturado ou com frames | `uv run openscimd html-to-md data/raw/<x>.html data/draft/<x>.md` | `data/draft/<x>.md` |
 | **2. Iniciar revisão** | Nova obra (`data/draft/`) ou re-revisão (`content/`) | `uv run openscimd start-review <origem> [--type articles\|books] [--dest <subcaminho>]` | `data/review/.../<x>.md` + `.audit.md` |

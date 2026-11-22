@@ -2,7 +2,7 @@
   "schema_version": 1,
   "sequences": {
     "art": 35,
-    "book": 26
+    "book": 27
   },
   "entries": {
     "art_001": {
@@ -920,6 +920,21 @@
       "last_body_sha256": "0ac74fab3770d1b834e3bb8bb467ca07b1580547b05149dbcc91d8b4106ebaef",
       "created_at": 1791697776551,
       "updated_at": 1795202052620,
+      "retired_at": null
+    },
+    "book_027": {
+      "id": "book_027",
+      "kind": "book",
+      "status": "active",
+      "current_rel_path": "albert-einstein/sobre-a-teoria-da-relatividade-especial-e-geral.md",
+      "past_rel_paths": [],
+      "canonical_title": "Sobre a Teoria da Relatividade Especial e Geral",
+      "canonical_author": "Albert Einstein",
+      "doi": null,
+      "first_body_sha256": "d775cce1b01d61d0de67193de7ff76e80049ed304cc2cc2fe7c1cfa67ddc983d",
+      "last_body_sha256": "d775cce1b01d61d0de67193de7ff76e80049ed304cc2cc2fe7c1cfa67ddc983d",
+      "created_at": 1795311692227,
+      "updated_at": 1795312172170,
       "retired_at": null
     }
   }

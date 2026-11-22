@@ -141,7 +141,7 @@ categories:
 
 ### 4.2. Namespaces Estritos de Notas
 - **`[^1]`, `[^2]`, ...**: estritamente para **Notas do Autor** (100% literais e fiéis de `1` a `N` ao original; nunca renumere nem suprima).
-- **`[^nt1]`, `[^nt2]`, ...**: estritamente para **Notas do Tradutor** (glosas filológicas, termos gregos/latinos).
+- **`[^nt1]`, `[^nt2]`, ...**: estritamente para **Notas do Tradutor** (glosas filológicas, termos gregos/latinos). Como já são agrupadas sob `### Notas do Tradutor`, dispensa-se o prefixo redundante `**N. do T.**:`.
 - **`[^ne1]`, `[^ne2]`, ...**: estritamente para **Notas Editoriais** (paginação canônica, proveniência, mini-bio do tradutor primário).
 - A numeração dentro de cada namespace deve ser contínua a partir de 1 (`[^ne1]` antes de `[^ne2]`).
 
@@ -163,7 +163,7 @@ Use **um único separador horizontal `---`** ao final do corpo do texto, seguido
 
 ### Notas do Tradutor
 
-[^nt1]: **N. do T.**: O termo grego *axíōmata* (ἀξιώματα) designa proposições admitidas sem demonstração.
+[^nt1]: O termo grego *axíōmata* (ἀξιώματα) designa proposições admitidas sem demonstração.
 
 ### Notas do Autor
 

@@ -37,6 +37,7 @@ Para navegação limpa no Sumário (TOC) do leitor **LeiaME**:
 2. Agrupe as declarações em subseções `###` por categoria (`### Notas Editoriais`, `### Notas do Tradutor`, `### Notas do Autor`).
 3. Separe **cada definição de nota com uma linha em branco**.
 4. Mantenha sequência contínua a partir de 1 em cada namespace (`[^ne1]`, `[^ne2]`...).
+5. Sob `### Notas do Tradutor`, dispensa-se o prefixo redundante `**N. do T.**:` (a subseção já identifica a autoria da nota).
 
 ### ✅ Exemplo Canônico Completo
 
@@ -53,7 +54,7 @@ O método sugerido por Aristóteles na *Física*[^1] apoia-se em pressupostos co
 
 ### Notas do Tradutor
 
-[^nt1]: **N. do T.**: *ἀξιώματα* (*axíōmata*) — Axiomas; proposições fundamentais admitidas sem demonstração.
+[^nt1]: *ἀξιώματα* (*axíōmata*) — Axiomas; proposições fundamentais admitidas sem demonstração.
 
 ### Notas do Autor
 

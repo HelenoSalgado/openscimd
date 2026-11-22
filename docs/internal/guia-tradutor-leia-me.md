@@ -38,7 +38,7 @@ Este guia estabelece o padrão editorial, filológico e estrutural para quem tra
 
     ### Notas do Tradutor
 
-    [^nt1]: **N. do T.**: Esclarecimento filológico sobre o termo grego.
+    [^nt1]: Esclarecimento filológico sobre o termo grego.
 
     ### Notas do Autor
 

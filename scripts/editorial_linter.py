@@ -425,7 +425,10 @@ def _check_footnote_sequence(namespace: str, ids: list[str], severity: Severity)
     ]
 
 
-def _check_footnotes(masked_with_fn_lines: list[str]) -> list[EditorialIssue]:
+def _check_footnotes(
+    masked_with_fn_lines: list[str],
+    raw_lines: list[str] | None = None,
+) -> list[EditorialIssue]:
     issues: list[EditorialIssue] = []
     defined: dict[str, int] = {}
     anchored: dict[str, int] = {}
@@ -434,6 +437,7 @@ def _check_footnotes(masked_with_fn_lines: list[str]) -> list[EditorialIssue]:
     def_lines: list[int] = []
 
     for line_no, line in enumerate(masked_with_fn_lines, start=1):
+        orig_line = raw_lines[line_no - 1] if raw_lines is not None and line_no - 1 < len(raw_lines) else line
         def_match = _FOOTNOTE_DEF_RE.match(line)
         if def_match:
             fn_id = def_match.group(1)
@@ -466,20 +470,20 @@ def _check_footnotes(masked_with_fn_lines: list[str]) -> list[EditorialIssue]:
                 anchored[fn_id] = line_no
 
             abs_pos = line_offset + m.start()
-            if abs_pos >= 2 and line[abs_pos - 1] in (" ", "\t") and not line[:abs_pos].isspace():
+            if abs_pos >= 2 and orig_line[abs_pos - 1] in (" ", "\t") and not orig_line[:abs_pos].isspace():
                 issues.append(
                     EditorialIssue(
                         code="ED009",
                         severity="error",
                         line=line_no,
                         message=f"Espaço indevido antes da âncora [^{fn_id}].",
-                        excerpt=line[max(0, abs_pos - 20) : abs_pos + 15].strip(),
+                        excerpt=orig_line[max(0, abs_pos - 20) : abs_pos + 15].strip(),
                     )
                 )
 
-            if abs_pos >= 1 and line[abs_pos - 1] in (",", ";", ":", "!", "?", "."):
-                prev_char = line[abs_pos - 1]
-                prefix = line[:abs_pos]
+            if abs_pos >= 1 and orig_line[abs_pos - 1] in (",", ";", ":", "!", "?", "."):
+                prev_char = orig_line[abs_pos - 1]
+                prefix = orig_line[:abs_pos]
                 if prev_char != "." or not _ABBREV_BEFORE_DOT_RE.search(prefix):
                     issues.append(
                         EditorialIssue(
@@ -490,7 +494,7 @@ def _check_footnotes(masked_with_fn_lines: list[str]) -> list[EditorialIssue]:
                                 f"Âncora [^{fn_id}] após pontuação '{prev_char}' viola o padrão ABNT/português "
                                 f"(coloque a âncora antes da pontuação: palavra[^{fn_id}]{prev_char})."
                             ),
-                            excerpt=line[max(0, abs_pos - 20) : abs_pos + 15].strip(),
+                            excerpt=orig_line[max(0, abs_pos - 20) : abs_pos + 15].strip(),
                         )
                     )
 
@@ -999,7 +1003,7 @@ def lint_markdown_text(
 
     issues: list[EditorialIssue] = []
     issues.extend(_check_headings(masked_prose_lines, notes_start_line=notes_start_line))
-    issues.extend(_check_footnotes(masked_with_fn_lines))
+    issues.extend(_check_footnotes(masked_with_fn_lines, raw_lines=raw_lines))
     issues.extend(_check_typography_and_ocr(masked_prose_lines, masked_prose))
     issues.extend(_check_list_spacing(raw_lines))
 

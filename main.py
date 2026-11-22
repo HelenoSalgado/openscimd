@@ -70,6 +70,39 @@ def batch_import_cmd(
         raise typer.Exit(code=1) from exc
 
 
+@app.command(name="remote-extract", rich_help_panel=_PANEL_INGEST)
+def remote_extract_cmd(
+    pdf_path: str = typer.Argument(..., help="Caminho do PDF escaneado em data/raw/"),
+    output_dir: str = typer.Option("data/draft", "--output-dir", "-o", help="Diretório de saída para os rascunhos MD."),
+    gpu_type: str = typer.Option("T4", "--gpu", "-g", help="Tipo de acelerador GPU (T4, L4, A100)."),
+    lang: str = typer.Option("latin", "--lang", "-l", help="Idioma/alfabeto OCR (latin, en, etc.)."),
+    session_name: str | None = typer.Option(None, "--session", "-s", help="Nome da sessão remota no Colab."),
+    keep_alive: bool = typer.Option(
+        False, "--keep-alive", help="Manter a sessão ativa após a conclusão (para processamento em lote)."
+    ),
+) -> None:
+    """Extrai PDF escaneado remotamente em GPU no Google Colab via saloppdf e SSH."""
+    from scripts.colab_runner import DEFAULT_SESSION, execute_remote_extraction
+
+    try:
+        pdf_file = Path(pdf_path).resolve()
+        out_path = Path(output_dir).resolve()
+        sess = session_name or DEFAULT_SESSION
+
+        res = execute_remote_extraction(
+            pdf_path=pdf_file,
+            output_dir=out_path,
+            session_name=sess,
+            gpu_type=gpu_type,
+            lang=lang,
+            keep_alive=keep_alive,
+        )
+        typer.secho(f"✅ Extração remota finalizada com sucesso: {res}", fg=typer.colors.GREEN)
+    except Exception as exc:
+        typer.secho(f"❌ Erro na extração remota: {exc}", fg=typer.colors.RED)
+        raise typer.Exit(code=1) from exc
+
+
 @app.command(name="clean-html", rich_help_panel=_PANEL_INGEST)
 def clean_html_cmd(
     input_file: str = typer.Argument(..., help="Caminho do arquivo HTML legado para conversão."),
@@ -158,7 +191,9 @@ def assemble_book_cmd(
 @app.command(name="start-review", rich_help_panel=_PANEL_REVIEW)
 def start_review_cmd(
     source: str = typer.Argument(..., help="Arquivo de origem em data/draft/ ou obra publicada em content/."),
-    dest: str | None = typer.Option(None, "--dest", "-d", help="Subcaminho relativo de destino em data/review/<type>/."),
+    dest: str | None = typer.Option(
+        None, "--dest", "-d", help="Subcaminho relativo de destino em data/review/<type>/."
+    ),
     doc_type: str | None = typer.Option(None, "--type", "-t", help="Tipo de obra: 'articles' ou 'books'."),
     no_audit: bool = typer.Option(False, "--no-audit", help="Não gera manifesto .audit.md de blocos."),
     overwrite: bool = typer.Option(False, "--overwrite", "-f", help="Sobrescreve cópia existente em data/review/."),
@@ -276,7 +311,9 @@ def validate(
     source: str | None = typer.Option(None, "--source", "-s", help="Matriz local original para comparar com --file."),
     editorial: bool = typer.Option(False, "--editorial", help="Ativa também o linter editorial na validação global."),
     strict: bool = typer.Option(False, "--strict", help="Falha também quando houver alertas (warnings)."),
-    translated: bool = typer.Option(False, "--translated", help="Usa faixas de comparação para tradução contra --source."),
+    translated: bool = typer.Option(
+        False, "--translated", help="Usa faixas de comparação para tradução contra --source."
+    ),
 ) -> None:
     """Valida formato, metadados e integridade editorial de artigos e e-books."""
     from scripts.validator import (
@@ -334,7 +371,9 @@ def validate(
 @app.command(name="lint", rich_help_panel=_PANEL_VALIDATE)
 def lint_cmd(
     target_path: str = typer.Argument(..., help="Arquivo Markdown ou diretório para checagem editorial."),
-    source: str | None = typer.Option(None, "--source", "-s", help="Matriz local original (apenas para arquivo único)."),
+    source: str | None = typer.Option(
+        None, "--source", "-s", help="Matriz local original (apenas para arquivo único)."
+    ),
     doc_type: str | None = typer.Option(None, "--type", "-t", help="Tipo opcional ('article' ou 'book')."),
     translated: bool = typer.Option(False, "--translated", help="Ajusta tolerância de extensão para obra traduzida."),
     strict: bool = typer.Option(False, "--strict", help="Retorna código de erro também em alertas (warnings)."),
@@ -506,7 +545,9 @@ def validate_kindle_cmd(
         raise typer.Exit(code=1)
 
     if strict and res.warnings:
-        typer.secho("\n⚠️  Validação Kindle: APROVADO COM RESSALVAS (--strict ativo).", fg=typer.colors.YELLOW, bold=True)
+        typer.secho(
+            "\n⚠️  Validação Kindle: APROVADO COM RESSALVAS (--strict ativo).", fg=typer.colors.YELLOW, bold=True
+        )
         raise typer.Exit(code=1)
 
     typer.secho(
@@ -524,7 +565,9 @@ def promote_cmd(
     review_file: str = typer.Argument(..., help="Caminho do arquivo em data/review/articles/ ou data/review/books/."),
     source: str | None = typer.Option(None, "--source", "-s", help="Matriz local original para auditoria final."),
     strict: bool = typer.Option(False, "--strict", help="Bloqueia promoção também em alertas (warnings)."),
-    run_index: bool = typer.Option(False, "--index", help="Atualiza índices JSON e valida ledger de IDs após promover."),
+    run_index: bool = typer.Option(
+        False, "--index", help="Atualiza índices JSON e valida ledger de IDs após promover."
+    ),
     dry_run: bool = typer.Option(False, "--dry-run", help="Executa o gate sem mover ou apagar arquivos."),
     translated: bool = typer.Option(False, "--translated", help="Usa faixas de comparação para obra traduzida."),
 ) -> None:
@@ -619,12 +662,17 @@ def build_epub_cmd(
     from scripts.md2epub import batch_convert_content, convert_md_to_epub
 
     if not all_items and not input_file:
-        typer.secho("❌ Forneça o caminho do arquivo Markdown ou utilize a flag '--all' para compilar em lote.", fg=typer.colors.RED)
+        typer.secho(
+            "❌ Forneça o caminho do arquivo Markdown ou utilize a flag '--all' para compilar em lote.",
+            fg=typer.colors.RED,
+        )
         raise typer.Exit(code=1)
 
     try:
         if all_items:
-            typer.secho(f"🚀 Iniciando compilação em lote do catálogo ({target_type})...\n", fg=typer.colors.CYAN, bold=True)
+            typer.secho(
+                f"🚀 Iniciando compilação em lote do catálogo ({target_type})...\n", fg=typer.colors.CYAN, bold=True
+            )
             res = batch_convert_content(
                 base_dir=BASE_DIR,
                 target_type=target_type,
@@ -634,7 +682,9 @@ def build_epub_cmd(
                 add_institutional_page=not no_institutional,
             )
             for item in res["succeeded"]:
-                rel_out = item["output"].relative_to(BASE_DIR) if item["output"].is_relative_to(BASE_DIR) else item["output"]
+                rel_out = (
+                    item["output"].relative_to(BASE_DIR) if item["output"].is_relative_to(BASE_DIR) else item["output"]
+                )
                 typer.secho(f"  ✅ {item['source'].stem} -> {rel_out} ({item['size_kb']} KB)", fg=typer.colors.GREEN)
 
             if res["failed"]:
@@ -685,16 +735,22 @@ def build_print_cmd(
     from scripts.md2print import batch_convert_print, convert_md_to_print
 
     if not all_items and not input_file:
-        typer.secho("❌ Forneça o arquivo Markdown do livro ou use a flag '--all' para compilar em lote.", fg=typer.colors.RED)
+        typer.secho(
+            "❌ Forneça o arquivo Markdown do livro ou use a flag '--all' para compilar em lote.", fg=typer.colors.RED
+        )
         raise typer.Exit(code=1)
 
     try:
         if all_items:
-            typer.secho("🚀 Iniciando compilação de livros físicos em lote para impressão...\n", fg=typer.colors.CYAN, bold=True)
+            typer.secho(
+                "🚀 Iniciando compilação de livros físicos em lote para impressão...\n", fg=typer.colors.CYAN, bold=True
+            )
             res_batch = batch_convert_print(base_dir=BASE_DIR)
             for item in res_batch["succeeded"]:
                 rel_src = item["source"].name
-                typer.secho(f"  ✅ {rel_src}: {item['pages']} págs | Lombada: {item['spine_mm']} mm", fg=typer.colors.GREEN)
+                typer.secho(
+                    f"  ✅ {rel_src}: {item['pages']} págs | Lombada: {item['spine_mm']} mm", fg=typer.colors.GREEN
+                )
                 typer.secho(f"     📖 Miolo: {item['interior_pdf']}", fg=typer.colors.WHITE)
                 typer.secho(f"     🎨 Capa:  {item['cover_pdf']}\n", fg=typer.colors.WHITE)
 
@@ -799,7 +855,9 @@ def search_rag_cmd(
                 fg=typer.colors.CYAN,
                 bold=True,
             )
-            typer.secho(f"    📖 Seção: {res_item['heading']} | Score BM25: {res_item['rank_score']}", fg=typer.colors.WHITE)
+            typer.secho(
+                f"    📖 Seção: {res_item['heading']} | Score BM25: {res_item['rank_score']}", fg=typer.colors.WHITE
+            )
             typer.secho(f"    📄 Markdown: {res_item['markdown_path']}", fg=typer.colors.MAGENTA)
             if res_item["source_path"]:
                 typer.secho(f"    🔗 Fonte Primária: {res_item['source_path']}", fg=typer.colors.BLUE)
