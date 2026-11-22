@@ -78,3 +78,19 @@ Muitos tratados clássicos e edições críticas reúnem:
 2. Portanto, para obras com múltiplas fontes, o arquivo de entrada com o slug exato deve ser obrigatoriamente **`assets/sources/{slug}.html`**.
 3. Eventuais arquivos PDF e DOCX da tradução devem usar sufixos descritivos (ex.: `{slug}-traducao.pdf`, `{slug}.docx`) e estar linkados dentro da página `{slug}.html`.
 4. Assim, o leitor não encontra o `{slug}.pdf` e resolve com sucesso o `{slug}.html`, apresentando ao usuário a página hub com acesso completo a todas as fontes primárias e secundárias.
+
+---
+
+## 4. Resolução Responsiva de Figuras (`assets/images/figures/`)
+
+Nos documentos Markdown em `content/`, as figuras internas apontam diretamente para o arquivo original em `/assets/images/figures/<arquivo>.<ext>`, sem parâmetro de query.
+
+Ao renderizar a imagem para o usuário, o leitor multiplataforma e o cliente Web anexam o parâmetro `?size=<variante>` de acordo com a largura disponível:
+
+| Breakpoint (`dp` / `px`) | Parâmetro enviado à API | Largura gerada na API (`sharp` WebP q85) |
+| :--- | :--- | :--- |
+| `< 600` | `?size=mobile` | `480px` |
+| `600..959` | `?size=tablet` | `768px` |
+| `>= 960` | `?size=desktop` | `1200px` |
+
+Capas (`/assets/covers/`), avatares (`/assets/authors/`) e fontes primárias (`/assets/sources/`) permanecem preservados sem acréscimo de `?size=`.

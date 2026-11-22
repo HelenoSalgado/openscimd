@@ -642,14 +642,6 @@ def build_covers(
     convert_covers(str(BASE_DIR), target_file=target_file, force=force)
 
 
-@app.command(rich_help_panel=_PANEL_COVERS)
-def build_assets() -> None:
-    """Converte e redimensiona os assets de imagens."""
-    from scripts.assets import convert_assets
-
-    convert_assets(str(BASE_DIR))
-
-
 # ── 6. Exportação & RAG ────────────────────────────────────────────────────────
 
 

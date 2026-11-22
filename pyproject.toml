@@ -63,7 +63,6 @@ extend-exclude = [
     "scripts/fidelity_checker.py",
     "scripts/bible_aligner.py",
     # Módulos e testes legados fora do escopo desta refatoração (ratchet gradual)
-    "scripts/assets.py",
     "scripts/covers.py",
     "scripts/html2md.py",
     "scripts/indexer.py",

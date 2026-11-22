@@ -314,11 +314,11 @@ O fato de alterações deliberadas, e aparentemente numerosas, nos primeiros ano
 
 Para ilustrar o segundo ponto, a visão de Hort quanto à história textual primitiva pode ser representada pela figura A:
 
-![Figura A: A visão de Hort quanto à história textual primitiva](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-a.webp)
+![Figura A: A visão de Hort quanto à história textual primitiva](/assets/images/figures/qual-o-texto-original-do-novo-testamento-figura-a.png)
 
 Já a visão sugerida pelos Pais da Igreja pode ser representada pela figura B (as linhas pontilhadas na figura B representam as maquinações introduzidas por diferentes hereges, como os antigos Pais os chamavam):
 
-![Figura B: A visão sugerida pelos Pais da Igreja](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-b.webp)
+![Figura B: A visão sugerida pelos Pais da Igreja](/assets/images/figures/qual-o-texto-original-do-novo-testamento-figura-b.png)
 
 Genealogia não pode arbitrar as reivindicações conflitantes apresentadas pela primeira fileira de descendentes na Figura B[^100]. Ademais, nas palavras de Colwell:
 
@@ -1234,7 +1234,7 @@ Não somente havia pressão procedente dos autógrafos, mas também pressão exe
 
 Agora, que tipo de quadro podemos esperar encontrar nas testemunhas sobreviventes, na pressuposição que a história da transmissão do Texto do Novo Testamento foi normal? Podemos esperar um largo espectro de cópias, apresentando pequenas diferenças devidas aos erros de copiar, mas todas refletindo uma tradição comum. A existência simultânea de transmissão anormal nos primeiros séculos deixaria um punhado de cópias salpicadas fora daquela corrente principal. O quadro iria ter aparência semelhante à *Figura C*:
 
-![Figura C: O Cone de Transmissão Textual — Transmissão Irresponsável, Normal e Fabricada (AD 100 a AD 1000)](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-2.webp)
+![Figura C: O Cone de Transmissão Textual — Transmissão Irresponsável, Normal e Fabricada (AD 100 a AD 1000)](/assets/images/figures/qual-o-texto-original-do-novo-testamento-figura-2.png)
 
 Os MSS dentro do cone representam a transmissão “normal”. À esquerda tenho colocado alguns possíveis representantes daquilo que poderíamos caracterizar como transmissão “irresponsável” do texto — os copistas produziram cópias defeituosas por causa de incompetência ou descuido, mas não fizeram alterações propositadas. À direita tenho colocado alguns possíveis representantes daquilo que poderíamos caracterizar como a transmissão “fabricada” do texto — os copistas fizeram alterações propositadas no texto (quaisquer que tenham sido as razões), produzindo cópias fabricadas, não cópias verdadeiras. Estou bem ciente que os MSS distribuídos na figura acima contêm tanto erros de descuido quanto erros deliberados, em proporções diferentes (7Q5,4,8 e P⁵² são fragmentos pequenos demais para permitir a classificação de seus erros como deliberados em vez de descuidados), de sorte que uma classificação como esta, não deixa de ser relativa, e apresenta um quadro um pouco distorcido. Mesmo assim, eu insisto em que ignorância, descuido, intromissão e malícia, todos deixaram marcas sobre a transmissão do texto do Novo Testamento, e devemos levá-los em conta em qualquer tentativa de reconstruir a história dessa transmissão.
 
@@ -2360,7 +2360,7 @@ Este argumento não é simplesmente tirado do nada. O que está envolvido pode s
 
 É mostrado, abaixo, um diagrama de uma situação de transmissão [textual], onde uma das três cópias de um autógrafo contém um erro, enquanto duas retêm a redação correta. Subsequentemente, o fenômeno textual conhecido como “mistura” entra em jogo, resultando na introdução de leituras errôneas em bons manuscritos, como também no processo reverso, no qual boas leituras são introduzidas em maus. A declaração do meu irmão a respeito das probabilidades da situação segue-se ao diagrama, nas suas próprias palavras.
 
-![FIGURA 1: Modelo estatístico de transmissão textual (Gerações 1 a 5)](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-3.webp)[^494]
+![FIGURA 1: Modelo estatístico de transmissão textual (Gerações 1 a 5)](/assets/images/figures/qual-o-texto-original-do-novo-testamento-figura-3.png)[^494]
 
 > Contanto que bons e maus manuscritos serão copiados igual número de vezes e que a probabilidade de introdução de uma má leitura ao copiar um bom manuscrito seja igual à probabilidade de reintroduzir uma boa leitura ao copiar um mau manuscrito, a leitura correta predominará em qualquer geração de manuscritos. O grau da predominância da boa leitura depende da probabilidade de introdução do erro.
 > 
@@ -2420,17 +2420,17 @@ Mas isto é entender mal o propósito de tais demonstrações. Naturalmente, o d
 
 Se imaginarmos um estema [ver glossário] como segue:
 
-![FIGURA 2: Estema com transmissão inicial de duas cópias](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-4.webp)
+![FIGURA 2: Estema com transmissão inicial de duas cópias](/assets/images/figures/qual-o-texto-original-do-novo-testamento-figura-4.png)
 
 onde A = autógrafo, e (1) e (2) são cópias feitas a partir dele; é aparente que, *teoricamente*, o erro (em 2) tem uma chance igual à da leitura autêntica (em 1) de ser perpetuado. Mas, naturalmente, *na realidade* (2) pode ter sido copiado mais frequentemente que (1), e assim o erro pode ter sido perpetuado em um número maior de manuscritos posteriores do que a verdadeira leitura (em 1). Tudo bem, até aí. Mas suponha —
 
-![FIGURA 3: Estema com perpetuação assimétrica de erro e leitura verdadeira](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-5.webp)
+![FIGURA 3: Estema com perpetuação assimétrica de erro e leitura verdadeira](/assets/images/figures/qual-o-texto-original-do-novo-testamento-figura-5.png)
 
 Agora, já concedemos que o erro designado (a) está sendo perpetuado em número maior que a verdadeira leitura designada (a), de modo que “erro (a)” é encontrado nas cópias 5-6-7-8, enquanto “leitura verdadeira (a)” é encontrada somente nas cópias 3 e 4. Mas quando “erro (b)” é introduzido na cópia 8, sua rival “verdadeira leitura (b)” é encontrada nas cópias 3-4-5-6-7[^495]. Irá alguém supor, neste ponto, que é sequer um pouco provável que “erro (b)” terá a mesma boa sorte que “erro (a)” e que manuscrito 8 será copiado mais frequentemente que 3-4-5-6-7 juntos?
 
 Mas, mesmo admitindo-se esta situação *muito* menos provável, suponha novamente —
 
-![FIGURA 4: Estema com ampliação geométrica e reversão cumulativa de probabilidades](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-6.webp)
+![FIGURA 4: Estema com ampliação geométrica e reversão cumulativa de probabilidades](/assets/images/figures/qual-o-texto-original-do-novo-testamento-figura-6.png)
 
 Irá alguém crer que as probabilidades favorecem uma repetição da mesma situação para “erro c” na cópia 19?
 
@@ -4020,17 +4020,17 @@ Concluo que 7 é independente e está no mesmo nível dos exemplares de 5 e 6. I
 
 Um desenho ajudará a visualizar as opções. Considere:
 
-![Estemas hipotéticos para 7, 6 e 5 (João 7.53–8.11)](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-7.webp)
+![Estemas hipotéticos para 7, 6 e 5 (João 7.53–8.11)](/assets/images/figures/qual-o-texto-original-do-novo-testamento-figura-7.png)
 
 Se 7 é visto como uma mistura de 5 e 6, a seleção uniforme é estranha, além de uma total ausência de conflações. As seis leituras divididas em 6, mais o fato que 6 tem sete leituras singulares e 5 tem cinco leituras singulares, enquanto 7 tem somente uma leitura singular (precisamente onde todos os três discordam), apontam para a) como a melhor interpretação.
 
-![Estemas hipotéticos para 6, 5 e h (João 7.53–8.11)](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-7b.webp)
+![Estemas hipotéticos para 6, 5 e h (João 7.53–8.11)](/assets/images/figures/qual-o-texto-original-do-novo-testamento-figura-7b.png)
 
 Uma vez que h tem óbvias leituras secundárias, incluindo duas conflações, mais um tanto de mistura, b) parece ser a interpretação exigida. Evidentemente h dependeu mais pesadamente do ancestral de 6 do que daquele de 5.
 
 Agora, ofereço um estema que creio casar com e explicar a evidência estatística que acabei de descrever. O autógrafo é representado por “A”. As letras f, g, h, j, k designam arquétipos reconstruídos. Os números dentro dos nodos são aqueles dos grupos de MSS de Soden. Os números ao lado dos nodos referem-se aos conjuntos de variantes nos quais os nodos introduzem um erro (tais erros vindicam chegarmos à suposição de um nodo, especialmente aqueles reconstruídos): assim f introduz 5 erros, 7 não introduz nenhum, g introduz treze, etc. As linhas sólidas indicam descendência linear, as linhas interrompidas indicam influência ocasional (quanto menores os tracinhos, menor a influência). A simetria é arbitrária, como também a cronologia. Não estou interessado em defender a cronologia, mas acontece que penso que ela está perto da realidade — é uma aproximação possível e até mesmo razoável.
 
-![Estema geral da transmissão de João 7.53–8.11](/assets/desktop/qual-o-texto-original-do-novo-testamento-figura-8.webp)
+![Estema geral da transmissão de João 7.53–8.11](/assets/images/figures/qual-o-texto-original-do-novo-testamento-figura-8.png)
 
 Antes de retornar aos conjuntos de variantes para discutir probabilidades transcricionais, quero comentar o estema. 7, f e g são independentes um do outro, todavia, em qualquer ponto, somente um abandona o original (exceto por #24 onde dois deles [ou todos os três] o fazem, em direções separadas). Isto é exatamente o que esperaríamos de uma transmissão normal, onde os arquétipos em um dado nível são independentes (um do outro). Com exceção de #24 há sempre uma maioria absoluta, da qual 7 sempre faz parte. Considero que 7 tem fielmente preservado o autógrafo[^529], inclusive em #24 (ver a discussão de probabilidades transcricionais, abaixo). f é tolerável, mas g é um desgarrado, como também é 5. h tem um texto misto. (A colocação de “Latim” e “Egito” é deliberada: parece-me que 6 e 4 refletem influência “egípcia”, ao passo que 5 e 1 refletem influência “latina”.)
 

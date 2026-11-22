@@ -20,6 +20,17 @@ DocType = Literal["article", "book"]
 ALLOWED_LANGUAGES: frozenset[str] = frozenset({"pt-BR", "pt-PT"})
 _PLACEHOLDER_TITLES: frozenset[str] = frozenset({"sem título", "sem titulo", "título", "untitled"})
 _PLACEHOLDER_AUTHORS: frozenset[str] = frozenset({"desconhecido", "unknown", "autor desconhecido"})
+_FIGURES_URL_PREFIX: str = "/assets/images/figures/"
+_LEGACY_FIGURE_PREFIXES: tuple[str, ...] = (
+    "/assets/desktop/",
+    "/assets/mobile/",
+    "/assets/tablet/",
+    "/assets/images/desktop/",
+    "/assets/images/tablet/",
+    "/assets/images/mobile/",
+    "/assets/images/originals/",
+)
+_MARKDOWN_IMAGE_RE: re.Pattern[str] = re.compile(r"!\[[^\]]*\]\(([^)\s]+)")
 
 
 @dataclass(frozen=True)
@@ -128,6 +139,50 @@ def _validate_metadata_common(
             warnings.append(msg)
 
 
+def _strip_fenced_code_blocks(body: str) -> str:
+    """Remove o conteúdo de blocos de código cercados (``` ou ~~~) antes de validar figuras."""
+    lines: list[str] = []
+    in_fence = False
+    fence_char = ""
+    fence_len = 0
+    for line in body.splitlines():
+        stripped = line.lstrip()
+        if not in_fence:
+            fence_match = re.match(r"^(`{3,}|~{3,})", stripped)
+            if fence_match:
+                fence = fence_match.group(1)
+                in_fence = True
+                fence_char = fence[0]
+                fence_len = len(fence)
+                continue
+            lines.append(line)
+        else:
+            close_match = re.match(rf"^({re.escape(fence_char)}{{{fence_len},}})\s*$", stripped)
+            if close_match:
+                in_fence = False
+                fence_char = ""
+                fence_len = 0
+    return "\n".join(lines)
+
+
+def _validate_markdown_figures(body: str, root: Path, errors: list[str]) -> None:
+    """Valida que referências locais a figuras usam /assets/images/figures/ e existem em disco."""
+    clean_body = _strip_fenced_code_blocks(body)
+    for match in _MARKDOWN_IMAGE_RE.finditer(clean_body):
+        raw_url = match.group(1).strip("<>")
+        url_path = raw_url.split("?", 1)[0].split("#", 1)[0]
+        if url_path.startswith(_FIGURES_URL_PREFIX):
+            rel_parts = Path(url_path.lstrip("/")).parts
+            target_file = root / url_path.lstrip("/")
+            if ".." in rel_parts or not target_file.is_file():
+                errors.append(f'Figura referenciada não encontrada em disco: "{url_path}".')
+        elif url_path.startswith(_LEGACY_FIGURE_PREFIXES):
+            errors.append(
+                f'Caminho legado de figura detectado ("{url_path}"). '
+                'Use "/assets/images/figures/<arquivo>.<ext>".'
+            )
+
+
 def validate_single_file(
     file_path: str | Path,
     base_dir: str | Path,
@@ -214,6 +269,10 @@ def validate_single_file(
                     warnings.append(
                         f"Imagem de capa mobile correspondente não localizada em assets/covers/mobile/{base_name}.webp."
                     )
+
+        if check_assets:
+            body_text = str(parsed.get("body", ""))
+            _validate_markdown_figures(body_text, root, errors)
 
         if check_editorial:
             lint_report: LintReport = lint_markdown_file(

@@ -266,12 +266,12 @@ def test_find_cover_image_found_and_webp_fallback(tmp_path):
 def test_convert_md_to_epub_with_webp_assets_and_authors_list(tmp_path):
     (tmp_path / "pyproject.toml").write_text("[project]\nname='test'\n", encoding="utf-8")
 
-    # Criar capa WebP e figura WebP referenciada como /assets/desktop/fig1.webp
+    # Criar capa WebP e figura WebP referenciada como /assets/images/figures/fig1.webp
     cover_dir = tmp_path / "assets" / "covers" / "originals"
     cover_dir.mkdir(parents=True)
     Image.new("RGB", (300, 450), color=(30, 40, 70)).save(cover_dir / "livro-teste.webp", format="WEBP")
 
-    fig_dir = tmp_path / "assets" / "desktop"
+    fig_dir = tmp_path / "assets" / "images" / "figures"
     fig_dir.mkdir(parents=True)
     Image.new("RGB", (200, 120), color=(120, 90, 40)).save(fig_dir / "fig1.webp", format="WEBP")
 
@@ -287,7 +287,7 @@ date: "399 a.C."
 summary: "Um resumo conciso sobre o exemplar."
 ---
 
-![Ilustração Histórica](/assets/desktop/fig1.webp)
+![Ilustração Histórica](/assets/images/figures/fig1.webp)
 
 ## Capítulo Primeiro[^ne1]
 

@@ -27,7 +27,7 @@ openscimd/
 │   └── openscimd_rag.sqlite         # Banco vetorial/textual SQLite FTS5 (BM25)
 ├── assets/
 │   ├── covers/{originals,desktop,tablet,mobile}/  # Capas 2:3 em PNG e WebP responsivo
-│   ├── images/                      # Ilustrações internas responsivas
+│   ├── images/figures/              # Figuras internas originais (redimensionamento WebP via pipeline da API)
 │   └── sources/                     # Fontes primárias públicas (PDF ou Hub HTML)
 ├── scripts/                         # Módulos Python da CLI e regras de negócio
 │   ├── workflow.py                  # Transições start-review e promote
@@ -74,7 +74,8 @@ Para garantir que IDs (`art_001`, `book_001`) consumidos pelo leitor **LeiaME** 
 - [`editorial_linter.py`](../scripts/editorial_linter.py) mascara frontmatter YAML, blocos de código, matemática e URLs antes de inspecionar: hierarquia de cabeçalhos e Title Case (`ED001`–`ED004`), aspas (`ED005`), integridade/sequência/ABNT de notas de rodapé (`ED006`–`ED012`), meia-risca em intervalos numéricos (`ED013`), referências bíblicas (`ED014`), artefatos de OCR (`ED015`) e desvios quantitativos contra a matriz local (`SRC001`–`SRC002`).
 - [`validator.py`](../scripts/validator.py) unifica a verificação de metadados YAML com o linter no comando `uv run openscimd validate --file ...` e bloqueia promoções inválidas em `promote`.
 
-### 3. Exportação, Capas e RAG
+### 3. Exportação, Capas, Figuras e RAG
 - **Capas**: arte de fundo 2:3 gerada por subagente multimodal; `compose-cover` (`inject-text`) e `build-covers` aplicam a tipografia canônica e produzem variantes WebP responsivas (`1696×2528`, `1200×1789`, `1080×1610`).
+- **Figuras internas**: o repositório mantém apenas os arquivos originais em `assets/images/figures/<arquivo>.<ext>`, referenciados diretamente nos arquivos Markdown. Durante o build da `leia-me/api`, o pipeline com `sharp` gera as variantes WebP responsivas (`mobile` 480px, `tablet` 768px, `desktop` 1200px) servidas via `?size=mobile|tablet|desktop`.
 - **EPUB & Impresso**: `build-epub` + `validate-kindle` geram e auditam EPUB 3 para KDP; `build-print` compila miolo e capa aberta via Typst (`scripts/templates/book_print.typ`).
 - **RAG Local**: `build-rag` e `search-rag` indexam seções semânticas em `data/openscimd_rag.sqlite` com `unicode61 remove_diacritics 2` e ranqueamento BM25.

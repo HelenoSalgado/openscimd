@@ -12,7 +12,7 @@ categories:
 license: "Domínio Público"
 ---
 
-![Retrato de Petrus Ramus (1515–1572)](/assets/desktop/petrus-ramus-portrait-figura-1.webp)
+![Retrato de Petrus Ramus (1515–1572)](/assets/images/figures/petrus-ramus-portrait-figura-1.png)
 
 ## *Prefácio*
 

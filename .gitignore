@@ -1,8 +1,6 @@
 .env
-assets/images/originals
 assets/covers/originals
 artfacts-saloppdf
-assets/ilustrations
 data/raw/
 data/draft/
 data/assets/

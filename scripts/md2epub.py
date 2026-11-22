@@ -176,7 +176,7 @@ def _ensure_epub_compatible_image(
     if project_root is not None:
         stem = image_path.stem
         fallback_dirs = [
-            project_root / "assets" / "images" / "originals",
+            project_root / "assets" / "images" / "figures",
             project_root / "assets" / "images",
             project_root / "assets" / "covers" / "originals",
         ]
@@ -228,10 +228,12 @@ def _resolve_markdown_images(
         if url_part.startswith("/"):
             rel = url_part.lstrip("/")
             candidates.append(project_root / rel)
-            stem_name = Path(rel).name
-            candidates.append(project_root / "assets" / "images" / "originals" / stem_name)
-            candidates.append(project_root / "assets" / "images" / "desktop" / stem_name)
-            candidates.append(project_root / "assets" / "desktop" / stem_name)
+            figures_dir = project_root / "assets" / "images" / "figures"
+            file_name = Path(rel).name
+            candidates.append(figures_dir / file_name)
+            stem_name = Path(rel).stem
+            for ext in (".png", ".jpg", ".jpeg", ".webp"):
+                candidates.append(figures_dir / f"{stem_name}{ext}")
         else:
             candidates.append((input_dir / url_part).resolve())
             candidates.append((project_root / url_part).resolve())

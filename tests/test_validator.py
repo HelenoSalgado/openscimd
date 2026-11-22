@@ -209,3 +209,59 @@ def test_validate_single_file_accepts_abnt_date_and_enforces_language_and_editor
     assert any('Campo "language"' in err for err in res_bad.errors)
     ed_codes = {issue.code for issue in res_bad.all_editorial_issues}
     assert {"ED001", "ED005"}.issubset(ed_codes)
+
+
+def test_validate_single_file_checks_markdown_figures_and_blocks_legacy_paths(tmp_path: Path) -> None:
+    book_dir = tmp_path / "content" / "books" / "autor-teste"
+    book_dir.mkdir(parents=True)
+    figures_dir = tmp_path / "assets" / "images" / "figures"
+    figures_dir.mkdir(parents=True)
+    (figures_dir / "fig-1.png").write_bytes(b"fake-png")
+    covers_dir = tmp_path / "assets" / "covers" / "mobile"
+    covers_dir.mkdir(parents=True)
+    (covers_dir / "obra-com-figuras.webp").write_bytes(b"fake-webp")
+
+    md_path = book_dir / "obra-com-figuras.md"
+    frontmatter = (
+        "---\n"
+        'title: "Tratado Ilustrado"\n'
+        'author: "Autor Teste"\n'
+        'summary: "Resumo"\n'
+        'date: "2025-01-01"\n'
+        'license: "CC BY 4.0"\n'
+        'language: "pt-BR"\n'
+        "categories:\n"
+        "  - Filosofia\n"
+        "---\n\n"
+    )
+
+    # 1. Figura canônica existente + caminho legado dentro de bloco fenced devem passar
+    md_path.write_text(
+        frontmatter
+        + "![Figura válida](/assets/images/figures/fig-1.png)\n\n"
+        + "```markdown\n![Exemplo](/assets/desktop/exemplo.webp)\n```\n",
+        encoding="utf-8",
+    )
+    res_ok = validate_single_file(md_path, base_dir=tmp_path, check_editorial=False, check_assets=True)
+    assert res_ok.is_valid(), f"Erros inesperados: {res_ok.errors}"
+
+    # 2. Figura ausente em /assets/images/figures/ deve gerar erro
+    md_path.write_text(
+        frontmatter + "![Figura ausente](/assets/images/figures/inexistente.png)\n",
+        encoding="utf-8",
+    )
+    res_missing = validate_single_file(md_path, base_dir=tmp_path, check_editorial=False, check_assets=True)
+    assert not res_missing.is_valid()
+    assert any("/assets/images/figures/inexistente.png" in err for err in res_missing.errors)
+
+    # 3. Caminho legado (/assets/desktop/ e /assets/images/mobile/) deve gerar erro
+    md_path.write_text(
+        frontmatter
+        + "![Legado 1](/assets/desktop/fig-1.webp)\n\n"
+        + "![Legado 2](/assets/images/mobile/fig-1.webp)\n",
+        encoding="utf-8",
+    )
+    res_legacy = validate_single_file(md_path, base_dir=tmp_path, check_editorial=False, check_assets=True)
+    assert not res_legacy.is_valid()
+    assert len(res_legacy.errors) == 2
+    assert all("/assets/images/figures/" in err for err in res_legacy.errors)
