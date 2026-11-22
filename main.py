@@ -607,20 +607,28 @@ def index() -> None:
 # ── 5. Capas & Mídia ───────────────────────────────────────────────────────────
 
 
-@app.command(rich_help_panel=_PANEL_COVERS)
-def ai_cover(article_name: str, custom_style: str | None = None, provider: str = "gemini") -> None:
-    """Gera uma arte de capa conceitual com IA e tipografia vetorial (gemini, openai ou agy)."""
-    from scripts.ai_cover import generate_cover
+@app.command(name="inject-text", rich_help_panel=_PANEL_COVERS)
+@app.command(name="compose-cover", rich_help_panel=_PANEL_COVERS)
+def inject_text(
+    image_path: str = typer.Argument(..., help="Caminho da arte de fundo 2:3 sem texto."),
+    slug: str | None = typer.Option(
+        None, "--slug", "-s", help="Slug canônico da obra para localizar o YAML e nomear a capa."
+    ),
+    custom_text: str | None = typer.Option(
+        None, "--custom-text", "-t", help="Texto manual no formato 'Título|Autor|Data'."
+    ),
+    build: bool = typer.Option(
+        False, "--build", "-b", help="Gera também as variantes WebP responsivas (desktop, tablet, mobile)."
+    ),
+) -> None:
+    """Compõe a tipografia editorial canônica sobre a arte de fundo e salva em assets/covers/originals/."""
+    from scripts.covers import convert_covers, inject_cover_text
 
-    generate_cover(str(BASE_DIR), article_name, custom_style, provider)
-
-
-@app.command(rich_help_panel=_PANEL_COVERS)
-def inject_text(image_path: str, custom_text: str | None = None) -> None:
-    """Injeta texto em capas brutas (tipografia)."""
-    from scripts.covers import inject_cover_text
-
-    inject_cover_text(str(BASE_DIR), image_path, custom_text)
+    dest_path = inject_cover_text(str(BASE_DIR), image_path, custom_text=custom_text, target_slug=slug)
+    if dest_path is None:
+        raise typer.Exit(code=1)
+    if build:
+        convert_covers(str(BASE_DIR), target_file=dest_path.name, force=True)
 
 
 @app.command(rich_help_panel=_PANEL_COVERS)

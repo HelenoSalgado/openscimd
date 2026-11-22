@@ -243,8 +243,8 @@ class TestInjectCoverText:
     def test_composicao_livro(self, tmp_path):
         """Cria uma imagem preta sintética e verifica que a capa é gerada.
 
-        Simula o fluxo real do ai_cover.py: a imagem bruta tem nome .tmp_raw_<slug>
-        e target_slug é passado explicitamente para inject_cover_text.
+        Simula o fluxo real com subagente multimodal: a imagem bruta tem nome
+        genérico e target_slug é passado explicitamente para inject_cover_text.
         """
         base_dir = tmp_path
         originals = base_dir / "assets" / "covers" / "originals"
@@ -252,9 +252,9 @@ class TestInjectCoverText:
         content_books = base_dir / "content" / "books"
         content_books.mkdir(parents=True)
 
-        # Imagem sintética com nome de temporário (como ai_cover.py gera)
+        # Imagem sintética gerada por subagente com nome genérico
         slug = "opusculos-espirituais"
-        raw_img = tmp_path / f".tmp_raw_{slug}.png"
+        raw_img = tmp_path / "arte_subagente.png"
         Image.new("RGB", (800, 1200), color=(10, 10, 20)).save(raw_img)
 
         md = content_books / f"{slug}.md"
@@ -263,9 +263,10 @@ class TestInjectCoverText:
             encoding="utf-8",
         )
 
-        inject_cover_text(str(base_dir), str(raw_img), target_slug=slug)
+        dest = inject_cover_text(str(base_dir), str(raw_img), target_slug=slug)
 
         output = originals / f"{slug}.png"
+        assert dest == output
         assert output.exists(), "A capa final deve ser gerada em originals/"
         with Image.open(output) as img:
             assert img.size == (1696, 2528), "Deve ter a resolução canônica"
@@ -285,7 +286,7 @@ class TestInjectCoverText:
         content_articles.mkdir(parents=True)
 
         slug = "llms-alucinacoes"
-        raw_img = tmp_path / f".tmp_raw_{slug}.png"
+        raw_img = tmp_path / "arte_artigo.png"
         Image.new("RGB", (800, 1200), color=(5, 5, 15)).save(raw_img)
 
         md = content_articles / f"{slug}.md"
@@ -294,9 +295,10 @@ class TestInjectCoverText:
             encoding="utf-8",
         )
 
-        inject_cover_text(str(base_dir), str(raw_img), target_slug=slug)
+        dest = inject_cover_text(str(base_dir), str(raw_img), target_slug=slug)
 
         output = originals / f"{slug}.png"
+        assert dest == output
         assert output.exists()
         with Image.open(output) as img:
             assert img.size == (1696, 2528)
@@ -309,7 +311,7 @@ class TestInjectCoverText:
         raw_img = tmp_path / "raw_test.png"
         Image.new("RGB", (800, 1200), color=(20, 20, 30)).save(raw_img)
 
-        inject_cover_text(
+        dest = inject_cover_text(
             str(base_dir),
             str(raw_img),
             custom_text="Título Teste|Autor Teste|01-01-2025",
@@ -317,9 +319,9 @@ class TestInjectCoverText:
         )
 
         output = base_dir / "assets" / "covers" / "originals" / "raw_test.png"
+        assert dest == output
         assert output.exists()
 
     def test_imagem_nao_encontrada_nao_lanca_excecao(self, tmp_path):
-        """Deve apenas logar o erro, nunca lançar exceção não tratada."""
-        # Não deve levantar, apenas imprimir erro
-        inject_cover_text(str(tmp_path), str(tmp_path / "inexistente.png"))
+        """Deve apenas logar o erro e retornar None, nunca lançar exceção não tratada."""
+        assert inject_cover_text(str(tmp_path), str(tmp_path / "inexistente.png")) is None

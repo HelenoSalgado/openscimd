@@ -299,9 +299,9 @@ def find_markdown_metadata(
 def inject_cover_text(
     base_dir: str,
     raw_image_path: str,
-    custom_text: str = None,
-    target_slug: str = None,
-) -> None:
+    custom_text: str | None = None,
+    target_slug: str | None = None,
+) -> Path | None:
     """
     Compõe a capa final com a ilustração temática ocupando 100% da área (full bleed)
     e tipografia nobre centralizada sobreposta.
@@ -309,7 +309,7 @@ def inject_cover_text(
     img_path = Path(raw_image_path).resolve()
     if not img_path.exists():
         print(f"❌ Imagem não encontrada: {img_path}")
-        return
+        return None
 
     base_name = target_slug or re.sub(r"^\.?tmp_raw_", "", img_path.stem)
 
@@ -363,7 +363,7 @@ def inject_cover_text(
             bg_img = raw_img.crop((x_off, y_off, x_off + W, y_off + H))
     except Exception as exc:
         print(f"❌ Erro ao carregar a imagem de fundo: {exc}")
-        return
+        return None
 
     overlay = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     shadow  = Image.new("RGBA", (W, H), (0, 0, 0, 0))
@@ -472,6 +472,8 @@ def inject_cover_text(
     ):
         img_path.unlink()
         print(f"🧹 Temporário removido: {img_path.name}")
+
+    return dest_path
 
 
 # ══════════════════════════════════════════════════════════════════════════════

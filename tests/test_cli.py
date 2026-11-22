@@ -21,6 +21,9 @@ def test_cli_help() -> None:
     assert "start-review" in result.stdout
     assert "lint" in result.stdout
     assert "promote" in result.stdout
+    assert "compose-cover" in result.stdout
+    assert "inject-text" in result.stdout
+    assert "ai-cover" not in result.stdout
 
 
 def test_cli_clean_md(tmp_path: Path) -> None:
@@ -140,3 +143,35 @@ def test_cli_start_review_validate_lint_and_promote(tmp_path: Path, monkeypatch:
     assert res_promote.exit_code == 0
     assert not rev_file.exists()
     assert (tmp_path / "content" / "articles" / "rev" / "vol-1" / "ensaio.md").exists()
+
+
+def test_cli_compose_cover_with_slug_and_build(tmp_path: Path, monkeypatch: pytest.MonkeyPatch) -> None:
+    from PIL import Image
+
+    monkeypatch.setattr(main, "BASE_DIR", tmp_path)
+
+    book_dir = tmp_path / "content" / "books" / "autor"
+    book_dir.mkdir(parents=True)
+    slug = "obra-teste"
+    (book_dir / f"{slug}.md").write_text(
+        "---\ntitle: \"Obra Teste\"\nauthor: \"Autor Teste\"\ndate: \"1916\"\n---\n\n## Capítulo I\n\nTexto.\n",
+        encoding="utf-8",
+    )
+
+    raw_img = tmp_path / "arte_subagente_123.png"
+    Image.new("RGB", (848, 1264), color=(15, 22, 36)).save(raw_img)
+
+    res = runner.invoke(app, ["compose-cover", str(raw_img), "--slug", slug, "--build"])
+    assert res.exit_code == 0
+    assert raw_img.exists()
+
+    orig_png = tmp_path / "assets" / "covers" / "originals" / f"{slug}.png"
+    assert orig_png.is_file()
+    with Image.open(orig_png) as img:
+        assert img.size == (1696, 2528)
+
+    for variant in ("desktop", "tablet", "mobile"):
+        assert (tmp_path / "assets" / "covers" / variant / f"{slug}.webp").is_file()
+
+    res_missing = runner.invoke(app, ["compose-cover", str(tmp_path / "nao-existe.png"), "--slug", slug])
+    assert res_missing.exit_code != 0

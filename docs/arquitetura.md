@@ -41,7 +41,7 @@ openscimd/
 │   ├── book_assembler.py            # Montagem modular de tratados multi-partes
 │   ├── salopdoc_adapter.py          # Integração com SalopDoc (PDF -> MD)
 │   ├── spellchecker/                # Revisor de arcaísmos + Hunspell pt_BR
-│   ├── covers.py / ai_cover.py      # Composição tipográfica e arte conceitual 2:3
+│   ├── covers.py                    # Composição tipográfica e build WebP de capas 2:3
 │   ├── md2epub.py / kindle_validator.py  # Compilador EPUB 3 e validador KDP
 │   ├── md2print.py / md2pdf.py      # Compilação Typst (impresso 14x21) e PDF editorial
 │   └── rag.py                       # Indexação e busca FTS5 BM25
@@ -75,6 +75,6 @@ Para garantir que IDs (`art_001`, `book_001`) consumidos pelo leitor **LeiaME** 
 - [`validator.py`](../scripts/validator.py) unifica a verificação de metadados YAML com o linter no comando `uv run openscimd validate --file ...` e bloqueia promoções inválidas em `promote`.
 
 ### 3. Exportação, Capas e RAG
-- **Capas**: `ai-cover` / `inject-text` / `build-covers` produzem variantes WebP responsivas (`1696×2528`, `1200×1789`, `1080×1610`).
+- **Capas**: arte de fundo 2:3 gerada por subagente multimodal; `compose-cover` (`inject-text`) e `build-covers` aplicam a tipografia canônica e produzem variantes WebP responsivas (`1696×2528`, `1200×1789`, `1080×1610`).
 - **EPUB & Impresso**: `build-epub` + `validate-kindle` geram e auditam EPUB 3 para KDP; `build-print` compila miolo e capa aberta via Typst (`scripts/templates/book_print.typ`).
 - **RAG Local**: `build-rag` e `search-rag` indexam seções semânticas em `data/openscimd_rag.sqlite` com `unicode61 remove_diacritics 2` e ranqueamento BM25.

@@ -128,10 +128,15 @@ Historical period human figures are permitted when appropriate. Strictly NO 3D b
 
 ## 5. Pipeline de Processamento de Arquivos
 
-Após a aprovação manual de cada capa:
-1. Salve o original em alta resolução em `assets/covers/originals/<slug>.png`.
-2. Gere as versões WebP responsivas otimizadas:
+O subagente multimodal (`image-generator`) gera **apenas** a arte de fundo 2:3 *full-bleed* sem texto, letras, bordas ou mockups 3D. A tipografia canônica e as versões WebP são aplicadas deterministicamente pela CLI local:
+
+1. Compor a tipografia editorial em `assets/covers/originals/<slug>.png` e gerar as versões WebP responsivas em um só comando:
+   ```bash
+   uv run openscimd compose-cover <caminho-da-arte> --slug <slug> --build
+   ```
+   *(Equivalente a `uv run openscimd inject-text <caminho-da-arte> --slug <slug>` seguido de `uv run openscimd build-covers --target <slug>.png --force`.)*
+2. Versões WebP responsivas geradas automaticamente:
    - `desktop/`: 1696 × 2528 px
    - `tablet/`: 1200 × 1789 px
    - `mobile/`: 1080 × 1610 px
-3. Atualize o status na tabela do [ROADMAP_COVERS.md](ROADMAP_COVERS.md).
+3. Inspecione visualmente `assets/covers/desktop/<slug>.webp` para validar legibilidade e ausência de artefatos, e atualize o status na tabela do [ROADMAP_COVERS.md](ROADMAP_COVERS.md).

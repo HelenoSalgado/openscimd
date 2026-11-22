@@ -54,9 +54,10 @@ Cada revista acadêmica do acervo possui uma assinatura cromática fixa para as 
 
 ---
 
-## 4. Pipeline de Saídas Responsivas (WebP)
+## 4. Pipeline de Composição e Saídas Responsivas (WebP)
 
-Para cada capa homologada em `assets/covers/originals/<slug>.jpg`:
+O subagente multimodal (`image-generator`) gera **apenas** a arte geométrica 2:3 de fundo sem texto. A tipografia editorial e as saídas WebP são geradas pela CLI local via `uv run openscimd compose-cover <caminho-da-arte> --slug <slug> --build` (alias de `inject-text`), produzindo `assets/covers/originals/<slug>.png` e:
 1. **Desktop**: `assets/covers/desktop/<slug>.webp` (`1696 × 2528 px`)
 2. **Tablet**: `assets/covers/tablet/<slug>.webp` (`1200 × 1789 px`)
 3. **Mobile**: `assets/covers/mobile/<slug>.webp` (`1080 × 1610 px`)
+4. Inspecione visualmente `assets/covers/desktop/<slug>.webp` antes da aprovação final.

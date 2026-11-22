@@ -11,7 +11,7 @@ Bem-vindo ao **OpenSciMD**, um repositório e ecossistema CLI concebido para ing
 - **Fluxo Seguro de Revisão (`start-review` / `promote`)**: Mantém `data/raw/` e `data/draft/` imutáveis, exige mesa de revisão ativa em `data/review/` com manifesto linha a linha `.audit.md` e só promove para `content/` após aprovação nos gates.
 - **Ledger Imutável de IDs (`validate-ids`)**: Garante estabilidade perpétua de `art_XXX` e `book_XXX` em `data/catalog-registry.json`.
 - **Enriquecimento Bibliográfico (`enrich`)**: Consulta APIs oficiais do Crossref e Zenodo via DOI.
-- **Compilação & Validação Multiformato**: EPUB 3 (`build-epub` + `validate-kindle`), livro impresso 14×21 cm via Typst (`build-print`), PDF editorial (`export-pdf`) e capas 2:3 responsivas (`ai-cover`, `inject-text`, `build-covers`).
+- **Compilação & Validação Multiformato**: EPUB 3 (`build-epub` + `validate-kindle`), livro impresso 14×21 cm via Typst (`build-print`), PDF editorial (`export-pdf`) e capas 2:3 responsivas (`compose-cover`, `inject-text`, `build-covers`).
 - **Motor RAG Local (`build-rag` / `search-rag`)**: Busca textual BM25 em SQLite FTS5 pronta para pesquisa offline e LLMs.
 
 ---
@@ -71,9 +71,9 @@ uv run openscimd validate-kindle "dist/content/books/platao/fedon.epub"
 uv run openscimd build-print "content/books/platao/fedon.md"
 uv run openscimd build-rag && uv run openscimd search-rag "Sócrates justiça" --ai
 
-# Capas (ver Design Systems em .agents/editorial/)
-uv run openscimd ai-cover <slug> --provider gemini
-uv run openscimd build-covers
+# Capas (arte 2:3 gerada por subagente multimodal seguindo .agents/editorial/)
+uv run openscimd compose-cover <arte_bruta.png> --slug <slug> --build
+uv run openscimd build-covers --target <slug>.png
 
 # Testes e rigor estático
 uv run ruff check .

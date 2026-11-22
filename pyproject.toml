@@ -13,7 +13,6 @@ dependencies = [
     "python-dotenv>=1.0.0",
     "beautifulsoup4>=4.15.0",
     "typst>=0.15.2",
-    "google-genai>=2.17.0",
 ]
 
 [project.optional-dependencies]
@@ -22,7 +21,6 @@ pipeline = [
     "torch>=2.13.0",
     "transformers>=5.15.1",
     "sentencepiece>=0.2.2",
-    "google-genai>=0.1.0",
 ]
 rag = [
     "chromadb>=0.5.0",
