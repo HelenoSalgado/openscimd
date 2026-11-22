@@ -1,6 +1,7 @@
 .env
-assets/covers/*
-!assets/covers/*.webp
+assets/covers/*.png
+assets/covers/*.jpeg
+assets/covers/*.jpg
 artfacts-saloppdf
 data/raw/
 data/draft/
@@ -13,5 +14,5 @@ build-cloudflare
 *.db
 dist/
 .pytest_cache
-
-
+.ruff_cache
+.mypy_cache
